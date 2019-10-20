@@ -1,0 +1,32 @@
+#!/bin/bash
+
+
+#
+# Clean the CSV file of historical elections of non-UTF-8 characters.
+#
+# Usage:  clean_history.sh <IN_FILE> > OUTFILE
+
+tail +2 $1 | sed -e 's/\xe0/à/g' \
+		-e 's/\xe1/á/g' \
+		-e 's/\xe2/â/g' \
+		-e 's/\xe7/ç/g' \
+		-e 's/\xe8/è/g' \
+		-e 's/\xe9/é/g' \
+		-e 's/\xea/ê/g' \
+		-e 's/\xeb/ë/g' \
+		-e 's/\xee/î/g' \
+		-e 's/\xef/ï/g' \
+		-e 's/\xc7/Ç/g' \
+		-e 's/\xc8/È/g' \
+		-e 's/\xc9/É/g' \
+		-e 's/\xc2/Â/g' \
+		-e 's/\xca/Ê/g' \
+		-e 's/\xcb/Ë/g' \
+		-e 's/\xce/Î/g' \
+		-e 's/\xd4/Ô/g' \
+		-e 's/\xf4/ô/g' \
+		-e 's/\xfc/ü/g' \
+		-e 's/\xcf/-/g' \
+		-e 's/\x81/-/g' \
+		-e 's/\x92/-/g' \
+		-e 's/NULL//g'

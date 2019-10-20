@@ -1,0 +1,39 @@
+#!/bin/bash
+
+
+#
+# Combine the individual zip files for each electoral district into a single file
+# for all of Canada.  Add the election number as the first field.
+# Strip out the header row.
+#
+
+# Usage:  ./bin/combine_files.sh <ELECTION_NUM> <CSV_FILES> > outfile
+#         ./bin/combine_files.sh 39 pollresults_resultatsbureau_canada_39/pollresults_resultatsbureau*.csv
+
+election=$1
+shift 1
+files=$@
+
+for f in ${files} 
+do
+	tail -n +2 ${f} | sed -e "s/^/${election},/" \
+		-e 's/\xe0/à/g' \
+		-e 's/\xe1/á/g' \
+		-e 's/\xe2/â/g' \
+		-e 's/\xe7/ç/g' \
+		-e 's/\xe8/è/g' \
+		-e 's/\xe9/é/g' \
+		-e 's/\xea/ê/g' \
+		-e 's/\xeb/ë/g' \
+		-e 's/\xee/î/g' \
+		-e 's/\xef/ï/g' \
+		-e 's/\xc8/È/g' \
+		-e 's/\xc9/É/g' \
+		-e 's/\xce/Î/g' \
+		-e 's/\xf4/ô/g' \
+		-e 's/\xfb/û/g' \
+		-e 's/\xfc/ü/g' \
+		-e 's/\x80/-/g' \
+		-e 's/\x94/ /g'
+done
+
