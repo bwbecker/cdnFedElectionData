@@ -43,9 +43,10 @@ work/history.csv: rawData/History_Federal_Electoral_Ridings.csv bin/clean_histor
 .rawRecentDataLoaded: .rawDbTablesCreated ${recentCSVs}
 	${PSQL} -c 'TRUNCATE raw_data.recent'
 	for f in ${recentCSVs} ; do \
-		echo "Loading $$f into the database."
+		echo "Loading $$f into the database." ; \
 		${PSQL} -c "\copy raw_data.recent from $$f (FORMAT csv)" ; \
 	done
+	${PSQL} -c "UPDATE raw_data.recent SET merge_with = NULL WHERE merge_with = ''"
 	touch $@
 
 .rawHistoryDataLoaded: .rawDbTablesCreated work/history.csv
