@@ -63,7 +63,7 @@ CREATE VIEW raw_data.cleaned_history AS (
 
       FROM dual_mbr_ed
            JOIN electoral_districts USING (election, prov_code, ed_name)
-                                        )
+                                        );
 
 
 
@@ -99,4 +99,21 @@ CREATE VIEW raw_data.cleaned_recent AS (
       FROM by_riding
            JOIN raw_data.provinces ON (left(ed_id::TEXT, 2) = raw_code)
            JOIN raw_data.party_names ON (cand_party_name = raw_name)
-                                       )
+                                       );
+
+
+DROP VIEW raw_data.cleaned_preliminary;
+CREATE VIEW raw_data.cleaned_preliminary AS (
+    SELECT 43 AS election
+         , prov_code
+         , ed_id
+         , ed_name
+         , trim(format('%s, %s %s', cand_last, cand_first, cand_middle)) AS cand_name
+         , party_name
+         , (cand_votes = (max(cand_votes) OVER (PARTITION BY ed_id))) AS cand_elected
+         , cand_votes
+         , FALSE AS acclaimed
+      FROM raw_data.preliminary
+           LEFT JOIN raw_data.party_names ON (cand_party = raw_name)
+           LEFT JOIN raw_data.provinces ON (left(ed_id::TEXT, 2) = raw_code)
+                                            );

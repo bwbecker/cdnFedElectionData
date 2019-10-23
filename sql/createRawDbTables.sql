@@ -4,7 +4,7 @@
 
 CREATE SCHEMA IF NOT EXISTS raw_data;
 
-DROP TABLE IF EXISTS raw_data.recent;
+DROP TABLE IF EXISTS raw_data.recent CASCADE;
 CREATE TABLE raw_data.recent (
 	election INT NOT NULL,
 	ed_id	INT NOT NULL,
@@ -28,7 +28,7 @@ CREATE TABLE raw_data.recent (
 );
 
 
-DROP TABLE IF EXISTS raw_data.history;
+DROP TABLE IF EXISTS raw_data.history CASCADE;
 CREATE TABLE raw_data.history (
 	election_date TEXT NOT NULL,
 	election_type TEXT NOT NULL,
@@ -45,9 +45,26 @@ CREATE TABLE raw_data.history (
 	cand_elected BOOLEAN NOT NULL
 );
 
+DROP TABLE IF EXISTS raw_data.preliminary CASCADE;
+CREATE TABLE raw_data.preliminary (
+	ed_id INT NOT NULL,
+	ed_name TEXT NOT NULL,
+	ed_name_fr TEXT NOT NULL,
+	result_type TEXT NOT NULL,
+	result_type_fr TEXT NOT NULL,
+	cand_last TEXT NOT NULL,
+	cand_middle TEXT,
+	cand_first TEXT NOT NULL,
+	cand_party TEXT NOT NULL,
+	cand_party_fr TEXT NOT NULL,
+	cand_votes INT NOT NULL,
+	cand_votes_pct REAL NOT NULL,
+	rejected_ballots INT NOT NULL,
+	total_ballots_cast INT NOT NULL
+);
 
 
-DROP TABLE raw_data.party_names;
+DROP TABLE raw_data.party_names CASCADE;
 CREATE TABLE raw_data.party_names (
     raw_name   TEXT NOT NULL,
     party_name TEXT NOT NULL,
@@ -65,6 +82,8 @@ VALUES ('Abolitionist Party of Canada', 'Abolitionist Party of Canada'),
        ('Animal Alliance Environment Voters Party of Canada', 'Animal Alliance Environment Voters Party of Canada'),
        ('Animal Alliance/Environment Voters', 'Animal Alliance Environment Voters Party of Canada'),
 
+       ('Animal Protection Party', 'Animal Protection Party'),
+
        ('Anti-Confederate', 'Anti-Confederate'),
        ('Bloc Québécois', 'Bloc Québécois'),
        ('Bloc populaire canadien', 'Bloc populaire canadien'),
@@ -75,6 +94,8 @@ VALUES ('Abolitionist Party of Canada', 'Abolitionist Party of Canada'),
        ('CAP', 'Canadian Action Party'),
 
        ('Canadian Alliance', 'Canadian Alliance'),
+
+       ($$CFF - Canada's Fourth Front$$, $$CFF - Canada's Fourth Front$$),
 
        ('Christian Heritage Party', 'Christian Heritage Party'),
        ('Christian Heritage Party of Canada', 'Christian Heritage Party'),
@@ -146,6 +167,7 @@ VALUES ('Abolitionist Party of Canada', 'Abolitionist Party of Canada'),
        ('Liberal Conservative Coalition', 'Independent'),
        ('Liberal Labour Progressive', 'Independent'),
        ('Liberal Protectionist', 'Independent'),
+       ('National Citizens Alliance', 'National Citizens Alliance'),
        ('National Credit Control', 'Independent'),
        ('National Labour', 'Independent'),
        ('National Liberal Progressive', 'Independent'),
@@ -175,11 +197,13 @@ VALUES ('Abolitionist Party of Canada', 'Abolitionist Party of Canada'),
        ('Seniors Party', 'Independent'),
        ('Social Credit-National Unity', 'Independent'),
        ('Socialist Labour', 'Independent'),
+       ('Stop Climate Change', 'Stop Climate Change'),
        ('Technocrat', 'Independent'),
        ('The Bridge', 'Independent'),
        ('Trades Union', 'Independent'),
        ('United Party', 'Independent'),
        ('United Party of Canada', 'Independent'),
+       ('UPC', 'Independent'),
        ('United Progressive', 'Independent'),
        ('United Reform', 'Independent'),
        ('United Reform Movement', 'Independent'),
@@ -209,6 +233,7 @@ VALUES ('Abolitionist Party of Canada', 'Abolitionist Party of Canada'),
 
        ('Marxist-Leninist', 'Marxist-Leninist Party'),
        ('Marxist-Leninist Party', 'Marxist-Leninist Party'),
+       ('ML', 'Marxist-Leninist Party'),
 
        ('McCarthyite', 'McCarthyite'),
 
@@ -226,6 +251,7 @@ VALUES ('Abolitionist Party of Canada', 'Abolitionist Party of Canada'),
        ('Party for the Commonwealth of Canada', 'Party for the Commonwealth of Canada'),
        ('Patrons of Industry', 'Patrons of Industry'),
 
+       ($$People's Party$$, $$People's Party$$),
 
        ('Pirate', 'Pirate Party of Canada'),
        ('Pirate Party', 'Pirate Party of Canada'),
@@ -237,6 +263,8 @@ VALUES ('Abolitionist Party of Canada', 'Abolitionist Party of Canada'),
        ('Progressive Conservative', 'Progressive Conservative Party'),
        ('PC Party', 'Progressive Conservative Party'),
 
+       ($$Pour l'Indépendance du Québec$$, $$Pour l'Indépendance du Québec$$),
+
        ('Ralliement Créditiste', 'Ralliement Créditiste'),
        ('Reconstruction Party', 'Reconstruction Party'),
 
@@ -246,6 +274,7 @@ VALUES ('Abolitionist Party of Canada', 'Abolitionist Party of Canada'),
        ('Rhinoceros', 'Rhinoceros'),
        ('neorhino.ca', 'Rhinoceros'),
        ('Parti Rhinocéros', 'Rhinoceros'),
+       ('Parti Rhinocéros Party', 'Rhinoceros'),
 
        ('Social Credit Party of Canada', 'Social Credit Party of Canada'),
        ('Socialist', 'Socialist'),
@@ -260,11 +289,13 @@ VALUES ('Abolitionist Party of Canada', 'Abolitionist Party of Canada'),
 
        ('Unknown', 'Unknown'),
 
+       ('VCP', 'VCP'),
+
        ('WBP', 'Western Block Party'),
        ('Western Block Party', 'Western Block Party')
        ;
 
-DROP TABLE IF EXISTS raw_data.provinces;
+DROP TABLE IF EXISTS raw_data.provinces CASCADE;
 CREATE TABLE raw_data.provinces (
     raw_code  TEXT NOT NULL,
     prov_code TEXT NOT NULL,

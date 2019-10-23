@@ -8,6 +8,10 @@ raw42 = $(wildcard rawData/election_42/pollresults*)
 recentElections := 39 40 41 42
 recentCSVs = $(foreach e,$(recentElections),work/election_$(e).csv)
 
+preliminary = rawData/preliminary_43.csv
+
+
+all:	.rawRecentDataLoaded .rawHistoryDataLoaded .rawPreliminaryDataLoaded
 #
 # The tool to connect to the Postgresql database.  You'll need to define a service
 # with your own credentials in the .pg_service.conf file.
@@ -32,6 +36,10 @@ work/election_%.csv: $${raw%}  bin/clean_combine_polls
 work/history.csv: rawData/History_Federal_Electoral_Ridings.csv bin/clean_history
 	bin/clean_history $< > $@
 
+work/preliminary.csv: ${preliminary}
+	grep -E -e "[0-9]{5}\t.*" $< > $@
+
+
 
 #
 # Create the database tables we need to load the raw data into the database.
@@ -53,6 +61,9 @@ work/history.csv: rawData/History_Federal_Electoral_Ridings.csv bin/clean_histor
 	${PSQL} -c 'TRUNCATE raw_data.history' \
 			-c "\copy raw_data.history from work/history.csv (FORMAT csv)"
 	touch $@
+
+.rawPreliminaryDataLoaded: .rawDbTablesCreated work/preliminary.csv
+	${PSQL} -c "\copy raw_data.preliminary from work/preliminary.csv"
 
 clean:
 	-rm work/*

@@ -11,6 +11,8 @@ most of it retrieved on 2019-10-18.  We're using two different formats:
 * For elections 39 - 42 (and hopefully 43 and later) there is data to the
   polling station level.  
 * For elections 1 - 40 there is one large CSV file with data to the riding level.
+* For election 43 (just held at the time of writing) there are preliminary
+  results from [Elections Canada](https://enr.elections.ca/DownloadResults.aspx).
 
 To harmonize this, we drop the poll-by-poll data and go to just the riding level.
 
