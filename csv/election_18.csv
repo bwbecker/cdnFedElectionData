@@ -502,7 +502,7 @@ election_id,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_party_name,party_
 18,ON,63,ROSEDALE,8319,"CLARKE, Harry Gladstone",Conservative,Con,t,f,9491,1
 18,ON,63,ROSEDALE,8322,"URQUHART, George Alexander",Liberal,Lib,f,f,8306,2
 18,ON,63,ROSEDALE,8320,"DENNISON, William",Co-operative Commonwealth Federation,CCF,f,f,2765,3
-18,ON,63,ROSEDALE,8321,"WATTS, Egbert Madden ""Bert""",Reconstruction Party,ReconP,f,f,2277,4
+18,ON,63,ROSEDALE,8321,"WATTS, Egbert Madden Bert",Reconstruction Party,ReconP,f,f,2277,4
 18,ON,63,ROSEDALE,8318,"SCARLETT, Samuel",Communist Party of Canada,Com,f,f,733,5
 18,ON,64,RUSSELL,8324,"GOULET, Alfred",Liberal,Lib,t,f,5041,1
 18,ON,64,RUSSELL,8326,"BOOTH, John Rudolphus",Independent Liberal,Ind,f,f,2897,2
@@ -793,7 +793,7 @@ election_id,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_party_name,party_
 18,QC,64,VERDUN,8610,"WERMENLINGER, Edgar-Jules",Conservative,Con,t,f,5602,1
 18,QC,64,VERDUN,8617,"MOONEY, Georges Stuart",Co-operative Commonwealth Federation,CCF,f,f,4706,2
 18,QC,64,VERDUN,8618,"FERLAND, Hervé",Verdun,Ind,f,f,4214,3
-18,QC,64,VERDUN,8619,"LESSARD, William ""Willie""",Labour,Labour,f,f,3833,4
+18,QC,64,VERDUN,8619,"LESSARD, William Willie",Labour,Labour,f,f,3833,4
 18,QC,64,VERDUN,8611,"GUÉRIN, Thomas",Independent Liberal,Ind,f,f,2731,5
 18,QC,64,VERDUN,8616,"ALLARD, Casimir",Independent Liberal,Ind,f,f,2065,6
 18,QC,64,VERDUN,8612,"DANSEREAU, Camille",Reconstruction Party,ReconP,f,f,1266,7

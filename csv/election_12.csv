@@ -218,7 +218,7 @@ election_id,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_party_name,party_
 12,ON,48,NORTHUMBERLAND EAST,4806,"WALKER, Henry Joseph",Conservative,Con,t,f,2518,1
 12,ON,48,NORTHUMBERLAND EAST,4807,"WEATHERSON, Alexander",Liberal,Lib,f,f,2127,2
 12,ON,49,NORTHUMBERLAND WEST,4808,"MUNSON, Charles Arthur",Conservative,Con,t,f,1426,1
-12,ON,49,NORTHUMBERLAND WEST,4809,"MCCOLL, John ""B.""",Liberal,Lib,f,f,1420,2
+12,ON,49,NORTHUMBERLAND WEST,4809,"MCCOLL, John B.",Liberal,Lib,f,f,1420,2
 12,ON,50,ONTARIO NORTH,4811,"SHARPE, Samuel Simpson",Conservative,Con,t,f,2130,1
 12,ON,50,ONTARIO NORTH,4810,"MOWAT, Herbert Macdonald",Liberal,Lib,f,f,1572,2
 12,ON,51,ONTARIO SOUTH,4812,"SMITH, William",Conservative,Con,t,f,2917,1
@@ -380,7 +380,7 @@ election_id,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_party_name,party_
 12,QC,37,NICOLET,4968,"LAMARCHE, Paul-Émile",Conservative,Con,t,f,2805,1
 12,QC,37,NICOLET,4969,"TURCOTTE, Gustave-Adolphe",Liberal,Lib,f,f,2721,2
 12,QC,38,PONTIAC,4970,"BRABAZON, Gerald Hugh",Conservative,Con,t,f,2059,1
-12,QC,38,PONTIAC,4971,"CAHILL, Frank ""S.""",Liberal,Lib,f,f,1393,2
+12,QC,38,PONTIAC,4971,"CAHILL, Frank S.",Liberal,Lib,f,f,1393,2
 12,QC,38,PONTIAC,4972,"HODGINS, George Frederick",Liberal,Lib,f,f,1166,3
 12,QC,39,PORTNEUF,4973,"DELISLE, Michel-Siméon",Liberal,Lib,t,f,2868,1
 12,QC,39,PORTNEUF,4974,"GRENIER, Honoré",Conservative,Con,f,f,2105,2
@@ -401,7 +401,7 @@ election_id,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_party_name,party_
 12,QC,47,ROUVILLE,4989,"DUBREUIL, Hormidas",Conservative,Con,f,f,1189,2
 12,QC,48,SHEFFORD,4990,"BOIVIN, George Henri",Liberal,Lib,t,f,2271,1
 12,QC,48,SHEFFORD,4991,"DAVIDSON, James",Conservative,Con,f,f,2245,2
-12,QC,49,SHERBROOKE (TOWN OF),4992,"MCREA, Francis ""N"".",Liberal,Lib,t,f,2321,1
+12,QC,49,SHERBROOKE (TOWN OF),4992,"MCREA, Francis N.",Liberal,Lib,t,f,2321,1
 12,QC,49,SHERBROOKE (TOWN OF),4993,"WHITE, Charles Dickinson",Conservative,Con,f,f,2282,2
 12,QC,50,SOULANGES,4994,"LAURIER, Right Hon. Sir Wilfrid",Liberal,Lib,t,f,1045,1
 12,QC,50,SOULANGES,4995,"LORTIE, Joseph-Arthur",Conservative,Con,f,f,903,2
@@ -437,7 +437,7 @@ election_id,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_party_name,party_
 12,QC,65,YAMASKA,5026,"MONDOU, Albéric-Archie",Conservative,Con,t,f,1870,1
 12,QC,65,YAMASKA,5025,"GLADU, Joseph-Ernest-Oscar",Liberal,Lib,f,f,1777,2
 12,SK,1,ASSINIBOIA,5028,"TURRIFF, John Gillanders",Liberal,Lib,t,f,5804,1
-12,SK,1,ASSINIBOIA,5027,"SMITH, Christopher ""C"".",Conservative,Con,f,f,3578,2
+12,SK,1,ASSINIBOIA,5027,"SMITH, Christopher C.",Conservative,Con,f,f,3578,2
 12,SK,2,BATTLEFORD,5030,"CHAMPAGNE, Albert",Liberal,Lib,t,f,5453,1
 12,SK,2,BATTLEFORD,5029,"HOWELL, Marshall Job",Conservative,Con,f,f,3522,2
 12,SK,3,HUMBOLDT,5031,"NEELY, David Bradley",Liberal,Lib,t,f,7265,1

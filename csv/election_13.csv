@@ -398,7 +398,7 @@ election_id,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_party_name,party_
 13,QC,36,MONTMAGNY,5447,"BLAIS, Joseph-George",Government,Govt,f,f,36,3
 13,QC,37,MÉGANTIC,5448,"PACAUD, Lucien Turcotte",Opposition,Opp,t,t,,1
 13,QC,38,NICOLET,5449,"TRAHAN, Arthur",Opposition,Opp,t,t,,1
-13,QC,39,PONTIAC,5451,"CAHILL, Frank ""S.""",Opposition,Opp,t,f,5548,1
+13,QC,39,PONTIAC,5451,"CAHILL, Frank S.",Opposition,Opp,t,f,5548,1
 13,QC,39,PONTIAC,5450,"BASTIEN, Joseph David",Government,Govt,f,f,1611,2
 13,QC,40,PORTNEUF,5452,"DELISLE, Michel-Siméon",Opposition,Opp,t,t,,1
 13,QC,41,QUEBEC COUNTY,5453,"LAVIGUEUR, Henri Edgar",Opposition,Opp,t,f,4799,1
@@ -410,12 +410,12 @@ election_id,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_party_name,party_
 13,QC,44,QUEBEC WEST,5460,"PARENT, George",Opposition,Opp,t,f,6392,1
 13,QC,44,QUEBEC WEST,5459,"CHASSÉ, Henri",Government,Govt,f,f,460,2
 13,QC,45,RICHELIEU,5461,"CARDIN, Pierre-Joseph-Arthur",Opposition,Opp,t,f,3355,1
-13,QC,45,RICHELIEU,5462,"MORGAN, Edward André ""D.""",Government,Govt,f,f,834,2
+13,QC,45,RICHELIEU,5462,"MORGAN, Edward André D.",Government,Govt,f,f,834,2
 13,QC,46,RICHMOND--WOLFE,5463,"TOBIN, Edmund William",Opposition,Opp,t,f,6448,1
 13,QC,46,RICHMOND--WOLFE,5464,"CROMBIE, Marcus George",Government,Govt,f,f,1634,2
 13,QC,47,RIMOUSKI,5465,"D'ANJOU, Joseph-Émile-Stanislas-Émmanuel",Opposition,Opp,t,t,,1
 13,QC,48,SHEFFORD,5466,"BOIVIN, George Henri",Opposition,Opp,t,t,,1
-13,QC,49,SHERBROOKE (TOWN OF),5467,"MCREA, Francis ""N"".",Opposition,Opp,t,f,4151,1
+13,QC,49,SHERBROOKE (TOWN OF),5467,"MCREA, Francis N.",Opposition,Opp,t,f,4151,1
 13,QC,49,SHERBROOKE (TOWN OF),5468,"DAVIDSON, William Stewart",Government,Govt,f,f,3409,2
 13,QC,50,ST. ANN,5471,"DOHERTY, Hon. Charles Joseph",Government,Govt,t,f,8346,1
 13,QC,50,ST. ANN,5470,"GUÉRIN, James John Edmund",Opposition,Opp,f,f,4416,2

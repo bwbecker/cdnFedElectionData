@@ -3,7 +3,7 @@
  -- Assign candidate IDs.
  -- Assign place (1st place, 2nd place, etc)
  */
-DROP TABLE IF EXISTS _elections.elections;
+DROP TABLE IF EXISTS _elections.elections CASCADE;
 CREATE TABLE _elections.elections AS (
       WITH combined AS (
           SELECT *
@@ -89,4 +89,44 @@ SELECT *
  WHERE election_id = election_id_p
     OR election_id_p = 0
  ORDER BY election_id, prov_code, ed_name, place
+$$;
+
+
+
+/**
+The forllowing is for Byron's simulation software.
+*/
+CREATE OR REPLACE FUNCTION _elections.json_candidates(election_id_p INT
+                                                     ) RETURNS JSON
+    LANGUAGE SQL
+AS $$
+SELECT json_agg(
+               json_build_object('ridingId', ed_id,
+                                 'name', cand_name,
+                                 'party', party_code,
+                                 'rwIncumbent', FALSE,
+                                 'rwElected', elected,
+                                 'rwVotes', votes)
+               ORDER BY election_id, prov_code, ed_id, cand_name
+           ) AS json
+  FROM _elections.elections
+ WHERE election_id = election_id_p
+$$;
+
+
+CREATE OR REPLACE FUNCTION _elections.json_ridings(election_id_p INT
+                                                     ) RETURNS JSON
+    LANGUAGE SQL
+AS $$
+SELECT json_agg(
+               json_build_object('ridingId', ed_id,
+                                 'prov', prov_code,
+                                 'name', ed_name,
+                                 'pop', 0,
+                                 'area', 0
+                   )
+               ORDER BY election_id, prov_code, ed_id
+           ) AS json
+  FROM _elections.elections
+ WHERE election_id = election_id_p
 $$;

@@ -18,8 +18,10 @@ csvs = $(foreach e,${election_nums},csv/election_${e}.csv) \
 		csv/parties.csv \
 		csv/provinces.csv
 
+jsons = $(foreach e,${election_nums},json/candidates-${e}.json) \
+		$(foreach e,${election_nums},json/ridings-${e}.json) \
 
-all:	${csvs}
+all:	${csvs} ${jsons}
 
 #
 # The tool to connect to the Postgresql database.  You'll need to define a service
@@ -66,11 +68,16 @@ csv/parties.csv: .rawDataLoaded
 csv/provinces.csv: .rawDataLoaded
 	${PSQL} -c "\copy (select * from _elections.provinces order by prov_name) to $@ (FORMAT csv, header)"
 
+json/candidates-%.json:  .rawDataLoaded
+	${PSQL} -c "\copy (SELECT * FROM _elections.json_candidates($*)) to stdout" | json_reformat > $@
 
+json/ridings-%.json: .rawDataLoaded
+	${PSQL} -c "\copy (SELECT * FROM _elections.json_ridings($*)) to stdout" | json_reformat > $@
 
 clean:
 	-rm work/*
 	-rm .rawDataLoaded
 	-rm csv/*
+	-rm json/*
 
 # $(filter-out clean_combine_polls.sh,$+)

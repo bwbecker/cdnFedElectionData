@@ -1347,11 +1347,11 @@ election_id,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_party_name,party_
 37,QC,15,CHAMBLY,31231,"Paquette, Gaétan",Canadian Alliance,CAlli,f,f,2780,4
 37,QC,15,CHAMBLY,31230,"Duclos, Sébastien",Marijuana Party,Marij,f,f,1751,5
 37,QC,15,CHAMBLY,31232,"O'Toole, Darren",New Democratic Party,NDP,f,f,769,6
-37,QC,16,CHAMPLAIN,31237,"Gagnon, Marcel",Bloc Québécois,Bloc,t,f,20423,1
-37,QC,16,CHAMPLAIN,31236,"Boulet, Julie",Liberal,Lib,f,f,20408,2
+37,QC,16,CHAMPLAIN,31234,"Gagnon, Marcel",Bloc Québécois,Bloc,t,f,20423,1
+37,QC,16,CHAMPLAIN,31237,"Boulet, Julie",Liberal,Lib,f,f,20408,2
 37,QC,16,CHAMPLAIN,31235,"Labranche, Eric",Canadian Alliance,CAlli,f,f,2599,3
 37,QC,16,CHAMPLAIN,31238,"Giroux, Paul",Marijuana Party,Marij,f,f,1020,4
-37,QC,16,CHAMPLAIN,31234,"Toone, Philippe",New Democratic Party,NDP,f,f,672,5
+37,QC,16,CHAMPLAIN,31236,"Toone, Philippe",New Democratic Party,NDP,f,f,672,5
 37,QC,17,CHARLESBOURG--JACQUES-CARTIER,31239,"Marceau, Richard",Bloc Québécois,Bloc,t,f,21867,1
 37,QC,17,CHARLESBOURG--JACQUES-CARTIER,31242,"Thivierge, Isabelle",Liberal,Lib,f,f,21045,2
 37,QC,17,CHARLESBOURG--JACQUES-CARTIER,31243,"Latulippe, Gérard",Canadian Alliance,CAlli,f,f,8801,3

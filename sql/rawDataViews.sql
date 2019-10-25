@@ -8,8 +8,8 @@ CREATE VIEW _work.cleaned_history AS (
       WITH cleaned AS (
           SELECT election_id
                , prov_code
-               , ed_name
-               , trim(format('%s, %s', cand_last, cand_first)) AS cand_name
+               , trim(ed_name) AS ed_name
+               , trim(format('%s, %s', cand_last, replace(cand_first, '"', ''))) AS cand_name
                , cand_raw_party_name
                , party_code
                , elected
@@ -88,7 +88,8 @@ CREATE VIEW _work.cleaned_recent AS (
 
       WITH filtered AS (
           SELECT election_id
-               , ed_id, ed_name
+               , ed_id
+               , trim(ed_name) AS ed_name
                , trim(format('%s, %s %s', cand_last, cand_first, cand_middle)) AS cand_name
                , cand_raw_party_name
                , elected
@@ -114,7 +115,7 @@ CREATE VIEW _work.cleaned_recent AS (
     SELECT election_id
          , prov_code
          , ed_id
-         , ed_name
+         , trim(ed_name)
          , cand_name
          , cand_raw_party_name
          , party_code
@@ -135,7 +136,7 @@ CREATE VIEW _work.cleaned_preliminary AS (
     SELECT 43 AS election_id
          , prov_code
          , ed_id
-         , ed_name
+         , trim(ed_name) AS ed_name
          , trim(format('%s, %s %s', cand_last, cand_first, cand_middle)) AS cand_name
          , cand_raw_party_name
          , party_code
