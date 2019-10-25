@@ -10,14 +10,14 @@ CREATE VIEW _work.cleaned_history AS (
                , prov_code
                , ed_name
                , trim(format('%s, %s', cand_last, cand_first)) AS cand_name
-               , cand_party_name AS cand_raw_party_name
-               , party_name AS cand_party_name
+               , cand_raw_party_name
+               , party_code
                , elected
                , CASE WHEN votes_raw = 'accl.' THEN NULL ELSE votes_raw::INT END AS votes
                , votes_raw = 'accl.' AS acclaimed
             FROM _work.history
-                 LEFT JOIN _work.party_name_lookup ON (cand_party_name = raw_name)
-                 LEFT JOIN _work.prov_lookup ON (province = raw_code)
+                 LEFT JOIN _work.party_name_lookup ON (cand_raw_party_name = raw_party_name)
+                 LEFT JOIN _work.prov_lookup ON (province = raw_prov_code)
            WHERE election_type = 'Gen'
              AND election_id < 39
           --ORDER BY election_id, province, ed_name, election_type, cand_last
@@ -35,7 +35,7 @@ CREATE VIEW _work.cleaned_history AS (
                    END AS ed_name
                     , cand_name
                     , cand_raw_party_name
-                    , cand_party_name
+                    , party_code
                     , elected
                     , votes
                     , acclaimed
@@ -43,68 +43,92 @@ CREATE VIEW _work.cleaned_history AS (
                           SELECT *
                                , count(nullif(elected, FALSE))
                                  OVER (PARTITION BY election_id, prov_code, ed_name) AS dual_mbr_flag
-                               , row_number() OVER (PARTITION BY election_id, prov_code, ed_name, NOT elected) %
-                                 2 +
-                                 1 AS ed_suffix
+                               , row_number()
+                                 OVER (PARTITION BY election_id, prov_code, ed_name, NOT elected) % 2 + 1 AS ed_suffix
                             FROM cleaned
                       ) AS foo
-               --ORDER BY election_id, prov_code, ed_name, elected
                           ),
 
            -- Generate an electoral district id for each district
            electoral_districts AS (
-               SELECT *, row_number() OVER (PARTITION BY election_id, prov_code ORDER BY ed_name) AS ed_id
+               SELECT *
+                    , row_number() OVER (PARTITION BY election_id, prov_code ORDER BY ed_name) AS ed_id
                  FROM (
                           SELECT DISTINCT ON (election_id, prov_code, ed_name) election_id, prov_code, ed_name
                             FROM dual_mbr_ed
                       ) AS foo
                                   )
 
-    SELECT election_id,
-        prov_code,
-        ed_id,
-        ed_name, cand_name, cand_raw_party_name, cand_party_name, elected, votes, acclaimed
+    SELECT election_id
+         , prov_code
+         , ed_id
+         , ed_name
+         , cand_name
+         , cand_raw_party_name
+         , party_code
+         , elected
+         , votes
+         , acclaimed
 
       FROM dual_mbr_ed
            LEFT JOIN electoral_districts USING (election_id, prov_code, ed_name)
-                                        );
+                                     );
 
+
+/*
+Clean the recent elections:
+-- Filter out irrelevant rows
+-- Consolidate poll-level detail to riding-level detail
+-- Assign province code
+-- Assign party code
+*/
 
 DROP VIEW IF EXISTS _work.cleaned_recent;
 CREATE VIEW _work.cleaned_recent AS (
 
       WITH filtered AS (
-          SELECT election_id, ed_id, ed_name,
-              trim(format('%s, %s %s', cand_last, cand_first, cand_middle)) AS cand_name,
-              cand_party_name,
-              cand_incumbent -- ???
-               ,
-              elected,
-              votes
+          SELECT election_id
+               , ed_id, ed_name
+               , trim(format('%s, %s %s', cand_last, cand_first, cand_middle)) AS cand_name
+               , cand_raw_party_name
+               , elected
+               , votes
             FROM _work.recent
            WHERE NOT poll_void     -- all void polls have 0 votes
              AND NOT poll_not_held -- all 0 votes
              AND merge_with IS NULL -- all 0 votes
                        ),
            by_riding AS (
-               SELECT election_id, ed_id, ed_name, cand_name, cand_party_name, cand_incumbent, elected
+               SELECT election_id
+                    , ed_id
+                    , ed_name
+                    , cand_name
+                    , cand_raw_party_name
+                    , elected
                     , sum(votes) AS votes
                  FROM filtered
-                GROUP BY election_id, ed_id, ed_name, cand_name, cand_party_name, cand_incumbent, elected
+                GROUP BY election_id, ed_id, ed_name, cand_name, cand_raw_party_name, elected
                         )
 
 
-    SELECT election_id,
-        prov_code,
-        ed_id, ed_name, cand_name
-         , cand_party_name AS cand_raw_party_name
-         , party_name AS cand_party_name
-         , elected, votes, FALSE AS acclaimed
+    SELECT election_id
+         , prov_code
+         , ed_id
+         , ed_name
+         , cand_name
+         , cand_raw_party_name
+         , party_code
+         , elected
+         , votes
+         , FALSE AS acclaimed
       FROM by_riding
-           LEFT JOIN _work.prov_lookup ON (left(ed_id::TEXT, 2) = raw_code)
-           LEFT JOIN _work.party_name_lookup ON (cand_party_name = raw_name)
-                                       );
-
+           LEFT JOIN _work.prov_lookup ON (left(ed_id::TEXT, 2) = raw_prov_code)
+           LEFT JOIN _work.party_name_lookup ON (cand_raw_party_name = raw_party_name)
+                                    );
+/*
+-- Assign province code
+-- Assign party code
+*/
 
 DROP VIEW IF EXISTS _work.cleaned_preliminary;
 CREATE VIEW _work.cleaned_preliminary AS (
@@ -113,12 +137,12 @@ CREATE VIEW _work.cleaned_preliminary AS (
          , ed_id
          , ed_name
          , trim(format('%s, %s %s', cand_last, cand_first, cand_middle)) AS cand_name
-         , cand_party_name AS cand_raw_party_name
-         , party_name AS cand_party_name
+         , cand_raw_party_name
+         , party_code
          , (votes = (max(votes) OVER (PARTITION BY ed_id))) AS elected
          , votes
          , FALSE AS acclaimed
       FROM _work.preliminary
-           LEFT JOIN _work.party_name_lookup ON (cand_party_name = raw_name)
-           LEFT JOIN _work.prov_lookup ON (left(ed_id::TEXT, 2) = raw_code)
-                                            );
+           LEFT JOIN _work.party_name_lookup ON (cand_raw_party_name = raw_party_name)
+           LEFT JOIN _work.prov_lookup ON (left(ed_id::TEXT, 2) = raw_prov_code)
+                                         );

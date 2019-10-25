@@ -1,4 +1,8 @@
-
+/*
+ -- Combine the cleaned working tables for the three kinds of input data into a single table.
+ -- Assign candidate IDs.
+ -- Assign place (1st place, 2nd place, etc)
+ */
 DROP TABLE IF EXISTS _elections.elections;
 CREATE TABLE _elections.elections AS (
       WITH combined AS (
@@ -20,37 +24,45 @@ CREATE TABLE _elections.elections AS (
            candidates AS (
                SELECT DISTINCT ON (election_id, prov_code
                    , ed_id, votes, cand_name
-                   , cand_party_name) election_id
-                                    , prov_code, ed_id
-                                    ,
-                           row_number()
-                           OVER () AS cand_id
-                                    , rank() OVER (PARTITION BY election_id, ed_id ORDER BY votes DESC) AS place
-                                    , cand_name
-                                    , cand_party_name
+                   , cand_raw_party_name) election_id
+                                        , prov_code
+                                        , ed_id
+                                        , row_number()
+                                          OVER () AS cand_id
+                                        , rank() OVER (PARTITION BY election_id, prov_code, ed_id ORDER BY votes DESC) AS place
+                                        , cand_name
+                                        , cand_raw_party_name
                  FROM combined
-
                          )
-    SELECT election_id, prov_code, ed_id, ed_name, cand_id, cand_name, cand_party_name, cand_raw_party_name
+    SELECT election_id
+         , prov_code
+         , ed_id
+         , ed_name
+         , cand_id
+         , cand_name
+         , cand_raw_party_name
+         , party_code
          , elected
-         , acclaimed, votes, place
+         , acclaimed
+         , votes
+         , place
       FROM combined
-           LEFT JOIN candidates USING (election_id, prov_code, ed_id, cand_name, cand_party_name)
-                                   )
+           LEFT JOIN candidates USING (election_id, prov_code, ed_id, cand_name, cand_raw_party_name)
+                                     )
 ;
 
 
 CREATE UNIQUE INDEX elections_pk ON _elections.elections(
-                                                       election_id, prov_code, ed_id, cand_id
+                                                         election_id, prov_code, ed_id, cand_id
     );
 
 
 
 DROP TABLE _elections.provinces;
 CREATE TABLE _elections.provinces AS (
-    SELECT prov_code, raw_code AS prov_name
+    SELECT prov_code, raw_prov_code AS prov_name
       FROM _work.prov_lookup
-     WHERE raw_code !~ '[0-9]+'
+     WHERE raw_prov_code !~ '[0-9]+'
      ORDER BY prov_code
                                      );
 
@@ -58,3 +70,23 @@ CREATE TABLE _elections.provinces AS (
 CREATE UNIQUE INDEX provinces_pk ON _elections.provinces(
                                                          prov_code
     );
+
+
+
+/*
+A function to generate CSVs in a common format and order.
+Pass 0 to get all elections.
+*/
+DROP FUNCTION _elections.csv(election_id_p INTEGER
+                            );
+CREATE OR REPLACE FUNCTION _elections.csv(election_id_p INT
+                                         )
+    RETURNS SETOF _elections.ELECTIONS
+    LANGUAGE SQL
+AS $$
+SELECT *
+  FROM _elections.elections
+ WHERE election_id = election_id_p
+    OR election_id_p = 0
+ ORDER BY prov_code, ed_name, place
+$$;
