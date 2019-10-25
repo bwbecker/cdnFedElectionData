@@ -18,7 +18,7 @@ the repository.
 open the zip file, and then find the CSV files in the `csv` directory.
 1. You can click on the `csv` link and then on the file you want.  Then right-click
 the "Raw" button, and select "Save file as...".  Change the file name extension
-to ".csv" and save.  But this is tediuos unless all your're after is the
+to ".csv" and save.  But this is tediuos unless all you're after is the
 one big file.
 
 ## Data Format
@@ -118,9 +118,9 @@ several steps:
 data into appropriate tables, no modifications to the data.
 1. Create a view for each of the above tables that "cleans" the data.  In
 general, this includes:
-  1. Filtering out unneeded records.
-  1. Omitting unneeded columns.
-  1. Synthesizing some columns such as ed_id (electoral district id).
-  1. Normalizing party information and province codes.
+    1. Filtering out unneeded records.
+    1. Omitting unneeded columns.
+    1. Synthesizing some columns such as ed_id (electoral district id).
+    1. Normalizing party information and province codes.
 1. Create the final tables in the `_elections` schema.
 1. Extracting the CSV files.
