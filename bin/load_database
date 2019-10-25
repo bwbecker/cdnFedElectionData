@@ -1,0 +1,50 @@
+#!/bin/bash
+
+
+# Load the database with the data.
+# Create the views.
+
+
+PSQL="psql service=esim"
+
+${PSQL} -c "CREATE SCHEMA IF NOT EXISTS _work;"
+${PSQL} -c "CREATE SCHEMA IF NOT EXISTS _elections;"
+
+
+echo "\n\nCreating raw DB tables"
+${PSQL} < sql/createRawDbTables.sql
+
+
+# Load historical data
+echo "\n\nLoading raw data from work/history.csv"
+${PSQL} -c "TRUNCATE _work.history" \
+		-c "\copy _work.history from work/history.csv (FORMAT csv)"
+
+# Load recent data
+${PSQL} -c "TRUNCATE _work.recent"
+for f in `ls work/election_*.csv`
+do
+	echo "Loading raw data from $f"
+	${PSQL} -c "\copy _work.recent from $f (FORMAT csv)"
+done
+echo "Updating _work.recent.merge_with"
+${PSQL} -c "UPDATE _work.recent SET merge_with = NULL WHERE merge_with = ''"
+
+
+# Load Preliminary data
+echo "Loading raw data from work/preliminary.csv"
+${PSQL} -c "TRUNCATE _work.preliminary" \
+		-c "\copy _work.preliminary from work/preliminary.csv"
+
+
+#
+# Add the views over the raw data
+#
+echo "Creating raw data views"
+${PSQL} < sql/rawDataViews.sql
+
+#
+# Build the final raw table
+#
+echo "Creating consolidated elections table"
+${PSQL} < sql/elections.sql

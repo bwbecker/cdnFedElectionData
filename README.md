@@ -28,7 +28,7 @@ The party names in the raw data are not uniform.  For example, it contains
 "N.D.P.", "NDP-New Democratic Party", and "New Democratic Party".  It's 
 safe to say that these all refer to the same party.
 
-The `raw_data.party_names` table maps the raw names to a cleaned name.  For
+The `_elections.party_names` table maps the raw names to a cleaned name.  For
 example, the three varieties of NDP, noted above, are all mapped to
 'New Democratic Party'.
 
@@ -39,19 +39,19 @@ candidates -- ever.  These are all mapped to be Independents.
 A number of candidates had a party of "No Affiliation" or "No affiliation to a
 recognized party".  They were also mapped to Independent.
 
-Finally, I read someplace (not sure where) that parties such as "Independent
-Conservative" is essentially a Conservative that is no longer in caucus.
-Today we would normally classify such a person as just "Independent".
+Finally, [Wikipedia](https://en.wikipedia.org/wiki/Independent_Liberal) says 
+that a party such as "Independent Liberal" is essentially a Liberal that is no longer in caucus.
+Today we would normally classify such a person as just "Independent"
+(which I have done).
  
 ### Dual-Candidate elections
 Some ridings elected two members.  
 [Wikipedia](https://en.wikipedia.org/wiki/Electoral_district_(Canada)) says:
 
-    While electoral districts at both the federal and provincial levels are 
-    now exclusively single-member districts, multiple-member districts 
-    have been used in the past. The federal riding of Ottawa elected two 
-    members from 1872 to 1933. The federal riding of Halifax elected two 
-    members from the 1800s to 1966.
+    While electoral districts at both the federal and provincial levels are now 
+    exclusively single-member districts, multiple-member districts have been used 
+    in the past. The federal riding of Ottawa elected two members from 1872 to 1933. 
+    The federal riding of Halifax elected two members from the 1800s to 1966.
     
 These ridings are found in SQL and divided into two ridings, each electing
 a single member.  The original riding is suffixed with "-1" and "-2".  One

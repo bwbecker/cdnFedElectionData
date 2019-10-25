@@ -2,11 +2,9 @@
 -- Create the DB tables to hold the raw data.
 
 
-CREATE SCHEMA IF NOT EXISTS raw_data;
-
-DROP TABLE IF EXISTS raw_data.recent CASCADE;
-CREATE TABLE raw_data.recent (
-	election INT NOT NULL,
+DROP TABLE IF EXISTS _work.recent CASCADE;
+CREATE TABLE _work.recent (
+	election_id INT NOT NULL,
 	ed_id	INT NOT NULL,
 	ed_name TEXT NOT NULL,
 	ed_name_fr TEXT NOT NULL,
@@ -23,16 +21,16 @@ CREATE TABLE raw_data.recent (
 	cand_party_name TEXT NOT NULL,
 	cand_party_fr TEXT NOT NULL,
 	cand_incumbent BOOLEAN NOT NULL,
-	cand_elected BOOLEAN NOT NULL,
-	cand_votes INT NOT NULL
+	elected BOOLEAN NOT NULL,
+	votes INT NOT NULL
 );
 
 
-DROP TABLE IF EXISTS raw_data.history CASCADE;
-CREATE TABLE raw_data.history (
+DROP TABLE IF EXISTS _work.history CASCADE;
+CREATE TABLE _work.history (
 	election_date TEXT NOT NULL,
 	election_type TEXT NOT NULL,
-	election INT NOT NULL,
+	election_id INT NOT NULL,
 	province TEXT NOT NULL,
 	ed_name TEXT NOT NULL,
 	cand_last TEXT NOT NULL,
@@ -40,13 +38,13 @@ CREATE TABLE raw_data.history (
 	cand_gender TEXT,
 	cand_occupation TEXT,
 	cand_party_name TEXT NOT NULL,
-	cand_votes_raw TEXT,
-	cand_votes_pct REAL,
-	cand_elected BOOLEAN NOT NULL
+	votes_raw TEXT,
+	votes_pct REAL,
+	elected BOOLEAN NOT NULL
 );
 
-DROP TABLE IF EXISTS raw_data.preliminary CASCADE;
-CREATE TABLE raw_data.preliminary (
+DROP TABLE IF EXISTS _work.preliminary CASCADE;
+CREATE TABLE _work.preliminary (
 	ed_id INT NOT NULL,
 	ed_name TEXT NOT NULL,
 	ed_name_fr TEXT NOT NULL,
@@ -55,28 +53,28 @@ CREATE TABLE raw_data.preliminary (
 	cand_last TEXT NOT NULL,
 	cand_middle TEXT,
 	cand_first TEXT NOT NULL,
-	cand_party TEXT NOT NULL,
-	cand_party_fr TEXT NOT NULL,
-	cand_votes INT NOT NULL,
-	cand_votes_pct REAL NOT NULL,
-	rejected_ballots INT NOT NULL,
+	cand_party_name TEXT NOT NULL,
+	cand_party_name_fr TEXT NOT NULL,
+	votes INT NOT NULL,
+	votes_pct REAL NOT NULL,
+	ballots_rejected INT NOT NULL,
 	total_ballots_cast INT NOT NULL
 );
 
 
-DROP TABLE raw_data.party_names CASCADE;
-CREATE TABLE raw_data.party_names (
+DROP TABLE _work.party_name_lookup CASCADE;
+CREATE TABLE _work.party_name_lookup (
     raw_name   TEXT NOT NULL,
     party_name TEXT NOT NULL,
     PRIMARY KEY (raw_name)
 );
 
-COMMENT ON TABLE raw_data.party_names IS 'Normalize names to just one common name across all elections.';
+COMMENT ON TABLE _work.party_name_lookup IS 'Normalize names to just one common name across all elections.';
 -- This list was created by extracting all the party names from elections 1 through 42 and then
 -- and then reviewing it by hand.  The obvious differences were collapsed into one name (eg "N.D.P."
 -- and "NDP-New Democratic Party").  Minimal research was done.
 
-INSERT INTO raw_data.party_names (raw_name, party_name)
+INSERT INTO _work.party_name_lookup (raw_name, party_name)
 VALUES ('Abolitionist Party of Canada', 'Abolitionist Party of Canada'),
 
        ('Animal Alliance Environment Voters Party of Canada', 'Animal Alliance Environment Voters Party of Canada'),
@@ -295,19 +293,19 @@ VALUES ('Abolitionist Party of Canada', 'Abolitionist Party of Canada'),
        ('Western Block Party', 'Western Block Party')
        ;
 
-DROP TABLE IF EXISTS raw_data.provinces CASCADE;
-CREATE TABLE raw_data.provinces (
+DROP TABLE IF EXISTS _work.prov_lookup CASCADE;
+CREATE TABLE _work.prov_lookup (
     raw_code  TEXT NOT NULL,
     prov_code TEXT NOT NULL,
 
     PRIMARY KEY (raw_code)
 );
 
-COMMENT ON TABLE raw_data.provinces IS 'A look-up table to normalize province codes.';
+COMMENT ON TABLE _work.prov_lookup IS 'A look-up table to normalize province codes.';
 
 -- For recent data, the province info is embedded in the first two digits electoral district id.
 -- For historical data, it's spelled out.
-INSERT INTO raw_data.provinces (raw_code, prov_code)
+INSERT INTO _work.prov_lookup (raw_code, prov_code)
 VALUES ('48', 'AB'),
        ('59', 'BC'),
        ('46', 'MB'),
