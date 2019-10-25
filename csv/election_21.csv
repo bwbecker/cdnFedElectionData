@@ -1,0 +1,852 @@
+election_id,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_party_name,party_code,elected,acclaimed,votes,place
+21,AB,1,ACADIA,10331,"QUELCH, Victor",Social Credit Party of Canada,SoCred,t,f,5897,1
+21,AB,1,ACADIA,10330,"SHACKER, Isber Frank",Liberal,Lib,f,f,4186,2
+21,AB,2,ATHABASKA,10333,"DECHENE, Joseph Miville",Liberal,Lib,t,f,7566,1
+21,AB,2,ATHABASKA,10334,"KENNEDY, Orvis A.",Social Credit Party of Canada,SoCred,f,f,4982,2
+21,AB,2,ATHABASKA,10335,"HANNOCHKO, John",Co-operative Commonwealth Federation,CCF,f,f,1738,3
+21,AB,2,ATHABASKA,10336,"NYKIFORUK, John",Independent Social Credit,Ind,f,f,1198,4
+21,AB,2,ATHABASKA,10332,"BÉDARD, Joseph H.",Progressive Conservative,PC,f,f,1139,5
+21,AB,3,BATTLE RIVER,10338,"FAIR, Robert",Social Credit Party of Canada,SoCred,t,f,7708,1
+21,AB,3,BATTLE RIVER,10337,"SAVILLE, Francis Clifford",Co-operative Commonwealth Federation,CCF,f,f,4337,2
+21,AB,3,BATTLE RIVER,10339,"GREEN, Lee Fox",Liberal,Lib,f,f,1977,3
+21,AB,4,BOW RIVER,10341,"JOHNSTON, Charles Edward",Social Credit Party of Canada,SoCred,t,f,8537,1
+21,AB,4,BOW RIVER,10342,"MACDONALD, William Duncan",Liberal,Lib,f,f,4449,2
+21,AB,4,BOW RIVER,10343,"WILDE, Wilfred John",Progressive Conservative,PC,f,f,2558,3
+21,AB,4,BOW RIVER,10340,"ELLINSON, George Edwin",Co-operative Commonwealth Federation,CCF,f,f,1530,4
+21,AB,4,BOW RIVER,10344,"ROBERTS, Arthur Llewelyn",Labour Progressive Party,LabPP,f,f,969,5
+21,AB,5,CALGARY EAST,10346,"HARKNESS, Douglas Scott",Progressive Conservative,PC,t,f,9641,1
+21,AB,5,CALGARY EAST,10347,"MACKAY, Donald Hugh",Liberal,Lib,f,f,8555,2
+21,AB,5,CALGARY EAST,10345,"CLARKE, Clifford Norman",Social Credit Party of Canada,SoCred,f,f,5597,3
+21,AB,5,CALGARY EAST,10348,"KELLOWAY, Warwick Freeman",Co-operative Commonwealth Federation,CCF,f,f,3083,4
+21,AB,6,CALGARY WEST,10350,"SMITH, Arthur LeRoy",Progressive Conservative,PC,t,f,11457,1
+21,AB,6,CALGARY WEST,10349,"MATTHEWS, Charles Curtice",Liberal,Lib,f,f,8619,2
+21,AB,6,CALGARY WEST,10351,"DIXON, Arthur Johnson",Social Credit Party of Canada,SoCred,f,f,6785,3
+21,AB,7,CAMROSE,10353,"BEYERSTEIN, Hilliard Harris William",Social Credit Party of Canada,SoCred,t,f,7364,1
+21,AB,7,CAMROSE,10354,"INCE, Frank Bryan",Liberal,Lib,f,f,4497,2
+21,AB,7,CAMROSE,10352,"ARNTSON, Alfred O.",Co-operative Commonwealth Federation,CCF,f,f,2402,3
+21,AB,7,CAMROSE,10355,"MCCLEARY, Charles Henry",Progressive Conservative,PC,f,f,1448,4
+21,AB,8,EDMONTON EAST,10357,"MACDONALD, Albert Frederick",Liberal,Lib,t,f,10964,1
+21,AB,8,EDMONTON EAST,10356,"HOLOWACH, Ambrose",Social Credit Party of Canada,SoCred,f,f,7972,2
+21,AB,8,EDMONTON EAST,10358,"THOROGOOD, John Hector",Progressive Conservative,PC,f,f,3816,3
+21,AB,8,EDMONTON EAST,10359,"ASHBY, Patrick Harvey",Independent Social Credit,Ind,f,f,3400,4
+21,AB,8,EDMONTON EAST,10360,"ROSS, Hugh John McKim",Co-operative Commonwealth Federation,CCF,f,f,2961,5
+21,AB,8,EDMONTON EAST,10361,"SWANKEY, Bernard Rudolf",Labour Progressive Party,LabPP,f,f,1232,6
+21,AB,9,EDMONTON WEST,10363,"PRUDHAM, George",Liberal,Lib,t,f,14333,1
+21,AB,9,EDMONTON WEST,10364,"MILNER, Horatio Ray",Progressive Conservative,PC,f,f,8325,2
+21,AB,9,EDMONTON WEST,10365,"STONE, James M.",Social Credit Party of Canada,SoCred,f,f,6215,3
+21,AB,9,EDMONTON WEST,10362,"MENTZ, Walter",Co-operative Commonwealth Federation,CCF,f,f,2285,4
+21,AB,10,JASPER--EDSON,10367,"WELBOURN, John William",Liberal,Lib,t,f,7288,1
+21,AB,10,JASPER--EDSON,10368,"KUHL, Walter Frederick",Social Credit Party of Canada,SoCred,f,f,6797,2
+21,AB,10,JASPER--EDSON,10366,"BRONSON, Harold Emory",Co-operative Commonwealth Federation,CCF,f,f,3839,3
+21,AB,10,JASPER--EDSON,10369,"WALKEDEN, Thomas J.A.",Progressive Conservative,PC,f,f,2053,4
+21,AB,11,LETHBRIDGE,10370,"BLACKMORE, John Horne",Social Credit Party of Canada,SoCred,t,f,8880,1
+21,AB,11,LETHBRIDGE,10373,"TURCOTTE, Louis Sherman",Liberal,Lib,f,f,5760,2
+21,AB,11,LETHBRIDGE,10371,"JARDINE, John Arthur",Progressive Conservative,PC,f,f,2460,3
+21,AB,11,LETHBRIDGE,10372,"SCOTT, William Wesley",Co-operative Commonwealth Federation,CCF,f,f,1801,4
+21,AB,12,MACLEOD,10375,"HANSELL, Ernest George",Social Credit Party of Canada,SoCred,t,f,7411,1
+21,AB,12,MACLEOD,10376,"LEWIS, Alfred Gladstone",Liberal,Lib,f,f,4066,2
+21,AB,12,MACLEOD,10374,"WYATT, Stanley",Progressive Conservative,PC,f,f,3314,3
+21,AB,12,MACLEOD,10377,"GRIFFIN, John Purrier",Co-operative Commonwealth Federation,CCF,f,f,1647,4
+21,AB,13,MEDICINE HAT,10379,"WYLIE, William Duncan",Social Credit Party of Canada,SoCred,t,f,10086,1
+21,AB,13,MEDICINE HAT,10380,"VEINER, Harry",Liberal,Lib,f,f,6069,2
+21,AB,13,MEDICINE HAT,10378,"HUGHES, Thomas Spencer",Progressive Conservative,PC,f,f,2346,3
+21,AB,14,PEACE RIVER,10383,"LOW, Solon Earl",Social Credit Party of Canada,SoCred,t,f,7727,1
+21,AB,14,PEACE RIVER,10381,"CARIGNAN, Clifford Bernard",Liberal,Lib,f,f,7404,2
+21,AB,14,PEACE RIVER,10384,"MACKLIN, Irvin Victor",Co-operative Commonwealth Federation,CCF,f,f,3202,3
+21,AB,14,PEACE RIVER,10382,"WILLIAMSON, David Thomson",Progressive Conservative,PC,f,f,1562,4
+21,AB,15,RED DEER,10386,"SHAW, Frederick Davis",Social Credit Party of Canada,SoCred,t,f,10549,1
+21,AB,15,RED DEER,10385,"MCGORMAN, Albert Bliss",Liberal,Lib,f,f,3604,2
+21,AB,15,RED DEER,10387,"TAGGART, Harry Lloyd",Progressive Conservative,PC,f,f,3488,3
+21,AB,15,RED DEER,10388,"IRONSIDE, Cyril M.",Co-operative Commonwealth Federation,CCF,f,f,1710,4
+21,AB,16,VEGREVILLE,10389,"DECORE, John",Liberal,Lib,t,f,8859,1
+21,AB,16,VEGREVILLE,10390,"HLYNKA, Anthony",Social Credit Party of Canada,SoCred,f,f,7128,2
+21,AB,17,WETASKIWIN,10392,"THOMAS, Ray",Social Credit Party of Canada,SoCred,t,f,6774,1
+21,AB,17,WETASKIWIN,10394,"MOSESON, Paul",Liberal,Lib,f,f,6091,2
+21,AB,17,WETASKIWIN,10391,"HAARSTAD, Alfred B.",Progressive Conservative,PC,f,f,3340,3
+21,AB,17,WETASKIWIN,10393,"STEVENS, Wilbert A.",Co-operative Commonwealth Federation,CCF,f,f,3154,4
+21,BC,1,BURNABY--RICHMOND,10396,"GOODE, Tom",Liberal,Lib,t,f,12848,1
+21,BC,1,BURNABY--RICHMOND,10397,"STEEVES, Dorothy Gretchen",Co-operative Commonwealth Federation,CCF,f,f,12553,2
+21,BC,1,BURNABY--RICHMOND,10395,"FERGUSON, John",Progressive Conservative,PC,f,f,6097,3
+21,BC,1,BURNABY--RICHMOND,10398,"MCEWEN, Tom",Labour Progressive Party,LabPP,f,f,1558,4
+21,BC,2,CARIBOO,10399,"MURRAY, George Matheson",Liberal,Lib,t,f,7330,1
+21,BC,2,CARIBOO,10400,"IRVINE, William",Co-operative Commonwealth Federation,CCF,f,f,5870,2
+21,BC,3,COAST-CAPILANO,10402,"SINCLAIR, James",Liberal,Lib,t,f,15294,1
+21,BC,3,COAST-CAPILANO,10401,"MCKENZIE, Francis James",Co-operative Commonwealth Federation,CCF,f,f,6253,2
+21,BC,3,COAST-CAPILANO,10403,"MAHON, Harold S.",Progressive Conservative,PC,f,f,4713,3
+21,BC,4,COMOX--ALBERNI,10404,"GIBSON, John Lambert",Independent,Ind,t,f,11397,1
+21,BC,4,COMOX--ALBERNI,10405,"CAMERON, John Herdman",Co-operative Commonwealth Federation,CCF,f,f,7785,2
+21,BC,5,FRASER VALLEY,10407,"CRUICKSHANK, George",Liberal,Lib,t,f,12587,1
+21,BC,5,FRASER VALLEY,10408,"FLOWERDEW, Eric Symonds",Co-operative Commonwealth Federation,CCF,f,f,5573,2
+21,BC,5,FRASER VALLEY,10406,"DAVIDSON, Edward Stuart",Progressive Conservative,PC,f,f,4514,3
+21,BC,6,KAMLOOPS,10410,"FULTON, Edmund Davie",Progressive Conservative,PC,t,f,7682,1
+21,BC,6,KAMLOOPS,10409,"O'NEILL, Thomas James",Liberal,Lib,f,f,6399,2
+21,BC,6,KAMLOOPS,10411,"LARSON, George Victor",Co-operative Commonwealth Federation,CCF,f,f,5091,3
+21,BC,7,KOOTENAY EAST,10412,"BYRNE, James",Liberal,Lib,t,f,5546,1
+21,BC,7,KOOTENAY EAST,10413,"MATTHEWS, James Herbert",Co-operative Commonwealth Federation,CCF,f,f,5448,2
+21,BC,7,KOOTENAY EAST,10414,"RICHARDSON, Albert Tindale",Progressive Conservative,PC,f,f,2704,3
+21,BC,8,KOOTENAY WEST,10415,"HERRIDGE, Herbert Wilfred",Co-operative Commonwealth Federation,CCF,t,f,9794,1
+21,BC,8,KOOTENAY WEST,10416,"CORNER, John Robertson",Progressive Conservative,PC,f,f,8319,2
+21,BC,9,NANAIMO,10418,"PEARKES, George Randolph",Progressive Conservative,PC,t,f,17507,1
+21,BC,9,NANAIMO,10419,"STRACHAN, Robert Martin",Co-operative Commonwealth Federation,CCF,f,f,9772,2
+21,BC,9,NANAIMO,10417,"POUPORE, William Edmond",Liberal,Lib,f,f,9196,3
+21,BC,10,NEW WESTMINSTER,10421,"REID, Thom",Liberal,Lib,t,f,13904,1
+21,BC,10,NEW WESTMINSTER,10422,"IRVINE, Ronald William",Co-operative Commonwealth Federation,CCF,f,f,9326,2
+21,BC,10,NEW WESTMINSTER,10420,"CHRISTMAS, Leslie James",Progressive Conservative,PC,f,f,8338,3
+21,BC,10,NEW WESTMINSTER,10423,"MCCALLUM, William Cameron",Social Credit Party of Canada,SoCred,f,f,1207,4
+21,BC,11,SKEENA,10424,"APPLEWHAITE, Edward T.",Liberal,Lib,t,f,5847,1
+21,BC,11,SKEENA,10425,"ARCHIBALD, Harry Grenfell",Co-operative Commonwealth Federation,CCF,f,f,4183,2
+21,BC,12,VANCOUVER CENTRE,10427,"CAMPNEY, Ralph Osborne",Liberal,Lib,t,f,10299,1
+21,BC,12,VANCOUVER CENTRE,10428,"YOUNG, Rodney",Co-operative Commonwealth Federation,CCF,f,f,6382,2
+21,BC,12,VANCOUVER CENTRE,10429,"STEVENS, Hon. Henry Herbert",Progressive Conservative,PC,f,f,5970,3
+21,BC,12,VANCOUVER CENTRE,10426,"RUSH, Maurice",Labour Progressive Party,LabPP,f,f,952,4
+21,BC,12,VANCOUVER CENTRE,10430,"YOUNG, Harold Meade",Independent,Ind,f,f,595,5
+21,BC,13,VANCOUVER EAST,10432,"MACINNIS, Angus",Co-operative Commonwealth Federation,CCF,t,f,14056,1
+21,BC,13,VANCOUVER EAST,10433,"REID, William",Liberal,Lib,f,f,10154,2
+21,BC,13,VANCOUVER EAST,10434,"DAY, Joseph Friend",Progressive Conservative,PC,f,f,4261,3
+21,BC,13,VANCOUVER EAST,10431,"STEWART, Charles McGregor",Labour Progressive Party,LabPP,f,f,1377,4
+21,BC,14,VANCOUVER QUADRA,10435,"GREEN, Howard Charles",Progressive Conservative,PC,t,f,16661,1
+21,BC,14,VANCOUVER QUADRA,10436,"ISHERWOOD, Thomas Foster",Liberal,Lib,f,f,10665,2
+21,BC,14,VANCOUVER QUADRA,10437,"MASON, Harold Winston",Co-operative Commonwealth Federation,CCF,f,f,5908,3
+21,BC,15,VANCOUVER SOUTH,10439,"LAING, Arthur",Liberal,Lib,t,f,13082,1
+21,BC,15,VANCOUVER SOUTH,10438,"MACINNIS, Grace",Co-operative Commonwealth Federation,CCF,f,f,10397,2
+21,BC,15,VANCOUVER SOUTH,10440,"CORNETT, Jonathan Webster",Progressive Conservative,PC,f,f,9462,3
+21,BC,16,VANCOUVER--BURRARD,10441,"MACDOUGALL, John Lorne",Liberal,Lib,t,f,10967,1
+21,BC,16,VANCOUVER--BURRARD,10443,"MERRITT, Charles Cecil Ingersoll",Progressive Conservative,PC,f,f,10676,2
+21,BC,16,VANCOUVER--BURRARD,10442,"WEBSTER, Arnold Alexander",Co-operative Commonwealth Federation,CCF,f,f,8705,3
+21,BC,17,VICTORIA,10445,"MAYHEW, Hon. Robert Wellington",Liberal,Lib,t,f,19324,1
+21,BC,17,VICTORIA,10444,"CAMERON, Gordon Arthur",Progressive Conservative,PC,f,f,10154,2
+21,BC,17,VICTORIA,10446,"CAIRD, William Baxter",Co-operative Commonwealth Federation,CCF,f,f,5048,3
+21,BC,18,YALE,10448,"JONES, Owen Lewis",Co-operative Commonwealth Federation,CCF,t,f,13298,1
+21,BC,18,YALE,10449,"ADAMS, Theodore Robert Bruce",Progressive Conservative,PC,f,f,11562,2
+21,BC,18,YALE,10450,"MCDOWELL, Charles James",Liberal,Lib,f,f,5576,3
+21,BC,18,YALE,10447,"REID, James Allan",Social Credit Party of Canada,SoCred,f,f,902,4
+21,MB,1,BRANDON,10452,"MATTHEWS, James Ewen",Liberal,Lib,t,f,11263,1
+21,MB,1,BRANDON,10451,"BRACKEN, John",Progressive Conservative,PC,f,f,7150,2
+21,MB,1,BRANDON,10453,"JACKSON, Dwight Lyman",Independent,Ind,f,f,1964,3
+21,MB,2,CHURCHILL,10455,"WEAVER, George Dyer",Liberal,Lib,t,f,6847,1
+21,MB,2,CHURCHILL,10454,"MOORE, Ronald Stewart",Co-operative Commonwealth Federation,CCF,f,f,4595,2
+21,MB,2,CHURCHILL,10456,"MILTON, Robert Franklin",Progressive Conservative,PC,f,f,3570,3
+21,MB,3,DAUPHIN,10458,"WARD, William John",Liberal,Lib,t,f,7896,1
+21,MB,3,DAUPHIN,10457,"ZAPLITNY, Fred Samuel",Co-operative Commonwealth Federation,CCF,f,f,7089,2
+21,MB,3,DAUPHIN,10459,"SZEWCZYK, Michael F.",Progressive Conservative,PC,f,f,2541,3
+21,MB,4,LISGAR,10461,"WINKLER, Howard Waldemar",Liberal,Lib,t,f,9190,1
+21,MB,4,LISGAR,10462,"HEPPNER, Diedrich",Progressive Conservative,PC,f,f,5684,2
+21,MB,4,LISGAR,10460,"ATKINS, Gordon Morris",Co-operative Commonwealth Federation,CCF,f,f,1470,3
+21,MB,5,MARQUETTE,10464,"GARSON, Hon. Stuart Sinclair",Liberal,Lib,t,f,10144,1
+21,MB,5,MARQUETTE,10463,"JACKSON, James",Progressive Conservative,PC,f,f,4016,2
+21,MB,5,MARQUETTE,10465,"KEATING, Bessie",Co-operative Commonwealth Federation,CCF,f,f,2984,3
+21,MB,6,NORQUAY,10466,"WOOD, Robert James",Liberal,Lib,t,f,8430,1
+21,MB,6,NORQUAY,10467,"PETURSSON, Philip M.",Co-operative Commonwealth Federation,CCF,f,f,4776,2
+21,MB,6,NORQUAY,10468,"KOSHOWSKI, Walter",Progressive Conservative,PC,f,f,807,3
+21,MB,7,PORTAGE--NEEPAWA,10470,"WEIR, William Gilbert",Liberal Progressive,LibPro,t,f,9192,1
+21,MB,7,PORTAGE--NEEPAWA,10469,"NELSON, Harold Alexander",Progressive Conservative,PC,f,f,6819,2
+21,MB,7,PORTAGE--NEEPAWA,10471,"MATTHEWS, Albert Clifford",Co-operative Commonwealth Federation,CCF,f,f,2269,3
+21,MB,8,PROVENCHER,10472,"JUTRAS, René N.",Liberal,Lib,t,f,6834,1
+21,MB,8,PROVENCHER,10473,"MACKENZIE, Bruce",Independent,Ind,f,f,4008,2
+21,MB,9,SELKIRK,10475,"BRYCE, William",Co-operative Commonwealth Federation,CCF,t,f,7819,1
+21,MB,9,SELKIRK,10476,"RÉGNIER, Laurier Arthur",Liberal,Lib,f,f,7593,2
+21,MB,9,SELKIRK,10474,"MCDOWELL, John",Progressive Conservative,PC,f,f,6158,3
+21,MB,10,SOURIS,10478,"ROSS, James Arthur",Progressive Conservative,PC,t,f,6108,1
+21,MB,10,SOURIS,10477,"DOW, Edward Ingo",Liberal,Lib,f,f,5495,2
+21,MB,10,SOURIS,10479,"WATSON, George Thomas",Co-operative Commonwealth Federation,CCF,f,f,1083,3
+21,MB,11,SPRINGFIELD,10481,"SINNOTT, John Sylvester",Liberal,Lib,t,f,8253,1
+21,MB,11,SPRINGFIELD,10480,"WASYLYK, Harry",Co-operative Commonwealth Federation,CCF,f,f,4418,2
+21,MB,11,SPRINGFIELD,10482,"BODIE, J. Leslie",Progressive Conservative,PC,f,f,3494,3
+21,MB,11,SPRINGFIELD,10483,"BILESKI, Andrew",Labour Progressive Party,LabPP,f,f,1117,4
+21,MB,12,ST. BONIFACE,10485,"VIAU, Fernand",Liberal,Lib,t,f,10766,1
+21,MB,12,ST. BONIFACE,10484,"PAULLEY, Andrew Russell",Co-operative Commonwealth Federation,CCF,f,f,5455,2
+21,MB,12,ST. BONIFACE,10486,"LÉGER, Louis",Progressive Conservative,PC,f,f,2557,3
+21,MB,13,WINNIPEG NORTH,10488,"STEWART, Alistair",Co-operative Commonwealth Federation,CCF,t,f,12432,1
+21,MB,13,WINNIPEG NORTH,10490,"TARASKA, Peter",Liberal,Lib,f,f,11962,2
+21,MB,13,WINNIPEG NORTH,10489,"ZUKEN, Joseph",Labour Progressive Party,LabPP,f,f,5406,3
+21,MB,13,WINNIPEG NORTH,10487,"RESTALL, John Hunter",Progressive Conservative,PC,f,f,1816,4
+21,MB,14,WINNIPEG NORTH CENTRE,10492,"KNOWLES, Stanley H.",Co-operative Commonwealth Federation,CCF,t,f,15389,1
+21,MB,14,WINNIPEG NORTH CENTRE,10494,"MOLLOY, William A.",Liberal,Lib,f,f,9010,2
+21,MB,14,WINNIPEG NORTH CENTRE,10491,"PATTINSON, Richard R.",Progressive Conservative,PC,f,f,3434,3
+21,MB,14,WINNIPEG NORTH CENTRE,10493,"JUBA, Stephen",Independent,Ind,f,f,694,4
+21,MB,15,WINNIPEG SOUTH,10495,"MUTCH, Leslie Alexander",Liberal,Lib,t,f,16235,1
+21,MB,15,WINNIPEG SOUTH,10496,"THORVALDSON, Gunnar Solmundur",Progressive Conservative,PC,f,f,9942,2
+21,MB,15,WINNIPEG SOUTH,10497,"TIPPING, Frederick George",Co-operative Commonwealth Federation,CCF,f,f,7765,3
+21,MB,16,WINNIPEG SOUTH CENTRE,10499,"MAYBANK, Ralph",Liberal,Lib,t,f,14747,1
+21,MB,16,WINNIPEG SOUTH CENTRE,10498,"CHURCHILL, Gordon Minto",Progressive Conservative,PC,f,f,6593,2
+21,MB,16,WINNIPEG SOUTH CENTRE,10500,"ROBERTSON, Andrew N.",Co-operative Commonwealth Federation,CCF,f,f,5632,3
+21,NB,1,CHARLOTTE,10501,"STUART, A. Wesley",Liberal,Lib,t,f,6197,1
+21,NB,1,CHARLOTTE,10502,"GANONG, Hardy Nelson",Progressive Conservative,PC,f,f,6139,2
+21,NB,2,GLOUCESTER,10503,"RICHARD, C.T.",Liberal,Lib,t,f,14759,1
+21,NB,2,GLOUCESTER,10504,"ROBICHAUD, J.L. Albert",Progressive Conservative,PC,f,f,6391,2
+21,NB,3,KENT,10506,"LÉGER, Aurel D.",Liberal,Lib,t,f,5754,1
+21,NB,3,KENT,10507,"BOURGEOIS, Edmond Alfred",Independent Liberal,Ind,f,f,3084,2
+21,NB,3,KENT,10508,"BOURGEOIS, Wilfred",Progressive Conservative,PC,f,f,2496,3
+21,NB,3,KENT,10505,"CORMIER, Ernest Edward",Co-operative Commonwealth Federation,CCF,f,f,406,4
+21,NB,4,NORTHUMBERLAND,10510,"MCWILLIAM, George Roy",Liberal,Lib,t,f,9840,1
+21,NB,4,NORTHUMBERLAND,10509,"CLELAND, Benjamin Johnston",Progressive Conservative,PC,f,f,6980,2
+21,NB,4,NORTHUMBERLAND,10511,"MCKINNON, Elmer James",Independent,Ind,f,f,533,3
+21,NB,4,NORTHUMBERLAND,10512,"HANSEN, Paul Arthur",Co-operative Commonwealth Federation,CCF,f,f,336,4
+21,NB,5,RESTIGOUCHE--MADAWASKA,10514,"MICHAUD, Benoît",Liberal,Lib,t,f,15919,1
+21,NB,5,RESTIGOUCHE--MADAWASKA,10515,"HUDON, René",Progressive Conservative,PC,f,f,6238,2
+21,NB,5,RESTIGOUCHE--MADAWASKA,10513,"GRONDIN, Armand",Union of Electors,UElect,f,f,2172,3
+21,NB,6,ROYAL,10517,"BROOKS, Alfred Johnson",Progressive Conservative,PC,t,f,9501,1
+21,NB,6,ROYAL,10518,"PERKINS, George Harold",Liberal,Lib,f,f,7863,2
+21,NB,6,ROYAL,10516,"WIGGINS, Hazen Cecil",Co-operative Commonwealth Federation,CCF,f,f,933,3
+21,NB,7,ST. JOHN--ALBERT,10520,"RILEY, Daniel Aloysius",Liberal,Lib,t,f,18691,1
+21,NB,7,ST. JOHN--ALBERT,10521,"HAZEN, D. King",Progressive Conservative,PC,f,f,17052,2
+21,NB,7,ST. JOHN--ALBERT,10519,"MCAFEE, Raymond E.",Co-operative Commonwealth Federation,CCF,f,f,2445,3
+21,NB,8,VICTORIA--CARLETON,10522,"HATFIELD, Heber Harold",Progressive Conservative,PC,t,f,10429,1
+21,NB,8,VICTORIA--CARLETON,10523,"BISHOP, Daniel Raymond",Liberal,Lib,f,f,8539,2
+21,NB,9,WESTMORLAND,10525,"GEORGE, Edmund William",Liberal,Lib,t,f,20649,1
+21,NB,9,WESTMORLAND,10524,"MURPHY, John Edward",Progressive Conservative,PC,f,f,11696,2
+21,NB,9,WESTMORLAND,10526,"ROGERS, William Robert",Co-operative Commonwealth Federation,CCF,f,f,3702,3
+21,NB,10,YORK--SUNBURY,10528,"GREGG, Hon. Milton Fowler",Liberal,Lib,t,f,12158,1
+21,NB,10,YORK--SUNBURY,10527,"ATKINSON, Ewart Clair",Progressive Conservative,PC,f,f,11127,2
+21,NB,10,YORK--SUNBURY,10529,"YOUNG, Murray",Co-operative Commonwealth Federation,CCF,f,f,1628,3
+21,NL,1,BONAVISTA--TWILLINGATE,10530,"BRADLEY, Hon. F. Gordon",Liberal,Lib,t,f,9744,1
+21,NL,1,BONAVISTA--TWILLINGATE,10531,"DAWE, Kenneth S.G.",Progressive Conservative,PC,f,f,1415,2
+21,NL,2,BURIN--BURGEO,10532,"CARTER, Chesley William",Liberal,Lib,t,f,12590,1
+21,NL,2,BURIN--BURGEO,10533,"SPARKES, Grace Margaret",Progressive Conservative,PC,f,f,1053,2
+21,NL,3,GRAND FALLS--WHITE BAY,10534,"ASHBOURNE, Thomas Gordon",Liberal,Lib,t,f,12301,1
+21,NL,3,GRAND FALLS--WHITE BAY,10535,"POND, James",Progressive Conservative,PC,f,f,1879,2
+21,NL,4,HUMBER--ST. GEORGE'S,10536,"KENT, William Richard",Liberal,Lib,t,f,11930,1
+21,NL,4,HUMBER--ST. GEORGE'S,10537,"LOUGHLIN, Clayton C.",Progressive Conservative,PC,f,f,1451,2
+21,NL,5,ST. JOHN'S EAST,10539,"HIGGINS, Gordon Francis",Progressive Conservative,PC,t,f,9912,1
+21,NL,5,ST. JOHN'S EAST,10538,"SHEA, Ambrose John Dalton",Liberal,Lib,f,f,7913,2
+21,NL,5,ST. JOHN'S EAST,10540,"GILLIES, William W.",Co-operative Commonwealth Federation,CCF,f,f,197,3
+21,NL,6,ST. JOHN'S WEST,10541,"BROWNE, William Joseph",Progressive Conservative,PC,t,f,10344,1
+21,NL,6,ST. JOHN'S WEST,10542,"POWER, Gregory J.",Liberal,Lib,f,f,9828,2
+21,NL,7,TRINITY--CONCEPTION,10543,"STICK, Leonard T.",Liberal,Lib,t,f,10929,1
+21,NL,7,TRINITY--CONCEPTION,10544,"CRAMM, Richard",Progressive Conservative,PC,f,f,3149,2
+21,NS,1,ANNAPOLIS--KINGS,10546,"ELDERKIN, Angus Alexander",Liberal,Lib,t,f,13202,1
+21,NS,1,ANNAPOLIS--KINGS,10545,"NOWLAN, George Clyde",Progressive Conservative,PC,f,f,13198,2
+21,NS,2,ANTIGONISH--GUYSBOROUGH,10547,"KIRK, James Ralph",Liberal,Lib,t,f,7586,1
+21,NS,2,ANTIGONISH--GUYSBOROUGH,10548,"WALKER, John Archibald",Progressive Conservative,PC,f,f,4385,2
+21,NS,3,CAPE BRETON NORTH AND VICTORIA,10549,"MACLEAN, Matthew",Liberal,Lib,t,f,9461,1
+21,NS,3,CAPE BRETON NORTH AND VICTORIA,10551,"SLAVEN, Thomas Price",Progressive Conservative,PC,f,f,5083,2
+21,NS,3,CAPE BRETON NORTH AND VICTORIA,10550,"ORAM, Sidney",Co-operative Commonwealth Federation,CCF,f,f,2102,3
+21,NS,4,CAPE BRETON SOUTH,10553,"GILLIS, Clarence",Co-operative Commonwealth Federation,CCF,t,f,15057,1
+21,NS,4,CAPE BRETON SOUTH,10552,"SLAVEN, George Benjamin",Liberal,Lib,f,f,12608,2
+21,NS,4,CAPE BRETON SOUTH,10554,"CADEGAN, Perry Lewis",Progressive Conservative,PC,f,f,5618,3
+21,NS,5,COLCHESTER--HANTS,10556,"STANFIELD, Frank Thomas",Progressive Conservative,PC,t,f,13550,1
+21,NS,5,COLCHESTER--HANTS,10557,"PURDY, Gordon Timlin",Liberal,Lib,f,f,13149,2
+21,NS,5,COLCHESTER--HANTS,10555,"SCOTT, Frederick C.G.",Co-operative Commonwealth Federation,CCF,f,f,814,3
+21,NS,6,CUMBERLAND,10559,"BLACK, Percy Chapman",Progressive Conservative,PC,t,f,9850,1
+21,NS,6,CUMBERLAND,10558,"HANWAY, Lawrence Martin",Liberal,Lib,f,f,8718,2
+21,NS,6,CUMBERLAND,10560,"MACBRIEN, Douglas Haig",Co-operative Commonwealth Federation,CCF,f,f,1205,3
+21,NS,7,DIGBY--YARMOUTH,10561,"KIRK, Thomas Andrew Murray",Liberal,Lib,t,f,11084,1
+21,NS,7,DIGBY--YARMOUTH,10562,"FILLEUL, Donald Farish",Progressive Conservative,PC,f,f,9505,2
+21,NS,8,HALIFAX-1,10564,"ISNOR, Gordon B.",Liberal,Lib,t,f,33401,1
+21,NS,8,HALIFAX-1,10565,"CONNOLLY, Joseph Patrick",Progressive Conservative,PC,f,f,18826,2
+21,NS,8,HALIFAX-1,10563,"MACINTOSH, H.L.",Co-operative Commonwealth Federation,CCF,f,f,6018,3
+21,NS,9,HALIFAX-2,10567,"DICKEY, John H.",Liberal,Lib,t,f,31627,1
+21,NS,9,HALIFAX-2,10568,"BISSETT, Frederick William",Progressive Conservative,PC,f,f,18223,2
+21,NS,9,HALIFAX-2,10566,"SHAW, Lloyd R.",Co-operative Commonwealth Federation,CCF,f,f,5777,3
+21,NS,10,INVERNESS--RICHMOND,10569,"CARROLL, William F.",Liberal,Lib,t,f,10584,1
+21,NS,10,INVERNESS--RICHMOND,10570,"MACDONALD, Donald Lewis",Progressive Conservative,PC,f,f,5082,2
+21,NS,11,LUNENBURG,10572,"WINTERS, Hon. Robert Henry",Liberal,Lib,t,f,8829,1
+21,NS,11,LUNENBURG,10571,"GARDNER, Melbourne Morton",Progressive Conservative,PC,f,f,7527,2
+21,NS,11,LUNENBURG,10573,"CROUSE, George Herbert",Co-operative Commonwealth Federation,CCF,f,f,574,3
+21,NS,12,PICTOU,10574,"MCCULLOCH, Henry Byron",Liberal,Lib,t,f,10930,1
+21,NS,12,PICTOU,10576,"IRISH, Ernest George",Progressive Conservative,PC,f,f,9236,2
+21,NS,12,PICTOU,10575,"MCCARTHY, Florence William",Co-operative Commonwealth Federation,CCF,f,f,1397,3
+21,NS,13,QUEENS--SHELBURNE,10577,"SMITH, Donald",Liberal,Lib,t,f,6501,1
+21,NS,13,QUEENS--SHELBURNE,10578,"NICKERSON, Hubert Granville",Progressive Conservative,PC,f,f,6282,2
+21,NS,13,QUEENS--SHELBURNE,10579,"VANBUSKIRK, G.W. Claude",Co-operative Commonwealth Federation,CCF,f,f,389,3
+21,NT,1,YUKON--MACKENZIE RIVER,10581,"SIMMONS, James Aubrey",Liberal,Lib,t,f,3284,1
+21,NT,1,YUKON--MACKENZIE RIVER,10582,"BERRY, Arthur Massey",Independent,Ind,f,f,2283,2
+21,NT,1,YUKON--MACKENZIE RIVER,10580,"STEPHENS, James Elwyn",Co-operative Commonwealth Federation,CCF,f,f,1140,3
+21,ON,1,ALGOMA EAST,10584,"PEARSON, Hon. Lester B.",Liberal,Lib,t,f,6184,1
+21,ON,1,ALGOMA EAST,10585,"TURNER, Grant H.",Progressive Conservative,PC,f,f,2908,2
+21,ON,1,ALGOMA EAST,10583,"THORNTON, George",Co-operative Commonwealth Federation,CCF,f,f,2202,3
+21,ON,2,ALGOMA WEST,10587,"NIXON, George Ewart",Liberal,Lib,t,f,10127,1
+21,ON,2,ALGOMA WEST,10586,"WISHART, Arthur Allison",Progressive Conservative,PC,f,f,5056,2
+21,ON,2,ALGOMA WEST,10588,"JOHNS, Richard Wellington",Co-operative Commonwealth Federation,CCF,f,f,4716,3
+21,ON,3,BRANT--WENTWORTH,10590,"CHARLTON, John A.",Progressive Conservative,PC,t,f,6693,1
+21,ON,3,BRANT--WENTWORTH,10589,"TELFER, James A.",Liberal,Lib,f,f,6669,2
+21,ON,3,BRANT--WENTWORTH,10591,"COX, George E.",Co-operative Commonwealth Federation,CCF,f,f,2259,3
+21,ON,4,BRANTFORD,10593,"MACDONALD, W. Ross",Liberal,Lib,t,f,12565,1
+21,ON,4,BRANTFORD,10592,"SHILLINGTON, John Tozeland",Progressive Conservative,PC,f,f,6747,2
+21,ON,4,BRANTFORD,10594,"COOPER, Reginald",Co-operative Commonwealth Federation,CCF,f,f,4160,3
+21,ON,5,BROADVIEW,10596,"CHURCH, Thomas Langton",Progressive Conservative,PC,t,f,10507,1
+21,ON,5,BROADVIEW,10597,"RADFORD, Ruth",Liberal,Lib,f,f,9316,2
+21,ON,5,BROADVIEW,10598,"GRUBE, George",Co-operative Commonwealth Federation,CCF,f,f,7636,3
+21,ON,5,BROADVIEW,10595,"HENDRY, William Blackwood",Socialist Labour,Ind,f,f,271,4
+21,ON,6,BRUCE,10600,"BLUE, Donald B.",Liberal,Lib,t,f,7517,1
+21,ON,6,BRUCE,10599,"ROBINSON, Andrew E.",Progressive Conservative,PC,f,f,6685,2
+21,ON,6,BRUCE,10601,"MERCER, Aubrey John",Co-operative Commonwealth Federation,CCF,f,f,795,3
+21,ON,7,CARLETON,10603,"DREW, George A.",Progressive Conservative,PC,t,f,18141,1
+21,ON,7,CARLETON,10604,"MCDONALD, John H.",Liberal,Lib,f,f,13937,2
+21,ON,7,CARLETON,10602,"FORSEY, Eugene",Co-operative Commonwealth Federation,CCF,f,f,2155,3
+21,ON,8,COCHRANE,10606,"BRADETTE, Joseph-Arthur",Liberal,Lib,t,f,6352,1
+21,ON,8,COCHRANE,10605,"BRUNELLE, René-Joseph-Napoléon",Progressive Conservative,PC,f,f,3885,2
+21,ON,8,COCHRANE,10608,"LEFEBVRE, Elmo-Stanislas",Co-operative Commonwealth Federation,CCF,f,f,2331,3
+21,ON,8,COCHRANE,10607,"AYOTTE, Joseph-Apolidor-Flor",Union of Electors,UElect,f,f,891,4
+21,ON,9,DANFORTH,10610,"HARRIS, Joseph H.",Progressive Conservative,PC,t,f,9960,1
+21,ON,9,DANFORTH,10609,"CALDWELL, Norman",Liberal,Lib,f,f,8013,2
+21,ON,9,DANFORTH,10611,"MCCURDY, Avis M.",Co-operative Commonwealth Federation,CCF,f,f,5601,3
+21,ON,10,DAVENPORT,10613,"HELLYER, Paul",Liberal,Lib,t,f,11431,1
+21,ON,10,DAVENPORT,10612,"MACNICOL, John R.",Progressive Conservative,PC,f,f,10476,2
+21,ON,10,DAVENPORT,10614,"ARCHER, David B.",Co-operative Commonwealth Federation,CCF,f,f,7366,3
+21,ON,11,DUFFERIN--SIMCOE,10615,"ROWE, Hon. William Earl",Progressive Conservative,PC,t,f,7639,1
+21,ON,11,DUFFERIN--SIMCOE,10616,"MCCULLOCH, Richard",Liberal,Lib,f,f,5720,2
+21,ON,12,DURHAM,10618,"JAMES, John Mason",Liberal,Lib,t,f,6907,1
+21,ON,12,DURHAM,10619,"STEPHENSON, Charles Elwood",Progressive Conservative,PC,f,f,6476,2
+21,ON,12,DURHAM,10617,"KENNY, James David",Co-operative Commonwealth Federation,CCF,f,f,1419,3
+21,ON,13,EGLINTON,10621,"FLEMING, Donald Methuen",Progressive Conservative,PC,t,f,19853,1
+21,ON,13,EGLINTON,10620,"LONGSTAFFE, Jack Roy",Liberal,Lib,f,f,16426,2
+21,ON,13,EGLINTON,10622,"CASS-BEGGS, David",Co-operative Commonwealth Federation,CCF,f,f,4305,3
+21,ON,14,ELGIN,10624,"COYLE, Charles Delmer",Progressive Conservative,PC,t,f,10265,1
+21,ON,14,ELGIN,10623,"NEWELL, Gordon",Liberal,Lib,f,f,9085,2
+21,ON,14,ELGIN,10625,"STAFFORD, Colin Charles",Co-operative Commonwealth Federation,CCF,f,f,1783,3
+21,ON,15,ESSEX EAST,10627,"MARTIN, Hon. Paul",Liberal,Lib,t,f,16709,1
+21,ON,15,ESSEX EAST,10626,"TURNBULL, James Russell",Progressive Conservative,PC,f,f,8204,2
+21,ON,15,ESSEX EAST,10629,"RIGGS, William Charles",Co-operative Commonwealth Federation,CCF,f,f,5213,3
+21,ON,15,ESSEX EAST,10628,"PRINCE, Cyril",Labour Progressive Party,LabPP,f,f,1464,4
+21,ON,16,ESSEX SOUTH,10630,"CLARK, Stuart Murray",Liberal,Lib,t,f,10427,1
+21,ON,16,ESSEX SOUTH,10631,"JASPERSON, Fred",Progressive Conservative,PC,f,f,9110,2
+21,ON,17,ESSEX WEST,10633,"BROWN, Don",Liberal,Lib,t,f,15620,1
+21,ON,17,ESSEX WEST,10632,"MACINTURE, Kenneth W.",Progressive Conservative,PC,f,f,12958,2
+21,ON,17,ESSEX WEST,10634,"CHERNIAK, Archie D.",Co-operative Commonwealth Federation,CCF,f,f,6836,3
+21,ON,18,FORT WILLIAM,10636,"MCIVOR, Dan",Liberal,Lib,t,f,9569,1
+21,ON,18,FORT WILLIAM,10637,"SPENCE, J. Mac",Progressive Conservative,PC,f,f,5751,2
+21,ON,18,FORT WILLIAM,10638,"ANDERSON, Garfield",Co-operative Commonwealth Federation,CCF,f,f,4830,3
+21,ON,18,FORT WILLIAM,10635,"JOHNSON, Alvin L.",Labour Progressive Party,LabPP,f,f,746,4
+21,ON,19,FRONTENAC--ADDINGTON,10640,"AYLESWORTH, Wilbert Ross",Progressive Conservative,PC,t,f,7724,1
+21,ON,19,FRONTENAC--ADDINGTON,10641,"DIXON, Thomas Howard",Liberal,Lib,f,f,6490,2
+21,ON,19,FRONTENAC--ADDINGTON,10639,"MORRISSON, Myrtle, M.",Co-operative Commonwealth Federation,CCF,f,f,767,3
+21,ON,20,GLENGARRY,10643,"MAJOR, William J.",Liberal,Lib,t,f,4809,1
+21,ON,20,GLENGARRY,10644,"MACLEOD, John D.",Progressive Conservative,PC,f,f,3559,2
+21,ON,20,GLENGARRY,10642,"FITZGERALD, John Joseph",Social Credit Party of Canada,SoCred,f,f,300,3
+21,ON,21,GREENWOOD,10646,"MCMILLIN, J. Ernest",Progressive Conservative,PC,t,f,10454,1
+21,ON,21,GREENWOOD,10647,"RYAN, Perry",Liberal,Lib,f,f,10291,2
+21,ON,21,GREENWOOD,10645,"HOTRUM, Harvey",Co-operative Commonwealth Federation,CCF,f,f,8777,3
+21,ON,22,GRENVILLE--DUNDAS,10649,"CASSELMAN, Arza Clair",Progressive Conservative,PC,t,f,8450,1
+21,ON,22,GRENVILLE--DUNDAS,10650,"CASSELMAN, James Franklin",Liberal,Lib,f,f,5102,2
+21,ON,22,GRENVILLE--DUNDAS,10648,"ORR, Arthur Nelson",Co-operative Commonwealth Federation,CCF,f,f,496,3
+21,ON,23,GREY NORTH,10652,"BENNETT, Colin Emerson",Liberal,Lib,t,f,9949,1
+21,ON,23,GREY NORTH,10651,"CASE, Wilfrid Garfield",Progressive Conservative,PC,f,f,7589,2
+21,ON,23,GREY NORTH,10653,"MACNAB, Elgin",Co-operative Commonwealth Federation,CCF,f,f,1354,3
+21,ON,24,GREY--BRUCE,10655,"HARRIS, Walter Edward",Liberal,Lib,t,f,10528,1
+21,ON,24,GREY--BRUCE,10656,"SAWYER, Frank D.",Progressive Conservative,PC,f,f,6051,2
+21,ON,24,GREY--BRUCE,10654,"BALTRUWEIT, Rudolph",Co-operative Commonwealth Federation,CCF,f,f,1137,3
+21,ON,25,HALDIMAND,10657,"CATHERWOOD, A. Earl",Progressive Conservative,PC,t,f,5432,1
+21,ON,25,HALDIMAND,10658,"DISHER, G. Garfield",Liberal,Lib,f,f,5124,2
+21,ON,25,HALDIMAND,10659,"BROWN, Howard Elis",Co-operative Commonwealth Federation,CCF,f,f,978,3
+21,ON,26,HALTON,10661,"CLEAVER, Hughes",Liberal,Lib,t,f,9546,1
+21,ON,26,HALTON,10660,"BENNETT, M. Sybil",Progressive Conservative,PC,f,f,8099,2
+21,ON,26,HALTON,10662,"SHANE, William Albert",Co-operative Commonwealth Federation,CCF,f,f,1829,3
+21,ON,27,HAMILTON EAST,10664,"ROSS, Tom",Liberal,Lib,t,f,14035,1
+21,ON,27,HAMILTON EAST,10663,"BANTING, Digby",Progressive Conservative,PC,f,f,11155,2
+21,ON,27,HAMILTON EAST,10666,"SEFTON, Larry",Co-operative Commonwealth Federation,CCF,f,f,8302,3
+21,ON,27,HAMILTON EAST,10667,"DUNLOP, Peter",Labour Progressive Party,LabPP,f,f,1413,4
+21,ON,27,HAMILTON EAST,10665,"PARKER, Robert",Labour,Labour,f,f,307,5
+21,ON,28,HAMILTON WEST,10669,"GIBSON, Hon. Colin",Liberal,Lib,t,f,12324,1
+21,ON,28,HAMILTON WEST,10670,"FAIRCLOUGH, Ellen L.",Progressive Conservative,PC,f,f,9252,2
+21,ON,28,HAMILTON WEST,10668,"ALLEN, John Stanley",Co-operative Commonwealth Federation,CCF,f,f,6748,3
+21,ON,29,HASTINGS SOUTH,10672,"FOLLWELL, Frank S.",Liberal,Lib,t,f,13099,1
+21,ON,29,HASTINGS SOUTH,10673,"ARNOTT, Richard Duke",Progressive Conservative,PC,f,f,10337,2
+21,ON,29,HASTINGS SOUTH,10671,"COLE, Arthur Clyde",Co-operative Commonwealth Federation,CCF,f,f,1780,3
+21,ON,30,HASTINGS--PETERBOROUGH,10675,"WHITE, George Stanley",Progressive Conservative,PC,t,f,6578,1
+21,ON,30,HASTINGS--PETERBOROUGH,10676,"MUNRO, John Wellington",Liberal,Lib,f,f,4681,2
+21,ON,30,HASTINGS--PETERBOROUGH,10674,"HAFFEY, John Thomas Basil",Co-operative Commonwealth Federation,CCF,f,f,732,3
+21,ON,31,HIGH PARK,10678,"CAMERON, Alan John Patrick",Liberal,Lib,t,f,12216,1
+21,ON,31,HIGH PARK,10679,"MCMASTER, William Alexander",Progressive Conservative,PC,f,f,11726,2
+21,ON,31,HIGH PARK,10677,"PETHICK, Clarence William",Co-operative Commonwealth Federation,CCF,f,f,6671,3
+21,ON,32,HURON NORTH,10681,"CARDIFF, Lewis Elston",Progressive Conservative,PC,t,f,6986,1
+21,ON,32,HURON NORTH,10680,"HETHERINGTON, Robert Scott",Liberal,Lib,f,f,6465,2
+21,ON,32,HURON NORTH,10682,"BURROWS, Harry Charles",Co-operative Commonwealth Federation,CCF,f,f,497,3
+21,ON,33,HURON--PERTH,10683,"MCLEAN, Andrew Young",Liberal,Lib,t,f,7000,1
+21,ON,33,HURON--PERTH,10684,"MCKINLEY, Elgin",Progressive Conservative,PC,f,f,6705,2
+21,ON,33,HURON--PERTH,10685,"PETERS, John Robert",Co-operative Commonwealth Federation,CCF,f,f,558,3
+21,ON,34,KENORA--RAINY RIVER,10687,"BENIDICKSON, William Moore",Liberal Labour,LibLP,t,f,11297,1
+21,ON,34,KENORA--RAINY RIVER,10688,"FREGEAU, Joseph Victor",Progressive Conservative,PC,f,f,5024,2
+21,ON,34,KENORA--RAINY RIVER,10686,"JAMES, Ralph Jackson",Co-operative Commonwealth Federation,CCF,f,f,3869,3
+21,ON,35,KENT,10690,"HUFFMAN, Blake",Liberal,Lib,t,f,14903,1
+21,ON,35,KENT,10691,"DESMOND, Clayton Earl",Progressive Conservative,PC,f,f,12444,2
+21,ON,35,KENT,10689,"SIMPSON, Kenneth",Co-operative Commonwealth Federation,CCF,f,f,949,3
+21,ON,36,KINGSTON CITY,10693,"HENDERSON, William James",Liberal,Lib,t,f,10045,1
+21,ON,36,KINGSTON CITY,10694,"KIDD, Thomas Ashmore",Progressive Conservative,PC,f,f,7831,2
+21,ON,36,KINGSTON CITY,10692,"CARTWRIGHT, Henry Lennox",Co-operative Commonwealth Federation,CCF,f,f,786,3
+21,ON,37,LAMBTON WEST,10696,"MURPHY, Joseph Warner",Progressive Conservative,PC,t,f,9730,1
+21,ON,37,LAMBTON WEST,10697,"NELSON, William Charles",Liberal,Lib,f,f,8962,2
+21,ON,37,LAMBTON WEST,10695,"CHAYTOR, James Welford",Co-operative Commonwealth Federation,CCF,f,f,2014,3
+21,ON,38,LAMBTON--KENT,10698,"MACKENZIE, Hugh Alexander",Liberal,Lib,t,f,9674,1
+21,ON,38,LAMBTON--KENT,10699,"HENDERSON, Robert James",Progressive Conservative,PC,f,f,8189,2
+21,ON,39,LANARK,10701,"BLAIR, William Gourlay",Progressive Conservative,PC,t,f,10921,1
+21,ON,39,LANARK,10700,"DOYLE, Frederick Sylvester",Liberal,Lib,f,f,6682,2
+21,ON,39,LANARK,10702,"POWELL, William Henry",Co-operative Commonwealth Federation,CCF,f,f,632,3
+21,ON,40,LEEDS,10704,"FULFORD, George Taylor",Liberal,Lib,t,f,10080,1
+21,ON,40,LEEDS,10705,"CARROLL, John Lionel",Progressive Conservative,PC,f,f,9302,2
+21,ON,40,LEEDS,10703,"HASTIE, Stewart",Co-operative Commonwealth Federation,CCF,f,f,699,3
+21,ON,41,LINCOLN,10707,"CAVERS, Harry Peter",Liberal,Lib,t,f,17407,1
+21,ON,41,LINCOLN,10706,"HILL, C. Bruce",Progressive Conservative,PC,f,f,14038,2
+21,ON,41,LINCOLN,10709,"SCHROEDER, Allen Eugene",Co-operative Commonwealth Federation,CCF,f,f,5793,3
+21,ON,41,LINCOLN,10708,"PRENTICE, Howard",Independent,Ind,f,f,742,4
+21,ON,42,LONDON,10711,"JEFFERY, Alex",Liberal,Lib,t,f,16427,1
+21,ON,42,LONDON,10710,"MANROSS, Park",Progressive Conservative,PC,f,f,14988,2
+21,ON,42,LONDON,10712,"HALL, Everett O.",Co-operative Commonwealth Federation,CCF,f,f,4532,3
+21,ON,43,MIDDLESEX EAST,10713,"WHITE, Harry Oliver",Progressive Conservative,PC,t,f,9258,1
+21,ON,43,MIDDLESEX EAST,10714,"KIME, Fred O.",Liberal,Lib,f,f,9198,2
+21,ON,43,MIDDLESEX EAST,10715,"STEWART, Miller",Co-operative Commonwealth Federation,CCF,f,f,2848,3
+21,ON,44,MIDDLESEX WEST,10717,"MCCUBBIN, Robert",Liberal,Lib,t,f,7938,1
+21,ON,44,MIDDLESEX WEST,10716,"LITTLE, James George",Progressive Conservative,PC,f,f,5239,2
+21,ON,45,NIPISSING,10719,"GARLAND, John Richard",Liberal,Lib,t,f,11061,1
+21,ON,45,NIPISSING,10720,"SEGUIN, Avit",Progressive Conservative,PC,f,f,4836,2
+21,ON,45,NIPISSING,10721,"DICKERSON, Merle E.",Co-operative Commonwealth Federation,CCF,f,f,3663,3
+21,ON,45,NIPISSING,10718,"SHAW, John L.",Social Credit Party of Canada,SoCred,f,f,1552,4
+21,ON,45,NIPISSING,10722,"CHAMPAGNE, Rolland",Union of Electors,UElect,f,f,489,5
+21,ON,46,NORFOLK,10724,"ANDERSON, Raymond Elmer",Liberal,Lib,t,f,9280,1
+21,ON,46,NORFOLK,10725,"BARRETT, Theobald Butler",Progressive Conservative,PC,f,f,7067,2
+21,ON,46,NORFOLK,10723,"JAMES, William Ernest Stanl",Co-operative Commonwealth Federation,CCF,f,f,1180,3
+21,ON,47,NORTHUMBERLAND,10726,"ROBERTSON, Frederick Greystock",Liberal,Lib,t,f,9374,1
+21,ON,47,NORTHUMBERLAND,10727,"DROPE, Robert Earle",Progressive Conservative,PC,f,f,8522,2
+21,ON,48,ONTARIO,10729,"THOMSON, Walter Cunningham",Liberal,Lib,t,f,13412,1
+21,ON,48,ONTARIO,10730,"MCCALLUM, Frank",Progressive Conservative,PC,f,f,9803,2
+21,ON,48,ONTARIO,10728,"WILLIAMS, Arthur Henry",Co-operative Commonwealth Federation,CCF,f,f,9344,3
+21,ON,49,OTTAWA EAST,10732,"RICHARD, J.-T.",Liberal,Lib,t,f,20895,1
+21,ON,49,OTTAWA EAST,10734,"CHOQUETTE, Lionel",Progressive Conservative,PC,f,f,5499,2
+21,ON,49,OTTAWA EAST,10735,"ROBERT, Henri",Co-operative Commonwealth Federation,CCF,f,f,1363,3
+21,ON,49,OTTAWA EAST,10731,"PINARD, Joseph Albert",Independent Liberal,Ind,f,f,1108,4
+21,ON,49,OTTAWA EAST,10733,"O'MEARA, Edward Victor",Independent Progressive Conservative,Ind,f,f,777,5
+21,ON,49,OTTAWA EAST,10736,"BRUNET, Patrice",Social Credit Party of Canada,SoCred,f,f,208,6
+21,ON,50,OTTAWA WEST,10738,"MCILRAITH, George James",Liberal,Lib,t,f,24295,1
+21,ON,50,OTTAWA WEST,10737,"HOWE, Osmond Francis",Progressive Conservative,PC,f,f,15010,2
+21,ON,50,OTTAWA WEST,10739,"MANN, Walter Beresford",Co-operative Commonwealth Federation,CCF,f,f,2754,3
+21,ON,51,OXFORD,10740,"MURRAY, Alexander Clark",Liberal,Lib,t,f,12581,1
+21,ON,51,OXFORD,10742,"DANIEL, Kenneth Roy",Progressive Conservative,PC,f,f,11791,2
+21,ON,51,OXFORD,10741,"GOODWIN, William Gordon",Co-operative Commonwealth Federation,CCF,f,f,1688,3
+21,ON,52,PARKDALE,10744,"HUNTER, John",Liberal,Lib,t,f,12876,1
+21,ON,52,PARKDALE,10745,"TIMMINS, Harold",Progressive Conservative,PC,f,f,10137,2
+21,ON,52,PARKDALE,10743,"WATERS, Arthur",Co-operative Commonwealth Federation,CCF,f,f,6242,3
+21,ON,53,PARRY SOUND--MUSKOKA,10747,"MCDONALD, Bucko",Liberal,Lib,t,f,11636,1
+21,ON,53,PARRY SOUND--MUSKOKA,10746,"MACDONNELL, James M.",Progressive Conservative,PC,f,f,9816,2
+21,ON,53,PARRY SOUND--MUSKOKA,10748,"TAYLOR, Earle Torrie",Co-operative Commonwealth Federation,CCF,f,f,2535,3
+21,ON,54,PEEL,10750,"GRAYDON, Gordon",Progressive Conservative,PC,t,f,10570,1
+21,ON,54,PEEL,10751,"HARMER, Stanley G.",Liberal,Lib,f,f,7788,2
+21,ON,54,PEEL,10749,"JENKINS, Charles Donson",Co-operative Commonwealth Federation,CCF,f,f,3043,3
+21,ON,55,PERTH,10753,"CORRY, James Neilson",Liberal,Lib,t,f,10901,1
+21,ON,55,PERTH,10752,"BRADSHAW, Albert James",Progressive Conservative,PC,f,f,9667,2
+21,ON,55,PERTH,10754,"WALTER, John",Co-operative Commonwealth Federation,CCF,f,f,1697,3
+21,ON,56,PETERBOROUGH WEST,10756,"FRASER, Gordon Knapman",Progressive Conservative,PC,t,f,10981,1
+21,ON,56,PETERBOROUGH WEST,10757,"CLAPPER, Aubrey Victor",Liberal,Lib,f,f,10738,2
+21,ON,56,PETERBOROUGH WEST,10755,"MILES, John Howard",Co-operative Commonwealth Federation,CCF,f,f,2804,3
+21,ON,57,PORT ARTHUR,10759,"HOWE, Rt. Hon. Clarence Decatur",Liberal,Lib,t,f,12646,1
+21,ON,57,PORT ARTHUR,10760,"CAWLEY, James Thomas",Co-operative Commonwealth Federation,CCF,f,f,6401,2
+21,ON,57,PORT ARTHUR,10758,"ROBINSON, Robert Ainslie",Progressive Conservative,PC,f,f,5068,3
+21,ON,57,PORT ARTHUR,10761,"DAGSVIK, John Emil",Social Credit Party of Canada,SoCred,f,f,627,4
+21,ON,58,PRESCOTT,10763,"BRUNEAU, Raymond",Independent Liberal,Ind,t,f,5380,1
+21,ON,58,PRESCOTT,10762,"BERTRAND, Elie Oscar",Liberal,Lib,f,f,4148,2
+21,ON,58,PRESCOTT,10764,"ST-DENIS, Joseph",Progressive Conservative,PC,f,f,1928,3
+21,ON,59,PRINCE EDWARD--LENNOX,10765,"TUSTIN, George James",Progressive Conservative,PC,t,f,7435,1
+21,ON,59,PRINCE EDWARD--LENNOX,10766,"BELL, Gordon",Liberal,Lib,f,f,5965,2
+21,ON,59,PRINCE EDWARD--LENNOX,10767,"CARTER, Colin",Co-operative Commonwealth Federation,CCF,f,f,866,3
+21,ON,60,RENFREW NORTH,10768,"WARREN, Ralph Melville",Liberal,Lib,t,f,8358,1
+21,ON,60,RENFREW NORTH,10769,"COTNAM, Ira Delbert",Progressive Conservative,PC,f,f,6598,2
+21,ON,60,RENFREW NORTH,10770,"WRIGHT, John Charles",Co-operative Commonwealth Federation,CCF,f,f,1530,3
+21,ON,61,RENFREW SOUTH,10772,"MCCANN, Hon. James Joseph",Liberal,Lib,t,f,7909,1
+21,ON,61,RENFREW SOUTH,10771,"MCLEAN, Allan Alexander",Progressive Conservative,PC,f,f,6412,2
+21,ON,61,RENFREW SOUTH,10773,"MCMANUS, John Clifford",Co-operative Commonwealth Federation,CCF,f,f,486,3
+21,ON,62,ROSEDALE,10775,"HENRY, Charles",Liberal,Lib,t,f,10835,1
+21,ON,62,ROSEDALE,10774,"JACKMAN, Harry R.",Progressive Conservative,PC,f,f,10189,2
+21,ON,62,ROSEDALE,10776,"BRISTOW, Dudley",Co-operative Commonwealth Federation,CCF,f,f,6170,3
+21,ON,63,RUSSELL,10778,"GOUR, Joseph-Omer",Liberal,Lib,t,f,12635,1
+21,ON,63,RUSSELL,10780,"GENDRON, Moïse",Progressive Conservative,PC,f,f,5767,2
+21,ON,63,RUSSELL,10777,"COUSINEAU, Ernest",Co-operative Commonwealth Federation,CCF,f,f,1112,3
+21,ON,63,RUSSELL,10779,"PAPINEAU, Adrien-Joseph",Social Credit Party of Canada,SoCred,f,f,538,4
+21,ON,64,SIMCOE EAST,10782,"ROBINSON, William Alfred",Liberal,Lib,t,f,10030,1
+21,ON,64,SIMCOE EAST,10781,"WOOD, John Elmer",Progressive Conservative,PC,f,f,7976,2
+21,ON,64,SIMCOE EAST,10783,"SKELTON, John Edward",Co-operative Commonwealth Federation,CCF,f,f,2095,3
+21,ON,64,SIMCOE EAST,10784,"MARCHILDON, Marguerite",Union of Electors,UElect,f,f,404,4
+21,ON,65,SIMCOE NORTH,10786,"FERGUSON, Julian Harcourt",Progressive Conservative,PC,t,f,7658,1
+21,ON,65,SIMCOE NORTH,10785,"CURRIE, J. Gladstone",Liberal,Lib,f,f,6613,2
+21,ON,65,SIMCOE NORTH,10787,"AYRES, Reginald Edward",Co-operative Commonwealth Federation,CCF,f,f,1053,3
+21,ON,66,SPADINA,10789,"CROLL, David Arnold",Liberal,Lib,t,f,23652,1
+21,ON,66,SPADINA,10788,"BOX, Willard M.",Progressive Conservative,PC,f,f,9407,2
+21,ON,66,SPADINA,10790,"WHITE, William Andrew",Co-operative Commonwealth Federation,CCF,f,f,5969,3
+21,ON,67,ST. PAUL'S,10792,"ROONEY, James H.",Liberal,Lib,t,f,14000,1
+21,ON,67,ST. PAUL'S,10791,"MICHENER, Roland",Progressive Conservative,PC,f,f,12922,2
+21,ON,67,ST. PAUL'S,10793,"BREWIN, Andrew F.",Co-operative Commonwealth Federation,CCF,f,f,6677,3
+21,ON,68,STORMONT,10795,"CHEVRIER, Hon. Lionel",Liberal,Lib,t,f,12639,1
+21,ON,68,STORMONT,10797,"SHAVER, Frank Thomas",Progressive Conservative,PC,f,f,6670,2
+21,ON,68,STORMONT,10794,"MULLIN, Alexander Francis",Co-operative Commonwealth Federation,CCF,f,f,1283,3
+21,ON,68,STORMONT,10796,"ST-AMOUR, Lucien",Union of Electors,UElect,f,f,252,4
+21,ON,69,SUDBURY,10799,"GAUTHIER, J. Leoda",Liberal,Lib,t,f,15636,1
+21,ON,69,SUDBURY,10800,"MCANDREW, Patrick Joseph",Progressive Conservative,PC,f,f,8009,2
+21,ON,69,SUDBURY,10798,"CARLIN, Robert H.",Farmer Labour,Ind,f,f,6161,3
+21,ON,69,SUDBURY,10801,"EVOY, Willard H.",Co-operative Commonwealth Federation,CCF,f,f,5717,4
+21,ON,70,TIMISKAMING,10803,"LITTLE, Walter",Liberal,Lib,t,f,8528,1
+21,ON,70,TIMISKAMING,10804,"AMES, Colborne Campbell",Co-operative Commonwealth Federation,CCF,f,f,6961,2
+21,ON,70,TIMISKAMING,10802,"AKEHURST, John Fenton Richardson",Progressive Conservative,PC,f,f,5512,3
+21,ON,71,TIMMINS,10806,"EYRE, Karl A.",Liberal,Lib,t,f,7949,1
+21,ON,71,TIMMINS,10807,"LALONDE, Leo P.",Co-operative Commonwealth Federation,CCF,f,f,5517,2
+21,ON,71,TIMMINS,10805,"BOYCE, Percy",Progressive Conservative,PC,f,f,4377,3
+21,ON,71,TIMMINS,10808,"STEVENSON, Raymond Leslie",Labour Progressive Party,LabPP,f,f,813,4
+21,ON,72,TRINITY,10810,"CONACHER, Lionel",Liberal,Lib,t,f,10389,1
+21,ON,72,TRINITY,10811,"SKEY, Larry",Progressive Conservative,PC,f,f,8423,2
+21,ON,72,TRINITY,10809,"BUCK, Tim",Labour Progressive Party,LabPP,f,f,6438,3
+21,ON,72,TRINITY,10812,"VOADEN, Herman",Co-operative Commonwealth Federation,CCF,f,f,4522,4
+21,ON,73,VICTORIA,10814,"HODGSON, Clayton Wesley",Progressive Conservative,PC,t,f,11061,1
+21,ON,73,VICTORIA,10813,"MCNEVIN, Bruce",Liberal,Lib,f,f,10105,2
+21,ON,73,VICTORIA,10815,"MILLING, Gordon Balfour",Co-operative Commonwealth Federation,CCF,f,f,625,3
+21,ON,74,WATERLOO NORTH,10818,"BREITHAUPT, Louis O.",Liberal,Lib,t,f,17715,1
+21,ON,74,WATERLOO NORTH,10817,"GRABER, Harvey J.",Progressive Conservative,PC,f,f,7229,2
+21,ON,74,WATERLOO NORTH,10816,"WAGNER, John S.",Co-operative Commonwealth Federation,CCF,f,f,7141,3
+21,ON,75,WATERLOO SOUTH,10820,"HOMUTH, Karl",Progressive Conservative,PC,t,f,8740,1
+21,ON,75,WATERLOO SOUTH,10819,"MOFFATT, J. Mel",Liberal,Lib,f,f,8397,2
+21,ON,75,WATERLOO SOUTH,10821,"DUFRESNE, Paul",Co-operative Commonwealth Federation,CCF,f,f,5425,3
+21,ON,76,WELLAND,10823,"MITCHELL, Hon. Humphrey",Liberal,Lib,t,f,23734,1
+21,ON,76,WELLAND,10824,"HUGHES, Sam",Progressive Conservative,PC,f,f,13259,2
+21,ON,76,WELLAND,10822,"MCCRAE, Armour",Co-operative Commonwealth Federation,CCF,f,f,11493,3
+21,ON,76,WELLAND,10825,"DOIG, Melbourne A.",Labour Progressive Party,LabPP,f,f,1711,4
+21,ON,77,WELLINGTON NORTH,10827,"DARROCH, Arnold",Liberal,Lib,t,f,6057,1
+21,ON,77,WELLINGTON NORTH,10826,"MENARY, Lewis",Progressive Conservative,PC,f,f,6025,2
+21,ON,77,WELLINGTON NORTH,10828,"HEFFERNAN, Frank J.",Co-operative Commonwealth Federation,CCF,f,f,479,3
+21,ON,78,WELLINGTON SOUTH,10830,"HOSKING, Henry Alfred",Liberal,Lib,t,f,10344,1
+21,ON,78,WELLINGTON SOUTH,10829,"ROBERTSON, G. Ernest",Progressive Conservative,PC,f,f,7778,2
+21,ON,78,WELLINGTON SOUTH,10831,"LEAMAN, Charles Franklin",Co-operative Commonwealth Federation,CCF,f,f,3748,3
+21,ON,79,WENTWORTH,10833,"LENNARD, Frank Exton",Progressive Conservative,PC,t,f,16443,1
+21,ON,79,WENTWORTH,10834,"HICKS, Henry Arnott",Liberal,Lib,f,f,13312,2
+21,ON,79,WENTWORTH,10835,"LEWIS, David",Co-operative Commonwealth Federation,CCF,f,f,11638,3
+21,ON,79,WENTWORTH,10832,"RYERSON, Stanley B.",Labour Progressive Party,LabPP,f,f,1028,4
+21,ON,79,WENTWORTH,10836,"GILES, Charles",Independent,Ind,f,f,562,5
+21,ON,80,YORK EAST,10838,"MCGREGOR, Robert H.",Progressive Conservative,PC,t,f,22364,1
+21,ON,80,YORK EAST,10837,"MARTIN, Walter Melville",Liberal,Lib,f,f,21398,2
+21,ON,80,YORK EAST,10839,"MADILL, Frederick C.",Co-operative Commonwealth Federation,CCF,f,f,13448,3
+21,ON,81,YORK NORTH,10841,"SMITH, Jack",Liberal,Lib,t,f,18933,1
+21,ON,81,YORK NORTH,10840,"WALWYN, Arthur",Progressive Conservative,PC,f,f,14429,2
+21,ON,81,YORK NORTH,10842,"WOODS, Arch",Co-operative Commonwealth Federation,CCF,f,f,5736,3
+21,ON,82,YORK SOUTH,10844,"NOSEWORTHY, Joseph W.",Co-operative Commonwealth Federation,CCF,t,f,15293,1
+21,ON,82,YORK SOUTH,10843,"COCKERAM, Alan",Progressive Conservative,PC,f,f,14273,2
+21,ON,82,YORK SOUTH,10845,"MARSDEN, Eric R.",Liberal,Lib,f,f,11932,3
+21,ON,83,YORK WEST,10846,"ADAMSON, Rodney",Progressive Conservative,PC,t,f,19184,1
+21,ON,83,YORK WEST,10847,"THOMPSON, Kenneth Lovell",Liberal,Lib,f,f,18689,2
+21,ON,83,YORK WEST,10848,"KERNIGHAN, Murray S.",Co-operative Commonwealth Federation,CCF,f,f,12498,3
+21,PE,1,KING'S,10849,"KICKHAM, Thomas Joseph",Liberal,Lib,t,f,5079,1
+21,PE,1,KING'S,10850,"MACDONALD, John Augustine",Progressive Conservative,PC,f,f,4482,2
+21,PE,2,PRINCE,10852,"MACNAUGHT, J. Watson",Liberal,Lib,t,f,8007,1
+21,PE,2,PRINCE,10853,"PRICE, John H.",Progressive Conservative,PC,f,f,7834,2
+21,PE,2,PRINCE,10851,"MACLEAN, Donald",Co-operative Commonwealth Federation,CCF,f,f,1182,3
+21,PE,3,QUEEN'S-1,10855,"DOUGLAS, James Lester",Liberal,Lib,t,f,10652,1
+21,PE,3,QUEEN'S-1,10854,"MILLER, Cecil Allan",Liberal,Lib,f,f,9742,2
+21,PE,4,QUEEN'S-2,10858,"MCLURE, W. Chester S.",Progressive Conservative,PC,t,f,10657,1
+21,PE,4,QUEEN'S-2,10857,"MACLEAN, J. Angus",Progressive Conservative,PC,f,f,10016,2
+21,PE,4,QUEEN'S-2,10856,"HOUSTON, Lorne Ellsworth",Co-operative Commonwealth Federation,CCF,f,f,444,3
+21,QC,1,ARGENTEUIL--DEUX-MONTAGNES,10860,"VALOIS, Philippe",Liberal,Lib,t,f,10500,1
+21,QC,1,ARGENTEUIL--DEUX-MONTAGNES,10859,"HEON, Georges-H.",Progressive Conservative,PC,f,f,9672,2
+21,QC,1,ARGENTEUIL--DEUX-MONTAGNES,10861,"DESJARDINS, J.-Orphir",Union of Electors,UElect,f,f,481,3
+21,QC,2,BEAUCE,10863,"POULIN, Raoul",Independent,Ind,t,f,10267,1
+21,QC,2,BEAUCE,10862,"DIONNE, Ludger",Liberal,Lib,f,f,10045,2
+21,QC,2,BEAUCE,10864,"FORTIER, Rosaire",Union of Electors,UElect,f,f,1840,3
+21,QC,3,BEAUHARNOIS,10866,"CAUCHON, Robert",Liberal,Lib,t,f,11631,1
+21,QC,3,BEAUHARNOIS,10865,"PRIMEAU, Joseph",Progressive Conservative,PC,f,f,4547,2
+21,QC,3,BEAUHARNOIS,10867,"RONDEAU, Gilbert",Union of Electors,UElect,f,f,397,3
+21,QC,4,BELLECHASSE,10869,"PICARD, L.-Philippe",Liberal,Lib,t,f,7395,1
+21,QC,4,BELLECHASSE,10868,"BOUCHARD, Paul",Independent,Ind,f,f,4798,2
+21,QC,4,BELLECHASSE,10871,"FRENETTE, Donat",Union of Electors,UElect,f,f,332,3
+21,QC,4,BELLECHASSE,10870,"ST-HILAIRE, Jean-Maurice",Progressive Conservative,PC,f,f,41,4
+21,QC,5,BERTHIER--MASKINONGÉ,10873,"LANGLOIS, Joseph",Liberal,Lib,t,f,11770,1
+21,QC,5,BERTHIER--MASKINONGÉ,10872,"BELAND, René",Progressive Conservative,PC,f,f,8242,2
+21,QC,6,BONAVENTURE,10875,"ARSENAULT, Bona",Liberal,Lib,t,f,9802,1
+21,QC,6,BONAVENTURE,10876,"DION, Edouard",Progressive Conservative,PC,f,f,6776,2
+21,QC,6,BONAVENTURE,10874,"TREMBLAY, Bertrand",Independent Liberal,Ind,f,f,437,3
+21,QC,7,BROME--MISSISQUOI,10878,"GOSSELIN, Henri A.",Liberal,Lib,t,f,8831,1
+21,QC,7,BROME--MISSISQUOI,10879,"LEONARD, Vincent de Lourdes",Progressive Conservative,PC,f,f,6266,2
+21,QC,7,BROME--MISSISQUOI,10880,"CHEVALIER, Georges-Aimé",Union of Electors,UElect,f,f,402,3
+21,QC,7,BROME--MISSISQUOI,10877,"ST-AMOUR, Georges-M.",Co-operative Commonwealth Federation,CCF,f,f,279,4
+21,QC,8,CARTIER,10882,"HARTT, Maurice",Liberal,Lib,t,f,11993,1
+21,QC,8,CARTIER,10883,"BINDER, Harry",Labour Progressive Party,LabPP,f,f,4868,2
+21,QC,8,CARTIER,10881,"KLEIN, Abraham M.",Co-operative Commonwealth Federation,CCF,f,f,3238,3
+21,QC,8,CARTIER,10884,"HEBERT, Maurice-S.",Progressive Conservative,PC,f,f,2636,4
+21,QC,9,CHAMBLY--ROUVILLE,10886,"PINARD, Roch",Liberal,Lib,t,f,20946,1
+21,QC,9,CHAMBLY--ROUVILLE,10887,"LEFRANCOIS, Jean-Charles",Progressive Conservative,PC,f,f,11362,2
+21,QC,9,CHAMBLY--ROUVILLE,10885,"PATENAUDE, Joseph-Charles",Co-operative Commonwealth Federation,CCF,f,f,733,3
+21,QC,9,CHAMBLY--ROUVILLE,10888,"FLEURY, Jean-Marie",Independent Progressive Conservative,Ind,f,f,449,4
+21,QC,10,CHAMPLAIN,10890,"ROCHEFORT, Joseph-Irenée",Liberal,Lib,t,f,11663,1
+21,QC,10,CHAMPLAIN,10891,"PRONOVOST, Joseph-Lucien-Ivanho",Progressive Conservative,PC,f,f,7719,2
+21,QC,10,CHAMPLAIN,10889,"MORRISSETTE, Roméo",Independent Liberal,Ind,f,f,940,3
+21,QC,10,CHAMPLAIN,10892,"MEUNIER, Henri",Union of Electors,UElect,f,f,747,4
+21,QC,11,CHAPLEAU,10894,"GOURD, David",Liberal,Lib,t,f,11304,1
+21,QC,11,CHAPLEAU,10893,"OUELLET, Jean-Robert",Union of Electors,UElect,f,f,6318,2
+21,QC,11,CHAPLEAU,10895,"LEPAGE, J.-Edmond",Progressive Conservative,PC,f,f,1822,3
+21,QC,12,CHARLEVOIX,10897,"MALTAIS, Auguste",Liberal,Lib,t,f,9543,1
+21,QC,12,CHARLEVOIX,10898,"BOITEAU, Emile",Independent,Ind,f,f,4402,2
+21,QC,12,CHARLEVOIX,10899,"DUFOUR, Joseph-Hidas-Aimé",Progressive Conservative,PC,f,f,1608,3
+21,QC,12,CHARLEVOIX,10896,"SIMARD, Pierre",Union of Electors,UElect,f,f,940,4
+21,QC,12,CHARLEVOIX,10900,"LACROIX, Donat",Independent Liberal,Ind,f,f,217,5
+21,QC,13,CHICOUTIMI,10901,"GAGNON, Paul-Edmond",Independent,Ind,t,f,10252,1
+21,QC,13,CHICOUTIMI,10903,"DESBIENS, Charles-Henri",Liberal,Lib,f,f,9763,2
+21,QC,13,CHICOUTIMI,10902,"JEAN, Charles-David",Union of Electors,UElect,f,f,1757,3
+21,QC,14,CHÂTEAUGUAY--HUNTINGDON--LAPRAIRIE,10905,"BLACK, Donald E.",Liberal,Lib,t,f,9986,1
+21,QC,14,CHÂTEAUGUAY--HUNTINGDON--LAPRAIRIE,10904,"BEAUDIN, Joseph-Siméon",Progressive Conservative,PC,f,f,7028,2
+21,QC,15,COMPTON--FRONTENAC,10907,"BLANCHETTE, J.-Adéodat",Liberal,Lib,t,f,10764,1
+21,QC,15,COMPTON--FRONTENAC,10906,"ROUSSEAU, Alden-Raymond",Progressive Conservative,PC,f,f,5327,2
+21,QC,15,COMPTON--FRONTENAC,10908,"LAFRENIÈRE, Rosaire",Union of Electors,UElect,f,f,1555,3
+21,QC,16,DORCHESTER,10910,"TREMBLAY, Léonard-David",Liberal,Lib,t,f,6983,1
+21,QC,16,DORCHESTER,10909,"CORRIVEAU, Gérard",Progressive Conservative,PC,f,f,6762,2
+21,QC,16,DORCHESTER,10911,"BOUCHARD, Louis-Philippe",Union of Electors,UElect,f,f,1020,3
+21,QC,17,DRUMMOND--ARTHABASKA,10913,"CLOUTIER, Armand",Liberal,Lib,t,f,16899,1
+21,QC,17,DRUMMOND--ARTHABASKA,10912,"LAMAIRE, Antonio",Union of Electors,UElect,f,f,4251,2
+21,QC,17,DRUMMOND--ARTHABASKA,10914,"DEMERS, Jos.-Edmond",Progressive Conservative,PC,f,f,1804,3
+21,QC,18,GASPÉ,10915,"LANGLOIS, J.-G.-Léopold",Liberal,Lib,t,f,12567,1
+21,QC,18,GASPÉ,10916,"ROY, J.-Sasseville",Progressive Conservative,PC,f,f,9650,2
+21,QC,19,GATINEAU,10918,"RAYMOND, Léon-Joseph",Liberal,Lib,t,f,9865,1
+21,QC,19,GATINEAU,10917,"ST-JEAN, Ernest-Anastase",Progressive Conservative,PC,f,f,4448,2
+21,QC,19,GATINEAU,10919,"ROCHON, Joseph-Eugène",Union of Electors,UElect,f,f,697,3
+21,QC,20,HOCHELAGA,10921,"EUDES, Raymond",Liberal,Lib,t,f,17633,1
+21,QC,20,HOCHELAGA,10920,"RAVARY, Joseph-Omer",Progressive Conservative,PC,f,f,6930,2
+21,QC,20,HOCHELAGA,10922,"DAGENAIS, Roméo",Union of Electors,UElect,f,f,1615,3
+21,QC,21,HULL,10924,"FOURNIER, Hon. Alphonse",Liberal,Lib,t,f,18446,1
+21,QC,21,HULL,10926,"Boucher, Jacques",Progressive Conservative,PC,f,f,7060,2
+21,QC,21,HULL,10925,"BRUNET, Cécile",Union of Electors,UElect,f,f,1871,3
+21,QC,21,HULL,10923,"LAROSE, Laurent-Joseph",Co-operative Commonwealth Federation,CCF,f,f,771,4
+21,QC,22,JACQUES CARTIER,10928,"MARIER, Elphège",Liberal,Lib,t,f,15298,1
+21,QC,22,JACQUES CARTIER,10927,"SETON, Leonard Arthur",Progressive Conservative,PC,f,f,7794,2
+21,QC,22,JACQUES CARTIER,10929,"CHARRON, Fabien",Co-operative Commonwealth Federation,CCF,f,f,2007,3
+21,QC,23,JOLIETTE--L'ASSOMPTION--MONTCALM,10930,"LAPALME, Georges-Émile",Liberal,Lib,t,f,18755,1
+21,QC,23,JOLIETTE--L'ASSOMPTION--MONTCALM,10931,"HÉTU, Claude-Édouard",Progressive Conservative,PC,f,f,13584,2
+21,QC,23,JOLIETTE--L'ASSOMPTION--MONTCALM,10932,"THERRIEN, Frédéric",Union of Electors,UElect,f,f,361,3
+21,QC,24,KAMOURASKA,10934,"MARQUIS, Eugène",Liberal,Lib,t,f,7792,1
+21,QC,24,KAMOURASKA,10933,"BÉLANGER, Joseph-Arthur-Émile",Union of Electors,UElect,f,f,1696,2
+21,QC,24,KAMOURASKA,10935,"CHAMBERLAND, Yvon",Progressive Conservative,PC,f,f,1437,3
+21,QC,25,LABELLE,10937,"COURTEMANCHE, Henri",Progressive Conservative,PC,t,f,8701,1
+21,QC,25,LABELLE,10936,"WHISSELL, Ernest",Liberal,Lib,f,f,7998,2
+21,QC,25,LABELLE,10938,"YELLE, Simon",Union of Electors,UElect,f,f,1289,3
+21,QC,26,LAC-SAINT-JEAN,10940,"GAUTHIER, André",Liberal,Lib,t,f,7084,1
+21,QC,26,LAC-SAINT-JEAN,10941,"HARVEY, Paul-Emile",Nationalist,Ntnlst,f,f,4994,2
+21,QC,26,LAC-SAINT-JEAN,10942,"LAROUCHE, Delphis",Union of Electors,UElect,f,f,824,3
+21,QC,26,LAC-SAINT-JEAN,10939,"GOSSELIN, Jean-Charles",Progressive Conservative,PC,f,f,138,4
+21,QC,27,LAFONTAINE,10944,"RATELLE, J.-Georges",Liberal,Lib,t,f,12883,1
+21,QC,27,LAFONTAINE,10945,"SAVIGNAC, Joseph-Marie",Independent,Ind,f,f,7846,2
+21,QC,27,LAFONTAINE,10946,"DESORMIERS, Bruno-Roméo",Independent Liberal,Ind,f,f,3245,3
+21,QC,27,LAFONTAINE,10947,"LAMARCHE, Paul",Progressive Conservative,PC,f,f,331,4
+21,QC,27,LAFONTAINE,10943,"NAUD, Emile",Independent Liberal,Ind,f,f,328,5
+21,QC,27,LAFONTAINE,10948,"SYLVESTRE, Jean",Co-operative Commonwealth Federation,CCF,f,f,217,6
+21,QC,28,LAPOINTE,10950,"GAUTHIER, Jules",Liberal,Lib,t,f,10275,1
+21,QC,28,LAPOINTE,10951,"DESCHENES, Lorenzo",Independent,Ind,f,f,5797,2
+21,QC,28,LAPOINTE,10949,"BOUCHARD, Pierre",Union of Electors,UElect,f,f,4730,3
+21,QC,29,LAURIER,10953,"BERTRAND, Hon. Ernest",Liberal,Lib,t,f,15578,1
+21,QC,29,LAURIER,10955,"SAURIOL, Jacques",Independent,Ind,f,f,2845,2
+21,QC,29,LAURIER,10954,"AUERBACK, Edward",Progressive Conservative,PC,f,f,1735,3
+21,QC,29,LAURIER,10952,"ARCHAMBAULT, Pierre",Co-operative Commonwealth Federation,CCF,f,f,782,4
+21,QC,30,LAVAL,10956,"DEMERS, Léopold",Liberal,Lib,t,f,18202,1
+21,QC,30,LAVAL,10957,"POULIOT, Léopold",Progressive Conservative,PC,f,f,9888,2
+21,QC,31,LOTBINIÈRE,10959,"LAPOINTE, Hugues",Liberal,Lib,t,f,8849,1
+21,QC,31,LOTBINIÈRE,10960,"LAMBERT, Adrien",Independent,Ind,f,f,6430,2
+21,QC,31,LOTBINIÈRE,10961,"DEMERS, Benjamin",Union of Electors,UElect,f,f,288,3
+21,QC,31,LOTBINIÈRE,10958,"ROUSSEAU, Marie-Joseph-Émile",Progressive Conservative,PC,f,f,72,4
+21,QC,32,LÉVIS,10963,"BOURGET, Maurice",Liberal,Lib,t,f,11752,1
+21,QC,32,LÉVIS,10964,"BÉGIN, J.-Adélard",Independent,Ind,f,f,6851,2
+21,QC,32,LÉVIS,10962,"PARADIS, Abel",Union of Electors,UElect,f,f,655,3
+21,QC,32,LÉVIS,10965,"MCCLISH, Joseph-Louis-Gonzague",Progressive Conservative,PC,f,f,72,4
+21,QC,33,MAISONNEUVE--ROSEMONT,10967,"FOURNIER, Sarto",Liberal,Lib,t,f,20512,1
+21,QC,33,MAISONNEUVE--ROSEMONT,10968,"GADBOIS, Raoul-D.",Progressive Conservative,PC,f,f,8804,2
+21,QC,33,MAISONNEUVE--ROSEMONT,10966,"BOUGIE, Paul",Union of Electors,UElect,f,f,1207,3
+21,QC,34,MATAPÉDIA--MATANE,10970,"COTÉ, A.-Philéas",Liberal,Lib,t,f,11546,1
+21,QC,34,MATAPÉDIA--MATANE,10972,"FORTIN, Adélard",Progressive Conservative,PC,f,f,9811,2
+21,QC,34,MATAPÉDIA--MATANE,10969,"GOSSELIN, Jean-Charles",Union of Electors,UElect,f,f,678,3
+21,QC,34,MATAPÉDIA--MATANE,10971,"RIOUX, Louis-Philippe",Independent Liberal,Ind,f,f,558,4
+21,QC,34,MATAPÉDIA--MATANE,10973,"RATTÉ, David",Independent Liberal,Ind,f,f,368,5
+21,QC,35,MERCIER,10975,"JEAN, Hon. Joseph",Liberal,Lib,t,f,17041,1
+21,QC,35,MERCIER,10976,"MCDUFF, Roméo",Progressive Conservative,PC,f,f,7786,2
+21,QC,35,MERCIER,10974,"LAJEUNESSE, Maurice",Union of Electors,UElect,f,f,1587,3
+21,QC,36,MONTMAGNY--L'ISLET,10978,"LESAGE, Jean",Liberal,Lib,t,f,10004,1
+21,QC,36,MONTMAGNY--L'ISLET,10977,"FAFARD, Georges-Henri",Progressive Conservative,PC,f,f,2380,2
+21,QC,36,MONTMAGNY--L'ISLET,10979,"CAOUETTE, Étienne",Union of Electors,UElect,f,f,793,3
+21,QC,37,MOUNT ROYAL,10981,"MACNAUGHTON, Alan Aylesworth",Liberal,Lib,t,f,21654,1
+21,QC,37,MOUNT ROYAL,10982,"MOORE, Earle",Progressive Conservative,PC,f,f,11550,2
+21,QC,37,MOUNT ROYAL,10980,"WORRALL, Ross Edward",Co-operative Commonwealth Federation,CCF,f,f,719,3
+21,QC,38,MÉGANTIC,10983,"LAFONTAINE, Joseph",Liberal,Lib,t,f,13273,1
+21,QC,38,MÉGANTIC,10984,"CYR, Oliva",Progressive Conservative,PC,f,f,6791,2
+21,QC,38,MÉGANTIC,10985,"GAGNÉ, Joseph",Union of Electors,UElect,f,f,2230,3
+21,QC,38,MÉGANTIC,10986,"GRENIER, Émile",Co-operative Commonwealth Federation,CCF,f,f,415,4
+21,QC,39,NICOLET--YAMASKA,10988,"BOISVERT, Maurice",Liberal,Lib,t,f,10208,1
+21,QC,39,NICOLET--YAMASKA,10987,"CHAPDELAINE, Renaud",Progressive Conservative,PC,f,f,9860,2
+21,QC,40,NOTRE-DAME-DE-GRÂCE,10989,"WHITMAN, Frederick Primrose",Liberal,Lib,t,f,19469,1
+21,QC,40,NOTRE-DAME-DE-GRÂCE,10990,"LEWIS, John Bower Theodore",Progressive Conservative,PC,f,f,10293,2
+21,QC,40,NOTRE-DAME-DE-GRÂCE,10991,"FOSSATI, Alfred",Co-operative Commonwealth Federation,CCF,f,f,1054,3
+21,QC,41,OUTREMONT--ST-JEAN,10993,"RINFRET, Édouard-G.",Liberal,Lib,t,f,16215,1
+21,QC,41,OUTREMONT--ST-JEAN,10992,"BÉLANGER, Alphonse",Progressive Conservative,PC,f,f,5030,2
+21,QC,42,PAPINEAU,10995,"HOUDE, Camillien",Independent,Ind,t,f,12611,1
+21,QC,42,PAPINEAU,10996,"MEUNIER, J.-Adrien",Liberal,Lib,f,f,12536,2
+21,QC,42,PAPINEAU,10997,"KENDALL, Wilfred",Progressive Conservative,PC,f,f,587,3
+21,QC,42,PAPINEAU,10994,"CADIEUX, J.-E. Léopold",Co-operative Commonwealth Federation,CCF,f,f,541,4
+21,QC,43,PONTIAC--TÉMISCAMINGUE,10999,"PROUDFOOT, John Hugh",Liberal,Lib,t,f,7817,1
+21,QC,43,PONTIAC--TÉMISCAMINGUE,10998,"ARGUE, John McLean",Progressive Conservative,PC,f,f,5149,2
+21,QC,43,PONTIAC--TÉMISCAMINGUE,11001,"CHABOT, Philippe",Independent Liberal,Ind,f,f,3041,3
+21,QC,43,PONTIAC--TÉMISCAMINGUE,11002,"SAUVÉ, Charles-Alfred",Union of Electors,UElect,f,f,1562,4
+21,QC,43,PONTIAC--TÉMISCAMINGUE,11000,"CAMPBELL, Douglas Langford",Co-operative Commonwealth Federation,CCF,f,f,362,5
+21,QC,44,PORTNEUF,11004,"GAUTHIER, Pierre",Liberal,Lib,t,f,10932,1
+21,QC,44,PORTNEUF,11003,"CHALIFOUR, Rosaire",Progressive Conservative,PC,f,f,6069,2
+21,QC,44,PORTNEUF,11005,"DORÉ, J.-Henri",Union of Electors,UElect,f,f,1579,3
+21,QC,45,QUEBEC EAST,11007,"ST-LAURENT, Le très honorable Louis-Stephen",Liberal,Lib,t,f,25832,1
+21,QC,45,QUEBEC EAST,11008,"DROUIN, Mark-Robert",Progressive Conservative,PC,f,f,7876,2
+21,QC,45,QUEBEC EAST,11006,"TOUSIGNANT, Alphonse",Union of Electors,UElect,f,f,1395,3
+21,QC,46,QUEBEC SOUTH,11010,"POWER, Hon. Charles Gavan",Liberal,Lib,t,f,19383,1
+21,QC,46,QUEBEC SOUTH,11011,"GOBEIL, Antoine-René",Progressive Conservative,PC,f,f,6454,2
+21,QC,46,QUEBEC SOUTH,11009,"BOUCHARD, Joseph",Union of Electors,UElect,f,f,542,3
+21,QC,47,QUEBEC WEST,11013,"PARENT, Charles",Liberal,Lib,t,f,12391,1
+21,QC,47,QUEBEC WEST,11012,"PAQUET, Joseph-Edmond",Progressive Conservative,PC,f,f,6946,2
+21,QC,47,QUEBEC WEST,11014,"BORGIA, Henri",Union of Electors,UElect,f,f,1714,3
+21,QC,47,QUEBEC WEST,11015,"CANTIN, Albert",Independent,Ind,f,f,1344,4
+21,QC,47,QUEBEC WEST,11016,"MARQUIS, Joseph-Adjutor",Independent Progressive Conservative,Ind,f,f,276,5
+21,QC,47,QUEBEC WEST,11017,"MOREAU, Albert-S.",Co-operative Commonwealth Federation,CCF,f,f,180,6
+21,QC,48,QUÉBEC--MONTMORENCY,11019,"LACROIX, Wilfrid",Liberal,Lib,t,f,16829,1
+21,QC,48,QUÉBEC--MONTMORENCY,11020,"DE BLOIS, René",Progressive Conservative,PC,f,f,7071,2
+21,QC,48,QUÉBEC--MONTMORENCY,11018,"DROLET, Paul-Eugène",Union of Electors,UElect,f,f,1849,3
+21,QC,49,RICHELIEU--VERCHÈRES,11022,"COURNOYER, Gérard",Liberal,Lib,t,f,12795,1
+21,QC,49,RICHELIEU--VERCHÈRES,11023,"ARCAND, J.-R.-N. Adrien",Unité nationale,Ind,f,f,5590,2
+21,QC,49,RICHELIEU--VERCHÈRES,11024,"GUERTIN, Claude",Union of Electors,UElect,f,f,429,3
+21,QC,49,RICHELIEU--VERCHÈRES,11021,"GUERTIN, Paul-Émile",Progressive Conservative,PC,f,f,419,4
+21,QC,50,RICHMOND--WOLFE,11026,"GINGRAS, Ernest-O.",Liberal,Lib,t,f,13621,1
+21,QC,50,RICHMOND--WOLFE,11025,"NADEAU, J.-Gustave",Progressive Conservative,PC,f,f,3990,2
+21,QC,50,RICHMOND--WOLFE,11027,"PELLETIER, Rolland",Union of Electors,UElect,f,f,2493,3
+21,QC,51,RIMOUSKI,11029,"BELZILE, Gleason",Liberal,Lib,t,f,11708,1
+21,QC,51,RIMOUSKI,11030,"GAGNÉ, Adrien",Progressive Conservative,PC,f,f,7389,2
+21,QC,51,RIMOUSKI,11028,"D'ANJOU, J.-E.-S.-Emmanuel",Independent Liberal,Ind,f,f,3614,3
+21,QC,51,RIMOUSKI,11031,"GAGNÉ, Aurélien",Union of Electors,UElect,f,f,1491,4
+21,QC,52,ROBERVAL,11032,"DION, Joseph-Alfred",Liberal,Lib,t,f,8103,1
+21,QC,52,ROBERVAL,11033,"FORTIN, J.-Augustin",Independent,Ind,f,f,6078,2
+21,QC,52,ROBERVAL,11034,"DALLAIRE, Louis-Joseph-Xavier",Union of Electors,UElect,f,f,2135,3
+21,QC,53,SAGUENAY,11035,"BRISSON, Lomer",Liberal,Lib,t,f,6113,1
+21,QC,53,SAGUENAY,11037,"DORION, Frédéric",Progressive Conservative,PC,f,f,5651,2
+21,QC,53,SAGUENAY,11036,"GLADU, Madame Victor",Union of Electors,UElect,f,f,889,3
+21,QC,54,SAINT-HYACINTHE--BAGOT,11040,"FONTAINE, Joseph",Liberal,Lib,t,f,14702,1
+21,QC,54,SAINT-HYACINTHE--BAGOT,11039,"LÉVESQUE, Joseph-Lionel",Progressive Conservative,PC,f,f,1105,2
+21,QC,54,SAINT-HYACINTHE--BAGOT,11038,"HAMEL, Napoléon",Union of Electors,UElect,f,f,981,3
+21,QC,55,SAINT-JEAN--IBERVILLE--NAPIERVILLE,11042,"COTÉ, Alcide",Liberal,Lib,t,f,12823,1
+21,QC,55,SAINT-JEAN--IBERVILLE--NAPIERVILLE,11041,"RHÉAUME, Martial",Independent,Ind,f,f,4478,2
+21,QC,55,SAINT-JEAN--IBERVILLE--NAPIERVILLE,11044,"BOURDON, Paul-Émile",Union of Electors,UElect,f,f,417,3
+21,QC,55,SAINT-JEAN--IBERVILLE--NAPIERVILLE,11043,"PERRAULT, René",Progressive Conservative,PC,f,f,343,4
+21,QC,56,SAINT-MAURICE--LAFLÈCHE,11046,"RICHARD, Joseph-Adolphe",Liberal,Lib,t,f,13898,1
+21,QC,56,SAINT-MAURICE--LAFLÈCHE,11045,"HAMEL, Joseph-Irénée-René",Independent,Ind,f,f,11646,2
+21,QC,56,SAINT-MAURICE--LAFLÈCHE,11048,"LACASSE, Joseph-Gabriel",Union of Electors,UElect,f,f,2064,3
+21,QC,56,SAINT-MAURICE--LAFLÈCHE,11047,"LABELLE, Samuel",Progressive Conservative,PC,f,f,347,4
+21,QC,57,SHEFFORD,11050,"BOIVIN, Marcel",Liberal,Lib,t,f,12993,1
+21,QC,57,SHEFFORD,11051,"IRWIN, Wilson",Progressive Conservative,PC,f,f,8017,2
+21,QC,57,SHEFFORD,11049,"BRODEUR, Fernand",Union of Electors,UElect,f,f,906,3
+21,QC,58,SHERBROOKE,11053,"GINGUES, Maurice",Liberal,Lib,t,f,12116,1
+21,QC,58,SHERBROOKE,11055,"HAYES, William Redmond",Progressive Conservative,PC,f,f,6522,2
+21,QC,58,SHERBROOKE,11052,"TRUDEAU, Alphonse",Independent Liberal,Ind,f,f,3060,3
+21,QC,58,SHERBROOKE,11056,"GAUTHIER, Roméo",Union of Electors,UElect,f,f,2728,4
+21,QC,58,SHERBROOKE,11054,"BILODEAU, Théode",Co-operative Commonwealth Federation,CCF,f,f,217,5
+21,QC,59,ST-DENIS,11058,"DENIS, Azellus",Liberal,Lib,t,f,18866,1
+21,QC,59,ST-DENIS,11059,"GOULET, Bernard",Progressive Conservative,PC,f,f,9509,2
+21,QC,59,ST-DENIS,11057,"BOULANGER, Bernard-L.",Co-operative Commonwealth Federation,CCF,f,f,776,3
+21,QC,60,ST-HENRI,11061,"BONNIER, J.-Arsène",Liberal,Lib,t,f,16313,1
+21,QC,60,ST-HENRI,11060,"ANGRIGNON, Germain",Progressive Conservative,PC,f,f,7369,2
+21,QC,60,ST-HENRI,11063,"JUTRAS, Paul-Émile",Co-operative Commonwealth Federation,CCF,f,f,909,3
+21,QC,60,ST-HENRI,11062,"BOUFFARD, Ferdinand",Union of Electors,UElect,f,f,500,4
+21,QC,61,ST. ANN,11065,"HEALY, Thomas Patrick",Liberal,Lib,t,f,14528,1
+21,QC,61,ST. ANN,11066,"LYNCH, Patrick Thomas",Independent Progressive Conservative,Ind,f,f,4257,2
+21,QC,61,ST. ANN,11067,"MCMANIMAN, Michael",Co-operative Commonwealth Federation,CCF,f,f,457,3
+21,QC,61,ST. ANN,11064,"FOLEY, Richard Allan",Independent,Ind,f,f,450,4
+21,QC,61,ST. ANN,11068,"LANGLOIS, Cléophas",Progressive Conservative,PC,f,f,443,5
+21,QC,62,ST. ANTOINE--WESTMOUNT,11069,"ABBOTT, Hon. Douglas Charles",Liberal,Lib,t,f,21399,1
+21,QC,62,ST. ANTOINE--WESTMOUNT,11070,"DE LALANNE, James Arthur",Progressive Conservative,PC,f,f,11299,2
+21,QC,63,ST. JAMES,11072,"BEAUDRY, Roland",Liberal,Lib,t,f,18705,1
+21,QC,63,ST. JAMES,11071,"AUGER, Jacques",Progressive Conservative,PC,f,f,9349,2
+21,QC,63,ST. JAMES,11073,"GRENIER, Jean",Union of Electors,UElect,f,f,720,3
+21,QC,64,ST. LAWRENCE--ST. GEORGE,11075,"CLAXTON, Hon. Brooke",Liberal,Lib,t,f,15104,1
+21,QC,64,ST. LAWRENCE--ST. GEORGE,11076,"BALLANTYNE, Charles Trenholme",Progressive Conservative,PC,f,f,5911,2
+21,QC,64,ST. LAWRENCE--ST. GEORGE,11074,"THÉORÊT, Jeannine",Co-operative Commonwealth Federation,CCF,f,f,1146,3
+21,QC,65,ST. MARY,11081,"FAUTEUX, Hon. Gaspard",Liberal,Lib,t,f,13773,1
+21,QC,65,ST. MARY,11078,"LAMARRE, Roland",Progressive Conservative,PC,f,f,6963,2
+21,QC,65,ST. MARY,11080,"MCMANIMAN, Jean",Co-operative Commonwealth Federation,CCF,f,f,352,3
+21,QC,65,ST. MARY,11079,"GINGRAS, Onil-Léonide",Independent,Ind,f,f,294,4
+21,QC,65,ST. MARY,11077,"RICHER, Philippe",Independent,Ind,f,f,210,5
+21,QC,65,ST. MARY,11082,"PELLETIER, Robert",Labour,Labour,f,f,108,6
+21,QC,66,STANSTEAD,11084,"ROBERGE, Louis-Édouard",Liberal,Lib,t,f,7736,1
+21,QC,66,STANSTEAD,11086,"HACKETT, John Thomas",Progressive Conservative,PC,f,f,7251,2
+21,QC,66,STANSTEAD,11083,"BÉGIN, Armand-Germain",Union of Electors,UElect,f,f,1358,3
+21,QC,66,STANSTEAD,11085,"SIMARD, Joseph-Ernest",Liberal Labour,LibLP,f,f,433,4
+21,QC,67,TERREBONNE,11088,"BERTRAND, Lionel",Liberal,Lib,t,f,18304,1
+21,QC,67,TERREBONNE,11087,"THINEL, Lucien",Progressive Conservative,PC,f,f,8107,2
+21,QC,67,TERREBONNE,11089,"HOULE, Jean-Paul",Union of Electors,UElect,f,f,953,3
+21,QC,68,TROIS-RIVIÈRES,11091,"BALCER, Léon",Progressive Conservative,PC,t,f,10015,1
+21,QC,68,TROIS-RIVIÈRES,11092,"GARIÉPY, Wilfrid",Liberal,Lib,f,f,9964,2
+21,QC,68,TROIS-RIVIÈRES,11090,"BIRON, Jules",Independent Liberal,Ind,f,f,4925,3
+21,QC,68,TROIS-RIVIÈRES,11094,"BRUNELLE, Hector",Union of Electors,UElect,f,f,432,4
+21,QC,68,TROIS-RIVIÈRES,11093,"GRENIER, H.-Georges",Independent,Ind,f,f,367,5
+21,QC,69,TÉMISCOUATA,11096,"POULIOT, Jean-François",Liberal,Lib,t,f,11648,1
+21,QC,69,TÉMISCOUATA,11097,"MIGNAULT, Joseph-Antonio",Union of Electors,UElect,f,f,2756,2
+21,QC,69,TÉMISCOUATA,11095,"LEBEL, Luc",Progressive Conservative,PC,f,f,2250,3
+21,QC,70,VAUDREUIL--SOULANGES,11098,"BEAUDOIN, Louis-René",Liberal,Lib,t,f,7622,1
+21,QC,70,VAUDREUIL--SOULANGES,11099,"LALONDE, J.-Omer",Progressive Conservative,PC,f,f,3659,2
+21,QC,71,VERDUN--LA SALLE,11101,"COTÉ, Paul-Émile",Liberal,Lib,t,f,24903,1
+21,QC,71,VERDUN--LA SALLE,11103,"MACGILLIVRAY, John William",Progressive Conservative,PC,f,f,7790,2
+21,QC,71,VERDUN--LA SALLE,11100,"DODGE, William",Co-operative Commonwealth Federation,CCF,f,f,2612,3
+21,QC,71,VERDUN--LA SALLE,11104,"FORTIN, Donat",Union of Electors,UElect,f,f,445,4
+21,QC,71,VERDUN--LA SALLE,11102,"MONAHAN, Richard",Independent,Ind,f,f,83,5
+21,QC,72,VILLENEUVE,11109,"DUMAS, Armand",Liberal,Lib,t,f,13597,1
+21,QC,72,VILLENEUVE,11107,"CAOUETTE, Réal",Union of Electors,UElect,f,f,10980,2
+21,QC,72,VILLENEUVE,11106,"TREMPE, Louis-Charles",Progressive Conservative,PC,f,f,958,3
+21,QC,72,VILLENEUVE,11108,"DEVOST, Henri-L.",Independent Progressive Conservative,Ind,f,f,291,4
+21,QC,72,VILLENEUVE,11105,"GÉNÉREUX, François-Xavier",Independent Liberal,Ind,f,f,102,5
+21,QC,73,ÎLES-DE-LA-MADELEINE,11110,"CANNON, Charles-Arthur-Dumoulin",Liberal,Lib,t,f,2203,1
+21,QC,73,ÎLES-DE-LA-MADELEINE,11111,"SÉVIGNY, Joseph-Pierre-Albert",Independent Progressive Conservative,Ind,f,f,2145,2
+21,SK,1,ASSINIBOIA,11113,"ARGUE, Hazen R.",Co-operative Commonwealth Federation,CCF,t,f,8442,1
+21,SK,1,ASSINIBOIA,11115,"MACDONALD, Raymond Alexander",Liberal,Lib,f,f,6858,2
+21,SK,1,ASSINIBOIA,11112,"MACDONALD, George Jacob",Progressive Conservative,PC,f,f,2458,3
+21,SK,1,ASSINIBOIA,11114,"MEGINBIR, Arnold L.",Social Credit Party of Canada,SoCred,f,f,656,4
+21,SK,2,HUMBOLDT,11117,"HETLAND, Joseph Ingolph",Liberal,Lib,t,f,8123,1
+21,SK,2,HUMBOLDT,11116,"BURTON, Joseph William",Co-operative Commonwealth Federation,CCF,f,f,7302,2
+21,SK,2,HUMBOLDT,11118,"BENDAS, Orest",Progressive Conservative,PC,f,f,1022,3
+21,SK,3,KINDERSLEY,11120,"LARSON, Frederick Hugo",Liberal,Lib,t,f,7872,1
+21,SK,3,KINDERSLEY,11121,"JAENICKE, Frank Eric",Co-operative Commonwealth Federation,CCF,f,f,6567,2
+21,SK,3,KINDERSLEY,11119,"BURTON, Wilfred Joseph",Progressive Conservative,PC,f,f,2247,3
+21,SK,4,LAKE CENTRE,11123,"DIEFENBAKER, John George",Progressive Conservative,PC,t,f,8845,1
+21,SK,4,LAKE CENTRE,11122,"VALLEAU, Delmar Storey",Co-operative Commonwealth Federation,CCF,f,f,5413,2
+21,SK,4,LAKE CENTRE,11124,"MACRAE, Donald Arthur",Liberal,Lib,f,f,3061,3
+21,SK,4,LAKE CENTRE,11125,"HALDEMAN, Joshua Norman",Social Credit Party of Canada,SoCred,f,f,856,4
+21,SK,5,MACKENZIE,11127,"FERRIE, Gladstone M.",Liberal,Lib,t,f,7564,1
+21,SK,5,MACKENZIE,11128,"NICHOLSON, Alexander Malcolm",Co-operative Commonwealth Federation,CCF,f,f,6209,2
+21,SK,5,MACKENZIE,11129,"BEREZOWSKI, William Michael",Labour Progressive Party,LabPP,f,f,1122,3
+21,SK,5,MACKENZIE,11126,"PATRICK, Frederick Albert A.",Social Credit Party of Canada,SoCred,f,f,851,4
+21,SK,5,MACKENZIE,11130,"HALL, Samuel Edward",Progressive Conservative,PC,f,f,697,5
+21,SK,6,MAPLE CREEK,11132,"STUDER, Irvin William",Liberal,Lib,t,f,8217,1
+21,SK,6,MAPLE CREEK,11133,"MCKAY, Eric Bowness",Co-operative Commonwealth Federation,CCF,f,f,6868,2
+21,SK,6,MAPLE CREEK,11131,"CATON, William Edward",Progressive Conservative,PC,f,f,2503,3
+21,SK,7,MEADOW LAKE,11135,"HARRISON, John H.",Liberal,Lib,t,f,7078,1
+21,SK,7,MEADOW LAKE,11134,"KARPETZ, Edward",Co-operative Commonwealth Federation,CCF,f,f,4461,2
+21,SK,7,MEADOW LAKE,11136,"CATHREA, Herbert L.",Progressive Conservative,PC,f,f,1331,3
+21,SK,8,MELFORT,11138,"WRIGHT, Percy Ellis",Co-operative Commonwealth Federation,CCF,t,f,7208,1
+21,SK,8,MELFORT,11139,"MACNUTT, Thomas Russell",Liberal,Lib,f,f,7117,2
+21,SK,8,MELFORT,11137,"CAMPBELL, Andrew McCallum",Progressive Conservative,PC,f,f,2228,3
+21,SK,9,MELVILLE,11141,"GARDINER, Rt. Hon. James Garfield",Liberal,Lib,t,f,11120,1
+21,SK,9,MELVILLE,11140,"ARTHURS, William James",Co-operative Commonwealth Federation,CCF,f,f,6388,2
+21,SK,9,MELVILLE,11142,"DREVER, Thomas William",Progressive Conservative,PC,f,f,1465,3
+21,SK,10,MOOSE JAW,11143,"THATCHER, W. Ross",Co-operative Commonwealth Federation,CCF,t,f,10026,1
+21,SK,10,MOOSE JAW,11145,"PUDDEN, Edward Langdon",Liberal,Lib,f,f,7444,2
+21,SK,10,MOOSE JAW,11144,"SMILEY, Leila Elsie",Progressive Conservative,PC,f,f,3334,3
+21,SK,11,MOOSE MOUNTAIN,11146,"SMITH, John James",Liberal,Lib,t,f,9277,1
+21,SK,11,MOOSE MOUNTAIN,11147,"MCCULLOUGH, Edward George",Co-operative Commonwealth Federation,CCF,f,f,8199,2
+21,SK,11,MOOSE MOUNTAIN,11148,"GRAY, Gordon Duncan",Progressive Conservative,PC,f,f,2570,3
+21,SK,12,PRINCE ALBERT,11150,"HELME, Francis Heselton",Liberal,Lib,t,f,8916,1
+21,SK,12,PRINCE ALBERT,11151,"BOWERMAN, Edward LeRoy",Co-operative Commonwealth Federation,CCF,f,f,7341,2
+21,SK,12,PRINCE ALBERT,11149,"WHITTER, George Henry",Progressive Conservative,PC,f,f,2258,3
+21,SK,13,QU'APPELLE,11153,"DEWAR, Austin Edwin",Liberal,Lib,t,f,9017,1
+21,SK,13,QU'APPELLE,11152,"STRUM, Gladys",Co-operative Commonwealth Federation,CCF,f,f,7629,2
+21,SK,13,QU'APPELLE,11154,"WILLIAMS, Rhys Graham",Progressive Conservative,PC,f,f,3519,3
+21,SK,14,REGINA CITY,11156,"MCCUSKER, Emmet Andrew",Liberal,Lib,t,f,14356,1
+21,SK,14,REGINA CITY,11157,"PROBE, John O.",Co-operative Commonwealth Federation,CCF,f,f,14194,2
+21,SK,14,REGINA CITY,11155,"ACHESON, Robert Harper",Progressive Conservative,PC,f,f,4060,3
+21,SK,14,REGINA CITY,11158,"BEECHING, William Charles",Labour Progressive Party,LabPP,f,f,409,4
+21,SK,15,ROSETOWN--BIGGAR,11160,"COLDWELL, Major James",Co-operative Commonwealth Federation,CCF,t,f,8793,1
+21,SK,15,ROSETOWN--BIGGAR,11159,"NOBLE, Sanborn Duff",Liberal,Lib,f,f,5266,2
+21,SK,15,ROSETOWN--BIGGAR,11161,"HAMILTON, Alvin",Progressive Conservative,PC,f,f,2670,3
+21,SK,16,ROSTHERN,11163,"Boucher, William Albert",Liberal,Lib,t,f,7398,1
+21,SK,16,ROSTHERN,11162,"BERZOWSKY, George Raphael",Co-operative Commonwealth Federation,CCF,f,f,3700,2
+21,SK,16,ROSTHERN,11164,"CURRIE, John Hilliard",Progressive Conservative,PC,f,f,837,3
+21,SK,17,SASKATOON,11166,"KNIGHT, Robert Ross",Co-operative Commonwealth Federation,CCF,t,f,11749,1
+21,SK,17,SASKATOON,11165,"MCCOOL, Charles Wesley",Liberal,Lib,f,f,8868,2
+21,SK,17,SASKATOON,11167,"BENCE, Alfred Henry",Progressive Conservative,PC,f,f,7013,3
+21,SK,18,SWIFT CURRENT,11169,"WHITESIDE, Harry B.",Liberal,Lib,t,f,7595,1
+21,SK,18,SWIFT CURRENT,11168,"BENTLEY, Thomas John",Co-operative Commonwealth Federation,CCF,f,f,6776,2
+21,SK,18,SWIFT CURRENT,11170,"ROSA, John Kinchen",Progressive Conservative,PC,f,f,1761,3
+21,SK,19,THE BATTLEFORDS,11172,"BATER, Arthur James",Liberal,Lib,t,f,8034,1
+21,SK,19,THE BATTLEFORDS,11171,"CAMPBELL, Alexander Maxwell",Co-operative Commonwealth Federation,CCF,f,f,6715,2
+21,SK,19,THE BATTLEFORDS,11173,"WALKER, John George",Progressive Conservative,PC,f,f,1948,3
+21,SK,20,YORKTON,11176,"STEWART, Alan Carl",Liberal,Lib,t,f,8706,1
+21,SK,20,YORKTON,11175,"CASTLEDEN, George Hugh",Co-operative Commonwealth Federation,CCF,f,f,8419,2
+21,SK,20,YORKTON,11174,"WOWK, Stanley",Social Credit Party of Canada,SoCred,f,f,1111,3
+21,SK,20,YORKTON,11177,"DUNLOP, John Renton",Progressive Conservative,PC,f,f,858,4
+21,YK,1,YUKON--MACKENZIE RIVER,11178,"SIMMONS, James Aubrey",Liberal,Lib,t,f,3284,1
+21,YK,1,YUKON--MACKENZIE RIVER,11179,"BERRY, Arthur Massey",Independent,Ind,f,f,2283,2
+21,YK,1,YUKON--MACKENZIE RIVER,11180,"STEPHENS, James Elwyn",Co-operative Commonwealth Federation,CCF,f,f,1140,3

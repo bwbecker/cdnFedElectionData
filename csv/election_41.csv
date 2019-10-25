@@ -1,0 +1,1588 @@
+election_id,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_party_name,party_code,elected,acclaimed,votes,place
+41,AB,48006,Calgary Centre,36626,"Richardson, Lee",Conservative,Con,t,f,28401,1
+41,AB,48006,Calgary Centre,36624,"Pollock, Jennifer",Liberal,Lib,f,f,8631,2
+41,AB,48006,Calgary Centre,36625,"Montgomery, Donna Marlis",NDP-New Democratic Party,NDP,f,f,7314,3
+41,AB,48006,Calgary Centre,36623,"Hamilton, William",Green Party,Grn,f,f,4889,4
+41,AB,48003,Calgary Centre-North,36613,"Rempel, Michelle",Conservative,Con,t,f,28443,1
+41,AB,48003,Calgary Centre-North,36611,"Vargis, Paul",NDP-New Democratic Party,NDP,f,f,8048,2
+41,AB,48003,Calgary Centre-North,36612,"Randall, Stephen James",Liberal,Lib,f,f,7046,3
+41,AB,48003,Calgary Centre-North,36610,"MacIntosh, Heather",Green Party,Grn,f,f,6578,4
+41,AB,48003,Calgary Centre-North,36609,"Askin, Peggy",Marxist-Leninist,M-L,f,f,203,5
+41,AB,48002,Calgary East,36606,"Obhrai, Deepak",Conservative,Con,t,f,23372,1
+41,AB,48002,Calgary East,36604,"Brown, Al",NDP-New Democratic Party,NDP,f,f,4894,2
+41,AB,48002,Calgary East,36607,"Petrunic, Josipa",Liberal,Lib,f,f,4102,3
+41,AB,48002,Calgary East,36608,"Milton, Scott W.",Green Party,Grn,f,f,2047,4
+41,AB,48002,Calgary East,36605,"Devine, Jason",Communist,Com,f,f,246,5
+41,AB,48004,Calgary Northeast,36614,"Shory, Devinder",Conservative,Con,t,f,23550,1
+41,AB,48004,Calgary Northeast,36617,"Stewart, Cam",Liberal,Lib,f,f,11487,2
+41,AB,48004,Calgary Northeast,36615,"Singh, Colette",NDP-New Democratic Party,NDP,f,f,4262,3
+41,AB,48004,Calgary Northeast,36616,"Brown-Eckersley, Sheila",Green Party,Grn,f,f,1953,4
+41,AB,48004,Calgary Northeast,36618,"Blanchard, Daniel",Marxist-Leninist,M-L,f,f,206,5
+41,AB,48007,Calgary Southeast,36632,"Kenney, Jason",Conservative,Con,t,f,48173,1
+41,AB,48007,Calgary Southeast,36627,"Oates, Kirk",NDP-New Democratic Party,NDP,f,f,6482,2
+41,AB,48007,Calgary Southeast,36628,"Spencer, Brett",Green Party,Grn,f,f,4079,3
+41,AB,48007,Calgary Southeast,36629,"MacPhee, Brian N.",Liberal,Lib,f,f,4020,4
+41,AB,48007,Calgary Southeast,36631,"Grochowski, Antoni",Independent,Ind,f,f,225,5
+41,AB,48007,Calgary Southeast,36630,"Fromm, Paul",WBP,WestBP,f,f,193,6
+41,AB,48008,Calgary Southwest,36637,"Harper, Stephen J",Conservative,Con,t,f,42998,1
+41,AB,48008,Calgary Southwest,36634,"Heffernan, Holly",NDP-New Democratic Party,NDP,f,f,6823,2
+41,AB,48008,Calgary Southwest,36635,"Lamontagne, Marlene",Liberal,Lib,f,f,4121,3
+41,AB,48008,Calgary Southwest,36636,"Christie, Kelly",Green Party,Grn,f,f,2991,4
+41,AB,48008,Calgary Southwest,36633,"Heather, Larry R.",Independent,Ind,f,f,303,5
+41,AB,48009,Calgary West,36638,"Anders, Robert",Conservative,Con,t,f,39996,1
+41,AB,48009,Calgary West,36640,"Kinch, Janice",Liberal,Lib,f,f,11374,2
+41,AB,48009,Calgary West,36639,"Knowles, Shawna",NDP-New Democratic Party,NDP,f,f,6679,3
+41,AB,48009,Calgary West,36641,"Wagner, Anna Lisa",Green Party,Grn,f,f,6070,4
+41,AB,48009,Calgary West,36642,"Vachon, André",Marxist-Leninist,M-L,f,f,227,5
+41,AB,48005,Calgary--Nose Hill,36620,"Ablonczy, Diane",Conservative,Con,t,f,40384,1
+41,AB,48005,Calgary--Nose Hill,36622,"Anderson, Collin",NDP-New Democratic Party,NDP,f,f,7189,2
+41,AB,48005,Calgary--Nose Hill,36619,"McLeod, Margaret",Liberal,Lib,f,f,6501,3
+41,AB,48005,Calgary--Nose Hill,36621,"Hajj, Tony",Green Party,Grn,f,f,3480,4
+41,AB,48010,Crowfoot,36647,"Sorenson, Kevin A",Conservative,Con,t,f,44115,1
+41,AB,48010,Crowfoot,36645,"Parker, Ellen",NDP-New Democratic Party,NDP,f,f,4805,2
+41,AB,48010,Crowfoot,36644,"Schellenberg, Konrad",Green Party,Grn,f,f,1711,3
+41,AB,48010,Crowfoot,36646,"Harb, Omar",Liberal,Lib,f,f,1224,4
+41,AB,48010,Crowfoot,36643,"Turner, John C.",Independent,Ind,f,f,463,5
+41,AB,48010,Crowfoot,36648,"Groenendijk, Gerard",CHP Canada,CHP,f,f,204,6
+41,AB,48012,Edmonton Centre,36659,"Hawn, Laurie",Conservative,Con,t,f,23625,1
+41,AB,48012,Edmonton Centre,36660,"Cardinal, Lewis",NDP-New Democratic Party,NDP,f,f,12480,2
+41,AB,48012,Edmonton Centre,36658,"MacDonald, Mary",Liberal,Lib,f,f,11037,3
+41,AB,48012,Edmonton Centre,36656,"Parker, David James",Green Party,Grn,f,f,1676,4
+41,AB,48012,Edmonton Centre,36657,"Paulson, Mikkel",Pirate Party,Pirate,f,f,289,5
+41,AB,48012,Edmonton Centre,36655,"Morton, Peggy",Marxist-Leninist,M-L,f,f,81,6
+41,AB,48013,Edmonton East,36663,"Goldring, Peter",Conservative,Con,t,f,24111,1
+41,AB,48013,Edmonton East,36661,"Martin, Ray",NDP-New Democratic Party,NDP,f,f,17078,2
+41,AB,48013,Edmonton East,36662,"Ruda, Shafik",Liberal,Lib,f,f,3176,3
+41,AB,48013,Edmonton East,36664,"Capnerhurst, Trey",Green Party,Grn,f,f,1345,4
+41,AB,48014,Edmonton--Leduc,36667,"Rajotte, James",Conservative,Con,t,f,37778,1
+41,AB,48014,Edmonton--Leduc,36665,"Medvedev, Artem",NDP-New Democratic Party,NDP,f,f,11488,2
+41,AB,48014,Edmonton--Leduc,36666,"Fahlman, Richard",Liberal,Lib,f,f,7270,3
+41,AB,48014,Edmonton--Leduc,36668,"Kennedy, Valerie",Green Party,Grn,f,f,2896,4
+41,AB,48011,Edmonton--Mill Woods--Beaumont,36649,"Lake, Mike",Conservative,Con,t,f,27857,1
+41,AB,48011,Edmonton--Mill Woods--Beaumont,36654,"Bailey, Nadine",NDP-New Democratic Party,NDP,f,f,10875,2
+41,AB,48011,Edmonton--Mill Woods--Beaumont,36650,"Butler, Mike",Liberal,Lib,f,f,5066,3
+41,AB,48011,Edmonton--Mill Woods--Beaumont,36651,"Baxter, Christa",Green Party,Grn,f,f,1364,4
+41,AB,48011,Edmonton--Mill Woods--Beaumont,36653,"Schaffrick, Brent",Pirate Party,Pirate,f,f,374,5
+41,AB,48011,Edmonton--Mill Woods--Beaumont,36652,"Rankin, Naomi",Communist,Com,f,f,100,6
+41,AB,48016,Edmonton--Sherwood Park,36675,"Uppal, Tim",Conservative,Con,t,f,24623,1
+41,AB,48016,Edmonton--Sherwood Park,36677,"Ford, James",Independent,Ind,f,f,16263,2
+41,AB,48016,Edmonton--Sherwood Park,36674,"Scott, Mike",NDP-New Democratic Party,NDP,f,f,7971,3
+41,AB,48016,Edmonton--Sherwood Park,36673,"Szostak, Rick",Liberal,Lib,f,f,4131,4
+41,AB,48016,Edmonton--Sherwood Park,36678,"Vallee, Chris",Green Party,Grn,f,f,1926,5
+41,AB,48016,Edmonton--Sherwood Park,36676,"St. Laurent, Paul",WBP,WestBP,f,f,222,6
+41,AB,48017,Edmonton--Spruce Grove,36682,"Ambrose, Rona",Conservative,Con,t,f,41782,1
+41,AB,48017,Edmonton--Spruce Grove,36680,"Chaulk-Stokes, Catherine",NDP-New Democratic Party,NDP,f,f,9272,2
+41,AB,48017,Edmonton--Spruce Grove,36679,"Austin, Chris",Liberal,Lib,f,f,5483,3
+41,AB,48017,Edmonton--Spruce Grove,36681,"Lund, Joshua",Green Party,Grn,f,f,2232,4
+41,AB,48015,Edmonton--St. Albert,36671,"Rathgeber, Brent",Conservative,Con,t,f,34468,1
+41,AB,48015,Edmonton--St. Albert,36669,"LaBelle, Brian",NDP-New Democratic Party,NDP,f,f,11644,2
+41,AB,48015,Edmonton--St. Albert,36672,"Taron, Kevin",Liberal,Lib,f,f,5796,3
+41,AB,48015,Edmonton--St. Albert,36670,"Johnston, Peter",Green Party,Grn,f,f,2409,4
+41,AB,48018,Edmonton--Strathcona,36684,"Duncan, Linda",NDP-New Democratic Party,NDP,t,f,26093,1
+41,AB,48018,Edmonton--Strathcona,36686,"Hastman, Ryan",Conservative,Con,f,f,19762,2
+41,AB,48018,Edmonton--Strathcona,36685,"Sinclair, Matthew",Liberal,Lib,f,f,1372,3
+41,AB,48018,Edmonton--Strathcona,36688,"Fehr, Andrew",Green Party,Grn,f,f,1119,4
+41,AB,48018,Edmonton--Strathcona,36689,"Murphy, Kyle",Independent,Ind,f,f,206,5
+41,AB,48018,Edmonton--Strathcona,36683,"Hunter, Kevan",Marxist-Leninist,M-L,f,f,91,6
+41,AB,48018,Edmonton--Strathcona,36687,"White, Christopher",Independent,Ind,f,f,87,7
+41,AB,48001,Fort McMurray--Athabasca,36603,"Jean, Brian",Conservative,Con,t,f,21988,1
+41,AB,48001,Fort McMurray--Athabasca,36602,"Wilting, Berend",NDP-New Democratic Party,NDP,f,f,4053,2
+41,AB,48001,Fort McMurray--Athabasca,36601,"Young, Karen",Liberal,Lib,f,f,3190,3
+41,AB,48001,Fort McMurray--Athabasca,36600,"Asterisk, Jule",Green Party,Grn,f,f,1374,4
+41,AB,48019,Lethbridge,36690,"Hillyer, Jim",Conservative,Con,t,f,27173,1
+41,AB,48019,Lethbridge,36692,"Sandilands, Mark",NDP-New Democratic Party,NDP,f,f,13072,2
+41,AB,48019,Lethbridge,36694,"Cormican, Michael",Liberal,Lib,f,f,4030,3
+41,AB,48019,Lethbridge,36691,"Bartlett, Cailin",Green Party,Grn,f,f,2095,4
+41,AB,48019,Lethbridge,36693,"Capp, Geoffrey",CHP Canada,CHP,f,f,1716,5
+41,AB,48020,Macleod,36700,"Menzies, Ted",Conservative,Con,t,f,40007,1
+41,AB,48020,Macleod,36695,"Giles, Janine",NDP-New Democratic Party,NDP,f,f,5335,2
+41,AB,48020,Macleod,36698,"Nagy, Attila",Green Party,Grn,f,f,2389,3
+41,AB,48020,Macleod,36697,"Hankel, Nicole",Liberal,Lib,f,f,1898,4
+41,AB,48020,Macleod,36699,"Carrigan, Brad",PC Party,PC,f,f,1754,5
+41,AB,48020,Macleod,36696,"Slingerland, Marc",CHP Canada,CHP,f,f,252,6
+41,AB,48021,Medicine Hat,36705,"Payne, LaVar",Conservative,Con,t,f,30719,1
+41,AB,48021,Medicine Hat,36704,"Perrier, Dennis",NDP-New Democratic Party,NDP,f,f,5616,2
+41,AB,48021,Medicine Hat,36703,"Boucher, Norm",Liberal,Lib,f,f,4416,3
+41,AB,48021,Medicine Hat,36702,"Murray, Graham",Green Party,Grn,f,f,1868,4
+41,AB,48021,Medicine Hat,36701,"VandeStroet, Frans",CHP Canada,CHP,f,f,317,5
+41,AB,48022,Peace River,36708,"Warkentin, Chris",Conservative,Con,t,f,36334,1
+41,AB,48022,Peace River,36706,"Villebrun, Jennifer",NDP-New Democratic Party,NDP,f,f,7740,2
+41,AB,48022,Peace River,36707,"Kamieniecki, Wayne John",Green Party,Grn,f,f,1702,3
+41,AB,48022,Peace River,36709,"Ganton, Corina",Liberal,Lib,f,f,1481,4
+41,AB,48022,Peace River,36711,"Toews, Russ",Independent,Ind,f,f,359,5
+41,AB,48022,Peace River,36710,"Eckstrom, Donovan",Rhinoceros,Rhino,f,f,345,6
+41,AB,48023,Red Deer,36713,"Dreeshen, Earl",Conservative,Con,t,f,37959,1
+41,AB,48023,Red Deer,36712,"Somerville, Stuart",NDP-New Democratic Party,NDP,f,f,7566,2
+41,AB,48023,Red Deer,36714,"Sisson, Mason Connor Woodruff",Green Party,Grn,f,f,2551,3
+41,AB,48023,Red Deer,36715,"Lineker, Andrew",Liberal,Lib,f,f,1918,4
+41,AB,48024,Vegreville--Wainwright,36716,"Benoit, Leon",Conservative,Con,t,f,39145,1
+41,AB,48024,Vegreville--Wainwright,36719,"Stone, Ray A",NDP-New Democratic Party,NDP,f,f,5561,2
+41,AB,48024,Vegreville--Wainwright,36718,"Munsey, William",Green Party,Grn,f,f,2499,3
+41,AB,48024,Vegreville--Wainwright,36717,"Williams, Ron",Liberal,Lib,f,f,1525,4
+41,AB,48024,Vegreville--Wainwright,36720,"Sokalski, Matthew",CHP Canada,CHP,f,f,327,5
+41,AB,48025,Westlock--St. Paul,36721,"Storseth, Brian",Conservative,Con,t,f,32652,1
+41,AB,48025,Westlock--St. Paul,36722,"Henderson, Lyndsey Ellen",NDP-New Democratic Party,NDP,f,f,5103,2
+41,AB,48025,Westlock--St. Paul,36723,"Fox, Rob",Liberal,Lib,f,f,2569,3
+41,AB,48025,Westlock--St. Paul,36724,"Grant, Lisa",Green Party,Grn,f,f,1634,4
+41,AB,48026,Wetaskiwin,36725,"Calkins, Blaine",Conservative,Con,t,f,37756,1
+41,AB,48026,Wetaskiwin,36728,"Robson, Tim",NDP-New Democratic Party,NDP,f,f,5281,2
+41,AB,48026,Wetaskiwin,36727,"Johnston, Robert",Green Party,Grn,f,f,1978,3
+41,AB,48026,Wetaskiwin,36726,"Anderson, Christopher",Liberal,Lib,f,f,1348,4
+41,AB,48027,Wild Rose,36733,"Richards, Blake",Conservative,Con,t,f,43669,1
+41,AB,48027,Wild Rose,36729,"Horvath, Jeff",NDP-New Democratic Party,NDP,f,f,6595,2
+41,AB,48027,Wild Rose,36730,"MacDonald, Mike",Green Party,Grn,f,f,4071,3
+41,AB,48027,Wild Rose,36732,"Reilly, John Douglas",Liberal,Lib,f,f,3908,4
+41,AB,48027,Wild Rose,36731,"Vanden Broek, Randy",CHP Canada,CHP,f,f,181,5
+41,AB,48028,Yellowhead,36735,"Merrifield, Rob",Conservative,Con,t,f,31925,1
+41,AB,48028,Yellowhead,36736,"Wells, Mark",NDP-New Democratic Party,NDP,f,f,5411,2
+41,AB,48028,Yellowhead,36734,"Schaefer, Monika",Green Party,Grn,f,f,2132,3
+41,AB,48028,Yellowhead,36738,"Siezmagraff, Zack",Liberal,Lib,f,f,1190,4
+41,AB,48028,Yellowhead,36737,"Strydhorst, Jacob",CHP Canada,CHP,f,f,404,5
+41,AB,48028,Yellowhead,36739,"Brade, Melissa",CAP,CAP,f,f,384,6
+41,BC,59001,Abbotsford,36741,"Fast, Ed",Conservative,Con,t,f,32493,1
+41,BC,59001,Abbotsford,36740,"Murray, David Alan",NDP-New Democratic Party,NDP,f,f,10089,2
+41,BC,59001,Abbotsford,36742,"Hardin, Madeleine",Liberal,Lib,f,f,4968,3
+41,BC,59001,Abbotsford,36744,"Bryce, Daniel",Green Party,Grn,f,f,2138,4
+41,BC,59001,Abbotsford,36743,"MacKay, David",Marxist-Leninist,M-L,f,f,286,5
+41,BC,59026,British Columbia Southern Interior,36875,"Atamanenko, Alex",NDP-New Democratic Party,NDP,t,f,25206,1
+41,BC,59026,British Columbia Southern Interior,36874,"Hill, Stephen",Conservative,Con,f,f,19273,2
+41,BC,59026,British Columbia Southern Interior,36876,"Hunt, Bryan",Green Party,Grn,f,f,3153,3
+41,BC,59026,British Columbia Southern Interior,36873,"Lavell, Shan",Liberal,Lib,f,f,1872,4
+41,BC,59002,Burnaby--Douglas,36748,"Stewart, Kennedy",NDP-New Democratic Party,NDP,t,f,20943,1
+41,BC,59002,Burnaby--Douglas,36750,"Leung, Ronald",Conservative,Con,f,f,19932,2
+41,BC,59002,Burnaby--Douglas,36751,"Low, Ken",Liberal,Lib,f,f,5451,3
+41,BC,59002,Burnaby--Douglas,36747,"Merlo, Adrianne",Green Party,Grn,f,f,1754,4
+41,BC,59002,Burnaby--Douglas,36745,"Dahlby, Lewis Clarke",Libertarian,Libtar,f,f,420,5
+41,BC,59002,Burnaby--Douglas,36746,"Gidora, George",Communist,Com,f,f,153,6
+41,BC,59002,Burnaby--Douglas,36749,"Sproule, Brian",Marxist-Leninist,M-L,f,f,57,7
+41,BC,59003,Burnaby--New Westminster,36757,"Julian, Peter",NDP-New Democratic Party,NDP,t,f,22193,1
+41,BC,59003,Burnaby--New Westminster,36756,"Forseth, Paul",Conservative,Con,f,f,16009,2
+41,BC,59003,Burnaby--New Westminster,36754,"Evans, Garth",Liberal,Lib,f,f,4496,3
+41,BC,59003,Burnaby--New Westminster,36752,"McLaren, Carrie",Green Party,Grn,f,f,1731,4
+41,BC,59003,Burnaby--New Westminster,36755,"Pierce, Tyler",Libertarian,Libtar,f,f,160,5
+41,BC,59003,Burnaby--New Westminster,36753,"Theriault, Joseph",Marxist-Leninist,M-L,f,f,94,6
+41,BC,59004,Cariboo--Prince George,36759,"Harris, Dick",Conservative,Con,t,f,24443,1
+41,BC,59004,Cariboo--Prince George,36758,"Van Barneveld, Jon",NDP-New Democratic Party,NDP,f,f,13135,2
+41,BC,59004,Cariboo--Prince George,36761,"Redl, Heidi",Green Party,Grn,f,f,2702,3
+41,BC,59004,Cariboo--Prince George,36764,"Lalli, Sangeeta",Liberal,Lib,f,f,2200,4
+41,BC,59004,Cariboo--Prince George,36762,"Thiessen, Henry",CHP Canada,CHP,f,f,440,5
+41,BC,59004,Cariboo--Prince George,36760,"Ronan, Jon",Independent,Ind,f,f,394,6
+41,BC,59004,Cariboo--Prince George,36763,"Turner, Jordan",Rhinoceros,Rhino,f,f,204,7
+41,BC,59005,Chilliwack--Fraser Canyon,36768,"Strahl, Mark",Conservative,Con,t,f,28160,1
+41,BC,59005,Chilliwack--Fraser Canyon,36765,"O'Mahony, Gwen",NDP-New Democratic Party,NDP,f,f,12691,2
+41,BC,59005,Chilliwack--Fraser Canyon,36769,"Janzen, Diane",Liberal,Lib,f,f,5320,3
+41,BC,59005,Chilliwack--Fraser Canyon,36767,"Hoskins, Jamie",Green Party,Grn,f,f,2706,4
+41,BC,59005,Chilliwack--Fraser Canyon,36770,"Edwards, Clive",WBP,WestBP,f,f,180,5
+41,BC,59005,Chilliwack--Fraser Canyon,36766,"O'Donnell, Dorothy-Jean",Marxist-Leninist,M-L,f,f,173,6
+41,BC,59006,Delta--Richmond East,36776,"Findlay, Kerry-Lynne",Conservative,Con,t,f,26059,1
+41,BC,59006,Delta--Richmond East,36772,"Slater, Nic",NDP-New Democratic Party,NDP,f,f,11181,2
+41,BC,59006,Delta--Richmond East,36775,"Beesley, Alan",Liberal,Lib,f,f,8112,3
+41,BC,59006,Delta--Richmond East,36774,"Laird, Duane",Green Party,Grn,f,f,2324,4
+41,BC,59006,Delta--Richmond East,36773,"Shavluk, John",No Affiliation,Ind,f,f,220,5
+41,BC,59006,Delta--Richmond East,36771,"Monds, Jeff",Libertarian,Libtar,f,f,147,6
+41,BC,59008,Esquimalt--Juan de Fuca,36786,"Garrison, Randall C.",NDP-New Democratic Party,NDP,t,f,26198,1
+41,BC,59008,Esquimalt--Juan de Fuca,36783,"DeSouza, Troy",Conservative,Con,f,f,25792,2
+41,BC,59008,Esquimalt--Juan de Fuca,36784,"Szpak, Lillian",Liberal,Lib,f,f,6439,3
+41,BC,59008,Esquimalt--Juan de Fuca,36782,"Salsman, Shaunna",Green Party,Grn,f,f,5341,4
+41,BC,59008,Esquimalt--Juan de Fuca,36781,"Lesosky, Louis James",Independent,Ind,f,f,181,5
+41,BC,59008,Esquimalt--Juan de Fuca,36785,"Porter, Christopher Robert",CAP,CAP,f,f,145,6
+41,BC,59009,Fleetwood--Port Kells,36788,"Grewal, Nina",Conservative,Con,t,f,23950,1
+41,BC,59009,Fleetwood--Port Kells,36790,"Fernando, Nao",NDP-New Democratic Party,NDP,f,f,16533,2
+41,BC,59009,Fleetwood--Port Kells,36787,"Dhanoa, Pam",Liberal,Lib,f,f,8041,3
+41,BC,59009,Fleetwood--Port Kells,36789,"Saldanha, Alan",Green Party,Grn,f,f,1476,4
+41,BC,59009,Fleetwood--Port Kells,36791,"Joehl, Alex",Libertarian,Libtar,f,f,370,5
+41,BC,59010,Kamloops--Thompson--Cariboo,36792,"McLeod, Cathy",Conservative,Con,t,f,29682,1
+41,BC,59010,Kamloops--Thompson--Cariboo,36796,"Crawford, Michael David",NDP-New Democratic Party,NDP,f,f,20983,2
+41,BC,59010,Kamloops--Thompson--Cariboo,36794,"Todd, Murray",Liberal,Lib,f,f,3026,3
+41,BC,59010,Kamloops--Thompson--Cariboo,36793,"Cavers, Donovan Michael",Green Party,Grn,f,f,2932,4
+41,BC,59010,Kamloops--Thompson--Cariboo,36795,"Kempling, Christopher",CHP Canada,CHP,f,f,191,5
+41,BC,59011,Kelowna--Lake Country,36799,"Cannan, Ron",Conservative,Con,t,f,34566,1
+41,BC,59011,Kelowna--Lake Country,36800,"Kalmanovitch, Tisha",NDP-New Democratic Party,NDP,f,f,13322,2
+41,BC,59011,Kelowna--Lake Country,36797,"Stewart, Kris",Liberal,Lib,f,f,7069,3
+41,BC,59011,Kelowna--Lake Country,36798,"Hooper, Alice",Green Party,Grn,f,f,5265,4
+41,BC,59012,Kootenay--Columbia,36803,"Wilks, David",Conservative,Con,t,f,23910,1
+41,BC,59012,Kootenay--Columbia,36805,"Shmigelsky, Mark",NDP-New Democratic Party,NDP,f,f,14199,2
+41,BC,59012,Kootenay--Columbia,36801,"Green, Bill",Green Party,Grn,f,f,2547,3
+41,BC,59012,Kootenay--Columbia,36802,"Aitchison, Betty",Liberal,Lib,f,f,1496,4
+41,BC,59012,Kootenay--Columbia,36804,"Bush, Brent",Independent,Ind,f,f,636,5
+41,BC,59013,Langley,36807,"Warawa, Mark",Conservative,Con,t,f,35569,1
+41,BC,59013,Langley,36810,"Majkowski, Piotr",NDP-New Democratic Party,NDP,f,f,11277,2
+41,BC,59013,Langley,36808,"Darnell, Rebecca",Liberal,Lib,f,f,4990,3
+41,BC,59013,Langley,36809,"Poitras, Carey Ann",Green Party,Grn,f,f,2943,4
+41,BC,59013,Langley,36806,"Nobbs, Craig",Pirate Party,Pirate,f,f,353,5
+41,BC,59014,Nanaimo--Alberni,36817,"Lunney, James",Conservative,Con,t,f,30469,1
+41,BC,59014,Nanaimo--Alberni,36811,"Maartman, Zenaida",NDP-New Democratic Party,NDP,f,f,25165,2
+41,BC,59014,Nanaimo--Alberni,36816,"Miller, Renée Amber",Liberal,Lib,f,f,4984,3
+41,BC,59014,Nanaimo--Alberni,36814,"Jespersen, Myron",Green Party,Grn,f,f,4482,4
+41,BC,59014,Nanaimo--Alberni,36812,"Schroeder, Jesse",Pirate Party,Pirate,f,f,363,5
+41,BC,59014,Nanaimo--Alberni,36813,"Wagner, Frank",CHP Canada,CHP,f,f,94,6
+41,BC,59014,Nanaimo--Alberni,36815,"Biley, Barbara",Marxist-Leninist,M-L,f,f,81,7
+41,BC,59015,Nanaimo--Cowichan,36821,"Crowder, Jean",NDP-New Democratic Party,NDP,t,f,31272,1
+41,BC,59015,Nanaimo--Cowichan,36822,"Koury, John",Conservative,Con,f,f,24497,2
+41,BC,59015,Nanaimo--Cowichan,36820,"Benoit, Anne Marie",Green Party,Grn,f,f,5005,3
+41,BC,59015,Nanaimo--Cowichan,36819,"Fillmore, Brian",Liberal,Lib,f,f,3007,4
+41,BC,59015,Nanaimo--Cowichan,36818,"East, Jack",Marxist-Leninist,M-L,f,f,170,5
+41,BC,59017,New Westminster--Coquitlam,36830,"Donnelly, Fin",NDP-New Democratic Party,NDP,t,f,23023,1
+41,BC,59017,New Westminster--Coquitlam,36832,"Dilworth, Diana",Conservative,Con,f,f,20776,2
+41,BC,59017,New Westminster--Coquitlam,36833,"Lee, Ken Beck",Liberal,Lib,f,f,4069,3
+41,BC,59017,New Westminster--Coquitlam,36829,"Helps, Rebecca",Green Party,Grn,f,f,2160,4
+41,BC,59017,New Westminster--Coquitlam,36831,"Verrier, Roland",Marxist-Leninist,M-L,f,f,95,5
+41,BC,59016,Newton--North Delta,36828,"Sims, Jinny",NDP-New Democratic Party,NDP,t,f,15413,1
+41,BC,59016,Newton--North Delta,36825,"Dhaliwal, Sukh",Liberal,Lib,f,f,14510,2
+41,BC,59016,Newton--North Delta,36824,"Fallon, Mani",Conservative,Con,f,f,14437,3
+41,BC,59016,Newton--North Delta,36823,"Walker, Liz",Green Party,Grn,f,f,1520,4
+41,BC,59016,Newton--North Delta,36826,"Gill, Ravi S.",Independent,Ind,f,f,123,5
+41,BC,59016,Newton--North Delta,36827,"Hammond, Samuel Frank",Communist,Com,f,f,116,6
+41,BC,59019,North Vancouver,36839,"Saxton, Andrew",Conservative,Con,t,f,28996,1
+41,BC,59019,North Vancouver,36840,"Noormohamed, Taleeb",Liberal,Lib,f,f,17665,2
+41,BC,59019,North Vancouver,36842,"Charrois, Michael",NDP-New Democratic Party,NDP,f,f,9617,3
+41,BC,59019,North Vancouver,36838,"Dowman, Greg",Green Party,Grn,f,f,3004,4
+41,BC,59019,North Vancouver,36841,"Jones, Nick",Independent,Ind,f,f,350,5
+41,BC,59020,Okanagan--Coquihalla,36846,"Albas, Dan",Conservative,Con,t,f,28525,1
+41,BC,59020,Okanagan--Coquihalla,36848,"Finnis, David",NDP-New Democratic Party,NDP,f,f,12853,2
+41,BC,59020,Okanagan--Coquihalla,36843,"Kidder, John",Liberal,Lib,f,f,5815,3
+41,BC,59020,Okanagan--Coquihalla,36847,"Bouchard, Dan",Green Party,Grn,f,f,5005,4
+41,BC,59020,Okanagan--Coquihalla,36845,"Upshaw, Sean",Independent,Ind,f,f,860,5
+41,BC,59020,Okanagan--Coquihalla,36844,"Wittel, Dietrich",Independent,Ind,f,f,180,6
+41,BC,59018,Okanagan--Shuswap,36835,"Mayes, Colin",Conservative,Con,t,f,31439,1
+41,BC,59018,Okanagan--Shuswap,36837,"Inouye, Nikki",NDP-New Democratic Party,NDP,f,f,14955,2
+41,BC,59018,Okanagan--Shuswap,36836,"Crockett, Greig",Green Party,Grn,f,f,6058,3
+41,BC,59018,Okanagan--Shuswap,36834,"Francis, Janna",Liberal,Lib,f,f,4246,4
+41,BC,59007,Pitt Meadows--Maple Ridge--Mission,36778,"Kamp, Randy",Conservative,Con,t,f,28803,1
+41,BC,59007,Pitt Meadows--Maple Ridge--Mission,36777,"Speirs, Craig",NDP-New Democratic Party,NDP,f,f,18835,2
+41,BC,59007,Pitt Meadows--Maple Ridge--Mission,36780,"Bhuller, Mandeep",Liberal,Lib,f,f,2739,3
+41,BC,59007,Pitt Meadows--Maple Ridge--Mission,36779,"Tam, Peter",Green Party,Grn,f,f,2629,4
+41,BC,59021,Port Moody--Westwood--Port Coquitlam,36851,"Moore, James",Conservative,Con,t,f,27181,1
+41,BC,59021,Port Moody--Westwood--Port Coquitlam,36853,"Ireland, Mark",NDP-New Democratic Party,NDP,f,f,14600,2
+41,BC,59021,Port Moody--Westwood--Port Coquitlam,36850,"McGillivray, Stewart",Liberal,Lib,f,f,4110,3
+41,BC,59021,Port Moody--Westwood--Port Coquitlam,36852,"Kim, Kevin",Green Party,Grn,f,f,2161,4
+41,BC,59021,Port Moody--Westwood--Port Coquitlam,36849,"Geddes, Paul",Libertarian,Libtar,f,f,421,5
+41,BC,59022,Prince George--Peace River,36854,"Zimmer, Bob",Conservative,Con,t,f,23946,1
+41,BC,59022,Prince George--Peace River,36856,"Boone, Lois",NDP-New Democratic Party,NDP,f,f,9876,2
+41,BC,59022,Prince George--Peace River,36858,"Crowley, Hilary",Green Party,Grn,f,f,2301,3
+41,BC,59022,Prince George--Peace River,36855,"Levine, Ben",Liberal,Lib,f,f,2008,4
+41,BC,59022,Prince George--Peace River,36857,"Coté, Jeremy",Pirate Party,Pirate,f,f,415,5
+41,BC,59023,Richmond,36862,"Wong, Alice",Conservative,Con,t,f,25109,1
+41,BC,59023,Richmond,36859,"Peschisolido, Joe",Liberal,Lib,f,f,8027,2
+41,BC,59023,Richmond,36861,"Jackaman, Dale",NDP-New Democratic Party,NDP,f,f,7860,3
+41,BC,59023,Richmond,36860,"Wolfe, Michael",Green Party,Grn,f,f,2032,4
+41,BC,59024,Saanich--Gulf Islands,36865,"May, Elizabeth",Green Party,Grn,t,f,31890,1
+41,BC,59024,Saanich--Gulf Islands,36864,"Lunn, Gary",Conservative,Con,f,f,24544,2
+41,BC,59024,Saanich--Gulf Islands,36863,"Loring-Kuhanga, Edith",NDP-New Democratic Party,NDP,f,f,8185,3
+41,BC,59024,Saanich--Gulf Islands,36866,"Hetherington, Renée",Liberal,Lib,f,f,4208,4
+41,BC,59025,Skeena--Bulkley Valley,36868,"Cullen, Nathan Paul",NDP-New Democratic Party,NDP,t,f,19431,1
+41,BC,59025,Skeena--Bulkley Valley,36872,"Harmon, Clay",Conservative,Con,f,f,12117,2
+41,BC,59025,Skeena--Bulkley Valley,36870,"Warwick, Kyle",Liberal,Lib,f,f,1268,3
+41,BC,59025,Skeena--Bulkley Valley,36869,"Benham, Roger",Green Party,Grn,f,f,1102,4
+41,BC,59025,Skeena--Bulkley Valley,36871,"Taylor, Rod",CHP Canada,CHP,f,f,1038,5
+41,BC,59025,Skeena--Bulkley Valley,36867,"Braun, Maggie",CAP,CAP,f,f,165,6
+41,BC,59027,South Surrey--White Rock--Cloverdale,36877,"Hiebert, Russ",Conservative,Con,t,f,31990,1
+41,BC,59027,South Surrey--White Rock--Cloverdale,36879,"Keeping, Susan",NDP-New Democratic Party,NDP,f,f,11881,2
+41,BC,59027,South Surrey--White Rock--Cloverdale,36885,"Staub, Hardy",Liberal,Lib,f,f,9775,3
+41,BC,59027,South Surrey--White Rock--Cloverdale,36882,"Colero, Larry",Green Party,Grn,f,f,3245,4
+41,BC,59027,South Surrey--White Rock--Cloverdale,36884,"Looye, Aart",Independent,Ind,f,f,753,5
+41,BC,59027,South Surrey--White Rock--Cloverdale,36878,"Schouten, Mike",CHP Canada,CHP,f,f,429,6
+41,BC,59027,South Surrey--White Rock--Cloverdale,36883,"Marlatt, Brian",PC Party,PC,f,f,228,7
+41,BC,59027,South Surrey--White Rock--Cloverdale,36881,"Hawkins, David",Independent,Ind,f,f,189,8
+41,BC,59027,South Surrey--White Rock--Cloverdale,36880,"Donohoe, Kevin Peter",Independent,Ind,f,f,152,9
+41,BC,59028,Surrey North,36891,"Sandhu, Jasbir",NDP-New Democratic Party,NDP,t,f,14678,1
+41,BC,59028,Surrey North,36886,"Cadman, Dona",Conservative,Con,f,f,13181,2
+41,BC,59028,Surrey North,36888,"Purewal, Shinder",Liberal,Lib,f,f,6797,3
+41,BC,59028,Surrey North,36890,"Keenan, Bernadette",Green Party,Grn,f,f,1289,4
+41,BC,59028,Surrey North,36889,"Scott, Jamie",Independent,Ind,f,f,451,5
+41,BC,59028,Surrey North,36887,"Pielak, Kevin",CHP Canada,CHP,f,f,303,6
+41,BC,59028,Surrey North,36892,"Barens, Norris",Libertarian,Libtar,f,f,284,7
+41,BC,59029,Vancouver Centre,36898,"Fry, Hedy",Liberal,Lib,t,f,18260,1
+41,BC,59029,Vancouver Centre,36900,"Shillington, Karen",NDP-New Democratic Party,NDP,f,f,15325,2
+41,BC,59029,Vancouver Centre,36895,"Clarke, Jennifer",Conservative,Con,f,f,15323,3
+41,BC,59029,Vancouver Centre,36899,"Carr, Adriane",Green Party,Grn,f,f,9089,4
+41,BC,59029,Vancouver Centre,36896,"Clarke, John",Libertarian,Libtar,f,f,313,5
+41,BC,59029,Vancouver Centre,36893,"Huenefeld, Michael",PC Party,PC,f,f,285,6
+41,BC,59029,Vancouver Centre,36897,"McCrea, Travis",Pirate Party,Pirate,f,f,192,7
+41,BC,59029,Vancouver Centre,36894,"Hill, Michael",Marxist-Leninist,M-L,f,f,62,8
+41,BC,59030,Vancouver East,36904,"Davies, Libby",NDP-New Democratic Party,NDP,t,f,27794,1
+41,BC,59030,Vancouver East,36903,"Yatco, Irene C.",Conservative,Con,f,f,8361,2
+41,BC,59030,Vancouver East,36905,"Ahi, Roma",Liberal,Lib,f,f,4382,3
+41,BC,59030,Vancouver East,36902,"Roy, Douglas",Green Party,Grn,f,f,3383,4
+41,BC,59030,Vancouver East,36901,"Jamieson, Anne",Marxist-Leninist,M-L,f,f,318,5
+41,BC,59031,Vancouver Island North,36906,"Duncan, John",Conservative,Con,t,f,27206,1
+41,BC,59031,Vancouver Island North,36910,"Leonard, Ronna-Rae",NDP-New Democratic Party,NDP,f,f,25379,2
+41,BC,59031,Vancouver Island North,36908,"Holland, Mike",Liberal,Lib,f,f,3039,3
+41,BC,59031,Vancouver Island North,36907,"Moen, Sue",Green Party,Grn,f,f,3018,4
+41,BC,59031,Vancouver Island North,36909,"Draper, Jason",Independent,Ind,f,f,304,5
+41,BC,59031,Vancouver Island North,36911,"Martin, Frank",Marxist-Leninist,M-L,f,f,57,6
+41,BC,59032,Vancouver Kingsway,36915,"Davies, Don",NDP-New Democratic Party,NDP,t,f,23452,1
+41,BC,59032,Vancouver Kingsway,36918,"Nguyen, Trang",Conservative,Con,f,f,13157,2
+41,BC,59032,Vancouver Kingsway,36917,"Yuan, Wendy",Liberal,Lib,f,f,7796,3
+41,BC,59032,Vancouver Kingsway,36916,"Boutin, Louise",Green Party,Grn,f,f,1860,4
+41,BC,59032,Vancouver Kingsway,36914,"Kadioglu, Matt",Libertarian,Libtar,f,f,275,5
+41,BC,59032,Vancouver Kingsway,36912,"Cariou, Kimball",Communist,Com,f,f,210,6
+41,BC,59032,Vancouver Kingsway,36913,"Petersen, Donna",Marxist-Leninist,M-L,f,f,78,7
+41,BC,59033,Vancouver Quadra,36919,"Murray, Joyce",Liberal,Lib,t,f,22903,1
+41,BC,59033,Vancouver Quadra,36922,"Meredith, Deborah",Conservative,Con,f,f,20984,2
+41,BC,59033,Vancouver Quadra,36921,"Elkins, Victor Edward",NDP-New Democratic Party,NDP,f,f,7499,3
+41,BC,59033,Vancouver Quadra,36920,"Shaw, Laura-Leah",Green Party,Grn,f,f,2922,4
+41,BC,59034,Vancouver South,36927,"Young, Wai",Conservative,Con,t,f,19504,1
+41,BC,59034,Vancouver South,36926,"Dosanjh, Ujjal",Liberal,Lib,f,f,15604,2
+41,BC,59034,Vancouver South,36925,"Wong, Meena",NDP-New Democratic Party,NDP,f,f,8552,3
+41,BC,59034,Vancouver South,36924,"Hakizimana, Jean de Dieu",Green Party,Grn,f,f,1151,4
+41,BC,59034,Vancouver South,36923,"Boylan, Charles",Marxist-Leninist,M-L,f,f,222,5
+41,BC,59035,Victoria,36931,"Savoie, Denise",NDP-New Democratic Party,NDP,t,f,30679,1
+41,BC,59035,Victoria,36928,"Hunt, Patrick",Conservative,Con,f,f,14275,2
+41,BC,59035,Victoria,36930,"Causton, Christopher",Liberal,Lib,f,f,8448,3
+41,BC,59035,Victoria,36929,"Giesbrecht, Jared",Green Party,Grn,f,f,7015,4
+41,BC,59036,West Vancouver--Sunshine Coast--Sea to Sky Country,36938,"Weston, John Dunbar",Conservative,Con,t,f,28614,1
+41,BC,59036,West Vancouver--Sunshine Coast--Sea to Sky Country,36934,"Platt, Terry",NDP-New Democratic Party,NDP,f,f,14828,2
+41,BC,59036,West Vancouver--Sunshine Coast--Sea to Sky Country,36940,"Veniez, Dan",Liberal,Lib,f,f,14123,3
+41,BC,59036,West Vancouver--Sunshine Coast--Sea to Sky Country,36936,"Wauters, Brennan",Green Party,Grn,f,f,4436,4
+41,BC,59036,West Vancouver--Sunshine Coast--Sea to Sky Country,36935,"Lagassé, Roger",PC Party,PC,f,f,293,5
+41,BC,59036,West Vancouver--Sunshine Coast--Sea to Sky Country,36933,"Audain, Tunya",Libertarian,Libtar,f,f,250,6
+41,BC,59036,West Vancouver--Sunshine Coast--Sea to Sky Country,36937,"Holt, Allan",WBP,WestBP,f,f,156,7
+41,BC,59036,West Vancouver--Sunshine Coast--Sea to Sky Country,36939,"Chapman, Carol Lee",Marxist-Leninist,M-L,f,f,87,8
+41,BC,59036,West Vancouver--Sunshine Coast--Sea to Sky Country,36932,"Hartt, Doug",CAP,CAP,f,f,64,9
+41,MB,46001,Brandon--Souris,36944,"Tweed, Merv",Conservative,Con,t,f,22386,1
+41,MB,46001,Brandon--Souris,36942,"Bouché, John",NDP-New Democratic Party,NDP,f,f,8845,2
+41,MB,46001,Brandon--Souris,36941,"Barnes, Dave",Green Party,Grn,f,f,2012,3
+41,MB,46001,Brandon--Souris,36943,"Penner, Wes",Liberal,Lib,f,f,1882,4
+41,MB,46002,Charleswood--St. James--Assiniboia,36947,"Fletcher, Steven",Conservative,Con,t,f,23264,1
+41,MB,46002,Charleswood--St. James--Assiniboia,36945,"Paulley, Tom",NDP-New Democratic Party,NDP,f,f,8134,2
+41,MB,46002,Charleswood--St. James--Assiniboia,36946,"Clement, Rob",Liberal,Lib,f,f,7433,3
+41,MB,46002,Charleswood--St. James--Assiniboia,36948,"Enns, Denali",Green Party,Grn,f,f,1587,4
+41,MB,46003,Churchill,36949,"Ashton, Niki",NDP-New Democratic Party,NDP,t,f,10262,1
+41,MB,46003,Churchill,36950,"Daudrich, Wally",Conservative,Con,f,f,5256,2
+41,MB,46003,Churchill,36951,"Garrioch, Sydney",Liberal,Lib,f,f,4087,3
+41,MB,46003,Churchill,36952,"Spence, Alberteen",Green Party,Grn,f,f,471,4
+41,MB,46004,Dauphin--Swan River--Marquette,36955,"Sopuck, Robert",Conservative,Con,t,f,18543,1
+41,MB,46004,Dauphin--Swan River--Marquette,36954,"Osborne, Cheryl",NDP-New Democratic Party,NDP,f,f,7657,2
+41,MB,46004,Dauphin--Swan River--Marquette,36956,"Menzies, Wendy",Liberal,Lib,f,f,1947,3
+41,MB,46004,Dauphin--Swan River--Marquette,36953,"Storey, Kate",Green Party,Grn,f,f,1243,4
+41,MB,46005,Elmwood--Transcona,36958,"Toet, Lawrence",Conservative,Con,t,f,15298,1
+41,MB,46005,Elmwood--Transcona,36959,"Maloway, Jim",NDP-New Democratic Party,NDP,f,f,14998,2
+41,MB,46005,Elmwood--Transcona,36957,"Niemczyk, Ilona",Liberal,Lib,f,f,1660,3
+41,MB,46005,Elmwood--Transcona,36960,"Young, Ellen",Green Party,Grn,f,f,1017,4
+41,MB,46006,Kildonan--St. Paul,36964,"Smith, Joy",Conservative,Con,t,f,22670,1
+41,MB,46006,Kildonan--St. Paul,36966,"Devine, Rachelle",NDP-New Democratic Party,NDP,f,f,11727,2
+41,MB,46006,Kildonan--St. Paul,36962,"Andres, Victor",Liberal,Lib,f,f,3199,3
+41,MB,46006,Kildonan--St. Paul,36965,"Weinberg, Alon David",Green Party,Grn,f,f,1020,4
+41,MB,46006,Kildonan--St. Paul,36961,"Ryall, Brett",Independent,Ind,f,f,218,5
+41,MB,46006,Kildonan--St. Paul,36963,"Hiebert, Eduard",Independent,Ind,f,f,145,6
+41,MB,46007,Portage--Lisgar,36970,"Hoeppner, Candice",Conservative,Con,t,f,26899,1
+41,MB,46007,Portage--Lisgar,36967,"Alli, Mohamed",NDP-New Democratic Party,NDP,f,f,3478,2
+41,MB,46007,Portage--Lisgar,36969,"Willard, M.J.",Liberal,Lib,f,f,2221,3
+41,MB,46007,Portage--Lisgar,36971,"Friesen, Matthew",Green Party,Grn,f,f,1996,4
+41,MB,46007,Portage--Lisgar,36968,"Dondo, Jerome",CHP Canada,CHP,f,f,805,5
+41,MB,46008,Provencher,36976,"Toews, Vic",Conservative,Con,t,f,27820,1
+41,MB,46008,Provencher,36975,"Mackling, Al",NDP-New Democratic Party,NDP,f,f,7051,2
+41,MB,46008,Provencher,36977,"Hayward, Terry",Liberal,Lib,f,f,2645,3
+41,MB,46008,Provencher,36973,"Gibson, Janine",Green Party,Grn,f,f,1164,4
+41,MB,46008,Provencher,36974,"Reimer, David",CHP Canada,CHP,f,f,510,5
+41,MB,46008,Provencher,36972,"Lim, Ric",Pirate Party,Pirate,f,f,215,6
+41,MB,46009,Saint Boniface,36981,"Glover, Shelly",Conservative,Con,t,f,21737,1
+41,MB,46009,Saint Boniface,36980,"Simard, Raymond",Liberal,Lib,f,f,13314,2
+41,MB,46009,Saint Boniface,36979,"Miniely, Patrice",NDP-New Democratic Party,NDP,f,f,6935,3
+41,MB,46009,Saint Boniface,36978,"Payette, Marc",Green Party,Grn,f,f,1245,4
+41,MB,46010,Selkirk--Interlake,36982,"Bezan, James",Conservative,Con,t,f,26848,1
+41,MB,46010,Selkirk--Interlake,36985,"Palsson, Sean",NDP-New Democratic Party,NDP,f,f,10933,2
+41,MB,46010,Selkirk--Interlake,36984,"Geisler, Duncan",Liberal,Lib,f,f,1980,3
+41,MB,46010,Selkirk--Interlake,36983,"Winstone, Don",Green Party,Grn,f,f,1423,4
+41,MB,46011,Winnipeg Centre,36987,"Martin, Pat",NDP-New Democratic Party,NDP,t,f,13928,1
+41,MB,46011,Winnipeg Centre,36988,"Pitura, Bev",Conservative,Con,f,f,7173,2
+41,MB,46011,Winnipeg Centre,36986,"Wise, Allan",Liberal,Lib,f,f,2872,3
+41,MB,46011,Winnipeg Centre,36990,"Romanow, Jacqueline",Green Party,Grn,f,f,1830,4
+41,MB,46011,Winnipeg Centre,36989,"Rankin, Darrell",Communist,Com,f,f,152,5
+41,MB,46012,Winnipeg North,36991,"Lamoureux, Kevin",Liberal,Lib,t,f,9097,1
+41,MB,46012,Winnipeg North,36992,"Blaikie, Rebecca",NDP-New Democratic Party,NDP,f,f,9053,2
+41,MB,46012,Winnipeg North,36993,"Matejicka, Ann",Conservative,Con,f,f,6701,3
+41,MB,46012,Winnipeg North,36994,"Harvie, John",Green Party,Grn,f,f,458,4
+41,MB,46012,Winnipeg North,36995,"Komarniski, Frank",Communist,Com,f,f,118,5
+41,MB,46013,Winnipeg South,36997,"Bruinooge, Rod",Conservative,Con,t,f,22840,1
+41,MB,46013,Winnipeg South,36999,"Duguid, Terry",Liberal,Lib,f,f,14296,2
+41,MB,46013,Winnipeg South,36996,"Gaudreau, Dave",NDP-New Democratic Party,NDP,f,f,5693,3
+41,MB,46013,Winnipeg South,36998,"McIntyre, Caitlin",Green Party,Grn,f,f,889,4
+41,MB,46014,Winnipeg South Centre,37005,"Bateman, Joyce",Conservative,Con,t,f,15506,1
+41,MB,46014,Winnipeg South Centre,37001,"Neville, Anita",Liberal,Lib,f,f,14784,2
+41,MB,46014,Winnipeg South Centre,37000,"Lewycky, Dennis",NDP-New Democratic Party,NDP,f,f,7945,3
+41,MB,46014,Winnipeg South Centre,37002,"McNeil, Joshua",Green Party,Grn,f,f,1383,4
+41,MB,46014,Winnipeg South Centre,37003,"Henderson, Matt",Independent,Ind,f,f,218,5
+41,MB,46014,Winnipeg South Centre,37004,"Froese, Lyndon B.",Independent,Ind,f,f,103,6
+41,NB,13001,Acadie--Bathurst,37008,"Godin, Yvon",NDP-New Democratic Party,NDP,t,f,32067,1
+41,NB,13001,Acadie--Bathurst,37007,"Robichaud, Louis",Conservative,Con,f,f,7456,2
+41,NB,13001,Acadie--Bathurst,37006,"Gionet, Jean Marie",Liberal,Lib,f,f,6491,3
+41,NB,13002,Beauséjour,37009,"LeBlanc, Dominic",Liberal,Lib,t,f,17399,1
+41,NB,13002,Beauséjour,37012,"Chapman, Evelyne",Conservative,Con,f,f,14811,2
+41,NB,13002,Beauséjour,37011,"Levi-Peters, Susan",NDP-New Democratic Party,NDP,f,f,10397,3
+41,NB,13002,Beauséjour,37010,"Arsenault, Natalie",Green Party,Grn,f,f,1913,4
+41,NB,13003,Fredericton,37014,"Ashfield, Keith",Conservative,Con,t,f,21573,1
+41,NB,13003,Fredericton,37015,"Travis, Jesse",NDP-New Democratic Party,NDP,f,f,10626,2
+41,NB,13003,Fredericton,37017,"McKeen, Randy",Liberal,Lib,f,f,10336,3
+41,NB,13003,Fredericton,37016,"Comeau, Louise Anna-Marie",Green Party,Grn,f,f,1790,4
+41,NB,13003,Fredericton,37013,"Ness, Adam Scott",Independent,Ind,f,f,266,5
+41,NB,13004,Fundy Royal,37021,"Moore, Rob",Conservative,Con,t,f,21206,1
+41,NB,13004,Fundy Royal,37020,"Pitre, Darryl",NDP-New Democratic Party,NDP,f,f,9845,2
+41,NB,13004,Fundy Royal,37018,"Wilhelm, Linda",Liberal,Lib,f,f,3668,3
+41,NB,13004,Fundy Royal,37019,"Coburn, Stephanie",Green Party,Grn,f,f,1757,4
+41,NB,13005,Madawaska--Restigouche,37023,"Valcourt, Bernard",Conservative,Con,t,f,14224,1
+41,NB,13005,Madawaska--Restigouche,37022,"D'Amours, Jean-Claude JC",Liberal,Lib,f,f,12309,2
+41,NB,13005,Madawaska--Restigouche,37024,"Jules, Widler",NDP-New Democratic Party,NDP,f,f,6562,3
+41,NB,13005,Madawaska--Restigouche,37025,"Bérubé, Louis",Independent,Ind,f,f,1290,4
+41,NB,13005,Madawaska--Restigouche,37026,"Morrison, Lynn",Green Party,Grn,f,f,612,5
+41,NB,13006,Miramichi,37028,"O'Neill Gordon, Tilly",Conservative,Con,t,f,16112,1
+41,NB,13006,Miramichi,37030,"Colford, Patrick",NDP-New Democratic Party,NDP,f,f,7097,2
+41,NB,13006,Miramichi,37029,"Vickers, Keith",Liberal,Lib,f,f,6800,3
+41,NB,13006,Miramichi,37027,"Mazerolle, Ronald",Green Party,Grn,f,f,735,4
+41,NB,13007,Moncton--Riverview--Dieppe,37032,"Goguen, Robert",Conservative,Con,t,f,17408,1
+41,NB,13007,Moncton--Riverview--Dieppe,37031,"Murphy, Brian",Liberal,Lib,f,f,15247,2
+41,NB,13007,Moncton--Riverview--Dieppe,37034,"Gagné, Shawna",NDP-New Democratic Party,NDP,f,f,14053,3
+41,NB,13007,Moncton--Riverview--Dieppe,37033,"Steeves, Steven",Green Party,Grn,f,f,2016,4
+41,NB,13008,New Brunswick Southwest,37036,"Williamson, John",Conservative,Con,t,f,18066,1
+41,NB,13008,New Brunswick Southwest,37038,"Graham, Andrew",NDP-New Democratic Party,NDP,f,f,7413,2
+41,NB,13008,New Brunswick Southwest,37039,"Wilson, Kelly",Liberal,Lib,f,f,4320,3
+41,NB,13008,New Brunswick Southwest,37035,"Harvey, Janice",Green Party,Grn,f,f,1646,4
+41,NB,13008,New Brunswick Southwest,37037,"Farris, Jason",CHP Canada,CHP,f,f,450,5
+41,NB,13009,Saint John,37044,"Weston, Rodney",Conservative,Con,t,f,18456,1
+41,NB,13009,Saint John,37041,"Moir, Rob",NDP-New Democratic Party,NDP,f,f,11382,2
+41,NB,13009,Saint John,37040,"Chase, Stephen",Liberal,Lib,f,f,5964,3
+41,NB,13009,Saint John,37043,"Murphy-Flatt, Sharon",Green Party,Grn,f,f,1017,4
+41,NB,13009,Saint John,37042,"Watson, Arthur Jr.",Independent,Ind,f,f,294,5
+41,NB,13010,Tobique--Mactaquac,37045,"Allen, Mike",Conservative,Con,t,f,21108,1
+41,NB,13010,Tobique--Mactaquac,37046,"Cyr, Pierre",NDP-New Democratic Party,NDP,f,f,6388,2
+41,NB,13010,Tobique--Mactaquac,37048,"Chiasson, Chuck",Liberal,Lib,f,f,5337,3
+41,NB,13010,Tobique--Mactaquac,37047,"McGlynn, Rish",Green Party,Grn,f,f,831,4
+41,NL,10001,Avalon,37051,"Andrews, Scott",Liberal,Lib,t,f,16008,1
+41,NL,10001,Avalon,37053,"Manning, Fabian",Conservative,Con,f,f,14749,2
+41,NL,10001,Avalon,37049,"Fuchs, Matthew Martin",NDP-New Democratic Party,NDP,f,f,5157,3
+41,NL,10001,Avalon,37050,"Dawe, Randy Wayne",Independent,Ind,f,f,276,4
+41,NL,10001,Avalon,37052,"Crowder, Matt",Green Party,Grn,f,f,218,5
+41,NL,10002,Bonavista--Gander--Grand Falls--Windsor,37057,"Simms, Scott",Liberal,Lib,t,f,17977,1
+41,NL,10002,Bonavista--Gander--Grand Falls--Windsor,37056,"Hynes, Aaron",Conservative,Con,f,f,8595,2
+41,NL,10002,Bonavista--Gander--Grand Falls--Windsor,37054,"Bridger, Clyde",NDP-New Democratic Party,NDP,f,f,4306,3
+41,NL,10002,Bonavista--Gander--Grand Falls--Windsor,37055,"Kenny, Robyn",Green Party,Grn,f,f,279,4
+41,NL,10003,Humber--St. Barbe--Baie Verte,37062,"Byrne, Gerry",Liberal,Lib,t,f,17119,1
+41,NL,10003,Humber--St. Barbe--Baie Verte,37061,"Taylor, Trevor",Conservative,Con,f,f,7559,2
+41,NL,10003,Humber--St. Barbe--Baie Verte,37060,"Senior, Shelley",NDP-New Democratic Party,NDP,f,f,4751,3
+41,NL,10003,Humber--St. Barbe--Baie Verte,37058,"Bennett, Wayne R.",Independent,Ind,f,f,332,4
+41,NL,10003,Humber--St. Barbe--Baie Verte,37059,"Gosse, Robin Blair",Green Party,Grn,f,f,253,5
+41,NL,10004,Labrador,37064,"Penashue, Peter",Conservative,Con,t,f,4256,1
+41,NL,10004,Labrador,37063,"Russell, Todd",Liberal,Lib,f,f,4177,2
+41,NL,10004,Labrador,37065,"Larkin, Jacob",NDP-New Democratic Party,NDP,f,f,2120,3
+41,NL,10004,Labrador,37066,"Barrett, George C.R.",Green Party,Grn,f,f,139,4
+41,NL,10005,Random--Burin--St. George's,37070,"Foote, Judy",Liberal,Lib,t,f,12914,1
+41,NL,10005,Random--Burin--St. George's,37067,"Ottenheimer, John",Conservative,Con,f,f,8322,2
+41,NL,10005,Random--Burin--St. George's,37068,"Magalios, Stella",NDP-New Democratic Party,NDP,f,f,4465,3
+41,NL,10005,Random--Burin--St. George's,37069,"Gutmanis, Tanya",Green Party,Grn,f,f,307,4
+41,NL,10006,St. John's East,37071,"Harris, Jack",NDP-New Democratic Party,NDP,t,f,31388,1
+41,NL,10006,St. John's East,37074,"Byrne, Jerry",Conservative,Con,f,f,9198,2
+41,NL,10006,St. John's East,37073,"Allan, John",Liberal,Lib,f,f,3019,3
+41,NL,10006,St. John's East,37072,"Miller, Robert",Green Party,Grn,f,f,467,4
+41,NL,10007,St. John's South--Mount Pearl,37077,"Cleary, Ryan",NDP-New Democratic Party,NDP,t,f,18681,1
+41,NL,10007,St. John's South--Mount Pearl,37078,"Coady, Siobhan",Liberal,Lib,f,f,11130,2
+41,NL,10007,St. John's South--Mount Pearl,37075,"Sullivan, Loyola",Conservative,Con,f,f,8883,3
+41,NL,10007,St. John's South--Mount Pearl,37076,"Austin, Rick",Green Party,Grn,f,f,291,4
+41,NS,12001,Cape Breton--Canso,37079,"Cuzner, Rodger",Liberal,Lib,t,f,16478,1
+41,NS,12001,Cape Breton--Canso,37082,"Kennedy, Derrick Clarence",Conservative,Con,f,f,10873,2
+41,NS,12001,Cape Breton--Canso,37081,"Simmons, Marney Jeanne",NDP-New Democratic Party,NDP,f,f,6984,3
+41,NS,12001,Cape Breton--Canso,37080,"Carabin, Glen",Green Party,Grn,f,f,1141,4
+41,NS,12002,Central Nova,37086,"MacKay, Peter G.",Conservative,Con,t,f,21593,1
+41,NS,12002,Central Nova,37085,"Parker, David K.",NDP-New Democratic Party,NDP,f,f,9412,2
+41,NS,12002,Central Nova,37084,"Hamilton, John R.",Liberal,Lib,f,f,5614,3
+41,NS,12002,Central Nova,37083,"Chisholm, Matthew",Green Party,Grn,f,f,1406,4
+41,NS,12007,Cumberland--Colchester--Musquodoboit Valley,37107,"Armstrong, Scott",Conservative,Con,t,f,21041,1
+41,NS,12007,Cumberland--Colchester--Musquodoboit Valley,37106,"Robinson, Wendy",NDP-New Democratic Party,NDP,f,f,9322,2
+41,NS,12007,Cumberland--Colchester--Musquodoboit Valley,37108,"Burrows, Jim",Liberal,Lib,f,f,7264,3
+41,NS,12007,Cumberland--Colchester--Musquodoboit Valley,37105,"Blanch, Jason",Green Party,Grn,f,f,2109,4
+41,NS,12007,Cumberland--Colchester--Musquodoboit Valley,37104,"Hnatiuk, Jim",CHP Canada,CHP,f,f,375,5
+41,NS,12003,Dartmouth--Cole Harbour,37090,"Chisholm, Robert",NDP-New Democratic Party,NDP,t,f,15678,1
+41,NS,12003,Dartmouth--Cole Harbour,37089,"Savage, Mike",Liberal,Lib,f,f,15181,2
+41,NS,12003,Dartmouth--Cole Harbour,37088,"Webber, Wanda",Conservative,Con,f,f,10702,3
+41,NS,12003,Dartmouth--Cole Harbour,37087,"Shreenan, Paul",Green Party,Grn,f,f,1662,4
+41,NS,12004,Halifax,37095,"Leslie, Megan",NDP-New Democratic Party,NDP,t,f,23746,1
+41,NS,12004,Halifax,37092,"Kutcher, Stan",Liberal,Lib,f,f,11793,2
+41,NS,12004,Halifax,37094,"Nikolaou, George",Conservative,Con,f,f,8276,3
+41,NS,12004,Halifax,37091,"Dewar, Michael",Green Party,Grn,f,f,2020,4
+41,NS,12004,Halifax,37093,"Seed, Tony",Marxist-Leninist,M-L,f,f,152,5
+41,NS,12005,Halifax West,37097,"Regan, Geoff",Liberal,Lib,t,f,16230,1
+41,NS,12005,Halifax West,37098,"Pretty, Bruce Robert",Conservative,Con,f,f,13782,2
+41,NS,12005,Halifax West,37099,"Ash, Gregor",NDP-New Democratic Party,NDP,f,f,13239,3
+41,NS,12005,Halifax West,37096,"Trappenberg, Thomas",Green Party,Grn,f,f,1931,4
+41,NS,12006,Kings--Hants,37101,"Brison, Scott",Liberal,Lib,t,f,15887,1
+41,NS,12006,Kings--Hants,37100,"Morse, David",Conservative,Con,f,f,14714,2
+41,NS,12006,Kings--Hants,37103,"Rogers, Mark",NDP-New Democratic Party,NDP,f,f,8043,3
+41,NS,12006,Kings--Hants,37102,"Richardson, Sheila",Green Party,Grn,f,f,1520,4
+41,NS,12008,Sackville--Eastern Shore,37112,"Stoffer, Peter",NDP-New Democratic Party,NDP,t,f,22483,1
+41,NS,12008,Sackville--Eastern Shore,37111,"Mimnagh, Adam",Conservative,Con,f,f,12662,2
+41,NS,12008,Sackville--Eastern Shore,37109,"Hemming, Scott",Liberal,Lib,f,f,4673,3
+41,NS,12008,Sackville--Eastern Shore,37110,"Percy, John",Green Party,Grn,f,f,1762,4
+41,NS,12009,South Shore--St. Margaret's,37116,"Keddy, Gerald",Conservative,Con,t,f,17948,1
+41,NS,12009,South Shore--St. Margaret's,37115,"Earle, Gordon",NDP-New Democratic Party,NDP,f,f,15033,2
+41,NS,12009,South Shore--St. Margaret's,37113,"Wells, Derek",Liberal,Lib,f,f,7037,3
+41,NS,12009,South Shore--St. Margaret's,37114,"MacLellan, Kris",Green Party,Grn,f,f,1579,4
+41,NS,12010,Sydney--Victoria,37120,"Eyking, Mark",Liberal,Lib,t,f,14788,1
+41,NS,12010,Sydney--Victoria,37118,"Clarke, Cecil",Conservative,Con,f,f,14023,2
+41,NS,12010,Sydney--Victoria,37117,"MacLeod, Kathy",NDP-New Democratic Party,NDP,f,f,7049,3
+41,NS,12010,Sydney--Victoria,37119,"Milburn, Chris",Green Party,Grn,f,f,1191,4
+41,NS,12011,West Nova,37121,"Kerr, Greg",Conservative,Con,t,f,20204,1
+41,NS,12011,West Nova,37124,"Thibault, Robert",Liberal,Lib,f,f,15632,2
+41,NS,12011,West Nova,37122,"Barron, George",NDP-New Democratic Party,NDP,f,f,5631,3
+41,NS,12011,West Nova,37123,"Johnson, Ross",Green Party,Grn,f,f,1487,4
+41,NT,61001,Western Arctic,37129,"Bevington, Dennis",NDP-New Democratic Party,NDP,t,f,7140,1
+41,NT,61001,Western Arctic,37127,"Lee, Sandy",Conservative,Con,f,f,5001,2
+41,NT,61001,Western Arctic,37125,"Handley, Joe",Liberal,Lib,f,f,2872,3
+41,NT,61001,Western Arctic,37126,"Purchase, Eli",Green Party,Grn,f,f,477,4
+41,NT,61001,Western Arctic,37128,"Dawson, Bonnie",Animal Alliance/Environment Voters,AniAEV,f,f,87,5
+41,NU,62001,Nunavut,37133,"Aglukkaq, Leona",Conservative,Con,t,f,3930,1
+41,NU,62001,Nunavut,37130,"Okalik, Paul",Liberal,Lib,f,f,2260,2
+41,NU,62001,Nunavut,37131,"Hicks, Jack",NDP-New Democratic Party,NDP,f,f,1525,3
+41,NU,62001,Nunavut,37132,"MacCallum, Scott",Green Party,Grn,f,f,160,4
+41,ON,35001,Ajax--Pickering,37135,"Alexander, Chris",Conservative,Con,t,f,24797,1
+41,ON,35001,Ajax--Pickering,37134,"Holland, Mark",Liberal,Lib,f,f,21569,2
+41,ON,35001,Ajax--Pickering,37137,"Koppens, Jim",NDP-New Democratic Party,NDP,f,f,8270,3
+41,ON,35001,Ajax--Pickering,37138,"Harilaid, Mike",Green Party,Grn,f,f,1561,4
+41,ON,35001,Ajax--Pickering,37136,"Kesic, Bob",United Party,Ind,f,f,71,5
+41,ON,35002,Algoma--Manitoulin--Kapuskasing,37140,"Hughes, Carol",NDP-New Democratic Party,NDP,t,f,18747,1
+41,ON,35002,Algoma--Manitoulin--Kapuskasing,37141,"Sturgeon, Ray",Conservative,Con,f,f,10991,2
+41,ON,35002,Algoma--Manitoulin--Kapuskasing,37142,"Cloutier, François",Liberal,Lib,f,f,5374,3
+41,ON,35002,Algoma--Manitoulin--Kapuskasing,37139,"Rekmans, Lorraine A.",Green Party,Grn,f,f,1130,4
+41,ON,35003,Ancaster--Dundas--Flamborough--Westdale,37143,"Sweet, David",Conservative,Con,t,f,30240,1
+41,ON,35003,Ancaster--Dundas--Flamborough--Westdale,37144,"Braden, Dave",Liberal,Lib,f,f,14594,2
+41,ON,35003,Ancaster--Dundas--Flamborough--Westdale,37146,"MacBain, Nancy",NDP-New Democratic Party,NDP,f,f,10956,3
+41,ON,35003,Ancaster--Dundas--Flamborough--Westdale,37148,"Ormond, Peter Michael",Green Party,Grn,f,f,2963,4
+41,ON,35003,Ancaster--Dundas--Flamborough--Westdale,37147,"Giles, Anthony",Libertarian,Libtar,f,f,170,5
+41,ON,35003,Ancaster--Dundas--Flamborough--Westdale,37145,"Ghaddar, Jamilé",Marxist-Leninist,M-L,f,f,77,6
+41,ON,35004,Barrie,37151,"Brown, Patrick",Conservative,Con,t,f,32121,1
+41,ON,35004,Barrie,37149,"Clark, Myrna",NDP-New Democratic Party,NDP,f,f,11842,2
+41,ON,35004,Barrie,37155,"Wilson, Colin",Liberal,Lib,f,f,9113,3
+41,ON,35004,Barrie,37152,"Jacoby-Hawkins, Erich",Green Party,Grn,f,f,3266,4
+41,ON,35004,Barrie,37154,"Roskam, Darren",Libertarian,Libtar,f,f,150,5
+41,ON,35004,Barrie,37150,"Nugent, Christine",Marxist-Leninist,M-L,f,f,82,6
+41,ON,35004,Barrie,37153,"Sakula, Jeff",CAP,CAP,f,f,77,7
+41,ON,35005,Beaches--East York,37160,"Kellway, Matthew",NDP-New Democratic Party,NDP,t,f,20265,1
+41,ON,35005,Beaches--East York,37157,"Minna, Maria",Liberal,Lib,f,f,14967,2
+41,ON,35005,Beaches--East York,37158,"Burrows, Bill",Conservative,Con,f,f,11067,3
+41,ON,35005,Beaches--East York,37156,"Cameron, Aaron",Green Party,Grn,f,f,2240,4
+41,ON,35005,Beaches--East York,37159,"Carter, Roger",Marxist-Leninist,M-L,f,f,130,5
+41,ON,35006,Bramalea--Gore--Malton,37162,"Gosal, Bal",Conservative,Con,t,f,19907,1
+41,ON,35006,Bramalea--Gore--Malton,37161,"Singh, Jagmeet",NDP-New Democratic Party,NDP,f,f,19368,2
+41,ON,35006,Bramalea--Gore--Malton,37164,"Malhi, Gurbax S.",Liberal,Lib,f,f,16402,3
+41,ON,35006,Bramalea--Gore--Malton,37165,"Moulton, John R.A.",Green Party,Grn,f,f,1748,4
+41,ON,35006,Bramalea--Gore--Malton,37163,"Chilelli, Frank",Marxist-Leninist,M-L,f,f,371,5
+41,ON,35008,Brampton West,37175,"Seeback, Kyle",Conservative,Con,t,f,28320,1
+41,ON,35008,Brampton West,37173,"Kania, Andrew",Liberal,Lib,f,f,22128,2
+41,ON,35008,Brampton West,37172,"Shergill, Jagtar",NDP-New Democratic Party,NDP,f,f,11225,3
+41,ON,35008,Brampton West,37174,"Soor, Avtaar",Green Party,Grn,f,f,1224,4
+41,ON,35008,Brampton West,37171,"Koum Njoh, Theodore",Independent,Ind,f,f,387,5
+41,ON,35007,Brampton--Springdale,37167,"Gill, Parm",Conservative,Con,t,f,24618,1
+41,ON,35007,Brampton--Springdale,37169,"Dhalla, Ruby",Liberal,Lib,f,f,14221,2
+41,ON,35007,Brampton--Springdale,37170,"Grewal, Manjit",NDP-New Democratic Party,NDP,f,f,10022,3
+41,ON,35007,Brampton--Springdale,37168,"Hoffberg, Mark",Green Party,Grn,f,f,1926,4
+41,ON,35007,Brampton--Springdale,37166,"Rowley, Elizabeth",Communist,Com,f,f,219,5
+41,ON,35009,Brant,37176,"McColeman, Phil",Conservative,Con,t,f,28045,1
+41,ON,35009,Brant,37180,"Laferriere, Marc",NDP-New Democratic Party,NDP,f,f,16351,2
+41,ON,35009,Brant,37178,"St. Amand, Lloyd",Liberal,Lib,f,f,10780,3
+41,ON,35009,Brant,37181,"Fueten, Nora",Green Party,Grn,f,f,1858,4
+41,ON,35009,Brant,37179,"Bory, Leslie",Independent,Ind,f,f,174,5
+41,ON,35009,Brant,37177,"Sitko, Martin",Independent,Ind,f,f,138,6
+41,ON,35026,Bruce--Grey--Owen Sound,37262,"Miller, Larry",Conservative,Con,t,f,28744,1
+41,ON,35026,Bruce--Grey--Owen Sound,37264,"Gventer, Karen",NDP-New Democratic Party,NDP,f,f,9008,2
+41,ON,35026,Bruce--Grey--Owen Sound,37265,"Love, Kimberley",Liberal,Lib,f,f,8203,3
+41,ON,35026,Bruce--Grey--Owen Sound,37263,"Hogbin, Emma",Green Party,Grn,f,f,5099,4
+41,ON,35010,Burlington,37183,"Wallace, Mike",Conservative,Con,t,f,32958,1
+41,ON,35010,Burlington,37184,"Brierley, Alyssa",Liberal,Lib,f,f,14154,2
+41,ON,35010,Burlington,37185,"Laird, David",NDP-New Democratic Party,NDP,f,f,11449,3
+41,ON,35010,Burlington,37182,"Mayberry, Graham Reid",Green Party,Grn,f,f,2151,4
+41,ON,35010,Burlington,37186,"Baetz, Elaine",Marxist-Leninist,M-L,f,f,140,5
+41,ON,35011,Cambridge,37191,"Goodyear, Gary",Conservative,Con,t,f,29394,1
+41,ON,35011,Cambridge,37187,"Galvao, Susan",NDP-New Democratic Party,NDP,f,f,15238,2
+41,ON,35011,Cambridge,37188,"May, Bryan",Liberal,Lib,f,f,8285,3
+41,ON,35011,Cambridge,37189,"Malette, Jacques",Green Party,Grn,f,f,1978,4
+41,ON,35011,Cambridge,37190,"Couto, Manuel",Marxist-Leninist,M-L,f,f,153,5
+41,ON,35012,Carleton--Mississippi Mills,37194,"O'Connor, Gordon",Conservative,Con,t,f,43723,1
+41,ON,35012,Carleton--Mississippi Mills,37193,"McCrimmon, Karen",Liberal,Lib,f,f,18393,2
+41,ON,35012,Carleton--Mississippi Mills,37195,"Peters, Erin",NDP-New Democratic Party,NDP,f,f,11223,3
+41,ON,35012,Carleton--Mississippi Mills,37192,"Hogg, John",Green Party,Grn,f,f,3434,4
+41,ON,35013,Chatham-Kent--Essex,37196,"Van Kesteren, Dave",Conservative,Con,t,f,23360,1
+41,ON,35013,Chatham-Kent--Essex,37198,"Franko, Ron",NDP-New Democratic Party,NDP,f,f,11449,2
+41,ON,35013,Chatham-Kent--Essex,37199,"Daudlin, Matt",Liberal,Lib,f,f,7172,3
+41,ON,35013,Chatham-Kent--Essex,37197,"Hodgson, Robert",Green Party,Grn,f,f,1470,4
+41,ON,35015,Davenport,37210,"Cash, Andrew",NDP-New Democratic Party,NDP,t,f,21096,1
+41,ON,35015,Davenport,37208,"Silva, Mario",Liberal,Lib,f,f,10946,2
+41,ON,35015,Davenport,37206,"Rodrigues, Theresa",Conservative,Con,f,f,5573,3
+41,ON,35015,Davenport,37207,"Scott, Wayne",Green Party,Grn,f,f,1344,4
+41,ON,35015,Davenport,37209,"Figueroa, Miguel",Communist,Com,f,f,167,5
+41,ON,35015,Davenport,37211,"Luisi, Simon",Animal Alliance/Environment Voters,AniAEV,f,f,128,6
+41,ON,35016,Don Valley East,37215,"Daniel, Joe",Conservative,Con,t,f,14422,1
+41,ON,35016,Don Valley East,37214,"Ratansi, Yasmin",Liberal,Lib,f,f,13552,2
+41,ON,35016,Don Valley East,37213,"Hynes, Mary Trapani",NDP-New Democratic Party,NDP,f,f,9878,3
+41,ON,35016,Don Valley East,37212,"Sadikali, Akil",Green Party,Grn,f,f,1114,4
+41,ON,35016,Don Valley East,37216,"Kidd, Ryan",CHP Canada,CHP,f,f,246,5
+41,ON,35017,Don Valley West,37217,"Carmichael, John",Conservative,Con,t,f,22962,1
+41,ON,35017,Don Valley West,37219,"Oliphant, Rob",Liberal,Lib,f,f,22351,2
+41,ON,35017,Don Valley West,37220,"Yovanoff, Nicole",NDP-New Democratic Party,NDP,f,f,6280,3
+41,ON,35017,Don Valley West,37221,"Wilcock, Georgina",Green Party,Grn,f,f,1703,4
+41,ON,35017,Don Valley West,37218,"Kabitsis, Dimitris",Communist,Com,f,f,186,5
+41,ON,35018,Dufferin--Caledon,37222,"Tilson, David",Conservative,Con,t,f,28647,1
+41,ON,35018,Dufferin--Caledon,37225,"Van Leeuwen, Ard",Green Party,Grn,f,f,7132,2
+41,ON,35018,Dufferin--Caledon,37223,"Parsons, Leslie",NDP-New Democratic Party,NDP,f,f,6409,3
+41,ON,35018,Dufferin--Caledon,37224,"Prout, Bill",Liberal,Lib,f,f,6361,4
+41,ON,35014,Durham,37204,"Oda, Bev",Conservative,Con,t,f,31737,1
+41,ON,35014,Durham,37205,"Schoep, Tammy",NDP-New Democratic Party,NDP,f,f,12277,2
+41,ON,35014,Durham,37201,"Humes, Grant",Liberal,Lib,f,f,10387,3
+41,ON,35014,Durham,37202,"Leahy, Stephen",Green Party,Grn,f,f,3134,4
+41,ON,35014,Durham,37203,"Moriarity, Andrew",CHP Canada,CHP,f,f,462,5
+41,ON,35014,Durham,37200,"Barnicoat, Blaize",Libertarian,Libtar,f,f,187,6
+41,ON,35019,Eglinton--Lawrence,37227,"Oliver, Joe",Conservative,Con,t,f,22652,1
+41,ON,35019,Eglinton--Lawrence,37228,"Volpe, Joe",Liberal,Lib,f,f,18590,2
+41,ON,35019,Eglinton--Lawrence,37229,"Chatwin, Justin",NDP-New Democratic Party,NDP,f,f,5613,3
+41,ON,35019,Eglinton--Lawrence,37226,"Baker, Paul William",Green Party,Grn,f,f,1534,4
+41,ON,35020,Elgin--Middlesex--London,37230,"Preston, Joe",Conservative,Con,t,f,29147,1
+41,ON,35020,Elgin--Middlesex--London,37235,"Sinclair, Fred",NDP-New Democratic Party,NDP,f,f,12439,2
+41,ON,35020,Elgin--Middlesex--London,37233,"Warwick, Graham",Liberal,Lib,f,f,6812,3
+41,ON,35020,Elgin--Middlesex--London,37232,"Fisher, John",Green Party,Grn,f,f,1529,4
+41,ON,35020,Elgin--Middlesex--London,37231,"Hiemstra, Carl",CHP Canada,CHP,f,f,582,5
+41,ON,35020,Elgin--Middlesex--London,37234,"Arlow, Will",CAP,CAP,f,f,140,6
+41,ON,35021,Essex,37237,"Watson, Jeff",Conservative,Con,t,f,25327,1
+41,ON,35021,Essex,37239,"Natyshak, Taras",NDP-New Democratic Party,NDP,f,f,18538,2
+41,ON,35021,Essex,37238,"Santos, Nelson",Liberal,Lib,f,f,7465,3
+41,ON,35021,Essex,37236,"Carriveau, Cora",Green Party,Grn,f,f,1290,4
+41,ON,35021,Essex,37240,"Villamizar, Enver",Marxist-Leninist,M-L,f,f,77,5
+41,ON,35022,Etobicoke Centre,37241,"Opitz, Ted",Conservative,Con,t,f,21644,1
+41,ON,35022,Etobicoke Centre,37244,"Wrzesnewskyj, Borys",Liberal,Lib,f,f,21618,2
+41,ON,35022,Etobicoke Centre,37243,"Rivero, Ana Maria",NDP-New Democratic Party,NDP,f,f,7735,3
+41,ON,35022,Etobicoke Centre,37245,"Zoricic, Katarina",Green Party,Grn,f,f,1377,4
+41,ON,35022,Etobicoke Centre,37242,"Thompson, Sarah",Marxist-Leninist,M-L,f,f,149,5
+41,ON,35024,Etobicoke North,37256,"Duncan, Kirsty",Liberal,Lib,t,f,13665,1
+41,ON,35024,Etobicoke North,37255,"Lamba, Priti",Conservative,Con,f,f,10357,2
+41,ON,35024,Etobicoke North,37254,"Andrews, Diana",NDP-New Democratic Party,NDP,f,f,7630,3
+41,ON,35024,Etobicoke North,37253,"Dvornyak, Alex",Libertarian,Libtar,f,f,208,4
+41,ON,35024,Etobicoke North,37251,"Di Carlo, Anna",Marxist-Leninist,M-L,f,f,189,5
+41,ON,35024,Etobicoke North,37252,"Gardner, John C.",CHP Canada,CHP,f,f,186,6
+41,ON,35023,Etobicoke--Lakeshore,37249,"Trottier, Bernard",Conservative,Con,t,f,21997,1
+41,ON,35023,Etobicoke--Lakeshore,37250,"Ignatieff, Michael",Liberal,Lib,f,f,19128,2
+41,ON,35023,Etobicoke--Lakeshore,37248,"Erickson, Michael",NDP-New Democratic Party,NDP,f,f,11046,3
+41,ON,35023,Etobicoke--Lakeshore,37246,"Corail, Dave",Green Party,Grn,f,f,2159,4
+41,ON,35023,Etobicoke--Lakeshore,37247,"Murray, Janice",Marxist-Leninist,M-L,f,f,190,5
+41,ON,35025,Glengarry--Prescott--Russell,37259,"Lemieux, Pierre",Conservative,Con,t,f,28174,1
+41,ON,35025,Glengarry--Prescott--Russell,37257,"Bourgeois, Julie",Liberal,Lib,f,f,17705,2
+41,ON,35025,Glengarry--Prescott--Russell,37261,"Séguin, Denis A.",NDP-New Democratic Party,NDP,f,f,9608,3
+41,ON,35025,Glengarry--Prescott--Russell,37258,"Lemieux, Sylvie",Green Party,Grn,f,f,2049,4
+41,ON,35025,Glengarry--Prescott--Russell,37260,"Brisson, Jean-Serge",Libertarian,Libtar,f,f,194,5
+41,ON,35027,Guelph,37270,"Valeriote, Frank",Liberal,Lib,t,f,25588,1
+41,ON,35027,Guelph,37271,"Burke, Marty",Conservative,Con,f,f,19352,2
+41,ON,35027,Guelph,37266,"Stewart, Bobbi",NDP-New Democratic Party,NDP,f,f,9880,3
+41,ON,35027,Guelph,37273,"Lawson, John",Green Party,Grn,f,f,3619,4
+41,ON,35027,Guelph,37269,"Bender, Philip",Libertarian,Libtar,f,f,192,5
+41,ON,35027,Guelph,37272,"Klevering, Kornelis",Radical Marijuana,Marij,f,f,170,6
+41,ON,35027,Guelph,37268,"Levenson, Karen",Animal Alliance/Environment Voters,AniAEV,f,f,116,7
+41,ON,35027,Guelph,37267,"Garvie, Drew",Communist,Com,f,f,104,8
+41,ON,35028,Haldimand--Norfolk,37278,"Finley, Diane",Conservative,Con,t,f,25655,1
+41,ON,35028,Haldimand--Norfolk,37275,"Speller, Bob",Liberal,Lib,f,f,12549,2
+41,ON,35028,Haldimand--Norfolk,37277,"Nichols, Ian",NDP-New Democratic Party,NDP,f,f,10062,3
+41,ON,35028,Haldimand--Norfolk,37274,"Faulkner, Anne",Green Party,Grn,f,f,1665,4
+41,ON,35028,Haldimand--Norfolk,37276,"Elgersma, Steven",CHP Canada,CHP,f,f,435,5
+41,ON,35029,Haliburton--Kawartha Lakes--Brock,37281,"Devolin, Barry",Conservative,Con,t,f,35192,1
+41,ON,35029,Haliburton--Kawartha Lakes--Brock,37279,"Edwards, Lyn",NDP-New Democratic Party,NDP,f,f,12934,2
+41,ON,35029,Haliburton--Kawartha Lakes--Brock,37282,"Redman, Laura",Liberal,Lib,f,f,7539,3
+41,ON,35029,Haliburton--Kawartha Lakes--Brock,37280,"Lauten, Susanne",Green Party,Grn,f,f,2963,4
+41,ON,35030,Halton,37287,"Raitt, Lisa",Conservative,Con,t,f,44214,1
+41,ON,35030,Halton,37283,"Laurin-Bowie, Connie",Liberal,Lib,f,f,20903,2
+41,ON,35030,Halton,37285,"Heroux, Pat",NDP-New Democratic Party,NDP,f,f,12960,3
+41,ON,35030,Halton,37284,"Remigio, Judi",Green Party,Grn,f,f,2778,4
+41,ON,35030,Halton,37286,"Rodrigues, Tony",CHP Canada,CHP,f,f,249,5
+41,ON,35031,Hamilton Centre,37289,"Christopherson, David",NDP-New Democratic Party,NDP,t,f,23849,1
+41,ON,35031,Hamilton Centre,37291,"Byron, Jim",Conservative,Con,f,f,11020,2
+41,ON,35031,Hamilton Centre,37292,"Tennier, Anne",Liberal,Lib,f,f,5912,3
+41,ON,35031,Hamilton Centre,37290,"Baldasaro, Michael",Radical Marijuana,Marij,f,f,780,4
+41,ON,35031,Hamilton Centre,37288,"Nussey, Lisa",Marxist-Leninist,M-L,f,f,252,5
+41,ON,35032,Hamilton East--Stoney Creek,37294,"Marston, Wayne",NDP-New Democratic Party,NDP,t,f,21931,1
+41,ON,35032,Hamilton East--Stoney Creek,37293,"Clark, Brad",Conservative,Con,f,f,17567,2
+41,ON,35032,Hamilton East--Stoney Creek,37295,"Stockwell, Michelle",Liberal,Lib,f,f,6411,3
+41,ON,35032,Hamilton East--Stoney Creek,37300,"Hart Dyke, David",Green Party,Grn,f,f,1450,4
+41,ON,35032,Hamilton East--Stoney Creek,37298,"Hill, Gord",PC Party,PC,f,f,468,5
+41,ON,35032,Hamilton East--Stoney Creek,37299,"Pattinson, Greg",Libertarian,Libtar,f,f,385,6
+41,ON,35032,Hamilton East--Stoney Creek,37297,"Mann, Bob",Communist,Com,f,f,138,7
+41,ON,35032,Hamilton East--Stoney Creek,37296,"Fields, Wendell",Marxist-Leninist,M-L,f,f,95,8
+41,ON,35032,Hamilton East--Stoney Creek,37301,"Innes, Bob Green",CAP,CAP,f,f,92,9
+41,ON,35033,Hamilton Mountain,37302,"Charlton, Chris",NDP-New Democratic Party,NDP,t,f,25595,1
+41,ON,35033,Hamilton Mountain,37303,"Anderson, Terry",Conservative,Con,f,f,17936,2
+41,ON,35033,Hamilton Mountain,37305,"Bountrogianni, Marie",Liberal,Lib,f,f,8787,3
+41,ON,35033,Hamilton Mountain,37304,"Brotherston, Stephen",Green Party,Grn,f,f,1505,4
+41,ON,35033,Hamilton Mountain,37306,"Enos, Jim",CHP Canada,CHP,f,f,270,5
+41,ON,35033,Hamilton Mountain,37307,"Adamiec, Henryk",Independent,Ind,f,f,171,6
+41,ON,35034,Huron--Bruce,37311,"Lobb, Ben",Conservative,Con,t,f,29255,1
+41,ON,35034,Huron--Bruce,37310,"Robertson, Grant",NDP-New Democratic Party,NDP,f,f,13493,2
+41,ON,35034,Huron--Bruce,37308,"Bagnato, Charlie",Liberal,Lib,f,f,8784,3
+41,ON,35034,Huron--Bruce,37309,"Shelley, Eric",Green Party,Grn,f,f,1455,4
+41,ON,35034,Huron--Bruce,37312,"Valenta, Dennis",Independent,Ind,f,f,254,5
+41,ON,35035,Kenora,37316,"Rickford, Greg",Conservative,Con,t,f,11567,1
+41,ON,35035,Kenora,37317,"Cameron, Tania",NDP-New Democratic Party,NDP,f,f,6855,2
+41,ON,35035,Kenora,37315,"Valley, Roger",Liberal,Lib,f,f,5381,3
+41,ON,35035,Kenora,37313,"Schwindt, Mike",Green Party,Grn,f,f,636,4
+41,ON,35035,Kenora,37314,"Chicago-Boucher, Kelvin",Independent,Ind,f,f,147,5
+41,ON,35036,Kingston and the Islands,37319,"Hsu, Ted",Liberal,Lib,t,f,23842,1
+41,ON,35036,Kingston and the Islands,37321,"Gordon, Alicia",Conservative,Con,f,f,21189,2
+41,ON,35036,Kingston and the Islands,37318,"Beals, Daniel",NDP-New Democratic Party,NDP,f,f,13065,3
+41,ON,35036,Kingston and the Islands,37320,"Walton, Eric",Green Party,Grn,f,f,2561,4
+41,ON,35037,Kitchener Centre,37328,"Woodworth, Stephen",Conservative,Con,t,f,21119,1
+41,ON,35037,Kitchener Centre,37322,"Redman, Karen",Liberal,Lib,f,f,15592,2
+41,ON,35037,Kitchener Centre,37324,"Thurley, Peter",NDP-New Democratic Party,NDP,f,f,10742,3
+41,ON,35037,Kitchener Centre,37325,"Williston, Byron",Green Party,Grn,f,f,1972,4
+41,ON,35037,Kitchener Centre,37327,"Rimmer, Alan",Independent,Ind,f,f,199,5
+41,ON,35037,Kitchener Centre,37326,"Suter, Martin",Communist,Com,f,f,93,6
+41,ON,35037,Kitchener Centre,37323,"Corbiere, Mark",Marxist-Leninist,M-L,f,f,92,7
+41,ON,35038,Kitchener--Conestoga,37329,"Albrecht, Harold",Conservative,Con,t,f,28902,1
+41,ON,35038,Kitchener--Conestoga,37331,"Bruce, Lorne",NDP-New Democratic Party,NDP,f,f,11665,2
+41,ON,35038,Kitchener--Conestoga,37330,"Rosehart, Bob",Liberal,Lib,f,f,10653,3
+41,ON,35038,Kitchener--Conestoga,37332,"Ashley, Albert",Green Party,Grn,f,f,2184,4
+41,ON,35039,Kitchener--Waterloo,37336,"Braid, Peter",Conservative,Con,t,f,27039,1
+41,ON,35039,Kitchener--Waterloo,37339,"Telegdi, Andrew",Liberal,Lib,f,f,24895,2
+41,ON,35039,Kitchener--Waterloo,37333,"Brown, Bill",NDP-New Democratic Party,NDP,f,f,10606,3
+41,ON,35039,Kitchener--Waterloo,37337,"MacLellan, Cathy",Green Party,Grn,f,f,3158,4
+41,ON,35039,Kitchener--Waterloo,37335,"Scott, Steven Bradley",Pirate Party,Pirate,f,f,245,5
+41,ON,35039,Kitchener--Waterloo,37338,"Walsh-Bowers, Richard",Independent,Ind,f,f,174,6
+41,ON,35039,Kitchener--Waterloo,37334,"Ichim, Julian",Marxist-Leninist,M-L,f,f,66,7
+41,ON,35046,Lambton--Kent--Middlesex,37370,"Shipley, Bev",Conservative,Con,t,f,29546,1
+41,ON,35046,Lambton--Kent--Middlesex,37372,"Hill, Joe",NDP-New Democratic Party,NDP,f,f,12299,2
+41,ON,35046,Lambton--Kent--Middlesex,37373,"Stucke, Gayle",Liberal,Lib,f,f,7264,3
+41,ON,35046,Lambton--Kent--Middlesex,37371,"Johnston, Jim",Green Party,Grn,f,f,1701,4
+41,ON,35046,Lambton--Kent--Middlesex,37369,"Janssens, Mike",CHP Canada,CHP,f,f,413,5
+41,ON,35040,Lanark--Frontenac--Lennox and Addington,37340,"Reid, Scott",Conservative,Con,t,f,33754,1
+41,ON,35040,Lanark--Frontenac--Lennox and Addington,37343,"Smyth, Doug",NDP-New Democratic Party,NDP,f,f,12174,2
+41,ON,35040,Lanark--Frontenac--Lennox and Addington,37344,"Remington, David",Liberal,Lib,f,f,9940,3
+41,ON,35040,Lanark--Frontenac--Lennox and Addington,37342,"Baranyi, John",Green Party,Grn,f,f,2702,4
+41,ON,35040,Lanark--Frontenac--Lennox and Addington,37341,"Lee, Ralph",Independent,Ind,f,f,370,5
+41,ON,35041,Leeds--Grenville,37345,"Brown, Gord",Conservative,Con,t,f,29991,1
+41,ON,35041,Leeds--Grenville,37346,"Gabriel, Matthew",NDP-New Democratic Party,NDP,f,f,9033,2
+41,ON,35041,Leeds--Grenville,37348,"Loveys, Marjory",Liberal,Lib,f,f,7839,3
+41,ON,35041,Leeds--Grenville,37347,"Slade, Mary",Green Party,Grn,f,f,2460,4
+41,ON,35043,London North Centre,37358,"Truppe, Susan",Conservative,Con,t,f,19468,1
+41,ON,35043,London North Centre,37355,"Pearson, Glen",Liberal,Lib,f,f,17803,2
+41,ON,35043,London North Centre,37354,"Gutierrez, German",NDP-New Democratic Party,NDP,f,f,12996,3
+41,ON,35043,London North Centre,37357,"Hodge, Mary Ann",Green Party,Grn,f,f,2177,4
+41,ON,35043,London North Centre,37356,"Valastro, AnnaMaria",Animal Alliance/Environment Voters,AniAEV,f,f,229,5
+41,ON,35044,London West,37363,"Holder, Ed",Conservative,Con,t,f,27675,1
+41,ON,35044,London West,37359,"Ferguson, Doug",Liberal,Lib,f,f,16652,2
+41,ON,35044,London West,37361,"Ferguson, Peter",NDP-New Democratic Party,NDP,f,f,16109,3
+41,ON,35044,London West,37362,"Corbett, Brad Arthur",Green Party,Grn,f,f,1703,4
+41,ON,35044,London West,37360,"Morley, Rod",United Party,Ind,f,f,65,5
+41,ON,35042,London--Fanshawe,37353,"Mathyssen, Irene",NDP-New Democratic Party,NDP,t,f,21689,1
+41,ON,35042,London--Fanshawe,37352,"Chahbar, Jim",Conservative,Con,f,f,14294,2
+41,ON,35042,London--Fanshawe,37350,"Caranci, Roger",Liberal,Lib,f,f,4893,3
+41,ON,35042,London--Fanshawe,37349,"Peloza, Matthew",Green Party,Grn,f,f,1202,4
+41,ON,35042,London--Fanshawe,37351,"Rancourt, G.J.",CHP Canada,CHP,f,f,535,5
+41,ON,35045,Markham--Unionville,37366,"McCallum, John",Liberal,Lib,t,f,19429,1
+41,ON,35045,Markham--Unionville,37367,"Saroya, Bob",Conservative,Con,f,f,17734,2
+41,ON,35045,Markham--Unionville,37365,"Hawkins, Nadine Marie",NDP-New Democratic Party,NDP,f,f,10897,3
+41,ON,35045,Markham--Unionville,37364,"Poon, Adam",Green Party,Grn,f,f,1597,4
+41,ON,35045,Markham--Unionville,37368,"Small, Allen",Libertarian,Libtar,f,f,231,5
+41,ON,35048,Mississauga East--Cooksville,37380,"Lizon, Wladyslaw",Conservative,Con,t,f,18796,1
+41,ON,35048,Mississauga East--Cooksville,37379,"Fonseca, Peter",Liberal,Lib,f,f,18120,2
+41,ON,35048,Mississauga East--Cooksville,37381,"Ahmed, Waseem",NDP-New Democratic Party,NDP,f,f,8836,3
+41,ON,35048,Mississauga East--Cooksville,37383,"Bhikha, Jaymini",Green Party,Grn,f,f,1032,4
+41,ON,35048,Mississauga East--Cooksville,37382,"Chénier, Pierre",Marxist-Leninist,M-L,f,f,241,5
+41,ON,35050,Mississauga South,37389,"Ambler, Stella",Conservative,Con,t,f,22991,1
+41,ON,35050,Mississauga South,37393,"Szabo, Paul",Liberal,Lib,f,f,18393,2
+41,ON,35050,Mississauga South,37391,"Kalbouneh, Farah",NDP-New Democratic Party,NDP,f,f,6354,3
+41,ON,35050,Mississauga South,37392,"Simas, Paul",Green Party,Grn,f,f,1532,4
+41,ON,35050,Mississauga South,37390,"Barrett, Richard",No Affiliation,Ind,f,f,194,5
+41,ON,35047,Mississauga--Brampton South,37375,"Adams, Eve",Conservative,Con,t,f,23632,1
+41,ON,35047,Mississauga--Brampton South,37377,"Bains, Navdeep",Liberal,Lib,f,f,18579,2
+41,ON,35047,Mississauga--Brampton South,37374,"Glavan, Jim",NDP-New Democratic Party,NDP,f,f,9465,3
+41,ON,35047,Mississauga--Brampton South,37378,"Stone, Benjamin Jonathon Ullysses",Green Party,Grn,f,f,1044,4
+41,ON,35047,Mississauga--Brampton South,37376,"Sullivan, Tim",Marxist-Leninist,M-L,f,f,127,5
+41,ON,35049,Mississauga--Erindale,37384,"Dechert, Robert",Conservative,Con,t,f,29793,1
+41,ON,35049,Mississauga--Erindale,37385,"Alghabra, Omar",Liberal,Lib,f,f,21541,2
+41,ON,35049,Mississauga--Erindale,37387,"Bilek, Michelle",NDP-New Democratic Party,NDP,f,f,10327,3
+41,ON,35049,Mississauga--Erindale,37386,"Fraser, John",Green Party,Grn,f,f,1694,4
+41,ON,35049,Mississauga--Erindale,37388,"Sullivan, Dagmar",Marxist-Leninist,M-L,f,f,99,5
+41,ON,35051,Mississauga--Streetsville,37396,"Butt, Brad",Conservative,Con,t,f,22104,1
+41,ON,35051,Mississauga--Streetsville,37395,"Crombie, Bonnie",Liberal,Lib,f,f,18651,2
+41,ON,35051,Mississauga--Streetsville,37394,"Naqvi, Aijaz",NDP-New Democratic Party,NDP,f,f,7834,3
+41,ON,35051,Mississauga--Streetsville,37397,"Hill, Chris",Green Party,Grn,f,f,1802,4
+41,ON,35052,Nepean--Carleton,37400,"Poilievre, Pierre",Conservative,Con,t,f,43477,1
+41,ON,35052,Nepean--Carleton,37398,"Keon, Ryan",Liberal,Lib,f,f,20146,2
+41,ON,35052,Nepean--Carleton,37399,"Dagenais, Ric",NDP-New Democratic Party,NDP,f,f,12962,3
+41,ON,35052,Nepean--Carleton,37401,"Cooke, Jean-Luc",Green Party,Grn,f,f,3260,4
+41,ON,35053,Newmarket--Aurora,37407,"Brown, Lois",Conservative,Con,t,f,31600,1
+41,ON,35053,Newmarket--Aurora,37406,"Peterson, Kyle",Liberal,Lib,f,f,13908,2
+41,ON,35053,Newmarket--Aurora,37405,"Bidarian, Kassandra",NDP-New Democratic Party,NDP,f,f,8886,3
+41,ON,35053,Newmarket--Aurora,37403,"Long, Vanessa",Green Party,Grn,f,f,2628,4
+41,ON,35053,Newmarket--Aurora,37404,"Baxter, Dorian",PC Party,PC,f,f,998,5
+41,ON,35053,Newmarket--Aurora,37402,"Mackie, Yvonne",Animal Alliance/Environment Voters,AniAEV,f,f,182,6
+41,ON,35054,Niagara Falls,37408,"Nicholson, Rob",Conservative,Con,t,f,28748,1
+41,ON,35054,Niagara Falls,37412,"Kelley, Heather",NDP-New Democratic Party,NDP,f,f,12681,2
+41,ON,35054,Niagara Falls,37411,"Hodgson, Bev",Liberal,Lib,f,f,10206,3
+41,ON,35054,Niagara Falls,37410,"Willick, Shawn",Green Party,Grn,f,f,2086,4
+41,ON,35054,Niagara Falls,37409,"Jonker, Harold",CHP Canada,CHP,f,f,259,5
+41,ON,35055,Niagara West--Glanbrook,37414,"Allison, Dean",Conservative,Con,t,f,33701,1
+41,ON,35055,Niagara West--Glanbrook,37416,"Heatley, David",NDP-New Democratic Party,NDP,f,f,12734,2
+41,ON,35055,Niagara West--Glanbrook,37413,"Bieda, Stephen",Liberal,Lib,f,f,8699,3
+41,ON,35055,Niagara West--Glanbrook,37415,"Frere, Sid",Green Party,Grn,f,f,2530,4
+41,ON,35055,Niagara West--Glanbrook,37417,"Jongbloed, Bryan",CHP Canada,CHP,f,f,1199,5
+41,ON,35056,Nickel Belt,37421,"Gravelle, Claude",NDP-New Democratic Party,NDP,t,f,24566,1
+41,ON,35056,Nickel Belt,37420,"Reynolds, Lynne",Conservative,Con,f,f,12503,2
+41,ON,35056,Nickel Belt,37422,"Cormier, Joe",Liberal,Lib,f,f,6308,3
+41,ON,35056,Nickel Belt,37419,"Guillot-Proulx, Christine",Green Party,Grn,f,f,1252,4
+41,ON,35056,Nickel Belt,37418,"Rutchinski, Steve",Marxist-Leninist,M-L,f,f,59,5
+41,ON,35057,Nipissing--Timiskaming,37423,"Aspin, Jay",Conservative,Con,t,f,15495,1
+41,ON,35057,Nipissing--Timiskaming,37426,"Rota, Anthony",Liberal,Lib,f,f,15477,2
+41,ON,35057,Nipissing--Timiskaming,37424,"Eckert, Rona",NDP-New Democratic Party,NDP,f,f,8781,3
+41,ON,35057,Nipissing--Timiskaming,37425,"Daley, Scott Edward",Green Party,Grn,f,f,2518,4
+41,ON,35058,Northumberland--Quinte West,37430,"Norlock, Rick",Conservative,Con,t,f,32853,1
+41,ON,35058,Northumberland--Quinte West,37428,"Rudd, Kim",Liberal,Lib,f,f,12822,2
+41,ON,35058,Northumberland--Quinte West,37427,"Christianson, Russ",NDP-New Democratic Party,NDP,f,f,12626,3
+41,ON,35058,Northumberland--Quinte West,37429,"Torrie, Ralph",Green Party,Grn,f,f,2733,4
+41,ON,35059,Oak Ridges--Markham,37435,"Calandra, Paul",Conservative,Con,t,f,46241,1
+41,ON,35059,Oak Ridges--Markham,37434,"Temelkovski, Lui",Liberal,Lib,f,f,25561,2
+41,ON,35059,Oak Ridges--Markham,37431,"Hagan, Janice",NDP-New Democratic Party,NDP,f,f,15229,3
+41,ON,35059,Oak Ridges--Markham,37433,"Haitas, Trifon",Green Party,Grn,f,f,2349,4
+41,ON,35059,Oak Ridges--Markham,37432,"Siciliano, John",PC Party,PC,f,f,1080,5
+41,ON,35060,Oakville,37436,"Young, Terence",Conservative,Con,t,f,30068,1
+41,ON,35060,Oakville,37437,"Khan, Max",Liberal,Lib,f,f,17890,2
+41,ON,35060,Oakville,37439,"Ede, James",NDP-New Democratic Party,NDP,f,f,8117,3
+41,ON,35060,Oakville,37438,"Chlobowski, Andrew",Green Party,Grn,f,f,2140,4
+41,ON,35061,Oshawa,37440,"Carrie, Colin",Conservative,Con,t,f,26034,1
+41,ON,35061,Oshawa,37444,"Buckley, Chris",NDP-New Democratic Party,NDP,f,f,19212,2
+41,ON,35061,Oshawa,37441,"Morton, James Cooper",Liberal,Lib,f,f,3536,3
+41,ON,35061,Oshawa,37442,"Bates, Gail",Green Party,Grn,f,f,1631,4
+41,ON,35061,Oshawa,37443,"Belanger, Matthew",Libertarian,Libtar,f,f,260,5
+41,ON,35061,Oshawa,37445,"Gershuny, David",Marxist-Leninist,M-L,f,f,61,6
+41,ON,35062,Ottawa Centre,37449,"Dewar, Paul",NDP-New Democratic Party,NDP,t,f,33805,1
+41,ON,35062,Ottawa Centre,37452,"Konstantinakos, Damian",Conservative,Con,f,f,14063,2
+41,ON,35062,Ottawa Centre,37451,"Bradley, Scott",Liberal,Lib,f,f,13049,3
+41,ON,35062,Ottawa Centre,37453,"Hunter, Jen",Green Party,Grn,f,f,3262,4
+41,ON,35062,Ottawa Centre,37448,"Akpata, John Andrew",Radical Marijuana,Marij,f,f,326,5
+41,ON,35062,Ottawa Centre,37450,"Bellai, Romeo",Independent,Ind,f,f,210,6
+41,ON,35062,Ottawa Centre,37447,"Ryan, Stuart",Communist,Com,f,f,109,7
+41,ON,35062,Ottawa Centre,37446,"Soublière, Pierre",Marxist-Leninist,M-L,f,f,44,8
+41,ON,35064,Ottawa South,37459,"McGuinty, David",Liberal,Lib,t,f,25963,1
+41,ON,35064,Ottawa South,37463,"Salibi, Elie",Conservative,Con,f,f,19634,2
+41,ON,35064,Ottawa South,37458,"McLaren, James",NDP-New Democratic Party,NDP,f,f,10712,3
+41,ON,35064,Ottawa South,37462,"Kitor, Mick",Green Party,Grn,f,f,1787,4
+41,ON,35064,Ottawa South,37461,"Gullon, Al",PC Party,PC,f,f,513,5
+41,ON,35064,Ottawa South,37460,"Bleskie, Mike",Pirate Party,Pirate,f,f,382,6
+41,ON,35066,Ottawa West--Nepean,37472,"Baird, John",Conservative,Con,t,f,25226,1
+41,ON,35066,Ottawa West--Nepean,37469,"Vandenbeld, Anita",Liberal,Lib,f,f,17790,2
+41,ON,35066,Ottawa West--Nepean,37471,"Rivier, Marlene",NDP-New Democratic Party,NDP,f,f,11128,3
+41,ON,35066,Ottawa West--Nepean,37470,"MacKenzie, Mark",Green Party,Grn,f,f,2279,4
+41,ON,35063,Ottawa--Orléans,37457,"Galipeau, Royal",Conservative,Con,t,f,28584,1
+41,ON,35063,Ottawa--Orléans,37454,"Bertschi, David",Liberal,Lib,f,f,24649,2
+41,ON,35063,Ottawa--Orléans,37456,"Cénatus, Martine",NDP-New Democratic Party,NDP,f,f,9086,3
+41,ON,35063,Ottawa--Orléans,37455,"Maillet, Paul",Green Party,Grn,f,f,1839,4
+41,ON,35065,Ottawa--Vanier,37464,"Bélanger, Mauril",Liberal,Lib,t,f,20009,1
+41,ON,35065,Ottawa--Vanier,37468,"Haché, Trevor",NDP-New Democratic Party,NDP,f,f,15391,2
+41,ON,35065,Ottawa--Vanier,37466,"Westland, Rem",Conservative,Con,f,f,14184,3
+41,ON,35065,Ottawa--Vanier,37465,"Rioux, Caroline",Green Party,Grn,f,f,2716,4
+41,ON,35065,Ottawa--Vanier,37467,"Legeais, Christian",Marxist-Leninist,M-L,f,f,122,5
+41,ON,35067,Oxford,37474,"MacKenzie, Dave",Conservative,Con,t,f,27973,1
+41,ON,35067,Oxford,37473,"Arsenault, Paul",NDP-New Democratic Party,NDP,f,f,12164,2
+41,ON,35067,Oxford,37477,"Lobzun, Tim",Liberal,Lib,f,f,4521,3
+41,ON,35067,Oxford,37475,"Farlow, Mike",Green Party,Grn,f,f,2058,4
+41,ON,35067,Oxford,37476,"Markus, John",CHP Canada,CHP,f,f,776,5
+41,ON,35068,Parkdale--High Park,37482,"Nash, Peggy",NDP-New Democratic Party,NDP,t,f,24046,1
+41,ON,35068,Parkdale--High Park,37479,"Kennedy, Gerard",Liberal,Lib,f,f,16757,2
+41,ON,35068,Parkdale--High Park,37478,"Train, Taylor",Conservative,Con,f,f,7924,3
+41,ON,35068,Parkdale--High Park,37484,"Newton, Sarah",Green Party,Grn,f,f,1666,4
+41,ON,35068,Parkdale--High Park,37481,"Borkowski, Andrew",CHP Canada,CHP,f,f,251,5
+41,ON,35068,Parkdale--High Park,37483,"Parker, Terry",Radical Marijuana,Marij,f,f,215,6
+41,ON,35068,Parkdale--High Park,37480,"Gershuny, Lorne",Marxist-Leninist,M-L,f,f,86,7
+41,ON,35069,Parry Sound--Muskoka,37486,"Clement, Tony",Conservative,Con,t,f,25864,1
+41,ON,35069,Parry Sound--Muskoka,37487,"Wilson, Wendy",NDP-New Democratic Party,NDP,f,f,11217,2
+41,ON,35069,Parry Sound--Muskoka,37489,"Waters, Cindy",Liberal,Lib,f,f,5330,3
+41,ON,35069,Parry Sound--Muskoka,37488,"Hodgson, Glen",Green Party,Grn,f,f,3776,4
+41,ON,35069,Parry Sound--Muskoka,37485,"Carmichael, David",Independent,Ind,f,f,168,5
+41,ON,35069,Parry Sound--Muskoka,37490,"Smith, Albert Gray",Marxist-Leninist,M-L,f,f,54,6
+41,ON,35070,Perth--Wellington,37494,"Schellenberger, Gary",Conservative,Con,t,f,25281,1
+41,ON,35070,Perth--Wellington,37492,"Papenburg, Ellen",NDP-New Democratic Party,NDP,f,f,9861,2
+41,ON,35070,Perth--Wellington,37495,"McTavish, Bob",Liberal,Lib,f,f,8341,3
+41,ON,35070,Perth--Wellington,37493,"Cowling, John",Green Party,Grn,f,f,2112,4
+41,ON,35070,Perth--Wellington,37491,"DeVries, Irma N",CHP Canada,CHP,f,f,806,5
+41,ON,35071,Peterborough,37498,"Del Mastro, Dean",Conservative,Con,t,f,29393,1
+41,ON,35071,Peterborough,37499,"Nickle, Dave",NDP-New Democratic Party,NDP,f,f,14723,2
+41,ON,35071,Peterborough,37496,"McGregor, Betsy",Liberal,Lib,f,f,12664,3
+41,ON,35071,Peterborough,37501,"Bell, Michael",Green Party,Grn,f,f,2105,4
+41,ON,35071,Peterborough,37497,"Scott, Gordon",No Affiliation,Ind,f,f,189,5
+41,ON,35071,Peterborough,37500,"Bates, Michael",CAP,CAP,f,f,104,6
+41,ON,35072,Pickering--Scarborough East,37504,"Chisu, Corneliu",Conservative,Con,t,f,19220,1
+41,ON,35072,Pickering--Scarborough East,37505,"McTeague, Dan",Liberal,Lib,f,f,18013,2
+41,ON,35072,Pickering--Scarborough East,37503,"Moffat, Andrea",NDP-New Democratic Party,NDP,f,f,8932,3
+41,ON,35072,Pickering--Scarborough East,37502,"Smith, Kevin",Green Party,Grn,f,f,1751,4
+41,ON,35073,Prince Edward--Hastings,37506,"Kramp, Daryl",Conservative,Con,t,f,29062,1
+41,ON,35073,Prince Edward--Hastings,37507,"McMahon, Michael",NDP-New Democratic Party,NDP,f,f,12940,2
+41,ON,35073,Prince Edward--Hastings,37508,"Tinsley, Peter",Liberal,Lib,f,f,10230,3
+41,ON,35073,Prince Edward--Hastings,37511,"Larkin, Patrick",Green Party,Grn,f,f,1887,4
+41,ON,35073,Prince Edward--Hastings,37509,"Hickey, Tim",Independent,Ind,f,f,283,5
+41,ON,35073,Prince Edward--Hastings,37510,"Skinner, Andrew",PC Party,PC,f,f,171,6
+41,ON,35074,Renfrew--Nipissing--Pembroke,37512,"Gallant, Cheryl",Conservative,Con,t,f,27462,1
+41,ON,35074,Renfrew--Nipissing--Pembroke,37513,"Clouthier, Hec",Independent,Ind,f,f,9611,2
+41,ON,35074,Renfrew--Nipissing--Pembroke,37515,"Burton, Eric",NDP-New Democratic Party,NDP,f,f,6903,3
+41,ON,35074,Renfrew--Nipissing--Pembroke,37516,"Tabbert, Christine",Liberal,Lib,f,f,6545,4
+41,ON,35074,Renfrew--Nipissing--Pembroke,37514,"Van Schie, Roseanne",Green Party,Grn,f,f,877,5
+41,ON,35075,Richmond Hill,37518,"Menegakis, Costas",Conservative,Con,t,f,22078,1
+41,ON,35075,Richmond Hill,37517,"Wilfert, Bryon",Liberal,Lib,f,f,17671,2
+41,ON,35075,Richmond Hill,37519,"DeVita, Adam",NDP-New Democratic Party,NDP,f,f,8433,3
+41,ON,35075,Richmond Hill,37520,"Hastings, Cameron W.",Green Party,Grn,f,f,1832,4
+41,ON,35078,Sarnia--Lambton,37534,"Davidson, Pat",Conservative,Con,t,f,26112,1
+41,ON,35078,Sarnia--Lambton,37536,"White, Brian",NDP-New Democratic Party,NDP,f,f,14856,2
+41,ON,35078,Sarnia--Lambton,37535,"Fugard, Tim",Liberal,Lib,f,f,6931,3
+41,ON,35078,Sarnia--Lambton,37532,"van Bodegom, Tim",Green Party,Grn,f,f,1252,4
+41,ON,35078,Sarnia--Lambton,37533,"Desormeaux-Malm, Christopher",CHP Canada,CHP,f,f,514,5
+41,ON,35079,Sault Ste. Marie,37541,"Hayes, Bryan",Conservative,Con,t,f,18328,1
+41,ON,35079,Sault Ste. Marie,37537,"Martin, Tony",NDP-New Democratic Party,NDP,f,f,16467,2
+41,ON,35079,Sault Ste. Marie,37540,"Provenzano, Christian",Liberal,Lib,f,f,8343,3
+41,ON,35079,Sault Ste. Marie,37542,"Macmichael, Luke",Green Party,Grn,f,f,945,4
+41,ON,35079,Sault Ste. Marie,37538,"Riauka, Randy",CHP Canada,CHP,f,f,111,5
+41,ON,35079,Sault Ste. Marie,37539,"Taffarel, Mike",Marxist-Leninist,M-L,f,f,38,6
+41,ON,35081,Scarborough Centre,37547,"James, Roxanne",Conservative,Con,t,f,13498,1
+41,ON,35081,Scarborough Centre,37548,"Cannis, John",Liberal,Lib,f,f,12028,2
+41,ON,35081,Scarborough Centre,37549,"Hundt, Natalie",NDP-New Democratic Party,NDP,f,f,11443,3
+41,ON,35081,Scarborough Centre,37550,"Ng, Ella",Green Party,Grn,f,f,998,4
+41,ON,35084,Scarborough Southwest,37564,"Harris, Dan",NDP-New Democratic Party,NDP,t,f,14119,1
+41,ON,35084,Scarborough Southwest,37561,"Paranchothy, Gavan",Conservative,Con,f,f,12830,2
+41,ON,35084,Scarborough Southwest,37562,"Simson, Michelle",Liberal,Lib,f,f,11699,3
+41,ON,35084,Scarborough Southwest,37563,"Dixon, Stefan",Green Party,Grn,f,f,1635,4
+41,ON,35080,Scarborough--Agincourt,37544,"Karygiannis, Jim",Liberal,Lib,t,f,18498,1
+41,ON,35080,Scarborough--Agincourt,37546,"Tsai, Harry",Conservative,Con,f,f,13930,2
+41,ON,35080,Scarborough--Agincourt,37545,"Patchell, Nancy",NDP-New Democratic Party,NDP,f,f,7376,3
+41,ON,35080,Scarborough--Agincourt,37543,"Thompson, Pauline",Green Party,Grn,f,f,946,4
+41,ON,35082,Scarborough--Guildwood,37555,"McKay, John",Liberal,Lib,t,f,13849,1
+41,ON,35082,Scarborough--Guildwood,37551,"Konkel, Chuck",Conservative,Con,f,f,13158,2
+41,ON,35082,Scarborough--Guildwood,37554,"Ouellette, Danielle",NDP-New Democratic Party,NDP,f,f,10145,3
+41,ON,35082,Scarborough--Guildwood,37552,"Bartley, Alonzo",Green Party,Grn,f,f,848,4
+41,ON,35082,Scarborough--Guildwood,37553,"Coulbeck, Paul",Independent,Ind,f,f,259,5
+41,ON,35083,Scarborough--Rouge River,37557,"Sitsabaiesan, Rathika",NDP-New Democratic Party,NDP,t,f,18935,1
+41,ON,35083,Scarborough--Rouge River,37558,"Gallyot, Marlene",Conservative,Con,f,f,13935,2
+41,ON,35083,Scarborough--Rouge River,37559,"Sarkar, Rana",Liberal,Lib,f,f,12699,3
+41,ON,35083,Scarborough--Rouge River,37560,"Singh, George B.",Green Party,Grn,f,f,684,4
+41,ON,35083,Scarborough--Rouge River,37556,"Balack, Mark",Independent,Ind,f,f,357,5
+41,ON,35086,Simcoe North,37574,"Stanton, Bruce",Conservative,Con,t,f,31581,1
+41,ON,35086,Simcoe North,37573,"Banigan, Richard",NDP-New Democratic Party,NDP,f,f,11515,2
+41,ON,35086,Simcoe North,37576,"Clarke, Steve",Liberal,Lib,f,f,11090,3
+41,ON,35086,Simcoe North,37575,"Powell, Valerie",Green Party,Grn,f,f,3489,4
+41,ON,35086,Simcoe North,37572,"Kooger, Adrian",CHP Canada,CHP,f,f,322,5
+41,ON,35085,Simcoe--Grey,37569,"Leitch, Kellie",Conservative,Con,t,f,31784,1
+41,ON,35085,Simcoe--Grey,37568,"Austin, Katy",NDP-New Democratic Party,NDP,f,f,11185,2
+41,ON,35085,Simcoe--Grey,37567,"Guergis, Helena",No Affiliation,Ind,f,f,8714,3
+41,ON,35085,Simcoe--Grey,37570,"Smardenka, Alex",Liberal,Lib,f,f,8207,4
+41,ON,35085,Simcoe--Grey,37566,"Metheral, Jace",Green Party,Grn,f,f,3482,5
+41,ON,35085,Simcoe--Grey,37571,"Vander Zaag, Peter",CHP Canada,CHP,f,f,757,6
+41,ON,35085,Simcoe--Grey,37565,"Cochrane, Gord",CAP,CAP,f,f,244,7
+41,ON,35076,St. Catharines,37526,"Dykstra, Rick",Conservative,Con,t,f,25571,1
+41,ON,35076,St. Catharines,37521,"Williams, Mike",NDP-New Democratic Party,NDP,f,f,11973,2
+41,ON,35076,St. Catharines,37524,"Gill, Andrew",Liberal,Lib,f,f,10358,3
+41,ON,35076,St. Catharines,37525,"Mooradian, Jennifer",Green Party,Grn,f,f,1924,4
+41,ON,35076,St. Catharines,37523,"Bylsma, Dave",CHP Canada,CHP,f,f,357,5
+41,ON,35076,St. Catharines,37522,"Waziruddin, Saleh",Communist,Com,f,f,91,6
+41,ON,35077,St. Paul's,37530,"Bennett, Carolyn",Liberal,Lib,t,f,22409,1
+41,ON,35077,St. Paul's,37527,"Harquail, Maureen",Conservative,Con,f,f,17864,2
+41,ON,35077,St. Paul's,37529,"Molls, William",NDP-New Democratic Party,NDP,f,f,12124,3
+41,ON,35077,St. Paul's,37528,"McGarva, Jim",Green Party,Grn,f,f,2495,4
+41,ON,35077,St. Paul's,37531,"Kittredge, John",Libertarian,Libtar,f,f,303,5
+41,ON,35087,Stormont--Dundas--South Glengarry,37579,"Lauzon, Guy",Conservative,Con,t,f,29538,1
+41,ON,35087,Stormont--Dundas--South Glengarry,37581,"Clement, Bernadette",Liberal,Lib,f,f,8510,2
+41,ON,35087,Stormont--Dundas--South Glengarry,37578,"Leclerc, Mario",NDP-New Democratic Party,NDP,f,f,8313,3
+41,ON,35087,Stormont--Dundas--South Glengarry,37580,"Walsh, Wyatt Joseph",Green Party,Grn,f,f,1038,4
+41,ON,35087,Stormont--Dundas--South Glengarry,37577,"Donnelly, Darcy Neal",Libertarian,Libtar,f,f,151,5
+41,ON,35088,Sudbury,37585,"Thibeault, Glenn",NDP-New Democratic Party,NDP,t,f,22684,1
+41,ON,35088,Sudbury,37583,"Slade, Fred",Conservative,Con,f,f,12881,2
+41,ON,35088,Sudbury,37584,"Hartman, Carol",Liberal,Lib,f,f,8172,3
+41,ON,35088,Sudbury,37582,"Twilley, Fred",Green Party,Grn,f,f,1359,4
+41,ON,35088,Sudbury,37587,"Morin, Will",FPNP,Ind,f,f,229,5
+41,ON,35088,Sudbury,37586,"Popescu, J. David",Independent,Ind,f,f,116,6
+41,ON,35089,Thornhill,37588,"Kent, Peter",Conservative,Con,t,f,36629,1
+41,ON,35089,Thornhill,37589,"Mock, Karen",Liberal,Lib,f,f,14125,2
+41,ON,35089,Thornhill,37592,"Strelchik, Simon",NDP-New Democratic Party,NDP,f,f,7141,3
+41,ON,35089,Thornhill,37591,"Koehl, Norbert",Green Party,Grn,f,f,1562,4
+41,ON,35089,Thornhill,37590,"White, Liz",Animal Alliance/Environment Voters,AniAEV,f,f,215,5
+41,ON,35090,Thunder Bay--Rainy River,37596,"Rafferty, John",NDP-New Democratic Party,NDP,t,f,18085,1
+41,ON,35090,Thunder Bay--Rainy River,37594,"Comuzzi-Stehmann, Moe",Conservative,Con,f,f,10097,2
+41,ON,35090,Thunder Bay--Rainy River,37595,"Boshcoff, Ken",Liberal,Lib,f,f,8067,3
+41,ON,35090,Thunder Bay--Rainy River,37593,"Shields, Ed",Green Party,Grn,f,f,909,4
+41,ON,35091,Thunder Bay--Superior North,37601,"Hyer, Bruce",NDP-New Democratic Party,NDP,t,f,18334,1
+41,ON,35091,Thunder Bay--Superior North,37600,"Harvey, Richard",Conservative,Con,f,f,10894,2
+41,ON,35091,Thunder Bay--Superior North,37597,"Fricot, Yves",Liberal,Lib,f,f,6117,3
+41,ON,35091,Thunder Bay--Superior North,37599,"Kyle, Scot",Green Party,Grn,f,f,1115,4
+41,ON,35091,Thunder Bay--Superior North,37598,"Carrière, Denis A.",Radical Marijuana,Marij,f,f,265,5
+41,ON,35092,Timmins--James Bay,37604,"Angus, Charlie",NDP-New Democratic Party,NDP,t,f,16738,1
+41,ON,35092,Timmins--James Bay,37603,"Greenberg, Bill",Conservative,Con,f,f,10526,2
+41,ON,35092,Timmins--James Bay,37602,"Wood, Marilyn",Liberal,Lib,f,f,5230,3
+41,ON,35092,Timmins--James Bay,37605,"Bennett, Lisa",Green Party,Grn,f,f,724,4
+41,ON,35093,Toronto Centre,37612,"Rae, Bob",Liberal,Lib,t,f,22832,1
+41,ON,35093,Toronto Centre,37609,"Wallace, Susan",NDP-New Democratic Party,NDP,f,f,16818,2
+41,ON,35093,Toronto Centre,37610,"Moore, Kevin",Conservative,Con,f,f,12604,3
+41,ON,35093,Toronto Centre,37611,"Michelson, Ellen",Green Party,Grn,f,f,2796,4
+41,ON,35093,Toronto Centre,37613,"Falardeau, Judi",Libertarian,Libtar,f,f,277,5
+41,ON,35093,Toronto Centre,37607,"Holliday, Catherine",Communist,Com,f,f,159,6
+41,ON,35093,Toronto Centre,37608,"Yazdanfar, Bahman",Independent,Ind,f,f,108,7
+41,ON,35093,Toronto Centre,37606,"Fernandez, Philip",Marxist-Leninist,M-L,f,f,76,8
+41,ON,35094,Toronto--Danforth,37617,"Layton, Jack",NDP-New Democratic Party,NDP,t,f,29235,1
+41,ON,35094,Toronto--Danforth,37618,"Lang, Andrew",Liberal,Lib,f,f,8472,2
+41,ON,35094,Toronto--Danforth,37616,"von Koenig, Katarina",Conservative,Con,f,f,6885,3
+41,ON,35094,Toronto--Danforth,37614,"Mugnatto-Hamu, Adriana",Green Party,Grn,f,f,3107,4
+41,ON,35094,Toronto--Danforth,37615,"Crawford, Marie",Animal Alliance/Environment Voters,AniAEV,f,f,387,5
+41,ON,35095,Trinity--Spadina,37619,"Chow, Olivia",NDP-New Democratic Party,NDP,t,f,35601,1
+41,ON,35095,Trinity--Spadina,37620,"Innes, Christine",Liberal,Lib,f,f,15276,2
+41,ON,35095,Trinity--Spadina,37624,"Siow, Gin",Conservative,Con,f,f,10976,3
+41,ON,35095,Trinity--Spadina,37621,"Barney, Rachel",Green Party,Grn,f,f,2861,4
+41,ON,35095,Trinity--Spadina,37623,"Brown, Chester",Libertarian,Libtar,f,f,456,5
+41,ON,35095,Trinity--Spadina,37622,"Lin, Nick",Marxist-Leninist,M-L,f,f,140,6
+41,ON,35096,Vaughan,37627,"Fantino, Julian",Conservative,Con,t,f,38533,1
+41,ON,35096,Vaughan,37625,"Ferri, Mario",Liberal,Lib,f,f,20435,2
+41,ON,35096,Vaughan,37628,"Pratt, Mark",NDP-New Democratic Party,NDP,f,f,7940,3
+41,ON,35096,Vaughan,37626,"Rodriguez-Larrain, Claudia",Green Party,Grn,f,f,1515,4
+41,ON,35097,Welland,37633,"Allen, Malcolm",NDP-New Democratic Party,NDP,t,f,21917,1
+41,ON,35097,Welland,37629,"Villella, Leanna",Conservative,Con,f,f,20895,2
+41,ON,35097,Welland,37635,"Maloney, John",Liberal,Lib,f,f,7276,3
+41,ON,35097,Welland,37631,"Williamson, Robin",Green Party,Grn,f,f,1297,4
+41,ON,35097,Welland,37634,"Vangoolen, David",CHP Canada,CHP,f,f,299,5
+41,ON,35097,Welland,37632,"Game, Ray",Independent,Ind,f,f,169,6
+41,ON,35097,Welland,37630,"Walker, Ron J.",Marxist-Leninist,M-L,f,f,71,7
+41,ON,35098,Wellington--Halton Hills,37636,"Chong, Michael",Conservative,Con,t,f,35132,1
+41,ON,35098,Wellington--Halton Hills,37637,"Peters, Barry",Liberal,Lib,f,f,9034,2
+41,ON,35098,Wellington--Halton Hills,37640,"Zavarella, Anastasia",NDP-New Democratic Party,NDP,f,f,7146,3
+41,ON,35098,Wellington--Halton Hills,37639,"Bouteiller, Brent",Green Party,Grn,f,f,3527,4
+41,ON,35098,Wellington--Halton Hills,37638,"Streutker, Jeffrey",CHP Canada,CHP,f,f,316,5
+41,ON,35099,Whitby--Oshawa,37642,"Flaherty, Jim",Conservative,Con,t,f,37525,1
+41,ON,35099,Whitby--Oshawa,37645,"McAuliffe, Trish",NDP-New Democratic Party,NDP,f,f,14305,2
+41,ON,35099,Whitby--Oshawa,37643,"Bardens, Trevor",Liberal,Lib,f,f,9066,3
+41,ON,35099,Whitby--Oshawa,37644,"Harrison, Rebecca",Green Party,Grn,f,f,3143,4
+41,ON,35099,Whitby--Oshawa,37641,"Insang, Josh",Libertarian,Libtar,f,f,198,5
+41,ON,35100,Willowdale,37648,"Leung, Chungsen",Conservative,Con,t,f,22207,1
+41,ON,35100,Willowdale,37646,"Hall Findlay, Martha",Liberal,Lib,f,f,21275,2
+41,ON,35100,Willowdale,37647,"Mollahasani, Mehdi",NDP-New Democratic Party,NDP,f,f,9777,3
+41,ON,35102,Windsor West,37658,"Masse, Brian",NDP-New Democratic Party,NDP,t,f,21592,1
+41,ON,35102,Windsor West,37655,"Lumley, Lisa",Conservative,Con,f,f,12577,2
+41,ON,35102,Windsor West,37656,"Deveau, Melanie",Liberal,Lib,f,f,4327,3
+41,ON,35102,Windsor West,37657,"Fox, Alishia",Green Party,Grn,f,f,1096,4
+41,ON,35102,Windsor West,37654,"Villamizar, Margaret",Marxist-Leninist,M-L,f,f,153,5
+41,ON,35101,Windsor--Tecumseh,37650,"Comartin, Joe",NDP-New Democratic Party,NDP,t,f,22235,1
+41,ON,35101,Windsor--Tecumseh,37652,"Ghanam, Denise",Conservative,Con,f,f,14945,2
+41,ON,35101,Windsor--Tecumseh,37651,"Kusmierczyk, Irek",Liberal,Lib,f,f,5764,3
+41,ON,35101,Windsor--Tecumseh,37653,"Prestanski, Kyle",Green Party,Grn,f,f,1354,4
+41,ON,35101,Windsor--Tecumseh,37649,"Chesnik, Laura",Marxist-Leninist,M-L,f,f,242,5
+41,ON,35103,York Centre,37661,"Adler, Mark",Conservative,Con,t,f,20356,1
+41,ON,35103,York Centre,37660,"Dryden, Ken",Liberal,Lib,f,f,13979,2
+41,ON,35103,York Centre,37659,"Brownlee, Nick",NDP-New Democratic Party,NDP,f,f,6656,3
+41,ON,35103,York Centre,37662,"Frei, Rosemary",Green Party,Grn,f,f,979,4
+41,ON,35105,York South--Weston,37670,"Sullivan, Mike",NDP-New Democratic Party,NDP,t,f,14122,1
+41,ON,35105,York South--Weston,37672,"Tonks, Alan",Liberal,Lib,f,f,11542,2
+41,ON,35105,York South--Weston,37671,"Saweczko, Jilian",Conservative,Con,f,f,8559,3
+41,ON,35105,York South--Weston,37669,"Day, Sonny",Green Party,Grn,f,f,975,4
+41,ON,35106,York West,37674,"Sgro, Judy",Liberal,Lib,t,f,13030,1
+41,ON,35106,York West,37675,"Manfrini, Giulio",NDP-New Democratic Party,NDP,f,f,7721,2
+41,ON,35106,York West,37678,"Walters, Audrey",Conservative,Con,f,f,6122,3
+41,ON,35106,York West,37676,"Tibbin, Unblind Kheper Keseb Efekh",Green Party,Grn,f,f,450,4
+41,ON,35106,York West,37677,"Otura, George Okoth",CHP Canada,CHP,f,f,231,5
+41,ON,35106,York West,37673,"Smitherman, Arthur",CAP,CAP,f,f,170,6
+41,ON,35104,York--Simcoe,37663,"Van Loan, Peter",Conservative,Con,t,f,33614,1
+41,ON,35104,York--Simcoe,37664,"Gerl, Sylvia",NDP-New Democratic Party,NDP,f,f,10190,2
+41,ON,35104,York--Simcoe,37668,"Wesley-Esquimaux, Cynthia",Liberal,Lib,f,f,5702,3
+41,ON,35104,York--Simcoe,37665,"Dewar, John",Green Party,Grn,f,f,2851,4
+41,ON,35104,York--Simcoe,37666,"Gunn, Vicki",CHP Canada,CHP,f,f,352,5
+41,ON,35104,York--Simcoe,37667,"Pisani, Paul",United Party,Ind,f,f,157,6
+41,PE,11001,Cardigan,37682,"MacAulay, Lawrence",Liberal,Lib,t,f,10486,1
+41,PE,11001,Cardigan,37680,"Currie, Mike",Conservative,Con,f,f,8107,2
+41,PE,11001,Cardigan,37679,"Cudmore, Lorne",NDP-New Democratic Party,NDP,f,f,2164,3
+41,PE,11001,Cardigan,37681,"Stewart, Leslie",Green Party,Grn,f,f,373,4
+41,PE,11002,Charlottetown,37687,"Casey, Sean",Liberal,Lib,t,f,7292,1
+41,PE,11002,Charlottetown,37684,"Profit, Donna",Conservative,Con,f,f,6040,2
+41,PE,11002,Charlottetown,37685,"Byrne, Joe",NDP-New Democratic Party,NDP,f,f,4632,3
+41,PE,11002,Charlottetown,37686,"Knockwood, Eliza",Green Party,Grn,f,f,417,4
+41,PE,11002,Charlottetown,37683,"Judson, Baird",CHP Canada,CHP,f,f,87,5
+41,PE,11003,Egmont,37691,"Shea, Gail",Conservative,Con,t,f,10467,1
+41,PE,11003,Egmont,37689,"Gallant, Guy",Liberal,Lib,f,f,5997,2
+41,PE,11003,Egmont,37690,"Robichaud, Jacquie",NDP-New Democratic Party,NDP,f,f,2369,3
+41,PE,11003,Egmont,37688,"Arnold, Carl Anthony",Green Party,Grn,f,f,320,4
+41,PE,11004,Malpeque,37692,"Easter, Wayne",Liberal,Lib,t,f,8605,1
+41,PE,11004,Malpeque,37693,"Ogilvie, Tim",Conservative,Con,f,f,7934,2
+41,PE,11004,Malpeque,37694,"Jackson, Rita",NDP-New Democratic Party,NDP,f,f,2970,3
+41,PE,11004,Malpeque,37695,"Bevan-Baker, Peter",Green Party,Grn,f,f,785,4
+41,QC,24046,Abitibi--Baie-James--Nunavik--Eeyou,37962,"Saganash, Romeo",NDP-New Democratic Party,NDP,t,f,13961,1
+41,QC,24046,Abitibi--Baie-James--Nunavik--Eeyou,37960,"Matte, Jean-Maurice",Conservative,Con,f,f,7089,2
+41,QC,24046,Abitibi--Baie-James--Nunavik--Eeyou,37961,"Lévesque, Yvon",Bloc Québécois,Bloc,f,f,5615,3
+41,QC,24046,Abitibi--Baie-James--Nunavik--Eeyou,37959,"Gervais, Léandre",Liberal,Lib,f,f,3282,4
+41,QC,24046,Abitibi--Baie-James--Nunavik--Eeyou,37963,"Kasudluak, Johnny",Green Party,Grn,f,f,1221,5
+41,QC,24001,Abitibi--Témiscamingue,37699,"Moore, Christine",NDP-New Democratic Party,NDP,t,f,24763,1
+41,QC,24001,Abitibi--Témiscamingue,37700,"Lemay, Marc",Bloc Québécois,Bloc,f,f,15258,2
+41,QC,24001,Abitibi--Témiscamingue,37697,"Hébert, Steven",Conservative,Con,f,f,4777,3
+41,QC,24001,Abitibi--Témiscamingue,37696,"Grenon, Suzie",Liberal,Lib,f,f,2859,4
+41,QC,24001,Abitibi--Témiscamingue,37698,"Rochon, Patrick",Green Party,Grn,f,f,694,5
+41,QC,24002,Ahuntsic,37704,"Mourani, Maria",Bloc Québécois,Bloc,t,f,14908,1
+41,QC,24002,Ahuntsic,37702,"Reeves, Chantal",NDP-New Democratic Party,NDP,f,f,14200,2
+41,QC,24002,Ahuntsic,37705,"Eloyan, Noushig",Liberal,Lib,f,f,13087,3
+41,QC,24002,Ahuntsic,37703,"Kiryakidis, Constantin",Conservative,Con,f,f,3770,4
+41,QC,24002,Ahuntsic,37701,"Kouretas, Ted",Green Party,Grn,f,f,620,5
+41,QC,24002,Ahuntsic,37706,"Berthiaume, Jean-Olivier",Rhinoceros,Rhino,f,f,299,6
+41,QC,24003,Alfred-Pellan,37709,"Doré Lefebvre, Rosane",NDP-New Democratic Party,NDP,t,f,23098,1
+41,QC,24003,Alfred-Pellan,37708,"Carrier, Robert",Bloc Québécois,Bloc,f,f,12504,2
+41,QC,24003,Alfred-Pellan,37710,"Iacono, Angelo G.",Liberal,Lib,f,f,12070,3
+41,QC,24003,Alfred-Pellan,37711,"Lefebvre, Pierre",Conservative,Con,f,f,6157,4
+41,QC,24003,Alfred-Pellan,37712,"Perceval-Maxwell, Dylan",Green Party,Grn,f,f,798,5
+41,QC,24003,Alfred-Pellan,37707,"Millette, Régent",Independent,Ind,f,f,245,6
+41,QC,24004,Argenteuil--Papineau--Mirabel,37717,"Freeman, Mylène",NDP-New Democratic Party,NDP,t,f,25802,1
+41,QC,24004,Argenteuil--Papineau--Mirabel,37716,"Laframboise, Mario",Bloc Québécois,Bloc,f,f,16880,2
+41,QC,24004,Argenteuil--Papineau--Mirabel,37715,"Fox, Daniel",Liberal,Lib,f,f,7135,3
+41,QC,24004,Argenteuil--Papineau--Mirabel,37718,"Patry, Yvan",Conservative,Con,f,f,6497,4
+41,QC,24004,Argenteuil--Papineau--Mirabel,37713,"Matthews, Stephen",Green Party,Grn,f,f,1506,5
+41,QC,24004,Argenteuil--Papineau--Mirabel,37719,"Guibord, Michel Daniel",Independent,Ind,f,f,342,6
+41,QC,24004,Argenteuil--Papineau--Mirabel,37714,"Ferlatte, Christian-Simon",Marxist-Leninist,M-L,f,f,117,7
+41,QC,24054,Bas-Richelieu--Nicolet--Bécancour,38008,"Plamondon, Louis",Bloc Québécois,Bloc,t,f,19046,1
+41,QC,24054,Bas-Richelieu--Nicolet--Bécancour,38005,"Lalonde, Krista",NDP-New Democratic Party,NDP,f,f,17705,2
+41,QC,24054,Bas-Richelieu--Nicolet--Bécancour,38006,"Cartier, Charles",Conservative,Con,f,f,6478,3
+41,QC,24054,Bas-Richelieu--Nicolet--Bécancour,38007,"Blais, Rhéal",Liberal,Lib,f,f,5024,4
+41,QC,24054,Bas-Richelieu--Nicolet--Bécancour,38009,"Tanguay, Anne-Marie",Green Party,Grn,f,f,1479,5
+41,QC,24005,Beauce,37724,"Bernier, Maxime",Conservative,Con,t,f,26799,1
+41,QC,24005,Beauce,37722,"Bergeron, Serge",NDP-New Democratic Party,NDP,f,f,15831,2
+41,QC,24005,Beauce,37721,"Morin, Claude",Liberal,Lib,f,f,5833,3
+41,QC,24005,Beauce,37720,"Morin, Sylvio",Bloc Québécois,Bloc,f,f,3535,4
+41,QC,24005,Beauce,37723,"Doyon Lessard, Etienne",Green Party,Grn,f,f,852,5
+41,QC,24006,Beauharnois--Salaberry,37729,"Quach, Anne Minh-Thu",NDP-New Democratic Party,NDP,t,f,23998,1
+41,QC,24006,Beauharnois--Salaberry,37727,"DeBellefeuille, Claude",Bloc Québécois,Bloc,f,f,18182,2
+41,QC,24006,Beauharnois--Salaberry,37728,"Couturier, David",Conservative,Con,f,f,7049,3
+41,QC,24006,Beauharnois--Salaberry,37725,"Deslandres, François",Liberal,Lib,f,f,4559,4
+41,QC,24006,Beauharnois--Salaberry,37726,"Pelletier, Rémi",Green Party,Grn,f,f,1003,5
+41,QC,24007,Beauport--Limoilou,37736,"Côté, Raymond",NDP-New Democratic Party,NDP,t,f,24306,1
+41,QC,24007,Beauport--Limoilou,37734,"Boucher, Sylvie",Conservative,Con,f,f,13845,2
+41,QC,24007,Beauport--Limoilou,37735,"Létourneau, Michel",Bloc Québécois,Bloc,f,f,10250,3
+41,QC,24007,Beauport--Limoilou,37732,"Chartier, Lorraine",Liberal,Lib,f,f,3162,4
+41,QC,24007,Beauport--Limoilou,37730,"Courville, Louise",Green Party,Grn,f,f,950,5
+41,QC,24007,Beauport--Limoilou,37733,"Genest, Anne-Marie",CHP Canada,CHP,f,f,124,6
+41,QC,24007,Beauport--Limoilou,37731,"Moreau, Claude",Marxist-Leninist,M-L,f,f,122,7
+41,QC,24008,Berthier--Maskinongé,37737,"Brosseau, Ruth Ellen",NDP-New Democratic Party,NDP,t,f,22403,1
+41,QC,24008,Berthier--Maskinongé,37738,"André, Guy",Bloc Québécois,Bloc,f,f,16668,2
+41,QC,24008,Berthier--Maskinongé,37741,"Gaudet, Francine",Liberal,Lib,f,f,8060,3
+41,QC,24008,Berthier--Maskinongé,37740,"Godue, Marie-Claude",Conservative,Con,f,f,7904,4
+41,QC,24008,Berthier--Maskinongé,37742,"Matteau, Léonie",Green Party,Grn,f,f,1196,5
+41,QC,24008,Berthier--Maskinongé,37739,"Jubinville, Martin",Rhinoceros,Rhino,f,f,373,6
+41,QC,24009,Bourassa,37743,"Coderre, Denis",Liberal,Lib,t,f,15550,1
+41,QC,24009,Bourassa,37744,"Demers, Julie",NDP-New Democratic Party,NDP,f,f,12270,2
+41,QC,24009,Bourassa,37747,"Mailhot, Daniel",Bloc Québécois,Bloc,f,f,6105,3
+41,QC,24009,Bourassa,37748,"Azoulay, David",Conservative,Con,f,f,3354,4
+41,QC,24009,Bourassa,37745,"Centazzo, Tiziana",Green Party,Grn,f,f,613,5
+41,QC,24009,Bourassa,37746,"Royer, Geneviève",Marxist-Leninist,M-L,f,f,121,6
+41,QC,24010,Brome--Missisquoi,37753,"Jacob, Pierre",NDP-New Democratic Party,NDP,t,f,22407,1
+41,QC,24010,Brome--Missisquoi,37750,"Paradis, Denis",Liberal,Lib,f,f,11589,2
+41,QC,24010,Brome--Missisquoi,37749,"Bogosta, Christelle",Bloc Québécois,Bloc,f,f,11173,3
+41,QC,24010,Brome--Missisquoi,37751,"LeBlanc-Bauerle, Nolan",Conservative,Con,f,f,6256,4
+41,QC,24010,Brome--Missisquoi,37752,"Lambert, Benoit",Green Party,Grn,f,f,1120,5
+41,QC,24011,Brossard--La Prairie,37758,"Mai, Hoang",NDP-New Democratic Party,NDP,t,f,25512,1
+41,QC,24011,Brossard--La Prairie,37756,"Mendès, Alexandra",Liberal,Lib,f,f,16976,2
+41,QC,24011,Brossard--La Prairie,37759,"Lussier, Marcel",Bloc Québécois,Bloc,f,f,10890,3
+41,QC,24011,Brossard--La Prairie,37754,"Brossard, Maurice",Conservative,Con,f,f,7806,4
+41,QC,24011,Brossard--La Prairie,37755,"Murphy, Kevin",Green Party,Grn,f,f,900,5
+41,QC,24011,Brossard--La Prairie,37757,"Chouinard, Normand",Marxist-Leninist,M-L,f,f,110,6
+41,QC,24012,Chambly--Borduas,37765,"Dubé, Matthew",NDP-New Democratic Party,NDP,t,f,29591,1
+41,QC,24012,Chambly--Borduas,37763,"Lessard, Yves",Bloc Québécois,Bloc,f,f,19147,2
+41,QC,24012,Chambly--Borduas,37762,"Mercier, Jean-François",Independent,Ind,f,f,7843,3
+41,QC,24012,Chambly--Borduas,37761,"DeLorme, Bernard",Liberal,Lib,f,f,6165,4
+41,QC,24012,Chambly--Borduas,37764,"Ferland Drolet, Nathalie",Conservative,Con,f,f,5425,5
+41,QC,24012,Chambly--Borduas,37760,"Lescarbeau, Nicholas",Green Party,Grn,f,f,1072,6
+41,QC,24013,Charlesbourg--Haute-Saint-Charles,37771,"Day, Anne-Marie",NDP-New Democratic Party,NDP,t,f,24131,1
+41,QC,24013,Charlesbourg--Haute-Saint-Charles,37770,"Petit, Daniel",Conservative,Con,f,f,16220,2
+41,QC,24013,Charlesbourg--Haute-Saint-Charles,37767,"Grenier, Félix",Bloc Québécois,Bloc,f,f,8732,3
+41,QC,24013,Charlesbourg--Haute-Saint-Charles,37769,"Gaudreault, Martine",Liberal,Lib,f,f,3505,4
+41,QC,24013,Charlesbourg--Haute-Saint-Charles,37766,"Verret, Simon",Green Party,Grn,f,f,832,5
+41,QC,24013,Charlesbourg--Haute-Saint-Charles,37768,"Cormier, Simon",CHP Canada,CHP,f,f,189,6
+41,QC,24016,Chicoutimi--Le Fjord,37788,"Morin, Dany",NDP-New Democratic Party,NDP,t,f,19430,1
+41,QC,24016,Chicoutimi--Le Fjord,37783,"Bouchard, Robert",Bloc Québécois,Bloc,f,f,14675,2
+41,QC,24016,Chicoutimi--Le Fjord,37784,"Néron, Carol",Conservative,Con,f,f,12881,3
+41,QC,24016,Chicoutimi--Le Fjord,37785,"Pettersen, Marc",Liberal,Lib,f,f,2852,4
+41,QC,24016,Chicoutimi--Le Fjord,37786,"Bolduc-Tremblay, Charles-Olivier",Green Party,Grn,f,f,780,5
+41,QC,24016,Chicoutimi--Le Fjord,37787,"Couture, Marielle",Rhinoceros,Rhino,f,f,340,6
+41,QC,24015,Châteauguay--Saint-Constant,37781,"Chicoine, Sylvain",NDP-New Democratic Party,NDP,t,f,29156,1
+41,QC,24015,Châteauguay--Saint-Constant,37777,"Freeman, Carole",Bloc Québécois,Bloc,f,f,14957,2
+41,QC,24015,Châteauguay--Saint-Constant,37780,"Turcôt, André",Conservative,Con,f,f,5756,3
+41,QC,24015,Châteauguay--Saint-Constant,37779,"Schwey, Linda",Liberal,Lib,f,f,5069,4
+41,QC,24015,Châteauguay--Saint-Constant,37782,"Kwan, Clara",Green Party,Grn,f,f,923,5
+41,QC,24015,Châteauguay--Saint-Constant,37778,"Sullivan, Linda",Marxist-Leninist,M-L,f,f,162,6
+41,QC,24017,Compton--Stanstead,37789,"Rousseau, Jean",NDP-New Democratic Party,NDP,t,f,24097,1
+41,QC,24017,Compton--Stanstead,37793,"Bonsant, France",Bloc Québécois,Bloc,f,f,13179,2
+41,QC,24017,Compton--Stanstead,37792,"Hogg, William",Liberal,Lib,f,f,6132,3
+41,QC,24017,Compton--Stanstead,37790,"Gressard Bélanger, Sandrine",Conservative,Con,f,f,5982,4
+41,QC,24017,Compton--Stanstead,37791,"Caldwell, Gary",Green Party,Grn,f,f,1241,5
+41,QC,24018,Drummond,37796,"Choquette, François",NDP-New Democratic Party,NDP,t,f,24489,1
+41,QC,24018,Drummond,37794,"Pomerleau, Roger",Bloc Québécois,Bloc,f,f,10410,2
+41,QC,24018,Drummond,37795,"Bernier, Normand W.",Conservative,Con,f,f,7555,3
+41,QC,24018,Drummond,37798,"Côté, Pierre",Liberal,Lib,f,f,3979,4
+41,QC,24018,Drummond,37797,"Fortin, Robin",Green Party,Grn,f,f,987,5
+41,QC,24019,Gaspésie--Îles-de-la-Madeleine,37799,"Toone, Philip",NDP-New Democratic Party,NDP,t,f,12427,1
+41,QC,24019,Gaspésie--Îles-de-la-Madeleine,37803,"Côté, Daniel",Bloc Québécois,Bloc,f,f,11650,2
+41,QC,24019,Gaspésie--Îles-de-la-Madeleine,37802,"Bastien, Régent",Conservative,Con,f,f,6292,3
+41,QC,24019,Gaspésie--Îles-de-la-Madeleine,37800,"Duguay, Jules",Liberal,Lib,f,f,5533,4
+41,QC,24019,Gaspésie--Îles-de-la-Madeleine,37801,"Leblanc, Julien",Green Party,Grn,f,f,913,5
+41,QC,24020,Gatineau,37807,"Boivin, Françoise",NDP-New Democratic Party,NDP,t,f,35262,1
+41,QC,24020,Gatineau,37806,"Nadeau, Richard",Bloc Québécois,Bloc,f,f,8619,2
+41,QC,24020,Gatineau,37808,"MacKinnon, Steve",Liberal,Lib,f,f,7975,3
+41,QC,24020,Gatineau,37804,"Gearey, Jennifer",Conservative,Con,f,f,4532,4
+41,QC,24020,Gatineau,37805,"Meijer, Jonathan",Green Party,Grn,f,f,639,5
+41,QC,24041,Haute-Gaspésie--La Mitis--Matane--Matapédia,37933,"Fortin, Jean-François",Bloc Québécois,Bloc,t,f,12633,1
+41,QC,24041,Haute-Gaspésie--La Mitis--Matane--Matapédia,37931,"Charest, Nancy",Liberal,Lib,f,f,8964,2
+41,QC,24041,Haute-Gaspésie--La Mitis--Matane--Matapédia,37932,"Boulet, Joanie",NDP-New Democratic Party,NDP,f,f,7484,3
+41,QC,24041,Haute-Gaspésie--La Mitis--Matane--Matapédia,37929,"Cormier, Allen",Conservative,Con,f,f,5253,4
+41,QC,24041,Haute-Gaspésie--La Mitis--Matane--Matapédia,37930,"Drainville, Louis",Green Party,Grn,f,f,707,5
+41,QC,24021,Hochelaga,37814,"Boutin-Sweet, Marjolaine",NDP-New Democratic Party,NDP,t,f,22314,1
+41,QC,24021,Hochelaga,37813,"Paillé, Daniel",Bloc Québécois,Bloc,f,f,14451,2
+41,QC,24021,Hochelaga,37812,"Thibodeau, Gilbert",Liberal,Lib,f,f,5064,3
+41,QC,24021,Hochelaga,37809,"Castonguay, Audrey",Conservative,Con,f,f,3126,4
+41,QC,24021,Hochelaga,37816,"Delgado Dihigo, Yaneisy",Green Party,Grn,f,f,798,5
+41,QC,24021,Hochelaga,37811,"Samson Veillette, Hugo",Rhinoceros,Rhino,f,f,246,6
+41,QC,24021,Hochelaga,37815,"Breton Fontaine, Marianne",Communist,Com,f,f,180,7
+41,QC,24021,Hochelaga,37810,"Dandenault, Christine",Marxist-Leninist,M-L,f,f,143,8
+41,QC,24022,Honoré-Mercier,37820,"Ayala, Paulina",NDP-New Democratic Party,NDP,t,f,17545,1
+41,QC,24022,Honoré-Mercier,37821,"Rodriguez, Pablo",Liberal,Lib,f,f,14641,2
+41,QC,24022,Honoré-Mercier,37819,"Laroche, Martin",Bloc Québécois,Bloc,f,f,8935,3
+41,QC,24022,Honoré-Mercier,37823,"Labelle, Gérard",Conservative,Con,f,f,5992,4
+41,QC,24022,Honoré-Mercier,37817,"Bérard, Gaëtan",Green Party,Grn,f,f,770,5
+41,QC,24022,Honoré-Mercier,37818,"Chevrefils-Latulippe, Valery",Rhinoceros,Rhino,f,f,181,6
+41,QC,24022,Honoré-Mercier,37822,"Bédard, Jean-Paul",Marxist-Leninist,M-L,f,f,170,7
+41,QC,24023,Hull--Aylmer,37828,"Turmel, Nycole",NDP-New Democratic Party,NDP,t,f,35194,1
+41,QC,24023,Hull--Aylmer,37827,"Proulx, Marcel",Liberal,Lib,f,f,12051,2
+41,QC,24023,Hull--Aylmer,37824,"Brassard-Fortin, Nancy",Conservative,Con,f,f,6058,3
+41,QC,24023,Hull--Aylmer,37826,"Lemay, Dino",Bloc Québécois,Bloc,f,f,5019,4
+41,QC,24023,Hull--Aylmer,37825,"Fleury, Roger",Green Party,Grn,f,f,1125,5
+41,QC,24024,Jeanne-Le Ber,37833,"Benskin, Tyrone",NDP-New Democratic Party,NDP,t,f,23293,1
+41,QC,24024,Jeanne-Le Ber,37834,"St-Cyr, Thierry",Bloc Québécois,Bloc,f,f,12635,2
+41,QC,24024,Jeanne-Le Ber,37832,"Bruneau, Mark",Liberal,Lib,f,f,10054,3
+41,QC,24024,Jeanne-Le Ber,37830,"Lafontaine, Pierre",Conservative,Con,f,f,4678,4
+41,QC,24024,Jeanne-Le Ber,37831,"Noël, Richard",Green Party,Grn,f,f,1377,5
+41,QC,24024,Jeanne-Le Ber,37829,"Studd, Eileen",Marxist-Leninist,M-L,f,f,121,6
+41,QC,24025,Joliette,37836,"Raynault, Francine",NDP-New Democratic Party,NDP,t,f,27050,1
+41,QC,24025,Joliette,37838,"Paquette, Pierre A.",Bloc Québécois,Bloc,f,f,18804,2
+41,QC,24025,Joliette,37837,"Morand, Michel",Conservative,Con,f,f,5525,3
+41,QC,24025,Joliette,37835,"Boucher, François",Liberal,Lib,f,f,3545,4
+41,QC,24025,Joliette,37839,"Durette, Annie",Green Party,Grn,f,f,2227,5
+41,QC,24026,Jonquière--Alma,37840,"Patry, Claude",NDP-New Democratic Party,NDP,t,f,22900,1
+41,QC,24026,Jonquière--Alma,37842,"Blackburn, Jean-Pierre",Conservative,Con,f,f,18569,2
+41,QC,24026,Jonquière--Alma,37844,"Forest, Pierre",Bloc Québécois,Bloc,f,f,9554,3
+41,QC,24026,Jonquière--Alma,37843,"Ringuette, Claude",Liberal,Lib,f,f,1043,4
+41,QC,24026,Jonquière--Alma,37841,"Bergeron, France",Green Party,Grn,f,f,652,5
+41,QC,24028,La Pointe-de-l'Île,37855,"Péclet, Ève",NDP-New Democratic Party,NDP,t,f,23033,1
+41,QC,24028,La Pointe-de-l'Île,37852,"Beaudry, Ginette",Bloc Québécois,Bloc,f,f,15475,2
+41,QC,24028,La Pointe-de-l'Île,37853,"L. Coulombe, Olivier",Liberal,Lib,f,f,4369,3
+41,QC,24028,La Pointe-de-l'Île,37851,"Drolet, Mathieu",Conservative,Con,f,f,3664,4
+41,QC,24028,La Pointe-de-l'Île,37854,"Cox, David J.",Green Party,Grn,f,f,898,5
+41,QC,24028,La Pointe-de-l'Île,37850,"Brunelle, Claude",Marxist-Leninist,M-L,f,f,213,6
+41,QC,24029,LaSalle--Émard,37858,"LeBlanc, Hélène",NDP-New Democratic Party,NDP,t,f,17691,1
+41,QC,24029,LaSalle--Émard,37862,"Zarac, Lise",Liberal,Lib,f,f,11172,2
+41,QC,24029,LaSalle--Émard,37860,"Dubois, Carl",Bloc Québécois,Bloc,f,f,6151,3
+41,QC,24029,LaSalle--Émard,37859,"Yu, Chang-Tao Jimmy",Conservative,Con,f,f,5516,4
+41,QC,24029,LaSalle--Émard,37857,"Banville, Lorraine",Green Party,Grn,f,f,946,5
+41,QC,24029,LaSalle--Émard,37861,"Le Seigle, Yves",Marxist-Leninist,M-L,f,f,288,6
+41,QC,24029,LaSalle--Émard,37856,"Berger-Richard, Guillaume",Rhinoceros,Rhino,f,f,208,7
+41,QC,24027,Lac-Saint-Louis,37845,"Scarpaleggia, Francis",Liberal,Lib,t,f,18457,1
+41,QC,24027,Lac-Saint-Louis,37849,"Ackad, Alain",NDP-New Democratic Party,NDP,f,f,16253,2
+41,QC,24027,Lac-Saint-Louis,37848,"Smith, Larry",Conservative,Con,f,f,15394,3
+41,QC,24027,Lac-Saint-Louis,37846,"Tremblay, Bruno",Green Party,Grn,f,f,2315,4
+41,QC,24027,Lac-Saint-Louis,37847,"Taillefer, Éric",Bloc Québécois,Bloc,f,f,1689,5
+41,QC,24030,Laurentides--Labelle,37864,"Morin, Marc-André",NDP-New Democratic Party,NDP,t,f,24800,1
+41,QC,24030,Laurentides--Labelle,37865,"Deschamps, Johanne",Bloc Québécois,Bloc,f,f,17799,2
+41,QC,24030,Laurentides--Labelle,37866,"Lacoste, Jean-Marc",Liberal,Lib,f,f,7169,3
+41,QC,24030,Laurentides--Labelle,37863,"Joncas, Guy",Conservative,Con,f,f,5246,4
+41,QC,24030,Laurentides--Labelle,37868,"Beauchamp, François",Green Party,Grn,f,f,1423,5
+41,QC,24030,Laurentides--Labelle,37867,"St-Louis, Mikaël",Marxist-Leninist,M-L,f,f,149,6
+41,QC,24031,Laurier--Sainte-Marie,37871,"Laverdière, Hélène",NDP-New Democratic Party,NDP,t,f,23373,1
+41,QC,24031,Laurier--Sainte-Marie,37874,"Duceppe, Gilles",Bloc Québécois,Bloc,f,f,17991,2
+41,QC,24031,Laurier--Sainte-Marie,37870,"Allard, Philippe",Liberal,Lib,f,f,4976,3
+41,QC,24031,Laurier--Sainte-Marie,37869,"Langford, Charles K.",Conservative,Con,f,f,1764,4
+41,QC,24031,Laurier--Sainte-Marie,37876,"Adam, Olivier",Green Party,Grn,f,f,1324,5
+41,QC,24031,Laurier--Sainte-Marie,37872,"Gourd, François Yo",Rhinoceros,Rhino,f,f,398,6
+41,QC,24031,Laurier--Sainte-Marie,37877,"Archambault, Sylvain",Communist,Com,f,f,137,7
+41,QC,24031,Laurier--Sainte-Marie,37873,"Lachapelle, Serge",Marxist-Leninist,M-L,f,f,77,8
+41,QC,24031,Laurier--Sainte-Marie,37875,"Mourkes, Dimitri",Independent,Ind,f,f,73,9
+41,QC,24032,Laval,37879,"Nunez-Melo, José",NDP-New Democratic Party,NDP,t,f,22050,1
+41,QC,24032,Laval,37881,"Demers, Nicole",Bloc Québécois,Bloc,f,f,11567,2
+41,QC,24032,Laval,37880,"Nassif, Eva",Liberal,Lib,f,f,9422,3
+41,QC,24032,Laval,37878,"Malo, Robert",Conservative,Con,f,f,6366,4
+41,QC,24032,Laval,37883,"Leduc, Jocelyne",Green Party,Grn,f,f,1260,5
+41,QC,24032,Laval,37882,"Breton, Yvon",Marxist-Leninist,M-L,f,f,224,6
+41,QC,24033,Laval--Les Îles,37886,"Pilon, François",NDP-New Democratic Party,NDP,t,f,25703,1
+41,QC,24033,Laval--Les Îles,37885,"Joizil, Karine",Liberal,Lib,f,f,11108,2
+41,QC,24033,Laval--Les Îles,37890,"Ghavitian, Zaki",Conservative,Con,f,f,8587,3
+41,QC,24033,Laval--Les Îles,37884,"Jetha, Mohamedali",Bloc Québécois,Bloc,f,f,7022,4
+41,QC,24033,Laval--Les Îles,37888,"Neil, Brent",Green Party,Grn,f,f,966,5
+41,QC,24033,Laval--Les Îles,37889,"Bakhos, Stéphane",Pirate Party,Pirate,f,f,369,6
+41,QC,24033,Laval--Les Îles,37887,"Tsakanikas, Polyvios",Marxist-Leninist,M-L,f,f,194,7
+41,QC,24035,Longueuil--Pierre-Boucher,37900,"Nantel, Pierre",NDP-New Democratic Party,NDP,t,f,27119,1
+41,QC,24035,Longueuil--Pierre-Boucher,37897,"Dorion, Jean",Bloc Québécois,Bloc,f,f,14181,2
+41,QC,24035,Longueuil--Pierre-Boucher,37899,"Falsafi, Kévan",Liberal,Lib,f,f,5321,3
+41,QC,24035,Longueuil--Pierre-Boucher,37898,"Bélisle, Richard",Conservative,Con,f,f,4339,4
+41,QC,24035,Longueuil--Pierre-Boucher,37901,"St-Amant, Valérie",Green Party,Grn,f,f,1032,5
+41,QC,24035,Longueuil--Pierre-Boucher,37896,"Patenaude, Serge",Marxist-Leninist,M-L,f,f,228,6
+41,QC,24036,Lotbinière--Chutes-de-la-Chaudière,37902,"Gourde, Jacques",Conservative,Con,t,f,22460,1
+41,QC,24036,Lotbinière--Chutes-de-la-Chaudière,37904,"Fredette, Tanya",NDP-New Democratic Party,NDP,f,f,21683,2
+41,QC,24036,Lotbinière--Chutes-de-la-Chaudière,37905,"Gourde, Gaston",Bloc Québécois,Bloc,f,f,8381,3
+41,QC,24036,Lotbinière--Chutes-de-la-Chaudière,37906,"Larouche, Nicole",Liberal,Lib,f,f,2866,4
+41,QC,24036,Lotbinière--Chutes-de-la-Chaudière,37903,"Domm, Richard",Green Party,Grn,f,f,936,5
+41,QC,24037,Louis-Hébert,37911,"Blanchette, Denis",NDP-New Democratic Party,NDP,t,f,23373,1
+41,QC,24037,Louis-Hébert,37909,"Paillé, Pascal-Pierre",Bloc Québécois,Bloc,f,f,14640,2
+41,QC,24037,Louis-Hébert,37907,"Paul-Hus, Pierre",Conservative,Con,f,f,13207,3
+41,QC,24037,Louis-Hébert,37910,"Beaupré, Jean",Liberal,Lib,f,f,8110,4
+41,QC,24037,Louis-Hébert,37908,"Fontaine, Michelle",Green Party,Grn,f,f,996,5
+41,QC,24037,Louis-Hébert,37912,"Bouffard, Marie-Claude",CHP Canada,CHP,f,f,143,6
+41,QC,24038,Louis-Saint-Laurent,37914,"Latendresse, Alexandrine",NDP-New Democratic Party,NDP,t,f,22629,1
+41,QC,24038,Louis-Saint-Laurent,37915,"Verner, Josée",Conservative,Con,f,f,21334,2
+41,QC,24038,Louis-Saint-Laurent,37916,"Gagné, France",Bloc Québécois,Bloc,f,f,8148,3
+41,QC,24038,Louis-Saint-Laurent,37918,"Mérel, Philippe",Liberal,Lib,f,f,3612,4
+41,QC,24038,Louis-Saint-Laurent,37917,"Cloutier, Jean",Green Party,Grn,f,f,857,5
+41,QC,24038,Louis-Saint-Laurent,37913,"Arseneault, Daniel",CHP Canada,CHP,f,f,175,6
+41,QC,24034,Lévis--Bellechasse,37891,"Blaney, Steven",Conservative,Con,t,f,25850,1
+41,QC,24034,Lévis--Bellechasse,37894,"Laliberté, Nicole",NDP-New Democratic Party,NDP,f,f,19890,2
+41,QC,24034,Lévis--Bellechasse,37895,"Gosselin, Danielle-Maude",Bloc Québécois,Bloc,f,f,8757,3
+41,QC,24034,Lévis--Bellechasse,37893,"Laforesterie, Francis",Liberal,Lib,f,f,3421,4
+41,QC,24034,Lévis--Bellechasse,37892,"Dougé, Sacha",Green Party,Grn,f,f,903,5
+41,QC,24039,Manicouagan,37923,"Genest-Jourdain, Jonathan",NDP-New Democratic Party,NDP,t,f,16437,1
+41,QC,24039,Manicouagan,37922,"Asselin, Gérard",Bloc Québécois,Bloc,f,f,10495,2
+41,QC,24039,Manicouagan,37921,"Ferguson, Gordon",Conservative,Con,f,f,3878,3
+41,QC,24039,Manicouagan,37920,"Forbes, André",Liberal,Lib,f,f,1882,4
+41,QC,24039,Manicouagan,37919,"Gélineau, Jacques",Green Party,Grn,f,f,898,5
+41,QC,24040,Marc-Aurèle-Fortin,37927,"Giguère, Alain",NDP-New Democratic Party,NDP,t,f,29107,1
+41,QC,24040,Marc-Aurèle-Fortin,37926,"Charbonneau, Marie-France",Bloc Québécois,Bloc,f,f,15470,2
+41,QC,24040,Marc-Aurèle-Fortin,37924,"Agurto Catalán, Eduardo Gonzalo",Liberal,Lib,f,f,7035,3
+41,QC,24040,Marc-Aurèle-Fortin,37925,"Théorêt, Johanne",Conservative,Con,f,f,5768,4
+41,QC,24040,Marc-Aurèle-Fortin,37928,"Sicotte, Charles",Green Party,Grn,f,f,1208,5
+41,QC,24043,Montcalm,37944,"Perreault, Manon",NDP-New Democratic Party,NDP,t,f,34434,1
+41,QC,24043,Montcalm,37942,"Gaudet, Roger",Bloc Québécois,Bloc,f,f,19609,2
+41,QC,24043,Montcalm,37940,"Fuoco, Jason",Conservative,Con,f,f,5118,3
+41,QC,24043,Montcalm,37941,"Dufour, Yves",Liberal,Lib,f,f,3501,4
+41,QC,24043,Montcalm,37943,"Girard, Marianne",Green Party,Grn,f,f,2347,5
+41,QC,24058,Montmagny--L'Islet--Kamouraska--Rivière-du-Loup,38025,"Lapointe, François",NDP-New Democratic Party,NDP,t,f,17285,1
+41,QC,24058,Montmagny--L'Islet--Kamouraska--Rivière-du-Loup,38026,"Généreux, Bernard",Conservative,Con,f,f,17276,2
+41,QC,24058,Montmagny--L'Islet--Kamouraska--Rivière-du-Loup,38027,"Arsenault, Nathalie",Bloc Québécois,Bloc,f,f,9550,3
+41,QC,24058,Montmagny--L'Islet--Kamouraska--Rivière-du-Loup,38029,"Caddell, Andrew",Liberal,Lib,f,f,2743,4
+41,QC,24058,Montmagny--L'Islet--Kamouraska--Rivière-du-Loup,38028,"Tremblay, Lynette",Green Party,Grn,f,f,691,5
+41,QC,24014,Montmorency--Charlevoix--Haute-Côte-Nord,37774,"Tremblay, Jonathan",NDP-New Democratic Party,NDP,t,f,17601,1
+41,QC,24014,Montmorency--Charlevoix--Haute-Côte-Nord,37772,"Guimond, Michel",Bloc Québécois,Bloc,f,f,16425,2
+41,QC,24014,Montmorency--Charlevoix--Haute-Côte-Nord,37776,"Castonguay, Michel-Eric",Conservative,Con,f,f,9660,3
+41,QC,24014,Montmorency--Charlevoix--Haute-Côte-Nord,37775,"Gauthier, Robert",Liberal,Lib,f,f,2628,4
+41,QC,24014,Montmorency--Charlevoix--Haute-Côte-Nord,37773,"Bédard, François",Green Party,Grn,f,f,814,5
+41,QC,24044,Mount Royal,37945,"Cotler, Irwin",Liberal,Lib,t,f,16151,1
+41,QC,24044,Mount Royal,37947,"Zajdel, Saulie",Conservative,Con,f,f,13891,2
+41,QC,24044,Mount Royal,37948,"Itcush, Jeff",NDP-New Democratic Party,NDP,f,f,6963,3
+41,QC,24044,Mount Royal,37946,"Dumais, Gabriel",Bloc Québécois,Bloc,f,f,1136,4
+41,QC,24044,Mount Royal,37950,"Sarwer-Foner, Brian",Green Party,Grn,f,f,683,5
+41,QC,24044,Mount Royal,37951,"Johnston, Diane",Marxist-Leninist,M-L,f,f,109,6
+41,QC,24044,Mount Royal,37949,"Weizfeld, abraham",No Affiliation,Ind,f,f,74,7
+41,QC,24042,Mégantic--L'Érable,37934,"Paradis, Christian",Conservative,Con,t,f,21931,1
+41,QC,24042,Mégantic--L'Érable,37939,"Voisine, Cheryl",NDP-New Democratic Party,NDP,f,f,11716,2
+41,QC,24042,Mégantic--L'Érable,37938,"Turcotte, Pierre",Bloc Québécois,Bloc,f,f,7481,3
+41,QC,24042,Mégantic--L'Érable,37936,"Roy, René",Liberal,Lib,f,f,2601,4
+41,QC,24042,Mégantic--L'Érable,37937,"Tessari, Wyatt",Green Party,Grn,f,f,655,5
+41,QC,24042,Mégantic--L'Érable,37935,"Bergeron, Alain",CAP,CAP,f,f,250,6
+41,QC,24045,Notre-Dame-de-Grâce--Lachine,37954,"Morin, Isabelle",NDP-New Democratic Party,NDP,t,f,17943,1
+41,QC,24045,Notre-Dame-de-Grâce--Lachine,37956,"Jennings, Marlene",Liberal,Lib,f,f,14407,2
+41,QC,24045,Notre-Dame-de-Grâce--Lachine,37953,"Conway, Matthew",Conservative,Con,f,f,6574,3
+41,QC,24045,Notre-Dame-de-Grâce--Lachine,37952,"Ladouceur-Despins, Gabrielle",Bloc Québécois,Bloc,f,f,3983,4
+41,QC,24045,Notre-Dame-de-Grâce--Lachine,37955,"Gal, Jessica",Green Party,Grn,f,f,1914,5
+41,QC,24045,Notre-Dame-de-Grâce--Lachine,37957,"Lovett, David Andrew",Independent,Ind,f,f,207,6
+41,QC,24045,Notre-Dame-de-Grâce--Lachine,37958,"Hoffman, Rachel",Marxist-Leninist,M-L,f,f,131,7
+41,QC,24047,Outremont,37966,"Mulcair, Thomas",NDP-New Democratic Party,NDP,t,f,21906,1
+41,QC,24047,Outremont,37969,"Cauchon, Martin",Liberal,Lib,f,f,9204,2
+41,QC,24047,Outremont,37967,"Husny, Rodolphe",Conservative,Con,f,f,3408,3
+41,QC,24047,Outremont,37968,"Daoust, Élise",Bloc Québécois,Bloc,f,f,3199,4
+41,QC,24047,Outremont,37964,"Pilon, Francois",Green Party,Grn,f,f,838,5
+41,QC,24047,Outremont,37965,"Gaudet, Tommy",Rhinoceros,Rhino,f,f,160,6
+41,QC,24047,Outremont,37970,"Boyden, Johan",Communist,Com,f,f,143,7
+41,QC,24048,Papineau,37977,"Trudeau, Justin",Liberal,Lib,t,f,16429,1
+41,QC,24048,Papineau,37971,"Tejada, Marcos Radhames",NDP-New Democratic Party,NDP,f,f,12102,2
+41,QC,24048,Papineau,37973,"Barbot, Vivian",Bloc Québécois,Bloc,f,f,11091,3
+41,QC,24048,Papineau,37976,"Chopra, Shama",Conservative,Con,f,f,2021,4
+41,QC,24048,Papineau,37972,"Polifroni, Danny",Green Party,Grn,f,f,806,5
+41,QC,24048,Papineau,37974,"Macrisopoulos, Peter",Marxist-Leninist,M-L,f,f,228,6
+41,QC,24048,Papineau,37975,"Young, Joseph",No Affiliation,Ind,f,f,95,7
+41,QC,24049,Pierrefonds--Dollard,37979,"Blanchette-Lamothe, Lysane",NDP-New Democratic Party,NDP,t,f,16390,1
+41,QC,24049,Pierrefonds--Dollard,37980,"Patry, Bernard",Liberal,Lib,f,f,14632,2
+41,QC,24049,Pierrefonds--Dollard,37982,"Evereklian, Agop",Conservative,Con,f,f,12901,3
+41,QC,24049,Pierrefonds--Dollard,37978,"Jolicoeur, Nicolas",Bloc Québécois,Bloc,f,f,2392,4
+41,QC,24049,Pierrefonds--Dollard,37981,"Lumer, Jonathan",Green Party,Grn,f,f,1710,5
+41,QC,24050,Pontiac,37987,"Ravignat, Mathieu",NDP-New Democratic Party,NDP,t,f,22376,1
+41,QC,24050,Pontiac,37985,"Cannon, Lawrence",Conservative,Con,f,f,14441,2
+41,QC,24050,Pontiac,37988,"Duncan McMillan, Cindy",Liberal,Lib,f,f,6242,3
+41,QC,24050,Pontiac,37984,"Tremblay, Maude",Bloc Québécois,Bloc,f,f,4917,4
+41,QC,24050,Pontiac,37983,"Mayrand, Louis-Philippe",Green Party,Grn,f,f,849,5
+41,QC,24050,Pontiac,37986,"Legros, Benoit",Marxist-Leninist,M-L,f,f,124,6
+41,QC,24051,Portneuf--Jacques-Cartier,37989,"Michaud, Élaine",NDP-New Democratic Party,NDP,t,f,22387,1
+41,QC,24051,Portneuf--Jacques-Cartier,37990,"Arthur, André",Independent,Ind,f,f,14594,2
+41,QC,24051,Portneuf--Jacques-Cartier,37993,"Côté, Richard",Bloc Québécois,Bloc,f,f,10745,3
+41,QC,24051,Portneuf--Jacques-Cartier,37992,"Thériault, Réjean",Liberal,Lib,f,f,3463,4
+41,QC,24051,Portneuf--Jacques-Cartier,37991,"Delorme, Claudine",Green Party,Grn,f,f,1279,5
+41,QC,24052,Québec,37995,"Papillon, Annick",NDP-New Democratic Party,NDP,t,f,22393,1
+41,QC,24052,Québec,37994,"Gagnon, Christiane",Bloc Québécois,Bloc,f,f,14684,2
+41,QC,24052,Québec,37996,"Morasse, Pierre",Conservative,Con,f,f,9330,3
+41,QC,24052,Québec,37998,"Payeur, François",Liberal,Lib,f,f,4735,4
+41,QC,24052,Québec,37997,"Dutil, Yvan",Green Party,Grn,f,f,1144,5
+41,QC,24052,Québec,37999,"Jetchick, Stefan",CHP Canada,CHP,f,f,228,6
+41,QC,24053,Repentigny,38002,"Larose, Jean-François",NDP-New Democratic Party,NDP,t,f,32131,1
+41,QC,24053,Repentigny,38004,"Dufour, Nicolas",Bloc Québécois,Bloc,f,f,19242,2
+41,QC,24053,Repentigny,38000,"Perreault, Chantal",Liberal,Lib,f,f,4830,3
+41,QC,24053,Repentigny,38003,"Royer, Christophe",Conservative,Con,f,f,4606,4
+41,QC,24053,Repentigny,38001,"Duchaine, Michel",Green Party,Grn,f,f,1078,5
+41,QC,24055,Richmond--Arthabaska,38011,"Bellavance, André",Bloc Québécois,Bloc,t,f,18033,1
+41,QC,24055,Richmond--Arthabaska,38012,"Maguire, Isabelle",NDP-New Democratic Party,NDP,f,f,17316,2
+41,QC,24055,Richmond--Arthabaska,38013,"Bachand, Jean-Philippe",Conservative,Con,f,f,13145,3
+41,QC,24055,Richmond--Arthabaska,38014,"Talbot, Marie-Josée",Liberal,Lib,f,f,3711,4
+41,QC,24055,Richmond--Arthabaska,38010,"Bombardier, Tomy",Green Party,Grn,f,f,1098,5
+41,QC,24056,Rimouski-Neigette--Témiscouata--Les Basques,38015,"Caron, Guy",NDP-New Democratic Party,NDP,t,f,18360,1
+41,QC,24056,Rimouski-Neigette--Témiscouata--Les Basques,38016,"Guimond, Claude",Bloc Québécois,Bloc,f,f,13170,2
+41,QC,24056,Rimouski-Neigette--Témiscouata--Les Basques,38018,"Denis, Bertin",Conservative,Con,f,f,6218,3
+41,QC,24056,Rimouski-Neigette--Témiscouata--Les Basques,38017,"Cadieux, Pierre",Liberal,Lib,f,f,4101,4
+41,QC,24056,Rimouski-Neigette--Témiscouata--Les Basques,38019,"Pelletier, Clément",Green Party,Grn,f,f,867,5
+41,QC,24057,Rivière-des-Mille-Îles,38023,"Liu, Laurin",NDP-New Democratic Party,NDP,t,f,25639,1
+41,QC,24057,Rivière-des-Mille-Îles,38020,"Desnoyers, Luc",Bloc Québécois,Bloc,f,f,14873,2
+41,QC,24057,Rivière-des-Mille-Îles,38024,"Joannette, Denis",Liberal,Lib,f,f,5300,3
+41,QC,24057,Rivière-des-Mille-Îles,38021,"Leblanc, Lucie",Conservative,Con,f,f,5057,4
+41,QC,24057,Rivière-des-Mille-Îles,38022,"Bisson, Gilles",Green Party,Grn,f,f,1229,5
+41,QC,24059,Rivière-du-Nord,38031,"Dionne Labelle, Pierre",NDP-New Democratic Party,NDP,t,f,29603,1
+41,QC,24059,Rivière-du-Nord,38033,"Guay, Monique",Bloc Québécois,Bloc,f,f,15105,2
+41,QC,24059,Rivière-du-Nord,38030,"Charron, Sylvain",Conservative,Con,f,f,4469,3
+41,QC,24059,Rivière-du-Nord,38034,"Juteau, Jonathan",Liberal,Lib,f,f,3400,4
+41,QC,24059,Rivière-du-Nord,38032,"Piché, René",Green Party,Grn,f,f,972,5
+41,QC,24060,Roberval--Lac-Saint-Jean,38036,"Lebel, Denis",Conservative,Con,t,f,18438,1
+41,QC,24060,Roberval--Lac-Saint-Jean,38038,"Guay, Yvon",NDP-New Democratic Party,NDP,f,f,11182,2
+41,QC,24060,Roberval--Lac-Saint-Jean,38037,"Pilote, Claude",Bloc Québécois,Bloc,f,f,8577,3
+41,QC,24060,Roberval--Lac-Saint-Jean,38039,"Garneau, Bernard",Liberal,Lib,f,f,1615,4
+41,QC,24060,Roberval--Lac-Saint-Jean,38035,"Simard, Steeve",Green Party,Grn,f,f,553,5
+41,QC,24061,Rosemont--La Petite-Patrie,38043,"Boulerice, Alexandre",NDP-New Democratic Party,NDP,t,f,27484,1
+41,QC,24061,Rosemont--La Petite-Patrie,38040,"Bigras, Bernard",Bloc Québécois,Bloc,f,f,17702,2
+41,QC,24061,Rosemont--La Petite-Patrie,38046,"Beauregard, Kettly",Liberal,Lib,f,f,4920,3
+41,QC,24061,Rosemont--La Petite-Patrie,38041,"Forté, Sébastien",Conservative,Con,f,f,2328,4
+41,QC,24061,Rosemont--La Petite-Patrie,38044,"Muldeen, Sameer",Green Party,Grn,f,f,899,5
+41,QC,24061,Rosemont--La Petite-Patrie,38042,"Berthiaume, Jean-Patrick",Rhinoceros,Rhino,f,f,417,6
+41,QC,24061,Rosemont--La Petite-Patrie,38045,"Chénier, Stéphane",Marxist-Leninist,M-L,f,f,140,7
+41,QC,24062,Saint-Bruno--Saint-Hubert,38050,"Sellah, Djaouida",NDP-New Democratic Party,NDP,t,f,24361,1
+41,QC,24062,Saint-Bruno--Saint-Hubert,38051,"Lavallée, Carole",Bloc Québécois,Bloc,f,f,15384,2
+41,QC,24062,Saint-Bruno--Saint-Hubert,38048,"Picard, Michel",Liberal,Lib,f,f,7423,3
+41,QC,24062,Saint-Bruno--Saint-Hubert,38047,"Charbonneau Barron, Nicole",Conservative,Con,f,f,5887,4
+41,QC,24062,Saint-Bruno--Saint-Hubert,38049,"Denoncourt, Germain",Green Party,Grn,f,f,1523,5
+41,QC,24063,Saint-Hyacinthe--Bagot,38052,"Morin, Marie-Claude",NDP-New Democratic Party,NDP,t,f,26963,1
+41,QC,24063,Saint-Hyacinthe--Bagot,38053,"Thi Lac, Ève-Mary Thaï",Bloc Québécois,Bloc,f,f,12651,2
+41,QC,24063,Saint-Hyacinthe--Bagot,38054,"Dagenais, Jean-Guy",Conservative,Con,f,f,8108,3
+41,QC,24063,Saint-Hyacinthe--Bagot,38055,"Vallée, Denis",Liberal,Lib,f,f,2784,4
+41,QC,24063,Saint-Hyacinthe--Bagot,38056,"Beaudoin-Bussières, Johany",Green Party,Grn,f,f,994,5
+41,QC,24064,Saint-Jean,38058,"Brahmi, Tarik",NDP-New Democratic Party,NDP,t,f,24943,1
+41,QC,24064,Saint-Jean,38060,"Bachand, Claude",Bloc Québécois,Bloc,f,f,16023,2
+41,QC,24064,Saint-Jean,38061,"Thouin, Jean",Conservative,Con,f,f,5603,3
+41,QC,24064,Saint-Jean,38057,"David, Robert",Liberal,Lib,f,f,4644,4
+41,QC,24064,Saint-Jean,38059,"Tremblay, Pierre",Green Party,Grn,f,f,1326,5
+41,QC,24065,Saint-Lambert,38064,"Groguhé, Sadia",NDP-New Democratic Party,NDP,t,f,18705,1
+41,QC,24065,Saint-Lambert,38065,"Beaudin, Josée",Bloc Québécois,Bloc,f,f,11353,2
+41,QC,24065,Saint-Lambert,38066,"Stanners, Roxane",Liberal,Lib,f,f,8463,3
+41,QC,24065,Saint-Lambert,38063,"Hamidi, Qais",Conservative,Con,f,f,4396,4
+41,QC,24065,Saint-Lambert,38062,"Budilean, Carmen",Green Party,Grn,f,f,944,5
+41,QC,24066,Saint-Laurent--Cartierville,38071,"Dion, Stéphane",Liberal,Lib,t,f,17726,1
+41,QC,24066,Saint-Laurent--Cartierville,38072,"Florez, Maria Ximena",NDP-New Democratic Party,NDP,f,f,11948,2
+41,QC,24066,Saint-Laurent--Cartierville,38068,"Litvin, Svetlana",Conservative,Con,f,f,7124,3
+41,QC,24066,Saint-Laurent--Cartierville,38069,"Fayad, William",Bloc Québécois,Bloc,f,f,2981,4
+41,QC,24066,Saint-Laurent--Cartierville,38067,"Landry, Tim",Green Party,Grn,f,f,857,5
+41,QC,24066,Saint-Laurent--Cartierville,38070,"Deschamps, Fernand",Marxist-Leninist,M-L,f,f,176,6
+41,QC,24067,Saint-Léonard--Saint-Michel,38074,"Pacetti, Massimo",Liberal,Lib,t,f,15340,1
+41,QC,24067,Saint-Léonard--Saint-Michel,38077,"Peressini, Roberta",NDP-New Democratic Party,NDP,f,f,11720,2
+41,QC,24067,Saint-Léonard--Saint-Michel,38078,"De Ioris, Riccardo",Conservative,Con,f,f,4991,3
+41,QC,24067,Saint-Léonard--Saint-Michel,38076,"Bernier, Alain",Bloc Québécois,Bloc,f,f,3396,4
+41,QC,24067,Saint-Léonard--Saint-Michel,38073,"Di Pardo, Michael",Green Party,Grn,f,f,657,5
+41,QC,24067,Saint-Léonard--Saint-Michel,38075,"Colly, Garnet",Marxist-Leninist,M-L,f,f,162,6
+41,QC,24068,Saint-Maurice--Champlain,38080,"St-Denis, Lise",NDP-New Democratic Party,NDP,t,f,18628,1
+41,QC,24068,Saint-Maurice--Champlain,38082,"Laforest, Jean-Yves",Bloc Québécois,Bloc,f,f,13961,2
+41,QC,24068,Saint-Maurice--Champlain,38081,"Grenier, Jacques",Conservative,Con,f,f,8447,3
+41,QC,24068,Saint-Maurice--Champlain,38079,"Tousignant, Yves",Liberal,Lib,f,f,5670,4
+41,QC,24068,Saint-Maurice--Champlain,38083,"Audette, Pierre",Green Party,Grn,f,f,972,5
+41,QC,24069,Shefford,38085,"Genest, Réjean",NDP-New Democratic Party,NDP,t,f,27575,1
+41,QC,24069,Shefford,38087,"Vincent, Robert",Bloc Québécois,Bloc,f,f,12615,2
+41,QC,24069,Shefford,38084,"Leclerc, Mélisa",Conservative,Con,f,f,7908,3
+41,QC,24069,Shefford,38086,"Demers, Bernard",Liberal,Lib,f,f,4855,4
+41,QC,24069,Shefford,38088,"Daoust, Patrick",Green Party,Grn,f,f,1022,5
+41,QC,24070,Sherbrooke,38093,"Dusseault, Pierre-Luc",NDP-New Democratic Party,NDP,t,f,22415,1
+41,QC,24070,Sherbrooke,38090,"Cardin, Serge",Bloc Québécois,Bloc,f,f,18665,2
+41,QC,24070,Sherbrooke,38091,"Deslauriers, Éric",Liberal,Lib,f,f,5020,3
+41,QC,24070,Sherbrooke,38094,"Harvey, Pierre",Conservative,Con,f,f,4784,4
+41,QC,24070,Sherbrooke,38092,"Laberge, Jacques",Green Party,Grn,f,f,894,5
+41,QC,24070,Sherbrooke,38089,"Landry, Crédible Berlingot",Rhinoceros,Rhino,f,f,233,6
+41,QC,24071,Terrebonne--Blainville,38098,"Borg, Charmaine",NDP-New Democratic Party,NDP,t,f,28260,1
+41,QC,24071,Terrebonne--Blainville,38095,"Bourgeois, Diane",Bloc Québécois,Bloc,f,f,17663,2
+41,QC,24071,Terrebonne--Blainville,38097,"Payment, Jean-Philippe",Conservative,Con,f,f,5236,3
+41,QC,24071,Terrebonne--Blainville,38099,"Frégeau, Robert",Liberal,Lib,f,f,4893,4
+41,QC,24071,Terrebonne--Blainville,38096,"Paulette, Michel",Green Party,Grn,f,f,1219,5
+41,QC,24072,Trois-Rivières,38103,"Aubin, Robert",NDP-New Democratic Party,NDP,t,f,26981,1
+41,QC,24072,Trois-Rivières,38100,"Brunelle, Paule",Bloc Québécois,Bloc,f,f,11987,2
+41,QC,24072,Trois-Rivières,38105,"Lacroix, Pierre",Conservative,Con,f,f,6205,3
+41,QC,24072,Trois-Rivières,38101,"Mangin, Patrice",Liberal,Lib,f,f,3617,4
+41,QC,24072,Trois-Rivières,38104,"Lacroix, Louis",Green Party,Grn,f,f,972,5
+41,QC,24072,Trois-Rivières,38106,"Fortin, Marc-André",Independent,Ind,f,f,346,6
+41,QC,24072,Trois-Rivières,38102,"Arsenault, Francis",Rhinoceros,Rhino,f,f,256,7
+41,QC,24073,Vaudreuil-Soulanges,38107,"Nicholls, Jamie",NDP-New Democratic Party,NDP,t,f,30177,1
+41,QC,24073,Vaudreuil-Soulanges,38109,"Faille, Meili",Bloc Québécois,Bloc,f,f,17781,2
+41,QC,24073,Vaudreuil-Soulanges,38108,"Boudreau, Marc",Conservative,Con,f,f,11360,3
+41,QC,24073,Vaudreuil-Soulanges,38111,"Pelchat, Lyne",Liberal,Lib,f,f,8023,4
+41,QC,24073,Vaudreuil-Soulanges,38110,"Massenet, Jean-Yves",Green Party,Grn,f,f,1864,5
+41,QC,24074,Verchères--Les Patriotes,38116,"Hassainia, Sana",NDP-New Democratic Party,NDP,t,f,24514,1
+41,QC,24074,Verchères--Les Patriotes,38114,"Malo, Luc",Bloc Québécois,Bloc,f,f,20593,2
+41,QC,24074,Verchères--Les Patriotes,38115,"Therrien-Péloquin, Pier-Luc",Liberal,Lib,f,f,5352,3
+41,QC,24074,Verchères--Les Patriotes,38113,"Alfaro, Rodrigo",Conservative,Con,f,f,4884,4
+41,QC,24074,Verchères--Les Patriotes,38112,"Lapierre, Thomas",Green Party,Grn,f,f,1259,5
+41,QC,24075,Westmount--Ville-Marie,38123,"Garneau, Marc",Liberal,Lib,t,f,15346,1
+41,QC,24075,Westmount--Ville-Marie,38120,"Corbeil, Joanne",NDP-New Democratic Party,NDP,f,f,14704,2
+41,QC,24075,Westmount--Ville-Marie,38118,"Drabkin, Neil",Conservative,Con,f,f,7218,3
+41,QC,24075,Westmount--Ville-Marie,38122,"Roy, Véronique",Bloc Québécois,Bloc,f,f,2278,4
+41,QC,24075,Westmount--Ville-Marie,38119,"Carkner, Andrew",Green Party,Grn,f,f,1516,5
+41,QC,24075,Westmount--Ville-Marie,38121,"Haliburton, Victoria",Rhinoceros,Rhino,f,f,140,6
+41,QC,24075,Westmount--Ville-Marie,38117,"Sloan, Bill",Communist,Com,f,f,73,7
+41,SK,47001,Battlefords--Lloydminster,38126,"Ritz, Gerry",Conservative,Con,t,f,19203,1
+41,SK,47001,Battlefords--Lloydminster,38124,"Tait, Glenn",NDP-New Democratic Party,NDP,f,f,7767,2
+41,SK,47001,Battlefords--Lloydminster,38125,"LaPlante, Jordan",Liberal,Lib,f,f,950,3
+41,SK,47001,Battlefords--Lloydminster,38127,"Kratchmer, Norbert",Green Party,Grn,f,f,785,4
+41,SK,47002,Blackstrap,38131,"Yelich, Lynne",Conservative,Con,t,f,23280,1
+41,SK,47002,Blackstrap,38128,"Moore, Darien",NDP-New Democratic Party,NDP,f,f,15769,2
+41,SK,47002,Blackstrap,38129,"Walker, Deborah J.",Liberal,Lib,f,f,2713,3
+41,SK,47002,Blackstrap,38130,"Setyo, Shawn",Green Party,Grn,f,f,1033,4
+41,SK,47004,Cypress Hills--Grasslands,38138,"Anderson, David",Conservative,Con,t,f,20555,1
+41,SK,47004,Cypress Hills--Grasslands,38139,"Peterson, Trevor",NDP-New Democratic Party,NDP,f,f,6248,2
+41,SK,47004,Cypress Hills--Grasslands,38136,"Filson, Duane",Liberal,Lib,f,f,1838,3
+41,SK,47004,Cypress Hills--Grasslands,38137,"Scott, Helmi",Green Party,Grn,f,f,788,4
+41,SK,47003,Desnethé--Missinippi--Churchill River,38133,"Clarke, Rob Gordon",Conservative,Con,t,f,10509,1
+41,SK,47003,Desnethé--Missinippi--Churchill River,38132,"Joseph, Lawrence",NDP-New Democratic Party,NDP,f,f,9715,2
+41,SK,47003,Desnethé--Missinippi--Churchill River,38135,"Lafond, Gabe",Liberal,Lib,f,f,1144,3
+41,SK,47003,Desnethé--Missinippi--Churchill River,38134,"Morin, George",Green Party,Grn,f,f,560,4
+41,SK,47005,Palliser,38142,"Boughen, Ray",Conservative,Con,t,f,15850,1
+41,SK,47005,Palliser,38140,"Evanchuk, Noah Patrick",NDP-New Democratic Party,NDP,f,f,15084,2
+41,SK,47005,Palliser,38141,"Collicott, Russ",Liberal,Lib,f,f,1797,3
+41,SK,47005,Palliser,38143,"Shasko, Larissa",Green Party,Grn,f,f,995,4
+41,SK,47006,Prince Albert,38145,"Hoback, Randy",Conservative,Con,t,f,19214,1
+41,SK,47006,Prince Albert,38148,"Mushinski, Valerie",NDP-New Democratic Party,NDP,f,f,9841,2
+41,SK,47006,Prince Albert,38147,"Wassill, Ron",Liberal,Lib,f,f,1070,3
+41,SK,47006,Prince Albert,38144,"Brazier, Myk",Green Party,Grn,f,f,666,4
+41,SK,47006,Prince Albert,38146,"Batley, Craig Leonard",CAP,CAP,f,f,116,5
+41,SK,47007,Regina--Lumsden--Lake Centre,38151,"Lukiwski, Tom",Conservative,Con,t,f,18076,1
+41,SK,47007,Regina--Lumsden--Lake Centre,38152,"Sklar, Brian",NDP-New Democratic Party,NDP,f,f,12518,2
+41,SK,47007,Regina--Lumsden--Lake Centre,38149,"Lysack, Monica",Liberal,Lib,f,f,2467,3
+41,SK,47007,Regina--Lumsden--Lake Centre,38150,"Patterson, Billy",Green Party,Grn,f,f,911,4
+41,SK,47008,Regina--Qu'Appelle,38153,"Scheer, Andrew",Conservative,Con,t,f,15896,1
+41,SK,47008,Regina--Qu'Appelle,38157,"Clipsham, Fred",NDP-New Democratic Party,NDP,f,f,11419,2
+41,SK,47008,Regina--Qu'Appelle,38154,"Miller, Jackie",Liberal,Lib,f,f,1400,3
+41,SK,47008,Regina--Qu'Appelle,38156,"Chatterson, Greg",Green Party,Grn,f,f,879,4
+41,SK,47008,Regina--Qu'Appelle,38155,"Breti, Jeff",Independent,Ind,f,f,127,5
+41,SK,47009,Saskatoon--Humboldt,38158,"Trost, Brad",Conservative,Con,t,f,19954,1
+41,SK,47009,Saskatoon--Humboldt,38160,"Kouri, Denise",NDP-New Democratic Party,NDP,f,f,13271,2
+41,SK,47009,Saskatoon--Humboldt,38159,"Hill, Darren",Liberal,Lib,f,f,3013,3
+41,SK,47009,Saskatoon--Humboldt,38162,"Finley, Sandra",Green Party,Grn,f,f,926,4
+41,SK,47009,Saskatoon--Humboldt,38161,"Pankiw, Jim",Independent,Ind,f,f,682,5
+41,SK,47010,Saskatoon--Rosetown--Biggar,38163,"Block, Kelly",Conservative,Con,t,f,14652,1
+41,SK,47010,Saskatoon--Rosetown--Biggar,38165,"Wiebe, Nettie",NDP-New Democratic Party,NDP,f,f,14114,2
+41,SK,47010,Saskatoon--Rosetown--Biggar,38166,"Reaney, Lee",Liberal,Lib,f,f,697,3
+41,SK,47010,Saskatoon--Rosetown--Biggar,38164,"Strelioff, Vicki",Green Party,Grn,f,f,626,4
+41,SK,47011,Saskatoon--Wanuskewin,38167,"Vellacott, Maurice",Conservative,Con,t,f,21183,1
+41,SK,47011,Saskatoon--Wanuskewin,38169,"Parry, John",NDP-New Democratic Party,NDP,f,f,11395,2
+41,SK,47011,Saskatoon--Wanuskewin,38170,"Zipchen, Patricia",Liberal,Lib,f,f,2428,3
+41,SK,47011,Saskatoon--Wanuskewin,38168,"Bigland-Pritchard, Mark",Green Party,Grn,f,f,1250,4
+41,SK,47012,Souris--Moose Mountain,38173,"Komarnicki, Ed",Conservative,Con,t,f,21598,1
+41,SK,47012,Souris--Moose Mountain,38174,"Arthur, Allan",NDP-New Democratic Party,NDP,f,f,5461,2
+41,SK,47012,Souris--Moose Mountain,38172,"Borrowman, Gerald",Liberal,Lib,f,f,1236,3
+41,SK,47012,Souris--Moose Mountain,38171,"Deptuck, Bob",Green Party,Grn,f,f,898,4
+41,SK,47013,Wascana,38175,"Goodale, Ralph",Liberal,Lib,t,f,15823,1
+41,SK,47013,Wascana,38176,"Shields, Ian",Conservative,Con,f,f,14291,2
+41,SK,47013,Wascana,38177,"Spooner, Marc",NDP-New Democratic Party,NDP,f,f,7681,3
+41,SK,47013,Wascana,38178,"Clary, Bill",Green Party,Grn,f,f,954,4
+41,SK,47014,Yorkton--Melville,38181,"Breitkreuz, Garry",Conservative,Con,t,f,21906,1
+41,SK,47014,Yorkton--Melville,38179,"Ottenbreit, Douglas",NDP-New Democratic Party,NDP,f,f,6931,2
+41,SK,47014,Yorkton--Melville,38180,"Andreychuk, Kash",Liberal,Lib,f,f,2167,3
+41,SK,47014,Yorkton--Melville,38182,"Hughes, Elaine",Green Party,Grn,f,f,774,4
+41,YK,60001,Yukon,38184,"Leef, Ryan",Conservative,Con,t,f,5422,1
+41,YK,60001,Yukon,38183,"Bagnell, Larry",Liberal,Lib,f,f,5290,2
+41,YK,60001,Yukon,38186,"Streicker, John",Green Party,Grn,f,f,3037,3
+41,YK,60001,Yukon,38185,"Barr, Kevin",NDP-New Democratic Party,NDP,f,f,2308,4

@@ -13,10 +13,14 @@ preliminary = rawData/preliminary_43.csv
 
 election_nums := 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 \
 	21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43
-csvs = $(foreach e,${election_nums},csv/election_${e}) csv/elections.csv
+csvs = $(foreach e,${election_nums},csv/election_${e}.csv) \
+		csv/elections.csv \
+		csv/parties.csv \
+		csv/provinces.csv
 
 
-all:	.rawDataLoaded
+all:	${csvs}
+
 #
 # The tool to connect to the Postgresql database.  You'll need to define a service
 # with your own credentials in the .pg_service.conf file.
@@ -56,10 +60,17 @@ csv/election_%.csv: .rawDataLoaded
 csv/elections.csv: .rawDataLoaded
 	${PSQL} -c "\copy (select * from _elections.csv(0)) to $@ (FORMAT csv, header)"
 
+csv/parties.csv: .rawDataLoaded
+	${PSQL} -c "\copy (select * from _elections.parties order by party_name) to $@ (FORMAT csv, header)"
+
+csv/provinces.csv: .rawDataLoaded
+	${PSQL} -c "\copy (select * from _elections.provinces order by prov_name) to $@ (FORMAT csv, header)"
+
 
 
 clean:
 	-rm work/*
-	-rm .rawDataLoaded 
+	-rm .rawDataLoaded
+	-rm csv/*
 
 # $(filter-out clean_combine_polls.sh,$+)

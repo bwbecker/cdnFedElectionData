@@ -1,0 +1,1686 @@
+election_id,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_party_name,party_code,elected,acclaimed,votes,place
+38,AB,1,ATHABASCA,31694,"Jean, Brian",Conservative Party of Canada,Con,t,f,17942,1
+38,AB,1,ATHABASCA,31697,"Faulkner, Doug",Liberal,Lib,f,f,7158,2
+38,AB,1,ATHABASCA,31696,"Cree, Robert",New Democratic Party,NDP,f,f,3115,3
+38,AB,1,ATHABASCA,31695,"Hopfe, Ian",Green Party of Canada,Grn,f,f,1542,4
+38,AB,2,CALGARY EAST,31698,"Obhrai, Deepak",Conservative Party of Canada,Con,t,f,21897,1
+38,AB,2,CALGARY EAST,31701,"Maxim, James",Liberal,Lib,f,f,7621,2
+38,AB,2,CALGARY EAST,31699,"Thomas, Elizabeth",New Democratic Party,NDP,f,f,3535,3
+38,AB,2,CALGARY EAST,31702,"Christie, Dean",Green Party of Canada,Grn,f,f,2529,4
+38,AB,2,CALGARY EAST,31700,"Devine, Jason",Communist Party of Canada,Com,f,f,245,5
+38,AB,3,CALGARY NORTH CENTRE,31703,"Prentice, Jim",Conservative Party of Canada,Con,t,f,28143,1
+38,AB,3,CALGARY NORTH CENTRE,31705,"McClusky, Cathy",Liberal,Lib,f,f,11093,2
+38,AB,3,CALGARY NORTH CENTRE,31706,"Chan, John",New Democratic Party,NDP,f,f,6298,3
+38,AB,3,CALGARY NORTH CENTRE,31704,"MacGillivray, Mark",Green Party of Canada,Grn,f,f,5840,4
+38,AB,3,CALGARY NORTH CENTRE,31707,"Falconar, Michael",Independent,Ind,f,f,380,5
+38,AB,3,CALGARY NORTH CENTRE,31708,"Askin, Margaret",Marxist-Leninist Party,M-L,f,f,184,6
+38,AB,4,CALGARY NORTHEAST,31709,"Hanger, Art",Conservative Party of Canada,Con,t,f,21924,1
+38,AB,4,CALGARY NORTHEAST,31712,"Muti, Dale",Liberal,Lib,f,f,8672,2
+38,AB,4,CALGARY NORTHEAST,31713,"Cattabeni, Giorgio",New Democratic Party,NDP,f,f,2682,3
+38,AB,4,CALGARY NORTHEAST,31710,"DuFord, Morgan",Green Party of Canada,Grn,f,f,1658,4
+38,AB,4,CALGARY NORTHEAST,31711,"Garland, Steve",Canadian Action Party,CAP,f,f,291,5
+38,AB,5,CALGARY SOUTH CENTRE,31714,"Richardson, Lee",Conservative Party of Canada,Con,t,f,26192,1
+38,AB,5,CALGARY SOUTH CENTRE,31716,"Turnbull, Julia",Liberal,Lib,f,f,15305,2
+38,AB,5,CALGARY SOUTH CENTRE,31718,"Liesemer, Phillip",Green Party of Canada,Grn,f,f,5080,3
+38,AB,5,CALGARY SOUTH CENTRE,31717,"Purdy, Keith",New Democratic Party,NDP,f,f,4350,4
+38,AB,5,CALGARY SOUTH CENTRE,31715,"Grover, Trevor",Canadian Action Party,CAP,f,f,274,5
+38,AB,6,CALGARY SOUTHEAST,31719,"Kenney, Jason",Conservative Party of Canada,Con,t,f,36843,1
+38,AB,6,CALGARY SOUTHEAST,31720,"Tanner, Jim",Liberal,Lib,f,f,8488,2
+38,AB,6,CALGARY SOUTHEAST,31721,"Pincott, Brian",New Democratic Party,NDP,f,f,3419,3
+38,AB,6,CALGARY SOUTHEAST,31722,"Read, George",Green Party of Canada,Grn,f,f,3142,4
+38,AB,7,CALGARY SOUTHWEST,31723,"Harper, Stephen",Conservative Party of Canada,Con,t,f,35297,1
+38,AB,7,CALGARY SOUTHWEST,31724,"Roberts, Avalon",Liberal,Lib,f,f,9501,2
+38,AB,7,CALGARY SOUTHWEST,31727,"Kraus, Darcy",Green Party of Canada,Grn,f,f,3210,3
+38,AB,7,CALGARY SOUTHWEST,31728,"Fox, Daria",New Democratic Party,NDP,f,f,2884,4
+38,AB,7,CALGARY SOUTHWEST,31725,"de Pelham, Mark",Marijuana Party,Marij,f,f,516,5
+38,AB,7,CALGARY SOUTHWEST,31726,"Heather, Larry",Christian Heritage Party of Canada,CHP,f,f,229,6
+38,AB,8,CALGARY WEST,31729,"Anders, Rob",Conservative Party of Canada,Con,t,f,31322,1
+38,AB,8,CALGARY WEST,31732,"Thompson, Justin",Liberal,Lib,f,f,16402,2
+38,AB,8,CALGARY WEST,31733,"Roberts, Danielle",Green Party of Canada,Grn,f,f,4274,3
+38,AB,8,CALGARY WEST,31730,"Patterson, Tim",New Democratic Party,NDP,f,f,3632,4
+38,AB,8,CALGARY WEST,31734,"Kohut, James",Canadian Action Party,CAP,f,f,315,5
+38,AB,8,CALGARY WEST,31731,"Vachon, André",Marxist-Leninist Party,M-L,f,f,87,6
+38,AB,9,CALGARY--NOSE HILL,31735,"Ablonczy, Diane",Conservative Party of Canada,Con,t,f,31088,1
+38,AB,9,CALGARY--NOSE HILL,31738,"Haney, Ted",Liberal,Lib,f,f,11051,2
+38,AB,9,CALGARY--NOSE HILL,31737,"Dey, Vinay",New Democratic Party,NDP,f,f,3250,3
+38,AB,9,CALGARY--NOSE HILL,31736,"Larson, Richard",Green Party of Canada,Grn,f,f,2898,4
+38,AB,10,CROWFOOT,31739,"Sorenson, Kevin",Conservative Party of Canada,Con,t,f,37649,1
+38,AB,10,CROWFOOT,31741,"Campbell, Adam",Liberal,Lib,f,f,3615,2
+38,AB,10,CROWFOOT,31742,"Parker, Ellen",New Democratic Party,NDP,f,f,3241,3
+38,AB,10,CROWFOOT,31743,"Baker, Arnold",Green Party of Canada,Grn,f,f,1795,4
+38,AB,10,CROWFOOT,31740,"Cornelssen, Max",Marijuana Party,Marij,f,f,639,5
+38,AB,11,EDMONTON CENTRE,31744,"McLellan, Anne",Liberal,Lib,t,f,22560,1
+38,AB,11,EDMONTON CENTRE,31747,"Hawn, Laurie",Conservative Party of Canada,Con,f,f,21839,2
+38,AB,11,EDMONTON CENTRE,31748,"McMaster, Meghan",New Democratic Party,NDP,f,f,4836,3
+38,AB,11,EDMONTON CENTRE,31749,"Parker, David",Green Party of Canada,Grn,f,f,2584,4
+38,AB,11,EDMONTON CENTRE,31750,"Kenny, Lyle",Marijuana Party,Marij,f,f,509,5
+38,AB,11,EDMONTON CENTRE,31751,"Tisdall, Sean",Progressive Canadian Party,PCdnP,f,f,456,6
+38,AB,11,EDMONTON CENTRE,31746,"Baloun, John",Independent,Ind,f,f,221,7
+38,AB,11,EDMONTON CENTRE,31745,"Morton, Peggy",Marxist-Leninist Party,M-L,f,f,78,8
+38,AB,12,EDMONTON EAST,31752,"Goldring, Peter",Conservative Party of Canada,Con,t,f,20224,1
+38,AB,12,EDMONTON EAST,31755,"Bethel, John",Liberal,Lib,f,f,14250,2
+38,AB,12,EDMONTON EAST,31753,"Strudwick, Janina",New Democratic Party,NDP,f,f,6464,3
+38,AB,12,EDMONTON EAST,31756,"Light, Harlan",Green Party of Canada,Grn,f,f,2471,4
+38,AB,12,EDMONTON EAST,31754,"Spronk, Ed",Christian Heritage Party of Canada,CHP,f,f,538,5
+38,AB,13,EDMONTON--BEAUMONT,31757,"Kilgour, David",Liberal,Lib,t,f,17555,1
+38,AB,13,EDMONTON--BEAUMONT,31758,"Uppal, Tim",Conservative Party of Canada,Con,f,f,17421,2
+38,AB,13,EDMONTON--BEAUMONT,31759,"Reikie, Paul",New Democratic Party,NDP,f,f,3975,3
+38,AB,13,EDMONTON--BEAUMONT,31761,"Garfinkle, Michael",Green Party of Canada,Grn,f,f,1911,4
+38,AB,13,EDMONTON--BEAUMONT,31760,"Rankin, Naomi",Communist Party of Canada,Com,f,f,135,5
+38,AB,14,EDMONTON--LEDUC,31762,"Rajotte, James",Conservative Party of Canada,Con,t,f,26791,1
+38,AB,14,EDMONTON--LEDUC,31764,"King, Bruce",Liberal,Lib,f,f,14269,2
+38,AB,14,EDMONTON--LEDUC,31765,"McLachlan, Doug",New Democratic Party,NDP,f,f,4581,3
+38,AB,14,EDMONTON--LEDUC,31763,"Sinclair, Bruce",Green Party of Canada,Grn,f,f,3029,4
+38,AB,15,EDMONTON--SHERWOOD PARK,31766,"Epp, Ken",Conservative Party of Canada,Con,t,f,27222,1
+38,AB,15,EDMONTON--SHERWOOD PARK,31769,"Towns, Maureen",Liberal,Lib,f,f,11519,2
+38,AB,15,EDMONTON--SHERWOOD PARK,31768,"Harwood, Chris",New Democratic Party,NDP,f,f,5155,3
+38,AB,15,EDMONTON--SHERWOOD PARK,31767,"Marean, Margaret",Green Party of Canada,Grn,f,f,3146,4
+38,AB,16,EDMONTON--SPRUCE GROVE,31770,"Ambrose, Rona",Conservative Party of Canada,Con,t,f,30497,1
+38,AB,16,EDMONTON--SPRUCE GROVE,31772,"Mather, Neil",Liberal,Lib,f,f,12912,2
+38,AB,16,EDMONTON--SPRUCE GROVE,31773,"Phillips, Hayley",New Democratic Party,NDP,f,f,4508,3
+38,AB,16,EDMONTON--SPRUCE GROVE,31771,"Paschen, Jerry",Green Party of Canada,Grn,f,f,2572,4
+38,AB,17,EDMONTON--ST. ALBERT,31774,"Williams, John",Conservative Party of Canada,Con,t,f,29508,1
+38,AB,17,EDMONTON--ST. ALBERT,31776,"Saeed, Moe",Liberal,Lib,f,f,12359,2
+38,AB,17,EDMONTON--ST. ALBERT,31775,"Melymick, Mike",New Democratic Party,NDP,f,f,5927,3
+38,AB,17,EDMONTON--ST. ALBERT,31777,"Bitangcol, Conrad",Green Party of Canada,Grn,f,f,3387,4
+38,AB,18,EDMONTON--STRATHCONA,31778,"Jaffer, Rahim",Conservative Party of Canada,Con,t,f,19089,1
+38,AB,18,EDMONTON--STRATHCONA,31783,"Carlson, Debby",Liberal,Lib,f,f,14057,2
+38,AB,18,EDMONTON--STRATHCONA,31782,"Azania, Malcolm",New Democratic Party,NDP,f,f,11535,3
+38,AB,18,EDMONTON--STRATHCONA,31779,"Wakefield, Cameron",Green Party of Canada,Grn,f,f,3146,4
+38,AB,18,EDMONTON--STRATHCONA,31780,"Dowling, Dave",Marijuana Party,Marij,f,f,519,5
+38,AB,18,EDMONTON--STRATHCONA,31781,"Hunter, Kevan",Marxist-Leninist Party,M-L,f,f,103,6
+38,AB,19,LETHBRIDGE,31784,"Casson, Rick",Conservative Party of Canada,Con,t,f,29765,1
+38,AB,19,LETHBRIDGE,31787,"Nicol, Ken",Liberal,Lib,f,f,10250,2
+38,AB,19,LETHBRIDGE,31788,"Thomas, Melanee",New Democratic Party,NDP,f,f,4623,3
+38,AB,19,LETHBRIDGE,31785,"Matthews, Erin",Green Party of Canada,Grn,f,f,1262,4
+38,AB,19,LETHBRIDGE,31789,"Vanden Broek, Ken",Christian Heritage Party of Canada,CHP,f,f,1079,5
+38,AB,19,LETHBRIDGE,31786,"Sobie, Dustin",Marijuana Party,Marij,f,f,553,6
+38,AB,20,MACLEOD,31790,"Menzies, Ted",Conservative Party of Canada,Con,t,f,32232,1
+38,AB,20,MACLEOD,31793,"Shade, Chris",Liberal,Lib,f,f,5214,2
+38,AB,20,MACLEOD,31792,"Fadeeff, Laurel",Green Party of Canada,Grn,f,f,2865,3
+38,AB,20,MACLEOD,31791,"Thomas, Joyce",New Democratic Party,NDP,f,f,2802,4
+38,AB,21,MEDICINE HAT,31794,"Solberg, Monte",Conservative Party of Canada,Con,t,f,30241,1
+38,AB,21,MEDICINE HAT,31796,"Cocks, Bill",Liberal,Lib,f,f,4331,2
+38,AB,21,MEDICINE HAT,31797,"Stroh, Betty",New Democratic Party,NDP,f,f,3643,3
+38,AB,21,MEDICINE HAT,31795,"Dodd, Kevin",Green Party of Canada,Grn,f,f,1498,4
+38,AB,22,PEACE RIVER,31798,"Penson, Charlie",Conservative Party of Canada,Con,t,f,28158,1
+38,AB,22,PEACE RIVER,31801,"Carlstrom, Lyle",Liberal,Lib,f,f,8200,2
+38,AB,22,PEACE RIVER,31800,"Thompson, Susan",New Democratic Party,NDP,f,f,4804,3
+38,AB,22,PEACE RIVER,31799,"Pettit, Benjamin",Green Party of Canada,Grn,f,f,2073,4
+38,AB,23,RED DEER,31802,"Mills, Bob",Conservative Party of Canada,Con,t,f,33510,1
+38,AB,23,RED DEER,31803,"Kurata, Luke",Liberal,Lib,f,f,5294,2
+38,AB,23,RED DEER,31804,"Sloychuk, Jeff",New Democratic Party,NDP,f,f,3500,3
+38,AB,23,RED DEER,31805,"Marks, Garfield John",Green Party of Canada,Grn,f,f,2142,4
+38,AB,23,RED DEER,31806,"Cormack, Teena",Canadian Action Party,CAP,f,f,353,5
+38,AB,24,VEGREVILLE--WAINWRIGHT,31807,"Benoit, Leon",Conservative Party of Canada,Con,t,f,33800,1
+38,AB,24,VEGREVILLE--WAINWRIGHT,31809,"Stewart, Duff",Liberal,Lib,f,f,5390,2
+38,AB,24,VEGREVILLE--WAINWRIGHT,31808,"Legault, Len",New Democratic Party,NDP,f,f,3793,3
+38,AB,24,VEGREVILLE--WAINWRIGHT,31810,"Kenney, James (Jim)",Green Party of Canada,Grn,f,f,2976,4
+38,AB,25,WESTLOCK--ST. PAUL,31811,"Chatters, Dave",Conservative Party of Canada,Con,t,f,26433,1
+38,AB,25,WESTLOCK--ST. PAUL,31812,"Dion, Joe",Liberal,Lib,f,f,7619,2
+38,AB,25,WESTLOCK--ST. PAUL,31813,"Kirkeby, Peggy",New Democratic Party,NDP,f,f,3480,3
+38,AB,25,WESTLOCK--ST. PAUL,31814,"McDonald, John",Green Party of Canada,Grn,f,f,2036,4
+38,AB,26,WETASKIWIN,31815,"Johnston, Dale",Conservative Party of Canada,Con,t,f,31404,1
+38,AB,26,WETASKIWIN,31816,"Bonnett, Rick",Liberal,Lib,f,f,5088,2
+38,AB,26,WETASKIWIN,31818,"Robson, Tim",New Democratic Party,NDP,f,f,3090,3
+38,AB,26,WETASKIWIN,31817,"Lampman, Tom",Green Party of Canada,Grn,f,f,2642,4
+38,AB,26,WETASKIWIN,31819,"McKelvie, Brent",Canadian Action Party,CAP,f,f,410,5
+38,AB,27,WILD ROSE,31820,"Thompson, Myron",Conservative Party of Canada,Con,t,f,33337,1
+38,AB,27,WILD ROSE,31823,"Stewart, Judy",Liberal,Lib,f,f,5971,2
+38,AB,27,WILD ROSE,31822,"Horvath, Jeff",New Democratic Party,NDP,f,f,4009,3
+38,AB,27,WILD ROSE,31821,"Foote, Chris",Green Party of Canada,Grn,f,f,3904,4
+38,AB,28,YELLOWHEAD,31824,"Merrifield, Rob",Conservative Party of Canada,Con,t,f,26503,1
+38,AB,28,YELLOWHEAD,31825,"Crossley, Peter",Liberal,Lib,f,f,4441,2
+38,AB,28,YELLOWHEAD,31827,"Lapierre, Noel",New Democratic Party,NDP,f,f,4429,3
+38,AB,28,YELLOWHEAD,31828,"Stieglitz, Eric",Green Party of Canada,Grn,f,f,2534,4
+38,AB,28,YELLOWHEAD,31826,"Strydhorst, Jacob",Christian Heritage Party of Canada,CHP,f,f,721,5
+38,BC,1,ABBOTSFORD,31829,"White, Randy",Conservative Party of Canada,Con,t,f,29587,1
+38,BC,1,ABBOTSFORD,31831,"Gill, Moe",Liberal,Lib,f,f,9617,2
+38,BC,1,ABBOTSFORD,31833,"Fast, Scott",New Democratic Party,NDP,f,f,6575,3
+38,BC,1,ABBOTSFORD,31834,"Hann, Karl",Green Party of Canada,Grn,f,f,1389,4
+38,BC,1,ABBOTSFORD,31835,"Ludwig, Harold",Christian Heritage Party of Canada,CHP,f,f,585,5
+38,BC,1,ABBOTSFORD,31832,"Felger, Tim",Marijuana Party,Marij,f,f,404,6
+38,BC,1,ABBOTSFORD,31830,"MacKay, David",Marxist-Leninist Party,M-L,f,f,51,7
+38,BC,2,BURNABY--DOUGLAS,31836,"Siksay, Bill",New Democratic Party,NDP,t,f,15682,1
+38,BC,2,BURNABY--DOUGLAS,31839,"Cunningham, Bill",Liberal,Lib,f,f,14748,2
+38,BC,2,BURNABY--DOUGLAS,31838,"Drazenovic, George",Conservative Party of Canada,Con,f,f,12531,3
+38,BC,2,BURNABY--DOUGLAS,31840,"Hunsdale, Shawn",Green Party of Canada,Grn,f,f,1687,4
+38,BC,2,BURNABY--DOUGLAS,31841,"Desaulniers, Adam",Libertarian Party of Canada,Libtar,f,f,291,5
+38,BC,2,BURNABY--DOUGLAS,31837,"Cerminara, Frank",Independent,Ind,f,f,282,6
+38,BC,2,BURNABY--DOUGLAS,31842,"Gidora, Hanne",Communist Party of Canada,Com,f,f,122,7
+38,BC,3,BURNABY--NEW WESTMINSTER,31843,"Julian, Peter",New Democratic Party,NDP,t,f,14061,1
+38,BC,3,BURNABY--NEW WESTMINSTER,31845,"Pynenburg, Mary",Liberal,Lib,f,f,13732,2
+38,BC,3,BURNABY--NEW WESTMINSTER,31846,"Redmond, Mike",Conservative Party of Canada,Con,f,f,11821,3
+38,BC,3,BURNABY--NEW WESTMINSTER,31847,"Kunz, Revel",Green Party of Canada,Grn,f,f,1606,4
+38,BC,3,BURNABY--NEW WESTMINSTER,31848,"Green, Dana",Canadian Action Party,CAP,f,f,312,5
+38,BC,3,BURNABY--NEW WESTMINSTER,31844,"Horváth, Péter Pál",Communist Party of Canada,Com,f,f,166,6
+38,BC,4,CARIBOO--PRINCE GEORGE,31849,"Harris, Dick",Conservative Party of Canada,Con,t,f,19721,1
+38,BC,4,CARIBOO--PRINCE GEORGE,31851,"Smith, Rick",New Democratic Party,NDP,f,f,11183,2
+38,BC,4,CARIBOO--PRINCE GEORGE,31852,"Saini, Gurbux",Liberal,Lib,f,f,8397,3
+38,BC,4,CARIBOO--PRINCE GEORGE,31850,"Gook, Douglas",Green Party of Canada,Grn,f,f,1798,4
+38,BC,4,CARIBOO--PRINCE GEORGE,31853,"Orr, Mike",Independent,Ind,f,f,478,5
+38,BC,4,CARIBOO--PRINCE GEORGE,31854,"Collins, Bev",Canadian Action Party,CAP,f,f,408,6
+38,BC,4,CARIBOO--PRINCE GEORGE,31855,"Paetkau, Jeff",Libertarian Party of Canada,Libtar,f,f,148,7
+38,BC,4,CARIBOO--PRINCE GEORGE,31856,"Chapman, Carol",Marxist-Leninist Party,M-L,f,f,79,8
+38,BC,5,CHILLIWACK--FRASER CANYON,31857,"Strahl, Chuck",Conservative Party of Canada,Con,t,f,24096,1
+38,BC,5,CHILLIWACK--FRASER CANYON,31859,"Keith, Rollie",New Democratic Party,NDP,f,f,9244,2
+38,BC,5,CHILLIWACK--FRASER CANYON,31861,"Besner, Bob",Liberal,Lib,f,f,8249,3
+38,BC,5,CHILLIWACK--FRASER CANYON,31862,"Coghlan, Aisha",Green Party of Canada,Grn,f,f,1449,4
+38,BC,5,CHILLIWACK--FRASER CANYON,31863,"Gray, Ron",Christian Heritage Party of Canada,CHP,f,f,1156,5
+38,BC,5,CHILLIWACK--FRASER CANYON,31858,"Siefken, Norm",Marijuana Party,Marij,f,f,603,6
+38,BC,5,CHILLIWACK--FRASER CANYON,31860,"O'Donnell, Dorothy-Jean",Marxist-Leninist Party,M-L,f,f,95,7
+38,BC,6,DELTA--RICHMOND EAST,31864,"Cummins, John",Conservative Party of Canada,Con,t,f,21308,1
+38,BC,6,DELTA--RICHMOND EAST,31867,"Leonhardt, Shelley",Liberal,Lib,f,f,15515,2
+38,BC,6,DELTA--RICHMOND EAST,31866,"Syed, Itrath",New Democratic Party,NDP,f,f,6838,3
+38,BC,6,DELTA--RICHMOND EAST,31865,"Miller, Dana",Green Party of Canada,Grn,f,f,3066,4
+38,BC,7,DEWDNEY--ALOUETTE,31868,"Kamp, Randy",Conservative Party of Canada,Con,t,f,18490,1
+38,BC,7,DEWDNEY--ALOUETTE,31870,"Bocking, Mike",New Democratic Party,NDP,f,f,15693,2
+38,BC,7,DEWDNEY--ALOUETTE,31871,"Juneau, Blanche",Liberal,Lib,f,f,10500,3
+38,BC,7,DEWDNEY--ALOUETTE,31872,"Meyer, Tammy Lea",Green Party of Canada,Grn,f,f,2535,4
+38,BC,7,DEWDNEY--ALOUETTE,31869,"Etches, Scott",No affiliation to a recognised party,Ind,f,f,798,5
+38,BC,8,ESQUIMALT--JUAN DE FUCA,31873,"Martin, Keith",Liberal,Lib,t,f,19389,1
+38,BC,8,ESQUIMALT--JUAN DE FUCA,31875,"Garrison, Randall",New Democratic Party,NDP,f,f,16821,2
+38,BC,8,ESQUIMALT--JUAN DE FUCA,31876,"Koury, John",Conservative Party of Canada,Con,f,f,13271,3
+38,BC,8,ESQUIMALT--JUAN DE FUCA,31877,"Sterk, Jane",Green Party of Canada,Grn,f,f,5078,4
+38,BC,8,ESQUIMALT--JUAN DE FUCA,31878,"Fisher-Bradley, Jen",Independent,Ind,f,f,229,5
+38,BC,8,ESQUIMALT--JUAN DE FUCA,31874,"Giles, Shawn  W.",Canadian Action Party,CAP,f,f,141,6
+38,BC,9,FLEETWOOD--PORT KELLS,31879,"Grewal, Nina",Conservative Party of Canada,Con,t,f,14052,1
+38,BC,9,FLEETWOOD--PORT KELLS,31880,"Cheema, Gulzar",Liberal,Lib,f,f,11568,2
+38,BC,9,FLEETWOOD--PORT KELLS,31881,"Bell, Barry",New Democratic Party,NDP,f,f,10976,3
+38,BC,9,FLEETWOOD--PORT KELLS,31882,"Walters, David",Green Party of Canada,Grn,f,f,2484,4
+38,BC,9,FLEETWOOD--PORT KELLS,31883,"Theriault, Joseph",Marxist-Leninist Party,M-L,f,f,167,5
+38,BC,10,KAMLOOPS--THOMPSON,31884,"Hinton, Betty",Conservative Party of Canada,Con,t,f,20611,1
+38,BC,10,KAMLOOPS--THOMPSON,31887,"O'Fee, John",Liberal,Lib,f,f,14434,2
+38,BC,10,KAMLOOPS--THOMPSON,31888,"Carroll, Brian",New Democratic Party,NDP,f,f,13379,3
+38,BC,10,KAMLOOPS--THOMPSON,31886,"Fraser, Grant",Green Party of Canada,Grn,f,f,2213,4
+38,BC,10,KAMLOOPS--THOMPSON,31885,"Singh, Arjun",Independent,Ind,f,f,440,5
+38,BC,11,KELOWNA,31889,"Schmidt, Werner",Conservative Party of Canada,Con,t,f,25553,1
+38,BC,11,KELOWNA,31890,"Nielson, Vern",Liberal,Lib,f,f,14109,2
+38,BC,11,KELOWNA,31891,"Grass, Starleigh",New Democratic Party,NDP,f,f,8954,3
+38,BC,11,KELOWNA,31892,"Ade, Kevin",Green Party of Canada,Grn,f,f,3903,4
+38,BC,11,KELOWNA,31894,"Plourde, Huguette",Marijuana Party,Marij,f,f,447,5
+38,BC,11,KELOWNA,31893,"Cassidyne-Hook, Michael",Canadian Action Party,CAP,f,f,271,6
+38,BC,12,KOOTENAY--COLUMBIA,31895,"Abbott, Jim",Conservative Party of Canada,Con,t,f,21336,1
+38,BC,12,KOOTENAY--COLUMBIA,31896,"Bush, Brent",New Democratic Party,NDP,f,f,9772,2
+38,BC,12,KOOTENAY--COLUMBIA,31897,"Priest, Ross",Liberal,Lib,f,f,7351,3
+38,BC,12,KOOTENAY--COLUMBIA,31898,"Gustafson, Carmen",Green Party of Canada,Grn,f,f,2558,4
+38,BC,13,LANGLEY,31899,"Warawa, Mark",Conservative Party of Canada,Con,t,f,24390,1
+38,BC,13,LANGLEY,31901,"Richter, Kim",Liberal,Lib,f,f,12649,2
+38,BC,13,LANGLEY,31902,"Morrison, Dean",New Democratic Party,NDP,f,f,8568,3
+38,BC,13,LANGLEY,31903,"Meyer, Patrick",Green Party of Canada,Grn,f,f,3108,4
+38,BC,13,LANGLEY,31900,"Kositsky, Mel",Independent,Ind,f,f,2422,5
+38,BC,14,NANAIMO--ALBERNI,31904,"Lunney, James",Conservative Party of Canada,Con,t,f,23158,1
+38,BC,14,NANAIMO--ALBERNI,31905,"Fraser, Scott",New Democratic Party,NDP,f,f,19152,2
+38,BC,14,NANAIMO--ALBERNI,31907,"Chopra, Hira",Liberal,Lib,f,f,11770,3
+38,BC,14,NANAIMO--ALBERNI,31908,"Wright, David",Green Party of Canada,Grn,f,f,4357,4
+38,BC,14,NANAIMO--ALBERNI,31909,"Mann, Michael",Marijuana Party,Marij,f,f,560,5
+38,BC,14,NANAIMO--ALBERNI,31910,"Lifton, Diana",Canadian Action Party,CAP,f,f,201,6
+38,BC,14,NANAIMO--ALBERNI,31906,"Biley, Barbara",Marxist-Leninist Party,M-L,f,f,80,7
+38,BC,15,NANAIMO--COWICHAN,31911,"Crowder, Jean",New Democratic Party,NDP,t,f,25243,1
+38,BC,15,NANAIMO--COWICHAN,31912,"Quist, Dave",Conservative Party of Canada,Con,f,f,18928,2
+38,BC,15,NANAIMO--COWICHAN,31913,"Macilquham, Lloyd",Liberal,Lib,f,f,9257,3
+38,BC,15,NANAIMO--COWICHAN,31914,"Henn, Harold",Green Party of Canada,Grn,f,f,3822,4
+38,BC,15,NANAIMO--COWICHAN,31916,"Warr, Jeffrey",Canadian Action Party,CAP,f,f,270,5
+38,BC,15,NANAIMO--COWICHAN,31915,"Brunie, Brunie",Independent,Ind,f,f,229,6
+38,BC,16,NEW WESTMINSTER--COQUITLAM,31917,"Forseth, Paul",Conservative Party of Canada,Con,t,f,15693,1
+38,BC,16,NEW WESTMINSTER--COQUITLAM,31919,"McClurg, Steve",New Democratic Party,NDP,f,f,15580,2
+38,BC,16,NEW WESTMINSTER--COQUITLAM,31920,"Haggard, Dave",Liberal,Lib,f,f,13080,3
+38,BC,16,NEW WESTMINSTER--COQUITLAM,31918,"Travers, Carli",Green Party of Canada,Grn,f,f,2684,4
+38,BC,16,NEW WESTMINSTER--COQUITLAM,31921,"Hummelman, Jack",Christian Heritage Party of Canada,CHP,f,f,700,5
+38,BC,17,NEWTON--NORTH DELTA,31922,"Grewal, Gurmant",Conservative Party of Canada,Con,t,f,13529,1
+38,BC,17,NEWTON--NORTH DELTA,31924,"Dhaliwal, Sukh",Liberal,Lib,f,f,13009,2
+38,BC,17,NEWTON--NORTH DELTA,31926,"Clegg, Nancy",New Democratic Party,NDP,f,f,12037,3
+38,BC,17,NEWTON--NORTH DELTA,31925,"Hague, John",Green Party of Canada,Grn,f,f,2555,4
+38,BC,17,NEWTON--NORTH DELTA,31923,"Rizvi, Nazir",Communist Party of Canada,Com,f,f,98,5
+38,BC,18,NORTH OKANAGAN--SHUSWAP,31927,"Stinson, Darrel",Conservative Party of Canada,Con,t,f,24014,1
+38,BC,18,NORTH OKANAGAN--SHUSWAP,31934,"Brown, Alice",New Democratic Party,NDP,f,f,12528,2
+38,BC,18,NORTH OKANAGAN--SHUSWAP,31929,"Hansma, Will",Liberal,Lib,f,f,11636,3
+38,BC,18,NORTH OKANAGAN--SHUSWAP,31930,"Nelson, Erin",Green Party of Canada,Grn,f,f,2333,4
+38,BC,18,NORTH OKANAGAN--SHUSWAP,31931,"Longley, Blair",Marijuana Party,Marij,f,f,492,5
+38,BC,18,NORTH OKANAGAN--SHUSWAP,31932,"Campbell, Gordon",No affiliation to a recognised party,Ind,f,f,401,6
+38,BC,18,NORTH OKANAGAN--SHUSWAP,31928,"Foss, Claire",Canadian Action Party,CAP,f,f,257,7
+38,BC,18,NORTH OKANAGAN--SHUSWAP,31933,"Daniels, K.",No affiliation to a recognised party,Ind,f,f,104,8
+38,BC,19,NORTH VANCOUVER,31935,"Bell, Don",Liberal,Lib,t,f,22619,1
+38,BC,19,NORTH VANCOUVER,31936,"White, Ted",Conservative Party of Canada,Con,f,f,20548,2
+38,BC,19,NORTH VANCOUVER,31938,"Nelson, John",New Democratic Party,NDP,f,f,8967,3
+38,BC,19,NORTH VANCOUVER,31937,"Stortz, Peggy",Green Party of Canada,Grn,f,f,4114,4
+38,BC,19,NORTH VANCOUVER,31939,"Barker, Andres",Canadian Action Party,CAP,f,f,181,5
+38,BC,19,NORTH VANCOUVER,31940,"Hill, Michael",Marxist-Leninist Party,M-L,f,f,77,6
+38,BC,20,OKANAGAN--COQUIHALLA,31941,"Day, Stockwell",Conservative Party of Canada,Con,t,f,24220,1
+38,BC,20,OKANAGAN--COQUIHALLA,31942,"Sutton, Vanessa",Liberal,Lib,f,f,11212,2
+38,BC,20,OKANAGAN--COQUIHALLA,31943,"Procure, Joyce",New Democratic Party,NDP,f,f,9509,3
+38,BC,20,OKANAGAN--COQUIHALLA,31944,"Naegel, Harry",Green Party of Canada,Grn,f,f,2896,4
+38,BC,20,OKANAGAN--COQUIHALLA,31946,"Peach, Jack William",Marijuana Party,Marij,f,f,548,5
+38,BC,20,OKANAGAN--COQUIHALLA,31945,"Haver, Lelannd",Canadian Action Party,CAP,f,f,259,6
+38,BC,21,PORT MOODY--WESTWOOD--PORT COQUITLAM,31947,"Moore, James",Conservative Party of Canada,Con,t,f,18664,1
+38,BC,21,PORT MOODY--WESTWOOD--PORT COQUITLAM,31951,"Peck, Kwangyul",Liberal,Lib,f,f,12445,2
+38,BC,21,PORT MOODY--WESTWOOD--PORT COQUITLAM,31952,"King, Charley",New Democratic Party,NDP,f,f,12023,3
+38,BC,21,PORT MOODY--WESTWOOD--PORT COQUITLAM,31948,"Voigt, Richard",Green Party of Canada,Grn,f,f,1971,4
+38,BC,21,PORT MOODY--WESTWOOD--PORT COQUITLAM,31953,"Dahlby, Lewis",Libertarian Party of Canada,Libtar,f,f,276,5
+38,BC,21,PORT MOODY--WESTWOOD--PORT COQUITLAM,31950,"Goff, Pat",Canadian Action Party,CAP,f,f,111,6
+38,BC,21,PORT MOODY--WESTWOOD--PORT COQUITLAM,31949,"Gidora, George",Communist Party of Canada,Com,f,f,94,7
+38,BC,22,PRINCE GEORGE--PEACE RIVER,31954,"Hill, Jay",Conservative Party of Canada,Con,t,f,21281,1
+38,BC,22,PRINCE GEORGE--PEACE RIVER,31955,"Hunter, Michael",New Democratic Party,NDP,f,f,7501,2
+38,BC,22,PRINCE GEORGE--PEACE RIVER,31959,"Thorpe, Arleene",Liberal,Lib,f,f,4988,3
+38,BC,22,PRINCE GEORGE--PEACE RIVER,31957,"Crowley, Hilary",Green Party of Canada,Grn,f,f,2073,4
+38,BC,22,PRINCE GEORGE--PEACE RIVER,31956,"Harasym, Harley",Canadian Action Party,CAP,f,f,301,5
+38,BC,22,PRINCE GEORGE--PEACE RIVER,31958,"Rimstad, Tara",Marxist-Leninist Party,M-L,f,f,101,6
+38,BC,23,RICHMOND,31960,"Chan, Raymond",Liberal,Lib,t,f,18204,1
+38,BC,23,RICHMOND,31962,"Wong, Alice",Conservative Party of Canada,Con,f,f,14457,2
+38,BC,23,RICHMOND,31963,"Jackaman, Dale",New Democratic Party,NDP,f,f,6142,3
+38,BC,23,RICHMOND,31961,"Kronstein, Stephen",Green Party of Canada,Grn,f,f,1743,4
+38,BC,23,RICHMOND,31964,"Warnke, Allan",Canadian Action Party,CAP,f,f,376,5
+38,BC,24,SAANICH--GULF ISLANDS,31965,"Lunn, Gary",Conservative Party of Canada,Con,t,f,22050,1
+38,BC,24,SAANICH--GULF ISLANDS,31968,"Mulroney, David",Liberal,Lib,f,f,17082,2
+38,BC,24,SAANICH--GULF ISLANDS,31966,"Burgis, Jennifer",New Democratic Party,NDP,f,f,13763,3
+38,BC,24,SAANICH--GULF ISLANDS,31967,"Lewis, Andrew",Green Party of Canada,Grn,f,f,10662,4
+38,BC,24,SAANICH--GULF ISLANDS,31969,"Moreau, Mary",Independent,Ind,f,f,214,5
+38,BC,25,SKEENA--BULKLEY VALLEY,31970,"Cullen, Nathan",New Democratic Party,NDP,t,f,13706,1
+38,BC,25,SKEENA--BULKLEY VALLEY,31971,"Burton, Andy",Conservative Party of Canada,Con,f,f,12434,2
+38,BC,25,SKEENA--BULKLEY VALLEY,31972,"Richardson, Miles",Liberal,Lib,f,f,7965,3
+38,BC,25,SKEENA--BULKLEY VALLEY,31974,"Taylor, Rod",Christian Heritage Party of Canada,CHP,f,f,1408,4
+38,BC,25,SKEENA--BULKLEY VALLEY,31975,"Benham, Roger Colin",Green Party of Canada,Grn,f,f,1225,5
+38,BC,25,SKEENA--BULKLEY VALLEY,31973,"Martin, Frank",Marxist-Leninist Party,M-L,f,f,161,6
+38,BC,26,SOUTH SURREY--WHITE ROCK--CLOVERDALE,31976,"Hiebert, Russ",Conservative Party of Canada,Con,t,f,22760,1
+38,BC,26,SOUTH SURREY--WHITE ROCK--CLOVERDALE,31978,"Higginbotham, Judy",Liberal,Lib,f,f,19611,2
+38,BC,26,SOUTH SURREY--WHITE ROCK--CLOVERDALE,31979,"Kaur, H.",New Democratic Party,NDP,f,f,7663,3
+38,BC,26,SOUTH SURREY--WHITE ROCK--CLOVERDALE,31977,"De La Pena, Romeo",Green Party of Canada,Grn,f,f,3032,4
+38,BC,26,SOUTH SURREY--WHITE ROCK--CLOVERDALE,31980,"Taylor, Pat",Canadian Action Party,CAP,f,f,272,5
+38,BC,27,SOUTHERN INTERIOR,31981,"Gouk, Jim",Conservative Party of Canada,Con,t,f,16940,1
+38,BC,27,SOUTHERN INTERIOR,31984,"Atamanenko, Alex",New Democratic Party,NDP,f,f,16260,2
+38,BC,27,SOUTHERN INTERIOR,31985,"Stanley, Doug",Liberal,Lib,f,f,8310,3
+38,BC,27,SOUTHERN INTERIOR,31986,"Leyland, Scott",Green Party of Canada,Grn,f,f,3663,4
+38,BC,27,SOUTHERN INTERIOR,31987,"Schuster, Robert",Independent,Ind,f,f,591,5
+38,BC,27,SOUTHERN INTERIOR,31988,"Cyr, Karine",Marijuana Party,Marij,f,f,391,6
+38,BC,27,SOUTHERN INTERIOR,31983,"Paynter, Farlie",Canadian Action Party,CAP,f,f,87,7
+38,BC,27,SOUTHERN INTERIOR,31982,"Sproule, Brian",Marxist-Leninist Party,M-L,f,f,39,8
+38,BC,28,SURREY NORTH,31989,"Cadman, Chuck",No affiliation to a recognised party,Ind,t,f,15089,1
+38,BC,28,SURREY NORTH,31996,"Karpoff, Jim",New Democratic Party,NDP,f,f,8312,2
+38,BC,28,SURREY NORTH,31990,"Sheel, Dan",Liberal,Lib,f,f,5413,3
+38,BC,28,SURREY NORTH,31992,"Cheema, Jasbir Singh",Conservative Party of Canada,Con,f,f,4340,4
+38,BC,28,SURREY NORTH,31993,"Athwal, Sunny",Green Party of Canada,Grn,f,f,658,5
+38,BC,28,SURREY NORTH,31994,"Herwig, Gerhard",Christian Heritage Party of Canada,CHP,f,f,460,6
+38,BC,28,SURREY NORTH,31995,"Holmes, Joyce",Communist Party of Canada,Com,f,f,93,7
+38,BC,28,SURREY NORTH,31991,"Whyte, Roy",Canadian Action Party,CAP,f,f,85,8
+38,BC,29,VANCOUVER CENTRE,31997,"Fry, Hedy",Liberal,Lib,t,f,21280,1
+38,BC,29,VANCOUVER CENTRE,32000,"Stewart, Kennedy",New Democratic Party,NDP,f,f,17050,2
+38,BC,29,VANCOUVER CENTRE,32001,"Mitchell, Gary",Conservative Party of Canada,Con,f,f,10139,3
+38,BC,29,VANCOUVER CENTRE,32002,"Mattu, Robbie",Green Party of Canada,Grn,f,f,3580,4
+38,BC,29,VANCOUVER CENTRE,32003,"Clarke, John",Libertarian Party of Canada,Libtar,f,f,304,5
+38,BC,29,VANCOUVER CENTRE,31998,"Pal, Joe",Christian Heritage Party of Canada,CHP,f,f,243,6
+38,BC,29,VANCOUVER CENTRE,31999,"Frei, Alexander",Canadian Action Party,CAP,f,f,101,7
+38,BC,29,VANCOUVER CENTRE,32004,"Cariou, Kimball",Communist Party of Canada,Com,f,f,96,8
+38,BC,30,VANCOUVER EAST,32005,"Davies, Libby",New Democratic Party,NDP,t,f,23452,1
+38,BC,30,VANCOUVER EAST,32006,"Chan, Shirley",Liberal,Lib,f,f,10768,2
+38,BC,30,VANCOUVER EAST,32007,"Grigg, Harvey",Conservative Party of Canada,Con,f,f,4153,3
+38,BC,30,VANCOUVER EAST,32008,"Plowright, Ron",Green Party of Canada,Grn,f,f,2365,4
+38,BC,30,VANCOUVER EAST,32009,"Boyer, Marc",Marijuana Party,Marij,f,f,399,5
+38,BC,30,VANCOUVER EAST,32010,"Kieler, Gloria",Christian Heritage Party of Canada,CHP,f,f,250,6
+38,BC,30,VANCOUVER EAST,32011,"Lesosky, Louis",No affiliation to a recognised party,Ind,f,f,147,7
+38,BC,31,VANCOUVER ISLAND NORTH,32012,"Duncan, John",Conservative Party of Canada,Con,t,f,18733,1
+38,BC,31,VANCOUVER ISLAND NORTH,32014,"Bell, Catherine",New Democratic Party,NDP,f,f,18250,2
+38,BC,31,VANCOUVER ISLAND NORTH,32015,"Ahmed, Noor",Liberal,Lib,f,f,11352,3
+38,BC,31,VANCOUVER ISLAND NORTH,32013,"Munroe, Pam",Green Party of Canada,Grn,f,f,4456,4
+38,BC,31,VANCOUVER ISLAND NORTH,32016,"East, Jack",Marxist-Leninist Party,M-L,f,f,111,5
+38,BC,32,VANCOUVER KINGSWAY,32017,"Emerson, David",Liberal,Lib,t,f,17267,1
+38,BC,32,VANCOUVER KINGSWAY,32020,"Waddell, Ian",New Democratic Party,NDP,f,f,15916,2
+38,BC,32,VANCOUVER KINGSWAY,32021,"Johl, Jesse",Conservative Party of Canada,Con,f,f,7037,3
+38,BC,32,VANCOUVER KINGSWAY,32018,"Mann, Tracey  Jastinder",Green Party of Canada,Grn,f,f,1521,4
+38,BC,32,VANCOUVER KINGSWAY,32022,"Kwan, Jeannie",No affiliation to a recognised party,Ind,f,f,548,5
+38,BC,32,VANCOUVER KINGSWAY,32023,"Mann, Jason",Communist Party of Canada,Com,f,f,172,6
+38,BC,32,VANCOUVER KINGSWAY,32019,"Rempel, Jacob",Canadian Action Party,CAP,f,f,142,7
+38,BC,32,VANCOUVER KINGSWAY,32024,"Petersen, Donna",Marxist-Leninist Party,M-L,f,f,94,8
+38,BC,33,VANCOUVER QUADRA,32025,"Owen, Stephen",Liberal,Lib,t,f,29187,1
+38,BC,33,VANCOUVER QUADRA,32026,"Rogers, Stephen",Conservative Party of Canada,Con,f,f,14648,2
+38,BC,33,VANCOUVER QUADRA,32027,"Askew, David",New Democratic Party,NDP,f,f,8348,3
+38,BC,33,VANCOUVER QUADRA,32028,"Warkentin, Doug",Green Party of Canada,Grn,f,f,3118,4
+38,BC,33,VANCOUVER QUADRA,32031,"Fogal, Connie",Canadian Action Party,CAP,f,f,165,5
+38,BC,33,VANCOUVER QUADRA,32030,"Chowne, Katrina",Libertarian Party of Canada,Libtar,f,f,151,6
+38,BC,33,VANCOUVER QUADRA,32029,"Young, Donovan",Marxist-Leninist Party,M-L,f,f,48,7
+38,BC,34,VANCOUVER SOUTH,32032,"Dosanjh, Ujjal",Liberal,Lib,t,f,18196,1
+38,BC,34,VANCOUVER SOUTH,32035,"Soo Chan, Victor",Conservative Party of Canada,Con,f,f,10426,2
+38,BC,34,VANCOUVER SOUTH,32036,"Meslo, Bev",New Democratic Party,NDP,f,f,10038,3
+38,BC,34,VANCOUVER SOUTH,32034,"Perry, Doug",Green Party of Canada,Grn,f,f,1465,4
+38,BC,34,VANCOUVER SOUTH,32037,"Wagner, Frank",Christian Heritage Party of Canada,CHP,f,f,339,5
+38,BC,34,VANCOUVER SOUTH,32038,"Boylan, Charles",Marxist-Leninist Party,M-L,f,f,119,6
+38,BC,34,VANCOUVER SOUTH,32039,"Von Sychowcki, Stephen",Communist Party of Canada,Com,f,f,105,7
+38,BC,34,VANCOUVER SOUTH,32033,"Sandhu, H. MR",No affiliation to a recognised party,Ind,f,f,98,8
+38,BC,34,VANCOUVER SOUTH,32040,"Horrocks, Joe",Canadian Action Party,CAP,f,f,90,9
+38,BC,35,VICTORIA,32041,"Anderson, David",Liberal,Lib,t,f,20398,1
+38,BC,35,VICTORIA,32045,"Turner, David",New Democratic Party,NDP,f,f,18093,2
+38,BC,35,VICTORIA,32042,"Wenham, Logan",Conservative Party of Canada,Con,f,f,12708,3
+38,BC,35,VICTORIA,32043,"Lade, Ariel",Green Party of Canada,Grn,f,f,6807,4
+38,BC,35,VICTORIA,32044,"Skinner, Derek",Canadian Action Party,CAP,f,f,206,5
+38,BC,36,WEST VANCOUVER--SUNSHINE COAST,32046,"Reynolds, John",Conservative Party of Canada,Con,t,f,21372,1
+38,BC,36,WEST VANCOUVER--SUNSHINE COAST,32049,"Wilson, Blair",Liberal,Lib,f,f,19685,2
+38,BC,36,WEST VANCOUVER--SUNSHINE COAST,32050,"Simons, Nicholas",New Democratic Party,NDP,f,f,13156,3
+38,BC,36,WEST VANCOUVER--SUNSHINE COAST,32051,"Goldsmith, Andrea",Green Party of Canada,Grn,f,f,5887,4
+38,BC,36,WEST VANCOUVER--SUNSHINE COAST,32047,"Bombois, Marc",Canadian Action Party,CAP,f,f,321,5
+38,BC,36,WEST VANCOUVER--SUNSHINE COAST,32048,"Jamieson, Anne",Marxist-Leninist Party,M-L,f,f,123,6
+38,MB,1,BRANDON--SOURIS,32052,"Tweed, Merv",Conservative Party of Canada,Con,t,f,18209,1
+38,MB,1,BRANDON--SOURIS,32054,"Downing, Murray",Liberal,Lib,f,f,8522,2
+38,MB,1,BRANDON--SOURIS,32055,"Abbey, Mike",New Democratic Party,NDP,f,f,6740,3
+38,MB,1,BRANDON--SOURIS,32056,"Kattenburg, David",Green Party of Canada,Grn,f,f,1264,4
+38,MB,1,BRANDON--SOURIS,32053,"Atkins, Colin",Christian Heritage Party of Canada,CHP,f,f,351,5
+38,MB,1,BRANDON--SOURIS,32057,"Gallagher, Lisa",Communist Party of Canada,Com,f,f,118,6
+38,MB,2,CHARLESWOOD--ST. JAMES,32058,"Fletcher, Steven",Conservative Party of Canada,Con,t,f,18688,1
+38,MB,2,CHARLESWOOD--ST. JAMES,32062,"Murray, Glen",Liberal,Lib,f,f,17954,2
+38,MB,2,CHARLESWOOD--ST. JAMES,32059,"Carney, Peter",New Democratic Party,NDP,f,f,4283,3
+38,MB,2,CHARLESWOOD--ST. JAMES,32063,"Basham, Andrew",Green Party of Canada,Grn,f,f,880,4
+38,MB,2,CHARLESWOOD--ST. JAMES,32061,"Zupansky, Dan",Marijuana Party,Marij,f,f,337,5
+38,MB,2,CHARLESWOOD--ST. JAMES,32060,"Alas, Beatriz",Communist Party of Canada,Com,f,f,49,6
+38,MB,3,CHURCHILL,32064,"Desjarlais, Bev",New Democratic Party,NDP,t,f,8612,1
+38,MB,3,CHURCHILL,32067,"Evans, Ron",Liberal,Lib,f,f,7604,2
+38,MB,3,CHURCHILL,32066,"Archer, Bill",Conservative Party of Canada,Con,f,f,2999,3
+38,MB,3,CHURCHILL,32065,"Nickarz, C. David",Green Party of Canada,Grn,f,f,612,4
+38,MB,4,DAUPHIN--SWAN RIVER,32068,"Mark, Inky",Conservative Party of Canada,Con,t,f,18025,1
+38,MB,4,DAUPHIN--SWAN RIVER,32071,"Kolisnyk, Walter",New Democratic Party,NDP,f,f,7341,2
+38,MB,4,DAUPHIN--SWAN RIVER,32070,"Dewar, Don",Liberal,Lib,f,f,6809,3
+38,MB,4,DAUPHIN--SWAN RIVER,32072,"Clubb, Lindy",Green Party of Canada,Grn,f,f,673,4
+38,MB,4,DAUPHIN--SWAN RIVER,32069,"Andres, David",Christian Heritage Party of Canada,CHP,f,f,560,5
+38,MB,5,ELMWOOD--TRANSCONA,32073,"Blaikie, Bill",New Democratic Party,NDP,t,f,15221,1
+38,MB,5,ELMWOOD--TRANSCONA,32075,"McLeod, Bryan",Conservative Party of Canada,Con,f,f,7644,2
+38,MB,5,ELMWOOD--TRANSCONA,32074,"Parks, Tanya",Liberal,Lib,f,f,4923,3
+38,MB,5,ELMWOOD--TRANSCONA,32079,"Gair, Elijah",Green Party of Canada,Grn,f,f,719,4
+38,MB,5,ELMWOOD--TRANSCONA,32076,"Scott, Robert",Christian Heritage Party of Canada,CHP,f,f,386,5
+38,MB,5,ELMWOOD--TRANSCONA,32077,"Whittaker, Gavin",Marijuana Party,Marij,f,f,311,6
+38,MB,5,ELMWOOD--TRANSCONA,32078,"Sidon, Paul",Communist Party of Canada,Com,f,f,74,7
+38,MB,6,KILDONAN--ST. PAUL,32080,"Smith, Joy",Conservative Party of Canada,Con,t,f,13582,1
+38,MB,6,KILDONAN--ST. PAUL,32081,"Duguid, Terry",Liberal,Lib,f,f,13304,2
+38,MB,6,KILDONAN--ST. PAUL,32082,"Mahoney, Lorene",New Democratic Party,NDP,f,f,8202,3
+38,MB,6,KILDONAN--ST. PAUL,32083,"Giesbrecht, Jacob",Green Party of Canada,Grn,f,f,756,4
+38,MB,6,KILDONAN--ST. PAUL,32084,"Whittaker, Rebecca",Marijuana Party,Marij,f,f,290,5
+38,MB,6,KILDONAN--ST. PAUL,32085,"Reimer, Katharine",Christian Heritage Party of Canada,CHP,f,f,278,6
+38,MB,7,PORTAGE--LISGAR,32086,"Pallister, Brian",Conservative Party of Canada,Con,t,f,22939,1
+38,MB,7,PORTAGE--LISGAR,32088,"Kuhl, Don",Liberal,Lib,f,f,6174,2
+38,MB,7,PORTAGE--LISGAR,32089,"Van Den Bussche, Daren",New Democratic Party,NDP,f,f,3251,3
+38,MB,7,PORTAGE--LISGAR,32090,"Reimer, David",Christian Heritage Party of Canada,CHP,f,f,1458,4
+38,MB,7,PORTAGE--LISGAR,32087,"Payette, Marc",Green Party of Canada,Grn,f,f,856,5
+38,MB,7,PORTAGE--LISGAR,32091,"Cucksey, Allister",Communist Party of Canada,Com,f,f,117,6
+38,MB,8,PROVENCHER,32092,"Toews, Vic",Conservative Party of Canada,Con,t,f,22694,1
+38,MB,8,PROVENCHER,32093,"Epp, Peter",Liberal,Lib,f,f,8975,2
+38,MB,8,PROVENCHER,32094,"Zaharia, Sarah",New Democratic Party,NDP,f,f,3244,3
+38,MB,8,PROVENCHER,32095,"Gibson, Janine",Green Party of Canada,Grn,f,f,1100,4
+38,MB,9,SAINT BONIFACE,32096,"Simard, Raymond",Liberal,Lib,t,f,17989,1
+38,MB,9,SAINT BONIFACE,32097,"Cooper, Ken",Conservative Party of Canada,Con,f,f,11956,2
+38,MB,9,SAINT BONIFACE,32098,"Allard, Mathieu",New Democratic Party,NDP,f,f,6954,3
+38,MB,9,SAINT BONIFACE,32099,"Backé, Daniel",Green Party of Canada,Grn,f,f,925,4
+38,MB,9,SAINT BONIFACE,32100,"Moquin-Perry, Jeannine",Christian Heritage Party of Canada,CHP,f,f,378,5
+38,MB,9,SAINT BONIFACE,32101,"Buors, Chris",Marijuana Party,Marij,f,f,317,6
+38,MB,9,SAINT BONIFACE,32102,"Guay, Gerard",Communist Party of Canada,Com,f,f,77,7
+38,MB,10,SELKIRK--INTERLAKE,32103,"Bezan, James",Conservative Party of Canada,Con,t,f,18727,1
+38,MB,10,SELKIRK--INTERLAKE,32104,"Nicol, Duane",New Democratic Party,NDP,f,f,10516,2
+38,MB,10,SELKIRK--INTERLAKE,32105,"Benson, Bruce",Liberal,Lib,f,f,9059,3
+38,MB,10,SELKIRK--INTERLAKE,32106,"Farley, Trevor",Green Party of Canada,Grn,f,f,982,4
+38,MB,10,SELKIRK--INTERLAKE,32107,"Barendregt, Anthony",Christian Heritage Party of Canada,CHP,f,f,353,5
+38,MB,11,WINNIPEG CENTRE,32108,"Martin, Pat",New Democratic Party,NDP,t,f,12149,1
+38,MB,11,WINNIPEG CENTRE,32109,"Northcott, David",Liberal,Lib,f,f,9285,2
+38,MB,11,WINNIPEG CENTRE,32110,"Eng, Robert",Conservative Party of Canada,Con,f,f,3631,3
+38,MB,11,WINNIPEG CENTRE,32111,"Faye, Robin (Pilar)",Green Party of Canada,Grn,f,f,1151,4
+38,MB,11,WINNIPEG CENTRE,32112,"Siedleski, John",Marijuana Party,Marij,f,f,346,5
+38,MB,11,WINNIPEG CENTRE,32113,"Carr, Anna-Celestrya",Communist Party of Canada,Com,f,f,114,6
+38,MB,11,WINNIPEG CENTRE,32114,"Schweitzer, Douglas",Independent,Ind,f,f,92,7
+38,MB,12,WINNIPEG NORTH,32115,"Wasylycia-Leis, Judy",New Democratic Party,NDP,t,f,12507,1
+38,MB,12,WINNIPEG NORTH,32116,"Pagtakhan, Rey",Liberal,Lib,f,f,9491,2
+38,MB,12,WINNIPEG NORTH,32117,"Stevenson, Kris",Conservative Party of Canada,Con,f,f,3186,3
+38,MB,12,WINNIPEG NORTH,32118,"Weinberg, Alon",Green Party of Canada,Grn,f,f,531,4
+38,MB,12,WINNIPEG NORTH,32119,"Truijen, Eric",Christian Heritage Party of Canada,CHP,f,f,141,5
+38,MB,12,WINNIPEG NORTH,32120,"Rankin, Darrell",Communist Party of Canada,Com,f,f,111,6
+38,MB,13,WINNIPEG SOUTH,32121,"Alcock, Reg",Liberal,Lib,t,f,19270,1
+38,MB,13,WINNIPEG SOUTH,32122,"Bruinooge, Rod",Conservative Party of Canada,Con,f,f,12770,2
+38,MB,13,WINNIPEG SOUTH,32123,"Green, Catherine",New Democratic Party,NDP,f,f,4217,3
+38,MB,13,WINNIPEG SOUTH,32124,"Cameron, Ron",Green Party of Canada,Grn,f,f,1003,4
+38,MB,13,WINNIPEG SOUTH,32125,"MacDiarmid, Jane",Christian Heritage Party of Canada,CHP,f,f,296,5
+38,MB,14,WINNIPEG SOUTH CENTRE,32126,"Neville, Anita",Liberal,Lib,t,f,18133,1
+38,MB,14,WINNIPEG SOUTH CENTRE,32127,"Joshi, Raj",Conservative Party of Canada,Con,f,f,10516,2
+38,MB,14,WINNIPEG SOUTH CENTRE,32128,"Allum, James",New Democratic Party,NDP,f,f,8270,3
+38,MB,14,WINNIPEG SOUTH CENTRE,32129,"Scott, Ian",Green Party of Canada,Grn,f,f,1508,4
+38,MB,14,WINNIPEG SOUTH CENTRE,32130,"Caisse, Andy",Marijuana Party,Marij,f,f,293,5
+38,MB,14,WINNIPEG SOUTH CENTRE,32131,"Thompson, Magnus",Canadian Action Party,CAP,f,f,114,6
+38,MB,14,WINNIPEG SOUTH CENTRE,32132,"Dalgliesh, Andrew",Communist Party of Canada,Com,f,f,81,7
+38,NB,1,ACADIE--BATHURST,32133,"Godin, Yvon",New Democratic Party,NDP,t,f,23857,1
+38,NB,1,ACADIE--BATHURST,32134,"Rousselle, Serge",Liberal,Lib,f,f,14452,2
+38,NB,1,ACADIE--BATHURST,32135,"Bernard, Joel",Conservative Party of Canada,Con,f,f,4841,3
+38,NB,1,ACADIE--BATHURST,32136,"Lanteigne, Mario",Green Party of Canada,Grn,f,f,1085,4
+38,NB,2,BEAUSÉJOUR,32137,"LeBlanc, Dominic",Liberal,Lib,t,f,21934,1
+38,NB,2,BEAUSÉJOUR,32138,"Vautour, Angela",Conservative Party of Canada,Con,f,f,11604,2
+38,NB,2,BEAUSÉJOUR,32139,"Bourque, Omer",New Democratic Party,NDP,f,f,6056,3
+38,NB,2,BEAUSÉJOUR,32140,"Girouard, Anna",Green Party of Canada,Grn,f,f,1574,4
+38,NB,3,FREDERICTON,32141,"Scott, Andy",Liberal,Lib,t,f,19819,1
+38,NB,3,FREDERICTON,32142,"Fox, Kent",Conservative Party of Canada,Con,f,f,14193,2
+38,NB,3,FREDERICTON,32143,"Carty, John",New Democratic Party,NDP,f,f,7360,3
+38,NB,3,FREDERICTON,32144,"Letts, Daron",Green Party of Canada,Grn,f,f,997,4
+38,NB,4,FUNDY,32145,"Moore, Rob",Conservative Party of Canada,Con,t,f,14997,1
+38,NB,4,FUNDY,32146,"Herron, John",Liberal,Lib,f,f,11635,2
+38,NB,4,FUNDY,32147,"Hanratty, Pat",New Democratic Party,NDP,f,f,5417,3
+38,NB,4,FUNDY,32148,"Bach, Karin",Green Party of Canada,Grn,f,f,1051,4
+38,NB,4,FUNDY,32149,"Amos, David Raymond",Independent,Ind,f,f,358,5
+38,NB,5,MADAWASKA--RESTIGOUCHE,32150,"D'Amours, Jean-Claude J.C.",Liberal,Lib,t,f,14144,1
+38,NB,5,MADAWASKA--RESTIGOUCHE,32151,"Martin, Rodolphe",New Democratic Party,NDP,f,f,8737,2
+38,NB,5,MADAWASKA--RESTIGOUCHE,32152,"Violette, Benoit",Conservative Party of Canada,Con,f,f,7605,3
+38,NB,5,MADAWASKA--RESTIGOUCHE,32153,"Cyr, Jovette",Green Party of Canada,Grn,f,f,1185,4
+38,NB,6,MIRAMICHI,32154,"Hubbard, Charles",Liberal,Lib,t,f,15647,1
+38,NB,6,MIRAMICHI,32155,"Morrison, Michael",Conservative Party of Canada,Con,f,f,9448,2
+38,NB,6,MIRAMICHI,32156,"Rousselle, Hilaire",New Democratic Party,NDP,f,f,5980,3
+38,NB,6,MIRAMICHI,32157,"Sanipass, Garry",Green Party of Canada,Grn,f,f,1468,4
+38,NB,7,MONCTON--RIVERVIEW--DIEPPE,32158,"Bradshaw, Claudette",Liberal,Lib,t,f,25266,1
+38,NB,7,MONCTON--RIVERVIEW--DIEPPE,32159,"LeBlanc, Jean",Conservative Party of Canada,Con,f,f,10003,2
+38,NB,7,MONCTON--RIVERVIEW--DIEPPE,32160,"Lapointe, Hélène",New Democratic Party,NDP,f,f,5344,3
+38,NB,7,MONCTON--RIVERVIEW--DIEPPE,32161,"Hamel, Judith",Green Party of Canada,Grn,f,f,1998,4
+38,NB,8,SAINT JOHN,32162,"Zed, Paul",Liberal,Lib,t,f,15725,1
+38,NB,8,SAINT JOHN,32163,"McVicar, Bob",Conservative Party of Canada,Con,f,f,12212,2
+38,NB,8,SAINT JOHN,32164,"Albright, Terry",New Democratic Party,NDP,f,f,6926,3
+38,NB,8,SAINT JOHN,32165,"Cormier, Jonathan",Green Party of Canada,Grn,f,f,807,4
+38,NB,8,SAINT JOHN,32166,"Wood, Jim",Marijuana Party,Marij,f,f,369,5
+38,NB,8,SAINT JOHN,32167,"Oland, Tom",Independent,Ind,f,f,290,6
+38,NB,9,ST. CROIX--BELLEISLE,32168,"Thompson, Greg",Conservative Party of Canada,Con,t,f,16339,1
+38,NB,9,ST. CROIX--BELLEISLE,32169,"Dunlap, Jim",Liberal,Lib,f,f,9702,2
+38,NB,9,ST. CROIX--BELLEISLE,32170,"Webber, Patrick",New Democratic Party,NDP,f,f,3600,3
+38,NB,9,ST. CROIX--BELLEISLE,32171,"Millett, Erik",Green Party of Canada,Grn,f,f,960,4
+38,NB,9,ST. CROIX--BELLEISLE,32172,"Szemerda, David",Canadian Action Party,CAP,f,f,194,5
+38,NB,10,TOBIQUE--MACTAQUAC,32173,"Savoy, Andy",Liberal,Lib,t,f,16787,1
+38,NB,10,TOBIQUE--MACTAQUAC,32174,"Allen, Mike",Conservative Party of Canada,Con,f,f,13779,2
+38,NB,10,TOBIQUE--MACTAQUAC,32175,"Mapplebeck, Jason",New Democratic Party,NDP,f,f,2957,3
+38,NB,10,TOBIQUE--MACTAQUAC,32176,"Jones, Scott",Green Party of Canada,Grn,f,f,1282,4
+38,NL,1,AVALON,32177,"Efford, R. John",Liberal,Lib,t,f,18335,1
+38,NL,1,AVALON,32178,"Dalton, Rick",Conservative Party of Canada,Con,f,f,9211,2
+38,NL,1,AVALON,32179,"Kehoe, Michael",New Democratic Party,NDP,f,f,3450,3
+38,NL,1,AVALON,32180,"Ferguson, Don",Green Party of Canada,Grn,f,f,430,4
+38,NL,2,BONAVISTA--EXPLOITS,32181,"Simms, Scott",Liberal,Lib,t,f,15970,1
+38,NL,2,BONAVISTA--EXPLOITS,32182,"Barnes, Rex",Conservative Party of Canada,Con,f,f,13786,2
+38,NL,2,BONAVISTA--EXPLOITS,32183,"McLean, Samuel",New Democratic Party,NDP,f,f,2667,3
+38,NL,2,BONAVISTA--EXPLOITS,32184,"White, Ed Sailor",Green Party of Canada,Grn,f,f,367,4
+38,NL,2,BONAVISTA--EXPLOITS,32185,"Lannon, John",Independent,Ind,f,f,344,5
+38,NL,3,HUMBER--ST. BARBE--BAIE VERTE,32186,"Byrne, Gerry",Liberal,Lib,t,f,17820,1
+38,NL,3,HUMBER--ST. BARBE--BAIE VERTE,32188,"Downer, Wynanne",Conservative Party of Canada,Con,f,f,6538,2
+38,NL,3,HUMBER--ST. BARBE--BAIE VERTE,32187,"Pike, Holly",New Democratic Party,NDP,f,f,3743,3
+38,NL,3,HUMBER--ST. BARBE--BAIE VERTE,32189,"Durant, Steve",Green Party of Canada,Grn,f,f,384,4
+38,NL,4,LABRADOR,32190,"O'Brien, Lawrence",Liberal,Lib,t,f,5524,1
+38,NL,4,LABRADOR,32193,"Strachan, Merrill",Conservative Party of Canada,Con,f,f,1400,2
+38,NL,4,LABRADOR,32194,"Condon, Ern",Independent,Ind,f,f,919,3
+38,NL,4,LABRADOR,32192,"Crann, Shawn",New Democratic Party,NDP,f,f,856,4
+38,NL,4,LABRADOR,32191,"Martino, Lori-Ann",Green Party of Canada,Grn,f,f,178,5
+38,NL,5,RANDOM--BURIN--ST. GEORGE'S,32195,"Matthews, Bill",Liberal,Lib,t,f,12383,1
+38,NL,5,RANDOM--BURIN--ST. GEORGE'S,32198,"McGrath, Des",New Democratic Party,NDP,f,f,8797,2
+38,NL,5,RANDOM--BURIN--ST. GEORGE'S,32196,"Peckford, Larry",Conservative Party of Canada,Con,f,f,4820,3
+38,NL,5,RANDOM--BURIN--ST. GEORGE'S,32197,"Dollimont, Justin",Green Party of Canada,Grn,f,f,474,4
+38,NL,6,ST. JOHN'S NORTH,32199,"Doyle, Norman",Conservative Party of Canada,Con,t,f,15073,1
+38,NL,6,ST. JOHN'S NORTH,32201,"Noel, Walter",Liberal,Lib,f,f,13343,2
+38,NL,6,ST. JOHN'S NORTH,32200,"Piller, Janine",New Democratic Party,NDP,f,f,7198,3
+38,NL,6,ST. JOHN'S NORTH,32202,"Vokey, Scott",Green Party of Canada,Grn,f,f,791,4
+38,NL,7,ST. JOHN'S SOUTH,32203,"Hearn, Loyola",Conservative Party of Canada,Con,t,f,13330,1
+38,NL,7,ST. JOHN'S SOUTH,32205,"Coady, Siobhan",Liberal,Lib,f,f,11879,2
+38,NL,7,ST. JOHN'S SOUTH,32206,"Norman, Peg",New Democratic Party,NDP,f,f,7989,3
+38,NL,7,ST. JOHN'S SOUTH,32204,"Willcott, Stephen",Green Party of Canada,Grn,f,f,493,4
+38,NS,1,CAPE BRETON--CANSO,32207,"Cuzner, Rodger",Liberal,Lib,t,f,20139,1
+38,NS,1,CAPE BRETON--CANSO,32209,"Hartery, Shirley",New Democratic Party,NDP,f,f,9197,2
+38,NS,1,CAPE BRETON--CANSO,32210,"MacNeil, Kenzie",Conservative Party of Canada,Con,f,f,7654,3
+38,NS,1,CAPE BRETON--CANSO,32208,"Gibson, Seumas",Green Party of Canada,Grn,f,f,820,4
+38,NS,2,CENTRAL NOVA,32211,"MacKay, Peter",Conservative Party of Canada,Con,t,f,16376,1
+38,NS,2,CENTRAL NOVA,32214,"MacDonald, Alexis",New Democratic Party,NDP,f,f,10470,2
+38,NS,2,CENTRAL NOVA,32213,"Green, Susan",Liberal,Lib,f,f,9986,3
+38,NS,2,CENTRAL NOVA,32212,"Mosher, Rebecca",Green Party of Canada,Grn,f,f,1015,4
+38,NS,3,DARTMOUTH--COLE HARBOUR,32215,"Savage, Michael",Liberal,Lib,t,f,17425,1
+38,NS,3,DARTMOUTH--COLE HARBOUR,32217,"MacAlpine-Gillis, Susan",New Democratic Party,NDP,f,f,13463,2
+38,NS,3,DARTMOUTH--COLE HARBOUR,32216,"MacDonald, Mike",Conservative Party of Canada,Con,f,f,8739,3
+38,NS,3,DARTMOUTH--COLE HARBOUR,32220,"Marshall, Michael",Green Party of Canada,Grn,f,f,1311,4
+38,NS,3,DARTMOUTH--COLE HARBOUR,32219,"Parsons, Tracy",Progressive Canadian Party,PCdnP,f,f,415,5
+38,NS,3,DARTMOUTH--COLE HARBOUR,32218,"Spurr, Charles",Marxist-Leninist Party,M-L,f,f,70,6
+38,NS,4,HALIFAX,32221,"McDonough, Alexa",New Democratic Party,NDP,t,f,18341,1
+38,NS,4,HALIFAX,32222,"Fougere, Sheila",Liberal,Lib,f,f,17267,2
+38,NS,4,HALIFAX,32223,"Keefe, Kevin",Conservative Party of Canada,Con,f,f,6457,3
+38,NS,4,HALIFAX,32224,"Oddy, Michael",Green Party of Canada,Grn,f,f,2081,4
+38,NS,5,HALIFAX WEST,32225,"Regan, Geoff",Liberal,Lib,t,f,19083,1
+38,NS,5,HALIFAX WEST,32226,"Carr, Bill",New Democratic Party,NDP,f,f,11228,2
+38,NS,5,HALIFAX WEST,32227,"MacPhee, Ken",Conservative Party of Canada,Con,f,f,8413,3
+38,NS,5,HALIFAX WEST,32228,"Willison, Martin",Green Party of Canada,Grn,f,f,1452,4
+38,NS,6,KINGS--HANTS,32229,"Brison, Scott",Liberal,Lib,t,f,17555,1
+38,NS,6,KINGS--HANTS,32230,"Mullan, Bob",Conservative Party of Canada,Con,f,f,11344,2
+38,NS,6,KINGS--HANTS,32231,"Hambling, Skip",New Democratic Party,NDP,f,f,6663,3
+38,NS,6,KINGS--HANTS,32232,"Stacey, Kevin",Green Party of Canada,Grn,f,f,1364,4
+38,NS,6,KINGS--HANTS,32233,"Hnatiuk, Jim",Christian Heritage Party of Canada,CHP,f,f,493,5
+38,NS,6,KINGS--HANTS,32234,"Hennigar, Richard",Independent,Ind,f,f,242,6
+38,NS,7,NORTH NOVA,32235,"Casey, Bill",Conservative Party of Canada,Con,t,f,20188,1
+38,NS,7,NORTH NOVA,32236,"Brushett, Dianne",Liberal,Lib,f,f,10591,2
+38,NS,7,NORTH NOVA,32239,"Sagar, Margaret",New Democratic Party,NDP,f,f,7560,3
+38,NS,7,NORTH NOVA,32238,"Richardson, Sheila",Green Party of Canada,Grn,f,f,1245,4
+38,NS,7,NORTH NOVA,32237,"Moors, Jack",Progressive Canadian Party,PCdnP,f,f,399,5
+38,NS,8,SACKVILLE--EASTERN SHORE,32240,"Stoffer, Peter",New Democratic Party,NDP,t,f,17925,1
+38,NS,8,SACKVILLE--EASTERN SHORE,32241,"Stevens, Dale",Liberal,Lib,f,f,11222,2
+38,NS,8,SACKVILLE--EASTERN SHORE,32242,"Streatch, Steve",Conservative Party of Canada,Con,f,f,8363,3
+38,NS,8,SACKVILLE--EASTERN SHORE,32243,"Fullerton, David",Green Party of Canada,Grn,f,f,1007,4
+38,NS,8,SACKVILLE--EASTERN SHORE,32244,"Moors, Greg",Progressive Canadian Party,PCdnP,f,f,645,5
+38,NS,9,SOUTH SHORE--ST. MARGARET'S,32245,"Keddy, Gerald",Conservative Party of Canada,Con,t,f,14954,1
+38,NS,9,SOUTH SHORE--ST. MARGARET'S,32246,"Chandler, John",Liberal,Lib,f,f,12658,2
+38,NS,9,SOUTH SHORE--ST. MARGARET'S,32247,"Earle, Gordon",New Democratic Party,NDP,f,f,10140,3
+38,NS,9,SOUTH SHORE--ST. MARGARET'S,32248,"Morris Boudreau, Katie",Green Party of Canada,Grn,f,f,1700,4
+38,NS,10,SYDNEY--VICTORIA,32249,"Eyking, Mark",Liberal,Lib,t,f,19372,1
+38,NS,10,SYDNEY--VICTORIA,32252,"Edwards, John",New Democratic Party,NDP,f,f,10298,2
+38,NS,10,SYDNEY--VICTORIA,32253,"MacDonald, Howie",Conservative Party of Canada,Con,f,f,5897,3
+38,NS,10,SYDNEY--VICTORIA,32254,"Milburn, Chris",Green Party of Canada,Grn,f,f,855,4
+38,NS,10,SYDNEY--VICTORIA,32250,"Thériault, Cathy",Marijuana Party,Marij,f,f,474,5
+38,NS,10,SYDNEY--VICTORIA,32251,"Gallant, B. Chris",Independent,Ind,f,f,264,6
+38,NS,11,WEST NOVA,32255,"Thibault, Robert",Liberal,Lib,t,f,18343,1
+38,NS,11,WEST NOVA,32258,"Carey, Jon",Conservative Party of Canada,Con,f,f,14209,2
+38,NS,11,WEST NOVA,32256,"Bull, Edmund",New Democratic Party,NDP,f,f,9086,3
+38,NS,11,WEST NOVA,32257,"Granger, Matthew",Green Party of Canada,Grn,f,f,1385,4
+38,NT,1,WESTERN ARCTIC,32259,"Blondin-Andrew, Ethel",Liberal,Lib,t,f,5317,1
+38,NT,1,WESTERN ARCTIC,32260,"Bevington, Dennis",New Democratic Party,NDP,f,f,5264,2
+38,NT,1,WESTERN ARCTIC,32261,"Mandeville, Sean",Conservative Party of Canada,Con,f,f,2314,3
+38,NT,1,WESTERN ARCTIC,32262,"O'Brien, Chris",Green Party of Canada,Grn,f,f,583,4
+38,NU,1,NUNAVUT,32263,"Karetak-Lindell, Nancy",Liberal,Lib,t,f,3818,1
+38,NU,1,NUNAVUT,32265,"Thompson, Manitok",Independent,Ind,f,f,1172,2
+38,NU,1,NUNAVUT,32266,"Riddell, Bill",New Democratic Party,NDP,f,f,1129,3
+38,NU,1,NUNAVUT,32264,"Cunningham, Duncan",Conservative Party of Canada,Con,f,f,1075,4
+38,NU,1,NUNAVUT,32267,"Kenney, Nedd",Green Party of Canada,Grn,f,f,248,5
+38,ON,1,AJAX--PICKERING,32268,"Holland, Mark",Liberal,Lib,t,f,21706,1
+38,ON,1,AJAX--PICKERING,32270,"Soetens, René",Conservative Party of Canada,Con,f,f,14666,2
+38,ON,1,AJAX--PICKERING,32269,"Modeste, Kevin",New Democratic Party,NDP,f,f,5286,3
+38,ON,1,AJAX--PICKERING,32271,"MacDonald, Karen",Green Party of Canada,Grn,f,f,1951,4
+38,ON,2,ALGOMA--MANITOULIN--KAPUSKASING,32272,"St. Denis, Brent",Liberal,Lib,t,f,14276,1
+38,ON,2,ALGOMA--MANITOULIN--KAPUSKASING,32273,"Hughes, Carol",New Democratic Party,NDP,f,f,11051,2
+38,ON,2,ALGOMA--MANITOULIN--KAPUSKASING,32274,"Armstrong, Blaine",Conservative Party of Canada,Con,f,f,8093,3
+38,ON,2,ALGOMA--MANITOULIN--KAPUSKASING,32275,"Killen, Lindsay",Green Party of Canada,Grn,f,f,1449,4
+38,ON,3,ANCASTER--DUNDAS--FLAMBOROUGH--WESTDALE,32276,"Powers, Russ",Liberal,Lib,t,f,21935,1
+38,ON,3,ANCASTER--DUNDAS--FLAMBOROUGH--WESTDALE,32277,"Sweet, David",Conservative Party of Canada,Con,f,f,19135,2
+38,ON,3,ANCASTER--DUNDAS--FLAMBOROUGH--WESTDALE,32278,"Guyatt, Gordon",New Democratic Party,NDP,f,f,11557,3
+38,ON,3,ANCASTER--DUNDAS--FLAMBOROUGH--WESTDALE,32279,"Januczkowski, David",Green Party of Canada,Grn,f,f,2636,4
+38,ON,4,BARRIE,32280,"Carroll, Aileen",Liberal,Lib,t,f,21233,1
+38,ON,4,BARRIE,32281,"Brown, Patrick",Conservative Party of Canada,Con,f,f,19938,2
+38,ON,4,BARRIE,32282,"Bursztyn, Peter",New Democratic Party,NDP,f,f,5312,3
+38,ON,4,BARRIE,32283,"Jacoby-Hawkins, Erich",Green Party of Canada,Grn,f,f,3288,4
+38,ON,5,BEACHES--EAST YORK,32284,"Minna, Maria",Liberal,Lib,t,f,22494,1
+38,ON,5,BEACHES--EAST YORK,32286,"Tabuns, Peter",New Democratic Party,NDP,f,f,15156,2
+38,ON,5,BEACHES--EAST YORK,32287,"Nikopoulos, Nick",Conservative Party of Canada,Con,f,f,6603,3
+38,ON,5,BEACHES--EAST YORK,32285,"Davison, Peter",Green Party of Canada,Grn,f,f,2127,4
+38,ON,5,BEACHES--EAST YORK,32288,"Dufresne, Daniel",Marijuana Party,Marij,f,f,365,5
+38,ON,5,BEACHES--EAST YORK,32289,"Slota, Edward",Independent,Ind,f,f,80,6
+38,ON,5,BEACHES--EAST YORK,32290,"Figueroa, Miguel",Communist Party of Canada,Com,f,f,62,7
+38,ON,5,BEACHES--EAST YORK,32291,"Carter, Roger",Marxist-Leninist Party,M-L,f,f,46,8
+38,ON,6,BRAMALEA--GORE--MALTON,32292,"Malhi, Gurbax",Liberal,Lib,t,f,20394,1
+38,ON,6,BRAMALEA--GORE--MALTON,32293,"Gill, Raminder",Conservative Party of Canada,Con,f,f,12594,2
+38,ON,6,BRAMALEA--GORE--MALTON,32294,"Miranda, Fernando",New Democratic Party,NDP,f,f,6113,3
+38,ON,6,BRAMALEA--GORE--MALTON,32295,"McDowall, Sharleen",Green Party of Canada,Grn,f,f,1832,4
+38,ON,6,BRAMALEA--GORE--MALTON,32296,"Chilelli, Frank",Marxist-Leninist Party,M-L,f,f,237,5
+38,ON,7,BRAMPTON WEST,32297,"Beaumier, Colleen",Liberal,Lib,t,f,21254,1
+38,ON,7,BRAMPTON WEST,32298,"Clement, Tony",Conservative Party of Canada,Con,f,f,18768,2
+38,ON,7,BRAMPTON WEST,32299,"Moise, Chris",New Democratic Party,NDP,f,f,4920,3
+38,ON,7,BRAMPTON WEST,32300,"Goel, Sanjeev",Green Party of Canada,Grn,f,f,1603,4
+38,ON,7,BRAMPTON WEST,32301,"Bose, Tom",Independent,Ind,f,f,371,5
+38,ON,8,BRAMPTON--SPRINGDALE,32302,"Dhalla, Ruby",Liberal,Lib,t,f,19385,1
+38,ON,8,BRAMPTON--SPRINGDALE,32303,"Hundal, Sam",Conservative Party of Canada,Con,f,f,11182,2
+38,ON,8,BRAMPTON--SPRINGDALE,32304,"Pounder, Kathy",New Democratic Party,NDP,f,f,8038,3
+38,ON,8,BRAMPTON--SPRINGDALE,32305,"Hudson, Nick",Green Party of Canada,Grn,f,f,1927,4
+38,ON,8,BRAMPTON--SPRINGDALE,32306,"Mattu, Gurdev Sigh",Communist Party of Canada,Com,f,f,86,5
+38,ON,9,BRANT,32307,"St-Amand, LLoyd",Liberal,Lib,t,f,20455,1
+38,ON,9,BRANT,32308,"Martin, Greg",Conservative Party of Canada,Con,f,f,17792,2
+38,ON,9,BRANT,32309,"Bowering, Lynn",New Democratic Party,NDP,f,f,11826,3
+38,ON,9,BRANT,32310,"Embry, Helen-Anne",Green Party of Canada,Grn,f,f,2738,4
+38,ON,9,BRANT,32311,"Gots, Barra",Christian Heritage Party of Canada,CHP,f,f,570,5
+38,ON,9,BRANT,32312,"Turmel, John C.",Independent,Ind,f,f,373,6
+38,ON,10,BURLINGTON,32313,"Torsney, Paddy",Liberal,Lib,t,f,27423,1
+38,ON,10,BURLINGTON,32314,"Wallace, Mike",Conservative Party of Canada,Con,f,f,23389,2
+38,ON,10,BURLINGTON,32315,"Laird, David",New Democratic Party,NDP,f,f,6581,3
+38,ON,10,BURLINGTON,32316,"Reid, Angela",Green Party of Canada,Grn,f,f,3169,4
+38,ON,10,BURLINGTON,32317,"Wubs, John Herman",Christian Heritage Party of Canada,CHP,f,f,429,5
+38,ON,11,CAMBRIDGE,32318,"Goodyear, Gary",Conservative Party of Canada,Con,t,f,19123,1
+38,ON,11,CAMBRIDGE,32320,"Peric, Janko",Liberal,Lib,f,f,18899,2
+38,ON,11,CAMBRIDGE,32321,"Price, Gary",New Democratic Party,NDP,f,f,10392,3
+38,ON,11,CAMBRIDGE,32322,"White, Gareth",Green Party of Canada,Grn,f,f,2506,4
+38,ON,11,CAMBRIDGE,32323,"Gots, John",Christian Heritage Party of Canada,CHP,f,f,395,5
+38,ON,11,CAMBRIDGE,32319,"Oprea, John",Independent,Ind,f,f,134,6
+38,ON,11,CAMBRIDGE,32324,"Gryc, Alex",Independent,Ind,f,f,114,7
+38,ON,12,CARLETON--LANARK,32325,"O'Connor, Gordon",Conservative Party of Canada,Con,t,f,32664,1
+38,ON,12,CARLETON--LANARK,32327,"Wicklum, Dan",Liberal,Lib,f,f,22185,2
+38,ON,12,CARLETON--LANARK,32326,"Prashaw, Rick",New Democratic Party,NDP,f,f,6758,3
+38,ON,12,CARLETON--LANARK,32328,"Langstaff, Stuart",Green Party of Canada,Grn,f,f,3665,4
+38,ON,13,CHATHAM-KENT--ESSEX,32329,"Pickard, Jerry",Liberal,Lib,t,f,17435,1
+38,ON,13,CHATHAM-KENT--ESSEX,32332,"Van Kesteren, Dave",Conservative Party of Canada,Con,f,f,17028,2
+38,ON,13,CHATHAM-KENT--ESSEX,32330,"Kevany, Kathleen",New Democratic Party,NDP,f,f,7538,3
+38,ON,13,CHATHAM-KENT--ESSEX,32333,"Hetherington, Rod",Green Party of Canada,Grn,f,f,1845,4
+38,ON,13,CHATHAM-KENT--ESSEX,32331,"Mondaca, Margaret",Marxist-Leninist Party,M-L,f,f,150,5
+38,ON,14,CLARINGTON--SCUGOG--UXBRIDGE,32334,"Oda, Bev",Conservative Party of Canada,Con,t,f,20813,1
+38,ON,14,CLARINGTON--SCUGOG--UXBRIDGE,32335,"Lang, Tim",Liberal,Lib,f,f,19548,2
+38,ON,14,CLARINGTON--SCUGOG--UXBRIDGE,32336,"Rogers, Bruce",New Democratic Party,NDP,f,f,7721,3
+38,ON,14,CLARINGTON--SCUGOG--UXBRIDGE,32337,"Ervin, Virginia",Green Party of Canada,Grn,f,f,2085,4
+38,ON,14,CLARINGTON--SCUGOG--UXBRIDGE,32338,"Bruinsma, Durk",Christian Heritage Party of Canada,CHP,f,f,915,5
+38,ON,15,DAVENPORT,32339,"Silva, Mario",Liberal,Lib,t,f,16773,1
+38,ON,15,DAVENPORT,32341,"Pires, Rui",New Democratic Party,NDP,f,f,11292,2
+38,ON,15,DAVENPORT,32340,"Rodrigues, Theresa",Conservative Party of Canada,Con,f,f,3077,3
+38,ON,15,DAVENPORT,32342,"O'Brien, Mark",Green Party of Canada,Grn,f,f,1384,4
+38,ON,15,DAVENPORT,32343,"Gale, Elmer",Marijuana Party,Marij,f,f,251,5
+38,ON,15,DAVENPORT,32344,"Boyden, Johan",Communist Party of Canada,Com,f,f,137,6
+38,ON,15,DAVENPORT,32345,"Riddell, John",Canadian Action Party,CAP,f,f,97,7
+38,ON,15,DAVENPORT,32346,"Thompson, Sarah",Marxist-Leninist Party,M-L,f,f,79,8
+38,ON,16,DON VALLEY EAST,32347,"Ratansi, Yasmin",Liberal,Lib,t,f,21864,1
+38,ON,16,DON VALLEY EAST,32348,"Johnson, David",Conservative Party of Canada,Con,f,f,11206,2
+38,ON,16,DON VALLEY EAST,32349,"Mah, Valerie",New Democratic Party,NDP,f,f,5287,3
+38,ON,16,DON VALLEY EAST,32350,"King, Dan",Green Party of Canada,Grn,f,f,1172,4
+38,ON,16,DON VALLEY EAST,32351,"Kidd, Ryan",Christian Heritage Party of Canada,CHP,f,f,351,5
+38,ON,16,DON VALLEY EAST,32352,"Black, Christopher",Communist Party of Canada,Com,f,f,149,6
+38,ON,17,DON VALLEY WEST,32353,"Godfrey, John",Liberal,Lib,t,f,30615,1
+38,ON,17,DON VALLEY WEST,32354,"Turnbull, David",Conservative Party of Canada,Con,f,f,14495,2
+38,ON,17,DON VALLEY WEST,32355,"Thomas, David",New Democratic Party,NDP,f,f,4393,3
+38,ON,17,DON VALLEY WEST,32356,"Abbat, Serge",Green Party of Canada,Grn,f,f,1703,4
+38,ON,18,DUFFERIN--CALEDON,32357,"Tilson, David",Conservative Party of Canada,Con,t,f,19270,1
+38,ON,18,DUFFERIN--CALEDON,32358,"Calder, Murray",Liberal,Lib,f,f,17557,2
+38,ON,18,DUFFERIN--CALEDON,32359,"Alexander, Ted",Green Party of Canada,Grn,f,f,3947,3
+38,ON,18,DUFFERIN--CALEDON,32360,"Landry, Rita",New Democratic Party,NDP,f,f,3798,4
+38,ON,18,DUFFERIN--CALEDON,32361,"Ellis, Ursula",Christian Heritage Party of Canada,CHP,f,f,443,5
+38,ON,19,EGLINTON--LAWRENCE,32362,"Volpe, Joseph",Liberal,Lib,t,f,28360,1
+38,ON,19,EGLINTON--LAWRENCE,32363,"Tanz, Bernie",Conservative Party of Canada,Con,f,f,11792,2
+38,ON,19,EGLINTON--LAWRENCE,32364,"Silverman, Max",New Democratic Party,NDP,f,f,4886,3
+38,ON,19,EGLINTON--LAWRENCE,32365,"Goldstein, Shel",Green Party of Canada,Grn,f,f,1924,4
+38,ON,19,EGLINTON--LAWRENCE,32366,"Prévost, Corrinne",Canadian Action Party,CAP,f,f,115,5
+38,ON,20,ELGIN--MIDDLESEX--LONDON,32367,"Preston, Joe",Conservative Party of Canada,Con,t,f,20333,1
+38,ON,20,ELGIN--MIDDLESEX--LONDON,32368,"Knutson, Gar",Liberal,Lib,f,f,15860,2
+38,ON,20,ELGIN--MIDDLESEX--LONDON,32369,"McCallum, Tim",New Democratic Party,NDP,f,f,6763,3
+38,ON,20,ELGIN--MIDDLESEX--LONDON,32370,"Stodolny, Julie-Ann",Green Party of Canada,Grn,f,f,2033,4
+38,ON,20,ELGIN--MIDDLESEX--LONDON,32371,"DeVries, Ken",Christian Heritage Party of Canada,CHP,f,f,1246,5
+38,ON,20,ELGIN--MIDDLESEX--LONDON,32372,"Arlow, Will",Canadian Action Party,CAP,f,f,146,6
+38,ON,21,ESSEX,32373,"Watson, Jeff",Conservative Party of Canada,Con,t,f,18755,1
+38,ON,21,ESSEX,32374,"Whelan, Susan",Liberal,Lib,f,f,17926,2
+38,ON,21,ESSEX,32375,"Tremblay, David",New Democratic Party,NDP,f,f,12519,3
+38,ON,21,ESSEX,32376,"Forman, Paul",Green Party of Canada,Grn,f,f,1981,4
+38,ON,21,ESSEX,32377,"Cruise, Robert",Marxist-Leninist Party,M-L,f,f,105,5
+38,ON,22,ETOBICOKE CENTRE,32378,"Wrzesnewskyj, Borys",Liberal,Lib,t,f,30441,1
+38,ON,22,ETOBICOKE CENTRE,32379,"Preyma, Lida",Conservative Party of Canada,Con,f,f,14829,2
+38,ON,22,ETOBICOKE CENTRE,32380,"Richmond, John",New Democratic Party,NDP,f,f,5174,3
+38,ON,22,ETOBICOKE CENTRE,32381,"Pearson, Margo",Green Party of Canada,Grn,f,f,1676,4
+38,ON,22,ETOBICOKE CENTRE,32382,"Tremblay, France",Marxist-Leninist Party,M-L,f,f,112,5
+38,ON,23,ETOBICOKE NORTH,32383,"Cullen, Roy",Liberal,Lib,t,f,19450,1
+38,ON,23,ETOBICOKE NORTH,32384,"Nannar, Rupinder",Conservative Party of Canada,Con,f,f,5737,2
+38,ON,23,ETOBICOKE NORTH,32385,"Martello, Cesar",New Democratic Party,NDP,f,f,3761,3
+38,ON,23,ETOBICOKE NORTH,32386,"Ubbens, William",Christian Heritage Party of Canada,CHP,f,f,661,4
+38,ON,23,ETOBICOKE NORTH,32387,"Kamal, Mir",Green Party of Canada,Grn,f,f,605,5
+38,ON,23,ETOBICOKE NORTH,32388,"Szebik, George",Independent,Ind,f,f,309,6
+38,ON,23,ETOBICOKE NORTH,32389,"Di Carlo, Anna",Marxist-Leninist Party,M-L,f,f,195,7
+38,ON,24,ETOBICOKE--LAKESHORE,32390,"Augustine, Jean",Liberal,Lib,t,f,24909,1
+38,ON,24,ETOBICOKE--LAKESHORE,32391,"Capobianco, John",Conservative Party of Canada,Con,f,f,15159,2
+38,ON,24,ETOBICOKE--LAKESHORE,32392,"McHugh, Margaret Anne",New Democratic Party,NDP,f,f,7179,3
+38,ON,24,ETOBICOKE--LAKESHORE,32393,"Huculiak, John",Green Party of Canada,Grn,f,f,2201,4
+38,ON,24,ETOBICOKE--LAKESHORE,32394,"Murray, Janice",Marxist-Leninist Party,M-L,f,f,129,5
+38,ON,25,GLENGARRY--PRESCOTT--RUSSELL,32395,"Boudria, Don",Liberal,Lib,t,f,23921,1
+38,ON,25,GLENGARRY--PRESCOTT--RUSSELL,32396,"Lalonde, Alain",Conservative Party of Canada,Con,f,f,18729,2
+38,ON,25,GLENGARRY--PRESCOTT--RUSSELL,32397,"Cauvier, Martin",New Democratic Party,NDP,f,f,4238,3
+38,ON,25,GLENGARRY--PRESCOTT--RUSSELL,32398,"Fjarlie, Roy",Green Party of Canada,Grn,f,f,2634,4
+38,ON,25,GLENGARRY--PRESCOTT--RUSSELL,32399,"Bloedow, Tim",Christian Heritage Party of Canada,CHP,f,f,464,5
+38,ON,26,GREY--BRUCE--OWEN SOUND,32400,"Miller, Larry",Conservative Party of Canada,Con,t,f,22411,1
+38,ON,26,GREY--BRUCE--OWEN SOUND,32401,"Jackson, Ovid",Liberal,Lib,f,f,17824,2
+38,ON,26,GREY--BRUCE--OWEN SOUND,32402,"Ostertag, Sebastian",New Democratic Party,NDP,f,f,6516,3
+38,ON,26,GREY--BRUCE--OWEN SOUND,32403,"Drossos, Alex",Green Party of Canada,Grn,f,f,2076,4
+38,ON,26,GREY--BRUCE--OWEN SOUND,32404,"Taylor, Steven",Christian Heritage Party of Canada,CHP,f,f,982,5
+38,ON,27,GUELPH,32405,"Chamberlain, Brenda",Liberal,Lib,t,f,23442,1
+38,ON,27,GUELPH,32406,"Dearden, Jon",Conservative Party of Canada,Con,f,f,13721,2
+38,ON,27,GUELPH,32407,"Allt, Phil",New Democratic Party,NDP,f,f,10527,3
+38,ON,27,GUELPH,32408,"Nagy, Mike",Green Party of Canada,Grn,f,f,3866,4
+38,ON,27,GUELPH,32409,"Ellis, Peter",Christian Heritage Party of Canada,CHP,f,f,634,5
+38,ON,27,GUELPH,32410,"Rivard, Lyne",Marijuana Party,Marij,f,f,291,6
+38,ON,27,GUELPH,32411,"Couto, Manuel",Marxist-Leninist Party,M-L,f,f,66,7
+38,ON,28,HALDIMAND--NORFOLK,32412,"Finley, Diane",Conservative Party of Canada,Con,t,f,20981,1
+38,ON,28,HALDIMAND--NORFOLK,32413,"Speller, Bob",Liberal,Lib,f,f,19336,2
+38,ON,28,HALDIMAND--NORFOLK,32414,"Sinkowski, Carrie",New Democratic Party,NDP,f,f,7143,3
+38,ON,28,HALDIMAND--NORFOLK,32415,"Jones, Colin",Green Party of Canada,Grn,f,f,1703,4
+38,ON,28,HALDIMAND--NORFOLK,32416,"Elgersma, Steven",Christian Heritage Party of Canada,CHP,f,f,617,5
+38,ON,29,HALIBURTON--KAWARTHA LAKES--BROCK,32417,"Devolin, Barry",Conservative Party of Canada,Con,t,f,24731,1
+38,ON,29,HALIBURTON--KAWARTHA LAKES--BROCK,32418,"O'Reilly, John",Liberal,Lib,f,f,19294,2
+38,ON,29,HALIBURTON--KAWARTHA LAKES--BROCK,32419,"McElroy, Gil",New Democratic Party,NDP,f,f,8427,3
+38,ON,29,HALIBURTON--KAWARTHA LAKES--BROCK,32420,"Holland, Tim",Green Party of Canada,Grn,f,f,2637,4
+38,ON,29,HALIBURTON--KAWARTHA LAKES--BROCK,32421,"Vogel, Peter",Christian Heritage Party of Canada,CHP,f,f,493,5
+38,ON,29,HALIBURTON--KAWARTHA LAKES--BROCK,32422,"Olito, Charles",Independent,Ind,f,f,330,6
+38,ON,30,HALTON,32423,"Carr, Gary",Liberal,Lib,t,f,27362,1
+38,ON,30,HALTON,32424,"Martin, Dean",Conservative Party of Canada,Con,f,f,21704,2
+38,ON,30,HALTON,32425,"Naqvi, Anwar",New Democratic Party,NDP,f,f,4642,3
+38,ON,30,HALTON,32426,"Marchetti, Frank",Green Party of Canada,Grn,f,f,2889,4
+38,ON,31,HAMILTON CENTRE,32427,"Christopherson, David",New Democratic Party,NDP,t,f,20321,1
+38,ON,31,HAMILTON CENTRE,32428,"Keyes, Stan",Liberal,Lib,f,f,14948,2
+38,ON,31,HAMILTON CENTRE,32429,"O'Connor, Leon Patrick",Conservative Party of Canada,Con,f,f,6714,3
+38,ON,31,HAMILTON CENTRE,32430,"Pavlov, Anne Marie",Green Party of Canada,Grn,f,f,1422,4
+38,ON,31,HAMILTON CENTRE,32431,"Downey, Stephen",Christian Heritage Party of Canada,CHP,f,f,520,5
+38,ON,31,HAMILTON CENTRE,32432,"Baldasaro, Michael",Independent,Ind,f,f,345,6
+38,ON,31,HAMILTON CENTRE,32433,"Ghaddar, Jamile",Marxist-Leninist Party,M-L,f,f,91,7
+38,ON,32,HAMILTON EAST--STONEY CREEK,32434,"Valeri, Tony",Liberal,Lib,t,f,18417,1
+38,ON,32,HAMILTON EAST--STONEY CREEK,32435,"DePaulo, Tony",New Democratic Party,NDP,f,f,17490,2
+38,ON,32,HAMILTON EAST--STONEY CREEK,32436,"Eisenberger, Fred",Conservative Party of Canada,Con,f,f,10888,3
+38,ON,32,HAMILTON EAST--STONEY CREEK,32437,"Safka, Richard",Green Party of Canada,Grn,f,f,1446,4
+38,ON,32,HAMILTON EAST--STONEY CREEK,32438,"Cino, Sam",Independent,Ind,f,f,393,5
+38,ON,32,HAMILTON EAST--STONEY CREEK,32439,"Mann, Bob",Communist Party of Canada,Com,f,f,166,6
+38,ON,33,HAMILTON MOUNTAIN,32440,"Phinney, Beth",Liberal,Lib,t,f,18548,1
+38,ON,33,HAMILTON MOUNTAIN,32441,"Charlton, Chris",New Democratic Party,NDP,f,f,17552,2
+38,ON,33,HAMILTON MOUNTAIN,32442,"Jackson, Tom",Conservative Party of Canada,Con,f,f,15590,3
+38,ON,33,HAMILTON MOUNTAIN,32443,"Pavlov, Jo",Green Party of Canada,Grn,f,f,1378,4
+38,ON,33,HAMILTON MOUNTAIN,32444,"Lane, Paul",Marxist-Leninist Party,M-L,f,f,214,5
+38,ON,34,HURON--BRUCE,32445,"Steckle, Paul",Liberal,Lib,t,f,25538,1
+38,ON,34,HURON--BRUCE,32446,"Fisher, Barb",Conservative Party of Canada,Con,f,f,15930,2
+38,ON,34,HURON--BRUCE,32447,"Robertson, Grant",New Democratic Party,NDP,f,f,6707,3
+38,ON,34,HURON--BRUCE,32448,"Vasey, Dave",Green Party of Canada,Grn,f,f,1518,4
+38,ON,34,HURON--BRUCE,32449,"Joslin, Dave",Christian Heritage Party of Canada,CHP,f,f,958,5
+38,ON,34,HURON--BRUCE,32450,"Smith, Glen",Marijuana Party,Marij,f,f,638,6
+38,ON,35,KENORA,32451,"Valley, Roger",Liberal,Lib,t,f,8563,1
+38,ON,35,KENORA,32452,"Barclay, Susan",New Democratic Party,NDP,f,f,7577,2
+38,ON,35,KENORA,32453,"Brown, Bill",Conservative Party of Canada,Con,f,f,6598,3
+38,ON,35,KENORA,32454,"Chaboyer, Carl",Green Party of Canada,Grn,f,f,898,4
+38,ON,36,KINGSTON AND THE ISLANDS,32455,"Milliken, Peter",Liberal,Lib,t,f,28544,1
+38,ON,36,KINGSTON AND THE ISLANDS,32456,"MacLean, Blair",Conservative Party of Canada,Con,f,f,12582,2
+38,ON,36,KINGSTON AND THE ISLANDS,32457,"Hutchison, Rob",New Democratic Party,NDP,f,f,8964,3
+38,ON,36,KINGSTON AND THE ISLANDS,32458,"Fisher Balfour, Janina",Green Party of Canada,Grn,f,f,3339,4
+38,ON,36,KINGSTON AND THE ISLANDS,32459,"Marshall, Terry",Christian Heritage Party of Canada,CHP,f,f,481,5
+38,ON,36,KINGSTON AND THE ISLANDS,32460,"Elston, Rosie The Clown",Independent,Ind,f,f,237,6
+38,ON,36,KINGSTON AND THE ISLANDS,32461,"Rogers, Don",Canadian Action Party,CAP,f,f,179,7
+38,ON,36,KINGSTON AND THE ISLANDS,32462,"Walker, Karl",Independent,Ind,f,f,100,8
+38,ON,37,KITCHENER CENTRE,32463,"Redman, Karen",Liberal,Lib,t,f,21264,1
+38,ON,37,KITCHENER CENTRE,32464,"Ichim, Thomas",Conservative Party of Canada,Con,f,f,12412,2
+38,ON,37,KITCHENER CENTRE,32465,"Walsh-Bowers, Richard",New Democratic Party,NDP,f,f,8717,3
+38,ON,37,KITCHENER CENTRE,32466,"Vesely, Karol",Green Party of Canada,Grn,f,f,2450,4
+38,ON,37,KITCHENER CENTRE,32467,"Corbiere, Mark",Independent,Ind,f,f,277,5
+38,ON,38,KITCHENER--CONESTOGA,32468,"Myers, Lynn",Liberal,Lib,t,f,17819,1
+38,ON,38,KITCHENER--CONESTOGA,32469,"Luellau, Frank",Conservative Party of Canada,Con,f,f,14903,2
+38,ON,38,KITCHENER--CONESTOGA,32470,"Carter, Len",New Democratic Party,NDP,f,f,6623,3
+38,ON,38,KITCHENER--CONESTOGA,32471,"Stapleton, Kris",Green Party of Canada,Grn,f,f,2793,4
+38,ON,39,KITCHENER--WATERLOO,32472,"Telegdi, Andrew",Liberal,Lib,t,f,28015,1
+38,ON,39,KITCHENER--WATERLOO,32473,"Strauss, Steve",Conservative Party of Canada,Con,f,f,17155,2
+38,ON,39,KITCHENER--WATERLOO,32474,"Laryea, Edwin",New Democratic Party,NDP,f,f,9267,3
+38,ON,39,KITCHENER--WATERLOO,32475,"Richards, Pauline",Green Party of Canada,Grn,f,f,3277,4
+38,ON,39,KITCHENER--WATERLOO,32476,"Ellis, Frank",Christian Heritage Party of Canada,CHP,f,f,379,5
+38,ON,39,KITCHENER--WATERLOO,32477,"Mihalcea, Ciprian",Independent,Ind,f,f,124,6
+38,ON,40,LANARK--FRONTENAC--LENNOX AND ADDINGTON,32478,"Reid, Scott",Conservative Party of Canada,Con,t,f,27566,1
+38,ON,40,LANARK--FRONTENAC--LENNOX AND ADDINGTON,32479,"Mc Cormick, Larry",Liberal,Lib,f,f,17507,2
+38,ON,40,LANARK--FRONTENAC--LENNOX AND ADDINGTON,32480,"Sutherland, Ross",New Democratic Party,NDP,f,f,7418,3
+38,ON,40,LANARK--FRONTENAC--LENNOX AND ADDINGTON,32481,"Baranyi, John",Green Party of Canada,Grn,f,f,2736,4
+38,ON,40,LANARK--FRONTENAC--LENNOX AND ADDINGTON,32482,"Vankoughnet, Bill",Independent,Ind,f,f,820,5
+38,ON,40,LANARK--FRONTENAC--LENNOX AND ADDINGTON,32483,"Kolaczynski, George Walter",Marijuana Party,Marij,f,f,479,6
+38,ON,41,LEEDS--GRENVILLE,32484,"Brown, Gord",Conservative Party of Canada,Con,t,f,26002,1
+38,ON,41,LEEDS--GRENVILLE,32485,"Jordan, Joe",Liberal,Lib,f,f,16967,2
+38,ON,41,LEEDS--GRENVILLE,32486,"Armstrong, Steve",New Democratic Party,NDP,f,f,5834,3
+38,ON,41,LEEDS--GRENVILLE,32487,"Bradshaw, Chris",Green Party of Canada,Grn,f,f,2722,4
+38,ON,42,LONDON NORTH CENTRE,32488,"Fontana, Joe",Liberal,Lib,t,f,21472,1
+38,ON,42,LONDON NORTH CENTRE,32489,"Gatten, Tim",Conservative Party of Canada,Con,f,f,13677,2
+38,ON,42,LONDON NORTH CENTRE,32490,"Swan, Joe",New Democratic Party,NDP,f,f,12034,3
+38,ON,42,LONDON NORTH CENTRE,32491,"Morgan, Bronagh",Green Party of Canada,Grn,f,f,2376,4
+38,ON,42,LONDON NORTH CENTRE,32492,"Morley, Rod",Progressive Canadian Party,PCdnP,f,f,220,5
+38,ON,42,LONDON NORTH CENTRE,32493,"Granados-Ocon, Gustavo",Marxist-Leninist Party,M-L,f,f,67,6
+38,ON,43,LONDON WEST,32494,"Barnes, Sue",Liberal,Lib,t,f,25061,1
+38,ON,43,LONDON WEST,32495,"Menear, Mike",Conservative Party of Canada,Con,f,f,17335,2
+38,ON,43,LONDON WEST,32496,"Barber, Gina",New Democratic Party,NDP,f,f,9522,3
+38,ON,43,LONDON WEST,32497,"Bromwich, Rebecca",Green Party of Canada,Grn,f,f,2611,4
+38,ON,43,LONDON WEST,32498,"Hunter, Steve",Progressive Canadian Party,PCdnP,f,f,511,5
+38,ON,43,LONDON WEST,32499,"Villamizar, Margaret",Marxist-Leninist Party,M-L,f,f,67,6
+38,ON,44,LONDON--FANSHAWE,32500,"O'Brien, Pat",Liberal,Lib,t,f,15664,1
+38,ON,44,LONDON--FANSHAWE,32501,"Mathyssen, Irene",New Democratic Party,NDP,f,f,12511,2
+38,ON,44,LONDON--FANSHAWE,32502,"Mazzilli, John",Conservative Party of Canada,Con,f,f,10811,3
+38,ON,44,LONDON--FANSHAWE,32503,"Moore, Ed",Green Party of Canada,Grn,f,f,1634,4
+38,ON,44,LONDON--FANSHAWE,32504,"Bellaire, Derrall",Progressive Canadian Party,PCdnP,f,f,453,5
+38,ON,44,LONDON--FANSHAWE,32505,"Switzer, Cameron",Marxist-Leninist Party,M-L,f,f,65,6
+38,ON,45,MARKHAM--UNIONVILLE,32506,"McCallum, John",Liberal,Lib,t,f,30442,1
+38,ON,45,MARKHAM--UNIONVILLE,32507,"Li, Joe",Conservative Party of Canada,Con,f,f,10325,2
+38,ON,45,MARKHAM--UNIONVILLE,32508,"Hagan, Janice",New Democratic Party,NDP,f,f,3993,3
+38,ON,45,MARKHAM--UNIONVILLE,32509,"Wong, Ed",Green Party of Canada,Grn,f,f,1148,4
+38,ON,46,MIDDLESEX--KENT--LAMBTON,32510,"Ur, Rose-Marie",Liberal,Lib,t,f,19452,1
+38,ON,46,MIDDLESEX--KENT--LAMBTON,32511,"Shipley, Bev",Conservative Party of Canada,Con,f,f,19288,2
+38,ON,46,MIDDLESEX--KENT--LAMBTON,32512,"Blake, Kevin",New Democratic Party,NDP,f,f,7376,3
+38,ON,46,MIDDLESEX--KENT--LAMBTON,32513,"McKeown, Allan",Green Party of Canada,Grn,f,f,1834,4
+38,ON,46,MIDDLESEX--KENT--LAMBTON,32514,"James, Allan",Christian Heritage Party of Canada,CHP,f,f,1015,5
+38,ON,47,MISSISSAUGA EAST--COOKSVILLE,32515,"Guarnieri, Albina",Liberal,Lib,t,f,22435,1
+38,ON,47,MISSISSAUGA EAST--COOKSVILLE,32516,"Defaria, Riina",Conservative Party of Canada,Con,f,f,10299,2
+38,ON,47,MISSISSAUGA EAST--COOKSVILLE,32517,"Gill, Jim",New Democratic Party,NDP,f,f,4619,3
+38,ON,47,MISSISSAUGA EAST--COOKSVILLE,32518,"Hinchliffe, Jason",Green Party of Canada,Grn,f,f,1167,4
+38,ON,47,MISSISSAUGA EAST--COOKSVILLE,32519,"Wong, Sally",Christian Heritage Party of Canada,CHP,f,f,778,5
+38,ON,47,MISSISSAUGA EAST--COOKSVILLE,32520,"Chénier, Pierre",Marxist-Leninist Party,M-L,f,f,154,6
+38,ON,47,MISSISSAUGA EAST--COOKSVILLE,32521,"Seitz, Andrew",Independent,Ind,f,f,114,7
+38,ON,48,MISSISSAUGA SOUTH,32522,"Szabo, Paul John Mark",Liberal,Lib,t,f,24628,1
+38,ON,48,MISSISSAUGA SOUTH,32523,"Green, Phil",Conservative Party of Canada,Con,f,f,16027,2
+38,ON,48,MISSISSAUGA SOUTH,32524,"Culkin, Michael",New Democratic Party,NDP,f,f,5004,3
+38,ON,48,MISSISSAUGA SOUTH,32525,"Jain, Neeraj",Green Party of Canada,Grn,f,f,1899,4
+38,ON,48,MISSISSAUGA SOUTH,32526,"Sullivan, Dagmar",Marxist-Leninist Party,M-L,f,f,107,5
+38,ON,49,MISSISSAUGA--BRAMPTON SOUTH,32527,"Bains, Navdeep",Liberal,Lib,t,f,24753,1
+38,ON,49,MISSISSAUGA--BRAMPTON SOUTH,32528,"Sandhu, Parvinder",Conservative Party of Canada,Con,f,f,10433,2
+38,ON,49,MISSISSAUGA--BRAMPTON SOUTH,32529,"Taylor, Larry",New Democratic Party,NDP,f,f,6411,3
+38,ON,49,MISSISSAUGA--BRAMPTON SOUTH,32530,"Simas, Paul",Green Party of Canada,Grn,f,f,1525,4
+38,ON,49,MISSISSAUGA--BRAMPTON SOUTH,32531,"Gershuny, David",Marxist-Leninist Party,M-L,f,f,185,5
+38,ON,50,MISSISSAUGA--ERINDALE,32532,"Parrish, Carolyn",Liberal,Lib,t,f,28246,1
+38,ON,50,MISSISSAUGA--ERINDALE,32533,"Dechert, Bob",Conservative Party of Canada,Con,f,f,16600,2
+38,ON,50,MISSISSAUGA--ERINDALE,32534,"Black, Simon",New Democratic Party,NDP,f,f,5104,3
+38,ON,50,MISSISSAUGA--ERINDALE,32535,"Brownridge, Jeff",Green Party of Canada,Grn,f,f,1855,4
+38,ON,50,MISSISSAUGA--ERINDALE,32536,"Greig, David",Marxist-Leninist Party,M-L,f,f,145,5
+38,ON,51,MISSISSAUGA--STREETSVILLE,32537,"Khan, Wajid",Liberal,Lib,t,f,22768,1
+38,ON,51,MISSISSAUGA--STREETSVILLE,32538,"Tangri, Nina",Conservative Party of Canada,Con,f,f,14287,2
+38,ON,51,MISSISSAUGA--STREETSVILLE,32539,"Rai, Manjinder",New Democratic Party,NDP,f,f,4266,3
+38,ON,51,MISSISSAUGA--STREETSVILLE,32540,"Casanova, Otto",Green Party of Canada,Grn,f,f,2415,4
+38,ON,51,MISSISSAUGA--STREETSVILLE,32541,"Creighton, Peter",Progressive Canadian Party,PCdnP,f,f,1293,5
+38,ON,52,NEPEAN--CARLETON,32542,"Poilievre, Pierre",Conservative Party of Canada,Con,t,f,30420,1
+38,ON,52,NEPEAN--CARLETON,32543,"Pratt, David",Liberal,Lib,f,f,26684,2
+38,ON,52,NEPEAN--CARLETON,32544,"Brown, Phil",New Democratic Party,NDP,f,f,6072,3
+38,ON,52,NEPEAN--CARLETON,32545,"Walker, Chris  Paul",Green Party of Canada,Grn,f,f,2886,4
+38,ON,52,NEPEAN--CARLETON,32546,"Powers, Brad",Marijuana Party,Marij,f,f,561,5
+38,ON,53,NEWMARKET--AURORA,32547,"Stronach, Belinda",Conservative Party of Canada,Con,t,f,21818,1
+38,ON,53,NEWMARKET--AURORA,32548,"Hall Findlay, Martha",Liberal,Lib,f,f,21129,2
+38,ON,53,NEWMARKET--AURORA,32549,"Chudak, Ed",New Democratic Party,NDP,f,f,5111,3
+38,ON,53,NEWMARKET--AURORA,32550,"Wyatt, Daryl",Green Party of Canada,Grn,f,f,2298,4
+38,ON,53,NEWMARKET--AURORA,32551,"Baxter, Dorian",Progressive Canadian Party,PCdnP,f,f,1079,5
+38,ON,54,NIAGARA FALLS,32552,"Nicholson, Rob",Conservative Party of Canada,Con,t,f,19882,1
+38,ON,54,NIAGARA FALLS,32553,"Pietrangelo, Victor",Liberal,Lib,f,f,18745,2
+38,ON,54,NIAGARA FALLS,32554,"Gates, Wayne",New Democratic Party,NDP,f,f,10680,3
+38,ON,54,NIAGARA FALLS,32555,"Mousseau, Ted",Green Party of Canada,Grn,f,f,2071,4
+38,ON,55,NIAGARA WEST--GLANBROOK,32556,"Allison, Dean",Conservative Party of Canada,Con,t,f,20874,1
+38,ON,55,NIAGARA WEST--GLANBROOK,32557,"Zimmerman, Debbie",Liberal,Lib,f,f,20210,2
+38,ON,55,NIAGARA WEST--GLANBROOK,32558,"Heatley, Dave",New Democratic Party,NDP,f,f,7681,3
+38,ON,55,NIAGARA WEST--GLANBROOK,32559,"Ferguson, Tom",Green Party of Canada,Grn,f,f,1761,4
+38,ON,55,NIAGARA WEST--GLANBROOK,32560,"Bylsma, David",Christian Heritage Party of Canada,CHP,f,f,1107,5
+38,ON,55,NIAGARA WEST--GLANBROOK,32561,"Rose, Phil",Canadian Action Party,CAP,f,f,179,6
+38,ON,56,NICKEL BELT,32562,"Bonin, Raymond",Liberal,Lib,t,f,17188,1
+38,ON,56,NICKEL BELT,32563,"Gravelle, Claude",New Democratic Party,NDP,f,f,13980,2
+38,ON,56,NICKEL BELT,32564,"Dupont, Mike",Conservative Party of Canada,Con,f,f,7628,3
+38,ON,56,NICKEL BELT,32565,"Lafleur, Steve",Green Party of Canada,Grn,f,f,1031,4
+38,ON,56,NICKEL BELT,32566,"Ethier, Michel",Marijuana Party,Marij,f,f,430,5
+38,ON,56,NICKEL BELT,32567,"Lavallee, Don",Independent,Ind,f,f,217,6
+38,ON,56,NICKEL BELT,32568,"Rutchinski, Steve",Marxist-Leninist Party,M-L,f,f,51,7
+38,ON,57,NIPISSING--TIMISKAMING,32569,"Rota, Anthony",Liberal,Lib,t,f,18254,1
+38,ON,57,NIPISSING--TIMISKAMING,32570,"McDonald, Al",Conservative Party of Canada,Con,f,f,16001,2
+38,ON,57,NIPISSING--TIMISKAMING,32571,"Fluri, Dave",New Democratic Party,NDP,f,f,7354,3
+38,ON,57,NIPISSING--TIMISKAMING,32572,"Wilcox, Les",Green Party of Canada,Grn,f,f,1329,4
+38,ON,57,NIPISSING--TIMISKAMING,32573,"MacLean, Ross",Canadian Action Party,CAP,f,f,204,5
+38,ON,58,NORTHUMBERLAND--QUINTE WEST,32574,"Macklin, Paul",Liberal,Lib,t,f,22989,1
+38,ON,58,NORTHUMBERLAND--QUINTE WEST,32575,"Galt, Doug",Conservative Party of Canada,Con,f,f,22676,2
+38,ON,58,NORTHUMBERLAND--QUINTE WEST,32576,"Christianson, Russ",New Democratic Party,NDP,f,f,9007,3
+38,ON,58,NORTHUMBERLAND--QUINTE WEST,32577,"Haylestrom, Steven",Green Party of Canada,Grn,f,f,3016,4
+38,ON,59,OAK RIDGES--MARKHAM,32578,"Temelkovski, Lui",Liberal,Lib,t,f,31964,1
+38,ON,59,OAK RIDGES--MARKHAM,32579,"Callow, Bob",Conservative Party of Canada,Con,f,f,20712,2
+38,ON,59,OAK RIDGES--MARKHAM,32580,"Courtot, Pamela",New Democratic Party,NDP,f,f,5430,3
+38,ON,59,OAK RIDGES--MARKHAM,32581,"Manning, Bernadette",Green Party of Canada,Grn,f,f,2406,4
+38,ON,59,OAK RIDGES--MARKHAM,32582,"Conrad, Jim",Progressive Canadian Party,PCdnP,f,f,820,5
+38,ON,59,OAK RIDGES--MARKHAM,32583,"Whittle, Maurice",Christian Heritage Party of Canada,CHP,f,f,458,6
+38,ON,60,OAKVILLE,32584,"Brown, M.A. Bonnie",Liberal,Lib,t,f,28729,1
+38,ON,60,OAKVILLE,32586,"Byers, Rick",Conservative Party of Canada,Con,f,f,19524,2
+38,ON,60,OAKVILLE,32587,"Myrden, Alison",New Democratic Party,NDP,f,f,4027,3
+38,ON,60,OAKVILLE,32588,"Orton, Tania",Green Party of Canada,Grn,f,f,2861,4
+38,ON,60,OAKVILLE,32585,"Shahbaz, Zeshan",Canadian Action Party,CAP,f,f,95,5
+38,ON,61,OSHAWA,32589,"Carrie, Colin",Conservative Party of Canada,Con,t,f,15815,1
+38,ON,61,OSHAWA,32590,"Ryan, Sid",New Democratic Party,NDP,f,f,15352,2
+38,ON,61,OSHAWA,32591,"Parkes, Louise",Liberal,Lib,f,f,14510,3
+38,ON,61,OSHAWA,32592,"Walley, Liisa",Green Party of Canada,Grn,f,f,1850,4
+38,ON,61,OSHAWA,32593,"Sullivan, Tim",Marxist-Leninist Party,M-L,f,f,91,5
+38,ON,62,OTTAWA CENTRE,32594,"Broadbent, Ed",New Democratic Party,NDP,t,f,25734,1
+38,ON,62,OTTAWA CENTRE,32595,"Mahoney, Richard",Liberal,Lib,f,f,19478,2
+38,ON,62,OTTAWA CENTRE,32596,"Murphy, Mike",Conservative Party of Canada,Con,f,f,11933,3
+38,ON,62,OTTAWA CENTRE,32597,"Chernushenko, David",Green Party of Canada,Grn,f,f,4730,4
+38,ON,62,OTTAWA CENTRE,32598,"Foster, Michael",Marijuana Party,Marij,f,f,455,5
+38,ON,62,OTTAWA CENTRE,32599,"Gauthier, Robert G.",Independent,Ind,f,f,121,6
+38,ON,62,OTTAWA CENTRE,32600,"Ryan, Stuart",Communist Party of Canada,Com,f,f,90,7
+38,ON,62,OTTAWA CENTRE,32601,"Dancey, Carla Marie",Canadian Action Party,CAP,f,f,76,8
+38,ON,62,OTTAWA CENTRE,32602,"Lang, Louis",Marxist-Leninist Party,M-L,f,f,67,9
+38,ON,63,OTTAWA SOUTH,32603,"McGuinty, David",Liberal,Lib,t,f,25956,1
+38,ON,63,OTTAWA SOUTH,32604,"Riddell, Alan",Conservative Party of Canada,Con,f,f,20622,2
+38,ON,63,OTTAWA SOUTH,32605,"Mazigh, Monia",New Democratic Party,NDP,f,f,8080,3
+38,ON,63,OTTAWA SOUTH,32606,"Ford, John",Green Party of Canada,Grn,f,f,3398,4
+38,ON,63,OTTAWA SOUTH,32607,"Akpata, John",Marijuana Party,Marij,f,f,495,5
+38,ON,63,OTTAWA SOUTH,32608,"Thomson, Brad",Progressive Canadian Party,PCdnP,f,f,375,6
+38,ON,63,OTTAWA SOUTH,32609,"Aubin, Raymond",Independent,Ind,f,f,225,7
+38,ON,63,OTTAWA SOUTH,32610,"Bains, Saroj",Marxist-Leninist Party,M-L,f,f,79,8
+38,ON,64,OTTAWA WEST--NEPEAN,32611,"Catterall, Marlene",Liberal,Lib,t,f,23971,1
+38,ON,64,OTTAWA WEST--NEPEAN,32612,"Casey, Sean",Conservative Party of Canada,Con,f,f,22591,2
+38,ON,64,OTTAWA WEST--NEPEAN,32613,"Rivier, Marlene",New Democratic Party,NDP,f,f,7449,3
+38,ON,64,OTTAWA WEST--NEPEAN,32614,"Adair, Neil",Green Party of Canada,Grn,f,f,2748,4
+38,ON,64,OTTAWA WEST--NEPEAN,32615,"Barth, Russell",Marijuana Party,Marij,f,f,430,5
+38,ON,64,OTTAWA WEST--NEPEAN,32616,"Haliburton, Mary-Sue",Canadian Action Party,CAP,f,f,121,6
+38,ON,64,OTTAWA WEST--NEPEAN,32617,"Legeais, Alexandre",Marxist-Leninist Party,M-L,f,f,68,7
+38,ON,65,OTTAWA--ORLÉANS,32618,"Godbout, Marc",Liberal,Lib,t,f,26383,1
+38,ON,65,OTTAWA--ORLÉANS,32619,"Robinson, Walter",Conservative Party of Canada,Con,f,f,23655,2
+38,ON,65,OTTAWA--ORLÉANS,32620,"Leblanc, Crystal",New Democratic Party,NDP,f,f,5905,3
+38,ON,65,OTTAWA--ORLÉANS,32621,"Biocchi, Dan",Green Party of Canada,Grn,f,f,2699,4
+38,ON,66,OTTAWA--VANIER,32622,"Bélanger, Mauril",Liberal,Lib,t,f,25952,1
+38,ON,66,OTTAWA--VANIER,32623,"Friday, Kevin",Conservative Party of Canada,Con,f,f,12769,2
+38,ON,66,OTTAWA--VANIER,32624,"Dagenais, Ric",New Democratic Party,NDP,f,f,9787,3
+38,ON,66,OTTAWA--VANIER,32625,"Thierrin, Raphaël",Green Party of Canada,Grn,f,f,3628,4
+38,ON,66,OTTAWA--VANIER,32626,"Taylor, Carol",Marijuana Party,Marij,f,f,558,5
+38,ON,66,OTTAWA--VANIER,32627,"Roy, Françoise",Marxist-Leninist Party,M-L,f,f,85,6
+38,ON,67,OXFORD,32628,"Mackenzie, Dave",Conservative Party of Canada,Con,t,f,20606,1
+38,ON,67,OXFORD,32629,"Coulter, Murray",Liberal,Lib,f,f,14011,2
+38,ON,67,OXFORD,32630,"Kunschner, Zoé Dorcas",New Democratic Party,NDP,f,f,6673,3
+38,ON,67,OXFORD,32631,"Tietz, Irene",Green Party of Canada,Grn,f,f,1951,4
+38,ON,67,OXFORD,32632,"Bartley, Leslie",Christian Heritage Party of Canada,CHP,f,f,1534,5
+38,ON,67,OXFORD,32633,"Bender, James",Marijuana Party,Marij,f,f,794,6
+38,ON,67,OXFORD,32634,"Sargent, Kaye",Libertarian Party of Canada,Libtar,f,f,226,7
+38,ON,67,OXFORD,32635,"Kreider, Alex",Canadian Action Party,CAP,f,f,108,8
+38,ON,68,PARKDALE--HIGH PARK,32636,"Bulte, Sarmite (Sam)",Liberal,Lib,t,f,19727,1
+38,ON,68,PARKDALE--HIGH PARK,32637,"Nash, Peggy",New Democratic Party,NDP,f,f,16201,2
+38,ON,68,PARKDALE--HIGH PARK,32638,"Klufas, Jurij",Conservative Party of Canada,Con,f,f,7221,3
+38,ON,68,PARKDALE--HIGH PARK,32639,"Spiegel, Neil",Green Party of Canada,Grn,f,f,3249,4
+38,ON,68,PARKDALE--HIGH PARK,32640,"Parker, Terry",Marijuana Party,Marij,f,f,384,5
+38,ON,68,PARKDALE--HIGH PARK,32641,"Gershuny, Lorne",Marxist-Leninist Party,M-L,f,f,130,6
+38,ON,69,PARRY SOUND--MUSKOKA,32642,"Mitchell, Andy",Liberal,Lib,t,f,19271,1
+38,ON,69,PARRY SOUND--MUSKOKA,32643,"Montgomery, Keith",Conservative Party of Canada,Con,f,f,15970,2
+38,ON,69,PARRY SOUND--MUSKOKA,32644,"Boulding, Jo-Anne",New Democratic Party,NDP,f,f,5171,3
+38,ON,69,PARRY SOUND--MUSKOKA,32645,"Hodgson, Glen",Green Party of Canada,Grn,f,f,3524,4
+38,ON,70,PERTH--WELLINGTON,32646,"Schellenberger, Gary",Conservative Party of Canada,Con,t,f,18879,1
+38,ON,70,PERTH--WELLINGTON,32647,"Innes, Brian",Liberal,Lib,f,f,15032,2
+38,ON,70,PERTH--WELLINGTON,32648,"Roth, Robert",New Democratic Party,NDP,f,f,7027,3
+38,ON,70,PERTH--WELLINGTON,32649,"Cowling, John",Green Party of Canada,Grn,f,f,2770,4
+38,ON,70,PERTH--WELLINGTON,32650,"Devries, Irma",Christian Heritage Party of Canada,CHP,f,f,1273,5
+38,ON,71,PETERBOROUGH,32651,"Adams, Peter",Liberal,Lib,t,f,25099,1
+38,ON,71,PETERBOROUGH,32652,"Jackson, James",Conservative Party of Canada,Con,f,f,18393,2
+38,ON,71,PETERBOROUGH,32653,"Slavin, Linda",New Democratic Party,NDP,f,f,10957,3
+38,ON,71,PETERBOROUGH,32654,"Wood, Brent",Green Party of Canada,Grn,f,f,3182,4
+38,ON,72,PICKERING--SCARBOROUGH EAST,32655,"McTeague, Dan",Liberal,Lib,t,f,27312,1
+38,ON,72,PICKERING--SCARBOROUGH EAST,32656,"Dobson, Tim",Conservative Party of Canada,Con,f,f,13417,2
+38,ON,72,PICKERING--SCARBOROUGH EAST,32657,"Dale, Gary",New Democratic Party,NDP,f,f,5392,3
+38,ON,72,PICKERING--SCARBOROUGH EAST,32658,"Pollesel, Matthew",Green Party of Canada,Grn,f,f,1809,4
+38,ON,73,PRINCE EDWARD--HASTINGS,32659,"Kramp, Daryl",Conservative Party of Canada,Con,t,f,22598,1
+38,ON,73,PRINCE EDWARD--HASTINGS,32660,"Knutson, Bruce",Liberal,Lib,f,f,20042,2
+38,ON,73,PRINCE EDWARD--HASTINGS,32661,"Douglas, Dan",New Democratic Party,NDP,f,f,8105,3
+38,ON,73,PRINCE EDWARD--HASTINGS,32662,"Lawson, Tom",Green Party of Canada,Grn,f,f,2130,4
+38,ON,73,PRINCE EDWARD--HASTINGS,32663,"Sahadat, Joseph",Independent,Ind,f,f,468,5
+38,ON,74,RENFREW--NIPISSING--PEMBROKE,32664,"Gallant, Cheryl",Conservative Party of Canada,Con,t,f,27494,1
+38,ON,74,RENFREW--NIPISSING--PEMBROKE,32665,"Jamieson, Rob",Liberal,Lib,f,f,14798,2
+38,ON,74,RENFREW--NIPISSING--PEMBROKE,32666,"McSheffrey, Sue",New Democratic Party,NDP,f,f,5720,3
+38,ON,74,RENFREW--NIPISSING--PEMBROKE,32667,"McLeod, Gordon",Green Party of Canada,Grn,f,f,1191,4
+38,ON,74,RENFREW--NIPISSING--PEMBROKE,32668,"Sambey, Stanley",Marijuana Party,Marij,f,f,714,5
+38,ON,75,RICHMOND HILL,32669,"Wilfert, Bryon",Liberal,Lib,t,f,27102,1
+38,ON,75,RICHMOND HILL,32670,"Merrifield, Pete",Conservative Party of Canada,Con,f,f,11530,2
+38,ON,75,RICHMOND HILL,32671,"Cotrupi, C. Nella",New Democratic Party,NDP,f,f,4495,3
+38,ON,75,RICHMOND HILL,32672,"Rudkins, Tim",Green Party of Canada,Grn,f,f,2144,4
+38,ON,75,RICHMOND HILL,32673,"Lam, Ellena",Progressive Canadian Party,PCdnP,f,f,1074,5
+38,ON,76,SARNIA--LAMBTON,32674,"Gallaway, Roger",Liberal,Lib,t,f,19932,1
+38,ON,76,SARNIA--LAMBTON,32675,"Beaubien, Marcel",Conservative Party of Canada,Con,f,f,14500,2
+38,ON,76,SARNIA--LAMBTON,32676,"Agar, Greg",New Democratic Party,NDP,f,f,7764,3
+38,ON,76,SARNIA--LAMBTON,32677,"Cramer, Anthony",Green Party of Canada,Grn,f,f,2548,4
+38,ON,76,SARNIA--LAMBTON,32678,"DeBoer, Gary",Christian Heritage Party of Canada,CHP,f,f,1819,5
+38,ON,76,SARNIA--LAMBTON,32679,"Core, Dave",Independent,Ind,f,f,749,6
+38,ON,76,SARNIA--LAMBTON,32680,"Elliot, John",Independent,Ind,f,f,229,7
+38,ON,77,SAULT STE. MARIE,32681,"Martin, Tony",New Democratic Party,NDP,t,f,16512,1
+38,ON,77,SAULT STE. MARIE,32682,"Provenzano, Carmen",Liberal,Lib,f,f,15760,2
+38,ON,77,SAULT STE. MARIE,32683,"Ross, Cameron",Conservative Party of Canada,Con,f,f,9969,3
+38,ON,77,SAULT STE. MARIE,32684,"Emmerson, Julie",Green Party of Canada,Grn,f,f,814,4
+38,ON,77,SAULT STE. MARIE,32685,"Taffarel, Mike",Marxist-Leninist Party,M-L,f,f,67,5
+38,ON,78,SCARBOROUGH CENTRE,32686,"Cannis, John",Liberal,Lib,t,f,20740,1
+38,ON,78,SCARBOROUGH CENTRE,32687,"Mihtis, John",Conservative Party of Canada,Con,f,f,8515,2
+38,ON,78,SCARBOROUGH CENTRE,32688,"Gogan, Greg",New Democratic Party,NDP,f,f,6156,3
+38,ON,78,SCARBOROUGH CENTRE,32689,"Bonser, Greg",Green Party of Canada,Grn,f,f,1045,4
+38,ON,78,SCARBOROUGH CENTRE,32690,"Sauras, Dorothy",Communist Party of Canada,Com,f,f,152,5
+38,ON,79,SCARBOROUGH SOUTHWEST,32691,"Wappel, Tom",Liberal,Lib,t,f,18776,1
+38,ON,79,SCARBOROUGH SOUTHWEST,32692,"Jewell, Heather",Conservative Party of Canada,Con,f,f,9028,2
+38,ON,79,SCARBOROUGH SOUTHWEST,32693,"Harris, Dan",New Democratic Party,NDP,f,f,8471,3
+38,ON,79,SCARBOROUGH SOUTHWEST,32694,"Van Dalen, Peter",Green Party of Canada,Grn,f,f,1520,4
+38,ON,79,SCARBOROUGH SOUTHWEST,32695,"Rowley, Elizabeth",Communist Party of Canada,Com,f,f,168,5
+38,ON,80,SCARBOROUGH--AGINCOURT,32696,"Karygiannis, Jim",Liberal,Lib,t,f,26400,1
+38,ON,80,SCARBOROUGH--AGINCOURT,32697,"Faust, Andrew",Conservative Party of Canada,Con,f,f,8649,2
+38,ON,80,SCARBOROUGH--AGINCOURT,32698,"Palmer, D'Arcy",New Democratic Party,NDP,f,f,4182,3
+38,ON,80,SCARBOROUGH--AGINCOURT,32699,"Karadimas, Tony",Progressive Canadian Party,PCdnP,f,f,1048,4
+38,ON,80,SCARBOROUGH--AGINCOURT,32700,"Yeechong, Wayne",Green Party of Canada,Grn,f,f,919,5
+38,ON,81,SCARBOROUGH--GUILDWOOD,32701,"Mckay, John",Liberal,Lib,t,f,20950,1
+38,ON,81,SCARBOROUGH--GUILDWOOD,32702,"Varesh, Tom",Conservative Party of Canada,Con,f,f,8277,2
+38,ON,81,SCARBOROUGH--GUILDWOOD,32703,"White, Sheila",New Democratic Party,NDP,f,f,5885,3
+38,ON,81,SCARBOROUGH--GUILDWOOD,32704,"Charbonneau, Paul",Green Party of Canada,Grn,f,f,1106,4
+38,ON,81,SCARBOROUGH--GUILDWOOD,32705,"Thompson, Brenda",Canadian Action Party,CAP,f,f,200,5
+38,ON,82,SCARBOROUGH--ROUGE RIVER,32706,"Lee, Derek",Liberal,Lib,t,f,22564,1
+38,ON,82,SCARBOROUGH--ROUGE RIVER,32707,"Cho, Raymond",Independent,Ind,f,f,6962,2
+38,ON,82,SCARBOROUGH--ROUGE RIVER,32708,"Backhurst, Tony",Conservative Party of Canada,Con,f,f,5184,3
+38,ON,82,SCARBOROUGH--ROUGE RIVER,32709,"Khan, Fauzia",New Democratic Party,NDP,f,f,3635,4
+38,ON,82,SCARBOROUGH--ROUGE RIVER,32710,"Holloway, Kathryn",Green Party of Canada,Grn,f,f,610,5
+38,ON,83,SIMCOE NORTH,32711,"DeVillers, Paul",Liberal,Lib,t,f,23664,1
+38,ON,83,SIMCOE NORTH,32712,"Stock, Peter",Conservative Party of Canada,Con,f,f,20570,2
+38,ON,83,SIMCOE NORTH,32713,"Hill, Jen",New Democratic Party,NDP,f,f,6162,3
+38,ON,83,SIMCOE NORTH,32714,"Kirby, Mary Lou",Green Party of Canada,Grn,f,f,3486,4
+38,ON,83,SIMCOE NORTH,32715,"Kooger, Adrian",Christian Heritage Party of Canada,CHP,f,f,544,5
+38,ON,83,SIMCOE NORTH,32716,"Woods, Ian",Canadian Action Party,CAP,f,f,145,6
+38,ON,84,SIMCOE--GREY,32717,"Guergis, Helena",Conservative Party of Canada,Con,t,f,22496,1
+38,ON,84,SIMCOE--GREY,32718,"Bonwick, Paul",Liberal,Lib,f,f,22396,2
+38,ON,84,SIMCOE--GREY,32719,"Mackinnon, Colin",New Democratic Party,NDP,f,f,5532,3
+38,ON,84,SIMCOE--GREY,32720,"Ellis, Peter",Green Party of Canada,Grn,f,f,2668,4
+38,ON,84,SIMCOE--GREY,32721,"Vander Zaag, Peter",Christian Heritage Party of Canada,CHP,f,f,2285,5
+38,ON,85,ST. CATHARINES,32722,"Lastewka, Walt",Liberal,Lib,t,f,21277,1
+38,ON,85,ST. CATHARINES,32723,"Bonomi, Leo",Conservative Party of Canada,Con,f,f,18261,2
+38,ON,85,ST. CATHARINES,32724,"Mouradian, Ted",New Democratic Party,NDP,f,f,10135,3
+38,ON,85,ST. CATHARINES,32725,"Fannon, Jim",Green Party of Canada,Grn,f,f,1927,4
+38,ON,85,ST. CATHARINES,32726,"Klassen, Linda",Christian Heritage Party of Canada,CHP,f,f,751,5
+38,ON,85,ST. CATHARINES,32727,"Paxton, Jane",Canadian Action Party,CAP,f,f,204,6
+38,ON,85,ST. CATHARINES,32728,"Couto, Elaine",Marxist-Leninist Party,M-L,f,f,61,7
+38,ON,86,ST. PAUL'S,32729,"Bennett, Carolyn",Liberal,Lib,t,f,32171,1
+38,ON,86,ST. PAUL'S,32730,"Cline, Barry",Conservative Party of Canada,Con,f,f,11226,2
+38,ON,86,ST. PAUL'S,32731,"Tobias, Norman",New Democratic Party,NDP,f,f,8667,3
+38,ON,86,ST. PAUL'S,32732,"Elgie, Peter",Green Party of Canada,Grn,f,f,3031,4
+38,ON,87,STORMONT--DUNDAS--SOUTH GLENGARRY,32733,"Lauzon, Guy",Conservative Party of Canada,Con,t,f,21678,1
+38,ON,87,STORMONT--DUNDAS--SOUTH GLENGARRY,32734,"Kilger, Bob",Liberal,Lib,f,f,17779,2
+38,ON,87,STORMONT--DUNDAS--SOUTH GLENGARRY,32735,"MacDonald, Elaine",New Democratic Party,NDP,f,f,5387,3
+38,ON,87,STORMONT--DUNDAS--SOUTH GLENGARRY,32736,"Manley, Tom",Green Party of Canada,Grn,f,f,3491,4
+38,ON,88,SUDBURY,32737,"Marleau, Diane",Liberal,Lib,t,f,18914,1
+38,ON,88,SUDBURY,32738,"McIntaggart, Gerry",New Democratic Party,NDP,f,f,12781,2
+38,ON,88,SUDBURY,32739,"Butcher, Stephen",Conservative Party of Canada,Con,f,f,9008,3
+38,ON,88,SUDBURY,32740,"Norton, Luke",Green Party of Canada,Grn,f,f,1999,4
+38,ON,88,SUDBURY,32741,"Starbuck, Dave",Marxist-Leninist Party,M-L,f,f,100,5
+38,ON,89,THORNHILL,32742,"Kadis, Susan",Liberal,Lib,t,f,28709,1
+38,ON,89,THORNHILL,32743,"Cooper, Josh",Conservative Party of Canada,Con,f,f,18125,2
+38,ON,89,THORNHILL,32744,"Morelli, Rick",New Democratic Party,NDP,f,f,3671,3
+38,ON,89,THORNHILL,32745,"Helferty, Lloyd",Green Party of Canada,Grn,f,f,1622,4
+38,ON,89,THORNHILL,32746,"Fitzerman, Benjamin",Independent,Ind,f,f,241,5
+38,ON,89,THORNHILL,32747,"Iron, Simion",Independent,Ind,f,f,233,6
+38,ON,90,THUNDER BAY--RAINY RIVER,32748,"Boshcoff, Ken",Liberal,Lib,t,f,14290,1
+38,ON,90,THUNDER BAY--RAINY RIVER,32749,"Rafferty, John",New Democratic Party,NDP,f,f,10781,2
+38,ON,90,THUNDER BAY--RAINY RIVER,32750,"Leskowski, David",Conservative Party of Canada,Con,f,f,9559,3
+38,ON,90,THUNDER BAY--RAINY RIVER,32751,"Aegard, Russ",Green Party of Canada,Grn,f,f,856,4
+38,ON,90,THUNDER BAY--RAINY RIVER,32752,"Thompson, Doug",Marijuana Party,Marij,f,f,547,5
+38,ON,90,THUNDER BAY--RAINY RIVER,32753,"Scheibler, Johannes",Christian Heritage Party of Canada,CHP,f,f,267,6
+38,ON,91,THUNDER BAY--SUPERIOR NORTH,32754,"Comuzzi, Joe",Liberal,Lib,t,f,15022,1
+38,ON,91,THUNDER BAY--SUPERIOR NORTH,32755,"Hyer, Bruce",New Democratic Party,NDP,f,f,10230,2
+38,ON,91,THUNDER BAY--SUPERIOR NORTH,32756,"Sarafin, Bev",Conservative Party of Canada,Con,f,f,7394,3
+38,ON,91,THUNDER BAY--SUPERIOR NORTH,32757,"Rose, Carl",Green Party of Canada,Grn,f,f,1614,4
+38,ON,91,THUNDER BAY--SUPERIOR NORTH,32758,"Carrière, Denis",Marijuana Party,Marij,f,f,645,5
+38,ON,92,TIMMINS--JAMES BAY,32759,"Angus, Charlie",New Democratic Party,NDP,t,f,14138,1
+38,ON,92,TIMMINS--JAMES BAY,32760,"Chénier, Raymond",Liberal,Lib,f,f,13525,2
+38,ON,92,TIMMINS--JAMES BAY,32761,"Van Oosten, Andrew",Conservative Party of Canada,Con,f,f,5682,3
+38,ON,92,TIMMINS--JAMES BAY,32762,"Kriss, Marsha",Green Party of Canada,Grn,f,f,767,4
+38,ON,93,TORONTO CENTRE,32763,"Graham, Bill",Liberal,Lib,t,f,30336,1
+38,ON,93,TORONTO CENTRE,32764,"Shapcott, Michael",New Democratic Party,NDP,f,f,12747,2
+38,ON,93,TORONTO CENTRE,32765,"Harris, Megan",Conservative Party of Canada,Con,f,f,7936,3
+38,ON,93,TORONTO CENTRE,32766,"Draven, Gabriel",Green Party of Canada,Grn,f,f,2097,4
+38,ON,93,TORONTO CENTRE,32767,"Wagner, Jay",Marijuana Party,Marij,f,f,313,5
+38,ON,93,TORONTO CENTRE,32768,"Goldstick, Dan",Communist Party of Canada,Com,f,f,106,6
+38,ON,93,TORONTO CENTRE,32769,"Fernandez, Philp",Marxist-Leninist Party,M-L,f,f,65,7
+38,ON,93,TORONTO CENTRE,32770,"Peck, Kevin",Canadian Action Party,CAP,f,f,63,8
+38,ON,94,TORONTO--DANFORTH,32771,"Layton, Jack",New Democratic Party,NDP,t,f,22198,1
+38,ON,94,TORONTO--DANFORTH,32772,"Mills, Dennis",Liberal,Lib,f,f,19803,2
+38,ON,94,TORONTO--DANFORTH,32773,"Cuddy, Loftus",Conservative Party of Canada,Con,f,f,2975,3
+38,ON,94,TORONTO--DANFORTH,32774,"Harris, Jim",Green Party of Canada,Grn,f,f,2575,4
+38,ON,94,TORONTO--DANFORTH,32775,"Yee, Scott",Marijuana Party,Marij,f,f,265,5
+38,ON,94,TORONTO--DANFORTH,32776,"Rodden, Marcell",Marxist-Leninist Party,M-L,f,f,84,6
+38,ON,95,TRINITY--SPADINA,32777,"Ianno, Tony",Liberal,Lib,t,f,23202,1
+38,ON,95,TRINITY--SPADINA,32778,"Chow, Olivia",New Democratic Party,NDP,f,f,22397,2
+38,ON,95,TRINITY--SPADINA,32779,"Watters, David",Conservative Party of Canada,Con,f,f,4605,3
+38,ON,95,TRINITY--SPADINA,32780,"Vitala, Mark",Green Party of Canada,Grn,f,f,2259,4
+38,ON,95,TRINITY--SPADINA,32781,"Hossain, Asif",Progressive Canadian Party,PCdnP,f,f,531,5
+38,ON,95,TRINITY--SPADINA,32782,"Lin, Nick",Marxist-Leninist Party,M-L,f,f,102,6
+38,ON,95,TRINITY--SPADINA,32783,"Downe - Dewdney, Tristan Alexander",Canadian Action Party,CAP,f,f,91,7
+38,ON,95,TRINITY--SPADINA,32784,"Knezetic, Daniel",No affiliation to a recognised party,Ind,f,f,89,8
+38,ON,96,VAUGHAN,32785,"Bevilacqua, Maurizio",Liberal,Lib,t,f,31430,1
+38,ON,96,VAUGHAN,32786,"Spina, Joe",Conservative Party of Canada,Con,f,f,11821,2
+38,ON,96,VAUGHAN,32787,"Beckles, Octavia",New Democratic Party,NDP,f,f,4371,3
+38,ON,96,VAUGHAN,32788,"Korus, Russell",Green Party of Canada,Grn,f,f,1722,4
+38,ON,96,VAUGHAN,32789,"Fabrizio, Paolo",Libertarian Party of Canada,Libtar,f,f,388,5
+38,ON,96,VAUGHAN,32790,"Aolari, Walter",Canadian Action Party,CAP,f,f,192,6
+38,ON,97,WELLAND,32791,"Maloney, John",Liberal,Lib,t,f,19642,1
+38,ON,97,WELLAND,32792,"Di Bartolomeo, Jody",New Democratic Party,NDP,f,f,14623,2
+38,ON,97,WELLAND,32793,"Grunstein, Mel",Conservative Party of Canada,Con,f,f,12997,3
+38,ON,97,WELLAND,32794,"McLaughlin, Ryan",Green Party of Canada,Grn,f,f,1454,4
+38,ON,97,WELLAND,32795,"Ruiter, Irma",Christian Heritage Party of Canada,CHP,f,f,735,5
+38,ON,97,WELLAND,32796,"Walker, Ron",Marxist-Leninist Party,M-L,f,f,113,6
+38,ON,98,WELLINGTON--HALTON HILLS,32797,"Chong, Mike",Conservative Party of Canada,Con,t,f,21479,1
+38,ON,98,WELLINGTON--HALTON HILLS,32798,"Hood, Bruce",Liberal,Lib,f,f,19173,2
+38,ON,98,WELLINGTON--HALTON HILLS,32799,"Duignan, Noel",New Democratic Party,NDP,f,f,5974,3
+38,ON,98,WELLINGTON--HALTON HILLS,32800,"Bouteiller, Brent",Green Party of Canada,Grn,f,f,2725,4
+38,ON,98,WELLINGTON--HALTON HILLS,32801,"Woode, Pat",Christian Heritage Party of Canada,CHP,f,f,826,5
+38,ON,99,WHITBY--OSHAWA,32802,"Longfield, Judi",Liberal,Lib,t,f,25649,1
+38,ON,99,WHITBY--OSHAWA,32803,"MacNeil, Ian",Conservative Party of Canada,Con,f,f,20531,2
+38,ON,99,WHITBY--OSHAWA,32804,"Sadem-Thompson, Maret",New Democratic Party,NDP,f,f,8002,3
+38,ON,99,WHITBY--OSHAWA,32805,"MacDonald, Michael",Green Party of Canada,Grn,f,f,2759,4
+38,ON,100,WILLOWDALE,32806,"Peterson, Jim",Liberal,Lib,t,f,30855,1
+38,ON,100,WILLOWDALE,32807,"Boseovski, Jovan",Conservative Party of Canada,Con,f,f,11615,2
+38,ON,100,WILLOWDALE,32808,"Bobb, Yvonne",New Democratic Party,NDP,f,f,4812,3
+38,ON,100,WILLOWDALE,32809,"Vettese, Sharolyn",Green Party of Canada,Grn,f,f,1844,4
+38,ON,100,WILLOWDALE,32810,"Behrouzi, Ardavan",Progressive Canadian Party,PCdnP,f,f,883,5
+38,ON,100,WILLOWDALE,32811,"Michael, Bernadette",Independent,Ind,f,f,253,6
+38,ON,101,WINDSOR WEST,32812,"Masse, Brian",New Democratic Party,NDP,t,f,20297,1
+38,ON,101,WINDSOR WEST,32813,"Pollock, Richard",Liberal,Lib,f,f,13831,2
+38,ON,101,WINDSOR WEST,32814,"Katz, Jordan",Conservative Party of Canada,Con,f,f,8348,3
+38,ON,101,WINDSOR WEST,32815,"Spring, Rob",Green Party of Canada,Grn,f,f,1545,4
+38,ON,101,WINDSOR WEST,32816,"Villamizar, Enver",Marxist-Leninist Party,M-L,f,f,134,5
+38,ON,102,WINDSOR--TECUMSEH,32817,"Comartin, Joe",New Democratic Party,NDP,t,f,20037,1
+38,ON,102,WINDSOR--TECUMSEH,32818,"Limoges, Rick",Liberal,Lib,f,f,16219,2
+38,ON,102,WINDSOR--TECUMSEH,32819,"Fuschi, Rick",Conservative Party of Canada,Con,f,f,9827,3
+38,ON,102,WINDSOR--TECUMSEH,32820,"Powles, Elizabeth",Green Party of Canada,Grn,f,f,1613,4
+38,ON,102,WINDSOR--TECUMSEH,32821,"Chesnik, Laura",Marxist-Leninist Party,M-L,f,f,182,5
+38,ON,103,YORK CENTRE,32822,"Dryden, Ken",Liberal,Lib,t,f,21520,1
+38,ON,103,YORK CENTRE,32823,"Mostyn, Michael",Conservative Party of Canada,Con,f,f,10318,2
+38,ON,103,YORK CENTRE,32824,"Flaherty, Peter",New Democratic Party,NDP,f,f,5376,3
+38,ON,103,YORK CENTRE,32825,"Kritsonis, Constantine",Green Party of Canada,Grn,f,f,1240,4
+38,ON,103,YORK CENTRE,32826,"Royz, Max",Independent,Ind,f,f,824,5
+38,ON,104,YORK SOUTH--WESTON,32827,"Tonks, Alan",Liberal,Lib,t,f,20537,1
+38,ON,104,YORK SOUTH--WESTON,32828,"Ferreira, Paul",New Democratic Party,NDP,f,f,7281,2
+38,ON,104,YORK SOUTH--WESTON,32829,"Halicki, Stephen",Conservative Party of Canada,Con,f,f,5133,3
+38,ON,104,YORK SOUTH--WESTON,32830,"Fracassi, Jessica",Green Party of Canada,Grn,f,f,1199,4
+38,ON,104,YORK SOUTH--WESTON,32831,"Hawley, Shirley",Communist Party of Canada,Com,f,f,175,5
+38,ON,105,YORK WEST,32832,"Sgro, Judy",Liberal,Lib,t,f,17903,1
+38,ON,105,YORK WEST,32833,"Romano Anthony, Sandra",New Democratic Party,NDP,f,f,4228,2
+38,ON,105,YORK WEST,32834,"Soobrian, Leslie",Conservative Party of Canada,Con,f,f,3120,3
+38,ON,105,YORK WEST,32835,"Grubb, Joseph",Christian Heritage Party of Canada,CHP,f,f,1580,4
+38,ON,105,YORK WEST,32836,"McKellar, Tim",Green Party of Canada,Grn,f,f,824,5
+38,ON,106,YORK--SIMCOE,32837,"Van Loan, Peter",Conservative Party of Canada,Con,t,f,21343,1
+38,ON,106,YORK--SIMCOE,32838,"Wilson, Kate",Liberal,Lib,f,f,16763,2
+38,ON,106,YORK--SIMCOE,32839,"Gerl, Sylvia",New Democratic Party,NDP,f,f,5314,3
+38,ON,106,YORK--SIMCOE,32840,"Burrows, Bob",Green Party of Canada,Grn,f,f,2576,4
+38,ON,106,YORK--SIMCOE,32841,"Sircelj, Stephen",Progressive Canadian Party,PCdnP,f,f,670,5
+38,ON,106,YORK--SIMCOE,32842,"Gunn, Vicki",Christian Heritage Party of Canada,CHP,f,f,588,6
+38,PE,1,CARDIGAN,32843,"MacAulay, Lawrence",Liberal,Lib,t,f,11064,1
+38,PE,1,CARDIGAN,32844,"McQuaid, Peter",Conservative Party of Canada,Con,f,f,6889,2
+38,PE,1,CARDIGAN,32845,"MacKinnon, Dave",New Democratic Party,NDP,f,f,2103,3
+38,PE,1,CARDIGAN,32846,"Stiles, Jeremy",Green Party of Canada,Grn,f,f,670,4
+38,PE,2,CHARLOTTETOWN,32847,"Murphy, Shawn",Liberal,Lib,t,f,9175,1
+38,PE,2,CHARLOTTETOWN,32848,"Peters, Darren",Conservative Party of Canada,Con,f,f,5121,2
+38,PE,2,CHARLOTTETOWN,32849,"Crane, Dody",New Democratic Party,NDP,f,f,3428,3
+38,PE,2,CHARLOTTETOWN,32850,"McFadden, Will",Green Party of Canada,Grn,f,f,760,4
+38,PE,2,CHARLOTTETOWN,32851,"Judson, Baird",Christian Heritage Party of Canada,CHP,f,f,105,5
+38,PE,3,EGMONT,32852,"McGuire, Joe",Liberal,Lib,t,f,10220,1
+38,PE,3,EGMONT,32853,"Harper, Reg",Conservative Party of Canada,Con,f,f,5363,2
+38,PE,3,EGMONT,32854,"Russell, Regena",New Democratic Party,NDP,f,f,2133,3
+38,PE,3,EGMONT,32855,"Novaczek, Irené",Green Party of Canada,Grn,f,f,717,4
+38,PE,4,MALPEQUE,32856,"Easter, Wayne",Liberal,Lib,t,f,9782,1
+38,PE,4,MALPEQUE,32858,"Crane, Mary",Conservative Party of Canada,Con,f,f,6126,2
+38,PE,4,MALPEQUE,32859,"Bingham, Ken",New Democratic Party,NDP,f,f,1902,3
+38,PE,4,MALPEQUE,32857,"Labchuk, Sharon",Green Party of Canada,Grn,f,f,1037,4
+38,QC,1,ABITIBI--TÉMISCAMINGUE,32860,"Lemay, Marc",Bloc Québécois,Bloc,t,f,25041,1
+38,QC,1,ABITIBI--TÉMISCAMINGUE,32862,"Barrette, Gilbert",Liberal,Lib,f,f,13457,2
+38,QC,1,ABITIBI--TÉMISCAMINGUE,32861,"Beauchesne, Bernard Hugues",Conservative Party of Canada,Con,f,f,2425,3
+38,QC,1,ABITIBI--TÉMISCAMINGUE,32863,"Shushack, Dennis",New Democratic Party,NDP,f,f,1472,4
+38,QC,1,ABITIBI--TÉMISCAMINGUE,32864,"Rancourt, Patrick",Green Party of Canada,Grn,f,f,1037,5
+38,QC,2,AHUNTSIC,32865,"Bakopanos, Eleni",Liberal,Lib,t,f,21234,1
+38,QC,2,AHUNTSIC,32866,"Mourani, Maria",Bloc Québécois,Bloc,f,f,20020,2
+38,QC,2,AHUNTSIC,32867,"Bergeron, Annick",New Democratic Party,NDP,f,f,3013,3
+38,QC,2,AHUNTSIC,32868,"Fortier, Jean",Conservative Party of Canada,Con,f,f,2544,4
+38,QC,2,AHUNTSIC,32869,"Tremblay, Lynette",Green Party of Canada,Grn,f,f,1301,5
+38,QC,2,AHUNTSIC,32870,"De Longchamp, F.X.",Marijuana Party,Marij,f,f,314,6
+38,QC,2,AHUNTSIC,32871,"Fine, Marsha",Marxist-Leninist Party,M-L,f,f,102,7
+38,QC,3,ALFRED-PELLAN,32872,"Carrier, Robert",Bloc Québécois,Bloc,t,f,26239,1
+38,QC,3,ALFRED-PELLAN,32873,"Allard, Carole-Marie",Liberal,Lib,f,f,21116,2
+38,QC,3,ALFRED-PELLAN,32874,"Raymond, Rosane",Conservative Party of Canada,Con,f,f,2703,3
+38,QC,3,ALFRED-PELLAN,32875,"Le Bel, Benjamin",New Democratic Party,NDP,f,f,1849,4
+38,QC,3,ALFRED-PELLAN,32876,"Verenka, Louis-Philippe",Green Party of Canada,Grn,f,f,1132,5
+38,QC,3,ALFRED-PELLAN,32877,"Desbois, Yves",Independent,Ind,f,f,204,6
+38,QC,3,ALFRED-PELLAN,32878,"Millette, Régent",Independent,Ind,f,f,89,7
+38,QC,4,ARGENTEUIL--MIRABEL,32879,"Laframboise, Mario",Bloc Québécois,Bloc,t,f,28228,1
+38,QC,4,ARGENTEUIL--MIRABEL,32881,"Sabourin, Yves",Liberal,Lib,f,f,13214,2
+38,QC,4,ARGENTEUIL--MIRABEL,32882,"McArthur, David H.",Conservative Party of Canada,Con,f,f,3460,3
+38,QC,4,ARGENTEUIL--MIRABEL,32883,"Sabourin, Claude",Green Party of Canada,Grn,f,f,2510,4
+38,QC,4,ARGENTEUIL--MIRABEL,32884,"Clark, Elizabeth",New Democratic Party,NDP,f,f,1493,5
+38,QC,4,ARGENTEUIL--MIRABEL,32880,"Filion, Laurent",Christian Heritage Party of Canada,CHP,f,f,202,6
+38,QC,4,ARGENTEUIL--MIRABEL,32885,"O'Grady, Michael",Marxist-Leninist Party,M-L,f,f,69,7
+38,QC,5,BEAUCE,32886,"Drouin, Claude",Liberal,Lib,t,f,19592,1
+38,QC,5,BEAUCE,32887,"Barbe, Jean-François",Bloc Québécois,Bloc,f,f,17168,2
+38,QC,5,BEAUCE,32888,"Guay, Alain",Conservative Party of Canada,Con,f,f,8091,3
+38,QC,5,BEAUCE,32889,"Giguère, Philippe",New Democratic Party,NDP,f,f,1443,4
+38,QC,5,BEAUCE,32890,"Binette, Michel",Green Party of Canada,Grn,f,f,1054,5
+38,QC,6,BEAUHARNOIS--SALABERRY,32891,"Boire, Alain",Bloc Québécois,Bloc,t,f,26775,1
+38,QC,6,BEAUHARNOIS--SALABERRY,32892,"Marcil, Serge",Liberal,Lib,f,f,18293,2
+38,QC,6,BEAUHARNOIS--SALABERRY,32893,"Bellemare, Dominique",Conservative Party of Canada,Con,f,f,4864,3
+38,QC,6,BEAUHARNOIS--SALABERRY,32894,"Pelletier, Rémi",Green Party of Canada,Grn,f,f,1415,4
+38,QC,6,BEAUHARNOIS--SALABERRY,32895,"Alakkattussery, Ligy",New Democratic Party,NDP,f,f,1018,5
+38,QC,6,BEAUHARNOIS--SALABERRY,32896,"Malboeuf, Félix",Marijuana Party,Marij,f,f,480,6
+38,QC,7,BEAUPORT,32897,"Simard, Christian",Bloc Québécois,Bloc,t,f,22989,1
+38,QC,7,BEAUPORT,32898,"Dawson, Dennis",Liberal,Lib,f,f,11866,2
+38,QC,7,BEAUPORT,32899,"Asselin, Stephan",Conservative Party of Canada,Con,f,f,7388,3
+38,QC,7,BEAUPORT,32900,"Trégan, Xavier",New Democratic Party,NDP,f,f,1896,4
+38,QC,7,BEAUPORT,32901,"Desharnais, Jeannine",Green Party of Canada,Grn,f,f,1577,5
+38,QC,7,BEAUPORT,32902,"Frichot, Nicolas",Marijuana Party,Marij,f,f,585,6
+38,QC,8,BERTHIER--MASKINONGÉ,32903,"André, Guy",Bloc Québécois,Bloc,t,f,29432,1
+38,QC,8,BERTHIER--MASKINONGÉ,32904,"Thibault, Laurier",Liberal,Lib,f,f,11198,2
+38,QC,8,BERTHIER--MASKINONGÉ,32905,"Fortier, Ann Julie",Conservative Party of Canada,Con,f,f,5535,3
+38,QC,8,BERTHIER--MASKINONGÉ,32906,"McKinnon, Denis",New Democratic Party,NDP,f,f,1653,4
+38,QC,8,BERTHIER--MASKINONGÉ,32907,"Labrecque, Eric",Green Party of Canada,Grn,f,f,1314,5
+38,QC,9,BOURASSA,32908,"Coderre, Denis",Liberal,Lib,t,f,20927,1
+38,QC,9,BOURASSA,32909,"Provencher, Doris",Bloc Québécois,Bloc,f,f,15794,2
+38,QC,9,BOURASSA,32910,"Grenier, Frédéric",Conservative Party of Canada,Con,f,f,2226,3
+38,QC,9,BOURASSA,32911,"Saykaly, Stefano",New Democratic Party,NDP,f,f,1661,4
+38,QC,9,BOURASSA,32912,"Lopinto, Noémi",Green Party of Canada,Grn,f,f,660,5
+38,QC,9,BOURASSA,32913,"Gauvin, Philippe",Marijuana Party,Marij,f,f,403,6
+38,QC,9,BOURASSA,32914,"Royer, Geneviève",Marxist-Leninist Party,M-L,f,f,154,7
+38,QC,10,BROME--MISSISQUOI,32915,"Paradis, Denis",Liberal,Lib,t,f,18609,1
+38,QC,10,BROME--MISSISQUOI,32917,"Ouellet, Christian",Bloc Québécois,Bloc,f,f,17537,2
+38,QC,10,BROME--MISSISQUOI,32918,"Stastny, Peter",Conservative Party of Canada,Con,f,f,4888,3
+38,QC,10,BROME--MISSISQUOI,32916,"Martineau, Louise",Green Party of Canada,Grn,f,f,2011,4
+38,QC,10,BROME--MISSISQUOI,32919,"Huggins, Piper",New Democratic Party,NDP,f,f,1177,5
+38,QC,11,BROSSARD--LA PRAIRIE,32920,"Saada, Jacques",Liberal,Lib,t,f,24155,1
+38,QC,11,BROSSARD--LA PRAIRIE,32922,"Lussier, Marcel",Bloc Québécois,Bloc,f,f,21596,2
+38,QC,11,BROSSARD--LA PRAIRIE,32923,"Nicolas, Robert",Conservative Party of Canada,Con,f,f,3107,3
+38,QC,11,BROSSARD--LA PRAIRIE,32921,"Alexan, Nadia",New Democratic Party,NDP,f,f,2321,4
+38,QC,11,BROSSARD--LA PRAIRIE,32924,"Bissonnette, Cécile",Green Party of Canada,Grn,f,f,1340,5
+38,QC,11,BROSSARD--LA PRAIRIE,32925,"Le Seigle, Yves",Marxist-Leninist Party,M-L,f,f,109,6
+38,QC,12,CHAMBLY--BORDUAS,32927,"Lessard, Yves",Bloc Québécois,Bloc,t,f,33945,1
+38,QC,12,CHAMBLY--BORDUAS,32929,"Joncas, Sophie",Liberal,Lib,f,f,12694,2
+38,QC,12,CHAMBLY--BORDUAS,32928,"Richard, Lucien",Conservative Party of Canada,Con,f,f,4219,3
+38,QC,12,CHAMBLY--BORDUAS,32926,"Blouin, Daniel",New Democratic Party,NDP,f,f,2681,4
+38,QC,12,CHAMBLY--BORDUAS,32930,"Lapointe, Benoit",Green Party of Canada,Grn,f,f,2248,5
+38,QC,13,CHARLESBOURG,32931,"Marceau, Richard",Bloc Québécois,Bloc,t,f,23886,1
+38,QC,13,CHARLESBOURG,32932,"Laliberté, Jean-Marie",Liberal,Lib,f,f,11911,2
+38,QC,13,CHARLESBOURG,32934,"Proulx, Bertrand",Conservative Party of Canada,Con,f,f,7306,3
+38,QC,13,CHARLESBOURG,32933,"Villeneuve, François",New Democratic Party,NDP,f,f,1623,4
+38,QC,13,CHARLESBOURG,32935,"Moisan-Domm, Marilou",Green Party of Canada,Grn,f,f,1188,5
+38,QC,13,CHARLESBOURG,32936,"Kasapoglu, Benjamin",Marijuana Party,Marij,f,f,376,6
+38,QC,14,CHARLEVOIX--MONTMORENCY,32937,"Guimond, Michel",Bloc Québécois,Bloc,t,f,25451,1
+38,QC,14,CHARLEVOIX--MONTMORENCY,32938,"Lepage, Lisette",Liberal,Lib,f,f,8598,2
+38,QC,14,CHARLEVOIX--MONTMORENCY,32941,"Tremblay, Guy-Léonard",Conservative Party of Canada,Con,f,f,5259,3
+38,QC,14,CHARLEVOIX--MONTMORENCY,32939,"Jourdain, Yves",Green Party of Canada,Grn,f,f,1422,4
+38,QC,14,CHARLEVOIX--MONTMORENCY,32940,"Hudon, Steeve",New Democratic Party,NDP,f,f,1055,5
+38,QC,15,CHICOUTIMI--LE FJORD,32942,"Bouchard, Robert",Bloc Québécois,Bloc,t,f,20650,1
+38,QC,15,CHICOUTIMI--LE FJORD,32944,"Harvey, André",Liberal,Lib,f,f,19787,2
+38,QC,15,CHICOUTIMI--LE FJORD,32945,"Boudreault, Alcide",Conservative Party of Canada,Con,f,f,2385,3
+38,QC,15,CHICOUTIMI--LE FJORD,32946,"Dubois, Éric",New Democratic Party,NDP,f,f,1699,4
+38,QC,15,CHICOUTIMI--LE FJORD,32943,"Tremblay, Paul",Green Party of Canada,Grn,f,f,1038,5
+38,QC,16,CHÂTEAUGUAY--SAINT-CONSTANT,32947,"Poirier-Rivard, Denise",Bloc Québécois,Bloc,t,f,29337,1
+38,QC,16,CHÂTEAUGUAY--SAINT-CONSTANT,32949,"Lanctôt, Robert",Liberal,Lib,f,f,15384,2
+38,QC,16,CHÂTEAUGUAY--SAINT-CONSTANT,32950,"Turcot, Rosaire",Conservative Party of Canada,Con,f,f,2902,3
+38,QC,16,CHÂTEAUGUAY--SAINT-CONSTANT,32951,"Gadoury, Marc-André",Green Party of Canada,Grn,f,f,1889,4
+38,QC,16,CHÂTEAUGUAY--SAINT-CONSTANT,32948,"Archambault, Mélanie",New Democratic Party,NDP,f,f,1704,5
+38,QC,17,COMPTON--STANSTEAD,32952,"Bonsant, France",Bloc Québécois,Bloc,t,f,20450,1
+38,QC,17,COMPTON--STANSTEAD,32954,"Price, David",Liberal,Lib,f,f,15752,2
+38,QC,17,COMPTON--STANSTEAD,32953,"Caldwell, Gary",Conservative Party of Canada,Con,f,f,4589,3
+38,QC,17,COMPTON--STANSTEAD,32955,"Busque, Laurier",Green Party of Canada,Grn,f,f,1546,4
+38,QC,17,COMPTON--STANSTEAD,32956,"Baller, Martin",New Democratic Party,NDP,f,f,1451,5
+38,QC,18,DRUMMOND,32957,"Picard, Pauline",Bloc Québécois,Bloc,t,f,23670,1
+38,QC,18,DRUMMOND,32959,"Gougeon, Roger",Liberal,Lib,f,f,9591,2
+38,QC,18,DRUMMOND,32958,"Boisvert, Lyne",Conservative Party of Canada,Con,f,f,7123,3
+38,QC,18,DRUMMOND,32960,"Lacroix, Louis",Green Party of Canada,Grn,f,f,921,4
+38,QC,18,DRUMMOND,32961,"Evans, Blake",New Democratic Party,NDP,f,f,745,5
+38,QC,19,GASPÉSIE--ÎLES-DE-LA-MADELEINE,32962,"Blais, Raynald",Bloc Québécois,Bloc,t,f,21446,1
+38,QC,19,GASPÉSIE--ÎLES-DE-LA-MADELEINE,32963,"Farrah, Georges",Liberal,Lib,f,f,12579,2
+38,QC,19,GASPÉSIE--ÎLES-DE-LA-MADELEINE,32964,"De Coste, Guy",Conservative Party of Canada,Con,f,f,2636,3
+38,QC,19,GASPÉSIE--ÎLES-DE-LA-MADELEINE,32965,"Eichenberger, Bob",Green Party of Canada,Grn,f,f,1060,4
+38,QC,19,GASPÉSIE--ÎLES-DE-LA-MADELEINE,32966,"Toone, Philip",New Democratic Party,NDP,f,f,805,5
+38,QC,20,GATINEAU,32967,"Boivin, Françoise",Liberal,Lib,t,f,19198,1
+38,QC,20,GATINEAU,32968,"Nadeau, Richard",Bloc Québécois,Bloc,f,f,18368,2
+38,QC,20,GATINEAU,32969,"Nicolas, Gérald",Conservative Party of Canada,Con,f,f,3461,3
+38,QC,20,GATINEAU,32970,"Vaillancourt, Dominique",New Democratic Party,NDP,f,f,2610,4
+38,QC,20,GATINEAU,32971,"Gibb, Brian",Green Party of Canada,Grn,f,f,1402,5
+38,QC,20,GATINEAU,32972,"Salko, Stéphane",Marijuana Party,Marij,f,f,453,6
+38,QC,20,GATINEAU,32973,"Girard-Bernier, Gabriel",Marxist-Leninist Party,M-L,f,f,125,7
+38,QC,21,HOCHELAGA,32974,"Ménard, Réal",Bloc Québécois,Bloc,t,f,27476,1
+38,QC,21,HOCHELAGA,32975,"Bouvier, Benoit",Liberal,Lib,f,f,11712,2
+38,QC,21,HOCHELAGA,32976,"Gagnon, David",New Democratic Party,NDP,f,f,2510,3
+38,QC,21,HOCHELAGA,32977,"Bernier, Mario",Conservative Party of Canada,Con,f,f,1856,4
+38,QC,21,HOCHELAGA,32978,"Bramann, Rolf",Green Party of Canada,Grn,f,f,1361,5
+38,QC,21,HOCHELAGA,32979,"Théorêt-Poupart, Antoine",Marijuana Party,Marij,f,f,482,6
+38,QC,21,HOCHELAGA,32980,"Bibeau, Pierre",Communist Party of Canada,Com,f,f,190,7
+38,QC,21,HOCHELAGA,32981,"Dandenault, Christine",Marxist-Leninist Party,M-L,f,f,112,8
+38,QC,22,HONORÉ-MERCIER,32982,"Rodriguez, Pablo",Liberal,Lib,t,f,22223,1
+38,QC,22,HONORÉ-MERCIER,32983,"St-Hilaire, Éric",Bloc Québécois,Bloc,f,f,19461,2
+38,QC,22,HONORÉ-MERCIER,32984,"Chiazzese, Gianni",Conservative Party of Canada,Con,f,f,2902,3
+38,QC,22,HONORÉ-MERCIER,32985,"Pilon, François",New Democratic Party,NDP,f,f,1973,4
+38,QC,22,HONORÉ-MERCIER,32986,"Lahaie, Richard",Green Party of Canada,Grn,f,f,852,5
+38,QC,22,HONORÉ-MERCIER,32987,"Boudrias, Steve",Marijuana Party,Marij,f,f,626,6
+38,QC,22,HONORÉ-MERCIER,32988,"Héroux, Hélène",Marxist-Leninist Party,M-L,f,f,164,7
+38,QC,23,HULL--AYLMER,32989,"Proulx, Marcel",Liberal,Lib,t,f,20135,1
+38,QC,23,HULL--AYLMER,32990,"Charette, Alain",Bloc Québécois,Bloc,f,f,15626,2
+38,QC,23,HULL--AYLMER,32992,"Laliberté, Pierre",New Democratic Party,NDP,f,f,5709,3
+38,QC,23,HULL--AYLMER,32991,"Bellefeuille, Pierrette",Conservative Party of Canada,Con,f,f,3963,4
+38,QC,23,HULL--AYLMER,32993,"Walker, Gail",Green Party of Canada,Grn,f,f,2561,5
+38,QC,23,HULL--AYLMER,32994,"Legeais, Christian",Marxist-Leninist Party,M-L,f,f,98,6
+38,QC,24,JEANNE-LE BER,32995,"Frulla, Liza",Liberal,Lib,t,f,18766,1
+38,QC,24,JEANNE-LE BER,32996,"St-Cyr, Thierry",Bloc Québécois,Bloc,f,f,18694,2
+38,QC,24,JEANNE-LE BER,32997,"Philbin, Anthony",New Democratic Party,NDP,f,f,3160,3
+38,QC,24,JEANNE-LE BER,32998,"Sévigny, Pierre-Albert",Conservative Party of Canada,Con,f,f,2524,4
+38,QC,24,JEANNE-LE BER,32999,"Mercier, Jean-Claude",Green Party of Canada,Grn,f,f,1864,5
+38,QC,24,JEANNE-LE BER,33000,"Duchesne, Cathy",Marijuana Party,Marij,f,f,520,6
+38,QC,24,JEANNE-LE BER,33001,"Chouinard, Normand",Marxist-Leninist Party,M-L,f,f,148,7
+38,QC,25,JOLIETTE,33002,"Paquette, Pierre",Bloc Québécois,Bloc,t,f,30661,1
+38,QC,25,JOLIETTE,33004,"Coderre, Jean-François",Liberal,Lib,f,f,10975,2
+38,QC,25,JOLIETTE,33003,"Bouchard, Daniel",Conservative Party of Canada,Con,f,f,3107,3
+38,QC,25,JOLIETTE,33005,"Trudeau, Jacques",New Democratic Party,NDP,f,f,1755,4
+38,QC,25,JOLIETTE,33006,"Gorchinsky, Wendy",Green Party of Canada,Grn,f,f,1147,5
+38,QC,25,JOLIETTE,33007,"Geoffroy, Marco",Marijuana Party,Marij,f,f,701,6
+38,QC,26,JONQUIÈRE--ALMA,33008,"Gagnon, Sébastien",Bloc Québécois,Bloc,t,f,25193,1
+38,QC,26,JONQUIÈRE--ALMA,33009,"Giguère, Daniel",Liberal,Lib,f,f,13355,2
+38,QC,26,JONQUIÈRE--ALMA,33010,"Girard-Bujold, Jocelyne",Independent,Ind,f,f,2737,3
+38,QC,26,JONQUIÈRE--ALMA,33011,"Lavoie, Gilles",Conservative Party of Canada,Con,f,f,2217,4
+38,QC,26,JONQUIÈRE--ALMA,33012,"Picard, François",New Democratic Party,NDP,f,f,1561,5
+38,QC,26,JONQUIÈRE--ALMA,33013,"Busque, Jean-Sébastien",Green Party of Canada,Grn,f,f,679,6
+38,QC,26,JONQUIÈRE--ALMA,33014,"Perron, Michel",Communist Party of Canada,Com,f,f,121,7
+38,QC,27,LA POINTE-DE-L'ÎLE,33015,"Lalonde, Francine",Bloc Québécois,Bloc,t,f,30713,1
+38,QC,27,LA POINTE-DE-L'ÎLE,33016,"Gobé, Jean-Claude",Liberal,Lib,f,f,10593,2
+38,QC,27,LA POINTE-DE-L'ÎLE,33017,"Prevost, Christian",Conservative Party of Canada,Con,f,f,1961,3
+38,QC,27,LA POINTE-DE-L'ÎLE,33018,"Langevin, André",New Democratic Party,NDP,f,f,1751,4
+38,QC,27,LA POINTE-DE-L'ÎLE,33019,"Levert, André",Green Party of Canada,Grn,f,f,1186,5
+38,QC,28,LAC-SAINT-LOUIS,33020,"Scarpaleggia, Francis",Liberal,Lib,t,f,32122,1
+38,QC,28,LAC-SAINT-LOUIS,33023,"Howard, Jeff",Conservative Party of Canada,Con,f,f,6082,2
+38,QC,28,LAC-SAINT-LOUIS,33021,"Côté, Maxime",Bloc Québécois,Bloc,f,f,5106,3
+38,QC,28,LAC-SAINT-LOUIS,33022,"Quinn, Daniel",New Democratic Party,NDP,f,f,3789,4
+38,QC,28,LAC-SAINT-LOUIS,33024,"Graham, Peter",Green Party of Canada,Grn,f,f,2584,5
+38,QC,28,LAC-SAINT-LOUIS,33025,"Cardinal, Patrick",Marijuana Party,Marij,f,f,578,6
+38,QC,29,LASALLE--ÉMARD,33026,"Martin, Paul",Liberal,Lib,t,f,25806,1
+38,QC,29,LASALLE--ÉMARD,33027,"Larrivée, Thierry",Bloc Québécois,Bloc,f,f,14001,2
+38,QC,29,LASALLE--ÉMARD,33028,"Roy-Arcelin, Nicole",Conservative Party of Canada,Con,f,f,2271,3
+38,QC,29,LASALLE--ÉMARD,33029,"Blaikie, Rebecca",New Democratic Party,NDP,f,f,1995,4
+38,QC,29,LASALLE--ÉMARD,33030,"Jack, Douglas",Green Party of Canada,Grn,f,f,1000,5
+38,QC,29,LASALLE--ÉMARD,33031,"St-Maurice, Marc",Marijuana Party,Marij,f,f,349,6
+38,QC,29,LASALLE--ÉMARD,33032,"Bédard, Jean-Paul",Marxist-Leninist Party,M-L,f,f,210,7
+38,QC,30,LAURENTIDES--LABELLE,33033,"Deschamps, Johanne",Bloc Québécois,Bloc,t,f,28675,1
+38,QC,30,LAURENTIDES--LABELLE,33035,"Boyer, Dominique",Liberal,Lib,f,f,14459,2
+38,QC,30,LAURENTIDES--LABELLE,33036,"Desjardins, Guillaume",Conservative Party of Canada,Con,f,f,2887,3
+38,QC,30,LAURENTIDES--LABELLE,33034,"Léger, Jacques",Green Party of Canada,Grn,f,f,1781,4
+38,QC,30,LAURENTIDES--LABELLE,33037,"Naef, Brendan",New Democratic Party,NDP,f,f,1320,5
+38,QC,31,LAURIER,33038,"Duceppe, Gilles",Bloc Québécois,Bloc,t,f,28728,1
+38,QC,31,LAURIER,33039,"Thibault, Jean-François",Liberal,Lib,f,f,8454,2
+38,QC,31,LAURIER,33040,"Grégoire, François",New Democratic Party,NDP,f,f,5779,3
+38,QC,31,LAURIER,33041,"Perceval-Maxwell, Dylan",Green Party of Canada,Grn,f,f,2912,4
+38,QC,31,LAURIER,33044,"Albert, Pierre",Conservative Party of Canada,Con,f,f,1224,5
+38,QC,31,LAURIER,33042,"Tanguay, Nicky",Marijuana Party,Marij,f,f,572,6
+38,QC,31,LAURIER,33043,"Boutet, Ginette",Marxist-Leninist Party,M-L,f,f,154,7
+38,QC,32,LAVAL,33045,"Demers, Nicole",Bloc Québécois,Bloc,t,f,24425,1
+38,QC,32,LAVAL,33047,"Lafleur, Pierre",Liberal,Lib,f,f,17639,2
+38,QC,32,LAVAL,33048,"D'Amours, Stéphane",Conservative Party of Canada,Con,f,f,3115,3
+38,QC,32,LAVAL,33046,"Giguère, Alain",New Democratic Party,NDP,f,f,1998,4
+38,QC,32,LAVAL,33049,"Pichereau, Damien",Green Party of Canada,Grn,f,f,1091,5
+38,QC,32,LAVAL,33050,"Losier-Côté, Pierre",Marijuana Party,Marij,f,f,492,6
+38,QC,33,LAVAL--LES ÎLES,33051,"Folco, Raymonde",Liberal,Lib,t,f,23985,1
+38,QC,33,LAVAL--LES ÎLES,33052,"Poirier, Micaël",Bloc Québécois,Bloc,f,f,18597,2
+38,QC,33,LAVAL--LES ÎLES,33053,"Pratte, Jean-Paul",Conservative Party of Canada,Con,f,f,3498,3
+38,QC,33,LAVAL--LES ÎLES,33054,"Michaud, Paul",New Democratic Party,NDP,f,f,2202,4
+38,QC,33,LAVAL--LES ÎLES,33055,"Véronneau, Pierre",Green Party of Canada,Grn,f,f,1178,5
+38,QC,33,LAVAL--LES ÎLES,33056,"Allard, Michel",Marijuana Party,Marij,f,f,498,6
+38,QC,33,LAVAL--LES ÎLES,33057,"Tsakanikas, Polyvios",Marxist-Leninist Party,M-L,f,f,154,7
+38,QC,34,LONGUEUIL,33058,"St-Hilaire, Caroline",Bloc Québécois,Bloc,t,f,29473,1
+38,QC,34,LONGUEUIL,33059,"Gladu, Robert",Liberal,Lib,f,f,12363,2
+38,QC,34,LONGUEUIL,33060,"Fournier-Sylvester, Nicole",New Democratic Party,NDP,f,f,2512,3
+38,QC,34,LONGUEUIL,33061,"Bélisle, Richard",Conservative Party of Canada,Con,f,f,2354,4
+38,QC,34,LONGUEUIL,33063,"Bédard, Michel",Green Party of Canada,Grn,f,f,1263,5
+38,QC,34,LONGUEUIL,33062,"Fiset, David",Marijuana Party,Marij,f,f,401,6
+38,QC,35,LOTBINIÈRE--CHUTES-DE-LA-CHAUDIÈRE,33064,"Desrochers, Odina",Bloc Québécois,Bloc,t,f,20245,1
+38,QC,35,LOTBINIÈRE--CHUTES-DE-LA-CHAUDIÈRE,33068,"Landry, Jean",Conservative Party of Canada,Con,f,f,10628,2
+38,QC,35,LOTBINIÈRE--CHUTES-DE-LA-CHAUDIÈRE,33067,"Gagné, Anicet",Liberal,Lib,f,f,9445,3
+38,QC,35,LOTBINIÈRE--CHUTES-DE-LA-CHAUDIÈRE,33066,"Bernatchez, Jean",New Democratic Party,NDP,f,f,2091,4
+38,QC,35,LOTBINIÈRE--CHUTES-DE-LA-CHAUDIÈRE,33065,"MacDonald, Rama",Green Party of Canada,Grn,f,f,1615,5
+38,QC,36,LOUIS-HÉBERT,33069,"Clavet, Roger",Bloc Québécois,Bloc,t,f,24071,1
+38,QC,36,LOUIS-HÉBERT,33071,"Chalifour Scherrer, Hélene",Liberal,Lib,f,f,18999,2
+38,QC,36,LOUIS-HÉBERT,33072,"Gauthier, Clermont",Conservative Party of Canada,Con,f,f,7512,3
+38,QC,36,LOUIS-HÉBERT,33070,"Turcotte, Robert",New Democratic Party,NDP,f,f,3112,4
+38,QC,36,LOUIS-HÉBERT,33073,"Guay, Jean-Pierre",Green Party of Canada,Grn,f,f,2137,5
+38,QC,37,LOUIS-SAINT-LAURENT,33074,"Cleary, Bernard",Bloc Québécois,Bloc,t,f,17248,1
+38,QC,37,LOUIS-SAINT-LAURENT,33076,"Verner, Josée",Conservative Party of Canada,Con,f,f,13967,2
+38,QC,37,LOUIS-SAINT-LAURENT,33078,"Fragasso, Michel",Liberal,Lib,f,f,10025,3
+38,QC,37,LOUIS-SAINT-LAURENT,33079,"Bojanowski, Christopher",New Democratic Party,NDP,f,f,1369,4
+38,QC,37,LOUIS-SAINT-LAURENT,33081,"Bonaventure, Yonnel",Green Party of Canada,Grn,f,f,1243,5
+38,QC,37,LOUIS-SAINT-LAURENT,33080,"Carignan, Jean-Guy",Independent,Ind,f,f,563,6
+38,QC,37,LOUIS-SAINT-LAURENT,33077,"Gauvin, Henri",Independent,Ind,f,f,332,7
+38,QC,37,LOUIS-SAINT-LAURENT,33075,"Théberge, Dominique",Communist Party of Canada,Com,f,f,119,8
+38,QC,38,LÉVIS--BELLECHASSE,33082,"Lapierre, Réal",Bloc Québécois,Bloc,t,f,21930,1
+38,QC,38,LÉVIS--BELLECHASSE,33084,"Jobin, Christian",Liberal,Lib,f,f,13664,2
+38,QC,38,LÉVIS--BELLECHASSE,33083,"Vézina, Gilles",Conservative Party of Canada,Con,f,f,9425,3
+38,QC,38,LÉVIS--BELLECHASSE,33087,"Castonguay, Sylvain",Green Party of Canada,Grn,f,f,2372,4
+38,QC,38,LÉVIS--BELLECHASSE,33086,"Foisy, Louise",New Democratic Party,NDP,f,f,1910,5
+38,QC,38,LÉVIS--BELLECHASSE,33085,"Vaillancourt, Christophe",Communist Party of Canada,Com,f,f,163,6
+38,QC,39,MANICOUAGAN,33088,"Asselin, Gérard",Bloc Québécois,Bloc,t,f,19040,1
+38,QC,39,MANICOUAGAN,33089,"Detroio, Anthony",Liberal,Lib,f,f,8097,2
+38,QC,39,MANICOUAGAN,33090,"Ducasse, Pierre",New Democratic Party,NDP,f,f,3361,3
+38,QC,39,MANICOUAGAN,33091,"Paradis, Pierre",Conservative Party of Canada,Con,f,f,1601,4
+38,QC,39,MANICOUAGAN,33092,"Parsons, Les",Green Party of Canada,Grn,f,f,444,5
+38,QC,40,MARC-AURÈLE-FORTIN,33093,"Ménard, Serge",Bloc Québécois,Bloc,t,f,30779,1
+38,QC,40,MARC-AURÈLE-FORTIN,33094,"Girard, Nancy",Liberal,Lib,f,f,14491,2
+38,QC,40,MARC-AURÈLE-FORTIN,33095,"Bissonnette, Marc",Conservative Party of Canada,Con,f,f,3125,3
+38,QC,40,MARC-AURÈLE-FORTIN,33096,"Bissonnette, Lise",Green Party of Canada,Grn,f,f,2012,4
+38,QC,40,MARC-AURÈLE-FORTIN,33097,"Généreux, Lyse",New Democratic Party,NDP,f,f,1867,5
+38,QC,41,MATAPÉDIA--MATANE,33098,"Roy, Jean-Yves",Bloc Québécois,Bloc,t,f,17878,1
+38,QC,41,MATAPÉDIA--MATANE,33100,"Bélanger, Marc",Liberal,Lib,f,f,9653,2
+38,QC,41,MATAPÉDIA--MATANE,33101,"Fortin-Vidah, Vahid",Conservative Party of Canada,Con,f,f,1972,3
+38,QC,41,MATAPÉDIA--MATANE,33102,"Côté, Jean-Guy",New Democratic Party,NDP,f,f,1581,4
+38,QC,41,MATAPÉDIA--MATANE,33099,"Deville, Nicolas",Green Party of Canada,Grn,f,f,585,5
+38,QC,42,MONTCALM,33103,"Gaudet, Roger",Bloc Québécois,Bloc,t,f,34383,1
+38,QC,42,MONTCALM,33104,"Brazeau, Daniel",Liberal,Lib,f,f,7915,2
+38,QC,42,MONTCALM,33105,"Paulette, Michel",Conservative Party of Canada,Con,f,f,2831,3
+38,QC,42,MONTCALM,33106,"Bellemare, Serge",Green Party of Canada,Grn,f,f,1606,4
+38,QC,42,MONTCALM,33107,"Rivest, François",New Democratic Party,NDP,f,f,1531,5
+38,QC,43,MOUNT ROYAL,33108,"Cotler, Irwin",Liberal,Lib,t,f,28670,1
+38,QC,43,MOUNT ROYAL,33110,"Fireman, Matthew",Conservative Party of Canada,Con,f,f,3271,2
+38,QC,43,MOUNT ROYAL,33111,"Gagnon, Vincent",Bloc Québécois,Bloc,f,f,2636,3
+38,QC,43,MOUNT ROYAL,33112,"Beaudet, Sébastien",New Democratic Party,NDP,f,f,1859,4
+38,QC,43,MOUNT ROYAL,33113,"Sommerfeld, Adam",Green Party of Canada,Grn,f,f,1046,5
+38,QC,43,MOUNT ROYAL,33114,"Greenblatt, Adam",Marijuana Party,Marij,f,f,308,6
+38,QC,43,MOUNT ROYAL,33109,"Johnston, Diane",Marxist-Leninist Party,M-L,f,f,94,7
+38,QC,44,MÉGANTIC--L'ÉRABLE,33115,"Boulianne, Marc",Bloc Québécois,Bloc,t,f,19264,1
+38,QC,44,MÉGANTIC--L'ÉRABLE,33117,"Binet, Gérard",Liberal,Lib,f,f,15778,2
+38,QC,44,MÉGANTIC--L'ÉRABLE,33116,"Mailly, Yves",Conservative Party of Canada,Con,f,f,4916,3
+38,QC,44,MÉGANTIC--L'ÉRABLE,33119,"Côté, Alexandre",New Democratic Party,NDP,f,f,1608,4
+38,QC,44,MÉGANTIC--L'ÉRABLE,33118,"Vézina, Bruno",Green Party of Canada,Grn,f,f,1489,5
+38,QC,45,NOTRE-DAME-DE-GRÂCE--LACHINE,33120,"Jennings, Marlene",Liberal,Lib,t,f,23552,1
+38,QC,45,NOTRE-DAME-DE-GRÂCE--LACHINE,33122,"Chartre, Jean-Philippe",Bloc Québécois,Bloc,f,f,9736,2
+38,QC,45,NOTRE-DAME-DE-GRÂCE--LACHINE,33121,"McCullock, William",Conservative Party of Canada,Con,f,f,4526,3
+38,QC,45,NOTRE-DAME-DE-GRÂCE--LACHINE,33127,"Chávez, Maria Pia",New Democratic Party,NDP,f,f,3513,4
+38,QC,45,NOTRE-DAME-DE-GRÂCE--LACHINE,33123,"Gal, Jessica",Green Party of Canada,Grn,f,f,2214,5
+38,QC,45,NOTRE-DAME-DE-GRÂCE--LACHINE,33124,"Dell, Jay",Marijuana Party,Marij,f,f,479,6
+38,QC,45,NOTRE-DAME-DE-GRÂCE--LACHINE,33125,"Wertheimer, Earl",Libertarian Party of Canada,Libtar,f,f,165,7
+38,QC,45,NOTRE-DAME-DE-GRÂCE--LACHINE,33126,"Hoffman, Rachel",Marxist-Leninist Party,M-L,f,f,88,8
+38,QC,46,NUNAVIK--EEYOU,33128,"Lévesque, Yvon",Bloc Québécois,Bloc,t,f,12578,1
+38,QC,46,NUNAVIK--EEYOU,33129,"St-Julien, Guy",Liberal,Lib,f,f,12006,2
+38,QC,46,NUNAVIK--EEYOU,33130,"Dionne, François",Conservative Party of Canada,Con,f,f,1265,3
+38,QC,46,NUNAVIK--EEYOU,33131,"Corbeil, Pierre",New Democratic Party,NDP,f,f,1097,4
+38,QC,46,NUNAVIK--EEYOU,33132,"Fournier, Martin",Green Party of Canada,Grn,f,f,862,5
+38,QC,47,OUTREMONT,33133,"Lapierre, Jean",Liberal,Lib,t,f,15675,1
+38,QC,47,OUTREMONT,33135,"Rebello, François",Bloc Québécois,Bloc,f,f,12730,2
+38,QC,47,OUTREMONT,33134,"Aktouf, Omar",New Democratic Party,NDP,f,f,5382,3
+38,QC,47,OUTREMONT,33136,"Rousseau, Marc",Conservative Party of Canada,Con,f,f,2284,4
+38,QC,47,OUTREMONT,33137,"Perceval-Maxwell, Shaun",Green Party of Canada,Grn,f,f,1643,5
+38,QC,47,OUTREMONT,33138,"Lacombe, Yan",Marijuana Party,Marij,f,f,452,6
+38,QC,47,OUTREMONT,33139,"Sullivan, Linda",Marxist-Leninist Party,M-L,f,f,120,7
+38,QC,48,PAPINEAU,33140,"Pettigrew, Pierre",Liberal,Lib,t,f,16892,1
+38,QC,48,PAPINEAU,33141,"Carrière, Martine",Bloc Québécois,Bloc,f,f,16424,2
+38,QC,48,PAPINEAU,33142,"Frappier, André",New Democratic Party,NDP,f,f,3603,3
+38,QC,48,PAPINEAU,33143,"Sarker, Mustaque",Conservative Party of Canada,Con,f,f,1961,4
+38,QC,48,PAPINEAU,33144,"Jastrzebski, Adam",Green Party of Canada,Grn,f,f,1058,5
+38,QC,48,PAPINEAU,33145,"Dusablon-Pelletier, Christelle",Marijuana Party,Marij,f,f,490,6
+38,QC,48,PAPINEAU,33146,"Parizeau, André",Communist Party of Canada,Com,f,f,252,7
+38,QC,48,PAPINEAU,33147,"Garoufalis, Jimmy",Independent,Ind,f,f,250,8
+38,QC,48,PAPINEAU,33148,"Macrisopoulos, Peter",Marxist-Leninist Party,M-L,f,f,169,9
+38,QC,49,PIERREFONDS--DOLLARD,33149,"Patry, Bernard",Liberal,Lib,t,f,29601,1
+38,QC,49,PIERREFONDS--DOLLARD,33150,"Brunet, Marie-Hélène",Bloc Québécois,Bloc,f,f,7426,2
+38,QC,49,PIERREFONDS--DOLLARD,33151,"Paine, Andrea",Conservative Party of Canada,Con,f,f,5010,3
+38,QC,49,PIERREFONDS--DOLLARD,33152,"Lustgarten, Danielle",New Democratic Party,NDP,f,f,2545,4
+38,QC,49,PIERREFONDS--DOLLARD,33153,"Kouretas, Theodore",Green Party of Canada,Grn,f,f,1401,5
+38,QC,49,PIERREFONDS--DOLLARD,33154,"Labrecque, Jean-François",Marijuana Party,Marij,f,f,511,6
+38,QC,49,PIERREFONDS--DOLLARD,33155,"Colly, Garnet",Marxist-Leninist Party,M-L,f,f,71,7
+38,QC,50,PONTIAC,33156,"Smith, David",Liberal,Lib,t,f,15358,1
+38,QC,50,PONTIAC,33157,"Leduc, L. Hubert",Bloc Québécois,Bloc,f,f,11685,2
+38,QC,50,PONTIAC,33158,"Grant, Judith",Conservative Party of Canada,Con,f,f,8869,3
+38,QC,50,PONTIAC,33159,"Schwarz, Gretchen",New Democratic Party,NDP,f,f,2317,4
+38,QC,50,PONTIAC,33160,"Vicente, Thierry",Green Party of Canada,Grn,f,f,1673,5
+38,QC,50,PONTIAC,33161,"Legros, Benoit",Marxist-Leninist Party,M-L,f,f,132,6
+38,QC,51,PORTNEUF,33162,"Côté, Guy",Bloc Québécois,Bloc,t,f,18471,1
+38,QC,51,PORTNEUF,33163,"Duplain, Claude",Liberal,Lib,f,f,11863,2
+38,QC,51,PORTNEUF,33164,"Bruce, Howard M.",Conservative Party of Canada,Con,f,f,9251,3
+38,QC,51,PORTNEUF,33165,"Poulin, Pierre",Green Party of Canada,Grn,f,f,1925,4
+38,QC,51,PORTNEUF,33166,"Breton, Jean-François",New Democratic Party,NDP,f,f,1540,5
+38,QC,52,QUÉBEC,33167,"Gagnon, Christiane",Bloc Québécois,Bloc,t,f,24373,1
+38,QC,52,QUÉBEC,33168,"Côté, Jean-Philippe",Liberal,Lib,f,f,12982,2
+38,QC,52,QUÉBEC,33169,"Gaudreault, Pierre",Conservative Party of Canada,Con,f,f,5330,3
+38,QC,52,QUÉBEC,33170,"Fiset, Jean-Marie",New Democratic Party,NDP,f,f,2670,4
+38,QC,52,QUÉBEC,33171,"Yaccarini, Antonine",Green Party of Canada,Grn,f,f,2046,5
+38,QC,52,QUÉBEC,33172,"Paradis, Pierre-Etienne",Marijuana Party,Marij,f,f,512,6
+38,QC,52,QUÉBEC,33173,"Bédard, Jean",Marxist-Leninist Party,M-L,f,f,223,7
+38,QC,53,REPENTIGNY,33174,"Sauvageau, Benoît",Bloc Québécois,Bloc,t,f,35907,1
+38,QC,53,REPENTIGNY,33175,"Brien, Lévis",Liberal,Lib,f,f,9353,2
+38,QC,53,REPENTIGNY,33176,"MacKenzie, Allen  F.",Conservative Party of Canada,Con,f,f,2447,3
+38,QC,53,REPENTIGNY,33177,"Cardinal, André",New Democratic Party,NDP,f,f,1526,4
+38,QC,53,REPENTIGNY,33178,"Lévêque, Jean-François",Green Party of Canada,Grn,f,f,1482,5
+38,QC,53,REPENTIGNY,33179,"Boudreau, François",Marijuana Party,Marij,f,f,539,6
+38,QC,54,RICHELIEU,33180,"Plamondon, Louis",Bloc Québécois,Bloc,t,f,31497,1
+38,QC,54,RICHELIEU,33182,"Provencher, Ghislaine",Liberal,Lib,f,f,11045,2
+38,QC,54,RICHELIEU,33183,"Proulx, Daniel A.",Conservative Party of Canada,Con,f,f,3726,3
+38,QC,54,RICHELIEU,33181,"Bussière, Charles",New Democratic Party,NDP,f,f,1017,4
+38,QC,54,RICHELIEU,33184,"Bonenfant, Jean-Pierre",Green Party of Canada,Grn,f,f,839,5
+38,QC,54,RICHELIEU,33185,"Blackburn, Daniel",Marijuana Party,Marij,f,f,580,6
+38,QC,55,RICHMOND--ARTHABASKA,33186,"Bellavance, André",Bloc Québécois,Bloc,t,f,26211,1
+38,QC,55,RICHMOND--ARTHABASKA,33187,"St-Pierre, Christine",Liberal,Lib,f,f,12809,2
+38,QC,55,RICHMOND--ARTHABASKA,33188,"Poissant, Pierre",Conservative Party of Canada,Con,f,f,4925,3
+38,QC,55,RICHMOND--ARTHABASKA,33189,"LaForest, Lucie",Green Party of Canada,Grn,f,f,1699,4
+38,QC,55,RICHMOND--ARTHABASKA,33190,"Noble, Jason",New Democratic Party,NDP,f,f,1540,5
+38,QC,56,RIMOUSKI--TÉMISCOUATA,33191,"Thibault, Louise",Bloc Québécois,Bloc,t,f,22215,1
+38,QC,56,RIMOUSKI--TÉMISCOUATA,33192,"Roy, Côme",Liberal,Lib,f,f,9161,2
+38,QC,56,RIMOUSKI--TÉMISCOUATA,33193,"Quimper, Denis",Conservative Party of Canada,Con,f,f,3445,3
+38,QC,56,RIMOUSKI--TÉMISCOUATA,33194,"Caron, Guy",New Democratic Party,NDP,f,f,2717,4
+38,QC,56,RIMOUSKI--TÉMISCOUATA,33195,"Delaunière, Marjolaine",Green Party of Canada,Grn,f,f,1008,5
+38,QC,57,RIVIÈRE-DES-MILLE-ÎLES,33196,"Perron, Gilles",Bloc Québécois,Bloc,t,f,27993,1
+38,QC,57,RIVIÈRE-DES-MILLE-ÎLES,33197,"Savignac, Yolaine",Liberal,Lib,f,f,11025,2
+38,QC,57,RIVIÈRE-DES-MILLE-ÎLES,33198,"Gauthier, Érick",Conservative Party of Canada,Con,f,f,3064,3
+38,QC,57,RIVIÈRE-DES-MILLE-ÎLES,33199,"Bédard, Marie Martine",Green Party of Canada,Grn,f,f,1961,4
+38,QC,57,RIVIÈRE-DES-MILLE-ÎLES,33200,"Du Cap, Nicolas",New Democratic Party,NDP,f,f,1559,5
+38,QC,58,RIVIÈRE-DU-LOUP--MONTMAGNY,33201,"Crête, Paul",Bloc Québécois,Bloc,t,f,25327,1
+38,QC,58,RIVIÈRE-DU-LOUP--MONTMAGNY,33202,"Mignault, Isabelle",Liberal,Lib,f,f,13124,2
+38,QC,58,RIVIÈRE-DU-LOUP--MONTMAGNY,33203,"Drolet, Marc-André",Conservative Party of Canada,Con,f,f,4040,3
+38,QC,58,RIVIÈRE-DU-LOUP--MONTMAGNY,33204,"Clermont, André",Green Party of Canada,Grn,f,f,962,4
+38,QC,58,RIVIÈRE-DU-LOUP--MONTMAGNY,33205,"Garon, Frédérick",New Democratic Party,NDP,f,f,876,5
+38,QC,59,RIVIÈRE-DU-NORD,33207,"Guay, Monique",Bloc Québécois,Bloc,t,f,29204,1
+38,QC,59,RIVIÈRE-DU-NORD,33208,"Auclair, Lorraine",Liberal,Lib,f,f,9509,2
+38,QC,59,RIVIÈRE-DU-NORD,33206,"Brousseau, Catherine",Conservative Party of Canada,Con,f,f,2435,3
+38,QC,59,RIVIÈRE-DU-NORD,33209,"Côté, François",New Democratic Party,NDP,f,f,1290,4
+38,QC,59,RIVIÈRE-DU-NORD,33210,"Poirier, Marcel",Green Party of Canada,Grn,f,f,1129,5
+38,QC,59,RIVIÈRE-DU-NORD,33211,"Marcoux, Christian",Marijuana Party,Marij,f,f,459,6
+38,QC,60,ROBERVAL,33215,"Gauthier, Michel",Bloc Québécois,Bloc,t,f,20655,1
+38,QC,60,ROBERVAL,33212,"Mallette, Michel",Liberal,Lib,f,f,8064,2
+38,QC,60,ROBERVAL,33216,"Lavoie, Ghislain",Conservative Party of Canada,Con,f,f,3011,3
+38,QC,60,ROBERVAL,33214,"Tremblay, Isabelle",New Democratic Party,NDP,f,f,1777,4
+38,QC,60,ROBERVAL,33213,"Gauthier, Marc-André",Green Party of Canada,Grn,f,f,1260,5
+38,QC,61,ROSEMONT--LA PETITE-PATRIE,33221,"Bigras, Bernard",Bloc Québécois,Bloc,t,f,31224,1
+38,QC,61,ROSEMONT--LA PETITE-PATRIE,33218,"Bolduc, Christian",Liberal,Lib,f,f,11572,2
+38,QC,61,ROSEMONT--LA PETITE-PATRIE,33219,"Beauchamp, Benoit",New Democratic Party,NDP,f,f,3876,3
+38,QC,61,ROSEMONT--LA PETITE-PATRIE,33220,"Chevalier, François",Green Party of Canada,Grn,f,f,2145,4
+38,QC,61,ROSEMONT--LA PETITE-PATRIE,33222,"Sauvé, Michel",Conservative Party of Canada,Con,f,f,1561,5
+38,QC,61,ROSEMONT--LA PETITE-PATRIE,33217,"Higham, Kenneth",Communist Party of Canada,Com,f,f,145,6
+38,QC,62,SAINT-BRUNO--SAINT-HUBERT,33224,"Lavallée, Carole",Bloc Québécois,Bloc,t,f,28050,1
+38,QC,62,SAINT-BRUNO--SAINT-HUBERT,33225,"Savard, Marc",Liberal,Lib,f,f,15457,2
+38,QC,62,SAINT-BRUNO--SAINT-HUBERT,33223,"Mongeau, Jean-François",Conservative Party of Canada,Con,f,f,3189,3
+38,QC,62,SAINT-BRUNO--SAINT-HUBERT,33226,"Henretta, Marie",New Democratic Party,NDP,f,f,2253,4
+38,QC,62,SAINT-BRUNO--SAINT-HUBERT,33227,"Crawford, Janis",Green Party of Canada,Grn,f,f,1349,5
+38,QC,62,SAINT-BRUNO--SAINT-HUBERT,33228,"Vachon, David",Marijuana Party,Marij,f,f,596,6
+38,QC,63,SAINT-HYACINTHE--BAGOT,33229,"Loubier, Yvan",Bloc Québécois,Bloc,t,f,29789,1
+38,QC,63,SAINT-HYACINTHE--BAGOT,33230,"Gaudette, Michel",Liberal,Lib,f,f,10558,2
+38,QC,63,SAINT-HYACINTHE--BAGOT,33231,"Champagne, Andrée",Conservative Party of Canada,Con,f,f,5240,3
+38,QC,63,SAINT-HYACINTHE--BAGOT,33232,"Chevrier, Joëlle",New Democratic Party,NDP,f,f,1204,4
+38,QC,63,SAINT-HYACINTHE--BAGOT,33233,"Godbout, Bruno",Green Party of Canada,Grn,f,f,948,5
+38,QC,64,SAINT-JEAN,33234,"Bachand, Claude",Bloc Québécois,Bloc,t,f,29485,1
+38,QC,64,SAINT-JEAN,33235,"Fecteau, Michel",Liberal,Lib,f,f,12729,2
+38,QC,64,SAINT-JEAN,33236,"Khoury, Joseph",Conservative Party of Canada,Con,f,f,3856,3
+38,QC,64,SAINT-JEAN,33237,"Trépanier, Jonathan",New Democratic Party,NDP,f,f,1687,4
+38,QC,64,SAINT-JEAN,33238,"Genest, Claude",Green Party of Canada,Grn,f,f,1298,5
+38,QC,65,SAINT-LAMBERT,33240,"Kotto, Maka",Bloc Québécois,Bloc,t,f,22024,1
+38,QC,65,SAINT-LAMBERT,33241,"Thibeault, Yolande",Liberal,Lib,f,f,16654,2
+38,QC,65,SAINT-LAMBERT,33242,"Clune, Patrick",Conservative Party of Canada,Con,f,f,2739,3
+38,QC,65,SAINT-LAMBERT,33243,"Garcia, Monique",New Democratic Party,NDP,f,f,2130,4
+38,QC,65,SAINT-LAMBERT,33244,"Joubert, Diane",Green Party of Canada,Grn,f,f,1404,5
+38,QC,65,SAINT-LAMBERT,33239,"Fournier, Normand",Marxist-Leninist Party,M-L,f,f,145,6
+38,QC,66,SAINT-LAURENT--CARTIERVILLE,33245,"Dion, Stéphane",Liberal,Lib,t,f,28107,1
+38,QC,66,SAINT-LAURENT--CARTIERVILLE,33248,"Fayad, William",Bloc Québécois,Bloc,f,f,7261,2
+38,QC,66,SAINT-LAURENT--CARTIERVILLE,33247,"Mahayni, Zaid",New Democratic Party,NDP,f,f,2630,3
+38,QC,66,SAINT-LAURENT--CARTIERVILLE,33249,"Rahmé, Marc",Conservative Party of Canada,Con,f,f,2606,4
+38,QC,66,SAINT-LAURENT--CARTIERVILLE,33246,"Aladass, Almaz",Green Party of Canada,Grn,f,f,875,5
+38,QC,66,SAINT-LAURENT--CARTIERVILLE,33250,"Neron, Alex",Marijuana Party,Marij,f,f,298,6
+38,QC,66,SAINT-LAURENT--CARTIERVILLE,33251,"Deschamps, Fernand",Marxist-Leninist Party,M-L,f,f,125,7
+38,QC,66,SAINT-LAURENT--CARTIERVILLE,33252,"Fernandez, Ken",Canadian Action Party,CAP,f,f,84,8
+38,QC,66,SAINT-LAURENT--CARTIERVILLE,33253,"Vargas, Nilda",Communist Party of Canada,Com,f,f,78,9
+38,QC,67,SAINT-LÉONARD--SAINT-MICHEL,33254,"Pacetti, Massimo",Liberal,Lib,t,f,25884,1
+38,QC,67,SAINT-LÉONARD--SAINT-MICHEL,33256,"François, Paul-Alexis",Bloc Québécois,Bloc,f,f,8852,2
+38,QC,67,SAINT-LÉONARD--SAINT-MICHEL,33255,"Colella, Laura",New Democratic Party,NDP,f,f,2422,3
+38,QC,67,SAINT-LÉONARD--SAINT-MICHEL,33257,"Eslami, Payam",Conservative Party of Canada,Con,f,f,2138,4
+38,QC,67,SAINT-LÉONARD--SAINT-MICHEL,33258,"Fellicetti, Ricardo",Green Party of Canada,Grn,f,f,944,5
+38,QC,67,SAINT-LÉONARD--SAINT-MICHEL,33259,"Chénier, Stéphane",Marxist-Leninist Party,M-L,f,f,267,6
+38,QC,68,SAINT-MAURICE--CHAMPLAIN,33260,"Gagnon, Marcel",Bloc Québécois,Bloc,t,f,25918,1
+38,QC,68,SAINT-MAURICE--CHAMPLAIN,33261,"Bilodeau, Marie-Eve",Liberal,Lib,f,f,14320,2
+38,QC,68,SAINT-MAURICE--CHAMPLAIN,33262,"Toupin, Martial",Conservative Party of Canada,Con,f,f,4129,3
+38,QC,68,SAINT-MAURICE--CHAMPLAIN,33263,"Allard, Pierre",New Democratic Party,NDP,f,f,1104,4
+38,QC,68,SAINT-MAURICE--CHAMPLAIN,33264,"Audette, Pierre",Green Party of Canada,Grn,f,f,855,5
+38,QC,68,SAINT-MAURICE--CHAMPLAIN,33265,"Giroux, Paul",Marijuana Party,Marij,f,f,547,6
+38,QC,69,SHEFFORD,33266,"Vincent, Robert",Bloc Québécois,Bloc,t,f,21968,1
+38,QC,69,SHEFFORD,33267,"St-Jacques, Diane",Liberal,Lib,f,f,18725,2
+38,QC,69,SHEFFORD,33268,"Parenteau, Jacques",Conservative Party of Canada,Con,f,f,3732,3
+38,QC,69,SHEFFORD,33269,"Brière, Francine",Green Party of Canada,Grn,f,f,1571,4
+38,QC,69,SHEFFORD,33270,"Bisson, Sonia",New Democratic Party,NDP,f,f,1146,5
+38,QC,70,SHERBROOKE,33271,"Cardin, Serge",Bloc Québécois,Bloc,t,f,29323,1
+38,QC,70,SHERBROOKE,33272,"Béchard, Bruno-Marie",Liberal,Lib,f,f,15482,2
+38,QC,70,SHERBROOKE,33273,"Leblanc, Réal",Conservative Party of Canada,Con,f,f,2142,3
+38,QC,70,SHERBROOKE,33274,"Champagne, Jeffrey",Green Party of Canada,Grn,f,f,1509,4
+38,QC,70,SHERBROOKE,33275,"Dion, Philippe",New Democratic Party,NDP,f,f,1463,5
+38,QC,71,TERREBONNE--BLAINVILLE,33277,"Bourgeois, Diane",Bloc Québécois,Bloc,t,f,31288,1
+38,QC,71,TERREBONNE--BLAINVILLE,33278,"Gingras, Pierre",Liberal,Lib,f,f,9048,2
+38,QC,71,TERREBONNE--BLAINVILLE,33276,"Légaré, Patrick",Conservative Party of Canada,Con,f,f,2582,3
+38,QC,71,TERREBONNE--BLAINVILLE,33279,"Drapeau, Martin",Green Party of Canada,Grn,f,f,1554,4
+38,QC,71,TERREBONNE--BLAINVILLE,33280,"Beaudet, Normand",New Democratic Party,NDP,f,f,1451,5
+38,QC,72,TROIS-RIVIÈRES,33281,"Brunelle, Paule",Bloc Québécois,Bloc,t,f,26240,1
+38,QC,72,TROIS-RIVIÈRES,33283,"Guindon, Jean-Éric",Liberal,Lib,f,f,12703,2
+38,QC,72,TROIS-RIVIÈRES,33284,"Mercier, Jean-Guy",Conservative Party of Canada,Con,f,f,4381,3
+38,QC,72,TROIS-RIVIÈRES,33282,"Tessier, Marc",New Democratic Party,NDP,f,f,1635,4
+38,QC,72,TROIS-RIVIÈRES,33285,"Lavoie, Linda",Green Party of Canada,Grn,f,f,1476,5
+38,QC,73,VAUDREUIL--SOULANGES,33286,"Faille, Meili",Bloc Québécois,Bloc,t,f,24675,1
+38,QC,73,VAUDREUIL--SOULANGES,33287,"Discepola, Nick",Liberal,Lib,f,f,21613,2
+38,QC,73,VAUDREUIL--SOULANGES,33288,"Ramage, Robert",Conservative Party of Canada,Con,f,f,4558,3
+38,QC,73,VAUDREUIL--SOULANGES,33289,"Markgraf, Bert",New Democratic Party,NDP,f,f,2175,4
+38,QC,73,VAUDREUIL--SOULANGES,33290,"Baribeau, Julie",Green Party of Canada,Grn,f,f,2103,5
+38,QC,73,VAUDREUIL--SOULANGES,33291,"Soucy, Charles",Marijuana Party,Marij,f,f,585,6
+38,QC,74,VERCHÈRES--LES PATRIOTES,33292,"Bergeron, Stéphane",Bloc Québécois,Bloc,t,f,33333,1
+38,QC,74,VERCHÈRES--LES PATRIOTES,33293,"Tousignant, Nathalie",Liberal,Lib,f,f,9958,2
+38,QC,74,VERCHÈRES--LES PATRIOTES,33294,"Rémillard, Francis",Conservative Party of Canada,Con,f,f,2750,3
+38,QC,74,VERCHÈRES--LES PATRIOTES,33295,"Vallée, Simon",New Democratic Party,NDP,f,f,1815,4
+38,QC,74,VERCHÈRES--LES PATRIOTES,33296,"Morlighem, Philippe",Green Party of Canada,Grn,f,f,975,5
+38,QC,74,VERCHÈRES--LES PATRIOTES,33297,"Drouin, Sébastien",Marijuana Party,Marij,f,f,463,6
+38,QC,75,WESTMOUNT--VILLE-MARIE,33298,"Robillard, Lucienne",Liberal,Lib,t,f,22337,1
+38,QC,75,WESTMOUNT--VILLE-MARIE,33299,"La Rochelle, Louis",Bloc Québécois,Bloc,f,f,5922,2
+38,QC,75,WESTMOUNT--VILLE-MARIE,33300,"Steedman, Eric Wilson",New Democratic Party,NDP,f,f,4795,3
+38,QC,75,WESTMOUNT--VILLE-MARIE,33301,"Gervais, Robert",Conservative Party of Canada,Con,f,f,4027,4
+38,QC,75,WESTMOUNT--VILLE-MARIE,33302,"Sarwer-Foner, Brian",Green Party of Canada,Grn,f,f,2419,5
+38,QC,75,WESTMOUNT--VILLE-MARIE,33303,"Proctor, David John",Marijuana Party,Marij,f,f,396,6
+38,QC,75,WESTMOUNT--VILLE-MARIE,33304,"Lachapelle, Serge",Marxist-Leninist Party,M-L,f,f,103,7
+38,SK,1,BATTLEFORDS--LLOYDMINSTER,33305,"Ritz, Gerry",Conservative Party of Canada,Con,t,f,15441,1
+38,SK,1,BATTLEFORDS--LLOYDMINSTER,33306,"McKee, Shawn",New Democratic Party,NDP,f,f,5367,2
+38,SK,1,BATTLEFORDS--LLOYDMINSTER,33307,"Price, Del",Liberal,Lib,f,f,4617,3
+38,SK,1,BATTLEFORDS--LLOYDMINSTER,33308,"Pearson, Kelsey",Green Party of Canada,Grn,f,f,766,4
+38,SK,1,BATTLEFORDS--LLOYDMINSTER,33309,"Stephan, Diane",Christian Heritage Party of Canada,CHP,f,f,316,5
+38,SK,2,BLACKSTRAP,33310,"Yelich, Lynne",Conservative Party of Canada,Con,t,f,15608,1
+38,SK,2,BLACKSTRAP,33311,"Paulsen, Tiffany",Liberal,Lib,f,f,11815,2
+38,SK,2,BLACKSTRAP,33312,"Kossick, Don",New Democratic Party,NDP,f,f,8862,3
+38,SK,2,BLACKSTRAP,33313,"Oliphant, Lynn",Green Party of Canada,Grn,f,f,1168,4
+38,SK,2,BLACKSTRAP,33314,"Sundberg, Clayton",Christian Heritage Party of Canada,CHP,f,f,177,5
+38,SK,3,CHURCHILL RIVER,33315,"Harrison, Jeremy",Conservative Party of Canada,Con,t,f,7279,1
+38,SK,3,CHURCHILL RIVER,33318,"Ducharme, Al",Liberal,Lib,f,f,5815,2
+38,SK,3,CHURCHILL RIVER,33317,"Cook, Earl",New Democratic Party,NDP,f,f,3910,3
+38,SK,3,CHURCHILL RIVER,33316,"Laliberte, Rick",Independent,Ind,f,f,1923,4
+38,SK,3,CHURCHILL RIVER,33319,"Gall, Marcella",Green Party of Canada,Grn,f,f,539,5
+38,SK,4,CYPRESS HILLS--GRASSLANDS,33320,"Anderson, David",Conservative Party of Canada,Con,t,f,18010,1
+38,SK,4,CYPRESS HILLS--GRASSLANDS,33322,"Caton, Bill",Liberal,Lib,f,f,5547,2
+38,SK,4,CYPRESS HILLS--GRASSLANDS,33323,"Potts, Jeff",New Democratic Party,NDP,f,f,4901,3
+38,SK,4,CYPRESS HILLS--GRASSLANDS,33321,"Currie, Bev",Green Party of Canada,Grn,f,f,1243,4
+38,SK,5,PALLISER,33324,"Batters, Dave",Conservative Party of Canada,Con,t,f,11909,1
+38,SK,5,PALLISER,33327,"Proctor, Dick",New Democratic Party,NDP,f,f,11785,2
+38,SK,5,PALLISER,33328,"Williams, John",Liberal,Lib,f,f,8244,3
+38,SK,5,PALLISER,33325,"Rands, Brian",Green Party of Canada,Grn,f,f,829,4
+38,SK,5,PALLISER,33326,"Stephan, Harold",Christian Heritage Party of Canada,CHP,f,f,451,5
+38,SK,6,PRINCE ALBERT,33329,"Fitzpatrick, Brian",Conservative Party of Canada,Con,t,f,13576,1
+38,SK,6,PRINCE ALBERT,33330,"Hovdebo, Don",New Democratic Party,NDP,f,f,7221,2
+38,SK,6,PRINCE ALBERT,33331,"Jahn, Patrick",Liberal,Lib,f,f,6929,3
+38,SK,6,PRINCE ALBERT,33332,"Loiselle, Marc",Green Party of Canada,Grn,f,f,987,4
+38,SK,7,REGINA--LUMSDEN--LAKE CENTRE,33333,"Lukiwski, Tom",Conservative Party of Canada,Con,t,f,10289,1
+38,SK,7,REGINA--LUMSDEN--LAKE CENTRE,33335,"Anderson, Gary",Liberal,Lib,f,f,10167,2
+38,SK,7,REGINA--LUMSDEN--LAKE CENTRE,33336,"Kovatch, Moe",New Democratic Party,NDP,f,f,8300,3
+38,SK,7,REGINA--LUMSDEN--LAKE CENTRE,33337,"Spencer, Larry",Independent,Ind,f,f,1506,4
+38,SK,7,REGINA--LUMSDEN--LAKE CENTRE,33334,"Agi, Fiorindo",Green Party of Canada,Grn,f,f,716,5
+38,SK,8,REGINA--QU'APPELLE,33338,"Scheer, Andrew",Conservative Party of Canada,Con,t,f,10012,1
+38,SK,8,REGINA--QU'APPELLE,33339,"Nystrom, Lorne",New Democratic Party,NDP,f,f,9151,2
+38,SK,8,REGINA--QU'APPELLE,33340,"Herle, Allyce",Liberal,Lib,f,f,7793,3
+38,SK,8,REGINA--QU'APPELLE,33341,"Robilliard, Deanna",Green Party of Canada,Grn,f,f,639,4
+38,SK,8,REGINA--QU'APPELLE,33342,"Nelson, Mary",Christian Heritage Party of Canada,CHP,f,f,293,5
+38,SK,8,REGINA--QU'APPELLE,33343,"Widger, Lorne",No affiliation to a recognised party,Ind,f,f,106,6
+38,SK,9,SASKATOON--HUMBOLDT,33345,"Trost, Bradley",Conservative Party of Canada,Con,t,f,9444,1
+38,SK,9,SASKATOON--HUMBOLDT,33348,"Wiebe, Nettie",New Democratic Party,NDP,f,f,9027,2
+38,SK,9,SASKATOON--HUMBOLDT,33346,"Wolfe, Patrick",Liberal,Lib,f,f,9009,3
+38,SK,9,SASKATOON--HUMBOLDT,33349,"Pankiw, Jim",Independent,Ind,f,f,7076,4
+38,SK,9,SASKATOON--HUMBOLDT,33344,"Schriml, Ron",Green Party of Canada,Grn,f,f,680,5
+38,SK,9,SASKATOON--HUMBOLDT,33347,"Zarysky, Larry",No affiliation to a recognised party,Ind,f,f,71,6
+38,SK,10,SASKATOON--ROSETOWN--BIGGAR,33352,"Skelton, Carol",Conservative Party of Canada,Con,t,f,11875,1
+38,SK,10,SASKATOON--ROSETOWN--BIGGAR,33350,"Gruending, Dennis",New Democratic Party,NDP,f,f,9597,2
+38,SK,10,SASKATOON--ROSETOWN--BIGGAR,33351,"Luczka, Myron",Liberal,Lib,f,f,4171,3
+38,SK,10,SASKATOON--ROSETOWN--BIGGAR,33353,"Barsky, Rick",Green Party of Canada,Grn,f,f,841,4
+38,SK,11,SASKATOON--WANUSKEWIN,33354,"Vellacott, Maurice",Conservative Party of Canada,Con,t,f,15109,1
+38,SK,11,SASKATOON--WANUSKEWIN,33355,"Axworthy, Chris",Liberal,Lib,f,f,10553,2
+38,SK,11,SASKATOON--WANUSKEWIN,33356,"Settee, Priscilla",New Democratic Party,NDP,f,f,5770,3
+38,SK,11,SASKATOON--WANUSKEWIN,33357,"Greenfield, David",Green Party of Canada,Grn,f,f,960,4
+38,SK,12,SOURIS--MOOSE MOUNTAIN,33358,"Komarnicki, Ed",Conservative Party of Canada,Con,t,f,11306,1
+38,SK,12,SOURIS--MOOSE MOUNTAIN,33359,"Devine, Grant",Independent,Ind,f,f,8399,2
+38,SK,12,SOURIS--MOOSE MOUNTAIN,33360,"McKague, Lonny",Liberal,Lib,f,f,6001,3
+38,SK,12,SOURIS--MOOSE MOUNTAIN,33361,"Stringer, Robert",New Democratic Party,NDP,f,f,4202,4
+38,SK,12,SOURIS--MOOSE MOUNTAIN,33362,"Gonzalez, Sigfredo",Green Party of Canada,Grn,f,f,537,5
+38,SK,12,SOURIS--MOOSE MOUNTAIN,33363,"Jacobson, Robert",Christian Heritage Party of Canada,CHP,f,f,191,6
+38,SK,13,WASCANA,33364,"Goodale, Ralph",Liberal,Lib,t,f,20567,1
+38,SK,13,WASCANA,33365,"Cryer, Doug",Conservative Party of Canada,Con,f,f,8709,2
+38,SK,13,WASCANA,33366,"Weir, Erin",New Democratic Party,NDP,f,f,5771,3
+38,SK,13,WASCANA,33367,"Robilliard, Darcy",Green Party of Canada,Grn,f,f,928,4
+38,SK,14,YORKTON--MELVILLE,33369,"Breitkreuz, Garry",Conservative Party of Canada,Con,t,f,19940,1
+38,SK,14,YORKTON--MELVILLE,33372,"Olson, Don",New Democratic Party,NDP,f,f,5890,2
+38,SK,14,YORKTON--MELVILLE,33370,"Quewezance, Ted",Liberal,Lib,f,f,4697,3
+38,SK,14,YORKTON--MELVILLE,33371,"Pilchner, Ralph",Green Party of Canada,Grn,f,f,630,4
+38,SK,14,YORKTON--MELVILLE,33368,"Sawkiw, David",Independent,Ind,f,f,524,5
+38,YK,1,YUKON,33374,"Bagnell, Larry",Liberal,Lib,t,f,5724,1
+38,YK,1,YUKON,33375,"Boyde, Pam",New Democratic Party,NDP,f,f,3216,2
+38,YK,1,YUKON,33373,"Hartle, James",Conservative Party of Canada,Con,f,f,2618,3
+38,YK,1,YUKON,33378,"LeBlond, Philippe",Green Party of Canada,Grn,f,f,571,4
+38,YK,1,YUKON,33377,"Davey, Sean",Marijuana Party,Marij,f,f,299,5
+38,YK,1,YUKON,33376,"Capp, Geoffrey",Christian Heritage Party of Canada,CHP,f,f,100,6

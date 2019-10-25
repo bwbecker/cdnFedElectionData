@@ -88,5 +88,5 @@ SELECT *
   FROM _elections.elections
  WHERE election_id = election_id_p
     OR election_id_p = 0
- ORDER BY prov_code, ed_name, place
+ ORDER BY election_id, prov_code, ed_name, place
 $$;

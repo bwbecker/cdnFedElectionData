@@ -1,0 +1,478 @@
+election_id,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_party_name,party_code,elected,acclaimed,votes,place
+13,AB,1,BATTLE RIVER,5052,"BLAIR, William John",Government,Govt,t,f,5733,1
+13,AB,1,BATTLE RIVER,5051,"WARNER, Daniel Webster",Opposition,Opp,f,f,4195,2
+13,AB,2,BOW RIVER,5055,"HALLADAY, Howard Hadden",Government,Govt,t,f,3757,1
+13,AB,2,BOW RIVER,5054,"GOUGE, Jesse Elmer",Opposition,Opp,f,f,2996,2
+13,AB,2,BOW RIVER,5053,"GALBRAITH, Daniel Harcourt",Non-Partisan League,Ind,f,f,1453,3
+13,AB,2,BOW RIVER,5056,"REID, John",Labour,Labour,f,f,312,4
+13,AB,3,CALGARY WEST,5058,"TWEEDIE, Thomas Mitchell",Government,Govt,t,f,10986,1
+13,AB,3,CALGARY WEST,5057,"IRVINE, John Alfred",Opposition,Opp,f,f,4015,2
+13,AB,4,EAST CALGARY,5059,"REDMAN, Daniel Lee",Government,Govt,t,f,8363,1
+13,AB,4,EAST CALGARY,5060,"IRVINE, William",Opposition-Labour,Ind,f,f,3911,2
+13,AB,5,EDMONTON EAST,5061,"MACKIE, Henry Arthur",Government,Govt,t,f,6775,1
+13,AB,5,EDMONTON EAST,5062,"MAY, Alexander Esson",Opposition,Opp,f,f,4122,2
+13,AB,6,EDMONTON WEST,5064,"GRIESBACH, William Antrobus",Government,Govt,t,f,9637,1
+13,AB,6,EDMONTON WEST,5063,"OLIVER, Hon. Frank",Opposition,Opp,f,f,6939,2
+13,AB,7,LETHBRIDGE,5066,"BUCHANAN, William Ashbury",Government,Govt,t,f,5302,1
+13,AB,7,LETHBRIDGE,5065,"PACK, L. Lambert",Opposition-Labour,Ind,f,f,2468,2
+13,AB,8,MACLEOD,5069,"SHAW, Hugh Murray",Government,Govt,t,f,5128,1
+13,AB,8,MACLEOD,5067,"MCIVOR, Donald Randolph",Opposition,Opp,f,f,2610,2
+13,AB,8,MACLEOD,5068,"MARSHALL, Stephen Thorne",Non-Partisan League,Ind,f,f,950,3
+13,AB,9,MEDICINE HAT,5071,"SIFTON, Hon. Arthur Lewis",Government,Govt,t,f,6869,1
+13,AB,9,MEDICINE HAT,5072,"REILLY, Clifford Bernardo",Opposition,Opp,f,f,3568,2
+13,AB,9,MEDICINE HAT,5070,"PATON, George",Non-Partisan League,Ind,f,f,460,3
+13,AB,10,RED DEER,5075,"CLARK, Michael",Government,Govt,t,f,6213,1
+13,AB,10,RED DEER,5073,"PUFFER, William Franklin",Opposition,Opp,f,f,3800,2
+13,AB,10,RED DEER,5074,"KNIGHT, Joseph Robert",Labour,Labour,f,f,701,3
+13,AB,11,STRATHCONA,5077,"DOUGLAS, James McCrie",Government,Govt,t,f,5777,1
+13,AB,11,STRATHCONA,5076,"MODE, Allan Thomas",Opposition,Opp,f,f,3178,2
+13,AB,12,VICTORIA,5079,"WHITE, William Henry",Opposition,Opp,t,f,3626,1
+13,AB,12,VICTORIA,5080,"HOLDEN, James Bismark",Government,Govt,f,f,3372,2
+13,AB,12,VICTORIA,5078,"LEEDY, John Whitman",Independent,Ind,f,f,602,3
+13,BC,1,BURRARD,5082,"CROWE, Sanford Johnston",Government,Govt,t,f,12566,1
+13,BC,1,BURRARD,5081,"DONNELLY, Patrick",Opposition,Opp,f,f,4707,2
+13,BC,1,BURRARD,5083,"MIDGLEY, Victor Rainsford",Labour,Labour,f,f,1744,3
+13,BC,2,CARIBOO,5084,"FULTON, Frederick John",Government,Govt,t,f,6010,1
+13,BC,2,CARIBOO,5085,"LEIGHTON, Raymond Findlay",Opposition,Opp,f,f,2804,2
+13,BC,3,COMOX--ALBERNI,5086,"CLEMENTS, Herbert Sylvester",Government,Govt,t,f,3652,1
+13,BC,3,COMOX--ALBERNI,5087,"MCINNES, Wm. Wallace Burns",Opposition,Opp,f,f,2162,2
+13,BC,4,KOOTENAY EAST,5089,"BONNELL, Saul",Government,Govt,t,f,3398,1
+13,BC,4,KOOTENAY EAST,5088,"BEATTIE, Robert",Opposition,Opp,f,f,1549,2
+13,BC,4,KOOTENAY EAST,5090,"BIGGS, Thomas",Labour,Labour,f,f,434,3
+13,BC,5,KOOTENAY WEST,5091,"GREEN, Robert Francis",Government,Govt,t,f,5377,1
+13,BC,5,KOOTENAY WEST,5093,"MAXWELL, Winfield",Opposition,Opp,f,f,1735,2
+13,BC,5,KOOTENAY WEST,5092,"AUSTIN, Irwin Amory",Labour,Labour,f,f,1399,3
+13,BC,6,NANAIMO,5095,"MCINTOSH, John Charles",Government,Govt,t,f,9175,1
+13,BC,6,NANAIMO,5096,"STEWART, Hector Allen",Opposition,Opp,f,f,1976,2
+13,BC,6,NANAIMO,5094,"TAYLOR, Joseph",Labour,Labour,f,f,1344,3
+13,BC,7,NEW WESTMINSTER,5097,"MCQUARRIE, William Garland",Government,Govt,t,f,7380,1
+13,BC,7,NEW WESTMINSTER,5098,"MCRAE, Duncan Alexander",Opposition,Opp,f,f,2882,2
+13,BC,8,SKEENA,5100,"PECK, Cyrus Wesley",Government,Govt,t,f,2806,1
+13,BC,8,SKEENA,5099,"STORK, Alfred",Opposition,Opp,f,f,2111,2
+13,BC,9,VANCOUVER CENTRE,5102,"STEVENS, Henry Herbert",Government,Govt,t,f,13722,1
+13,BC,9,VANCOUVER CENTRE,5101,"MCINNES, William Wallace Burns",Opposition,Opp,f,f,5543,2
+13,BC,9,VANCOUVER CENTRE,5103,"PRITCHARD, William Arthur",Labour,Labour,f,f,992,3
+13,BC,10,VANCOUVER SOUTH,5104,"COOPER, Richard Clive",Government,Govt,t,f,6890,1
+13,BC,10,VANCOUVER SOUTH,5105,"MACDONALD, Charles",Opposition,Opp,f,f,2462,2
+13,BC,10,VANCOUVER SOUTH,5106,"MCVETY, James Hackett",Labour,Labour,f,f,1176,3
+13,BC,10,VANCOUVER SOUTH,5107,"GOLD, Edward",Unknown,Unknown,f,f,50,4
+13,BC,11,VICTORIA CITY,5108,"TOLMIE, Simon Fraser",Government,Govt,t,f,11365,1
+13,BC,11,VICTORIA CITY,5109,"HENDERSON, Stuart",Opposition,Opp,f,f,2601,2
+13,BC,11,VICTORIA CITY,5110,"WELLS, Albert Samuel",Unknown,Unknown,f,f,551,3
+13,BC,12,WESTMINSTER DISTRICT,5111,"STACEY, Frank Bainard",Government,Govt,t,f,4074,1
+13,BC,12,WESTMINSTER DISTRICT,5112,"RAMSEY, Peter Bethavan Hamilton",Opposition,Opp,f,f,1792,2
+13,BC,13,YALE,5113,"BURRELL, Hon. Martin",Government,Govt,t,t,,1
+13,MB,1,BRANDON,5114,"WHIDDEN, Howard Primrose",Government,Govt,t,f,11465,1
+13,MB,1,BRANDON,5115,"PATERSON, Hugh Savigny",Opposition,Opp,f,f,1329,2
+13,MB,2,DAUPHIN,5116,"CRUISE, Robert",Government,Govt,t,t,,1
+13,MB,3,LISGAR,5117,"BOLTON, Ferris",Government,Govt,t,f,3834,1
+13,MB,3,LISGAR,5118,"QUINN, Ernest Wesley",Opposition,Opp,f,f,613,2
+13,MB,4,MACDONALD,5119,"HENDERS, Richard Coe",Government,Govt,t,f,5327,1
+13,MB,4,MACDONALD,5120,"WALSH, William Henry",Opposition,Opp,f,f,1561,2
+13,MB,5,MARQUETTE,5121,"CRERAR, Hon. Thomas Alexander",Government,Govt,t,f,8672,1
+13,MB,5,MARQUETTE,5122,"HAMILTON, Frederick Charles",Opposition,Opp,f,f,1152,2
+13,MB,6,NEEPAWA,5124,"DAVIS, Fred Langdon",Government,Govt,t,f,5102,1
+13,MB,6,NEEPAWA,5123,"MCGREGOR, Albert Daniel",Opposition,Opp,f,f,2046,2
+13,MB,7,NELSON,5125,"CAMPBELL, John Archibald",Government,Govt,t,t,,1
+13,MB,8,PORTAGE LA PRAIRIE,5126,"MEIGHEN, Hon. Arthur",Government,Govt,t,f,4611,1
+13,MB,8,PORTAGE LA PRAIRIE,5127,"SHIRTLIFF, Frederick",Opposition,Opp,f,f,976,2
+13,MB,9,PROVENCHER,5129,"MALLOY, John Patrick",Opposition,Opp,t,f,2035,1
+13,MB,9,PROVENCHER,5128,"JOHNS, John Robert",Government,Govt,f,f,1850,2
+13,MB,10,SELKIRK,5131,"HAY, Thomas",Government,Govt,t,f,5860,1
+13,MB,10,SELKIRK,5130,"ADAMSON, John Evans",Opposition,Opp,f,f,3045,2
+13,MB,11,SOURIS,5132,"FINLEY, Albert Ernest",Government,Govt,t,t,,1
+13,MB,12,SPRINGFIELD,5133,"RICHARDSON, Robert Lorne",Government,Govt,t,f,5870,1
+13,MB,12,SPRINGFIELD,5134,"CHARETTE, Guillaume Joseph",Opposition,Opp,f,f,3781,2
+13,MB,13,WINNIPEG CENTRE,5135,"ANDREW, George William",Government,Govt,t,f,25580,1
+13,MB,13,WINNIPEG CENTRE,5136,"WARD, Robert Sinclair",Opposition,Opp,f,f,4650,2
+13,MB,14,WINNIPEG NORTH,5137,"BLAKE, Matthew Robert",Government,Govt,t,f,9656,1
+13,MB,14,WINNIPEG NORTH,5138,"RIGG, Richard Arthur",Opposition,Opp,f,f,3472,2
+13,MB,15,WINNIPEG SOUTH,5139,"ALLAN, George William",Government,Govt,t,f,19031,1
+13,MB,15,WINNIPEG SOUTH,5140,"MACMILLAN, Neil Thomas",Opposition,Opp,f,f,2516,2
+13,NB,1,CHARLOTTE,5142,"HARTT, Thomas Aaron",Government,Govt,t,f,3248,1
+13,NB,1,CHARLOTTE,5141,"TODD, William Frederick",Opposition,Opp,f,f,2631,2
+13,NB,2,GLOUCESTER,5143,"TURGEON, Onésiphore",Opposition,Opp,t,t,,1
+13,NB,3,KENT,5144,"LÉGER, Auguste Théophile",Opposition,Opp,t,f,3563,1
+13,NB,3,KENT,5145,"ROBIDOUX, Ferdinand Joseph",Government,Govt,f,f,1323,2
+13,NB,4,NORTHUMBERLAND,5147,"LOGGIE, William Stewart",Government,Govt,t,f,4648,1
+13,NB,4,NORTHUMBERLAND,5146,"MORRISSY, John",Opposition,Opp,f,f,3601,2
+13,NB,5,RESTIGOUCHE--MADAWASKA,5148,"MICHAUD, Pius",Opposition,Opp,t,f,5077,1
+13,NB,5,RESTIGOUCHE--MADAWASKA,5149,"STEWART, David Alexander",Government,Govt,f,f,2271,2
+13,NB,6,ROYAL,5150,"MCLEAN, Hugh Havelock",Government,Govt,t,f,5959,1
+13,NB,6,ROYAL,5151,"SHARP, Fred Ernest",Opposition,Opp,f,f,2834,2
+13,NB,7,ST. JOHN--ALBERT-1,5152,"ELKIN, Stanley Edward",Government,Govt,t,f,13594,1
+13,NB,7,ST. JOHN--ALBERT-1,5153,"EMERY, Alban Frederick",Opposition,Opp,f,f,5530,2
+13,NB,8,ST. JOHN--ALBERT-2,5154,"WIGMORE, Hon. Rupert Wilson",Government,Govt,t,f,13611,1
+13,NB,8,ST. JOHN--ALBERT-2,5155,"BRODERICK, William Patrick",Opposition,Opp,f,f,5694,2
+13,NB,9,VICTORIA--CARLETON,5156,"CARVELL, Hon. Frank Broadstreet",Government,Govt,t,t,,1
+13,NB,10,WESTMORLAND,5157,"COPP, Arthur Bliss",Opposition,Opp,t,f,6645,1
+13,NB,10,WESTMORLAND,5158,"PRICE, Otto Baird",Government,Govt,f,f,4982,2
+13,NB,11,YORK--SUNBURY,5159,"MCLEOD, Harry Fulton",Government,Govt,t,f,6957,1
+13,NB,11,YORK--SUNBURY,5160,"BROWN, Nelson Wentworth",Opposition,Opp,f,f,3093,2
+13,NS,1,ANTIGONISH--GUYSBOROUGH,5161,"SINCLAIR, John Howard",Opposition,Opp,t,f,3944,1
+13,NS,1,ANTIGONISH--GUYSBOROUGH,5162,"WELLS, William Alexander",Government,Govt,f,f,2506,2
+13,NS,2,CAPE BRETON SOUTH AND RICHMOND-1,5163,"BUTTS, Robert Hamilton",Government,Govt,t,f,7645,1
+13,NS,2,CAPE BRETON SOUTH AND RICHMOND-1,5164,"CARROLL, William F.",Opposition,Opp,f,f,6690,2
+13,NS,2,CAPE BRETON SOUTH AND RICHMOND-1,5165,"GILLIES, John Angus",Labour,Labour,f,f,3615,3
+13,NS,3,CAPE BRETON SOUTH AND RICHMOND-2,5167,"DOUGLAS, John Carey",Government,Govt,t,f,8073,1
+13,NS,3,CAPE BRETON SOUTH AND RICHMOND-2,5168,"KYTE, George William",Opposition,Opp,f,f,6738,2
+13,NS,3,CAPE BRETON SOUTH AND RICHMOND-2,5166,"BAXTER, Robert",Labour,Labour,f,f,3667,3
+13,NS,4,COLCHESTER,5169,"MCCURDY, Fleming Blanchard",Government,Govt,t,t,,1
+13,NS,5,CUMBERLAND,5171,"RHODES, Hon. Edgar Nelson",Government,Govt,t,f,6655,1
+13,NS,5,CUMBERLAND,5170,"LOGAN, Hance James",Opposition,Opp,f,f,5459,2
+13,NS,6,DIGBY AND ANNAPOLIS,5172,"DAVIDSON, Avard Longley",Government,Govt,t,f,4596,1
+13,NS,6,DIGBY AND ANNAPOLIS,5173,"LOVETT, Lewis Johnstone",Opposition,Opp,f,f,3777,2
+13,NS,7,HALIFAX-1,5174,"MACLEAN, Alexander Kenneth",Government,Govt,t,t,,1
+13,NS,8,HALIFAX-2,5175,"MARTIN, Peter Francis",Government,Govt,t,t,,1
+13,NS,9,HANTS,5176,"TREMAIN, Hadley Brown",Government,Govt,t,f,2989,1
+13,NS,9,HANTS,5177,"MARTELL, Lewis Herbert",Opposition,Opp,f,f,2696,2
+13,NS,10,INVERNESS,5179,"CHISHOLM, Alexander William",Opposition,Opp,t,f,3544,1
+13,NS,10,INVERNESS,5178,"GALLANT, Thomas",Government,Govt,f,f,2258,2
+13,NS,11,KINGS,5180,"BORDEN, Right Hon. Sir Robert",Government,Govt,t,f,3941,1
+13,NS,11,KINGS,5181,"SEALY, James",Opposition,Opp,f,f,2524,2
+13,NS,12,LUNENBURG,5182,"DUFF, William",Opposition,Opp,t,f,4699,1
+13,NS,12,LUNENBURG,5183,"MARGESON, Joseph Willis",Government,Govt,f,f,3861,2
+13,NS,13,NORTH CAPE BRETON AND VICTORIA,5184,"MCKENZIE, Daniel Duncan",Opposition,Opp,t,f,4477,1
+13,NS,13,NORTH CAPE BRETON AND VICTORIA,5185,"MCCORMICK, John",Government,Govt,f,f,3649,2
+13,NS,14,PICTOU,5186,"MCGREGOR, Alexander",Government,Govt,t,f,6800,1
+13,NS,14,PICTOU,5187,"MACKAY, Robert Hugh",Opposition,Opp,f,f,6043,2
+13,NS,15,SHELBURNE AND QUEEN'S,5188,"FIELDING, Hon. William Stevens",Government,Govt,t,t,,1
+13,NS,16,YARMOUTH AND CLARE,5189,"SPINNEY, Edgar Keith",Government,Govt,t,f,4463,1
+13,NS,16,YARMOUTH AND CLARE,5190,"COMEAU, Joseph Willie",Opposition,Opp,f,f,3447,2
+13,ON,1,ALGOMA EAST,5191,"NICHOLSON, George Brecken",Government,Govt,t,f,4742,1
+13,ON,1,ALGOMA EAST,5192,"O'CONNOR, Lawrence",Opposition,Opp,f,f,3596,2
+13,ON,2,ALGOMA WEST,5193,"SIMPSON, Thomas Edward",Government,Govt,t,f,4780,1
+13,ON,2,ALGOMA WEST,5194,"SMITH, Charles Napier",Opposition,Opp,f,f,2510,2
+13,ON,2,ALGOMA WEST,5195,"LOCKWOOD, James",Labour,Labour,f,f,658,3
+13,ON,3,BRANT,5196,"HAROLD, John",Government,Govt,t,f,2106,1
+13,ON,3,BRANT,5197,"COCKSHUTT, Henry",Independent,Ind,f,f,2023,2
+13,ON,3,BRANT,5198,"DORAN, Blackwell Lawrence",Opposition,Opp,f,f,1299,3
+13,ON,4,BRANTFORD,5199,"COCKSHUTT, William F.",Government,Govt,t,f,5925,1
+13,ON,4,BRANTFORD,5200,"BOWLBY, John Wedgewood",Opposition,Opp,f,f,2233,2
+13,ON,4,BRANTFORD,5201,"MACBRIDE, Morrisson Mann",Labour,Labour,f,f,1726,3
+13,ON,5,BRUCE NORTH,5202,"CLARK, Hugh",Government,Govt,t,f,4269,1
+13,ON,5,BRUCE NORTH,5203,"MACAULAY, John",Opposition,Opp,f,f,2579,2
+13,ON,6,BRUCE SOUTH,5204,"TRUAX, Reuben Eldridge",Opposition,Opp,t,f,3628,1
+13,ON,6,BRUCE SOUTH,5205,"MCNAB, Alexander Eugene",Government,Govt,f,f,3456,2
+13,ON,7,CARLETON,5206,"BOYCE, George",Government,Govt,t,f,5290,1
+13,ON,7,CARLETON,5207,"HONEYWELL, Frederick Henry",Opposition,Opp,f,f,2669,2
+13,ON,8,DUFFERIN,5208,"BEST, John",Government,Govt,t,f,3797,1
+13,ON,8,DUFFERIN,5209,"DRYDEN, Thomas Charlo",Opposition,Opp,f,f,806,2
+13,ON,9,DUNDAS,5210,"CASSELMAN, Orren D.",Government,Govt,t,f,4236,1
+13,ON,9,DUNDAS,5211,"MACINTYRE, Alexander W.",Opposition,Opp,f,f,2806,2
+13,ON,10,DURHAM,5212,"ROWELL, Hon. Newton Wesley",Government,Govt,t,f,5923,1
+13,ON,10,DURHAM,5213,"JONES, George William",Opposition,Opp,f,f,1404,2
+13,ON,11,ELGIN EAST,5214,"MARSHALL, David",Government,Govt,t,f,2591,1
+13,ON,11,ELGIN EAST,5215,"CHARLTON, William Granville",Opposition,Opp,f,f,2283,2
+13,ON,12,ELGIN WEST,5216,"CROTHERS, Hon. Thomas Wilson",Government,Govt,t,f,5173,1
+13,ON,12,ELGIN WEST,5217,"TOLMIE, William",Opposition,Opp,f,f,3526,2
+13,ON,13,ESSEX NORTH,5218,"KENNEDY, William Costello",Opposition,Opp,t,f,7164,1
+13,ON,13,ESSEX NORTH,5219,"WIGLE, Ernest S.",Government,Govt,f,f,6718,2
+13,ON,14,ESSEX SOUTH,5220,"BRIEN, John Wesley",Government,Govt,t,f,3645,1
+13,ON,14,ESSEX SOUTH,5221,"ATKIN, Robert",Opposition,Opp,f,f,3476,2
+13,ON,15,FORT WILLIAM AND RAINY RIVER,5222,"MANION, Robert James",Government,Govt,t,f,5943,1
+13,ON,15,FORT WILLIAM AND RAINY RIVER,5223,"DENNIS, Albert Hugh",Opposition-Labour,Ind,f,f,2560,2
+13,ON,16,FRONTENAC,5224,"EDWARDS, John Wesley",Government,Govt,t,f,3641,1
+13,ON,16,FRONTENAC,5225,"HALLIDAY, James",Opposition,Opp,f,f,1658,2
+13,ON,17,GLENGARRY AND STORMONT,5226,"MCMARTIN, John",Government,Govt,t,t,,1
+13,ON,18,GRENVILLE,5227,"REID, Hon. John Dowsley",Government,Govt,t,f,3011,1
+13,ON,18,GRENVILLE,5228,"MACKINTOSH, Pember Alton",Opposition,Opp,f,f,1734,2
+13,ON,19,GREY NORTH,5229,"MIDDLEBRO, William Sora",Government,Govt,t,f,5815,1
+13,ON,19,GREY NORTH,5230,"DANARD, Arthur Leslie",Opposition,Opp,f,f,3521,2
+13,ON,20,GREY SOUTHEAST,5231,"BALL, Robert James",Government,Govt,t,f,4845,1
+13,ON,20,GREY SOUTHEAST,5232,"WRIGHT, William Henry",Opposition,Opp,f,f,3609,2
+13,ON,21,HALDIMAND,5233,"LALOR, Francis Ramsey",Government,Govt,t,f,3696,1
+13,ON,21,HALDIMAND,5234,"PARSONS, John James",Opposition,Opp,f,f,2480,2
+13,ON,22,HALTON,5235,"ANDERSON, Robert King",Government,Govt,t,f,4802,1
+13,ON,22,HALTON,5236,"GREGORY, Walter Dymond",Opposition,Opp,f,f,2032,2
+13,ON,23,HAMILTON EAST,5238,"HALCROW, George Grant",Opposition-Labour,Ind,f,,,1
+13,ON,23,HAMILTON EAST,5237,"MEWBURN, Hon. Sydney Chilton",Government,Govt,t,f,11340,2
+13,ON,24,HAMILTON WEST,5239,"STEWART, Thomas Joseph",Government,Govt,t,f,6451,1
+13,ON,24,HAMILTON WEST,5240,"ROLLO, Walter Ritchie",Labour,Labour,f,f,3678,2
+13,ON,24,HAMILTON WEST,5241,"MCLAREN, John Inglis",Opposition,Opp,f,f,2610,3
+13,ON,25,HASTINGS EAST,5242,"THOMPSON, Thomas Henry",Government,Govt,t,f,4202,1
+13,ON,25,HASTINGS EAST,5243,"CROSS, William",Opposition,Opp,f,f,1909,2
+13,ON,26,HASTINGS WEST,5244,"PORTER, Edward Guss",Government,Govt,t,f,5710,1
+13,ON,26,HASTINGS WEST,5245,"GRAHAM, Robert James",Opposition,Opp,f,f,4085,2
+13,ON,27,HURON NORTH,5246,"BOWMAN, James",Government,Govt,t,f,4799,1
+13,ON,27,HURON NORTH,5247,"HISLOP, Archibald",Opposition,Opp,f,f,2770,2
+13,ON,28,HURON SOUTH,5248,"MERNER, Jonathan Joseph",Government,Govt,t,f,3932,1
+13,ON,28,HURON SOUTH,5249,"MCMILLAN, Thomas",Opposition,Opp,f,f,3389,2
+13,ON,29,KENT,5250,"MCCOIG, Archibald Blake",Opposition,Opp,t,f,7402,1
+13,ON,29,KENT,5251,"PLEWES, John Warcup",Independent Liberal,Ind,f,f,6313,2
+13,ON,30,KINGSTON,5252,"NICKLE, William Folger",Government,Govt,t,f,6194,1
+13,ON,30,KINGSTON,5253,"RICHARDSON, Alexander White",Opposition,Opp,f,f,1782,2
+13,ON,31,LAMBTON EAST,5254,"ARMSTRONG, Joseph Emanuel",Government,Govt,t,f,4239,1
+13,ON,31,LAMBTON EAST,5255,"MCDOUGALL, Neil",Opposition,Opp,f,f,3255,2
+13,ON,32,LAMBTON WEST,5256,"PARDEE, Frederick Forsyth",Government,Govt,t,f,5691,1
+13,ON,32,LAMBTON WEST,5257,"MERRISON, James Graham",Opposition,Opp,f,f,2842,2
+13,ON,33,LANARK,5258,"HANNA, Adelbert Edward",Government,Govt,t,f,5816,1
+13,ON,33,LANARK,5259,"CALDWELL, Boyd Alexander Conyn",Opposition,Opp,f,f,2609,2
+13,ON,33,LANARK,5260,"BURGESS, George Arthur",Unknown,Unknown,f,f,661,3
+13,ON,34,LEEDS,5261,"WHITE, Hon. Sir William Tho",Government,Govt,t,f,7236,1
+13,ON,34,LEEDS,5262,"HARDY, Arthur Charles",Opposition,Opp,f,f,4069,2
+13,ON,35,LENNOX AND ADDINGTON,5263,"PAUL, William James",Government,Govt,t,f,3477,1
+13,ON,35,LENNOX AND ADDINGTON,5264,"GRANGE, Edward Wilkinson",Opposition,Opp,f,f,1895,2
+13,ON,36,LINCOLN,5265,"CHAPLIN, James Dew",Government,Govt,t,f,9335,1
+13,ON,36,LINCOLN,5266,"LOVELACE, Edwin John",Opposition,Opp,f,f,3816,2
+13,ON,37,LONDON,5267,"CRONYN, Hume",Government,Govt,t,f,11136,1
+13,ON,37,LONDON,5268,"GIBBONS, George Sutton",Opposition,Opp,f,f,6783,2
+13,ON,38,MIDDLESEX EAST,5269,"GLASS, Samuel Francis",Government,Govt,t,f,4212,1
+13,ON,38,MIDDLESEX EAST,5270,"ROSS, James McCulloch",Opposition,Opp,f,f,2755,2
+13,ON,39,MIDDLESEX WEST,5271,"ROSS, Duncan Campbell",Opposition,Opp,t,f,3930,1
+13,ON,39,MIDDLESEX WEST,5272,"ELLIOT, George Adam",Government,Govt,f,f,3531,2
+13,ON,40,MUSKOKA,5274,"MCGIBBON, Peter",Government,Govt,t,f,3457,1
+13,ON,40,MUSKOKA,5273,"THOMAS, George Henry Oakwood",Opposition,Opp,f,f,1878,2
+13,ON,41,NIPISSING,5276,"HARRISON, Charles Robert",Government,Govt,t,f,6411,1
+13,ON,41,NIPISSING,5275,"LAPIERRE, Edmond Anthony",Opposition,Opp,f,f,6367,2
+13,ON,42,NORFOLK,5277,"CHARLTON, William Andrew",Government,Govt,t,f,4544,1
+13,ON,42,NORFOLK,5278,"WALLACE, John Alexander",Opposition,Opp,f,f,3258,2
+13,ON,43,NORTHUMBERLAND,5279,"MUNSON, Charles Arthur",Government,Govt,t,f,6313,1
+13,ON,43,NORTHUMBERLAND,5280,"DUDLEY, Samuel Drayton",Opposition,Opp,f,f,2916,2
+13,ON,44,ONTARIO NORTH,5281,"SHARPE, Samuel Simpson",Government,Govt,t,f,3123,1
+13,ON,44,ONTARIO NORTH,5282,"HOGG, Frederick",Opposition,Opp,f,f,1568,2
+13,ON,45,ONTARIO SOUTH,5283,"SMITH, William",Government,Govt,t,f,5205,1
+13,ON,45,ONTARIO SOUTH,5284,"SINCLAIR, William Edmund Newto",Opposition,Opp,f,f,2682,2
+13,ON,46,OTTAWA (CITY OF)-1,5285,"CHABOT, John Leo",Government,Govt,t,f,18312,1
+13,ON,46,OTTAWA (CITY OF)-1,5286,"MCGIVERIN, Harold B.",Opposition,Opp,f,f,13077,2
+13,ON,47,OTTAWA (CITY OF)-2,5288,"FRIPP, Alfred Ernest",Government,Govt,t,f,18547,1
+13,ON,47,OTTAWA (CITY OF)-2,5287,"LAURIER, Rt. Hon. Sir Wilfrid",Opposition,Opp,f,f,13289,2
+13,ON,48,OXFORD NORTH,5289,"NESBITT, Edward Walter",Government,Govt,t,f,3836,1
+13,ON,48,OXFORD NORTH,5290,"SUTHERLAND, Donald Matheson",Opposition,Opp,f,f,3074,2
+13,ON,49,OXFORD SOUTH,5291,"SUTHERLAND, Donald",Government,Govt,t,f,4124,1
+13,ON,49,OXFORD SOUTH,5292,"SCHELL, Malcolm Smith",Opposition,Opp,f,f,2812,2
+13,ON,50,PARKDALE,5293,"MOWAT, Herbert Macdonald",Government,Govt,t,f,13306,1
+13,ON,50,PARKDALE,5294,"MCCORMACK, Carson Alexander Viv",Independent,Ind,f,f,7736,2
+13,ON,50,PARKDALE,5295,"WALDRON, Gordon",Opposition,Opp,f,f,3698,3
+13,ON,51,PARRY SOUND,5296,"ARTHURS, James",Government,Govt,t,f,5182,1
+13,ON,51,PARRY SOUND,5297,"HOCKEN, Norman Cecil",Opposition,Opp,f,f,2043,2
+13,ON,52,PEEL,5298,"CHARTERS, Samuel",Government,Govt,t,f,4751,1
+13,ON,52,PEEL,5299,"PETCH, Benjamin",Opposition,Opp,f,f,2499,2
+13,ON,53,PERTH NORTH,5300,"MORPHY, Hugh Boulton",Government,Govt,t,f,5977,1
+13,ON,53,PERTH NORTH,5301,"RANKIN, James Palmer",Opposition,Opp,f,f,4109,2
+13,ON,54,PERTH SOUTH,5302,"STEELE, Michael",Government,Govt,t,f,2770,1
+13,ON,54,PERTH SOUTH,5303,"FORRESTER, William",Opposition,Opp,f,f,2713,2
+13,ON,55,PETERBOROUGH EAST,5304,"SEXSMITH, John Albert",Government,Govt,t,f,2555,1
+13,ON,55,PETERBOROUGH EAST,5305,"JOHNSTON, William H.",Opposition,Opp,f,f,1389,2
+13,ON,56,PETERBOROUGH WEST,5306,"BURNHAM, John Hampden",Government,Govt,t,f,6382,1
+13,ON,56,PETERBOROUGH WEST,5307,"HALL, Robert Richard",Opposition,Opp,f,f,2964,2
+13,ON,57,PORT ARTHUR AND KENORA,5308,"KEEFER, Francis Henry",Government,Govt,t,f,5990,1
+13,ON,57,PORT ARTHUR AND KENORA,5309,"DUNBAR, James Asher",Opposition,Opp,f,f,2476,2
+13,ON,58,PRESCOTT,5310,"PROULX, Edmond",Opposition,Opp,t,f,3743,1
+13,ON,58,PRESCOTT,5311,"METCALFE, Andrew Richard",Government,Govt,f,f,1439,2
+13,ON,59,PRINCE EDWARD,5312,"HEPBURN, William Bernard Rickart",Government,Govt,t,f,3231,1
+13,ON,59,PRINCE EDWARD,5313,"HORSEY, Herbert",Opposition,Opp,f,f,1755,2
+13,ON,60,RENFREW NORTH,5314,"MACKIE, Herbert John",Government,Govt,t,f,3397,1
+13,ON,60,RENFREW NORTH,5315,"REID, Norman",Opposition,Opp,f,f,2873,2
+13,ON,61,RENFREW SOUTH,5316,"PEDLOW, Isaac Ellis",Opposition,Opp,t,f,3245,1
+13,ON,61,RENFREW SOUTH,5317,"MARTIN, Lawrence Thomas",Government,Govt,f,f,3182,2
+13,ON,62,RUSSELL,5318,"MURPHY, Hon. Charles",Opposition,Opp,t,f,5895,1
+13,ON,62,RUSSELL,5319,"MERKLEY, Duncan Cameron",Government,Govt,f,f,3768,2
+13,ON,63,SIMCOE EAST,5320,"TUDHOPE, James Brockett",Government,Govt,t,f,6669,1
+13,ON,63,SIMCOE EAST,5321,"CHEW, Manley",Opposition,Opp,f,f,3076,2
+13,ON,64,SIMCOE NORTH,5323,"CURRIE, John Alister",Government,Govt,t,f,4240,1
+13,ON,64,SIMCOE NORTH,5322,"DRURY, Ernest Charles",Opposition,Opp,f,f,2293,2
+13,ON,65,SIMCOE SOUTH,5324,"BOYS, William Alves",Government,Govt,t,f,5771,1
+13,ON,65,SIMCOE SOUTH,5325,"MITCHELL, John Henry",Opposition,Opp,f,f,1157,2
+13,ON,66,TIMISKAMING,5326,"COCHRANE, Hon. Francis",Government,Govt,t,f,7025,1
+13,ON,66,TIMISKAMING,5327,"ROEBUCK, Arthur Wentworth",Opposition,Opp,f,f,4868,2
+13,ON,67,TORONTO CENTRE,5328,"BRISTOL, Edmund",Government,Govt,t,f,12051,1
+13,ON,67,TORONTO CENTRE,5329,"RAMSDEN, Joseph George",Opposition,Opp,f,f,3918,2
+13,ON,67,TORONTO CENTRE,5330,"DRAIMIN, Archie",Unknown,Unknown,f,f,217,3
+13,ON,68,TORONTO EAST,5331,"KEMP, Hon. Sir Albert Edward",Government,Govt,t,f,15894,1
+13,ON,68,TORONTO EAST,5332,"VICK, John Tristam",Opposition,Opp,f,f,4399,2
+13,ON,69,TORONTO NORTH,5333,"FOSTER, Rt. Hon. Sir George",Government,Govt,t,f,21130,1
+13,ON,69,TORONTO NORTH,5334,"YOUNG, Alfred James",Opposition-Labour,Ind,f,f,2893,2
+13,ON,70,TORONTO SOUTH,5335,"SHEARD, Charles",Government,Govt,t,f,7469,1
+13,ON,70,TORONTO SOUTH,5336,"CAREY, David Arthur",Opposition-Labour,Ind,f,f,2365,2
+13,ON,71,TORONTO WEST,5337,"HOCKEN, Horatio Clarence",Government,Govt,t,f,12648,1
+13,ON,71,TORONTO WEST,5338,"KERR, Charles Wesley",Opposition,Opp,f,f,3030,2
+13,ON,71,TORONTO WEST,5339,"BRUCE, John William",Labour,Labour,f,f,2053,3
+13,ON,72,VICTORIA,5340,"HUGHES, Hon. Sir Sam",Government,Govt,t,f,6338,1
+13,ON,72,VICTORIA,5341,"ISAAC, George Dunkley",Opposition,Opp,f,f,3079,2
+13,ON,73,WATERLOO NORTH,5342,"EULER, William Daum",Opposition,Opp,t,f,5435,1
+13,ON,73,WATERLOO NORTH,5343,"WEICHEL, William George",Government,Govt,f,f,3571,2
+13,ON,73,WATERLOO NORTH,5344,"SMITH, Mervyn",Labour,Labour,f,f,220,3
+13,ON,74,WATERLOO SOUTH,5345,"SCOTT, Frank Stewart",Government,Govt,t,f,5681,1
+13,ON,74,WATERLOO SOUTH,5346,"THOMSON, Adam",Opposition,Opp,f,f,2894,2
+13,ON,74,WATERLOO SOUTH,5347,"HALL, Thomas",Labour,Labour,f,f,1396,3
+13,ON,75,WELLAND,5348,"FRASER, Evan Eugene",Government,Govt,t,f,5378,1
+13,ON,75,WELLAND,5349,"GERMAN, William Manly",Opposition,Opp,f,f,4616,2
+13,ON,75,WELLAND,5350,"HUGHES, James Arthur",Labour,Labour,f,f,1704,3
+13,ON,76,WELLINGTON NORTH,5351,"CLARKE, William Aurelius",Government,Govt,t,f,3492,1
+13,ON,76,WELLINGTON NORTH,5352,"MCEWING, James",Opposition,Opp,f,f,1998,2
+13,ON,77,WELLINGTON SOUTH,5353,"GUTHRIE, Hon. Hugh",Government,Govt,t,f,7358,1
+13,ON,77,WELLINGTON SOUTH,5354,"CUNNINGHAM, Lorne",Opposition-Labour,Ind,f,f,2139,2
+13,ON,78,WENTWORTH,5355,"WILSON, Gordon Crooks",Government,Govt,t,f,9070,1
+13,ON,78,WENTWORTH,5356,"DICKENSON, John Herbert",Opposition,Opp,f,f,3387,2
+13,ON,78,WENTWORTH,5357,"FLATMAN, Frederick James",Labour,Labour,f,f,1507,3
+13,ON,79,YORK EAST,5358,"FOSTER, Thomas",Government,Govt,t,f,9736,1
+13,ON,79,YORK EAST,5359,"COCKBURN, Ross Collier",Opposition,Opp,f,f,5758,2
+13,ON,79,YORK EAST,5360,"BALLANTYNE, James Hamilton",Labour,Labour,f,f,3338,3
+13,ON,80,YORK NORTH,5361,"ARMSTRONG, John Alexander Macdonald",Government,Govt,t,f,3948,1
+13,ON,80,YORK NORTH,5362,"KING, Hon. William Lyon Mackenzie",Opposition,Opp,f,f,2870,2
+13,ON,81,YORK SOUTH,5363,"MACLEAN, William Findlay",Government,Govt,t,f,16088,1
+13,ON,81,YORK SOUTH,5364,"MACGREGOR, Alexander",Opposition,Opp,f,f,2065,2
+13,ON,81,YORK SOUTH,5365,"GUNN, James Thomas",Labour,Labour,f,f,1977,3
+13,ON,81,YORK SOUTH,5366,"GALBRAITH, John",Unknown,Unknown,f,f,118,4
+13,ON,82,YORK WEST,5367,"WALLACE, Thomas George",Government,Govt,t,f,11930,1
+13,ON,82,YORK WEST,5368,"DENTON, Frank",Opposition,Opp,f,f,2856,2
+13,PE,1,KING'S,5369,"MCISAAC, James",Government,Govt,t,f,2889,1
+13,PE,1,KING'S,5370,"HUGHES, James Joseph",Opposition,Opp,f,f,2837,2
+13,PE,2,PRINCE,5372,"READ, Joseph",Opposition,Opp,t,f,4298,1
+13,PE,2,PRINCE,5371,"LEFURGEY, Alfred Alexander",Government,Govt,f,f,3974,2
+13,PE,3,QUEEN'S-1,5373,"SINCLAIR, John Ewen",Opposition,Opp,t,f,5377,1
+13,PE,3,QUEEN'S-1,5374,"WARBURTON, Alexander Bannerman",Opposition,Opp,f,f,5276,2
+13,PE,4,QUEEN'S-2,5375,"NICHOLSON, Donald",Government,Govt,t,f,5435,1
+13,PE,4,QUEEN'S-2,5376,"MARTIN, Alexander",Government,Govt,f,f,5374,2
+13,QC,1,ARGENTEUIL,5378,"MCGIBBON, Peter Robert",Opposition,Opp,t,f,2113,1
+13,QC,1,ARGENTEUIL,5377,"SLATER, Harry",Government,Govt,f,f,1684,2
+13,QC,2,BAGOT,5379,"MARCILE, Joseph-Edmond",Opposition,Opp,t,f,3318,1
+13,QC,2,BAGOT,5380,"LAFONTAINE, Joseph-Eugène",Government,Govt,f,f,92,2
+13,QC,3,BEAUCE,5381,"BELAND, Hon. Henri Sévérin",Opposition,Opp,t,t,,1
+13,QC,4,BEAUHARNOIS,5382,"PAPINEAU, Louis-Joseph",Opposition,Opp,t,t,,1
+13,QC,5,BELLECHASSE,5384,"FOURNIER, Charles-Alphonse",Opposition,Opp,t,f,3752,1
+13,QC,5,BELLECHASSE,5383,"GRENIER, Honoré",Government,Govt,f,f,60,2
+13,QC,5,BELLECHASSE,5385,"MARCEAU, Thomas Wilfrid",Unknown,Unknown,f,f,30,3
+13,QC,6,BERTHIER,5386,"GERVAIS, Théodore",Opposition,Opp,t,f,2422,1
+13,QC,6,BERTHIER,5387,"ECREMENT, Joseph Wilfrid Arthur",Independent Liberal,Ind,f,f,1440,2
+13,QC,7,BONAVENTURE,5388,"MARCIL, Hon. Charles",Opposition,Opp,t,f,4131,1
+13,QC,7,BONAVENTURE,5389,"FUROIS, Philippe",Government,Govt,f,f,1236,2
+13,QC,8,BROME,5390,"MCMASTER, Andrew Ross",Opposition,Opp,t,f,1926,1
+13,QC,8,BROME,5391,"DRAPER, Dennis Colburn",Government,Govt,f,f,1488,2
+13,QC,9,CHAMBLY--VERCHÈRES,5392,"ARCHAMBAULT, Joseph",Opposition,Opp,t,f,4740,1
+13,QC,9,CHAMBLY--VERCHÈRES,5393,"RAINVILLE, Joseph Hormisdas",Government,Govt,f,f,2675,2
+13,QC,10,CHAMPLAIN,5394,"DESAULNIERS, Arthur Lesieur",Opposition,Opp,t,f,7095,1
+13,QC,10,CHAMPLAIN,5395,"BLONDIN, Hon. Pierre Edouard",Government,Govt,f,f,472,2
+13,QC,11,CHARLEVOIX--MONTMORENCY,5396,"CASGRAIN, Pierre-François",Opposition,Opp,t,f,5197,1
+13,QC,11,CHARLEVOIX--MONTMORENCY,5397,"BOUCHARD, Philippe",Government,Govt,f,f,129,2
+13,QC,12,CHICOUTIMI--SAGUENAY,5398,"SAVARD, Edmond",Opposition,Opp,t,f,11002,1
+13,QC,12,CHICOUTIMI--SAGUENAY,5399,"GIRARD, Joseph",Government,Govt,f,f,971,2
+13,QC,13,CHÂTEAUGUAY--HUNTINGDON,5401,"ROBB, James Alexander",Opposition,Opp,t,f,3835,1
+13,QC,13,CHÂTEAUGUAY--HUNTINGDON,5402,"MORRIS, James",Government,Govt,f,f,1990,2
+13,QC,13,CHÂTEAUGUAY--HUNTINGDON,5400,"DUBOIS, Joseph Omer",Unknown,Unknown,f,f,40,3
+13,QC,14,COMPTON,5403,"HUNT, Aylmer Byron",Opposition,Opp,t,f,4418,1
+13,QC,14,COMPTON,5404,"MCIVER, Kenneth Nicholson",Government,Govt,f,f,2515,2
+13,QC,15,DORCHESTER,5405,"CANNON, Lucien",Opposition,Opp,t,f,4228,1
+13,QC,15,DORCHESTER,5406,"SÉVIGNY, Hon. Joseph Pierre Albert",Government,Govt,f,f,497,2
+13,QC,16,DRUMMOND--ARTHABASKA,5407,"BROUILLARD, Joseph-Ovide",Opposition,Opp,t,t,,1
+13,QC,17,GASPÉ,5409,"LEMIEUX, Hon. Rodolphe",Opposition,Opp,t,f,5438,1
+13,QC,17,GASPÉ,5408,"GAUTHIER, Louis-Philippe",Government,Govt,f,f,1160,2
+13,QC,18,GEORGE-ÉTIENNE CARTIER,5411,"JACOBS, Samuel William",Opposition,Opp,t,f,6130,1
+13,QC,18,GEORGE-ÉTIENNE CARTIER,5410,"BUHAY, Michael",Labour,Labour,f,f,608,2
+13,QC,18,GEORGE-ÉTIENNE CARTIER,5412,"BERNIER, Joseph Camille",Unknown,Unknown,f,f,512,3
+13,QC,19,HOCHELAGA,5414,"LESAGE, Joseph-Edmond",Opposition,Opp,t,f,9697,1
+13,QC,19,HOCHELAGA,5415,"MARTEL, Gédéon",Labour,Labour,f,f,309,2
+13,QC,19,HOCHELAGA,5413,"DIGNARD, Cléophas",Unknown,Unknown,f,f,287,3
+13,QC,20,HULL,5416,"FONTAINE, Joseph-Éloi",Opposition,Opp,t,t,,1
+13,QC,21,JACQUES CARTIER,5417,"LAFORTUNE, David Arthur",Opposition,Opp,t,f,9228,1
+13,QC,21,JACQUES CARTIER,5418,"JASMIN, Aquila",Government,Govt,f,f,6917,2
+13,QC,22,JOLIETTE,5419,"DENIS, Jean Joseph",Opposition,Opp,t,f,2459,1
+13,QC,22,JOLIETTE,5420,"DUBEAU, Joseph Adélard",Opposition,Opp,f,f,2122,2
+13,QC,23,KAMOURASKA,5421,"LAPOINTE, Ernest",Opposition,Opp,t,f,3453,1
+13,QC,23,KAMOURASKA,5422,"RIOU, Samuel Charles",Government,Govt,f,f,191,2
+13,QC,24,L'ASSOMPTION--MONTCALM,5423,"SÉGUIN, Paul-Arthur",Opposition,Opp,t,f,5181,1
+13,QC,24,L'ASSOMPTION--MONTCALM,5424,"RICHARD, Jean-Baptiste-Trefflé",Government,Govt,f,f,172,2
+13,QC,25,L'ISLET,5425,"FAFARD, Joseph-Fernand",Opposition,Opp,t,t,,1
+13,QC,26,LABELLE,5426,"FORTIER, Hyacinthe-Adélard",Opposition,Opp,t,t,,1
+13,QC,27,LAPRAIRIE--NAPIERVILLE,5427,"LANCTOT, Roch",Opposition,Opp,t,f,3395,1
+13,QC,27,LAPRAIRIE--NAPIERVILLE,5428,"PAGNUELO, Mastaï",Government,Govt,f,f,143,2
+13,QC,28,LAURIER--OUTREMONT,5430,"DU TREMBLAY, Pamphile-Réal-Blaise-Nugent",Opposition,Opp,t,f,7443,1
+13,QC,28,LAURIER--OUTREMONT,5429,"BLONDIN, Hon. Pierre-Édouard",Government,Govt,f,f,6196,2
+13,QC,29,LAVAL--TWO MOUNTAINS,5431,"ÉTHIER, Joseph-Arthur-Calixte",Opposition,Opp,t,t,,1
+13,QC,30,LOTBINIÈRE,5432,"VIEN, Thomas",Opposition,Opp,t,f,3896,1
+13,QC,30,LOTBINIÈRE,5433,"ROUSSEAU, Marie Joseph Émile",Government,Govt,f,f,164,2
+13,QC,31,LÉVIS,5434,"BOUTIN-BOURASSA, Joseph",Opposition,Opp,t,f,5174,1
+13,QC,31,LÉVIS,5435,"BERNIER, Alphonse",Government,Govt,f,f,984,2
+13,QC,32,MAISONNEUVE,5436,"LEMIEUX, Hon. Rodolphe",Opposition,Opp,t,f,7173,1
+13,QC,32,MAISONNEUVE,5437,"CAHAN, Charles Hazlitt",Government,Govt,f,f,3140,2
+13,QC,33,MASKINONGÉ,5439,"MAYRAND, Hormisdas",Opposition,Opp,t,f,2721,1
+13,QC,33,MASKINONGÉ,5438,"THIBODEAU, Adolphe-Joseph",Unknown,Unknown,f,f,219,2
+13,QC,33,MASKINONGÉ,5440,"LAFONTAINE, George",Unknown,Unknown,f,f,165,3
+13,QC,34,MATANE,5441,"PELLETIER, François-Jean",Opposition,Opp,t,f,5010,1
+13,QC,34,MATANE,5442,"BOULAY, Herménégilde",Government,Govt,f,f,447,2
+13,QC,35,MISSISQUOI,5444,"KAY, William Frederic",Opposition,Opp,t,f,2582,1
+13,QC,35,MISSISQUOI,5443,"ENGLAND, George Provost",Government,Govt,f,f,1444,2
+13,QC,36,MONTMAGNY,5446,"DÉCHENE, Aimé-Miville",Opposition,Opp,t,f,2394,1
+13,QC,36,MONTMAGNY,5445,"LAVERGNE, Armand",Independent,Ind,f,f,1343,2
+13,QC,36,MONTMAGNY,5447,"BLAIS, Joseph-George",Government,Govt,f,f,36,3
+13,QC,37,MÉGANTIC,5448,"PACAUD, Lucien Turcotte",Opposition,Opp,t,t,,1
+13,QC,38,NICOLET,5449,"TRAHAN, Arthur",Opposition,Opp,t,t,,1
+13,QC,39,PONTIAC,5451,"CAHILL, Frank ""S.""",Opposition,Opp,t,f,5548,1
+13,QC,39,PONTIAC,5450,"BASTIEN, Joseph David",Government,Govt,f,f,1611,2
+13,QC,40,PORTNEUF,5452,"DELISLE, Michel-Siméon",Opposition,Opp,t,t,,1
+13,QC,41,QUEBEC COUNTY,5453,"LAVIGUEUR, Henri Edgar",Opposition,Opp,t,f,4799,1
+13,QC,41,QUEBEC COUNTY,5454,"BARNARD, Joseph-Édouard",Government,Govt,f,f,546,2
+13,QC,42,QUEBEC EAST,5455,"LAURIER, Très Honorable Sir Wilfrid",Opposition,Opp,t,f,6957,1
+13,QC,42,QUEBEC EAST,5456,"DROUIN, Ferdinand Omer",Government,Govt,f,f,562,2
+13,QC,43,QUEBEC SOUTH,5457,"POWER, Charles Gavan",Opposition,Opp,t,f,3816,1
+13,QC,43,QUEBEC SOUTH,5458,"SCOTT, James Archibald",Government,Govt,f,f,2501,2
+13,QC,44,QUEBEC WEST,5460,"PARENT, George",Opposition,Opp,t,f,6392,1
+13,QC,44,QUEBEC WEST,5459,"CHASSÉ, Henri",Government,Govt,f,f,460,2
+13,QC,45,RICHELIEU,5461,"CARDIN, Pierre-Joseph-Arthur",Opposition,Opp,t,f,3355,1
+13,QC,45,RICHELIEU,5462,"MORGAN, Edward André ""D.""",Government,Govt,f,f,834,2
+13,QC,46,RICHMOND--WOLFE,5463,"TOBIN, Edmund William",Opposition,Opp,t,f,6448,1
+13,QC,46,RICHMOND--WOLFE,5464,"CROMBIE, Marcus George",Government,Govt,f,f,1634,2
+13,QC,47,RIMOUSKI,5465,"D'ANJOU, Joseph-Émile-Stanislas-Émmanuel",Opposition,Opp,t,t,,1
+13,QC,48,SHEFFORD,5466,"BOIVIN, George Henri",Opposition,Opp,t,t,,1
+13,QC,49,SHERBROOKE (TOWN OF),5467,"MCREA, Francis ""N"".",Opposition,Opp,t,f,4151,1
+13,QC,49,SHERBROOKE (TOWN OF),5468,"DAVIDSON, William Stewart",Government,Govt,f,f,3409,2
+13,QC,50,ST. ANN,5471,"DOHERTY, Hon. Charles Joseph",Government,Govt,t,f,8346,1
+13,QC,50,ST. ANN,5470,"GUÉRIN, James John Edmund",Opposition,Opp,f,f,4416,2
+13,QC,50,ST. ANN,5469,"GALLERY, Daniel",Independent,Ind,f,f,319,3
+13,QC,51,ST. ANTOINE,5472,"AMES, Sir Herbert Brown",Government,Govt,t,f,5663,1
+13,QC,51,ST. ANTOINE,5473,"HUSHION, William James",Opposition,Opp,f,f,2549,2
+13,QC,52,ST. DENIS,5474,"VERVILLE, Alphonse",Opposition,Opp,t,f,9708,1
+13,QC,52,ST. DENIS,5476,"HOULE, Roméo",Unknown,Unknown,f,f,878,2
+13,QC,52,ST. DENIS,5475,"MAILLE, Louis-Omnes",Unknown,Unknown,f,f,95,3
+13,QC,53,ST. HYACINTHE--ROUVILLE,5477,"GAUTHIER, Louis-Joseph",Opposition,Opp,t,t,,1
+13,QC,54,ST. JAMES,5478,"LAPOINTE, Louis-Audet",Opposition,Opp,t,t,,1
+13,QC,55,ST. JOHNS--IBERVILLE,5480,"DEMERS, Marie-Joseph",Opposition,Opp,t,f,4271,1
+13,QC,55,ST. JOHNS--IBERVILLE,5479,"DORÉ, Pierre-Julien",Government,Govt,f,f,363,2
+13,QC,56,ST. LAWRENCE--ST. GEORGE,5482,"BALLANTYNE, Hon. Charles Colquhoun",Government,Govt,t,f,5806,1
+13,QC,56,ST. LAWRENCE--ST. GEORGE,5481,"MUNN, William Clement",Opposition,Opp,f,f,2403,2
+13,QC,57,ST. MARY,5483,"DESLAURIERS, Hermas",Opposition,Opp,t,t,,1
+13,QC,58,STANSTEAD,5485,"BALDWIN, Willis Keith",Opposition,Opp,t,f,3047,1
+13,QC,58,STANSTEAD,5484,"SHURTLEFF, William Lewis",Government,Govt,f,f,2346,2
+13,QC,59,TERREBONNE,5486,"PRÉVOST, Jules-Édouard",Opposition,Opp,t,t,,1
+13,QC,60,THREE RIVERS AND ST. MAURICE,5487,"BUREAU, Jacques",Opposition,Opp,t,t,,1
+13,QC,61,TÉMISCOUATA,5489,"GAUVREAU, Charles-Arthur",Opposition,Opp,t,f,6489,1
+13,QC,61,TÉMISCOUATA,5488,"LEBEL, Luc",Government,Govt,f,f,695,2
+13,QC,62,VAUDREUIL--SOULANGES,5491,"BOYER, Gustave",Opposition,Opp,t,f,4075,1
+13,QC,62,VAUDREUIL--SOULANGES,5490,"BISSONNETTE, Julien-Firmin",Government,Govt,f,f,408,2
+13,QC,63,WESTMOUNT--ST. HENRI,5493,"Leduc, Hon. Joseph Pierre Albert",Opposition,Opp,t,f,7987,1
+13,QC,63,WESTMOUNT--ST. HENRI,5492,"SÉVIGNY, J.-P.-Albert",Government,Govt,f,f,6975,2
+13,QC,64,WRIGHT,5494,"DEVLIN, Emmanuel Berchmans",Opposition,Opp,t,f,2860,1
+13,QC,64,WRIGHT,5495,"PRITCHARD, Andrew",Government,Govt,f,f,1318,2
+13,QC,65,YAMASKA,5496,"GLADU, Joseph-Ernest-Oscar",Opposition,Opp,t,f,3148,1
+13,QC,65,YAMASKA,5497,"CHASSÉ, Aimé",Government,Govt,f,f,464,2
+13,SK,1,ASSINIBOIA,5499,"TURRIFF, John Gillanders",Government,Govt,t,f,6836,1
+13,SK,1,ASSINIBOIA,5498,"WADDINGTON, Edward",Opposition,Opp,f,f,2312,2
+13,SK,2,BATTLEFORD,5500,"WRIGHT, Henry Oswald",Government,Govt,t,f,5404,1
+13,SK,2,BATTLEFORD,5501,"GOURLAY, Wallace Gordon Allan",Opposition,Opp,f,f,1693,2
+13,SK,3,HUMBOLDT,5502,"LANG, Norman",Government,Govt,t,f,5536,1
+13,SK,3,HUMBOLDT,5503,"BARRY, Joseph Leonard",Opposition,Opp,f,f,3362,2
+13,SK,4,KINDERSLEY,5504,"MYERS, Edward Thomas Wordon",Government,Govt,t,f,8310,1
+13,SK,4,KINDERSLEY,5505,"SEWARD, James Thrasher",Opposition,Opp,f,f,2750,2
+13,SK,5,LAST MOUNTAIN,5506,"JOHNSTON, John Frederick",Government,Govt,t,t,,1
+13,SK,6,MACKENZIE,5508,"REID, John Flaws",Government,Govt,t,f,3047,1
+13,SK,6,MACKENZIE,5507,"MCPHEE, George Washington",Government,Govt,f,f,2370,2
+13,SK,7,MAPLE CREEK,5509,"MAHARG, John Archibald",Government,Govt,t,t,,1
+13,SK,8,MOOSE JAW,5511,"CALDER, Hon. James Alexander",Government,Govt,t,f,8866,1
+13,SK,8,MOOSE JAW,5510,"SOMERVILLE, James",Opposition-Labour,Ind,f,f,2946,2
+13,SK,9,NORTH BATTLEFORD,5512,"LONG, Charles Edwin",Government,Govt,t,f,5630,1
+13,SK,9,NORTH BATTLEFORD,5513,"COMERFORD, Charles",Opposition,Opp,f,f,3732,2
+13,SK,10,PRINCE ALBERT,5514,"KNOX, Andrew",Government,Govt,t,f,6589,1
+13,SK,10,PRINCE ALBERT,5515,"MCLEOD, Samuel",Opposition,Opp,f,f,2999,2
+13,SK,11,QU'APPELLE,5516,"THOMSON, Levi",Government,Govt,t,t,,1
+13,SK,12,REGINA,5517,"COWAN, Walter Davy",Government,Govt,t,f,10563,1
+13,SK,12,REGINA,5518,"MACBETH, Andrew",Opposition,Opp,f,f,2599,2
+13,SK,13,SALTCOATS,5520,"MACNUTT, Thomas",Government,Govt,t,f,4618,1
+13,SK,13,SALTCOATS,5519,"ROWAN, John",Opposition,Opp,f,f,1655,2
+13,SK,14,SASKATOON,5521,"WILSON, James Robert",Government,Govt,t,f,9639,1
+13,SK,14,SASKATOON,5522,"CASEY, James William",Opposition,Opp,f,f,1833,2
+13,SK,15,SWIFT CURRENT,5524,"ARGUE, Ira Eugene",Government,Govt,t,f,7703,1
+13,SK,15,SWIFT CURRENT,5523,"REILLY, Michael James",Opposition,Opp,f,f,3931,2
+13,SK,16,WEYBURN,5525,"THOMPSON, Richard Frederick",Government,Govt,t,t,,1
+13,YK,1,YUKON,5526,"THOMPSON, Alfred",Government,Govt,t,f,959,1
+13,YK,1,YUKON,5527,"CONGDON, Frederick Tennyson",Opposition,Opp,f,f,808,2

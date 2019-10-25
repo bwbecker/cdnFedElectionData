@@ -1,0 +1,669 @@
+election_id,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_party_name,party_code,elected,acclaimed,votes,place
+19,AB,1,ACADIA,8711,"QUELCH, Victor",Social Credit Party of Canada,SoCred,t,f,3767,1
+19,AB,1,ACADIA,8712,"DAY, Arthur M.",Liberal,Lib,f,f,3740,2
+19,AB,1,ACADIA,8710,"SMITH, George B.",Co-operative Commonwealth Federation,CCF,f,f,802,3
+19,AB,2,ATHABASKA,8714,"DECHENE, Joseph Miville",Liberal,Lib,t,f,5961,1
+19,AB,2,ATHABASKA,8715,"HAYHURST, William",New Democracy,NDemo,f,f,4817,2
+19,AB,2,ATHABASKA,8713,"ROWE, Percy John",Co-operative Commonwealth Federation,CCF,f,f,2052,3
+19,AB,3,BATTLE RIVER,8716,"FAIR, Robert",New Democracy,NDemo,t,f,5045,1
+19,AB,3,BATTLE RIVER,8717,"PITMAN, Ernest Arthur",Liberal,Lib,f,f,3808,2
+19,AB,3,BATTLE RIVER,8718,"SPENCER, Henry Elvins",Co-operative Commonwealth Federation,CCF,f,f,3401,3
+19,AB,4,BOW RIVER,8720,"JOHNSTON, Charles Edward",Social Credit Party of Canada,SoCred,t,f,5410,1
+19,AB,4,BOW RIVER,8722,"CLAYPOOL, A.B.",Liberal,Lib,f,f,4050,2
+19,AB,4,BOW RIVER,8723,"MANNING, M.E.",National Government,NGovt,f,f,3248,3
+19,AB,4,BOW RIVER,8721,"LIESMER, A.J.E.",Co-operative Commonwealth Federation,CCF,f,f,2197,4
+19,AB,4,BOW RIVER,8719,"ANDERSON, Lawrence",Communist Party of Canada,Com,f,f,847,5
+19,AB,5,CALGARY EAST,8725,"ROSS, George Henry",Liberal,Lib,t,f,5815,1
+19,AB,5,CALGARY EAST,8724,"LANDERYOU, John Charles",Social Credit Party of Canada,SoCred,f,f,5330,2
+19,AB,5,CALGARY EAST,8726,"FARTHING, Hugh Cragg",National Government,NGovt,f,f,4987,3
+19,AB,5,CALGARY EAST,8727,"KELLOWAY, Warwick Freeman",Co-operative Commonwealth Federation,CCF,f,f,4986,4
+19,AB,6,CALGARY WEST,8729,"EDWARDS, Manley J.",Liberal,Lib,t,f,7299,1
+19,AB,6,CALGARY WEST,8730,"CUNNINGTON, Douglas G.L.",National Government,NGovt,f,f,6896,2
+19,AB,6,CALGARY WEST,8728,"WILKINSON, Rose",New Democracy,NDemo,f,f,4159,3
+19,AB,6,CALGARY WEST,8731,"JOHNSON, J. Albert",Co-operative Commonwealth Federation,CCF,f,f,1444,4
+19,AB,7,CAMROSE,8733,"MARSHALL, James Alexander",Social Credit Party of Canada,SoCred,t,f,6359,1
+19,AB,7,CAMROSE,8732,"CLAEYS, Charles",Liberal,Lib,f,f,4443,2
+19,AB,7,CAMROSE,8734,"LEFSRUD, Sigurd",Co-operative Commonwealth Federation,CCF,f,f,2065,3
+19,AB,8,EDMONTON EAST,8736,"CASSELMAN, Frederick C.",Liberal,Lib,t,f,8948,1
+19,AB,8,EDMONTON EAST,8737,"KENNEDY, Orvis A.",New Democracy,NDemo,f,f,7279,2
+19,AB,8,EDMONTON EAST,8735,"GEE, Sidney J.",National Government,NGovt,f,f,2302,3
+19,AB,8,EDMONTON EAST,8738,"LEE, Clifford E.",Co-operative Commonwealth Federation,CCF,f,f,1962,4
+19,AB,9,EDMONTON WEST,8740,"MACKINNON, Hon. James A.",Liberal,Lib,t,f,12350,1
+19,AB,9,EDMONTON WEST,8739,"OGILVIE, James H.",National Government,NGovt,f,f,4054,2
+19,AB,9,EDMONTON WEST,8741,"GILLIES, John B.",New Democracy,NDemo,f,f,3695,3
+19,AB,9,EDMONTON WEST,8742,"CRAWFORD, Mary R.",Co-operative Commonwealth Federation,CCF,f,f,1616,4
+19,AB,10,JASPER--EDSON,8744,"KUHL, Walter Frederick",New Democracy,NDemo,t,f,6363,1
+19,AB,10,JASPER--EDSON,8745,"KNIGHT, Arthur Allan",Liberal,Lib,f,f,6283,2
+19,AB,10,JASPER--EDSON,8743,"CRITCHLOW, Hugh",Co-operative Commonwealth Federation,CCF,f,f,2102,3
+19,AB,10,JASPER--EDSON,8746,"BAMBER, Sydney",National Government,NGovt,f,f,1835,4
+19,AB,11,LETHBRIDGE,8747,"BLACKMORE, John Horne",New Democracy,NDemo,t,f,6362,1
+19,AB,11,LETHBRIDGE,8748,"FAIRBAIRN, Lynden Eldon",Liberal,Lib,f,f,5538,2
+19,AB,11,LETHBRIDGE,8749,"STEWART, John Smith",National Government,NGovt,f,f,3605,3
+19,AB,12,MACLEOD,8750,"HANSELL, Ernest George",Social Credit Party of Canada,SoCred,t,f,6655,1
+19,AB,12,MACLEOD,8752,"MCKENNA, Francis Olestes",Liberal,Lib,f,f,4829,2
+19,AB,12,MACLEOD,8751,"DAVIS, Grier Rider",National Government,NGovt,f,f,3039,3
+19,AB,12,MACLEOD,8753,"MCBRIDE, Ruth House",Co-operative Commonwealth Federation,CCF,f,f,2180,4
+19,AB,13,MEDICINE HAT,8755,"GERSHAW, Frederick William",Liberal,Lib,t,f,9439,1
+19,AB,13,MEDICINE HAT,8754,"MITCHELL, Archibald Hugh",New Democracy,NDemo,f,f,5524,2
+19,AB,14,PEACE RIVER,8757,"SISSONS, John Howard",Liberal,Lib,t,f,6426,1
+19,AB,14,PEACE RIVER,8756,"PELLETIER, René-Antoine",New Democracy,NDemo,f,f,5347,2
+19,AB,14,PEACE RIVER,8758,"MACKLIN, Irwin Victor",Co-operative Commonwealth Federation,CCF,f,f,3307,3
+19,AB,14,PEACE RIVER,8759,"BRULOTTE, Louis-Napoléon",Independent,Ind,f,f,488,4
+19,AB,15,RED DEER,8761,"SHAW, Frederick Davis",Social Credit Party of Canada,SoCred,t,f,5583,1
+19,AB,15,RED DEER,8762,"BURY, Absalom Clark",Liberal,Lib,f,f,4134,2
+19,AB,15,RED DEER,8760,"MORRISON, P.N.R.",Co-operative Commonwealth Federation,CCF,f,f,2771,3
+19,AB,15,RED DEER,8763,"STONHOUSE, Arthur A.",National Government,NGovt,f,f,2694,4
+19,AB,16,VEGREVILLE,8765,"HLYNKA, Anthony",Social Credit Party of Canada,SoCred,t,f,5083,1
+19,AB,16,VEGREVILLE,8764,"ARCHER, A.E.",Liberal,Lib,f,f,4605,2
+19,AB,16,VEGREVILLE,8766,"HALINA, William",United Progressive,Ind,f,f,2727,3
+19,AB,16,VEGREVILLE,8767,"BOUTILLIER, Herbert R.",Co-operative Commonwealth Federation,CCF,f,f,1658,4
+19,AB,17,WETASKIWIN,8768,"JAQUES, Norman",Social Credit Party of Canada,SoCred,t,f,6245,1
+19,AB,17,WETASKIWIN,8770,"CAMPBELL, Walter Stephen",Liberal,Lib,f,f,4392,2
+19,AB,17,WETASKIWIN,8769,"HASKINS, Robert Henry",Co-operative Commonwealth Federation,CCF,f,f,2539,3
+19,AB,17,WETASKIWIN,8771,"RUSSELL, Charles Homer",National Government,NGovt,f,f,2456,4
+19,BC,1,CARIBOO,8773,"TURGEON, James Gray",Liberal,Lib,t,f,6063,1
+19,BC,1,CARIBOO,8774,"IRVINE, William",Co-operative Commonwealth Federation,CCF,f,f,5070,2
+19,BC,1,CARIBOO,8772,"STEPHENS, Frederick Herbert",National Government,NGovt,f,f,2354,3
+19,BC,2,COMOX--ALBERNI,8775,"NEILL, Alan Webster",Independent,Ind,t,f,10156,1
+19,BC,2,COMOX--ALBERNI,8776,"BROWN, George Harrison",Co-operative Commonwealth Federation,CCF,f,f,3835,2
+19,BC,3,FRASER VALLEY,8778,"CRUICKSHANK, George Alexander",Liberal,Lib,t,f,6638,1
+19,BC,3,FRASER VALLEY,8777,"BARBER, Harry James",National Government,NGovt,f,f,6211,2
+19,BC,3,FRASER VALLEY,8779,"PENBERTHY, James Warren",Co-operative Commonwealth Federation,CCF,f,f,2877,3
+19,BC,4,KAMLOOPS,8781,"O'NEILL, Thomas James",Liberal,Lib,t,f,5621,1
+19,BC,4,KAMLOOPS,8780,"STEVENS, Hon. Henry Herbert",National Government,NGovt,f,f,4290,2
+19,BC,4,KAMLOOPS,8782,"MACNAB, Margaret",Co-operative Commonwealth Federation,CCF,f,f,3538,3
+19,BC,5,KOOTENAY EAST,8784,"MACKINNON, George E.L.",National Government,NGovt,t,f,4395,1
+19,BC,5,KOOTENAY EAST,8783,"MATTHEWS, James Herbert",Co-operative Commonwealth Federation,CCF,f,f,4202,2
+19,BC,5,KOOTENAY EAST,8785,"STEWART, Edwin K.",Liberal,Lib,f,f,3974,3
+19,BC,6,KOOTENAY WEST,8787,"ESLING, William Kemble",National Government,NGovt,t,f,6771,1
+19,BC,6,KOOTENAY WEST,8786,"HERRIDGE, Herbert Wilfred",Co-operative Commonwealth Federation,CCF,f,f,6389,2
+19,BC,6,KOOTENAY WEST,8788,"MACDONALD, Donald",Liberal,Lib,f,f,4137,3
+19,BC,7,NANAIMO,8790,"CHAMBERS, Alan",Liberal,Lib,t,f,10668,1
+19,BC,7,NANAIMO,8793,"CUNCLIFFE, Frank Stigant",National Government,NGovt,f,f,7518,2
+19,BC,7,NANAIMO,8792,"GRANTHAM, Ronald",Co-operative Commonwealth Federation,CCF,f,f,6252,3
+19,BC,7,NANAIMO,8789,"JUKES, Andrew Henry",New Democracy,NDemo,f,f,506,4
+19,BC,7,NANAIMO,8791,"POVAH, William Frederick",Independent,Ind,f,f,181,5
+19,BC,8,NEW WESTMINSTER,8795,"REID, Thomas",Liberal,Lib,t,f,15287,1
+19,BC,8,NEW WESTMINSTER,8794,"ALSBURY, Albert Thomas",Co-operative Commonwealth Federation,CCF,f,f,9837,2
+19,BC,8,NEW WESTMINSTER,8796,"SELKIRK, Thomas Robert",National Government,NGovt,f,f,9372,3
+19,BC,9,SKEENA,8798,"HANSON, Olof",Liberal,Lib,t,f,4980,1
+19,BC,9,SKEENA,8799,"WEAVER, George W.",Co-operative Commonwealth Federation,CCF,f,f,2845,2
+19,BC,9,SKEENA,8797,"CAMERON, George F.",National Government,NGovt,f,f,1472,3
+19,BC,9,SKEENA,8800,"MORRIS, Frank",Independent Liberal,Ind,f,f,145,4
+19,BC,10,VANCOUVER CENTRE,8802,"MACKENZIE, Hon. Ian Alistair",Liberal,Lib,t,f,12100,1
+19,BC,10,VANCOUVER CENTRE,8803,"SHERWOOD, Ernest Garfield",National Government,NGovt,f,f,9338,2
+19,BC,10,VANCOUVER CENTRE,8804,"LEFEAUX, Wallis Walter",Co-operative Commonwealth Federation,CCF,f,f,8427,3
+19,BC,10,VANCOUVER CENTRE,8805,"KERR, Paul McDowell",Independent,Ind,f,f,630,4
+19,BC,10,VANCOUVER CENTRE,8801,"GLOZIER, Norman Lee",Independent Nationalist,Ind,f,f,408,5
+19,BC,11,VANCOUVER EAST,8807,"MACINNIS, Angus",Co-operative Commonwealth Federation,CCF,t,f,12490,1
+19,BC,11,VANCOUVER EAST,8806,"HENDERSON, John",Liberal,Lib,f,f,9196,2
+19,BC,11,VANCOUVER EAST,8808,"DERPAK, William Wilfred",New Democracy,NDemo,f,f,5975,3
+19,BC,11,VANCOUVER EAST,8809,"MCKEAN, Fergus",Communist Party of Canada,Com,f,f,1398,4
+19,BC,12,VANCOUVER NORTH,8811,"SINCLAIR, James",Liberal,Lib,t,f,10496,1
+19,BC,12,VANCOUVER NORTH,8812,"MACNEIL, Charles Grant",Co-operative Commonwealth Federation,CCF,f,f,9832,2
+19,BC,12,VANCOUVER NORTH,8810,"TUPPER, Reginald Hibbert",National Government,NGovt,f,f,7186,3
+19,BC,13,VANCOUVER SOUTH,8814,"GREEN, Howard Charles",National Government,NGovt,t,f,18470,1
+19,BC,13,VANCOUVER SOUTH,8815,"SMITH, Sidney Alexander",Liberal,Lib,f,f,13451,2
+19,BC,13,VANCOUVER SOUTH,8813,"TURNER, Arthur James",Co-operative Commonwealth Federation,CCF,f,f,6062,3
+19,BC,14,VANCOUVER--BURRARD,8817,"MCGEER, Gerald Grattan",Liberal,Lib,t,f,12617,1
+19,BC,14,VANCOUVER--BURRARD,8816,"WEBSTER, Arnold Alexander",Co-operative Commonwealth Federation,CCF,f,f,10745,2
+19,BC,14,VANCOUVER--BURRARD,8818,"MCDONELL, Allan J.",National Government,NGovt,f,f,9475,3
+19,BC,15,VICTORIA,8820,"MAYHEW, Robert Wellington",Liberal,Lib,t,f,13887,1
+19,BC,15,VICTORIA,8819,"BROWN, James Sutherland",National Government,NGovt,f,f,9193,2
+19,BC,15,VICTORIA,8821,"MCALLISTER, Kenneth",Co-operative Commonwealth Federation,CCF,f,f,3352,3
+19,BC,16,YALE,8823,"STIRLING, Hon. Grote",National Government,NGovt,t,f,8599,1
+19,BC,16,YALE,8824,"JONES, Owen Lewis",Co-operative Commonwealth Federation,CCF,f,f,7428,2
+19,BC,16,YALE,8822,"MORROW, Charles William",Liberal,Lib,f,f,6805,3
+19,MB,1,BRANDON,8826,"MATTHEWS, James Ewen",Liberal,Lib,t,f,8908,1
+19,MB,1,BRANDON,8825,"THOMPSON, John William McLeod",National Government,NGovt,f,f,6168,2
+19,MB,1,BRANDON,8827,"WOOD, James Henry",Co-operative Commonwealth Federation,CCF,f,f,2609,3
+19,MB,2,CHURCHILL,8828,"CRERAR, Hon. Thomas Alexander",Liberal,Lib,t,f,8276,1
+19,MB,2,CHURCHILL,8829,"SCARTH, Will Blakeman",National Government,NGovt,f,f,4963,2
+19,MB,3,DAUPHIN,8831,"WARD, William John",Liberal,Lib,t,f,5953,1
+19,MB,3,DAUPHIN,8830,"BOWMAN, James L.",National Government,NGovt,f,f,5900,2
+19,MB,3,DAUPHIN,8832,"MOORE, Ronald S.",Co-operative Commonwealth Federation,CCF,f,f,5142,3
+19,MB,4,LISGAR,8834,"WINKLER, Howard Waldemar",Liberal,Lib,t,f,5221,1
+19,MB,4,LISGAR,8833,"FOLLETT, Reginald Arthur Sprake",National Government,NGovt,f,f,2433,2
+19,MB,4,LISGAR,8835,"MCBRIEN, David Leslie",Co-operative Commonwealth Federation,CCF,f,f,1160,3
+19,MB,4,LISGAR,8836,"MCINTYRE, Thomas Eldon",New Democracy,NDemo,f,f,685,4
+19,MB,5,MACDONALD,8838,"WEIR, William Gilbert",Liberal Progressive,LibPro,t,f,7728,1
+19,MB,5,MACDONALD,8837,"CUDDY, James Anthony",National Government,NGovt,f,f,4510,2
+19,MB,5,MACDONALD,8839,"LANGTRY, Ivan Andrew",Co-operative Commonwealth Federation,CCF,f,f,2639,3
+19,MB,6,MARQUETTE,8841,"GLEN, James Allison",Liberal Progressive,LibPro,t,f,7027,1
+19,MB,6,MARQUETTE,8840,"EWBANK, James Wilson",Independent,Ind,f,f,5259,2
+19,MB,6,MARQUETTE,8842,"PEDEN, Robert",National Government,NGovt,f,f,4545,3
+19,MB,7,NEEPAWA,8844,"MACKENZIE, Frederick Donald",Liberal,Lib,t,f,6724,1
+19,MB,7,NEEPAWA,8845,"MURPHY, Hon. Thomas Gerow",National Government,NGovt,f,f,4865,2
+19,MB,7,NEEPAWA,8843,"DUFFY, John Hazelett",New Democracy,NDemo,f,f,2208,3
+19,MB,8,PORTAGE LA PRAIRIE,8846,"LEADER, Harry",Liberal,Lib,t,f,7442,1
+19,MB,8,PORTAGE LA PRAIRIE,8847,"JONES, George Herbert",National Government,NGovt,f,f,4835,2
+19,MB,9,PROVENCHER,8849,"JUTRAS, René",Liberal,Lib,t,f,3768,1
+19,MB,9,PROVENCHER,8850,"SLATER, Leo A.",Independent,Ind,f,f,3329,2
+19,MB,9,PROVENCHER,8852,"PODOLSKY, Harry Matthew",Independent,Ind,f,f,1765,3
+19,MB,9,PROVENCHER,8853,"JOHNSTON, William Richard",National Government,NGovt,f,f,1441,4
+19,MB,9,PROVENCHER,8851,"BANVILLE, Albert",New Democracy,NDemo,f,f,1099,5
+19,MB,9,PROVENCHER,8848,"GAGNON, Évariste Rupert",Co-operative Commonwealth Federation,CCF,f,f,841,6
+19,MB,10,SELKIRK,8854,"THORSON, Joseph T.",Liberal,Lib,t,f,11023,1
+19,MB,10,SELKIRK,8856,"WISE, Richard Ambrose",Co-operative Commonwealth Federation,CCF,f,f,6869,2
+19,MB,10,SELKIRK,8855,"PARTRIDGE, Edmund",National Government,NGovt,f,f,3890,3
+19,MB,11,SOURIS,8858,"ROSS, James Arthur",National Government,NGovt,t,f,4991,1
+19,MB,11,SOURIS,8859,"MCDONALD, George William",Liberal,Lib,f,f,4861,2
+19,MB,11,SOURIS,8857,"PARKES, Alex H.",Co-operative Commonwealth Federation,CCF,f,f,1370,3
+19,MB,12,SPRINGFIELD,8861,"TURNER, John Mowat",Liberal,Lib,t,f,7462,1
+19,MB,12,SPRINGFIELD,8860,"KNOWLES, Stanley Howard",Co-operative Commonwealth Federation,CCF,f,f,7018,2
+19,MB,12,SPRINGFIELD,8862,"FINLAYSON, Roderick Kenneth",National Government,NGovt,f,f,3311,3
+19,MB,13,ST. BONIFACE,8864,"HOWDEN, John Power",Liberal,Lib,t,f,7926,1
+19,MB,13,ST. BONIFACE,8866,"MACLEAN, George Campbell",National Government,NGovt,f,f,3578,2
+19,MB,13,ST. BONIFACE,8863,"GUAY, Philippe",Social Credit Party of Canada,SoCred,f,f,1839,3
+19,MB,13,ST. BONIFACE,8867,"BAREFOOT, George Henry",Co-operative Commonwealth Federation,CCF,f,f,1739,4
+19,MB,13,ST. BONIFACE,8865,"JACOB, Morris",Independent,Ind,f,f,216,5
+19,MB,14,WINNIPEG NORTH,8869,"BOOTH, Charles Stephen",Liberal,Lib,t,f,13015,1
+19,MB,14,WINNIPEG NORTH,8868,"HEAPS, Abraham Albert",Co-operative Commonwealth Federation,CCF,f,f,11249,2
+19,MB,14,WINNIPEG NORTH,8870,"MORRIS, Leslie Tom",Communist Party of Canada,Com,f,f,5315,3
+19,MB,14,WINNIPEG NORTH,8871,"ELLOR, Percy",National Government,NGovt,f,f,2255,4
+19,MB,15,WINNIPEG NORTH CENTRE,8873,"WOODSWORTH, James Shaver",Co-operative Commonwealth Federation,CCF,t,f,11324,1
+19,MB,15,WINNIPEG NORTH CENTRE,8874,"MCDONNELL, Ambrose Roy",Liberal,Lib,f,f,11199,2
+19,MB,15,WINNIPEG NORTH CENTRE,8872,"STEFANSSON, Bjorn",National Government,NGovt,f,f,5412,3
+19,MB,16,WINNIPEG SOUTH,8876,"MUTCH, Leslie Alexander",Liberal,Lib,t,f,15461,1
+19,MB,16,WINNIPEG SOUTH,8875,"BAKER, Phipps",National Government,NGovt,f,f,8445,2
+19,MB,16,WINNIPEG SOUTH,8877,"MULLIGAN, Dave",Co-operative Commonwealth Federation,CCF,f,f,3912,3
+19,MB,17,WINNIPEG SOUTH CENTRE,8878,"MAYBANK, Ralph",Liberal,Lib,t,f,19486,1
+19,MB,17,WINNIPEG SOUTH CENTRE,8879,"KENNEDY, William Walker",National Government,NGovt,f,f,10698,2
+19,MB,17,WINNIPEG SOUTH CENTRE,8880,"SWANSON, John Julius",Co-operative Commonwealth Federation,CCF,f,f,5576,3
+19,NB,1,CHARLOTTE,8882,"HILL, Burton M.",Liberal,Lib,t,f,6099,1
+19,NB,1,CHARLOTTE,8881,"DEWOLFE, Walter G.",National Government,NGovt,f,f,4391,2
+19,NB,2,GLOUCESTER,8884,"VENIOT, C.-J.",Liberal,Lib,t,f,10451,1
+19,NB,2,GLOUCESTER,8883,"ROBICHAUD, Albany-M.",National Government,NGovt,f,f,5447,2
+19,NB,3,KENT,8885,"LÉGER, Aurel D.",Liberal,Lib,t,f,5582,1
+19,NB,3,KENT,8886,"ARSENAULT, Télesphore",National Government,NGovt,f,f,3032,2
+19,NB,4,NORTHUMBERLAND,8888,"O'BRIEN, Joseph Leonard",National Government,NGovt,t,f,5149,1
+19,NB,4,NORTHUMBERLAND,8889,"MALONEY, John William",Liberal,Lib,f,f,5072,2
+19,NB,4,NORTHUMBERLAND,8887,"BARRY, John Patrick",Independent Liberal,Ind,f,f,2679,3
+19,NB,5,RESTIGOUCHE--MADAWASKA,8890,"MICHAUD, Hon. Joseph Enoil",Liberal,Lib,t,f,12164,1
+19,NB,5,RESTIGOUCHE--MADAWASKA,8891,"LEVASSEUR, Oscar",National Government,NGovt,f,f,5239,2
+19,NB,6,ROYAL,8892,"BROOKS, Alfred J.",National Government,NGovt,t,f,8017,1
+19,NB,6,ROYAL,8893,"WHITE, Donald V.",Liberal,Lib,f,f,7196,2
+19,NB,7,ST. JOHN--ALBERT,8895,"HAZEN, D. King",National Government,NGovt,t,f,15110,1
+19,NB,7,ST. JOHN--ALBERT,8896,"MCAVITY, Allan Getchell",Liberal,Lib,f,f,14197,2
+19,NB,7,ST. JOHN--ALBERT,8894,"FRITCH, James Edward",Co-operative Commonwealth Federation,CCF,f,f,761,3
+19,NB,8,VICTORIA--CARLETON,8897,"HATFIELD, Heber Harold",National Government,NGovt,t,f,7974,1
+19,NB,8,VICTORIA--CARLETON,8898,"MCCLUSKEY, Michael Francis",Liberal,Lib,f,f,7283,2
+19,NB,9,WESTMORLAND,8899,"EMMERSON, Henry Read",Liberal,Lib,t,f,16431,1
+19,NB,9,WESTMORLAND,8900,"MCMONAGLE, William Emmet",National Government,NGovt,f,f,10259,2
+19,NB,10,YORK--SUNBURY,8901,"HANSON, Hon. Richard B.",National Government,NGovt,t,f,10352,1
+19,NB,10,YORK--SUNBURY,8902,"HUGHES, Peter J.",Liberal,Lib,f,f,9908,2
+19,NS,1,ANTIGONISH--GUYSBOROUGH,8903,"KIRK, James Ralph",Liberal,Lib,t,f,7281,1
+19,NS,1,ANTIGONISH--GUYSBOROUGH,8904,"LANDRY, William Edward",National Government,NGovt,f,f,4610,2
+19,NS,2,CAPE BRETON NORTH AND VICTORIA,8906,"MACLEAN, Matthew",Liberal,Lib,t,f,6326,1
+19,NS,2,CAPE BRETON NORTH AND VICTORIA,8907,"MACDONALD, John Michael",National Government,NGovt,f,f,5156,2
+19,NS,2,CAPE BRETON NORTH AND VICTORIA,8905,"WAY, Robert",Co-operative Commonwealth Federation,CCF,f,f,2097,3
+19,NS,3,CAPE BRETON SOUTH,8908,"GILLIS, Clarence",Co-operative Commonwealth Federation,CCF,t,f,11582,1
+19,NS,3,CAPE BRETON SOUTH,8910,"HARTIGAN, David James",Liberal,Lib,f,f,11364,2
+19,NS,3,CAPE BRETON SOUTH,8909,"NUNN, Joseph Clyde",National Government,NGovt,f,f,9719,3
+19,NS,4,COLCHESTER--HANTS,8912,"PURDY, Gordon Timlin",Liberal,Lib,t,f,12328,1
+19,NS,4,COLCHESTER--HANTS,8911,"TREMAIN, Hadley B.",National Government,NGovt,f,f,10044,2
+19,NS,5,CUMBERLAND,8914,"BLACK, Percy Chapman",National Government,NGovt,t,f,8073,1
+19,NS,5,CUMBERLAND,8913,"COCHRANE, Kenneth Judson",Liberal,Lib,f,f,8061,2
+19,NS,5,CUMBERLAND,8915,"DEMINGS, Guy Alton",Co-operative Commonwealth Federation,CCF,f,f,1403,3
+19,NS,6,DIGBY--ANNAPOLIS--KINGS,8916,"ILSLEY, Hon. James Lorimer",Liberal,Lib,t,f,15094,1
+19,NS,6,DIGBY--ANNAPOLIS--KINGS,8917,"THOMAS, Hiram",National Government,NGovt,f,f,9518,2
+19,NS,7,HALIFAX-1,8919,"MACDONALD, William Chisholm",Liberal,Lib,t,f,22089,1
+19,NS,7,HALIFAX-1,8920,"DONAHOE, Richard A.",National Government,NGovt,f,f,18197,2
+19,NS,7,HALIFAX-1,8918,"FINN, Robert Emmett",Independent Liberal,Ind,f,f,9217,3
+19,NS,8,HALIFAX-2,8922,"ISNOR, Gordon B.",Liberal,Lib,t,f,19398,1
+19,NS,8,HALIFAX-2,8923,"SMITH, Charles B.",National Government,NGovt,f,f,18114,2
+19,NS,8,HALIFAX-2,8921,"BORGFORD, Helgi I.S.",Co-operative Commonwealth Federation,CCF,f,f,1561,3
+19,NS,9,INVERNESS--RICHMOND,8924,"MCGARRY, Moses Elijah",Liberal,Lib,t,f,9123,1
+19,NS,9,INVERNESS--RICHMOND,8925,"MACDOUGALL, Isaac Duncan",National Government,NGovt,f,f,7069,2
+19,NS,10,PICTOU,8927,"MCCULLOCH, Henry B.",Liberal,Lib,t,f,9983,1
+19,NS,10,PICTOU,8928,"CAMERON, James M.",National Government,NGovt,f,f,8292,2
+19,NS,10,PICTOU,8926,"MACMILLAN, Chad",Independent,Ind,f,f,615,3
+19,NS,11,QUEENS--LUNENBURG,8930,"KINLEY, John James",Liberal,Lib,t,f,10616,1
+19,NS,11,QUEENS--LUNENBURG,8929,"LEVY, Robert Clifford",National Government,NGovt,f,f,7845,2
+19,NS,11,QUEENS--LUNENBURG,8931,"VAN BUSKIRK, Claude",Co-operative Commonwealth Federation,CCF,f,f,457,3
+19,NS,12,SHELBURNE--YARMOUTH--CLARE,8932,"POTTIER, Vincent-Joseph",Liberal,Lib,t,f,10851,1
+19,NS,12,SHELBURNE--YARMOUTH--CLARE,8933,"WALKER, James Marven",National Government,NGovt,f,f,6569,2
+19,ON,1,ALGOMA EAST,8934,"FARQUHAR, Thomas",Liberal,Lib,t,f,5565,1
+19,ON,1,ALGOMA EAST,8935,"CAMPBELL, John Lorne",National Government,NGovt,f,f,3126,2
+19,ON,1,ALGOMA EAST,8936,"MCVEY, J.W.",Co-operative Commonwealth Federation,CCF,f,f,1635,3
+19,ON,2,ALGOMA WEST,8937,"NIXON, George Ewart",Liberal,Lib,t,f,8632,1
+19,ON,2,ALGOMA WEST,8939,"LANG, John L.",National Government,NGovt,f,f,5612,2
+19,ON,2,ALGOMA WEST,8938,"WAITE, Harry P.",Co-operative Commonwealth Federation,CCF,f,f,2196,3
+19,ON,3,BRANT,8941,"WOOD, George Ernest",Liberal,Lib,t,f,4657,1
+19,ON,3,BRANT,8940,"APPS, Charles Joseph Sylva",National Government,NGovt,f,f,4519,2
+19,ON,4,BRANTFORD CITY,8943,"MACDONALD, Ross",Liberal,Lib,t,f,8013,1
+19,ON,4,BRANTFORD CITY,8944,"WILMOT, Charles Eardley",National Government,NGovt,f,f,6312,2
+19,ON,4,BRANTFORD CITY,8942,"MATTHEWS, John Henry",Co-operative Commonwealth Federation,CCF,f,f,1315,3
+19,ON,5,BROADVIEW,8946,"CHURCH, Thomas Langton",National Government,NGovt,t,f,14474,1
+19,ON,5,BROADVIEW,8947,"GRESSEWELL, George",Liberal,Lib,f,f,7866,2
+19,ON,5,BROADVIEW,8945,"GRUBE, George",Co-operative Commonwealth Federation,CCF,f,f,2613,3
+19,ON,6,BRUCE,8948,"TOMLINSON, William Rae",Liberal,Lib,t,f,7420,1
+19,ON,6,BRUCE,8949,"SNIDER, Leigh H.",National Government,NGovt,f,f,5275,2
+19,ON,7,CARLETON,8950,"HYNDMAN, Alonzo Bowen",National Government,NGovt,t,f,7736,1
+19,ON,7,CARLETON,8951,"ARKELL, Herbert Samuel",Liberal,Lib,f,f,6617,2
+19,ON,8,COCHRANE,8953,"BRADETTE, Joseph Arthur",Liberal,Lib,t,f,16785,1
+19,ON,8,COCHRANE,8952,"CRUMB, Robert Whitney",National Government,NGovt,f,f,5652,2
+19,ON,8,COCHRANE,8954,"TEEPLE, W. Garth",Farmer Labour,Ind,f,f,3922,3
+19,ON,9,DANFORTH,8955,"HARRIS, Joseph Henry",Conservative,Con,t,f,11847,1
+19,ON,9,DANFORTH,8956,"DUNCAN, Lewis",Liberal,Lib,f,f,8946,2
+19,ON,10,DAVENPORT,8957,"MACNICOL, John Ritchie",National Government,NGovt,t,f,14890,1
+19,ON,10,DAVENPORT,8958,"CAMERON, Neil",Liberal,Lib,f,f,11140,2
+19,ON,11,DUFFERIN--SIMCOE,8959,"ROWE, Hon. William Earl",National Government,NGovt,t,f,6527,1
+19,ON,11,DUFFERIN--SIMCOE,8960,"GILMORE, Andrew Parr",Liberal Progressive,LibPro,f,f,4226,2
+19,ON,12,DURHAM,8961,"RICKARD, Wilbert Franklin",Liberal,Lib,t,f,6743,1
+19,ON,12,DURHAM,8962,"STRIKE, William Ross",National Government,NGovt,f,f,5435,2
+19,ON,13,EGLINTON,8963,"HOBLITZELL, Frederick George",Liberal,Lib,t,f,17166,1
+19,ON,13,EGLINTON,8964,"BAKER, Richard Langton",National Government,NGovt,f,f,16926,2
+19,ON,14,ELGIN,8966,"MILLS, Wilson Henry",Liberal,Lib,t,f,11867,1
+19,ON,14,ELGIN,8965,"MARTIN, Norman Roy",National Government,NGovt,f,f,8905,2
+19,ON,15,ESSEX EAST,8968,"MARTIN, Paul",Liberal,Lib,t,f,9811,1
+19,ON,15,ESSEX EAST,8967,"MORAND, Hon. Raymond D.",National Government,NGovt,f,f,8060,2
+19,ON,15,ESSEX EAST,8969,"LEVERT, Joseph Ben",Co-operative Commonwealth Federation,CCF,f,f,2879,3
+19,ON,15,ESSEX EAST,8970,"HICKS, Roy Robert",Canadian Labour,Ind,f,f,398,4
+19,ON,16,ESSEX SOUTH,8971,"CLARK, Stuart Murray",Liberal,Lib,t,f,7624,1
+19,ON,16,ESSEX SOUTH,8972,"BRUNER, Albert Leonard",National Government,NGovt,f,f,5457,2
+19,ON,17,ESSEX WEST,8974,"MCLARTY, Hon. Norman A.",Liberal,Lib,t,f,14133,1
+19,ON,17,ESSEX WEST,8973,"REAUME, Arthur John",National Government,NGovt,f,f,12940,2
+19,ON,17,ESSEX WEST,8975,"JOYCE, Frederick Joseph",Co-operative Commonwealth Federation,CCF,f,f,2035,3
+19,ON,18,FORT WILLIAM,8977,"MCIVOR, Daniel",Liberal,Lib,t,f,8504,1
+19,ON,18,FORT WILLIAM,8976,"MANION, Hon. Robert James",National Government,NGovt,f,f,6768,2
+19,ON,18,FORT WILLIAM,8978,"ANDERSON, Garfield",Co-operative Commonwealth Federation,CCF,f,f,1778,3
+19,ON,19,FRONTENAC--ADDINGTON,8979,"AYLESWORTH, Wilbert Ross",National Government,NGovt,t,f,6154,1
+19,ON,19,FRONTENAC--ADDINGTON,8980,"MCCALLUM, Angus Neil",Liberal,Lib,f,f,6028,2
+19,ON,20,GLENGARRY,8981,"MACDIARMID, William B.",Liberal,Lib,t,f,4578,1
+19,ON,20,GLENGARRY,8982,"MACRAE, John W.",National Government,NGovt,f,f,2813,2
+19,ON,21,GREENWOOD,8984,"MASSEY, Denton",National Government,NGovt,t,f,14710,1
+19,ON,21,GREENWOOD,8985,"REILLY, Thomas",Liberal,Lib,f,f,7397,2
+19,ON,21,GREENWOOD,8983,"LEAVENS, Bertram E.",Co-operative Commonwealth Federation,CCF,f,f,3430,3
+19,ON,22,GRENVILLE--DUNDAS,8987,"CASSELMAN, Arza Clair",National Government,NGovt,t,f,7225,1
+19,ON,22,GRENVILLE--DUNDAS,8986,"TAUGHER, William John",Liberal,Lib,f,f,5642,2
+19,ON,23,GREY NORTH,8988,"TELFORD, William P.",Liberal,Lib,t,f,7538,1
+19,ON,23,GREY NORTH,8990,"PORTEOUS, Victor C.",National Government,NGovt,f,f,5771,2
+19,ON,23,GREY NORTH,8989,"CASE, W. Garfield",National Liberal Progressive,Ind,f,f,2434,3
+19,ON,24,GREY--BRUCE,8992,"HARRIS, Walter Edward",Liberal,Lib,t,f,6389,1
+19,ON,24,GREY--BRUCE,8993,"KNECHTEL, Karl Daniel",National Government,NGovt,f,f,4944,2
+19,ON,24,GREY--BRUCE,8991,"MACPHAIL, Agnes Campbell",United Farmers of Ontario-Labour,UFarm,f,f,4761,3
+19,ON,25,HALDIMAND,8994,"SENN, Mark Cecil",Conservative,Con,t,f,5515,1
+19,ON,25,HALDIMAND,8995,"MACAULAY, Basil North",Liberal,Lib,f,f,4712,2
+19,ON,26,HALTON,8997,"CLEAVER, Hughes",Liberal,Lib,t,f,7788,1
+19,ON,26,HALTON,8996,"ATKINS, George C.",National Government,NGovt,f,f,6184,2
+19,ON,27,HAMILTON EAST,8999,"ROSS, Thomas H.",Liberal,Lib,t,f,14053,1
+19,ON,27,HAMILTON EAST,8998,"BROWN, Albert A.",National Government,NGovt,f,f,11716,2
+19,ON,27,HAMILTON EAST,9000,"AINDOW, Roy",Co-operative Commonwealth Federation,CCF,f,f,3190,3
+19,ON,27,HAMILTON EAST,9001,"BUCK, Timothy",Communist Party of Canada,Com,f,f,695,4
+19,ON,28,HAMILTON WEST,9002,"GIBSON, Colin Wm. Geo.",Liberal,Lib,t,f,13965,1
+19,ON,28,HAMILTON WEST,9003,"MARSH, John Allmond",National Government,NGovt,f,f,11032,2
+19,ON,29,HASTINGS SOUTH,9005,"STOKES, George Henry",National Government,NGovt,t,f,9001,1
+19,ON,29,HASTINGS SOUTH,9004,"HAIG, McLean",Liberal,Lib,f,f,6330,2
+19,ON,29,HASTINGS SOUTH,9006,"CORY, Harry Raymond",Independent Liberal,Ind,f,f,3348,3
+19,ON,30,HASTINGS--PETERBOROUGH,9007,"WHITE, George Stanley",National Government,NGovt,t,f,5471,1
+19,ON,30,HASTINGS--PETERBOROUGH,9008,"FERGUSON, Rork Scott",Liberal,Lib,f,f,5207,2
+19,ON,31,HIGH PARK,9010,"ANDERSON, Alexander James",National Government,NGovt,t,f,12266,1
+19,ON,31,HIGH PARK,9011,"CAMERON, Alan John Patrick",Liberal,Lib,f,f,12061,2
+19,ON,31,HIGH PARK,9009,"COBURN, Carroll Langford",Co-operative Commonwealth Federation,CCF,f,f,1777,3
+19,ON,32,HURON NORTH,9012,"CARDIFF, Lewis Elston",National Government,NGovt,t,f,5937,1
+19,ON,32,HURON NORTH,9013,"DEACHMAN, Robert John",Liberal,Lib,f,f,5897,2
+19,ON,33,HURON--PERTH,9015,"GOLDING, William Henry",Liberal,Lib,t,f,5622,1
+19,ON,33,HURON--PERTH,9014,"MORLEY, James Wilson",National Government,NGovt,f,f,3472,2
+19,ON,34,KENORA--RAINY RIVER,9017,"MCKINNON, Hugh B.",Liberal,Lib,t,f,10595,1
+19,ON,34,KENORA--RAINY RIVER,9016,"DEAN, John Albert",National Government,NGovt,f,f,5286,2
+19,ON,34,KENORA--RAINY RIVER,9018,"IVENS, William",Co-operative Commonwealth Federation,CCF,f,f,3173,3
+19,ON,35,KENT,9019,"DESMOND, Clayton Earl",National Government,NGovt,t,f,11629,1
+19,ON,35,KENT,9020,"THOMPSON, Arthur Lisle",Liberal,Lib,f,f,10945,2
+19,ON,36,KINGSTON CITY,9022,"ROGERS, Hon. Norman McLeod",Liberal,Lib,t,f,9609,1
+19,ON,36,KINGSTON CITY,9021,"KIDD, Thomas Ashmore",National Government,NGovt,f,f,7475,2
+19,ON,37,LAMBTON WEST,9023,"GRAY, Ross Wilfred",Liberal,Lib,t,f,8671,1
+19,ON,37,LAMBTON WEST,9024,"KENNY, William Howard",National Government,NGovt,f,f,7864,2
+19,ON,38,LAMBTON--KENT,9025,"MACKENZIE, Hugh Alexander",Liberal Progressive,LibPro,t,f,8834,1
+19,ON,38,LAMBTON--KENT,9026,"STONEHOUSE, Calvert Stanley",National Government,NGovt,f,f,6089,2
+19,ON,39,LANARK,9027,"SOPER, Bert H.",Liberal,Lib,t,f,8821,1
+19,ON,39,LANARK,9028,"THOMPSON, Thomas Alfred",National Government,NGovt,f,f,7180,2
+19,ON,40,LEEDS,9029,"FULFORD, George Taylor",Liberal,Lib,t,f,10322,1
+19,ON,40,LEEDS,9030,"STEWART, Hon. Hugh Alexander",National Government,NGovt,f,f,8227,2
+19,ON,41,LINCOLN,9032,"LOCKHART, Norman J.M.",National Government,NGovt,t,f,13331,1
+19,ON,41,LINCOLN,9031,"BENCH, John Joseph",Liberal,Lib,f,f,12921,2
+19,ON,41,LINCOLN,9033,"SCOTT, John",Co-operative Commonwealth Federation,CCF,f,f,2443,3
+19,ON,42,LONDON,9035,"JOHNSTON, Joseph Allan",Liberal,Lib,t,f,15824,1
+19,ON,42,LONDON,9034,"KINGSMILL, Thomas Ford",National Government,NGovt,f,f,12534,2
+19,ON,42,LONDON,9036,"HALL, Everett Orlan",Co-operative Commonwealth Federation,CCF,f,f,3762,3
+19,ON,43,MIDDLESEX EAST,9038,"ROSS, Duncan Graham",Liberal,Lib,t,f,8444,1
+19,ON,43,MIDDLESEX EAST,9037,"FULLER, Frederick George",National Government,NGovt,f,f,6256,2
+19,ON,43,MIDDLESEX EAST,9039,"DICKIE, Kenneth Elson",Co-operative Commonwealth Federation,CCF,f,f,1577,3
+19,ON,44,MIDDLESEX WEST,9040,"MCCUBBIN, Robert",Liberal,Lib,t,f,6024,1
+19,ON,44,MIDDLESEX WEST,9041,"FREELE, Lloyd Wm. M.",National Government,NGovt,f,f,3886,2
+19,ON,45,MUSKOKA--ONTARIO,9042,"FURNISS, Stephen J.",Liberal,Lib,t,f,8098,1
+19,ON,45,MUSKOKA--ONTARIO,9043,"PROWSE, Norman Everrit",National Government,NGovt,f,f,7016,2
+19,ON,46,NIPISSING,9044,"HURTUBISE, Joseph Raoul",Liberal,Lib,t,f,26916,1
+19,ON,46,NIPISSING,9045,"LAROCQUE, Onésime",National Government,NGovt,f,f,11229,2
+19,ON,47,NORFOLK,9046,"TAYLOR, William Horace",Liberal,Lib,t,f,9230,1
+19,ON,47,NORFOLK,9047,"PRATT, Arthur Clarence",National Government,NGovt,f,f,5894,2
+19,ON,48,NORTHUMBERLAND,9049,"FRASER, William Alexander",Liberal,Lib,t,f,8194,1
+19,ON,48,NORTHUMBERLAND,9048,"BONE, Jamieson",National Government,NGovt,f,f,7241,2
+19,ON,49,ONTARIO,9050,"MOORE, William Henry",Liberal,Lib,t,f,12176,1
+19,ON,49,ONTARIO,9051,"NEWMAN, Harry Allen",National Government,NGovt,f,f,7914,2
+19,ON,50,OTTAWA EAST,9053,"PINARD, Joseph Albert",Liberal,Lib,t,f,12373,1
+19,ON,50,OTTAWA EAST,9054,"CHARTRAND, Aurèle",Independent Liberal,Ind,f,f,10526,2
+19,ON,50,OTTAWA EAST,9052,"SEGUIN, Charles-Avila",National Government,NGovt,f,f,6149,3
+19,ON,51,OTTAWA WEST,9055,"MCILRAITH, George J.",Liberal,Lib,t,f,27460,1
+19,ON,51,OTTAWA WEST,9056,"LEGGETT, Theodore Howell",National Government,NGovt,f,f,19780,2
+19,ON,52,OXFORD,9057,"RENNIE, Almon Secord",Liberal,Lib,t,f,10975,1
+19,ON,52,OXFORD,9058,"MILTON, Charles Thomas",National Government,NGovt,f,f,8325,2
+19,ON,53,PARKDALE,9059,"BRUCE, Herbert A.",National Government,NGovt,t,f,13605,1
+19,ON,53,PARKDALE,9060,"TRAVERS, Jack",Liberal,Lib,f,f,12487,2
+19,ON,54,PARRY SOUND,9062,"SLAGHT, Arthur G.",Liberal,Lib,t,f,5850,1
+19,ON,54,PARRY SOUND,9061,"MCLEAN, A.Coulter",National Government,NGovt,f,f,4159,2
+19,ON,54,PARRY SOUND,9063,"CULBERT, Clarence E.",New Democratic Party,NDP,f,f,786,3
+19,ON,55,PEEL,9064,"GRAYDON, Gordon",National Government,NGovt,t,f,8486,1
+19,ON,55,PEEL,9065,"FARR, George R.",Liberal,Lib,f,f,7638,2
+19,ON,56,PERTH,9066,"SANDERSON, Fred G.",Liberal,Lib,t,f,12926,1
+19,ON,56,PERTH,9067,"MURRAY, John",National Government,NGovt,f,f,8451,2
+19,ON,57,PETERBOROUGH WEST,9068,"FRASER, Gordon Knapman",National Government,NGovt,t,f,9683,1
+19,ON,57,PETERBOROUGH WEST,9069,"GLOVER, Roland Maxwell",Liberal,Lib,f,f,9505,2
+19,ON,58,PORT ARTHUR,9070,"HOWE, Hon. Clarence Decatur",Liberal,Lib,t,f,10327,1
+19,ON,58,PORT ARTHUR,9071,"BARTON, Alan A.",National Government,NGovt,f,f,5213,2
+19,ON,58,PORT ARTHUR,9072,"GIBSON, Alex",Co-operative Commonwealth Federation,CCF,f,f,3128,3
+19,ON,59,PRESCOTT,9074,"BERTRAND, Elie Oscar",Liberal,Lib,t,f,6431,1
+19,ON,59,PRESCOTT,9075,"MAISONNEUVE, Léandre",Independent Liberal,Ind,f,f,2028,2
+19,ON,59,PRESCOTT,9073,"TIERNEY, Parnell",National Government,NGovt,f,f,1819,3
+19,ON,60,PRINCE EDWARD--LENNOX,9076,"TUSTIN, George James",National Government,NGovt,t,f,6574,1
+19,ON,60,PRINCE EDWARD--LENNOX,9077,"WEESE, Howard",Liberal,Lib,f,f,5906,2
+19,ON,61,RENFREW NORTH,9079,"WARREN, Ralph Melville",Liberal,Lib,t,f,6199,1
+19,ON,61,RENFREW NORTH,9078,"WOOD, Edgar Troy",National Government,NGovt,f,f,4536,2
+19,ON,61,RENFREW NORTH,9080,"VONDETTE, Delmar",Co-operative Commonwealth Federation,CCF,f,f,709,3
+19,ON,62,RENFREW SOUTH,9081,"MCCANN, James Joseph",Liberal,Lib,t,f,6228,1
+19,ON,62,RENFREW SOUTH,9082,"MALONEY, Martin James",Conservative,Con,f,f,5236,2
+19,ON,63,ROSEDALE,9084,"JACKMAN, Harry Rutherford",National Government,NGovt,t,f,12519,1
+19,ON,63,ROSEDALE,9083,"SHANNON, J. Louis",Liberal,Lib,f,f,10399,2
+19,ON,63,ROSEDALE,9085,"DYMOND, Norah",Co-operative Commonwealth Federation,CCF,f,f,991,3
+19,ON,64,RUSSELL,9086,"GOULET, Alfred",Liberal,Lib,t,f,6045,1
+19,ON,64,RUSSELL,9087,"CAILLIER, Frederick A.",National Government,NGovt,f,f,2961,2
+19,ON,65,SIMCOE EAST,9088,"MCLEAN, George A.",Liberal,Lib,t,f,8470,1
+19,ON,65,SIMCOE EAST,9089,"SMITH, Oliver Hereford",National Government,NGovt,f,f,7024,2
+19,ON,66,SIMCOE NORTH,9090,"MCCUAIG, Duncan Fletcher",Liberal,Lib,t,f,7096,1
+19,ON,66,SIMCOE NORTH,9091,"BROCK, Frederick Aylsworth",National Government,NGovt,f,f,6030,2
+19,ON,67,SPADINA,9092,"FACTOR, Samuel",Liberal,Lib,t,f,20506,1
+19,ON,67,SPADINA,9094,"BLACKSTOCK, George Gooderham",National Government,NGovt,f,f,14148,2
+19,ON,67,SPADINA,9093,"SMITH, Stewart",Communist Party of Canada,Com,f,f,2922,3
+19,ON,68,ST. PAUL'S,9096,"ROSS, Douglas Gooderham",National Government,NGovt,t,f,15591,1
+19,ON,68,ST. PAUL'S,9095,"ROONEY, James Hendrick",Liberal,Lib,f,f,14816,2
+19,ON,69,STORMONT,9097,"CHEVRIER, Lionel",Liberal,Lib,t,f,10197,1
+19,ON,69,STORMONT,9098,"EMARD, Elzéar",National Government,NGovt,f,f,6202,2
+19,ON,70,TIMISKAMING,9102,"LITTLE, Walter",Liberal,Lib,t,f,10455,1
+19,ON,70,TIMISKAMING,9100,"O'MEARA, Gerald Daniel",Liberal,Lib,f,f,4906,2
+19,ON,70,TIMISKAMING,9101,"CHURCH, Tommy",Farmer Labour,Ind,f,f,4204,3
+19,ON,70,TIMISKAMING,9103,"HILL, Walter John",Co-operative Commonwealth Federation,CCF,f,f,2481,4
+19,ON,70,TIMISKAMING,9099,"SWIFT, Albert Edward",Unknown,Unknown,f,f,110,5
+19,ON,71,TRINITY,9105,"ROEBUCK, Arthur Wentworth",Liberal,Lib,t,f,14901,1
+19,ON,71,TRINITY,9104,"GEARY, Hon. George Reginald",National Government,NGovt,f,f,11617,2
+19,ON,71,TRINITY,9106,"STEWART, Douglas",Independent,Ind,f,f,1071,3
+19,ON,72,VICTORIA,9107,"MCNEVIN, Bruce",Liberal,Lib,t,f,8499,1
+19,ON,72,VICTORIA,9108,"MACALPINE, C.D.H.",National Government,NGovt,f,f,7422,2
+19,ON,73,WATERLOO NORTH,9110,"EULER, Hon. Wm. Daum",Liberal,Lib,t,f,14172,1
+19,ON,73,WATERLOO NORTH,9109,"LEAVINE, Stanley Francis",National Government,NGovt,f,f,6694,2
+19,ON,73,WATERLOO NORTH,9111,"HONSBERGER, Enoch",Co-operative Commonwealth Federation,CCF,f,f,1597,3
+19,ON,74,WATERLOO SOUTH,9113,"HOMUTH, Karl",National Government,NGovt,t,f,7432,1
+19,ON,74,WATERLOO SOUTH,9112,"FLYNN, Patrick Joseph",Liberal,Lib,f,f,6975,2
+19,ON,74,WATERLOO SOUTH,9114,"LATSCH, Vardon Stanley",Co-operative Commonwealth Federation,CCF,f,f,1549,3
+19,ON,75,WELLAND,9116,"DAMUDE, Arthur B.",Liberal,Lib,t,f,19132,1
+19,ON,75,WELLAND,9115,"BROOKS, Allan",National Government,NGovt,f,f,14491,2
+19,ON,75,WELLAND,9117,"WOODWORTH, Ernest",Co-operative Commonwealth Federation,CCF,f,f,2818,3
+19,ON,76,WELLINGTON NORTH,9118,"BLAIR, John Knox",Liberal,Lib,t,f,5748,1
+19,ON,76,WELLINGTON NORTH,9119,"MENARY, Lewis",National Government,NGovt,f,f,4266,2
+19,ON,77,WELLINGTON SOUTH,9121,"GLADSTONE, Robert W.",Liberal,Lib,t,f,8115,1
+19,ON,77,WELLINGTON SOUTH,9120,"AUSTEN, Charles Leroy",Independent,Ind,f,f,5073,2
+19,ON,77,WELLINGTON SOUTH,9122,"GUTHRIE, Hugh Comyn",National Government,NGovt,f,f,4121,3
+19,ON,78,WENTWORTH,9124,"CORMAN, Ellis Hopkins",Liberal,Lib,t,f,15714,1
+19,ON,78,WENTWORTH,9123,"LENNARD, Frank Exton",National Government,NGovt,f,f,14949,2
+19,ON,79,YORK EAST,9125,"MCGREGOR, Robert Henry",National Government,NGovt,t,f,16741,1
+19,ON,79,YORK EAST,9127,"IRWIN, Robert Allan",Liberal,Lib,f,f,12429,2
+19,ON,79,YORK EAST,9126,"JOLLIFFE, Edward Bigelow",Co-operative Commonwealth Federation,CCF,f,f,4931,3
+19,ON,80,YORK NORTH,9129,"MULOCK, William Pate",Liberal,Lib,t,f,10653,1
+19,ON,80,YORK NORTH,9128,"DIX, George M.",National Government,NGovt,f,f,8829,2
+19,ON,81,YORK SOUTH,9131,"COCKERAM, Alan",National Government,NGovt,t,f,15346,1
+19,ON,81,YORK SOUTH,9130,"MACRAE, F.J.",Liberal,Lib,f,f,12864,2
+19,ON,81,YORK SOUTH,9132,"NOSEWORTHY, J.W.",Co-operative Commonwealth Federation,CCF,f,f,5372,3
+19,ON,82,YORK WEST,9134,"ADAMSON, Rodney",Conservative,Con,t,f,12788,1
+19,ON,82,YORK WEST,9133,"BENNETT, Chris. J.",Liberal,Lib,f,f,12117,2
+19,ON,82,YORK WEST,9135,"LEWIS, David",Co-operative Commonwealth Federation,CCF,f,f,3787,3
+19,PE,1,KING'S,9136,"GRANT, Thomas Vincent",Liberal,Lib,t,f,4997,1
+19,PE,1,KING'S,9137,"MCDONALD, Augustine Adolphus",National Government,NGovt,f,f,4081,2
+19,PE,2,PRINCE,9138,"RALSTON, Hon. James Layton",Liberal,Lib,t,f,8745,1
+19,PE,2,PRINCE,9139,"MACPHEE, John Adolphus",National Government,NGovt,f,f,5767,2
+19,PE,3,QUEEN'S-1,9141,"DOUGLAS, James Lester",Liberal,Lib,t,f,10411,1
+19,PE,3,QUEEN'S-1,9140,"MCLURE, Winfield Chester",National Government,NGovt,f,f,8974,2
+19,PE,4,QUEEN'S-2,9143,"MACMILLAN, Hon. Cyrus",Liberal,Lib,t,f,10511,1
+19,PE,4,QUEEN'S-2,9142,"HYNDMAN, John Orlebar",National Government,NGovt,f,f,9206,2
+19,QC,1,ARGENTEUIL,9144,"MCGIBBON, James W.",Liberal,Lib,t,f,5629,1
+19,QC,1,ARGENTEUIL,9145,"HEON, Georges-Henri",National Government,NGovt,f,f,3763,2
+19,QC,2,BEAUCE,9147,"LACROIX, Maurice-Ernest-Edouard",Liberal,Lib,t,f,12482,1
+19,QC,2,BEAUCE,9146,"POULIN, Josaphat",National Government,NGovt,f,f,3142,2
+19,QC,3,BEAUHARNOIS--LAPRAIRIE,9148,"RAYMOND, Maxime",Liberal,Lib,t,f,11244,1
+19,QC,3,BEAUHARNOIS--LAPRAIRIE,9149,"ROY, Hormisdas",National Government,NGovt,f,f,3471,2
+19,QC,4,BELLECHASSE,9150,"PICARD, L.-Philippe",Liberal,Lib,t,f,6585,1
+19,QC,4,BELLECHASSE,9151,"MORRISSETTE, Edouard",Unknown,Unknown,f,f,2366,2
+19,QC,5,BERTHIER--MASKINONGÉ,9152,"FERRON, J-Emile",Liberal,Lib,t,f,10119,1
+19,QC,5,BERTHIER--MASKINONGÉ,9153,"BARRETTE, Joseph-Arthur",National Government,NGovt,f,f,3323,2
+19,QC,6,BONAVENTURE,9155,"POIRIER, J.-Alphée",Liberal,Lib,t,f,9446,1
+19,QC,6,BONAVENTURE,9154,"ARSENAULT, Bona",National Government,NGovt,f,f,5741,2
+19,QC,7,BROME--MISSISQUOI,9156,"HALLE, Maurice",Liberal,Lib,t,f,8302,1
+19,QC,7,BROME--MISSISQUOI,9157,"MURPHY, Daniel James",National Government,NGovt,f,f,2647,2
+19,QC,8,CARTIER,9158,"BERCOVITCH, Peter",Liberal,Lib,t,f,18191,1
+19,QC,8,CARTIER,9159,"AINEY, Arthur",National Labour,Ind,f,f,2354,2
+19,QC,9,CHAMBLY--ROUVILLE,9161,"DUPUIS, Vincent",Liberal,Lib,t,f,11964,1
+19,QC,9,CHAMBLY--ROUVILLE,9160,"PENVERNE, Jean-Joseph",National Government,NGovt,f,f,5761,2
+19,QC,9,CHAMBLY--ROUVILLE,9162,"MENARD, Joseph",Independent Conservative,Ind,f,f,567,3
+19,QC,10,CHAMPLAIN,9163,"BRUNELLE, Hervé-Edgar",Liberal,Lib,t,f,9546,1
+19,QC,10,CHAMPLAIN,9164,"BAILLY, Rodrigue",National Government,NGovt,f,f,5090,2
+19,QC,11,CHAPLEAU,9165,"AUTHIER, Hector",Liberal,Lib,t,f,9402,1
+19,QC,11,CHAPLEAU,9166,"TURGEON, J.-Alphonse",National Government,NGovt,f,f,3073,2
+19,QC,12,CHARLEVOIX--SAGUENAY,9167,"CASGRAIN, Hon. Pierre-François",Liberal,Lib,t,f,14336,1
+19,QC,12,CHARLEVOIX--SAGUENAY,9168,"CIMON, Antoine",National Government,NGovt,f,f,5928,2
+19,QC,13,CHICOUTIMI,9170,"DUBUC, Julien-Edouard-Alfred",Liberal,Lib,t,f,8693,1
+19,QC,13,CHICOUTIMI,9169,"DUMAS, François-Albert",National Government,NGovt,f,f,8330,2
+19,QC,13,CHICOUTIMI,9171,"BOIVIN, Eudore",Independent Liberal,Ind,f,f,5390,3
+19,QC,14,CHÂTEAUGUAY--HUNTINGDON,9172,"BLACK, Donald E.",Liberal,Lib,t,f,5773,1
+19,QC,14,CHÂTEAUGUAY--HUNTINGDON,9173,"ROBINSON, James Albert",National Government,NGovt,f,f,2047,2
+19,QC,15,COMPTON,9175,"BLANCHETTE, Joseph-Adéodat",Liberal,Lib,t,f,8012,1
+19,QC,15,COMPTON,9174,"LAFOREST, Joseph-Alfred",National Government,NGovt,f,f,1623,2
+19,QC,16,DORCHESTER,9177,"TREMBLAY, Léonard-D.",Liberal,Lib,t,f,5573,1
+19,QC,16,DORCHESTER,9176,"O'FARREL, Emmett",Independent,Ind,f,f,4721,2
+19,QC,17,DRUMMOND--ARTHABASKA,9178,"CLOUTIER, Armand",Liberal,Lib,t,f,12145,1
+19,QC,17,DRUMMOND--ARTHABASKA,9179,"GARON, Joseph",Independent Liberal,Ind,f,f,10853,2
+19,QC,18,GASPÉ,9181,"ROY, Joseph-Sasseville",Independent Conservative,Ind,t,f,8371,1
+19,QC,18,GASPÉ,9182,"BRASSET, Maurice",Liberal,Lib,f,f,8162,2
+19,QC,18,GASPÉ,9180,"LANGLOIS, Léopold",Independent Liberal,Ind,f,f,4437,3
+19,QC,19,HOCHELAGA,9184,"EUDES, Raymond",Liberal,Lib,t,f,16849,1
+19,QC,19,HOCHELAGA,9185,"CHAUVIN, Jean-Paul",Independent Liberal,Ind,f,f,9172,2
+19,QC,19,HOCHELAGA,9183,"DUBEAU, Achille",National Government,NGovt,f,f,4049,3
+19,QC,19,HOCHELAGA,9186,"THIBAULT, Richard",Independent Liberal,Ind,f,f,1230,4
+19,QC,20,HULL,9188,"FOURNIER, Alphonse",Liberal,Lib,t,f,11253,1
+19,QC,20,HULL,9187,"TURPIN, Armand",New Democracy,NDemo,f,f,7083,2
+19,QC,20,HULL,9189,"LAMBERT, Théodore",Labour,Labour,f,f,3916,3
+19,QC,21,JACQUES CARTIER,9190,"MARIER, Elphège",Liberal,Lib,t,f,11755,1
+19,QC,21,JACQUES CARTIER,9191,"BARRE, Charles-Stanislas-Victorien",National Government,NGovt,f,f,4028,2
+19,QC,22,JOLIETTE--L'ASSOMPTION--MONTCALM,9192,"FERLAND, Charles-Édouard",Liberal,Lib,t,f,14112,1
+19,QC,22,JOLIETTE--L'ASSOMPTION--MONTCALM,9193,"LAVALLÉE, Julien",National Government,NGovt,f,f,3430,2
+19,QC,23,KAMOURASKA,9194,"LIZOTTE, Louis-Philippe",Liberal,Lib,t,f,6965,1
+19,QC,23,KAMOURASKA,9195,"MICHAUD, Thomas-W.",National Government,NGovt,f,f,2099,2
+19,QC,24,LABELLE,9196,"LALONDE, Maurice",Liberal,Lib,t,f,8797,1
+19,QC,24,LABELLE,9197,"LORRAIN, Lévis",Independent,Ind,f,f,5909,2
+19,QC,25,LAKE ST-JOHN--ROBERVAL,9199,"SYLVESTRE, Armand",Liberal,Lib,t,f,10057,1
+19,QC,25,LAKE ST-JOHN--ROBERVAL,9201,"DUGUAY, Joseph-Léonard",National Government,NGovt,f,f,6895,2
+19,QC,25,LAKE ST-JOHN--ROBERVAL,9200,"EVEN, Louis",New Democracy,NDemo,f,f,3698,3
+19,QC,25,LAKE ST-JOHN--ROBERVAL,9198,"DUMOULIN, Joseph-O.",Independent Liberal,Ind,f,f,717,4
+19,QC,26,LAURIER,9203,"BERTRAND, Ernest",Liberal,Lib,t,f,21069,1
+19,QC,26,LAURIER,9202,"LARIVÉE, Donat",National Government,NGovt,f,f,4072,2
+19,QC,27,LAVAL--TWO MOUNTAINS,9204,"LACOMBE, J.-R.-Liguori",Independent Liberal,Ind,t,f,6378,1
+19,QC,27,LAVAL--TWO MOUNTAINS,9205,"ROCHON, Jean-Baptiste-Léo",Liberal,Lib,f,f,4552,2
+19,QC,28,LOTBINIÈRE,9206,"LAPOINTE, Hugues",Liberal,Lib,t,f,8983,1
+19,QC,28,LOTBINIÈRE,9207,"LALIBERTÉ, Gérard",Independent,Ind,f,f,4627,2
+19,QC,29,LÉVIS,9209,"BOURGET, Maurice",Liberal,Lib,t,f,8885,1
+19,QC,29,LÉVIS,9208,"DUMONTIER, Albert",National Government,NGovt,f,f,4187,2
+19,QC,30,MAISONNEUVE--ROSEMONT,9210,"FOURNIER, Sarto",Liberal,Lib,t,f,17442,1
+19,QC,30,MAISONNEUVE--ROSEMONT,9211,"DESROSIERS, Pierre",National Government,NGovt,f,f,6387,2
+19,QC,31,MATAPÉDIA--MATANE,9212,"LAPOINTE, Arthur-Joseph",Liberal,Lib,t,f,9956,1
+19,QC,31,MATAPÉDIA--MATANE,9213,"LARUE, Joseph-Ernest-Henri",National Government,NGovt,f,f,5804,2
+19,QC,32,MERCIER,9214,"JEAN, Joseph",Liberal,Lib,t,f,19134,1
+19,QC,32,MERCIER,9215,"THERRIEN, François-Eugène",National Government,NGovt,f,f,4596,2
+19,QC,33,MONTMAGNY--L'ISLET,9216,"LAFLAMME, J.-Léo-K.",Liberal,Lib,t,f,6890,1
+19,QC,33,MONTMAGNY--L'ISLET,9217,"RINGUET, Wilfrid-A.",National Government,NGovt,f,f,3288,2
+19,QC,34,MOUNT ROYAL,9219,"WHITMAN, Frederick Primrose",Liberal,Lib,t,f,19858,1
+19,QC,34,MOUNT ROYAL,9218,"WALSH, William Allen",National Government,NGovt,f,f,13319,2
+19,QC,34,MOUNT ROYAL,9220,"ALLEN, John Stanley",Co-operative Commonwealth Federation,CCF,f,f,1983,3
+19,QC,35,MÉGANTIC--FRONTENAC,9221,"LAFONTAINE, Joseph",Liberal,Lib,t,f,10477,1
+19,QC,35,MÉGANTIC--FRONTENAC,9222,"FORTIN, J.-Émile",National Government,NGovt,f,f,6281,2
+19,QC,36,NICOLET--YAMASKA,9224,"DUBOIS, Lucien",Liberal,Lib,t,f,7445,1
+19,QC,36,NICOLET--YAMASKA,9223,"MANSEAU, François-Moras",Liberal,Lib,f,f,6865,2
+19,QC,36,NICOLET--YAMASKA,9225,"BELCOURT, Joseph-Henri",National Government,NGovt,f,f,410,3
+19,QC,36,NICOLET--YAMASKA,9226,"COTÉ, Léo",Independent Conservative,Ind,f,f,232,4
+19,QC,37,OUTREMONT,9228,"VIEN, Thomas",Liberal,Lib,t,f,14511,1
+19,QC,37,OUTREMONT,9229,"BENDER, Joseph-Hector",National Government,NGovt,f,f,4556,2
+19,QC,37,OUTREMONT,9227,"POULIN, Ernest",Independent Liberal,Ind,f,f,2787,3
+19,QC,38,PONTIAC,9230,"MCDONALD, Wallace Reginald",Liberal,Lib,t,f,13206,1
+19,QC,38,PONTIAC,9231,"PICHÉ, Joseph-Édouard",Independent Liberal,Ind,f,f,11941,2
+19,QC,38,PONTIAC,9232,"CARRIER, Ernest",Unknown,Unknown,f,f,5128,3
+19,QC,39,PORTNEUF,9234,"GAUTHIER, Pierre",Liberal,Lib,t,f,10033,1
+19,QC,39,PORTNEUF,9235,"GIROUX, Laurent",Independent Liberal,Ind,f,f,2676,2
+19,QC,39,PORTNEUF,9233,"PRONOVOST, J.-O.",National Government,NGovt,f,f,2141,3
+19,QC,40,QUEBEC EAST,9236,"LAPOINTE, Le très honorable Ernest",Liberal,Lib,t,f,17914,1
+19,QC,40,QUEBEC EAST,9237,"BOUCHARD, Paul",Independent Nationalist,Ind,f,f,12302,2
+19,QC,41,QUEBEC SOUTH,9238,"POWER, Hon. Charles G.",Liberal,Lib,t,f,15196,1
+19,QC,41,QUEBEC SOUTH,9239,"DINAN, Francis James",National Government,NGovt,f,f,4284,2
+19,QC,42,QUEBEC WEST AND SOUTH,9240,"PARENT, Charles",Liberal,Lib,t,f,12010,1
+19,QC,42,QUEBEC WEST AND SOUTH,9241,"DUPRÉ, Hon. Maurice",National Government,NGovt,f,f,8003,2
+19,QC,43,QUÉBEC--MONTMORENCY,9242,"LACROIX, Wilfrid",Liberal,Lib,t,f,12850,1
+19,QC,43,QUÉBEC--MONTMORENCY,9243,"AUDET, Pierre",National Government,NGovt,f,f,5175,2
+19,QC,44,RICHELIEU--VERCHÈRES,9245,"CARDIN, Hon. Pierre-Joseph-Arthur",Liberal,Lib,t,f,11330,1
+19,QC,44,RICHELIEU--VERCHÈRES,9244,"BEAUREGARD, Liboire",National Government,NGovt,f,f,2412,2
+19,QC,44,RICHELIEU--VERCHÈRES,9246,"LARIVIÈRE, René",Independent Conservative,Ind,f,f,447,3
+19,QC,45,RICHMOND--WOLFE,9247,"MULLINS, James Patrick",Liberal,Lib,t,f,8554,1
+19,QC,45,RICHMOND--WOLFE,9248,"GOULET, Joseph-Alexandre",National Government,NGovt,f,f,4295,2
+19,QC,46,RIMOUSKI,9249,"D'ANJOU, J.-E.-S.-Emmanuel",Liberal,Lib,t,f,9766,1
+19,QC,46,RIMOUSKI,9250,"BLANCHET, Jean",Conservative,Con,f,f,5928,2
+19,QC,47,SHEFFORD,9251,"LECLERC, Joseph-Hermas",Liberal,Lib,t,f,7831,1
+19,QC,47,SHEFFORD,9252,"CHOQUETTE, Hector",National Government,NGovt,f,f,3644,2
+19,QC,48,SHERBROOKE,9254,"GINGUES, Maurice",Liberal,Lib,t,f,11602,1
+19,QC,48,SHERBROOKE,9253,"WALSH, Terence Gerard",National Government,NGovt,f,f,5465,2
+19,QC,48,SHERBROOKE,9255,"COTÉ, Joseph-Ernest",Independent,Ind,f,f,1697,3
+19,QC,49,ST-MAURICE--LAFLÈCHE,9256,"CRÈTE, Joseph-Alphida",Liberal,Lib,t,f,9440,1
+19,QC,49,ST-MAURICE--LAFLÈCHE,9258,"FRIGON, Joseph-A.",Independent Liberal,Ind,f,f,7465,2
+19,QC,49,ST-MAURICE--LAFLÈCHE,9259,"BÉLAND, Joseph-Albert",National Government,NGovt,f,f,1957,3
+19,QC,49,ST-MAURICE--LAFLÈCHE,9257,"DALLAIRE, Elzéar",Independent Liberal,Ind,f,f,457,4
+19,QC,50,ST. ANN,9260,"HEALY, Thomas P.",Liberal,Lib,t,f,12687,1
+19,QC,50,ST. ANN,9263,"LYNCH, Patrick T.",National Government,NGovt,f,f,2806,2
+19,QC,50,ST. ANN,9261,"GAWRONSKI, Gabriel Edward",Independent Liberal,Ind,f,f,450,3
+19,QC,50,ST. ANN,9262,"LAWRENCE, Frederick S.",Independent Liberal,Ind,f,f,257,4
+19,QC,51,ST. ANTOINE--WESTMOUNT,9265,"ABBOTT, Douglas Charles",Liberal,Lib,t,f,14879,1
+19,QC,51,ST. ANTOINE--WESTMOUNT,9264,"WHITE, Robert Smeaton",National Government,NGovt,f,f,8972,2
+19,QC,52,ST. DENIS,9267,"DENIS, Azellus",Liberal,Lib,t,f,18948,1
+19,QC,52,ST. DENIS,9268,"GRENON, Hector",National Government,NGovt,f,f,4979,2
+19,QC,52,ST. DENIS,9266,"LUSSIER, Antonio",Independent Liberal,Ind,f,f,4274,3
+19,QC,52,ST. DENIS,9269,"CHAMPAGNE, J.-Antoine",Independent Liberal,Ind,f,f,967,4
+19,QC,53,ST. HENRY,9271,"BONNIER, J.-Arsène",Liberal,Lib,t,f,17531,1
+19,QC,53,ST. HENRY,9270,"LAURIAULT, Wilfrid-Eldège",Independent Liberal,Ind,f,f,10371,2
+19,QC,53,ST. HENRY,9273,"LAMONTAGNE, Édouard",National Government,NGovt,f,f,2081,3
+19,QC,53,ST. HENRY,9272,"GOSSELIN, Louis-Gérard",Anti-Conscriptionist,Ind,f,f,642,4
+19,QC,54,ST. HYACINTHE--BAGOT,9274,"FONTAINE, Th.-Adélard",Liberal,Lib,t,f,13220,1
+19,QC,54,ST. HYACINTHE--BAGOT,9275,"GAUDETTE, J.-Wilfrid",Independent,Ind,f,f,2599,2
+19,QC,55,ST. JAMES,9277,"DUROCHER, Eugène",Liberal,Lib,t,f,27219,1
+19,QC,55,ST. JAMES,9278,"JEANNOTTE, Joseph-Édouard",National Government,NGovt,f,f,5777,2
+19,QC,55,ST. JAMES,9279,"ROCHON, Hector",Co-operative Commonwealth Federation,CCF,f,f,1091,3
+19,QC,55,ST. JAMES,9276,"MATHIEU, Achille",Independent Liberal,Ind,f,f,864,4
+19,QC,56,ST. JOHNS--IBERVILLE--NAPIERVILLE,9281,"RHÉAUME, Martial",Liberal,Lib,t,f,7439,1
+19,QC,56,ST. JOHNS--IBERVILLE--NAPIERVILLE,9280,"ST-GERMAIN, Charles-Georges",Independent Liberal,Ind,f,f,6307,2
+19,QC,56,ST. JOHNS--IBERVILLE--NAPIERVILLE,9282,"GRÉGOIRE, Alexandre-E.",National Government,NGovt,f,f,2331,3
+19,QC,57,ST. LAWRENCE--ST. GEORGE,9284,"CLAXTON, Brooke",Liberal,Lib,t,f,11553,1
+19,QC,57,ST. LAWRENCE--ST. GEORGE,9283,"CAHAN, Hon. Charles Hazlitt",Conservative,Con,f,f,6568,2
+19,QC,58,ST. MARY,9285,"DESLAURIERS, Hermas",Liberal,Lib,t,f,23185,1
+19,QC,58,ST. MARY,9286,"FAUTEUX, Gabriel",National Government,NGovt,f,f,4785,2
+19,QC,58,ST. MARY,9287,"DUBÉ, Évariste",Communist Party of Canada,Com,f,f,728,3
+19,QC,58,ST. MARY,9288,"PRÉZEAU, Théodore",Co-operative Commonwealth Federation,CCF,f,f,719,4
+19,QC,59,STANSTEAD,9290,"DAVIDSON, Robert Greig",Liberal,Lib,t,f,5112,1
+19,QC,59,STANSTEAD,9289,"GIRARD, Alphonse",Independent Liberal,Ind,f,f,4804,2
+19,QC,60,TERREBONNE,9292,"BERTRAND, Lionel",Independent Liberal,Ind,t,f,7839,1
+19,QC,60,TERREBONNE,9293,"PARENT, Louis-Étienne",Liberal,Lib,f,f,6938,2
+19,QC,60,TERREBONNE,9291,"LACHAPELLE, Léopold",National Government,NGovt,f,f,2668,3
+19,QC,61,THREE RIVERS,9294,"RYAN, Robert",Liberal,Lib,t,f,9860,1
+19,QC,61,THREE RIVERS,9295,"GARIÉPY, Wilfrid",Independent Liberal,Ind,f,f,8734,2
+19,QC,62,TÉMISCOUATA,9297,"POULIOT, Jean-François",Liberal,Lib,t,f,9615,1
+19,QC,62,TÉMISCOUATA,9298,"CIMON, Horace",National Government,NGovt,f,f,2063,2
+19,QC,62,TÉMISCOUATA,9296,"LEBEL, Luc",Independent,Ind,f,f,1518,3
+19,QC,63,VAUDREUIL--SOULANGES,9300,"THAUVETTE, Joseph",Liberal,Lib,t,f,4381,1
+19,QC,63,VAUDREUIL--SOULANGES,9299,"DEGUIRE, J.-E.-Philippe",National Government,NGovt,f,f,2210,2
+19,QC,63,VAUDREUIL--SOULANGES,9301,"CHARLEBOIS, Édouard",Independent Liberal,Ind,f,f,1441,3
+19,QC,63,VAUDREUIL--SOULANGES,9302,"CHEVRIER, J.-Ernest",Independent Liberal,Ind,f,f,1059,4
+19,QC,64,VERDUN,9304,"COTÉ, Paul-Émile",Liberal,Lib,t,f,8372,1
+19,QC,64,VERDUN,9306,"FERLAND, Hervé",Independent Liberal,Ind,f,f,7231,2
+19,QC,64,VERDUN,9307,"CALDER, Robert Louis",Co-operative Commonwealth Federation,CCF,f,f,3817,3
+19,QC,64,VERDUN,9309,"WERMENLINGER, E.-Jules",National Government,NGovt,f,f,3693,4
+19,QC,64,VERDUN,9303,"ADAMS, Ruby Beryl Joan",Independent,Ind,f,f,1838,5
+19,QC,64,VERDUN,9305,"HALPIN, Charles S.P.",Independent,Ind,f,f,1181,6
+19,QC,64,VERDUN,9310,"CURRIE, Samuel",Independent Conservative,Ind,f,f,814,7
+19,QC,64,VERDUN,9308,"SCURRAH, Robert William",Independent,Ind,f,f,599,8
+19,QC,65,WRIGHT,9311,"Leduc, Rodolphe",Liberal,Lib,t,f,7260,1
+19,QC,65,WRIGHT,9313,"BELL, Halliday",National Government,NGovt,f,f,2310,2
+19,QC,65,WRIGHT,9312,"HUBERT, Augustin",Independent Liberal,Ind,f,f,1172,3
+19,SK,1,ASSINIBOIA,9314,"TRIPP, Jesse Pickard",Liberal,Lib,t,f,6846,1
+19,SK,1,ASSINIBOIA,9315,"HORNER, Samuel Norval",Co-operative Commonwealth Federation,CCF,f,f,4812,2
+19,SK,1,ASSINIBOIA,9316,"HART, James Lawrence",National Government,NGovt,f,f,3516,3
+19,SK,2,HUMBOLDT,9318,"FLEMING, Harry Raymond",Liberal,Lib,t,f,8808,1
+19,SK,2,HUMBOLDT,9317,"BOLSTER, Frank John",Co-operative Commonwealth Federation,CCF,f,f,7536,2
+19,SK,3,KINDERSLEY,9320,"HENDERSON, Charles Albert",Liberal,Lib,t,f,5068,1
+19,SK,3,KINDERSLEY,9321,"MITCHELL, Arthur Hill Gilmour",Co-operative Commonwealth Federation,CCF,f,f,3966,2
+19,SK,3,KINDERSLEY,9319,"HERRIDGE, Hon. Wm. Duncan",New Democracy,NDemo,f,f,3922,3
+19,SK,4,LAKE CENTRE,9323,"DIEFENBAKER, John George",National Government,NGovt,t,f,5974,1
+19,SK,4,LAKE CENTRE,9322,"JOHNSTON, John Frederick",Liberal,Lib,f,f,5694,2
+19,SK,4,LAKE CENTRE,9324,"FANSHER, William Russell",Co-operative Commonwealth Federation,CCF,f,f,4793,3
+19,SK,5,MACKENZIE,9326,"NICHOLSON, Alexander Malcolm",Co-operative Commonwealth Federation,CCF,t,f,10207,1
+19,SK,5,MACKENZIE,9327,"BARRIE, James Ross",Liberal,Lib,f,f,9211,2
+19,SK,5,MACKENZIE,9325,"WIGGINS, Walter Ernest",Communist Party of Canada,Com,f,f,819,3
+19,SK,6,MAPLE CREEK,9329,"EVANS, Charles Robert",Liberal,Lib,t,f,5157,1
+19,SK,6,MAPLE CREEK,9328,"KEMPER, Herman Henry",Co-operative Commonwealth Federation,CCF,f,f,5102,2
+19,SK,6,MAPLE CREEK,9330,"WRIGHT, Frederick Edwin",National Government,NGovt,f,f,3182,3
+19,SK,7,MELFORT,9332,"WRIGHT, Percy Ellis",Co-operative Commonwealth Federation,CCF,t,f,11358,1
+19,SK,7,MELFORT,9333,"MCLEAN, Malcolm",Liberal,Lib,f,f,8019,2
+19,SK,7,MELFORT,9331,"HAVER, Malcolm James",New Democracy,NDemo,f,f,1732,3
+19,SK,8,MELVILLE,9335,"GARDINER, Hon. James Garfield",Liberal,Lib,t,f,10158,1
+19,SK,8,MELVILLE,9334,"LUCAS, Louise",Co-operative Commonwealth Federation,CCF,f,f,9042,2
+19,SK,8,MELVILLE,9336,"BARTLETT, Gilbert Henry",Unity,Ind,f,f,1837,3
+19,SK,9,MOOSE JAW,9337,"ROSS, John Gordon",Liberal,Lib,t,f,9373,1
+19,SK,9,MOOSE JAW,9338,"PATTERSON, Joseph Victor",National Government,NGovt,f,f,7807,2
+19,SK,10,NORTH BATTLEFORD,9339,"NIELSEN, Dorise W.",Unity,Ind,t,f,10500,1
+19,SK,10,NORTH BATTLEFORD,9340,"MCINTOSH, Cameron Ross",Liberal,Lib,f,f,7868,2
+19,SK,11,PRINCE ALBERT,9342,"KING, Rt. Hon. William Lyon Mackenzie",Liberal,Lib,t,f,8310,1
+19,SK,11,PRINCE ALBERT,9343,"MANVILLE, Robert Rae",National Unity,Ind,f,f,7534,2
+19,SK,11,PRINCE ALBERT,9344,"STRELIVE, Peter William",Co-operative Commonwealth Federation,CCF,f,f,1993,3
+19,SK,11,PRINCE ALBERT,9341,"CAMPBELL, Alfred Cowie",Communist Party of Canada,Com,f,f,243,4
+19,SK,12,QU'APPELLE,9345,"PERLEY, Ernest Edward",National Government,NGovt,t,f,8236,1
+19,SK,12,QU'APPELLE,9346,"MCCOWAN, James Alexander",Liberal,Lib,f,f,6775,2
+19,SK,13,REGINA CITY,9348,"MCNIVEN, Donald Alexander",Liberal,Lib,t,f,14434,1
+19,SK,13,REGINA CITY,9349,"MACPHERSON, Murdock Alexander",National Government,NGovt,f,f,12475,2
+19,SK,13,REGINA CITY,9350,"PROBE, John Oliver",Co-operative Commonwealth Federation,CCF,f,f,2855,3
+19,SK,13,REGINA CITY,9347,"GUEST, John Ivor",Conservative,Con,f,f,602,4
+19,SK,14,ROSETOWN--BIGGAR,9352,"COLDWELL, James William",Co-operative Commonwealth Federation,CCF,t,f,7714,1
+19,SK,14,ROSETOWN--BIGGAR,9351,"Hassard, Robert P.",Liberal,Lib,f,f,4912,2
+19,SK,14,ROSETOWN--BIGGAR,9353,"ANDERSON, James Thomas Milton",National Government,NGovt,f,f,2381,3
+19,SK,15,ROSTHERN,9355,"TUCKER, Walter Adam",Liberal,Lib,t,f,6612,1
+19,SK,15,ROSTHERN,9354,"MAKAROFF, Peter George",Co-operative Commonwealth Federation,CCF,f,f,5456,2
+19,SK,15,ROSTHERN,9356,"LEPP, Peter Paul",New Democracy,NDemo,f,f,999,3
+19,SK,16,SASKATOON CITY,9358,"BROWN, Walter George",United Reform Movement,Ind,t,f,13868,1
+19,SK,16,SASKATOON CITY,9359,"NIDEROST, Carl",Liberal,Lib,f,f,8346,2
+19,SK,16,SASKATOON CITY,9357,"ARNOLD, Harry Watson",Social Credit-National Unity,Ind,f,f,241,3
+19,SK,17,SWIFT CURRENT,9361,"GRAHAM, Roy Theodore",Liberal,Lib,t,f,6042,1
+19,SK,17,SWIFT CURRENT,9360,"THIESSEN, Henry Peter",Co-operative Commonwealth Federation,CCF,f,f,5507,2
+19,SK,17,SWIFT CURRENT,9362,"WHYTE, James P.",National Government,NGovt,f,f,3965,3
+19,SK,18,THE BATTLEFORDS,9364,"GREGORY, John Albert",Liberal,Lib,t,f,7195,1
+19,SK,18,THE BATTLEFORDS,9363,"NEEDHAM, Joseph",New Democracy,NDemo,f,f,5453,2
+19,SK,18,THE BATTLEFORDS,9365,"NOLLET, I.C.",Unknown,Unknown,f,f,4512,3
+19,SK,19,WEYBURN,9367,"DOUGLAS, Thomas Clement",Co-operative Commonwealth Federation,CCF,t,f,8509,1
+19,SK,19,WEYBURN,9366,"METHERAL, Thomas Niddrie",Liberal,Lib,f,f,7554,2
+19,SK,19,WEYBURN,9368,"HILTON, John Harrison",United Reform,Ind,f,f,269,3
+19,SK,20,WOOD MOUNTAIN,9370,"DONNELLY, Thomas F.",Liberal,Lib,t,f,6375,1
+19,SK,20,WOOD MOUNTAIN,9371,"BUCHANAN, Niles Leonard",Co-operative Commonwealth Federation,CCF,f,f,5247,2
+19,SK,20,WOOD MOUNTAIN,9369,"ELLISON, Alban Cedric",Independent,Ind,f,f,3775,3
+19,SK,21,YORKTON,9373,"CASTLEDEN, George Hugh",Co-operative Commonwealth Federation,CCF,t,f,7658,1
+19,SK,21,YORKTON,9374,"MCLEAN, Allan Grant",Liberal,Lib,f,f,6773,2
+19,SK,21,YORKTON,9375,"HNATYSHYN, John",National Government,NGovt,f,f,4690,3
+19,SK,21,YORKTON,9372,"MCMANUS, Thomas Gerald",Communist Party of Canada,Com,f,f,1047,4
+19,YK,1,YUKON,9376,"BLACK, George",National Government,NGovt,t,f,915,1
+19,YK,1,YUKON,9377,"REID, Charles",Liberal,Lib,f,f,793,2
