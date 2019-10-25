@@ -48,3 +48,6 @@ ${PSQL} < sql/rawDataViews.sql
 #
 echo "Creating consolidated elections table"
 ${PSQL} < sql/elections.sql
+
+echo "Diffs should be zero"
+${PSQL} < sql/checks.sql

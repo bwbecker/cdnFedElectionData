@@ -16,8 +16,8 @@ CREATE VIEW _work.cleaned_history AS (
                , CASE WHEN votes_raw = 'accl.' THEN NULL ELSE votes_raw::INT END AS votes
                , votes_raw = 'accl.' AS acclaimed
             FROM _work.history
-                 JOIN _work.party_name_lookup ON (cand_party_name = raw_name)
-                 JOIN _work.prov_lookup ON (province = raw_code)
+                 LEFT JOIN _work.party_name_lookup ON (cand_party_name = raw_name)
+                 LEFT JOIN _work.prov_lookup ON (province = raw_code)
            WHERE election_type = 'Gen'
              AND election_id < 39
           --ORDER BY election_id, province, ed_name, election_type, cand_last
@@ -66,7 +66,7 @@ CREATE VIEW _work.cleaned_history AS (
         ed_name, cand_name, cand_raw_party_name, cand_party_name, elected, votes, acclaimed
 
       FROM dual_mbr_ed
-           JOIN electoral_districts USING (election_id, prov_code, ed_name)
+           LEFT JOIN electoral_districts USING (election_id, prov_code, ed_name)
                                         );
 
 
@@ -101,8 +101,8 @@ CREATE VIEW _work.cleaned_recent AS (
          , party_name AS cand_party_name
          , elected, votes, FALSE AS acclaimed
       FROM by_riding
-           JOIN _work.prov_lookup ON (left(ed_id::TEXT, 2) = raw_code)
-           JOIN _work.party_name_lookup ON (cand_party_name = raw_name)
+           LEFT JOIN _work.prov_lookup ON (left(ed_id::TEXT, 2) = raw_code)
+           LEFT JOIN _work.party_name_lookup ON (cand_party_name = raw_name)
                                        );
 
 
