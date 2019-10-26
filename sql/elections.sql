@@ -115,7 +115,7 @@ $$;
 
 
 CREATE OR REPLACE FUNCTION _elections.json_ridings(election_id_p INT
-                                                     ) RETURNS JSON
+                                                  ) RETURNS JSON
     LANGUAGE SQL
 AS $$
 SELECT json_agg(
@@ -127,6 +127,9 @@ SELECT json_agg(
                    )
                ORDER BY election_id, prov_code, ed_id
            ) AS json
-  FROM _elections.elections
- WHERE election_id = election_id_p
+  FROM (
+           SELECT DISTINCT election_id, prov_code, ed_id, ed_name
+             FROM _elections.elections
+            WHERE election_id = election_id_p
+       ) AS foo
 $$;
