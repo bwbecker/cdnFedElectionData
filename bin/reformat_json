@@ -1,0 +1,8 @@
+#!/bin/bash
+
+
+for f in `ls json_work`;
+do
+	echo $f;
+	json_reformat < json_work/$f > json/$f;
+done

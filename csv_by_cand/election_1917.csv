@@ -1,0 +1,478 @@
+election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_party_name,party_id,party_name,party_short_name,mainstream,votes,acclaimed,place
+13,1917-12-17,AB,1,BATTLE RIVER,5051,"BLAIR, William John",Government,49,Government,Gov,t,5733,f,1
+13,1917-12-17,AB,1,BATTLE RIVER,5052,"WARNER, Daniel Webster",Opposition,105,Opposition,OppConscript,t,4195,f,2
+13,1917-12-17,AB,2,BOW RIVER,5053,"HALLADAY, Howard Hadden",Government,49,Government,Gov,t,3757,f,1
+13,1917-12-17,AB,2,BOW RIVER,5054,"GOUGE, Jesse Elmer",Opposition,105,Opposition,OppConscript,t,2996,f,2
+13,1917-12-17,AB,2,BOW RIVER,5055,"GALBRAITH, Daniel Harcourt",Non-Partisan League,104,Non-Partisan League,NonPartL,f,1453,f,3
+13,1917-12-17,AB,2,BOW RIVER,5056,"REID, John",Labour,65,Labour,Labour,f,312,f,4
+13,1917-12-17,AB,3,CALGARY WEST,5057,"TWEEDIE, Thomas Mitchell",Government,49,Government,Gov,t,10986,f,1
+13,1917-12-17,AB,3,CALGARY WEST,5058,"IRVINE, John Alfred",Opposition,105,Opposition,OppConscript,t,4015,f,2
+13,1917-12-17,AB,4,EAST CALGARY,5059,"REDMAN, Daniel Lee",Government,49,Government,Gov,t,8363,f,1
+13,1917-12-17,AB,4,EAST CALGARY,5060,"IRVINE, William",Opposition-Labour,106,Opposition-Labour,OppConscriptL,f,3911,f,2
+13,1917-12-17,AB,5,EDMONTON EAST,5061,"MACKIE, Henry Arthur",Government,49,Government,Gov,t,6775,f,1
+13,1917-12-17,AB,5,EDMONTON EAST,5062,"MAY, Alexander Esson",Opposition,105,Opposition,OppConscript,t,4122,f,2
+13,1917-12-17,AB,6,EDMONTON WEST,5063,"GRIESBACH, William Antrobus",Government,49,Government,Gov,t,9637,f,1
+13,1917-12-17,AB,6,EDMONTON WEST,5064,"OLIVER, Hon. Frank",Opposition,105,Opposition,OppConscript,t,6939,f,2
+13,1917-12-17,AB,7,LETHBRIDGE,5065,"BUCHANAN, William Ashbury",Government,49,Government,Gov,t,5302,f,1
+13,1917-12-17,AB,7,LETHBRIDGE,5066,"PACK, L. Lambert",Opposition-Labour,106,Opposition-Labour,OppConscriptL,f,2468,f,2
+13,1917-12-17,AB,8,MACLEOD,5067,"SHAW, Hugh Murray",Government,49,Government,Gov,t,5128,f,1
+13,1917-12-17,AB,8,MACLEOD,5068,"MCIVOR, Donald Randolph",Opposition,105,Opposition,OppConscript,t,2610,f,2
+13,1917-12-17,AB,8,MACLEOD,5069,"MARSHALL, Stephen Thorne",Non-Partisan League,104,Non-Partisan League,NonPartL,f,950,f,3
+13,1917-12-17,AB,9,MEDICINE HAT,5070,"SIFTON, Hon. Arthur Lewis",Government,49,Government,Gov,t,6869,f,1
+13,1917-12-17,AB,9,MEDICINE HAT,5071,"REILLY, Clifford Bernardo",Opposition,105,Opposition,OppConscript,t,3568,f,2
+13,1917-12-17,AB,9,MEDICINE HAT,5072,"PATON, George",Non-Partisan League,104,Non-Partisan League,NonPartL,f,460,f,3
+13,1917-12-17,AB,10,RED DEER,5073,"CLARK, Michael",Government,49,Government,Gov,t,6213,f,1
+13,1917-12-17,AB,10,RED DEER,5074,"PUFFER, William Franklin",Opposition,105,Opposition,OppConscript,t,3800,f,2
+13,1917-12-17,AB,10,RED DEER,5075,"KNIGHT, Joseph Robert",Labour,65,Labour,Labour,f,701,f,3
+13,1917-12-17,AB,11,STRATHCONA,5076,"DOUGLAS, James McCrie",Government,49,Government,Gov,t,5777,f,1
+13,1917-12-17,AB,11,STRATHCONA,5077,"MODE, Allan Thomas",Opposition,105,Opposition,OppConscript,t,3178,f,2
+13,1917-12-17,AB,12,VICTORIA,5078,"WHITE, William Henry",Opposition,105,Opposition,OppConscript,t,3626,f,1
+13,1917-12-17,AB,12,VICTORIA,5079,"HOLDEN, James Bismark",Government,49,Government,Gov,t,3372,f,2
+13,1917-12-17,AB,12,VICTORIA,5080,"LEEDY, John Whitman",Independent,52,Independent,Ind,f,602,f,3
+13,1917-12-17,BC,13,BURRARD,5081,"CROWE, Sanford Johnston",Government,49,Government,Gov,t,12566,f,1
+13,1917-12-17,BC,13,BURRARD,5082,"DONNELLY, Patrick",Opposition,105,Opposition,OppConscript,t,4707,f,2
+13,1917-12-17,BC,13,BURRARD,5083,"MIDGLEY, Victor Rainsford",Labour,65,Labour,Labour,f,1744,f,3
+13,1917-12-17,BC,14,CARIBOO,5084,"FULTON, Frederick John",Government,49,Government,Gov,t,6010,f,1
+13,1917-12-17,BC,14,CARIBOO,5085,"LEIGHTON, Raymond Findlay",Opposition,105,Opposition,OppConscript,t,2804,f,2
+13,1917-12-17,BC,15,COMOX--ALBERNI,5086,"CLEMENTS, Herbert Sylvester",Government,49,Government,Gov,t,3652,f,1
+13,1917-12-17,BC,15,COMOX--ALBERNI,5087,"MCINNES, Wm. Wallace Burns",Opposition,105,Opposition,OppConscript,t,2162,f,2
+13,1917-12-17,BC,16,KOOTENAY EAST,5088,"BONNELL, Saul",Government,49,Government,Gov,t,3398,f,1
+13,1917-12-17,BC,16,KOOTENAY EAST,5089,"BEATTIE, Robert",Opposition,105,Opposition,OppConscript,t,1549,f,2
+13,1917-12-17,BC,16,KOOTENAY EAST,5090,"BIGGS, Thomas",Labour,65,Labour,Labour,f,434,f,3
+13,1917-12-17,BC,17,KOOTENAY WEST,5092,"GREEN, Robert Francis",Government,49,Government,Gov,t,5377,f,1
+13,1917-12-17,BC,17,KOOTENAY WEST,5091,"MAXWELL, Winfield",Opposition,105,Opposition,OppConscript,t,1735,f,2
+13,1917-12-17,BC,17,KOOTENAY WEST,5093,"AUSTIN, Irwin Amory",Labour,65,Labour,Labour,f,1399,f,3
+13,1917-12-17,BC,18,NANAIMO,5095,"MCINTOSH, John Charles",Government,49,Government,Gov,t,9175,f,1
+13,1917-12-17,BC,18,NANAIMO,5094,"STEWART, Hector Allen",Opposition,105,Opposition,OppConscript,t,1976,f,2
+13,1917-12-17,BC,18,NANAIMO,5096,"TAYLOR, Joseph",Labour,65,Labour,Labour,f,1344,f,3
+13,1917-12-17,BC,19,NEW WESTMINSTER,5097,"MCQUARRIE, William Garland",Government,49,Government,Gov,t,7380,f,1
+13,1917-12-17,BC,19,NEW WESTMINSTER,5098,"MCRAE, Duncan Alexander",Opposition,105,Opposition,OppConscript,t,2882,f,2
+13,1917-12-17,BC,20,SKEENA,5099,"PECK, Cyrus Wesley",Government,49,Government,Gov,t,2806,f,1
+13,1917-12-17,BC,20,SKEENA,5100,"STORK, Alfred",Opposition,105,Opposition,OppConscript,t,2111,f,2
+13,1917-12-17,BC,21,VANCOUVER CENTRE,5101,"STEVENS, Henry Herbert",Government,49,Government,Gov,t,13722,f,1
+13,1917-12-17,BC,21,VANCOUVER CENTRE,5102,"MCINNES, William Wallace Burns",Opposition,105,Opposition,OppConscript,t,5543,f,2
+13,1917-12-17,BC,21,VANCOUVER CENTRE,5103,"PRITCHARD, William Arthur",Labour,65,Labour,Labour,f,992,f,3
+13,1917-12-17,BC,22,VANCOUVER SOUTH,5104,"COOPER, Richard Clive",Government,49,Government,Gov,t,6890,f,1
+13,1917-12-17,BC,22,VANCOUVER SOUTH,5105,"MACDONALD, Charles",Opposition,105,Opposition,OppConscript,t,2462,f,2
+13,1917-12-17,BC,22,VANCOUVER SOUTH,5106,"MCVETY, James Hackett",Labour,65,Labour,Labour,f,1176,f,3
+13,1917-12-17,BC,22,VANCOUVER SOUTH,5107,"GOLD, Edward",Unknown,166,Unknown,Unknown,f,50,f,4
+13,1917-12-17,BC,23,VICTORIA CITY,5108,"TOLMIE, Simon Fraser",Government,49,Government,Gov,t,11365,f,1
+13,1917-12-17,BC,23,VICTORIA CITY,5109,"HENDERSON, Stuart",Opposition,105,Opposition,OppConscript,t,2601,f,2
+13,1917-12-17,BC,23,VICTORIA CITY,5110,"WELLS, Albert Samuel",Unknown,166,Unknown,Unknown,f,551,f,3
+13,1917-12-17,BC,24,WESTMINSTER DISTRICT,5111,"STACEY, Frank Bainard",Government,49,Government,Gov,t,4074,f,1
+13,1917-12-17,BC,24,WESTMINSTER DISTRICT,5112,"RAMSEY, Peter Bethavan Hamilton",Opposition,105,Opposition,OppConscript,t,1792,f,2
+13,1917-12-17,BC,25,YALE,5113,"BURRELL, Hon. Martin",Government,49,Government,Gov,t,,t,1
+13,1917-12-17,MB,26,BRANDON,5114,"WHIDDEN, Howard Primrose",Government,49,Government,Gov,t,11465,f,1
+13,1917-12-17,MB,26,BRANDON,5115,"PATERSON, Hugh Savigny",Opposition,105,Opposition,OppConscript,t,1329,f,2
+13,1917-12-17,MB,27,DAUPHIN,5116,"CRUISE, Robert",Government,49,Government,Gov,t,,t,1
+13,1917-12-17,MB,28,LISGAR,5117,"BOLTON, Ferris",Government,49,Government,Gov,t,3834,f,1
+13,1917-12-17,MB,28,LISGAR,5118,"QUINN, Ernest Wesley",Opposition,105,Opposition,OppConscript,t,613,f,2
+13,1917-12-17,MB,29,MACDONALD,5119,"HENDERS, Richard Coe",Government,49,Government,Gov,t,5327,f,1
+13,1917-12-17,MB,29,MACDONALD,5120,"WALSH, William Henry",Opposition,105,Opposition,OppConscript,t,1561,f,2
+13,1917-12-17,MB,30,MARQUETTE,5121,"CRERAR, Hon. Thomas Alexander",Government,49,Government,Gov,t,8672,f,1
+13,1917-12-17,MB,30,MARQUETTE,5122,"HAMILTON, Frederick Charles",Opposition,105,Opposition,OppConscript,t,1152,f,2
+13,1917-12-17,MB,31,NEEPAWA,5123,"DAVIS, Fred Langdon",Government,49,Government,Gov,t,5102,f,1
+13,1917-12-17,MB,31,NEEPAWA,5124,"MCGREGOR, Albert Daniel",Opposition,105,Opposition,OppConscript,t,2046,f,2
+13,1917-12-17,MB,32,NELSON,5125,"CAMPBELL, John Archibald",Government,49,Government,Gov,t,,t,1
+13,1917-12-17,MB,33,PORTAGE LA PRAIRIE,5126,"MEIGHEN, Hon. Arthur",Government,49,Government,Gov,t,4611,f,1
+13,1917-12-17,MB,33,PORTAGE LA PRAIRIE,5127,"SHIRTLIFF, Frederick",Opposition,105,Opposition,OppConscript,t,976,f,2
+13,1917-12-17,MB,34,PROVENCHER,5128,"MALLOY, John Patrick",Opposition,105,Opposition,OppConscript,t,2035,f,1
+13,1917-12-17,MB,34,PROVENCHER,5129,"JOHNS, John Robert",Government,49,Government,Gov,t,1850,f,2
+13,1917-12-17,MB,35,SELKIRK,5130,"HAY, Thomas",Government,49,Government,Gov,t,5860,f,1
+13,1917-12-17,MB,35,SELKIRK,5131,"ADAMSON, John Evans",Opposition,105,Opposition,OppConscript,t,3045,f,2
+13,1917-12-17,MB,36,SOURIS,5132,"FINLEY, Albert Ernest",Government,49,Government,Gov,t,,t,1
+13,1917-12-17,MB,37,SPRINGFIELD,5133,"RICHARDSON, Robert Lorne",Government,49,Government,Gov,t,5870,f,1
+13,1917-12-17,MB,37,SPRINGFIELD,5134,"CHARETTE, Guillaume Joseph",Opposition,105,Opposition,OppConscript,t,3781,f,2
+13,1917-12-17,MB,38,WINNIPEG CENTRE,5135,"ANDREW, George William",Government,49,Government,Gov,t,25580,f,1
+13,1917-12-17,MB,38,WINNIPEG CENTRE,5136,"WARD, Robert Sinclair",Opposition,105,Opposition,OppConscript,t,4650,f,2
+13,1917-12-17,MB,39,WINNIPEG NORTH,5137,"BLAKE, Matthew Robert",Government,49,Government,Gov,t,9656,f,1
+13,1917-12-17,MB,39,WINNIPEG NORTH,5138,"RIGG, Richard Arthur",Opposition,105,Opposition,OppConscript,t,3472,f,2
+13,1917-12-17,MB,40,WINNIPEG SOUTH,5139,"ALLAN, George William",Government,49,Government,Gov,t,19031,f,1
+13,1917-12-17,MB,40,WINNIPEG SOUTH,5140,"MACMILLAN, Neil Thomas",Opposition,105,Opposition,OppConscript,t,2516,f,2
+13,1917-12-17,NB,41,CHARLOTTE,5142,"HARTT, Thomas Aaron",Government,49,Government,Gov,t,3248,f,1
+13,1917-12-17,NB,41,CHARLOTTE,5141,"TODD, William Frederick",Opposition,105,Opposition,OppConscript,t,2631,f,2
+13,1917-12-17,NB,42,GLOUCESTER,5143,"TURGEON, Onésiphore",Opposition,105,Opposition,OppConscript,t,,t,1
+13,1917-12-17,NB,43,KENT,5144,"LÉGER, Auguste Théophile",Opposition,105,Opposition,OppConscript,t,3563,f,1
+13,1917-12-17,NB,43,KENT,5145,"ROBIDOUX, Ferdinand Joseph",Government,49,Government,Gov,t,1323,f,2
+13,1917-12-17,NB,44,NORTHUMBERLAND,5146,"LOGGIE, William Stewart",Government,49,Government,Gov,t,4648,f,1
+13,1917-12-17,NB,44,NORTHUMBERLAND,5147,"MORRISSY, John",Opposition,105,Opposition,OppConscript,t,3601,f,2
+13,1917-12-17,NB,45,RESTIGOUCHE--MADAWASKA,5148,"MICHAUD, Pius",Opposition,105,Opposition,OppConscript,t,5077,f,1
+13,1917-12-17,NB,45,RESTIGOUCHE--MADAWASKA,5149,"STEWART, David Alexander",Government,49,Government,Gov,t,2271,f,2
+13,1917-12-17,NB,46,ROYAL,5150,"MCLEAN, Hugh Havelock",Government,49,Government,Gov,t,5959,f,1
+13,1917-12-17,NB,46,ROYAL,5151,"SHARP, Fred Ernest",Opposition,105,Opposition,OppConscript,t,2834,f,2
+13,1917-12-17,NB,47,ST. JOHN--ALBERT-1,5153,"WIGMORE, Hon. Rupert Wilson",Government,49,Government,Gov,t,13611,f,1
+13,1917-12-17,NB,47,ST. JOHN--ALBERT-1,5152,"EMERY, Alban Frederick",Opposition,105,Opposition,OppConscript,t,5530,f,2
+13,1917-12-17,NB,48,ST. JOHN--ALBERT-2,5155,"ELKIN, Stanley Edward",Government,49,Government,Gov,t,13594,f,1
+13,1917-12-17,NB,48,ST. JOHN--ALBERT-2,5154,"BRODERICK, William Patrick",Opposition,105,Opposition,OppConscript,t,5694,f,2
+13,1917-12-17,NB,49,VICTORIA--CARLETON,5156,"CARVELL, Hon. Frank Broadstreet",Government,49,Government,Gov,t,,t,1
+13,1917-12-17,NB,50,WESTMORLAND,5157,"COPP, Arthur Bliss",Opposition,105,Opposition,OppConscript,t,6645,f,1
+13,1917-12-17,NB,50,WESTMORLAND,5158,"PRICE, Otto Baird",Government,49,Government,Gov,t,4982,f,2
+13,1917-12-17,NB,51,YORK--SUNBURY,5159,"MCLEOD, Harry Fulton",Government,49,Government,Gov,t,6957,f,1
+13,1917-12-17,NB,51,YORK--SUNBURY,5160,"BROWN, Nelson Wentworth",Opposition,105,Opposition,OppConscript,t,3093,f,2
+13,1917-12-17,NS,52,ANTIGONISH--GUYSBOROUGH,5161,"SINCLAIR, John Howard",Opposition,105,Opposition,OppConscript,t,3944,f,1
+13,1917-12-17,NS,52,ANTIGONISH--GUYSBOROUGH,5162,"WELLS, William Alexander",Government,49,Government,Gov,t,2506,f,2
+13,1917-12-17,NS,53,CAPE BRETON SOUTH AND RICHMOND-1,5164,"BUTTS, Robert Hamilton",Government,49,Government,Gov,t,7645,f,1
+13,1917-12-17,NS,53,CAPE BRETON SOUTH AND RICHMOND-1,5163,"CARROLL, William F.",Opposition,105,Opposition,OppConscript,t,6690,f,2
+13,1917-12-17,NS,53,CAPE BRETON SOUTH AND RICHMOND-1,5165,"GILLIES, John Angus",Labour,65,Labour,Labour,f,3615,f,3
+13,1917-12-17,NS,54,CAPE BRETON SOUTH AND RICHMOND-2,5167,"DOUGLAS, John Carey",Government,49,Government,Gov,t,8073,f,1
+13,1917-12-17,NS,54,CAPE BRETON SOUTH AND RICHMOND-2,5168,"KYTE, George William",Opposition,105,Opposition,OppConscript,t,6738,f,2
+13,1917-12-17,NS,54,CAPE BRETON SOUTH AND RICHMOND-2,5166,"BAXTER, Robert",Labour,65,Labour,Labour,f,3667,f,3
+13,1917-12-17,NS,55,COLCHESTER,5169,"MCCURDY, Fleming Blanchard",Government,49,Government,Gov,t,,t,1
+13,1917-12-17,NS,56,CUMBERLAND,5170,"RHODES, Hon. Edgar Nelson",Government,49,Government,Gov,t,6655,f,1
+13,1917-12-17,NS,56,CUMBERLAND,5171,"LOGAN, Hance James",Opposition,105,Opposition,OppConscript,t,5459,f,2
+13,1917-12-17,NS,57,DIGBY AND ANNAPOLIS,5172,"DAVIDSON, Avard Longley",Government,49,Government,Gov,t,4596,f,1
+13,1917-12-17,NS,57,DIGBY AND ANNAPOLIS,5173,"LOVETT, Lewis Johnstone",Opposition,105,Opposition,OppConscript,t,3777,f,2
+13,1917-12-17,NS,58,HALIFAX-1,5174,"MACLEAN, Alexander Kenneth",Government,49,Government,Gov,t,,t,1
+13,1917-12-17,NS,59,HALIFAX-2,5175,"MARTIN, Peter Francis",Government,49,Government,Gov,t,,t,1
+13,1917-12-17,NS,60,HANTS,5176,"TREMAIN, Hadley Brown",Government,49,Government,Gov,t,2989,f,1
+13,1917-12-17,NS,60,HANTS,5177,"MARTELL, Lewis Herbert",Opposition,105,Opposition,OppConscript,t,2696,f,2
+13,1917-12-17,NS,61,INVERNESS,5178,"CHISHOLM, Alexander William",Opposition,105,Opposition,OppConscript,t,3544,f,1
+13,1917-12-17,NS,61,INVERNESS,5179,"GALLANT, Thomas",Government,49,Government,Gov,t,2258,f,2
+13,1917-12-17,NS,62,KINGS,5180,"BORDEN, Right Hon. Sir Robert",Government,49,Government,Gov,t,3941,f,1
+13,1917-12-17,NS,62,KINGS,5181,"SEALY, James",Opposition,105,Opposition,OppConscript,t,2524,f,2
+13,1917-12-17,NS,63,LUNENBURG,5182,"DUFF, William",Opposition,105,Opposition,OppConscript,t,4699,f,1
+13,1917-12-17,NS,63,LUNENBURG,5183,"MARGESON, Joseph Willis",Government,49,Government,Gov,t,3861,f,2
+13,1917-12-17,NS,64,NORTH CAPE BRETON AND VICTORIA,5184,"MCKENZIE, Daniel Duncan",Opposition,105,Opposition,OppConscript,t,4477,f,1
+13,1917-12-17,NS,64,NORTH CAPE BRETON AND VICTORIA,5185,"MCCORMICK, John",Government,49,Government,Gov,t,3649,f,2
+13,1917-12-17,NS,65,PICTOU,5186,"MCGREGOR, Alexander",Government,49,Government,Gov,t,6800,f,1
+13,1917-12-17,NS,65,PICTOU,5187,"MACKAY, Robert Hugh",Opposition,105,Opposition,OppConscript,t,6043,f,2
+13,1917-12-17,NS,66,SHELBURNE AND QUEEN'S,5188,"FIELDING, Hon. William Stevens",Government,49,Government,Gov,t,,t,1
+13,1917-12-17,NS,67,YARMOUTH AND CLARE,5189,"SPINNEY, Edgar Keith",Government,49,Government,Gov,t,4463,f,1
+13,1917-12-17,NS,67,YARMOUTH AND CLARE,5190,"COMEAU, Joseph Willie",Opposition,105,Opposition,OppConscript,t,3447,f,2
+13,1917-12-17,ON,68,ALGOMA EAST,5192,"NICHOLSON, George Brecken",Government,49,Government,Gov,t,4742,f,1
+13,1917-12-17,ON,68,ALGOMA EAST,5191,"O'CONNOR, Lawrence",Opposition,105,Opposition,OppConscript,t,3596,f,2
+13,1917-12-17,ON,69,ALGOMA WEST,5194,"SIMPSON, Thomas Edward",Government,49,Government,Gov,t,4780,f,1
+13,1917-12-17,ON,69,ALGOMA WEST,5193,"SMITH, Charles Napier",Opposition,105,Opposition,OppConscript,t,2510,f,2
+13,1917-12-17,ON,69,ALGOMA WEST,5195,"LOCKWOOD, James",Labour,65,Labour,Labour,f,658,f,3
+13,1917-12-17,ON,70,BRANT,5196,"HAROLD, John",Government,49,Government,Gov,t,2106,f,1
+13,1917-12-17,ON,70,BRANT,5197,"COCKSHUTT, Henry",Independent,52,Independent,Ind,f,2023,f,2
+13,1917-12-17,ON,70,BRANT,5198,"DORAN, Blackwell Lawrence",Opposition,105,Opposition,OppConscript,t,1299,f,3
+13,1917-12-17,ON,71,BRANTFORD,5199,"COCKSHUTT, William F.",Government,49,Government,Gov,t,5925,f,1
+13,1917-12-17,ON,71,BRANTFORD,5200,"BOWLBY, John Wedgewood",Opposition,105,Opposition,OppConscript,t,2233,f,2
+13,1917-12-17,ON,71,BRANTFORD,5201,"MACBRIDE, Morrisson Mann",Labour,65,Labour,Labour,f,1726,f,3
+13,1917-12-17,ON,72,BRUCE NORTH,5202,"CLARK, Hugh",Government,49,Government,Gov,t,4269,f,1
+13,1917-12-17,ON,72,BRUCE NORTH,5203,"MACAULAY, John",Opposition,105,Opposition,OppConscript,t,2579,f,2
+13,1917-12-17,ON,73,BRUCE SOUTH,5204,"TRUAX, Reuben Eldridge",Opposition,105,Opposition,OppConscript,t,3628,f,1
+13,1917-12-17,ON,73,BRUCE SOUTH,5205,"MCNAB, Alexander Eugene",Government,49,Government,Gov,t,3456,f,2
+13,1917-12-17,ON,74,CARLETON,5206,"BOYCE, George",Government,49,Government,Gov,t,5290,f,1
+13,1917-12-17,ON,74,CARLETON,5207,"HONEYWELL, Frederick Henry",Opposition,105,Opposition,OppConscript,t,2669,f,2
+13,1917-12-17,ON,75,DUFFERIN,5208,"BEST, John",Government,49,Government,Gov,t,3797,f,1
+13,1917-12-17,ON,75,DUFFERIN,5209,"DRYDEN, Thomas Charlo",Opposition,105,Opposition,OppConscript,t,806,f,2
+13,1917-12-17,ON,76,DUNDAS,5210,"CASSELMAN, Orren D.",Government,49,Government,Gov,t,4236,f,1
+13,1917-12-17,ON,76,DUNDAS,5211,"MACINTYRE, Alexander W.",Opposition,105,Opposition,OppConscript,t,2806,f,2
+13,1917-12-17,ON,77,DURHAM,5212,"ROWELL, Hon. Newton Wesley",Government,49,Government,Gov,t,5923,f,1
+13,1917-12-17,ON,77,DURHAM,5213,"JONES, George William",Opposition,105,Opposition,OppConscript,t,1404,f,2
+13,1917-12-17,ON,78,ELGIN EAST,5214,"MARSHALL, David",Government,49,Government,Gov,t,2591,f,1
+13,1917-12-17,ON,78,ELGIN EAST,5215,"CHARLTON, William Granville",Opposition,105,Opposition,OppConscript,t,2283,f,2
+13,1917-12-17,ON,79,ELGIN WEST,5216,"CROTHERS, Hon. Thomas Wilson",Government,49,Government,Gov,t,5173,f,1
+13,1917-12-17,ON,79,ELGIN WEST,5217,"TOLMIE, William",Opposition,105,Opposition,OppConscript,t,3526,f,2
+13,1917-12-17,ON,80,ESSEX NORTH,5218,"KENNEDY, William Costello",Opposition,105,Opposition,OppConscript,t,7164,f,1
+13,1917-12-17,ON,80,ESSEX NORTH,5219,"WIGLE, Ernest S.",Government,49,Government,Gov,t,6718,f,2
+13,1917-12-17,ON,81,ESSEX SOUTH,5220,"BRIEN, John Wesley",Government,49,Government,Gov,t,3645,f,1
+13,1917-12-17,ON,81,ESSEX SOUTH,5221,"ATKIN, Robert",Opposition,105,Opposition,OppConscript,t,3476,f,2
+13,1917-12-17,ON,82,FORT WILLIAM AND RAINY RIVER,5222,"MANION, Robert James",Government,49,Government,Gov,t,5943,f,1
+13,1917-12-17,ON,82,FORT WILLIAM AND RAINY RIVER,5223,"DENNIS, Albert Hugh",Opposition-Labour,106,Opposition-Labour,OppConscriptL,f,2560,f,2
+13,1917-12-17,ON,83,FRONTENAC,5224,"EDWARDS, John Wesley",Government,49,Government,Gov,t,3641,f,1
+13,1917-12-17,ON,83,FRONTENAC,5225,"HALLIDAY, James",Opposition,105,Opposition,OppConscript,t,1658,f,2
+13,1917-12-17,ON,84,GLENGARRY AND STORMONT,5226,"MCMARTIN, John",Government,49,Government,Gov,t,,t,1
+13,1917-12-17,ON,85,GRENVILLE,5227,"REID, Hon. John Dowsley",Government,49,Government,Gov,t,3011,f,1
+13,1917-12-17,ON,85,GRENVILLE,5228,"MACKINTOSH, Pember Alton",Opposition,105,Opposition,OppConscript,t,1734,f,2
+13,1917-12-17,ON,86,GREY NORTH,5229,"MIDDLEBRO, William Sora",Government,49,Government,Gov,t,5815,f,1
+13,1917-12-17,ON,86,GREY NORTH,5230,"DANARD, Arthur Leslie",Opposition,105,Opposition,OppConscript,t,3521,f,2
+13,1917-12-17,ON,87,GREY SOUTHEAST,5231,"BALL, Robert James",Government,49,Government,Gov,t,4845,f,1
+13,1917-12-17,ON,87,GREY SOUTHEAST,5232,"WRIGHT, William Henry",Opposition,105,Opposition,OppConscript,t,3609,f,2
+13,1917-12-17,ON,88,HALDIMAND,5233,"LALOR, Francis Ramsey",Government,49,Government,Gov,t,3696,f,1
+13,1917-12-17,ON,88,HALDIMAND,5234,"PARSONS, John James",Opposition,105,Opposition,OppConscript,t,2480,f,2
+13,1917-12-17,ON,89,HALTON,5235,"ANDERSON, Robert King",Government,49,Government,Gov,t,4802,f,1
+13,1917-12-17,ON,89,HALTON,5236,"GREGORY, Walter Dymond",Opposition,105,Opposition,OppConscript,t,2032,f,2
+13,1917-12-17,ON,90,HAMILTON EAST,5238,"HALCROW, George Grant",Opposition-Labour,106,Opposition-Labour,OppConscriptL,f,,,1
+13,1917-12-17,ON,90,HAMILTON EAST,5237,"MEWBURN, Hon. Sydney Chilton",Government,49,Government,Gov,t,11340,f,2
+13,1917-12-17,ON,91,HAMILTON WEST,5239,"STEWART, Thomas Joseph",Government,49,Government,Gov,t,6451,f,1
+13,1917-12-17,ON,91,HAMILTON WEST,5240,"ROLLO, Walter Ritchie",Labour,65,Labour,Labour,f,3678,f,2
+13,1917-12-17,ON,91,HAMILTON WEST,5241,"MCLAREN, John Inglis",Opposition,105,Opposition,OppConscript,t,2610,f,3
+13,1917-12-17,ON,92,HASTINGS EAST,5242,"THOMPSON, Thomas Henry",Government,49,Government,Gov,t,4202,f,1
+13,1917-12-17,ON,92,HASTINGS EAST,5243,"CROSS, William",Opposition,105,Opposition,OppConscript,t,1909,f,2
+13,1917-12-17,ON,93,HASTINGS WEST,5244,"PORTER, Edward Guss",Government,49,Government,Gov,t,5710,f,1
+13,1917-12-17,ON,93,HASTINGS WEST,5245,"GRAHAM, Robert James",Opposition,105,Opposition,OppConscript,t,4085,f,2
+13,1917-12-17,ON,94,HURON NORTH,5246,"BOWMAN, James",Government,49,Government,Gov,t,4799,f,1
+13,1917-12-17,ON,94,HURON NORTH,5247,"HISLOP, Archibald",Opposition,105,Opposition,OppConscript,t,2770,f,2
+13,1917-12-17,ON,95,HURON SOUTH,5248,"MERNER, Jonathan Joseph",Government,49,Government,Gov,t,3932,f,1
+13,1917-12-17,ON,95,HURON SOUTH,5249,"MCMILLAN, Thomas",Opposition,105,Opposition,OppConscript,t,3389,f,2
+13,1917-12-17,ON,96,KENT,5250,"MCCOIG, Archibald Blake",Opposition,105,Opposition,OppConscript,t,7402,f,1
+13,1917-12-17,ON,96,KENT,5251,"PLEWES, John Warcup",Independent Liberal,58,Independent Liberal,IndLib,f,6313,f,2
+13,1917-12-17,ON,97,KINGSTON,5252,"NICKLE, William Folger",Government,49,Government,Gov,t,6194,f,1
+13,1917-12-17,ON,97,KINGSTON,5253,"RICHARDSON, Alexander White",Opposition,105,Opposition,OppConscript,t,1782,f,2
+13,1917-12-17,ON,98,LAMBTON EAST,5254,"ARMSTRONG, Joseph Emanuel",Government,49,Government,Gov,t,4239,f,1
+13,1917-12-17,ON,98,LAMBTON EAST,5255,"MCDOUGALL, Neil",Opposition,105,Opposition,OppConscript,t,3255,f,2
+13,1917-12-17,ON,99,LAMBTON WEST,5256,"PARDEE, Frederick Forsyth",Government,49,Government,Gov,t,5691,f,1
+13,1917-12-17,ON,99,LAMBTON WEST,5257,"MERRISON, James Graham",Opposition,105,Opposition,OppConscript,t,2842,f,2
+13,1917-12-17,ON,100,LANARK,5258,"HANNA, Adelbert Edward",Government,49,Government,Gov,t,5816,f,1
+13,1917-12-17,ON,100,LANARK,5259,"CALDWELL, Boyd Alexander Conyn",Opposition,105,Opposition,OppConscript,t,2609,f,2
+13,1917-12-17,ON,100,LANARK,5260,"BURGESS, George Arthur",Unknown,166,Unknown,Unknown,f,661,f,3
+13,1917-12-17,ON,101,LEEDS,5261,"WHITE, Hon. Sir William Tho",Government,49,Government,Gov,t,7236,f,1
+13,1917-12-17,ON,101,LEEDS,5262,"HARDY, Arthur Charles",Opposition,105,Opposition,OppConscript,t,4069,f,2
+13,1917-12-17,ON,102,LENNOX AND ADDINGTON,5263,"PAUL, William James",Government,49,Government,Gov,t,3477,f,1
+13,1917-12-17,ON,102,LENNOX AND ADDINGTON,5264,"GRANGE, Edward Wilkinson",Opposition,105,Opposition,OppConscript,t,1895,f,2
+13,1917-12-17,ON,103,LINCOLN,5265,"CHAPLIN, James Dew",Government,49,Government,Gov,t,9335,f,1
+13,1917-12-17,ON,103,LINCOLN,5266,"LOVELACE, Edwin John",Opposition,105,Opposition,OppConscript,t,3816,f,2
+13,1917-12-17,ON,104,LONDON,5267,"CRONYN, Hume",Government,49,Government,Gov,t,11136,f,1
+13,1917-12-17,ON,104,LONDON,5268,"GIBBONS, George Sutton",Opposition,105,Opposition,OppConscript,t,6783,f,2
+13,1917-12-17,ON,105,MIDDLESEX EAST,5270,"GLASS, Samuel Francis",Government,49,Government,Gov,t,4212,f,1
+13,1917-12-17,ON,105,MIDDLESEX EAST,5269,"ROSS, James McCulloch",Opposition,105,Opposition,OppConscript,t,2755,f,2
+13,1917-12-17,ON,106,MIDDLESEX WEST,5271,"ROSS, Duncan Campbell",Opposition,105,Opposition,OppConscript,t,3930,f,1
+13,1917-12-17,ON,106,MIDDLESEX WEST,5272,"ELLIOT, George Adam",Government,49,Government,Gov,t,3531,f,2
+13,1917-12-17,ON,107,MUSKOKA,5273,"MCGIBBON, Peter",Government,49,Government,Gov,t,3457,f,1
+13,1917-12-17,ON,107,MUSKOKA,5274,"THOMAS, George Henry Oakwood",Opposition,105,Opposition,OppConscript,t,1878,f,2
+13,1917-12-17,ON,108,NIPISSING,5275,"HARRISON, Charles Robert",Government,49,Government,Gov,t,6411,f,1
+13,1917-12-17,ON,108,NIPISSING,5276,"LAPIERRE, Edmond Anthony",Opposition,105,Opposition,OppConscript,t,6367,f,2
+13,1917-12-17,ON,109,NORFOLK,5277,"CHARLTON, William Andrew",Government,49,Government,Gov,t,4544,f,1
+13,1917-12-17,ON,109,NORFOLK,5278,"WALLACE, John Alexander",Opposition,105,Opposition,OppConscript,t,3258,f,2
+13,1917-12-17,ON,110,NORTHUMBERLAND,5280,"MUNSON, Charles Arthur",Government,49,Government,Gov,t,6313,f,1
+13,1917-12-17,ON,110,NORTHUMBERLAND,5279,"DUDLEY, Samuel Drayton",Opposition,105,Opposition,OppConscript,t,2916,f,2
+13,1917-12-17,ON,111,ONTARIO NORTH,5281,"SHARPE, Samuel Simpson",Government,49,Government,Gov,t,3123,f,1
+13,1917-12-17,ON,111,ONTARIO NORTH,5282,"HOGG, Frederick",Opposition,105,Opposition,OppConscript,t,1568,f,2
+13,1917-12-17,ON,112,ONTARIO SOUTH,5283,"SMITH, William",Government,49,Government,Gov,t,5205,f,1
+13,1917-12-17,ON,112,ONTARIO SOUTH,5284,"SINCLAIR, William Edmund Newto",Opposition,105,Opposition,OppConscript,t,2682,f,2
+13,1917-12-17,ON,113,OTTAWA (CITY OF)-1,5285,"CHABOT, John Leo",Government,49,Government,Gov,t,18312,f,1
+13,1917-12-17,ON,113,OTTAWA (CITY OF)-1,5286,"MCGIVERIN, Harold B.",Opposition,105,Opposition,OppConscript,t,13077,f,2
+13,1917-12-17,ON,114,OTTAWA (CITY OF)-2,5288,"FRIPP, Alfred Ernest",Government,49,Government,Gov,t,18547,f,1
+13,1917-12-17,ON,114,OTTAWA (CITY OF)-2,5287,"LAURIER, Rt. Hon. Sir Wilfrid",Opposition,105,Opposition,OppConscript,t,13289,f,2
+13,1917-12-17,ON,115,OXFORD NORTH,5290,"NESBITT, Edward Walter",Government,49,Government,Gov,t,3836,f,1
+13,1917-12-17,ON,115,OXFORD NORTH,5289,"SUTHERLAND, Donald Matheson",Opposition,105,Opposition,OppConscript,t,3074,f,2
+13,1917-12-17,ON,116,OXFORD SOUTH,5291,"SUTHERLAND, Donald",Government,49,Government,Gov,t,4124,f,1
+13,1917-12-17,ON,116,OXFORD SOUTH,5292,"SCHELL, Malcolm Smith",Opposition,105,Opposition,OppConscript,t,2812,f,2
+13,1917-12-17,ON,117,PARKDALE,5294,"MOWAT, Herbert Macdonald",Government,49,Government,Gov,t,13306,f,1
+13,1917-12-17,ON,117,PARKDALE,5293,"MCCORMACK, Carson Alexander Viv",Independent,52,Independent,Ind,f,7736,f,2
+13,1917-12-17,ON,117,PARKDALE,5295,"WALDRON, Gordon",Opposition,105,Opposition,OppConscript,t,3698,f,3
+13,1917-12-17,ON,118,PARRY SOUND,5296,"ARTHURS, James",Government,49,Government,Gov,t,5182,f,1
+13,1917-12-17,ON,118,PARRY SOUND,5297,"HOCKEN, Norman Cecil",Opposition,105,Opposition,OppConscript,t,2043,f,2
+13,1917-12-17,ON,119,PEEL,5298,"CHARTERS, Samuel",Government,49,Government,Gov,t,4751,f,1
+13,1917-12-17,ON,119,PEEL,5299,"PETCH, Benjamin",Opposition,105,Opposition,OppConscript,t,2499,f,2
+13,1917-12-17,ON,120,PERTH NORTH,5300,"MORPHY, Hugh Boulton",Government,49,Government,Gov,t,5977,f,1
+13,1917-12-17,ON,120,PERTH NORTH,5301,"RANKIN, James Palmer",Opposition,105,Opposition,OppConscript,t,4109,f,2
+13,1917-12-17,ON,121,PERTH SOUTH,5302,"STEELE, Michael",Government,49,Government,Gov,t,2770,f,1
+13,1917-12-17,ON,121,PERTH SOUTH,5303,"FORRESTER, William",Opposition,105,Opposition,OppConscript,t,2713,f,2
+13,1917-12-17,ON,122,PETERBOROUGH EAST,5304,"SEXSMITH, John Albert",Government,49,Government,Gov,t,2555,f,1
+13,1917-12-17,ON,122,PETERBOROUGH EAST,5305,"JOHNSTON, William H.",Opposition,105,Opposition,OppConscript,t,1389,f,2
+13,1917-12-17,ON,123,PETERBOROUGH WEST,5306,"BURNHAM, John Hampden",Government,49,Government,Gov,t,6382,f,1
+13,1917-12-17,ON,123,PETERBOROUGH WEST,5307,"HALL, Robert Richard",Opposition,105,Opposition,OppConscript,t,2964,f,2
+13,1917-12-17,ON,124,PORT ARTHUR AND KENORA,5308,"KEEFER, Francis Henry",Government,49,Government,Gov,t,5990,f,1
+13,1917-12-17,ON,124,PORT ARTHUR AND KENORA,5309,"DUNBAR, James Asher",Opposition,105,Opposition,OppConscript,t,2476,f,2
+13,1917-12-17,ON,125,PRESCOTT,5310,"PROULX, Edmond",Opposition,105,Opposition,OppConscript,t,3743,f,1
+13,1917-12-17,ON,125,PRESCOTT,5311,"METCALFE, Andrew Richard",Government,49,Government,Gov,t,1439,f,2
+13,1917-12-17,ON,126,PRINCE EDWARD,5312,"HEPBURN, William Bernard Rickart",Government,49,Government,Gov,t,3231,f,1
+13,1917-12-17,ON,126,PRINCE EDWARD,5313,"HORSEY, Herbert",Opposition,105,Opposition,OppConscript,t,1755,f,2
+13,1917-12-17,ON,127,RENFREW NORTH,5314,"MACKIE, Herbert John",Government,49,Government,Gov,t,3397,f,1
+13,1917-12-17,ON,127,RENFREW NORTH,5315,"REID, Norman",Opposition,105,Opposition,OppConscript,t,2873,f,2
+13,1917-12-17,ON,128,RENFREW SOUTH,5316,"PEDLOW, Isaac Ellis",Opposition,105,Opposition,OppConscript,t,3245,f,1
+13,1917-12-17,ON,128,RENFREW SOUTH,5317,"MARTIN, Lawrence Thomas",Government,49,Government,Gov,t,3182,f,2
+13,1917-12-17,ON,129,RUSSELL,5318,"MURPHY, Hon. Charles",Opposition,105,Opposition,OppConscript,t,5895,f,1
+13,1917-12-17,ON,129,RUSSELL,5319,"MERKLEY, Duncan Cameron",Government,49,Government,Gov,t,3768,f,2
+13,1917-12-17,ON,130,SIMCOE EAST,5320,"TUDHOPE, James Brockett",Government,49,Government,Gov,t,6669,f,1
+13,1917-12-17,ON,130,SIMCOE EAST,5321,"CHEW, Manley",Opposition,105,Opposition,OppConscript,t,3076,f,2
+13,1917-12-17,ON,131,SIMCOE NORTH,5322,"CURRIE, John Alister",Government,49,Government,Gov,t,4240,f,1
+13,1917-12-17,ON,131,SIMCOE NORTH,5323,"DRURY, Ernest Charles",Opposition,105,Opposition,OppConscript,t,2293,f,2
+13,1917-12-17,ON,132,SIMCOE SOUTH,5324,"BOYS, William Alves",Government,49,Government,Gov,t,5771,f,1
+13,1917-12-17,ON,132,SIMCOE SOUTH,5325,"MITCHELL, John Henry",Opposition,105,Opposition,OppConscript,t,1157,f,2
+13,1917-12-17,ON,133,TIMISKAMING,5326,"COCHRANE, Hon. Francis",Government,49,Government,Gov,t,7025,f,1
+13,1917-12-17,ON,133,TIMISKAMING,5327,"ROEBUCK, Arthur Wentworth",Opposition,105,Opposition,OppConscript,t,4868,f,2
+13,1917-12-17,ON,134,TORONTO CENTRE,5328,"BRISTOL, Edmund",Government,49,Government,Gov,t,12051,f,1
+13,1917-12-17,ON,134,TORONTO CENTRE,5329,"RAMSDEN, Joseph George",Opposition,105,Opposition,OppConscript,t,3918,f,2
+13,1917-12-17,ON,134,TORONTO CENTRE,5330,"DRAIMIN, Archie",Unknown,166,Unknown,Unknown,f,217,f,3
+13,1917-12-17,ON,135,TORONTO EAST,5331,"KEMP, Hon. Sir Albert Edward",Government,49,Government,Gov,t,15894,f,1
+13,1917-12-17,ON,135,TORONTO EAST,5332,"VICK, John Tristam",Opposition,105,Opposition,OppConscript,t,4399,f,2
+13,1917-12-17,ON,136,TORONTO NORTH,5333,"FOSTER, Rt. Hon. Sir George",Government,49,Government,Gov,t,21130,f,1
+13,1917-12-17,ON,136,TORONTO NORTH,5334,"YOUNG, Alfred James",Opposition-Labour,106,Opposition-Labour,OppConscriptL,f,2893,f,2
+13,1917-12-17,ON,137,TORONTO SOUTH,5335,"SHEARD, Charles",Government,49,Government,Gov,t,7469,f,1
+13,1917-12-17,ON,137,TORONTO SOUTH,5336,"CAREY, David Arthur",Opposition-Labour,106,Opposition-Labour,OppConscriptL,f,2365,f,2
+13,1917-12-17,ON,138,TORONTO WEST,5337,"HOCKEN, Horatio Clarence",Government,49,Government,Gov,t,12648,f,1
+13,1917-12-17,ON,138,TORONTO WEST,5338,"KERR, Charles Wesley",Opposition,105,Opposition,OppConscript,t,3030,f,2
+13,1917-12-17,ON,138,TORONTO WEST,5339,"BRUCE, John William",Labour,65,Labour,Labour,f,2053,f,3
+13,1917-12-17,ON,139,VICTORIA,5341,"HUGHES, Hon. Sir Sam",Government,49,Government,Gov,t,6338,f,1
+13,1917-12-17,ON,139,VICTORIA,5340,"ISAAC, George Dunkley",Opposition,105,Opposition,OppConscript,t,3079,f,2
+13,1917-12-17,ON,140,WATERLOO NORTH,5342,"EULER, William Daum",Opposition,105,Opposition,OppConscript,t,5435,f,1
+13,1917-12-17,ON,140,WATERLOO NORTH,5344,"WEICHEL, William George",Government,49,Government,Gov,t,3571,f,2
+13,1917-12-17,ON,140,WATERLOO NORTH,5343,"SMITH, Mervyn",Labour,65,Labour,Labour,f,220,f,3
+13,1917-12-17,ON,141,WATERLOO SOUTH,5346,"SCOTT, Frank Stewart",Government,49,Government,Gov,t,5681,f,1
+13,1917-12-17,ON,141,WATERLOO SOUTH,5345,"THOMSON, Adam",Opposition,105,Opposition,OppConscript,t,2894,f,2
+13,1917-12-17,ON,141,WATERLOO SOUTH,5347,"HALL, Thomas",Labour,65,Labour,Labour,f,1396,f,3
+13,1917-12-17,ON,142,WELLAND,5348,"FRASER, Evan Eugene",Government,49,Government,Gov,t,5378,f,1
+13,1917-12-17,ON,142,WELLAND,5349,"GERMAN, William Manly",Opposition,105,Opposition,OppConscript,t,4616,f,2
+13,1917-12-17,ON,142,WELLAND,5350,"HUGHES, James Arthur",Labour,65,Labour,Labour,f,1704,f,3
+13,1917-12-17,ON,143,WELLINGTON NORTH,5352,"CLARKE, William Aurelius",Government,49,Government,Gov,t,3492,f,1
+13,1917-12-17,ON,143,WELLINGTON NORTH,5351,"MCEWING, James",Opposition,105,Opposition,OppConscript,t,1998,f,2
+13,1917-12-17,ON,144,WELLINGTON SOUTH,5353,"GUTHRIE, Hon. Hugh",Government,49,Government,Gov,t,7358,f,1
+13,1917-12-17,ON,144,WELLINGTON SOUTH,5354,"CUNNINGHAM, Lorne",Opposition-Labour,106,Opposition-Labour,OppConscriptL,f,2139,f,2
+13,1917-12-17,ON,145,WENTWORTH,5355,"WILSON, Gordon Crooks",Government,49,Government,Gov,t,9070,f,1
+13,1917-12-17,ON,145,WENTWORTH,5356,"DICKENSON, John Herbert",Opposition,105,Opposition,OppConscript,t,3387,f,2
+13,1917-12-17,ON,145,WENTWORTH,5357,"FLATMAN, Frederick James",Labour,65,Labour,Labour,f,1507,f,3
+13,1917-12-17,ON,146,YORK EAST,5358,"FOSTER, Thomas",Government,49,Government,Gov,t,9736,f,1
+13,1917-12-17,ON,146,YORK EAST,5359,"COCKBURN, Ross Collier",Opposition,105,Opposition,OppConscript,t,5758,f,2
+13,1917-12-17,ON,146,YORK EAST,5360,"BALLANTYNE, James Hamilton",Labour,65,Labour,Labour,f,3338,f,3
+13,1917-12-17,ON,147,YORK NORTH,5361,"ARMSTRONG, John Alexander Macdonald",Government,49,Government,Gov,t,3948,f,1
+13,1917-12-17,ON,147,YORK NORTH,5362,"KING, Hon. William Lyon Mackenzie",Opposition,105,Opposition,OppConscript,t,2870,f,2
+13,1917-12-17,ON,148,YORK SOUTH,5364,"MACLEAN, William Findlay",Government,49,Government,Gov,t,16088,f,1
+13,1917-12-17,ON,148,YORK SOUTH,5366,"MACGREGOR, Alexander",Opposition,105,Opposition,OppConscript,t,2065,f,2
+13,1917-12-17,ON,148,YORK SOUTH,5365,"GUNN, James Thomas",Labour,65,Labour,Labour,f,1977,f,3
+13,1917-12-17,ON,148,YORK SOUTH,5363,"GALBRAITH, John",Unknown,166,Unknown,Unknown,f,118,f,4
+13,1917-12-17,ON,149,YORK WEST,5367,"WALLACE, Thomas George",Government,49,Government,Gov,t,11930,f,1
+13,1917-12-17,ON,149,YORK WEST,5368,"DENTON, Frank",Opposition,105,Opposition,OppConscript,t,2856,f,2
+13,1917-12-17,PE,150,KING'S,5369,"MCISAAC, James",Government,49,Government,Gov,t,2889,f,1
+13,1917-12-17,PE,150,KING'S,5370,"HUGHES, James Joseph",Opposition,105,Opposition,OppConscript,t,2837,f,2
+13,1917-12-17,PE,151,PRINCE,5372,"READ, Joseph",Opposition,105,Opposition,OppConscript,t,4298,f,1
+13,1917-12-17,PE,151,PRINCE,5371,"LEFURGEY, Alfred Alexander",Government,49,Government,Gov,t,3974,f,2
+13,1917-12-17,PE,152,QUEEN'S-1,5373,"SINCLAIR, John Ewen",Opposition,105,Opposition,OppConscript,t,5377,f,1
+13,1917-12-17,PE,152,QUEEN'S-1,5374,"WARBURTON, Alexander Bannerman",Opposition,105,Opposition,OppConscript,t,5276,f,2
+13,1917-12-17,PE,153,QUEEN'S-2,5375,"NICHOLSON, Donald",Government,49,Government,Gov,t,5435,f,1
+13,1917-12-17,PE,153,QUEEN'S-2,5376,"MARTIN, Alexander",Government,49,Government,Gov,t,5374,f,2
+13,1917-12-17,QC,154,ARGENTEUIL,5378,"MCGIBBON, Peter Robert",Opposition,105,Opposition,OppConscript,t,2113,f,1
+13,1917-12-17,QC,154,ARGENTEUIL,5377,"SLATER, Harry",Government,49,Government,Gov,t,1684,f,2
+13,1917-12-17,QC,155,BAGOT,5379,"MARCILE, Joseph-Edmond",Opposition,105,Opposition,OppConscript,t,3318,f,1
+13,1917-12-17,QC,155,BAGOT,5380,"LAFONTAINE, Joseph-Eugène",Government,49,Government,Gov,t,92,f,2
+13,1917-12-17,QC,156,BEAUCE,5381,"BELAND, Hon. Henri Sévérin",Opposition,105,Opposition,OppConscript,t,,t,1
+13,1917-12-17,QC,157,BEAUHARNOIS,5382,"PAPINEAU, Louis-Joseph",Opposition,105,Opposition,OppConscript,t,,t,1
+13,1917-12-17,QC,158,BELLECHASSE,5383,"FOURNIER, Charles-Alphonse",Opposition,105,Opposition,OppConscript,t,3752,f,1
+13,1917-12-17,QC,158,BELLECHASSE,5384,"GRENIER, Honoré",Government,49,Government,Gov,t,60,f,2
+13,1917-12-17,QC,158,BELLECHASSE,5385,"MARCEAU, Thomas Wilfrid",Unknown,166,Unknown,Unknown,f,30,f,3
+13,1917-12-17,QC,159,BERTHIER,5386,"GERVAIS, Théodore",Opposition,105,Opposition,OppConscript,t,2422,f,1
+13,1917-12-17,QC,159,BERTHIER,5387,"ECREMENT, Joseph Wilfrid Arthur",Independent Liberal,58,Independent Liberal,IndLib,f,1440,f,2
+13,1917-12-17,QC,160,BONAVENTURE,5388,"MARCIL, Hon. Charles",Opposition,105,Opposition,OppConscript,t,4131,f,1
+13,1917-12-17,QC,160,BONAVENTURE,5389,"FUROIS, Philippe",Government,49,Government,Gov,t,1236,f,2
+13,1917-12-17,QC,161,BROME,5391,"MCMASTER, Andrew Ross",Opposition,105,Opposition,OppConscript,t,1926,f,1
+13,1917-12-17,QC,161,BROME,5390,"DRAPER, Dennis Colburn",Government,49,Government,Gov,t,1488,f,2
+13,1917-12-17,QC,162,CHAMBLY--VERCHÈRES,5392,"ARCHAMBAULT, Joseph",Opposition,105,Opposition,OppConscript,t,4740,f,1
+13,1917-12-17,QC,162,CHAMBLY--VERCHÈRES,5393,"RAINVILLE, Joseph Hormisdas",Government,49,Government,Gov,t,2675,f,2
+13,1917-12-17,QC,163,CHAMPLAIN,5394,"DESAULNIERS, Arthur Lesieur",Opposition,105,Opposition,OppConscript,t,7095,f,1
+13,1917-12-17,QC,163,CHAMPLAIN,5395,"BLONDIN, Hon. Pierre Edouard",Government,49,Government,Gov,t,472,f,2
+13,1917-12-17,QC,164,CHARLEVOIX--MONTMORENCY,5396,"CASGRAIN, Pierre-François",Opposition,105,Opposition,OppConscript,t,5197,f,1
+13,1917-12-17,QC,164,CHARLEVOIX--MONTMORENCY,5397,"BOUCHARD, Philippe",Government,49,Government,Gov,t,129,f,2
+13,1917-12-17,QC,165,CHICOUTIMI--SAGUENAY,5398,"SAVARD, Edmond",Opposition,105,Opposition,OppConscript,t,11002,f,1
+13,1917-12-17,QC,165,CHICOUTIMI--SAGUENAY,5399,"GIRARD, Joseph",Government,49,Government,Gov,t,971,f,2
+13,1917-12-17,QC,166,CHÂTEAUGUAY--HUNTINGDON,5400,"ROBB, James Alexander",Opposition,105,Opposition,OppConscript,t,3835,f,1
+13,1917-12-17,QC,166,CHÂTEAUGUAY--HUNTINGDON,5402,"MORRIS, James",Government,49,Government,Gov,t,1990,f,2
+13,1917-12-17,QC,166,CHÂTEAUGUAY--HUNTINGDON,5401,"DUBOIS, Joseph Omer",Unknown,166,Unknown,Unknown,f,40,f,3
+13,1917-12-17,QC,167,COMPTON,5403,"HUNT, Aylmer Byron",Opposition,105,Opposition,OppConscript,t,4418,f,1
+13,1917-12-17,QC,167,COMPTON,5404,"MCIVER, Kenneth Nicholson",Government,49,Government,Gov,t,2515,f,2
+13,1917-12-17,QC,168,DORCHESTER,5405,"CANNON, Lucien",Opposition,105,Opposition,OppConscript,t,4228,f,1
+13,1917-12-17,QC,168,DORCHESTER,5406,"SÉVIGNY, Hon. Joseph Pierre Albert",Government,49,Government,Gov,t,497,f,2
+13,1917-12-17,QC,169,DRUMMOND--ARTHABASKA,5407,"BROUILLARD, Joseph-Ovide",Opposition,105,Opposition,OppConscript,t,,t,1
+13,1917-12-17,QC,170,GASPÉ,5408,"LEMIEUX, Hon. Rodolphe",Opposition,105,Opposition,OppConscript,t,5438,f,1
+13,1917-12-17,QC,170,GASPÉ,5409,"GAUTHIER, Louis-Philippe",Government,49,Government,Gov,t,1160,f,2
+13,1917-12-17,QC,171,GEORGE-ÉTIENNE CARTIER,5410,"JACOBS, Samuel William",Opposition,105,Opposition,OppConscript,t,6130,f,1
+13,1917-12-17,QC,171,GEORGE-ÉTIENNE CARTIER,5412,"BUHAY, Michael",Labour,65,Labour,Labour,f,608,f,2
+13,1917-12-17,QC,171,GEORGE-ÉTIENNE CARTIER,5411,"BERNIER, Joseph Camille",Unknown,166,Unknown,Unknown,f,512,f,3
+13,1917-12-17,QC,172,HOCHELAGA,5413,"LESAGE, Joseph-Edmond",Opposition,105,Opposition,OppConscript,t,9697,f,1
+13,1917-12-17,QC,172,HOCHELAGA,5414,"MARTEL, Gédéon",Labour,65,Labour,Labour,f,309,f,2
+13,1917-12-17,QC,172,HOCHELAGA,5415,"DIGNARD, Cléophas",Unknown,166,Unknown,Unknown,f,287,f,3
+13,1917-12-17,QC,173,HULL,5416,"FONTAINE, Joseph-Éloi",Opposition,105,Opposition,OppConscript,t,,t,1
+13,1917-12-17,QC,174,JACQUES CARTIER,5417,"LAFORTUNE, David Arthur",Opposition,105,Opposition,OppConscript,t,9228,f,1
+13,1917-12-17,QC,174,JACQUES CARTIER,5418,"JASMIN, Aquila",Government,49,Government,Gov,t,6917,f,2
+13,1917-12-17,QC,175,JOLIETTE,5419,"DENIS, Jean Joseph",Opposition,105,Opposition,OppConscript,t,2459,f,1
+13,1917-12-17,QC,175,JOLIETTE,5420,"DUBEAU, Joseph Adélard",Opposition,105,Opposition,OppConscript,t,2122,f,2
+13,1917-12-17,QC,176,KAMOURASKA,5421,"LAPOINTE, Ernest",Opposition,105,Opposition,OppConscript,t,3453,f,1
+13,1917-12-17,QC,176,KAMOURASKA,5422,"RIOU, Samuel Charles",Government,49,Government,Gov,t,191,f,2
+13,1917-12-17,QC,177,L'ASSOMPTION--MONTCALM,5423,"SÉGUIN, Paul-Arthur",Opposition,105,Opposition,OppConscript,t,5181,f,1
+13,1917-12-17,QC,177,L'ASSOMPTION--MONTCALM,5424,"RICHARD, Jean-Baptiste-Trefflé",Government,49,Government,Gov,t,172,f,2
+13,1917-12-17,QC,178,L'ISLET,5425,"FAFARD, Joseph-Fernand",Opposition,105,Opposition,OppConscript,t,,t,1
+13,1917-12-17,QC,179,LABELLE,5426,"FORTIER, Hyacinthe-Adélard",Opposition,105,Opposition,OppConscript,t,,t,1
+13,1917-12-17,QC,180,LAPRAIRIE--NAPIERVILLE,5427,"LANCTOT, Roch",Opposition,105,Opposition,OppConscript,t,3395,f,1
+13,1917-12-17,QC,180,LAPRAIRIE--NAPIERVILLE,5428,"PAGNUELO, Mastaï",Government,49,Government,Gov,t,143,f,2
+13,1917-12-17,QC,181,LAURIER--OUTREMONT,5429,"DU TREMBLAY, Pamphile-Réal-Blaise-Nugent",Opposition,105,Opposition,OppConscript,t,7443,f,1
+13,1917-12-17,QC,181,LAURIER--OUTREMONT,5430,"BLONDIN, Hon. Pierre-Édouard",Government,49,Government,Gov,t,6196,f,2
+13,1917-12-17,QC,182,LAVAL--TWO MOUNTAINS,5431,"ÉTHIER, Joseph-Arthur-Calixte",Opposition,105,Opposition,OppConscript,t,,t,1
+13,1917-12-17,QC,183,LOTBINIÈRE,5432,"VIEN, Thomas",Opposition,105,Opposition,OppConscript,t,3896,f,1
+13,1917-12-17,QC,183,LOTBINIÈRE,5433,"ROUSSEAU, Marie Joseph Émile",Government,49,Government,Gov,t,164,f,2
+13,1917-12-17,QC,184,LÉVIS,5434,"BOUTIN-BOURASSA, Joseph",Opposition,105,Opposition,OppConscript,t,5174,f,1
+13,1917-12-17,QC,184,LÉVIS,5435,"BERNIER, Alphonse",Government,49,Government,Gov,t,984,f,2
+13,1917-12-17,QC,185,MAISONNEUVE,5436,"LEMIEUX, Hon. Rodolphe",Opposition,105,Opposition,OppConscript,t,7173,f,1
+13,1917-12-17,QC,185,MAISONNEUVE,5437,"CAHAN, Charles Hazlitt",Government,49,Government,Gov,t,3140,f,2
+13,1917-12-17,QC,186,MASKINONGÉ,5438,"MAYRAND, Hormisdas",Opposition,105,Opposition,OppConscript,t,2721,f,1
+13,1917-12-17,QC,186,MASKINONGÉ,5439,"THIBODEAU, Adolphe-Joseph",Unknown,166,Unknown,Unknown,f,219,f,2
+13,1917-12-17,QC,186,MASKINONGÉ,5440,"LAFONTAINE, George",Unknown,166,Unknown,Unknown,f,165,f,3
+13,1917-12-17,QC,187,MATANE,5441,"PELLETIER, François-Jean",Opposition,105,Opposition,OppConscript,t,5010,f,1
+13,1917-12-17,QC,187,MATANE,5442,"BOULAY, Herménégilde",Government,49,Government,Gov,t,447,f,2
+13,1917-12-17,QC,188,MISSISQUOI,5443,"KAY, William Frederic",Opposition,105,Opposition,OppConscript,t,2582,f,1
+13,1917-12-17,QC,188,MISSISQUOI,5444,"ENGLAND, George Provost",Government,49,Government,Gov,t,1444,f,2
+13,1917-12-17,QC,189,MONTMAGNY,5445,"DÉCHENE, Aimé-Miville",Opposition,105,Opposition,OppConscript,t,2394,f,1
+13,1917-12-17,QC,189,MONTMAGNY,5446,"LAVERGNE, Armand",Independent,52,Independent,Ind,f,1343,f,2
+13,1917-12-17,QC,189,MONTMAGNY,5447,"BLAIS, Joseph-George",Government,49,Government,Gov,t,36,f,3
+13,1917-12-17,QC,190,MÉGANTIC,5448,"PACAUD, Lucien Turcotte",Opposition,105,Opposition,OppConscript,t,,t,1
+13,1917-12-17,QC,191,NICOLET,5449,"TRAHAN, Arthur",Opposition,105,Opposition,OppConscript,t,,t,1
+13,1917-12-17,QC,192,PONTIAC,5450,"CAHILL, Frank S.",Opposition,105,Opposition,OppConscript,t,5548,f,1
+13,1917-12-17,QC,192,PONTIAC,5451,"BASTIEN, Joseph David",Government,49,Government,Gov,t,1611,f,2
+13,1917-12-17,QC,193,PORTNEUF,5452,"DELISLE, Michel-Siméon",Opposition,105,Opposition,OppConscript,t,,t,1
+13,1917-12-17,QC,194,QUEBEC COUNTY,5453,"LAVIGUEUR, Henri Edgar",Opposition,105,Opposition,OppConscript,t,4799,f,1
+13,1917-12-17,QC,194,QUEBEC COUNTY,5454,"BARNARD, Joseph-Édouard",Government,49,Government,Gov,t,546,f,2
+13,1917-12-17,QC,195,QUEBEC EAST,5455,"LAURIER, Très Honorable Sir Wilfrid",Opposition,105,Opposition,OppConscript,t,6957,f,1
+13,1917-12-17,QC,195,QUEBEC EAST,5456,"DROUIN, Ferdinand Omer",Government,49,Government,Gov,t,562,f,2
+13,1917-12-17,QC,196,QUEBEC SOUTH,5457,"POWER, Charles Gavan",Opposition,105,Opposition,OppConscript,t,3816,f,1
+13,1917-12-17,QC,196,QUEBEC SOUTH,5458,"SCOTT, James Archibald",Government,49,Government,Gov,t,2501,f,2
+13,1917-12-17,QC,197,QUEBEC WEST,5459,"PARENT, George",Opposition,105,Opposition,OppConscript,t,6392,f,1
+13,1917-12-17,QC,197,QUEBEC WEST,5460,"CHASSÉ, Henri",Government,49,Government,Gov,t,460,f,2
+13,1917-12-17,QC,198,RICHELIEU,5461,"CARDIN, Pierre-Joseph-Arthur",Opposition,105,Opposition,OppConscript,t,3355,f,1
+13,1917-12-17,QC,198,RICHELIEU,5462,"MORGAN, Edward André D.",Government,49,Government,Gov,t,834,f,2
+13,1917-12-17,QC,199,RICHMOND--WOLFE,5463,"TOBIN, Edmund William",Opposition,105,Opposition,OppConscript,t,6448,f,1
+13,1917-12-17,QC,199,RICHMOND--WOLFE,5464,"CROMBIE, Marcus George",Government,49,Government,Gov,t,1634,f,2
+13,1917-12-17,QC,200,RIMOUSKI,5465,"D'ANJOU, Joseph-Émile-Stanislas-Émmanuel",Opposition,105,Opposition,OppConscript,t,,t,1
+13,1917-12-17,QC,201,SHEFFORD,5466,"BOIVIN, George Henri",Opposition,105,Opposition,OppConscript,t,,t,1
+13,1917-12-17,QC,202,SHERBROOKE (TOWN OF),5467,"MCREA, Francis N.",Opposition,105,Opposition,OppConscript,t,4151,f,1
+13,1917-12-17,QC,202,SHERBROOKE (TOWN OF),5468,"DAVIDSON, William Stewart",Government,49,Government,Gov,t,3409,f,2
+13,1917-12-17,QC,203,ST. ANN,5469,"DOHERTY, Hon. Charles Joseph",Government,49,Government,Gov,t,8346,f,1
+13,1917-12-17,QC,203,ST. ANN,5470,"GUÉRIN, James John Edmund",Opposition,105,Opposition,OppConscript,t,4416,f,2
+13,1917-12-17,QC,203,ST. ANN,5471,"GALLERY, Daniel",Independent,52,Independent,Ind,f,319,f,3
+13,1917-12-17,QC,204,ST. ANTOINE,5472,"AMES, Sir Herbert Brown",Government,49,Government,Gov,t,5663,f,1
+13,1917-12-17,QC,204,ST. ANTOINE,5473,"HUSHION, William James",Opposition,105,Opposition,OppConscript,t,2549,f,2
+13,1917-12-17,QC,205,ST. DENIS,5474,"VERVILLE, Alphonse",Opposition,105,Opposition,OppConscript,t,9708,f,1
+13,1917-12-17,QC,205,ST. DENIS,5476,"HOULE, Roméo",Unknown,166,Unknown,Unknown,f,878,f,2
+13,1917-12-17,QC,205,ST. DENIS,5475,"MAILLE, Louis-Omnes",Unknown,166,Unknown,Unknown,f,95,f,3
+13,1917-12-17,QC,206,ST. HYACINTHE--ROUVILLE,5477,"GAUTHIER, Louis-Joseph",Opposition,105,Opposition,OppConscript,t,,t,1
+13,1917-12-17,QC,207,ST. JAMES,5478,"LAPOINTE, Louis-Audet",Opposition,105,Opposition,OppConscript,t,,t,1
+13,1917-12-17,QC,208,ST. JOHNS--IBERVILLE,5479,"DEMERS, Marie-Joseph",Opposition,105,Opposition,OppConscript,t,4271,f,1
+13,1917-12-17,QC,208,ST. JOHNS--IBERVILLE,5480,"DORÉ, Pierre-Julien",Government,49,Government,Gov,t,363,f,2
+13,1917-12-17,QC,209,ST. LAWRENCE--ST. GEORGE,5481,"BALLANTYNE, Hon. Charles Colquhoun",Government,49,Government,Gov,t,5806,f,1
+13,1917-12-17,QC,209,ST. LAWRENCE--ST. GEORGE,5482,"MUNN, William Clement",Opposition,105,Opposition,OppConscript,t,2403,f,2
+13,1917-12-17,QC,210,ST. MARY,5483,"DESLAURIERS, Hermas",Opposition,105,Opposition,OppConscript,t,,t,1
+13,1917-12-17,QC,211,STANSTEAD,5484,"BALDWIN, Willis Keith",Opposition,105,Opposition,OppConscript,t,3047,f,1
+13,1917-12-17,QC,211,STANSTEAD,5485,"SHURTLEFF, William Lewis",Government,49,Government,Gov,t,2346,f,2
+13,1917-12-17,QC,212,TERREBONNE,5486,"PRÉVOST, Jules-Édouard",Opposition,105,Opposition,OppConscript,t,,t,1
+13,1917-12-17,QC,213,THREE RIVERS AND ST. MAURICE,5487,"BUREAU, Jacques",Opposition,105,Opposition,OppConscript,t,,t,1
+13,1917-12-17,QC,214,TÉMISCOUATA,5488,"GAUVREAU, Charles-Arthur",Opposition,105,Opposition,OppConscript,t,6489,f,1
+13,1917-12-17,QC,214,TÉMISCOUATA,5489,"LEBEL, Luc",Government,49,Government,Gov,t,695,f,2
+13,1917-12-17,QC,215,VAUDREUIL--SOULANGES,5490,"BOYER, Gustave",Opposition,105,Opposition,OppConscript,t,4075,f,1
+13,1917-12-17,QC,215,VAUDREUIL--SOULANGES,5491,"BISSONNETTE, Julien-Firmin",Government,49,Government,Gov,t,408,f,2
+13,1917-12-17,QC,216,WESTMOUNT--ST. HENRI,5492,"Leduc, Hon. Joseph Pierre Albert",Opposition,105,Opposition,OppConscript,t,7987,f,1
+13,1917-12-17,QC,216,WESTMOUNT--ST. HENRI,5493,"SÉVIGNY, J.-P.-Albert",Government,49,Government,Gov,t,6975,f,2
+13,1917-12-17,QC,217,WRIGHT,5494,"DEVLIN, Emmanuel Berchmans",Opposition,105,Opposition,OppConscript,t,2860,f,1
+13,1917-12-17,QC,217,WRIGHT,5495,"PRITCHARD, Andrew",Government,49,Government,Gov,t,1318,f,2
+13,1917-12-17,QC,218,YAMASKA,5496,"GLADU, Joseph-Ernest-Oscar",Opposition,105,Opposition,OppConscript,t,3148,f,1
+13,1917-12-17,QC,218,YAMASKA,5497,"CHASSÉ, Aimé",Government,49,Government,Gov,t,464,f,2
+13,1917-12-17,SK,219,ASSINIBOIA,5498,"TURRIFF, John Gillanders",Government,49,Government,Gov,t,6836,f,1
+13,1917-12-17,SK,219,ASSINIBOIA,5499,"WADDINGTON, Edward",Opposition,105,Opposition,OppConscript,t,2312,f,2
+13,1917-12-17,SK,220,BATTLEFORD,5500,"WRIGHT, Henry Oswald",Government,49,Government,Gov,t,5404,f,1
+13,1917-12-17,SK,220,BATTLEFORD,5501,"GOURLAY, Wallace Gordon Allan",Opposition,105,Opposition,OppConscript,t,1693,f,2
+13,1917-12-17,SK,221,HUMBOLDT,5502,"LANG, Norman",Government,49,Government,Gov,t,5536,f,1
+13,1917-12-17,SK,221,HUMBOLDT,5503,"BARRY, Joseph Leonard",Opposition,105,Opposition,OppConscript,t,3362,f,2
+13,1917-12-17,SK,222,KINDERSLEY,5504,"MYERS, Edward Thomas Wordon",Government,49,Government,Gov,t,8310,f,1
+13,1917-12-17,SK,222,KINDERSLEY,5505,"SEWARD, James Thrasher",Opposition,105,Opposition,OppConscript,t,2750,f,2
+13,1917-12-17,SK,223,LAST MOUNTAIN,5506,"JOHNSTON, John Frederick",Government,49,Government,Gov,t,,t,1
+13,1917-12-17,SK,224,MACKENZIE,5507,"REID, John Flaws",Government,49,Government,Gov,t,3047,f,1
+13,1917-12-17,SK,224,MACKENZIE,5508,"MCPHEE, George Washington",Government,49,Government,Gov,t,2370,f,2
+13,1917-12-17,SK,225,MAPLE CREEK,5509,"MAHARG, John Archibald",Government,49,Government,Gov,t,,t,1
+13,1917-12-17,SK,226,MOOSE JAW,5510,"CALDER, Hon. James Alexander",Government,49,Government,Gov,t,8866,f,1
+13,1917-12-17,SK,226,MOOSE JAW,5511,"SOMERVILLE, James",Opposition-Labour,106,Opposition-Labour,OppConscriptL,f,2946,f,2
+13,1917-12-17,SK,227,NORTH BATTLEFORD,5512,"LONG, Charles Edwin",Government,49,Government,Gov,t,5630,f,1
+13,1917-12-17,SK,227,NORTH BATTLEFORD,5513,"COMERFORD, Charles",Opposition,105,Opposition,OppConscript,t,3732,f,2
+13,1917-12-17,SK,228,PRINCE ALBERT,5514,"KNOX, Andrew",Government,49,Government,Gov,t,6589,f,1
+13,1917-12-17,SK,228,PRINCE ALBERT,5515,"MCLEOD, Samuel",Opposition,105,Opposition,OppConscript,t,2999,f,2
+13,1917-12-17,SK,229,QU'APPELLE,5516,"THOMSON, Levi",Government,49,Government,Gov,t,,t,1
+13,1917-12-17,SK,230,REGINA,5517,"COWAN, Walter Davy",Government,49,Government,Gov,t,10563,f,1
+13,1917-12-17,SK,230,REGINA,5518,"MACBETH, Andrew",Opposition,105,Opposition,OppConscript,t,2599,f,2
+13,1917-12-17,SK,231,SALTCOATS,5519,"MACNUTT, Thomas",Government,49,Government,Gov,t,4618,f,1
+13,1917-12-17,SK,231,SALTCOATS,5520,"ROWAN, John",Opposition,105,Opposition,OppConscript,t,1655,f,2
+13,1917-12-17,SK,232,SASKATOON,5521,"WILSON, James Robert",Government,49,Government,Gov,t,9639,f,1
+13,1917-12-17,SK,232,SASKATOON,5522,"CASEY, James William",Opposition,105,Opposition,OppConscript,t,1833,f,2
+13,1917-12-17,SK,233,SWIFT CURRENT,5523,"ARGUE, Ira Eugene",Government,49,Government,Gov,t,7703,f,1
+13,1917-12-17,SK,233,SWIFT CURRENT,5524,"REILLY, Michael James",Opposition,105,Opposition,OppConscript,t,3931,f,2
+13,1917-12-17,SK,234,WEYBURN,5525,"THOMPSON, Richard Frederick",Government,49,Government,Gov,t,,t,1
+13,1917-12-17,YK,235,YUKON,5526,"THOMPSON, Alfred",Government,49,Government,Gov,t,959,f,1
+13,1917-12-17,YK,235,YUKON,5527,"CONGDON, Frederick Tennyson",Opposition,105,Opposition,OppConscript,t,808,f,2

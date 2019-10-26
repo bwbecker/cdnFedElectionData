@@ -1,0 +1,832 @@
+election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_party_name,party_id,party_name,party_short_name,mainstream,votes,acclaimed,place
+24,1958-03-31,AB,1,ACADIA,12940,"HORNER, Jack H.",Progressive Conservative,124,Progressive Conservative Party,PC,t,9669,f,1
+24,1958-03-31,AB,1,ACADIA,12943,"BERGMAN, Meredith P.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,5597,f,2
+24,1958-03-31,AB,1,ACADIA,12941,"FERGUSON, Crawford",Liberal,75,Liberal,Lib,t,2995,f,3
+24,1958-03-31,AB,1,ACADIA,12942,"TORY, Kenn S.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,942,f,4
+24,1958-03-31,AB,2,ATHABASKA,12944,"BIGG, Frederick Jack",Progressive Conservative,124,Progressive Conservative Party,PC,t,9751,f,1
+24,1958-03-31,AB,2,ATHABASKA,12946,"RENAUD, Joachim Peter",Liberal,75,Liberal,Lib,t,4473,f,2
+24,1958-03-31,AB,2,ATHABASKA,12947,"MCPHAIL, Archie A.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,3806,f,3
+24,1958-03-31,AB,2,ATHABASKA,12945,"BARON, Nick",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,820,f,4
+24,1958-03-31,AB,3,BATTLE RIVER--CAMROSE,12948,"SMALLWOOD, Clifford S.",Progressive Conservative,124,Progressive Conservative Party,PC,t,13049,f,1
+24,1958-03-31,AB,3,BATTLE RIVER--CAMROSE,12950,"SMITH, James A.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,6137,f,2
+24,1958-03-31,AB,3,BATTLE RIVER--CAMROSE,12949,"SAVILLE, Francis Clifford",Liberal,75,Liberal,Lib,t,2216,f,3
+24,1958-03-31,AB,3,BATTLE RIVER--CAMROSE,12951,"ROLSETH, Harold",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1340,f,4
+24,1958-03-31,AB,4,BOW RIVER,12952,"WOOLLIAMS, Eldon M.",Progressive Conservative,124,Progressive Conservative Party,PC,t,12695,f,1
+24,1958-03-31,AB,4,BOW RIVER,12953,"JOHNSTON, Charles Edward",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,5646,f,2
+24,1958-03-31,AB,4,BOW RIVER,12954,"OLSON, Francis John Robert",Liberal,75,Liberal,Lib,t,1772,f,3
+24,1958-03-31,AB,5,CALGARY NORTH,12955,"HARKNESS, Douglas S.",Progressive Conservative,124,Progressive Conservative Party,PC,t,30930,f,1
+24,1958-03-31,AB,5,CALGARY NORTH,12956,"LEAVITT, Lee",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,5484,f,2
+24,1958-03-31,AB,5,CALGARY NORTH,12958,"LANE, D. Austin",Liberal,75,Liberal,Lib,t,4555,f,3
+24,1958-03-31,AB,5,CALGARY NORTH,12957,"ELLINSON, George",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2018,f,4
+24,1958-03-31,AB,6,CALGARY SOUTH,12959,"SMITH, Art",Progressive Conservative,124,Progressive Conservative Party,PC,t,29482,f,1
+24,1958-03-31,AB,6,CALGARY SOUTH,12960,"SHANNON, Mel",Liberal,75,Liberal,Lib,t,7039,f,2
+24,1958-03-31,AB,6,CALGARY SOUTH,12962,"BROWN, Frank",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,3884,f,3
+24,1958-03-31,AB,6,CALGARY SOUTH,12961,"RYAN, H.J.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1416,f,4
+24,1958-03-31,AB,7,EDMONTON EAST,12963,"SKOREYKO, William",Progressive Conservative,124,Progressive Conservative Party,PC,t,15236,f,1
+24,1958-03-31,AB,7,EDMONTON EAST,12964,"HOLOWACH, Ambrose",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,6441,f,2
+24,1958-03-31,AB,7,EDMONTON EAST,12968,"BRACCO, John David",Liberal,75,Liberal,Lib,t,4413,f,3
+24,1958-03-31,AB,7,EDMONTON EAST,12966,"UGANECZ, Peter",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1220,f,4
+24,1958-03-31,AB,7,EDMONTON EAST,12967,"TUOMI, William",Labour Progressive Party,31,Communist Party,Com,f,473,f,5
+24,1958-03-31,AB,7,EDMONTON EAST,12965,"SMITH, Aubrey Allen",Independent Progressive Conservative,62,Independent Progressive Conservative,IndProgCon,f,253,f,6
+24,1958-03-31,AB,8,EDMONTON WEST,12969,"LAMBERT, Marcel",Progressive Conservative,124,Progressive Conservative Party,PC,t,30937,f,1
+24,1958-03-31,AB,8,EDMONTON WEST,12971,"HAAR, John L.",Liberal,75,Liberal,Lib,t,8544,f,2
+24,1958-03-31,AB,8,EDMONTON WEST,12970,"MCKAY, John W.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4893,f,3
+24,1958-03-31,AB,8,EDMONTON WEST,12972,"HARDMAN, David",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2023,f,4
+24,1958-03-31,AB,9,EDMONTON--STRATHCONA,12973,"NUGENT, Terry",Progressive Conservative,124,Progressive Conservative Party,PC,t,25885,f,1
+24,1958-03-31,AB,9,EDMONTON--STRATHCONA,12974,"THOMPSON, Sydney",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,7270,f,2
+24,1958-03-31,AB,9,EDMONTON--STRATHCONA,12976,"HANNA, R.F.L.",Liberal,75,Liberal,Lib,t,7218,f,3
+24,1958-03-31,AB,9,EDMONTON--STRATHCONA,12975,"HOLMES, Arnold",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1838,f,4
+24,1958-03-31,AB,10,JASPER--EDSON,12978,"HORNER, Hugh M.",Progressive Conservative,124,Progressive Conservative Party,PC,t,12522,f,1
+24,1958-03-31,AB,10,JASPER--EDSON,12977,"YUILL, Charles",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4240,f,2
+24,1958-03-31,AB,10,JASPER--EDSON,12979,"THOMSON, Dale",Liberal,75,Liberal,Lib,t,3683,f,3
+24,1958-03-31,AB,10,JASPER--EDSON,12980,"LISS, John",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1396,f,4
+24,1958-03-31,AB,11,LETHBRIDGE,12981,"GUNDLOCK, Deane R.",Progressive Conservative,124,Progressive Conservative Party,PC,t,13364,f,1
+24,1958-03-31,AB,11,LETHBRIDGE,12982,"BLACKMORE, John Horne",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,6471,f,2
+24,1958-03-31,AB,11,LETHBRIDGE,12983,"YANOSIK, Clarence G.",Liberal,75,Liberal,Lib,t,2714,f,3
+24,1958-03-31,AB,11,LETHBRIDGE,12984,"OLSEN, Ervin D.",Independent Social Credit,64,Independent Social Credit,IndSoCred,f,361,f,4
+24,1958-03-31,AB,12,MACLEOD,12985,"KINDT, Lawrence E.",Progressive Conservative,124,Progressive Conservative Party,PC,t,11911,f,1
+24,1958-03-31,AB,12,MACLEOD,12986,"HANSELL, Ernest George",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,5623,f,2
+24,1958-03-31,AB,12,MACLEOD,12988,"DERRICK, James",Liberal,75,Liberal,Lib,t,1907,f,3
+24,1958-03-31,AB,12,MACLEOD,12987,"GRIFFIN, John Purrier",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,736,f,4
+24,1958-03-31,AB,13,MEDICINE HAT,12989,"BRUNSDEN, E.W.",Progressive Conservative,124,Progressive Conservative Party,PC,t,10886,f,1
+24,1958-03-31,AB,13,MEDICINE HAT,12991,"OLSON, Horace A.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,9151,f,2
+24,1958-03-31,AB,13,MEDICINE HAT,12990,"WALTER, B.",Liberal,75,Liberal,Lib,t,2572,f,3
+24,1958-03-31,AB,13,MEDICINE HAT,12992,"ROGERS, J.D.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,907,f,4
+24,1958-03-31,AB,14,PEACE RIVER,12993,"BALDWIN, Gerald W.",Progressive Conservative,124,Progressive Conservative Party,PC,t,13328,f,1
+24,1958-03-31,AB,14,PEACE RIVER,12994,"LOW, Solon Earl",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,5737,f,2
+24,1958-03-31,AB,14,PEACE RIVER,12996,"MCRAE, John Howard",Liberal,75,Liberal,Lib,t,2535,f,3
+24,1958-03-31,AB,14,PEACE RIVER,12995,"SATHER, Emil Trygve",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1064,f,4
+24,1958-03-31,AB,15,RED DEER,12997,"ROGERS, Harris",Progressive Conservative,124,Progressive Conservative Party,PC,t,11569,f,1
+24,1958-03-31,AB,15,RED DEER,12998,"SHAW, Frederick Davis",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,7087,f,2
+24,1958-03-31,AB,15,RED DEER,13000,"SHRADER, Sadie A.",Liberal,75,Liberal,Lib,t,1537,f,3
+24,1958-03-31,AB,15,RED DEER,12999,"CARLYLE, Robert H.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1029,f,4
+24,1958-03-31,AB,16,VEGREVILLE,13001,"FANE, Frank J.W.",Progressive Conservative,124,Progressive Conservative Party,PC,t,7918,f,1
+24,1958-03-31,AB,16,VEGREVILLE,13004,"STEFURA, Peter",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,5360,f,2
+24,1958-03-31,AB,16,VEGREVILLE,13005,"RUHL, Jacob",Liberal,75,Liberal,Lib,t,1706,f,3
+24,1958-03-31,AB,16,VEGREVILLE,13003,"ZAZEYBIDA, Nancy",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1326,f,4
+24,1958-03-31,AB,16,VEGREVILLE,13002,"MARICLE, Frank Eugene",Labour Progressive Party,31,Communist Party,Com,f,723,f,5
+24,1958-03-31,AB,17,WETASKIWIN,13006,"SPEAKMAN, James Stanley",Progressive Conservative,124,Progressive Conservative Party,PC,t,10557,f,1
+24,1958-03-31,AB,17,WETASKIWIN,13009,"THOMAS, Ray",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4314,f,2
+24,1958-03-31,AB,17,WETASKIWIN,13007,"LARSON, Ernest Oscar",Liberal,75,Liberal,Lib,t,1704,f,3
+24,1958-03-31,AB,17,WETASKIWIN,13008,"IRVINE, William",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1591,f,4
+24,1958-03-31,BC,18,BURNABY--COQUITLAM,13010,"REGIER, Erhart",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,12917,f,1
+24,1958-03-31,BC,18,BURNABY--COQUITLAM,13011,"MORRISON, Murray",Progressive Conservative,124,Progressive Conservative Party,PC,t,11422,f,2
+24,1958-03-31,BC,18,BURNABY--COQUITLAM,13012,"COOPER, Robert James",Liberal,75,Liberal,Lib,t,3533,f,3
+24,1958-03-31,BC,18,BURNABY--COQUITLAM,13013,"PERRETT, Morris",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2113,f,4
+24,1958-03-31,BC,19,BURNABY--RICHMOND,13014,"DRYSDALE, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,15570,f,1
+24,1958-03-31,BC,19,BURNABY--RICHMOND,13016,"PRITTIE, Robert",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,10063,f,2
+24,1958-03-31,BC,19,BURNABY--RICHMOND,13015,"GOODE, Thomas Henry",Liberal,75,Liberal,Lib,t,5286,f,3
+24,1958-03-31,BC,19,BURNABY--RICHMOND,13017,"IRWIN, Thomas James",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,3190,f,4
+24,1958-03-31,BC,20,CARIBOO,13018,"HENDERSON, Walter Clarence",Progressive Conservative,124,Progressive Conservative Party,PC,t,9327,f,1
+24,1958-03-31,BC,20,CARIBOO,13021,"LEBOE, Bert Raymond",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,5811,f,2
+24,1958-03-31,BC,20,CARIBOO,13019,"BRYANT, Gordon Douglas",Liberal,75,Liberal,Lib,t,3279,f,3
+24,1958-03-31,BC,20,CARIBOO,13020,"CLOSE, William M.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,3175,f,4
+24,1958-03-31,BC,21,COAST-CAPILANO,13022,"PAYNE, William H.",Progressive Conservative,124,Progressive Conservative Party,PC,t,19343,f,1
+24,1958-03-31,BC,21,COAST-CAPILANO,13023,"SINCLAIR, James",Liberal,75,Liberal,Lib,t,17411,f,2
+24,1958-03-31,BC,21,COAST-CAPILANO,13024,"CLIFFORD, Hugh",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,6134,f,3
+24,1958-03-31,BC,21,COAST-CAPILANO,13025,"GALLANT, Edward",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1599,f,4
+24,1958-03-31,BC,22,COMOX--ALBERNI,13026,"MCQUILLAN, H.C.",Progressive Conservative,124,Progressive Conservative Party,PC,t,11483,f,1
+24,1958-03-31,BC,22,COMOX--ALBERNI,13028,"BARNETT, Thomas S.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,9607,f,2
+24,1958-03-31,BC,22,COMOX--ALBERNI,13029,"STELLING, M.",Liberal,75,Liberal,Lib,t,2472,f,3
+24,1958-03-31,BC,22,COMOX--ALBERNI,13027,"MULLETT, William S.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1354,f,4
+24,1958-03-31,BC,23,ESQUIMALT--SAANICH,13030,"PEARKES, Hon. George R.",Progressive Conservative,124,Progressive Conservative Party,PC,t,18768,f,1
+24,1958-03-31,BC,23,ESQUIMALT--SAANICH,13032,"THOMAS, John Morris",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,4755,f,2
+24,1958-03-31,BC,23,ESQUIMALT--SAANICH,13033,"PRESTON, George",Liberal,75,Liberal,Lib,t,3576,f,3
+24,1958-03-31,BC,23,ESQUIMALT--SAANICH,13031,"BELL, Noel E.J.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1331,f,4
+24,1958-03-31,BC,23,ESQUIMALT--SAANICH,13034,"KNOTT, Ernest Leon",Labour Progressive Party,31,Communist Party,Com,f,180,f,5
+24,1958-03-31,BC,24,FRASER VALLEY,13035,"HICKS, Harold",Progressive Conservative,124,Progressive Conservative Party,PC,t,13890,f,1
+24,1958-03-31,BC,24,FRASER VALLEY,13037,"PATTERSON, Alexander Bell",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,7414,f,2
+24,1958-03-31,BC,24,FRASER VALLEY,13036,"WATSON, Wesley N.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,5640,f,3
+24,1958-03-31,BC,24,FRASER VALLEY,13038,"ISHERWOOD, Thomas Foster",Liberal,75,Liberal,Lib,t,4562,f,4
+24,1958-03-31,BC,25,KAMLOOPS,13039,"FULTON, Edmund Davie",Progressive Conservative,124,Progressive Conservative Party,PC,t,13858,f,1
+24,1958-03-31,BC,25,KAMLOOPS,13042,"AFFLECK, Arnold McIntyre",Liberal,75,Liberal,Lib,t,2868,f,2
+24,1958-03-31,BC,25,KAMLOOPS,13041,"GREENWAY, Austin Kenneth",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2777,f,3
+24,1958-03-31,BC,25,KAMLOOPS,13040,"MERRICK, Earl Victor Roy",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2390,f,4
+24,1958-03-31,BC,26,KOOTENAY EAST,13043,"MCFARLANE, Murray L.",Progressive Conservative,124,Progressive Conservative Party,PC,t,5363,f,1
+24,1958-03-31,BC,26,KOOTENAY EAST,13044,"BYRNE, Jim",Liberal,75,Liberal,Lib,t,4483,f,2
+24,1958-03-31,BC,26,KOOTENAY EAST,13045,"BJERSTEDT, David E.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,4006,f,3
+24,1958-03-31,BC,26,KOOTENAY EAST,13046,"CHABOT, James R.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2174,f,4
+24,1958-03-31,BC,27,KOOTENAY WEST,13047,"HERRIDGE, Herbert Wilfred",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,9460,f,1
+24,1958-03-31,BC,27,KOOTENAY WEST,13049,"DEWDNEY, F.",Progressive Conservative,124,Progressive Conservative Party,PC,t,8248,f,2
+24,1958-03-31,BC,27,KOOTENAY WEST,13048,"MCLOUGHLIN, William Joseph",Liberal,75,Liberal,Lib,t,2306,f,3
+24,1958-03-31,BC,27,KOOTENAY WEST,13050,"ALMACK, J.H.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1753,f,4
+24,1958-03-31,BC,28,NANAIMO,13051,"MATTHEWS, Walter F.",Progressive Conservative,124,Progressive Conservative Party,PC,t,10734,f,1
+24,1958-03-31,BC,28,NANAIMO,13054,"CAMERON, Colin",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,10029,f,2
+24,1958-03-31,BC,28,NANAIMO,13053,"MILLER, Ernest W.H.",Liberal,75,Liberal,Lib,t,2606,f,3
+24,1958-03-31,BC,28,NANAIMO,13052,"FOLZ, Roy Arthur",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1077,f,4
+24,1958-03-31,BC,29,NEW WESTMINSTER,13055,"MCLENNAN, William A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,21202,f,1
+24,1958-03-31,BC,29,NEW WESTMINSTER,13056,"STOUT, Douglas",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,13220,f,2
+24,1958-03-31,BC,29,NEW WESTMINSTER,13057,"HAHN, George",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,10886,f,3
+24,1958-03-31,BC,29,NEW WESTMINSTER,13058,"STEWART, Alex",Liberal,75,Liberal,Lib,t,4559,f,4
+24,1958-03-31,BC,29,NEW WESTMINSTER,13059,"STEWART, Charles M.",Labour Progressive Party,31,Communist Party,Com,f,958,f,5
+24,1958-03-31,BC,30,OKANAGAN BOUNDARY,13060,"PUGH, David Vaughan",Progressive Conservative,124,Progressive Conservative Party,PC,t,13065,f,1
+24,1958-03-31,BC,30,OKANAGAN BOUNDARY,13061,"JONES, O.L.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,7829,f,2
+24,1958-03-31,BC,30,OKANAGAN BOUNDARY,13062,"CARSON, Henry",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,3470,f,3
+24,1958-03-31,BC,30,OKANAGAN BOUNDARY,13063,"GILMOUR, William Andrew",Liberal,75,Liberal,Lib,t,2637,f,4
+24,1958-03-31,BC,31,OKANAGAN--REVELSTOKE,13064,"FLEMING, Stuart",Progressive Conservative,124,Progressive Conservative Party,PC,t,7004,f,1
+24,1958-03-31,BC,31,OKANAGAN--REVELSTOKE,13065,"MCLEOD, George William",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,3213,f,2
+24,1958-03-31,BC,31,OKANAGAN--REVELSTOKE,13068,"CRYDERMAN, Hilda",Liberal,75,Liberal,Lib,t,2329,f,3
+24,1958-03-31,BC,31,OKANAGAN--REVELSTOKE,13067,"DYCK, Jack",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1859,f,4
+24,1958-03-31,BC,31,OKANAGAN--REVELSTOKE,13066,"MOWERS, Alexander W.",Labour Progressive Party,31,Communist Party,Com,f,205,f,5
+24,1958-03-31,BC,32,SKEENA,13069,"HOWARD, Frank",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,6647,f,1
+24,1958-03-31,BC,32,SKEENA,13071,"VANCE, Allan D.",Progressive Conservative,124,Progressive Conservative Party,PC,t,5028,f,2
+24,1958-03-31,BC,32,SKEENA,13070,"KENNEY, Edward T.",Liberal,75,Liberal,Lib,t,4148,f,3
+24,1958-03-31,BC,32,SKEENA,13072,"RAPSKE, Rudolph",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,876,f,4
+24,1958-03-31,BC,33,VANCOUVER CENTRE,13073,"JUNG, Douglas",Progressive Conservative,124,Progressive Conservative Party,PC,t,14044,f,1
+24,1958-03-31,BC,33,VANCOUVER CENTRE,13074,"WARD, Lyon",Liberal,75,Liberal,Lib,t,3927,f,2
+24,1958-03-31,BC,33,VANCOUVER CENTRE,13075,"JUDGE, Alan",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,3183,f,3
+24,1958-03-31,BC,33,VANCOUVER CENTRE,13076,"WHITE, Cyril",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1059,f,4
+24,1958-03-31,BC,33,VANCOUVER CENTRE,13077,"RUSH, Maurice",Labour Progressive Party,31,Communist Party,Com,f,650,f,5
+24,1958-03-31,BC,34,VANCOUVER EAST,13078,"WINCH, Harold Edward",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,11486,f,1
+24,1958-03-31,BC,34,VANCOUVER EAST,13080,"MULLINS, Norman",Progressive Conservative,124,Progressive Conservative Party,PC,t,8654,f,2
+24,1958-03-31,BC,34,VANCOUVER EAST,13081,"SHARP, Alexander Charles",Liberal,75,Liberal,Lib,t,2175,f,3
+24,1958-03-31,BC,34,VANCOUVER EAST,13079,"MCCANN, Michael John",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1338,f,4
+24,1958-03-31,BC,35,VANCOUVER KINGSWAY,13082,"BROWNE, John Ferguson",Progressive Conservative,124,Progressive Conservative Party,PC,t,11928,f,1
+24,1958-03-31,BC,35,VANCOUVER KINGSWAY,13085,"MACDONALD, Alex B.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,11724,f,2
+24,1958-03-31,BC,35,VANCOUVER KINGSWAY,13083,"KING, Everet",Liberal,75,Liberal,Lib,t,2631,f,3
+24,1958-03-31,BC,35,VANCOUVER KINGSWAY,13084,"FROESE, Gus",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1642,f,4
+24,1958-03-31,BC,36,VANCOUVER QUADRA,13086,"GREEN, Howard Charles",Progressive Conservative,124,Progressive Conservative Party,PC,t,24802,f,1
+24,1958-03-31,BC,36,VANCOUVER QUADRA,13087,"BOYES, Francis Cecil",Liberal,75,Liberal,Lib,t,5713,f,2
+24,1958-03-31,BC,36,VANCOUVER QUADRA,13088,"PIERCE, Bill",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,3496,f,3
+24,1958-03-31,BC,36,VANCOUVER QUADRA,13089,"HALOM, Stephen",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1062,f,4
+24,1958-03-31,BC,37,VANCOUVER SOUTH,13090,"BROOME, Ernest J.",Progressive Conservative,124,Progressive Conservative Party,PC,t,22292,f,1
+24,1958-03-31,BC,37,VANCOUVER SOUTH,13093,"PHILPOTT, Elmore",Liberal,75,Liberal,Lib,t,6528,f,2
+24,1958-03-31,BC,37,VANCOUVER SOUTH,13091,"GREER, Cliff",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,5717,f,3
+24,1958-03-31,BC,37,VANCOUVER SOUTH,13094,"BEYERSTEIN, Hilliard H.W.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1914,f,4
+24,1958-03-31,BC,37,VANCOUVER SOUTH,13092,"MCEWEN, Thomas A.",Labour Progressive Party,31,Communist Party,Com,f,422,f,5
+24,1958-03-31,BC,38,VANCOUVER--BURRARD,13095,"TAYLOR, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,18001,f,1
+24,1958-03-31,BC,38,VANCOUVER--BURRARD,13096,"LEWIS, Frank George Perrin",Liberal,75,Liberal,Lib,t,5154,f,2
+24,1958-03-31,BC,38,VANCOUVER--BURRARD,13097,"FORSTER, Victor Wadham",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,5121,f,3
+24,1958-03-31,BC,38,VANCOUVER--BURRARD,13098,"ROSE, William",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1459,f,4
+24,1958-03-31,BC,39,VICTORIA,13099,"MCPHILLIPS, Albert De Burgo",Progressive Conservative,124,Progressive Conservative Party,PC,t,24945,f,1
+24,1958-03-31,BC,39,VICTORIA,13101,"ELLIS, William Geoffrey",Liberal,75,Liberal,Lib,t,8706,f,2
+24,1958-03-31,BC,39,VICTORIA,13100,"WILLIAMS, Victor W.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,4560,f,3
+24,1958-03-31,BC,39,VICTORIA,13102,"MCEWEN, Elmer D.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2637,f,4
+24,1958-03-31,MB,40,BRANDON--SOURIS,13103,"DINSDALE, Walter Gilbert",Progressive Conservative,124,Progressive Conservative Party,PC,t,22185,f,1
+24,1958-03-31,MB,40,BRANDON--SOURIS,13106,"WILLIAMS, Kendric Hambly",Liberal,75,Liberal,Lib,t,5303,f,2
+24,1958-03-31,MB,40,BRANDON--SOURIS,13105,"FRIES, Hans",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1552,f,3
+24,1958-03-31,MB,40,BRANDON--SOURIS,13104,"JONES, Walter Robert",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,946,f,4
+24,1958-03-31,MB,41,CHURCHILL,13107,"SIMPSON, Robert",Progressive Conservative,124,Progressive Conservative Party,PC,t,11506,f,1
+24,1958-03-31,MB,41,CHURCHILL,13108,"FERG, Lorne Paterson",Liberal,75,Liberal,Lib,t,4159,f,2
+24,1958-03-31,MB,41,CHURCHILL,13109,"FREEDMAN, Jack",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2118,f,3
+24,1958-03-31,MB,42,DAUPHIN,13110,"FORBES, R. Elmer",Progressive Conservative,124,Progressive Conservative Party,PC,t,8674,f,1
+24,1958-03-31,MB,42,DAUPHIN,13112,"ZAPLITNY, Fred S.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,6023,f,2
+24,1958-03-31,MB,42,DAUPHIN,13111,"WARNOCK, A. Thomas",Liberal,75,Liberal,Lib,t,3981,f,3
+24,1958-03-31,MB,43,LISGAR,13113,"MUIR, George",Progressive Conservative,124,Progressive Conservative Party,PC,t,13072,f,1
+24,1958-03-31,MB,43,LISGAR,13114,"HARTWELL, Kenneth",Liberal,75,Liberal,Lib,t,4546,f,2
+24,1958-03-31,MB,43,LISGAR,13115,"DARLING, Wilfred",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1445,f,3
+24,1958-03-31,MB,43,LISGAR,13116,"HAMILTON, Joseph Albert",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,520,f,4
+24,1958-03-31,MB,44,MARQUETTE,13117,"MANDZIUK, Nicholas",Progressive Conservative,124,Progressive Conservative Party,PC,t,14748,f,1
+24,1958-03-31,MB,44,MARQUETTE,13120,"KINNEY, David Arthur",Liberal,75,Liberal,Lib,t,5598,f,2
+24,1958-03-31,MB,44,MARQUETTE,13118,"SOTAS, Michael J.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1572,f,3
+24,1958-03-31,MB,44,MARQUETTE,13119,"NEVIN, William",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,993,f,4
+24,1958-03-31,MB,45,PORTAGE--NEEPAWA,13121,"FAIRFIELD, George C.",Progressive Conservative,124,Progressive Conservative Party,PC,t,15304,f,1
+24,1958-03-31,MB,45,PORTAGE--NEEPAWA,13122,"HENDERSON, Harold Lloyd",Liberal,75,Liberal,Lib,t,6434,f,2
+24,1958-03-31,MB,45,PORTAGE--NEEPAWA,13123,"COULTHARD, Sidney",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1598,f,3
+24,1958-03-31,MB,46,PROVENCHER,13124,"JORGENSON, Warner H.",Progressive Conservative,124,Progressive Conservative Party,PC,t,8278,f,1
+24,1958-03-31,MB,46,PROVENCHER,13125,"PRÉFONTAINE, René",Liberal,75,Liberal,Lib,t,5268,f,2
+24,1958-03-31,MB,46,PROVENCHER,13127,"TINKLER, Wilbert James",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1363,f,3
+24,1958-03-31,MB,46,PROVENCHER,13126,"SIEMENS, Jacob John",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,281,f,4
+24,1958-03-31,MB,47,SELKIRK,13128,"STEFANSON, Eric",Progressive Conservative,124,Progressive Conservative Party,PC,t,8878,f,1
+24,1958-03-31,MB,47,SELKIRK,13130,"BRYCE, W. Scottie",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,5291,f,2
+24,1958-03-31,MB,47,SELKIRK,13129,"WOOD, William James",Liberal,75,Liberal,Lib,t,4467,f,3
+24,1958-03-31,MB,48,SPRINGFIELD,13131,"YACULA, Val",Progressive Conservative,124,Progressive Conservative Party,PC,t,7045,f,1
+24,1958-03-31,MB,48,SPRINGFIELD,13134,"SCHULZ, Jake",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,4962,f,2
+24,1958-03-31,MB,48,SPRINGFIELD,13133,"WESELAK, Anton Bernard",Liberal,75,Liberal,Lib,t,3491,f,3
+24,1958-03-31,MB,48,SPRINGFIELD,13132,"Gross, John William",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1125,f,4
+24,1958-03-31,MB,49,ST. BONIFACE,13135,"RÉGNIER, Laurier",Progressive Conservative,124,Progressive Conservative Party,PC,t,12688,f,1
+24,1958-03-31,MB,49,ST. BONIFACE,13136,"DENISET, Louis",Liberal,75,Liberal,Lib,t,9500,f,2
+24,1958-03-31,MB,49,ST. BONIFACE,13137,"MANCHUR, Nicholas",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,5759,f,3
+24,1958-03-31,MB,49,ST. BONIFACE,13138,"MILES, Lockie A.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,881,f,4
+24,1958-03-31,MB,50,WINNIPEG NORTH,13139,"SMITH, Murray",Progressive Conservative,124,Progressive Conservative Party,PC,t,19629,f,1
+24,1958-03-31,MB,50,WINNIPEG NORTH,13140,"STEWART, Alistair",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,19414,f,2
+24,1958-03-31,MB,50,WINNIPEG NORTH,13141,"PARTRICK, Nina",Liberal,75,Liberal,Lib,t,5700,f,3
+24,1958-03-31,MB,50,WINNIPEG NORTH,13142,"ROSS, William Cecil",Labour Progressive Party,31,Communist Party,Com,f,1503,f,4
+24,1958-03-31,MB,51,WINNIPEG NORTH CENTRE,13143,"MACLEAN, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,14911,f,1
+24,1958-03-31,MB,51,WINNIPEG NORTH CENTRE,13145,"KNOWLES, Stanley H.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,13536,f,2
+24,1958-03-31,MB,51,WINNIPEG NORTH CENTRE,13144,"BLAINE, Thomas R.",Liberal,75,Liberal,Lib,t,3552,f,3
+24,1958-03-31,MB,52,WINNIPEG SOUTH,13146,"CHOWN, Gordon",Progressive Conservative,124,Progressive Conservative Party,PC,t,32308,f,1
+24,1958-03-31,MB,52,WINNIPEG SOUTH,13148,"AVERY, Charlie",Liberal,75,Liberal,Lib,t,12524,f,2
+24,1958-03-31,MB,52,WINNIPEG SOUTH,13147,"PAULLEY, Fred",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,6305,f,3
+24,1958-03-31,MB,53,WINNIPEG SOUTH CENTRE,13149,"CHURCHILL, Gordon",Progressive Conservative,124,Progressive Conservative Party,PC,t,27722,f,1
+24,1958-03-31,MB,53,WINNIPEG SOUTH CENTRE,13151,"GILLIES, Ronald",Liberal,75,Liberal,Lib,t,7927,f,2
+24,1958-03-31,MB,53,WINNIPEG SOUTH CENTRE,13150,"FINES, Gordon",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,5975,f,3
+24,1958-03-31,NB,54,CHARLOTTE,13152,"STEWART, R.D. Caldwell",Progressive Conservative,124,Progressive Conservative Party,PC,t,6448,f,1
+24,1958-03-31,NB,54,CHARLOTTE,13153,"STUART, A. Wesley",Liberal,75,Liberal,Lib,t,5806,f,2
+24,1958-03-31,NB,55,GLOUCESTER,13154,"ROBICHAUD, Hédard-J.",Liberal,75,Liberal,Lib,t,13112,f,1
+24,1958-03-31,NB,55,GLOUCESTER,13155,"HACHEY, J. Léo",Progressive Conservative,124,Progressive Conservative Party,PC,t,11705,f,2
+24,1958-03-31,NB,56,KENT,13156,"MICHAUD, Hervé J.",Liberal,75,Liberal,Lib,t,6118,f,1
+24,1958-03-31,NB,56,KENT,13157,"LEBLANC, Louis Félix",Progressive Conservative,124,Progressive Conservative Party,PC,t,4988,f,2
+24,1958-03-31,NB,57,NORTHUMBERLAND--MIRAMICHI,13158,"MCWILLIAM, George Roy",Liberal,75,Liberal,Lib,t,10206,f,1
+24,1958-03-31,NB,57,NORTHUMBERLAND--MIRAMICHI,13159,"BETTS, John LeRoy",Progressive Conservative,124,Progressive Conservative Party,PC,t,9257,f,2
+24,1958-03-31,NB,58,RESTIGOUCHE--MADAWASKA,13160,"VAN HORNE, Joseph Charles",Progressive Conservative,124,Progressive Conservative Party,PC,t,17221,f,1
+24,1958-03-31,NB,58,RESTIGOUCHE--MADAWASKA,13161,"AZZIE, Ralph",Liberal,75,Liberal,Lib,t,12909,f,2
+24,1958-03-31,NB,58,RESTIGOUCHE--MADAWASKA,13162,"SENECHAL, Joseph Henry Wilfred",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,538,f,3
+24,1958-03-31,NB,59,ROYAL,13163,"BROOKS, Alfred J.",Progressive Conservative,124,Progressive Conservative Party,PC,t,10483,f,1
+24,1958-03-31,NB,59,ROYAL,13164,"O'NEIL, V. Clifford",Liberal,75,Liberal,Lib,t,7031,f,2
+24,1958-03-31,NB,60,ST. JOHN--ALBERT,13165,"BELL, Thomas M.",Progressive Conservative,124,Progressive Conservative Party,PC,t,27049,f,1
+24,1958-03-31,NB,60,ST. JOHN--ALBERT,13166,"MCLEOD, F. George",Liberal,75,Liberal,Lib,t,13917,f,2
+24,1958-03-31,NB,60,ST. JOHN--ALBERT,13167,"RICHARDSON, Eldon J.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1394,f,3
+24,1958-03-31,NB,61,VICTORIA--CARLETON,13168,"MONTGOMERY, Gage W.",Progressive Conservative,124,Progressive Conservative Party,PC,t,10692,f,1
+24,1958-03-31,NB,61,VICTORIA--CARLETON,13170,"BRIGGS, Vernon R.",Liberal,75,Liberal,Lib,t,6483,f,2
+24,1958-03-31,NB,61,VICTORIA--CARLETON,13169,"CRAIG, Robert Hartley",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,651,f,3
+24,1958-03-31,NB,62,WESTMORLAND,13171,"CREAGHAN, William L.M.",Progressive Conservative,124,Progressive Conservative Party,PC,t,20149,f,1
+24,1958-03-31,NB,62,WESTMORLAND,13172,"MURPHY, Henry J.",Liberal,75,Liberal,Lib,t,18597,f,2
+24,1958-03-31,NB,62,WESTMORLAND,13174,"MCALLISTER, J. Edward",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2478,f,3
+24,1958-03-31,NB,62,WESTMORLAND,13173,"TAYLOR, Silas H.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,522,f,4
+24,1958-03-31,NB,63,YORK--SUNBURY,13175,"MACRAE, J. Chester",Progressive Conservative,124,Progressive Conservative Party,PC,t,15943,f,1
+24,1958-03-31,NB,63,YORK--SUNBURY,13177,"DICKSON, David M.",Liberal,75,Liberal,Lib,t,13118,f,2
+24,1958-03-31,NB,63,YORK--SUNBURY,13176,"BRIGHT, R. Lawrence",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,669,f,3
+24,1958-03-31,NL,64,BONAVISTA--TWILLINGATE,13179,"PICKERSGILL, John Whitney",Liberal,75,Liberal,Lib,t,13670,f,1
+24,1958-03-31,NL,64,BONAVISTA--TWILLINGATE,13178,"WINTER, Gerald M.",Progressive Conservative,124,Progressive Conservative Party,PC,t,4323,f,2
+24,1958-03-31,NL,65,BURIN--BURGEO,13180,"CARTER, Chesley W.",Liberal,75,Liberal,Lib,t,11360,f,1
+24,1958-03-31,NL,65,BURIN--BURGEO,13181,"COLE, Harvey",Progressive Conservative,124,Progressive Conservative Party,PC,t,4847,f,2
+24,1958-03-31,NL,66,GRAND FALLS--WHITE BAY--LABRADOR,13182,"GRANGER, Charles Ronald",Liberal,75,Liberal,Lib,t,16328,f,1
+24,1958-03-31,NL,66,GRAND FALLS--WHITE BAY--LABRADOR,13183,"DECKER, David Gordon",Progressive Conservative,124,Progressive Conservative Party,PC,t,10129,f,2
+24,1958-03-31,NL,67,HUMBER--ST. GEORGE'S,13184,"BATTEN, Herman Maxwell",Liberal,75,Liberal,Lib,t,13468,f,1
+24,1958-03-31,NL,67,HUMBER--ST. GEORGE'S,13185,"CAHILL, Thomas J.",Progressive Conservative,124,Progressive Conservative Party,PC,t,10239,f,2
+24,1958-03-31,NL,68,ST. JOHN'S EAST,13186,"MCGRATH, James A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,17894,f,1
+24,1958-03-31,NL,68,ST. JOHN'S EAST,13188,"O'GRADY, J. Gregory",Liberal,75,Liberal,Lib,t,9197,f,2
+24,1958-03-31,NL,68,ST. JOHN'S EAST,13187,"JACKMAN, David Ignatius",Independent Liberal,58,Independent Liberal,IndLib,f,263,f,3
+24,1958-03-31,NL,69,ST. JOHN'S WEST,13190,"BROWNE, William J.",Progressive Conservative,124,Progressive Conservative Party,PC,t,15953,f,1
+24,1958-03-31,NL,69,ST. JOHN'S WEST,13191,"MILLER, Leonard",Liberal,75,Liberal,Lib,t,10338,f,2
+24,1958-03-31,NL,69,ST. JOHN'S WEST,13189,"THOMS, E.E.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,240,f,3
+24,1958-03-31,NL,70,TRINITY--CONCEPTION,13192,"TUCKER, James R.",Liberal,75,Liberal,Lib,t,12599,f,1
+24,1958-03-31,NL,70,TRINITY--CONCEPTION,13193,"HARNETT, Arthur E.",Progressive Conservative,124,Progressive Conservative Party,PC,t,8897,f,2
+24,1958-03-31,NS,71,ANTIGONISH--GUYSBOROUGH,13194,"O'LEARY, Clement",Progressive Conservative,124,Progressive Conservative Party,PC,t,6758,f,1
+24,1958-03-31,NS,71,ANTIGONISH--GUYSBOROUGH,13195,"GRAHAM, Alasdair",Liberal,75,Liberal,Lib,t,5827,f,2
+24,1958-03-31,NS,72,CAPE BRETON NORTH AND VICTORIA,13196,"MUIR, Robert",Progressive Conservative,124,Progressive Conservative Party,PC,t,12046,f,1
+24,1958-03-31,NS,72,CAPE BRETON NORTH AND VICTORIA,13197,"BUCHANAN, William Murdock",Liberal,75,Liberal,Lib,t,8616,f,2
+24,1958-03-31,NS,73,CAPE BRETON SOUTH,13198,"MACINNIS, Donald",Progressive Conservative,124,Progressive Conservative Party,PC,t,17636,f,1
+24,1958-03-31,NS,73,CAPE BRETON SOUTH,13199,"GILLIS, Clarence",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,13044,f,2
+24,1958-03-31,NS,73,CAPE BRETON SOUTH,13200,"DUBINSKY, J. Louis",Liberal,75,Liberal,Lib,t,7754,f,3
+24,1958-03-31,NS,74,COLCHESTER--HANTS,13202,"KENNEDY, Cyril F.",Progressive Conservative,124,Progressive Conservative Party,PC,t,15653,f,1
+24,1958-03-31,NS,74,COLCHESTER--HANTS,13203,"MCLELLAN, Robert Faulkner",Liberal,75,Liberal,Lib,t,11779,f,2
+24,1958-03-31,NS,74,COLCHESTER--HANTS,13201,"LOOMER, Ralph",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1267,f,3
+24,1958-03-31,NS,75,CUMBERLAND,13205,"COATES, Robert Carman",Progressive Conservative,124,Progressive Conservative Party,PC,t,11379,f,1
+24,1958-03-31,NS,75,CUMBERLAND,13204,"LUSBY, Azel Randolph",Liberal,75,Liberal,Lib,t,7525,f,2
+24,1958-03-31,NS,76,DIGBY--ANNAPOLIS--KINGS,13206,"NOWLAN, George Clyde",Progressive Conservative,124,Progressive Conservative Party,PC,t,19432,f,1
+24,1958-03-31,NS,76,DIGBY--ANNAPOLIS--KINGS,13207,"ELDERKIN, Angus A.",Liberal,75,Liberal,Lib,t,13981,f,2
+24,1958-03-31,NS,77,HALIFAX-1,13209,"MCCLEAVE, Robert",Progressive Conservative,124,Progressive Conservative Party,PC,t,53693,f,1
+24,1958-03-31,NS,77,HALIFAX-1,13210,"DICKEY, John",Liberal,75,Liberal,Lib,t,34227,f,2
+24,1958-03-31,NS,77,HALIFAX-1,13208,"MACINTOSH, H.L.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2552,f,3
+24,1958-03-31,NS,78,HALIFAX-2,13211,"MORRIS, Edmund",Progressive Conservative,124,Progressive Conservative Party,PC,t,53255,f,1
+24,1958-03-31,NS,78,HALIFAX-2,13213,"KITZ, Leonard",Liberal,75,Liberal,Lib,t,32916,f,2
+24,1958-03-31,NS,78,HALIFAX-2,13212,"WILSON, Lloyd",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2048,f,3
+24,1958-03-31,NS,79,INVERNESS--RICHMOND,13215,"MACLELLAN, Robert Simpson",Progressive Conservative,124,Progressive Conservative Party,PC,t,7725,f,1
+24,1958-03-31,NS,79,INVERNESS--RICHMOND,13214,"MACEACHEN, Allan Joseph",Liberal,75,Liberal,Lib,t,7709,f,2
+24,1958-03-31,NS,80,PICTOU,13216,"MACEWAN, Russell",Progressive Conservative,124,Progressive Conservative Party,PC,t,13618,f,1
+24,1958-03-31,NS,80,PICTOU,13217,"MACINTOSH, Alex",Liberal,75,Liberal,Lib,t,8911,f,2
+24,1958-03-31,NS,81,QUEENS--LUNENBURG,13218,"CROUSE, Lloyd R.",Progressive Conservative,124,Progressive Conservative Party,PC,t,14156,f,1
+24,1958-03-31,NS,81,QUEENS--LUNENBURG,13219,"MACLEOD, James A.",Liberal,75,Liberal,Lib,t,10594,f,2
+24,1958-03-31,NS,82,SHELBURNE--YARMOUTH--CLARE,13220,"LEGERE, Felton Fenwick",Progressive Conservative,124,Progressive Conservative Party,PC,t,12071,f,1
+24,1958-03-31,NS,82,SHELBURNE--YARMOUTH--CLARE,13221,"KIRK, Thomas Andrew Murray",Liberal,75,Liberal,Lib,t,10187,f,2
+24,1958-03-31,NT,83,MACKENZIE RIVER,13222,"HARDIE, M.A.",Liberal,75,Liberal,Lib,t,2782,f,1
+24,1958-03-31,NT,83,MACKENZIE RIVER,13223,"WINTER, John H.",Progressive Conservative,124,Progressive Conservative Party,PC,t,2080,f,2
+24,1958-03-31,ON,84,ALGOMA EAST,13224,"PEARSON, Lester B.",Liberal,75,Liberal,Lib,t,11240,f,1
+24,1958-03-31,ON,84,ALGOMA EAST,13225,"SCULLY, Basil",Progressive Conservative,124,Progressive Conservative Party,PC,t,8208,f,2
+24,1958-03-31,ON,84,ALGOMA EAST,13226,"CORBETT, Walter James",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2309,f,3
+24,1958-03-31,ON,85,ALGOMA WEST,13228,"NIXON, George Ewart",Liberal,75,Liberal,Lib,t,12390,f,1
+24,1958-03-31,ON,85,ALGOMA WEST,13229,"LANG, Henry",Progressive Conservative,124,Progressive Conservative Party,PC,t,11355,f,2
+24,1958-03-31,ON,85,ALGOMA WEST,13227,"CALLAHAN, Lorne D.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,4801,f,3
+24,1958-03-31,ON,86,BRANT--HALDIMAND,13230,"CHARLTON, John A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,15182,f,1
+24,1958-03-31,ON,86,BRANT--HALDIMAND,13231,"MADDEN, Walter",Liberal,75,Liberal,Lib,t,6630,f,2
+24,1958-03-31,ON,86,BRANT--HALDIMAND,13232,"PRINCE, Herbert",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1462,f,3
+24,1958-03-31,ON,87,BRANTFORD,13233,"WRATTEN, Jack",Progressive Conservative,124,Progressive Conservative Party,PC,t,14059,f,1
+24,1958-03-31,ON,87,BRANTFORD,13234,"LESLIE, James Gray",Liberal,75,Liberal,Lib,t,7694,f,2
+24,1958-03-31,ON,87,BRANTFORD,13235,"MAYCOCK, John",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,3726,f,3
+24,1958-03-31,ON,88,BROADVIEW,13236,"HEES, George",Progressive Conservative,124,Progressive Conservative Party,PC,t,15364,f,1
+24,1958-03-31,ON,88,BROADVIEW,13237,"TAYLOR, George A.",Liberal,75,Liberal,Lib,t,4738,f,2
+24,1958-03-31,ON,88,BROADVIEW,13238,"LEE, John A.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,3356,f,3
+24,1958-03-31,ON,88,BROADVIEW,13239,"DOWSON, Ross",Socialist,148,Socialist,Social,f,447,f,4
+24,1958-03-31,ON,89,BRUCE,13240,"ROBINSON, Andrew E.",Progressive Conservative,124,Progressive Conservative Party,PC,t,9510,f,1
+24,1958-03-31,ON,89,BRUCE,13241,"MERRIAM, Chester M.",Liberal,75,Liberal,Lib,t,4975,f,2
+24,1958-03-31,ON,90,CARLETON,13242,"BELL, Richard Albert",Progressive Conservative,124,Progressive Conservative Party,PC,t,32741,f,1
+24,1958-03-31,ON,90,CARLETON,13243,"HUMBLE, George",Liberal,75,Liberal,Lib,t,13652,f,2
+24,1958-03-31,ON,90,CARLETON,13245,"CRAWFORD, Stewart I.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1777,f,3
+24,1958-03-31,ON,90,CARLETON,13244,"GOUGH, Grace",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,355,f,4
+24,1958-03-31,ON,91,COCHRANE,13246,"HABEL, J. Anaclet",Liberal,75,Liberal,Lib,t,7851,f,1
+24,1958-03-31,ON,91,COCHRANE,13247,"BRUNELLE, René",Progressive Conservative,124,Progressive Conservative Party,PC,t,6941,f,2
+24,1958-03-31,ON,91,COCHRANE,13248,"BALLANTYNE, James",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2729,f,3
+24,1958-03-31,ON,92,DANFORTH,13249,"SMALL, Robert Hardy",Progressive Conservative,124,Progressive Conservative Party,PC,t,24139,f,1
+24,1958-03-31,ON,92,DANFORTH,13251,"BEST, R. Alfred",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,9352,f,2
+24,1958-03-31,ON,92,DANFORTH,13250,"BRUCE, Ernest A.",Liberal,75,Liberal,Lib,t,7529,f,3
+24,1958-03-31,ON,93,DAVENPORT,13252,"MORTON, M. Douglas",Progressive Conservative,124,Progressive Conservative Party,PC,t,12117,f,1
+24,1958-03-31,ON,93,DAVENPORT,13254,"HELLYER, Hon. Paul T.",Liberal,75,Liberal,Lib,t,7872,f,2
+24,1958-03-31,ON,93,DAVENPORT,13253,"BREWIN, F. Andrew",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,4963,f,3
+24,1958-03-31,ON,94,DUFFERIN--SIMCOE,13255,"ROWE, W. Earl",Progressive Conservative,124,Progressive Conservative Party,PC,t,13037,f,1
+24,1958-03-31,ON,94,DUFFERIN--SIMCOE,13256,"BOWERMAN, John D.",Liberal,75,Liberal,Lib,t,5750,f,2
+24,1958-03-31,ON,95,DURHAM,13257,"VIVIAN, Percy",Progressive Conservative,124,Progressive Conservative Party,PC,t,9732,f,1
+24,1958-03-31,ON,95,DURHAM,13258,"HONEY, Russell C.",Liberal,75,Liberal,Lib,t,6178,f,2
+24,1958-03-31,ON,95,DURHAM,13259,"DENT, Ernest",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1480,f,3
+24,1958-03-31,ON,96,EGLINTON,13260,"FLEMING, Donald Methuen",Progressive Conservative,124,Progressive Conservative Party,PC,t,28565,f,1
+24,1958-03-31,ON,96,EGLINTON,13262,"WILSON, Albert J.",Liberal,75,Liberal,Lib,t,9468,f,2
+24,1958-03-31,ON,96,EGLINTON,13261,"GRUBE, Gwenyth",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2646,f,3
+24,1958-03-31,ON,97,ELGIN,13263,"MCBAIN, James A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,17146,f,1
+24,1958-03-31,ON,97,ELGIN,13265,"LAING, Peter",Liberal,75,Liberal,Lib,t,6656,f,2
+24,1958-03-31,ON,97,ELGIN,13264,"ALLEN, Lloyd",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1008,f,3
+24,1958-03-31,ON,97,ELGIN,13266,"YOUCKE, Harold G.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,252,f,4
+24,1958-03-31,ON,98,ESSEX EAST,13267,"MARTIN, Paul",Liberal,75,Liberal,Lib,t,18074,f,1
+24,1958-03-31,ON,98,ESSEX EAST,13269,"HICKS, Roy R.",Progressive Conservative,124,Progressive Conservative Party,PC,t,16451,f,2
+24,1958-03-31,ON,98,ESSEX EAST,13268,"BURR, Fred A.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,8530,f,3
+24,1958-03-31,ON,99,ESSEX SOUTH,13270,"THRASHER, Richard Devere",Progressive Conservative,124,Progressive Conservative Party,PC,t,14326,f,1
+24,1958-03-31,ON,99,ESSEX SOUTH,13272,"ODETTE, Thomas Charles",Liberal,75,Liberal,Lib,t,8222,f,2
+24,1958-03-31,ON,99,ESSEX SOUTH,13271,"HAGGAR, George",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,861,f,3
+24,1958-03-31,ON,100,ESSEX WEST,13273,"SPENCER, Norman L.",Progressive Conservative,124,Progressive Conservative Party,PC,t,18927,f,1
+24,1958-03-31,ON,100,ESSEX WEST,13275,"BROWN, Don",Liberal,75,Liberal,Lib,t,14190,f,2
+24,1958-03-31,ON,100,ESSEX WEST,13276,"WEEKS, Albert H.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,7898,f,3
+24,1958-03-31,ON,100,ESSEX WEST,13274,"CHARRON, Edgar B.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,355,f,4
+24,1958-03-31,ON,101,FORT WILLIAM,13278,"BADANAI, Hubert",Liberal,75,Liberal,Lib,t,9915,f,1
+24,1958-03-31,ON,101,FORT WILLIAM,13277,"WIDNALL, Art",Progressive Conservative,124,Progressive Conservative Party,PC,t,9798,f,2
+24,1958-03-31,ON,101,FORT WILLIAM,13280,"CHICORLI, Michael",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,4953,f,3
+24,1958-03-31,ON,101,FORT WILLIAM,13279,"MAGNUSON, Bruce A.H.",Labour Progressive Party,31,Communist Party,Com,f,224,f,4
+24,1958-03-31,ON,102,GLENGARRY--PRESCOTT,13281,"VILLENEUVE, Osie F.",Progressive Conservative,124,Progressive Conservative Party,PC,t,10385,f,1
+24,1958-03-31,ON,102,GLENGARRY--PRESCOTT,13282,"BRUNEAU, Raymond",Liberal,75,Liberal,Lib,t,9865,f,2
+24,1958-03-31,ON,103,GREENWOOD,13283,"MACDONNELL, James MacKerras",Progressive Conservative,124,Progressive Conservative Party,PC,t,16284,f,1
+24,1958-03-31,ON,103,GREENWOOD,13284,"PUNSHON, Maurice Charles",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,5626,f,2
+24,1958-03-31,ON,103,GREENWOOD,13285,"SOMERS, Inez",Liberal,75,Liberal,Lib,t,4320,f,3
+24,1958-03-31,ON,104,GRENVILLE--DUNDAS,13286,"CASSELMAN, A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,10793,f,1
+24,1958-03-31,ON,104,GRENVILLE--DUNDAS,13287,"CASSELMAN, Arthur Clark",Liberal,75,Liberal,Lib,t,4340,f,2
+24,1958-03-31,ON,104,GRENVILLE--DUNDAS,13288,"JAMES, R.H.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,473,f,3
+24,1958-03-31,ON,105,GREY NORTH,13289,"NOBLE, Percy Vermer",Progressive Conservative,124,Progressive Conservative Party,PC,t,12240,f,1
+24,1958-03-31,ON,105,GREY NORTH,13291,"MARRON, George Arthur",Liberal,75,Liberal,Lib,t,5990,f,2
+24,1958-03-31,ON,105,GREY NORTH,13290,"HUTCHINSON, Stanley James",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1265,f,3
+24,1958-03-31,ON,106,GREY--BRUCE,13292,"WINKLER, Eric Alfred",Progressive Conservative,124,Progressive Conservative Party,PC,t,11878,f,1
+24,1958-03-31,ON,106,GREY--BRUCE,13293,"STEVENSON, Thomas",Liberal,75,Liberal,Lib,t,6248,f,2
+24,1958-03-31,ON,107,HALTON,13294,"BEST, Alexander",Progressive Conservative,124,Progressive Conservative Party,PC,t,21056,f,1
+24,1958-03-31,ON,107,HALTON,13295,"DICK, Ken",Liberal,75,Liberal,Lib,t,9978,f,2
+24,1958-03-31,ON,107,HALTON,13296,"HENRY, Jack",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,3481,f,3
+24,1958-03-31,ON,108,HAMILTON EAST,13297,"MARTINI, Quinto",Progressive Conservative,124,Progressive Conservative Party,PC,t,15046,f,1
+24,1958-03-31,ON,108,HAMILTON EAST,13298,"MOMOTIUK, William",Liberal,75,Liberal,Lib,t,7427,f,2
+24,1958-03-31,ON,108,HAMILTON EAST,13300,"POWELL, William",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,6315,f,3
+24,1958-03-31,ON,108,HAMILTON EAST,13299,"DEWHURST, Alfred",Labour Progressive Party,31,Communist Party,Com,f,537,f,4
+24,1958-03-31,ON,109,HAMILTON SOUTH,13301,"MCDONALD, Robert M.T.",Progressive Conservative,124,Progressive Conservative Party,PC,t,24453,f,1
+24,1958-03-31,ON,109,HAMILTON SOUTH,13302,"LAWRENCE, David",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,10874,f,2
+24,1958-03-31,ON,109,HAMILTON SOUTH,13303,"REINKE, Russell Earl",Liberal,75,Liberal,Lib,t,9860,f,3
+24,1958-03-31,ON,110,HAMILTON WEST,13304,"FAIRCLOUGH, Ellen Louks",Progressive Conservative,124,Progressive Conservative Party,PC,t,19863,f,1
+24,1958-03-31,ON,110,HAMILTON WEST,13305,"CREWE, Dorothy Jane",Liberal,75,Liberal,Lib,t,6094,f,2
+24,1958-03-31,ON,110,HAMILTON WEST,13306,"SCANDLAN, William",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,4742,f,3
+24,1958-03-31,ON,111,HASTINGS SOUTH,13307,"GRILLS, Lee",Progressive Conservative,124,Progressive Conservative Party,PC,t,17849,f,1
+24,1958-03-31,ON,111,HASTINGS SOUTH,13308,"MCVICKER, Daniel Clarence",Liberal,75,Liberal,Lib,t,10069,f,2
+24,1958-03-31,ON,111,HASTINGS SOUTH,13309,"WEESE, Howard",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1058,f,3
+24,1958-03-31,ON,112,HASTINGS--FRONTENAC,13310,"SMITH, Sidney Earle",Progressive Conservative,124,Progressive Conservative Party,PC,t,13983,f,1
+24,1958-03-31,ON,112,HASTINGS--FRONTENAC,13311,"SHANNON, William Arthur",Liberal,75,Liberal,Lib,t,5564,f,2
+24,1958-03-31,ON,112,HASTINGS--FRONTENAC,13312,"JENKINS, Cecil Alexander",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,606,f,3
+24,1958-03-31,ON,113,HIGH PARK,13313,"KUCHEREPA, John W.",Progressive Conservative,124,Progressive Conservative Party,PC,t,14289,f,1
+24,1958-03-31,ON,113,HIGH PARK,13316,"CAMERON, Allan John Patrick",Liberal,75,Liberal,Lib,t,9586,f,2
+24,1958-03-31,ON,113,HIGH PARK,13314,"PETHICK, Clarence W.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,3256,f,3
+24,1958-03-31,ON,113,HIGH PARK,13315,"DU MARESQ, Earl",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,237,f,4
+24,1958-03-31,ON,114,HURON,13317,"CARDIFF, Elston",Progressive Conservative,124,Progressive Conservative Party,PC,t,14108,f,1
+24,1958-03-31,ON,114,HURON,13318,"COCHRANE, William G.",Liberal,75,Liberal,Lib,t,7550,f,2
+24,1958-03-31,ON,115,KENORA--RAINY RIVER,13319,"BENIDICKSON, William Moore",Liberal Labour,65,Labour,Labour,f,11956,f,1
+24,1958-03-31,ON,115,KENORA--RAINY RIVER,13320,"ROBERTSON, John A. Pete",Progressive Conservative,124,Progressive Conservative Party,PC,t,11773,f,2
+24,1958-03-31,ON,115,KENORA--RAINY RIVER,13321,"WELSBY, Andre",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,3487,f,3
+24,1958-03-31,ON,116,KENT,13322,"DANFORTH, Harold W.",Progressive Conservative,124,Progressive Conservative Party,PC,t,17348,f,1
+24,1958-03-31,ON,116,KENT,13323,"HUFFMAN, E. Blake",Liberal,75,Liberal,Lib,t,13005,f,2
+24,1958-03-31,ON,116,KENT,13324,"BRUBACHER, Enos B.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,661,f,3
+24,1958-03-31,ON,117,KINGSTON,13325,"ALLMARK, Ben",Progressive Conservative,124,Progressive Conservative Party,PC,t,16989,f,1
+24,1958-03-31,ON,117,KINGSTON,13326,"HENDERSON, William James",Liberal,75,Liberal,Lib,t,14862,f,2
+24,1958-03-31,ON,117,KINGSTON,13327,"MCKINNON, John H.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,887,f,3
+24,1958-03-31,ON,118,LAMBTON WEST,13328,"MURPHY, Joseph Warner",Progressive Conservative,124,Progressive Conservative Party,PC,t,16603,f,1
+24,1958-03-31,ON,118,LAMBTON WEST,13330,"MCEACHRAN, John Stalker",Liberal,75,Liberal,Lib,t,10197,f,2
+24,1958-03-31,ON,118,LAMBTON WEST,13331,"CUNNINGHAM, Cecil Andrew",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2124,f,3
+24,1958-03-31,ON,118,LAMBTON WEST,13329,"CROSSLEY, Charles Carleton",Independent,52,Independent,Ind,f,164,f,4
+24,1958-03-31,ON,119,LAMBTON--KENT,13332,"CAMPBELL, Ernest John",Progressive Conservative,124,Progressive Conservative Party,PC,t,12835,f,1
+24,1958-03-31,ON,119,LAMBTON--KENT,13333,"MCBRAYNE, Roy",Liberal,75,Liberal,Lib,t,5749,f,2
+24,1958-03-31,ON,120,LANARK,13334,"DOUCETT, George H.",Progressive Conservative,124,Progressive Conservative Party,PC,t,12116,f,1
+24,1958-03-31,ON,120,LANARK,13335,"WOOD, William Y.",Liberal,75,Liberal,Lib,t,4315,f,2
+24,1958-03-31,ON,121,LEEDS,13336,"STANTON, Hayden",Progressive Conservative,124,Progressive Conservative Party,PC,t,12675,f,1
+24,1958-03-31,ON,121,LEEDS,13337,"FULFORD, George Taylor",Liberal,75,Liberal,Lib,t,9145,f,2
+24,1958-03-31,ON,122,LINCOLN,13338,"SMITH, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,29958,f,1
+24,1958-03-31,ON,122,LINCOLN,13339,"CAVERS, Harry Peter",Liberal,75,Liberal,Lib,t,15063,f,2
+24,1958-03-31,ON,122,LINCOLN,13340,"PETRIE, Auldham Roy",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,4978,f,3
+24,1958-03-31,ON,122,LINCOLN,13341,"PRENTICE, Howard",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,949,f,4
+24,1958-03-31,ON,123,LONDON,13342,"HALPENNY, G. Ernest",Progressive Conservative,124,Progressive Conservative Party,PC,t,24276,f,1
+24,1958-03-31,ON,123,LONDON,13343,"MACKENZIE, Hugh Alexander",Liberal,75,Liberal,Lib,t,9107,f,2
+24,1958-03-31,ON,123,LONDON,13344,"HALL, E.O.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2598,f,3
+24,1958-03-31,ON,124,MIDDLESEX EAST,13345,"WHITE, Harry Oliver",Progressive Conservative,124,Progressive Conservative Party,PC,t,24896,f,1
+24,1958-03-31,ON,124,MIDDLESEX EAST,13347,"PLEWES, Harry Roe",Liberal,75,Liberal,Lib,t,7849,f,2
+24,1958-03-31,ON,124,MIDDLESEX EAST,13346,"GRANT, Andrew",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,3125,f,3
+24,1958-03-31,ON,125,MIDDLESEX WEST,13348,"THOMAS, W.H.A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,11974,f,1
+24,1958-03-31,ON,125,MIDDLESEX WEST,13349,"WALES, Harvey",Liberal,75,Liberal,Lib,t,5883,f,2
+24,1958-03-31,ON,126,NIAGARA FALLS,13350,"HOUCK, William L.",Liberal,75,Liberal,Lib,t,14025,f,1
+24,1958-03-31,ON,126,NIAGARA FALLS,13351,"HAMILTON, Robert H.",Progressive Conservative,124,Progressive Conservative Party,PC,t,13504,f,2
+24,1958-03-31,ON,126,NIAGARA FALLS,13352,"TWOCOCK, Edward F.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,3115,f,3
+24,1958-03-31,ON,127,NICKEL BELT,13353,"GODIN, O.-J.",Liberal,75,Liberal,Lib,t,11866,f,1
+24,1958-03-31,ON,127,NICKEL BELT,13354,"FALZETTA, Anthony",Progressive Conservative,124,Progressive Conservative Party,PC,t,8556,f,2
+24,1958-03-31,ON,127,NICKEL BELT,13355,"PRESCOTT, Harold",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,4772,f,3
+24,1958-03-31,ON,128,NIPISSING,13356,"GARLAND, John Richard",Liberal,75,Liberal,Lib,t,15046,f,1
+24,1958-03-31,ON,128,NIPISSING,13358,"KENNEDY, Johnston Albert",Progressive Conservative,124,Progressive Conservative Party,PC,t,10422,f,2
+24,1958-03-31,ON,128,NIPISSING,13357,"THOMAS, Leonard Herbert",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1242,f,3
+24,1958-03-31,ON,129,NORFOLK,13359,"KNOWLES, J. Evans",Progressive Conservative,124,Progressive Conservative Party,PC,t,12369,f,1
+24,1958-03-31,ON,129,NORFOLK,13360,"ANDERSON, Raymond E.",Liberal,75,Liberal,Lib,t,7347,f,2
+24,1958-03-31,ON,130,NORTHUMBERLAND,13361,"THOMPSON, Ben",Progressive Conservative,124,Progressive Conservative Party,PC,t,12517,f,1
+24,1958-03-31,ON,130,NORTHUMBERLAND,13362,"SWEET, Wesley R.",Liberal,75,Liberal,Lib,t,7028,f,2
+24,1958-03-31,ON,131,ONTARIO,13363,"STARR, Michael",Progressive Conservative,124,Progressive Conservative Party,PC,t,26887,f,1
+24,1958-03-31,ON,131,ONTARIO,13364,"VIPOND, Claude H.",Liberal,75,Liberal,Lib,t,10848,f,2
+24,1958-03-31,ON,131,ONTARIO,13365,"BRADY, John",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,8023,f,3
+24,1958-03-31,ON,131,ONTARIO,13366,"NEILSON, Helge",Independent,52,Independent,Ind,f,248,f,4
+24,1958-03-31,ON,132,OTTAWA EAST,13367,"RICHARD, J.-T.",Liberal,75,Liberal,Lib,t,17161,f,1
+24,1958-03-31,ON,132,OTTAWA EAST,13368,"CHENIER, R.-D.",Progressive Conservative,124,Progressive Conservative Party,PC,t,9850,f,2
+24,1958-03-31,ON,132,OTTAWA EAST,13369,"LAYMAN, William A.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,573,f,3
+24,1958-03-31,ON,132,OTTAWA EAST,13370,"BERTHIAUME, Raymond",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,357,f,4
+24,1958-03-31,ON,133,OTTAWA WEST,13371,"MCILRAITH, George",Liberal,75,Liberal,Lib,t,19098,f,1
+24,1958-03-31,ON,133,OTTAWA WEST,13372,"WHITTON, Charlotte",Progressive Conservative,124,Progressive Conservative Party,PC,t,17673,f,2
+24,1958-03-31,ON,133,OTTAWA WEST,13373,"ALLEN, James A.M.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,751,f,3
+24,1958-03-31,ON,134,OXFORD,13374,"NESBITT, Wally",Progressive Conservative,124,Progressive Conservative Party,PC,t,22079,f,1
+24,1958-03-31,ON,134,OXFORD,13375,"CLARK, Hector Alexander",Liberal,75,Liberal,Lib,t,7305,f,2
+24,1958-03-31,ON,135,PARKDALE,13377,"MALONEY, Arthur",Progressive Conservative,124,Progressive Conservative Party,PC,t,13640,f,1
+24,1958-03-31,ON,135,PARKDALE,13378,"HUNTER, John",Liberal,75,Liberal,Lib,t,8599,f,2
+24,1958-03-31,ON,135,PARKDALE,13376,"CHISHOLM, Archie A.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,3492,f,3
+24,1958-03-31,ON,135,PARKDALE,13379,"CLARKE, Nelson",Labour Progressive Party,31,Communist Party,Com,f,344,f,4
+24,1958-03-31,ON,136,PARRY SOUND--MUSKOKA,13380,"AIKEN, Gordon Harvey",Progressive Conservative,124,Progressive Conservative Party,PC,t,14888,f,1
+24,1958-03-31,ON,136,PARRY SOUND--MUSKOKA,13381,"MCDONALD, Earl",Liberal,75,Liberal,Lib,t,6833,f,2
+24,1958-03-31,ON,136,PARRY SOUND--MUSKOKA,13382,"BISHOP, Hugh A.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2414,f,3
+24,1958-03-31,ON,137,PEEL,13383,"PALLETT, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,23379,f,1
+24,1958-03-31,ON,137,PEEL,13384,"FASKEN, Bob",Liberal,75,Liberal,Lib,t,10357,f,2
+24,1958-03-31,ON,137,PEEL,13385,"WHITEHOUSE, John R.W.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,3848,f,3
+24,1958-03-31,ON,137,PEEL,13386,"CARMICHAEL, Neil",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,640,f,4
+24,1958-03-31,ON,138,PERTH,13387,"MONTEITH, J. Waldo",Progressive Conservative,124,Progressive Conservative Party,PC,t,18295,f,1
+24,1958-03-31,ON,138,PERTH,13388,"NEILSON, James C.",Liberal,75,Liberal,Lib,t,6842,f,2
+24,1958-03-31,ON,138,PERTH,13389,"PARKER, Theodore R.",Independent,52,Independent,Ind,f,859,f,3
+24,1958-03-31,ON,139,PETERBOROUGH,13390,"FRASER, Gordon Knapman",Progressive Conservative,124,Progressive Conservative Party,PC,t,19032,f,1
+24,1958-03-31,ON,139,PETERBOROUGH,13391,"PRICE, Glenn",Liberal,75,Liberal,Lib,t,7254,f,2
+24,1958-03-31,ON,139,PETERBOROUGH,13392,"TAYLOR, John T.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1887,f,3
+24,1958-03-31,ON,139,PETERBOROUGH,13393,"GRAVES, Martin Charles",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,326,f,4
+24,1958-03-31,ON,140,PORT ARTHUR,13394,"FISHER, Douglas M.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,12217,f,1
+24,1958-03-31,ON,140,PORT ARTHUR,13395,"WILSON, Norman R.",Progressive Conservative,124,Progressive Conservative Party,PC,t,10215,f,2
+24,1958-03-31,ON,140,PORT ARTHUR,13396,"ANTEN, Edward V.",Liberal,75,Liberal,Lib,t,9043,f,3
+24,1958-03-31,ON,141,PRINCE EDWARD--LENNOX,13397,"MILLIGAN, Clarence Adam",Progressive Conservative,124,Progressive Conservative Party,PC,t,10783,f,1
+24,1958-03-31,ON,141,PRINCE EDWARD--LENNOX,13398,"NORMAN, Fred",Liberal,75,Liberal,Lib,t,4458,f,2
+24,1958-03-31,ON,142,RENFREW NORTH,13399,"FORGIE, James Moffat",Liberal,75,Liberal,Lib,t,10425,f,1
+24,1958-03-31,ON,142,RENFREW NORTH,13400,"HUNT, Stanley J.",Progressive Conservative,124,Progressive Conservative Party,PC,t,10226,f,2
+24,1958-03-31,ON,143,RENFREW SOUTH,13401,"BASKIN, James W.",Progressive Conservative,124,Progressive Conservative Party,PC,t,9259,f,1
+24,1958-03-31,ON,143,RENFREW SOUTH,13402,"STEWART, D. Wallace",Liberal,75,Liberal,Lib,t,8148,f,2
+24,1958-03-31,ON,144,ROSEDALE,13403,"WALKER, David J.",Progressive Conservative,124,Progressive Conservative Party,PC,t,15429,f,1
+24,1958-03-31,ON,144,ROSEDALE,13404,"O'NEILL, Tom",Liberal,75,Liberal,Lib,t,6412,f,2
+24,1958-03-31,ON,144,ROSEDALE,13405,"MCAULAY, Tom",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2570,f,3
+24,1958-03-31,ON,145,RUSSELL,13406,"GOUR, Joseph-Omer",Liberal,75,Liberal,Lib,t,21575,f,1
+24,1958-03-31,ON,145,RUSSELL,13407,"NIXON, Wib",Progressive Conservative,124,Progressive Conservative Party,PC,t,19464,f,2
+24,1958-03-31,ON,145,RUSSELL,13408,"JACKS, Harry",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1224,f,3
+24,1958-03-31,ON,145,RUSSELL,13409,"PARISIEN, Eddie",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,594,f,4
+24,1958-03-31,ON,146,SIMCOE EAST,13410,"RYNARD, P.B.",Progressive Conservative,124,Progressive Conservative Party,PC,t,15149,f,1
+24,1958-03-31,ON,146,SIMCOE EAST,13411,"MACISAAC, John R.",Liberal,75,Liberal,Lib,t,7403,f,2
+24,1958-03-31,ON,146,SIMCOE EAST,13412,"WINCHESTER, William A.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1423,f,3
+24,1958-03-31,ON,147,SIMCOE NORTH,13413,"SMITH, Heber",Progressive Conservative,124,Progressive Conservative Party,PC,t,13855,f,1
+24,1958-03-31,ON,147,SIMCOE NORTH,13414,"CAMPBELL, William S.",Liberal,75,Liberal,Lib,t,5890,f,2
+24,1958-03-31,ON,148,SPADINA,13415,"REA, Charles E.",Progressive Conservative,124,Progressive Conservative Party,PC,t,14616,f,1
+24,1958-03-31,ON,148,SPADINA,13416,"GIVENS, Philip G.",Liberal,75,Liberal,Lib,t,10596,f,2
+24,1958-03-31,ON,148,SPADINA,13417,"KEDZIERZYKOWSKI, Jack",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,3040,f,3
+24,1958-03-31,ON,148,SPADINA,13418,"WALSH, Sam",Labour Progressive Party,31,Communist Party,Com,f,652,f,4
+24,1958-03-31,ON,148,SPADINA,13419,"CUREATZ, Dorothy",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,233,f,5
+24,1958-03-31,ON,149,ST. PAUL'S,13420,"MICHENER, Roland",Progressive Conservative,124,Progressive Conservative Party,PC,t,18213,f,1
+24,1958-03-31,ON,149,ST. PAUL'S,13421,"WILLIAMS, Joseph S.",Liberal,75,Liberal,Lib,t,7212,f,2
+24,1958-03-31,ON,149,ST. PAUL'S,13422,"THOMPSON, Margot",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2686,f,3
+24,1958-03-31,ON,150,STORMONT,13423,"CAMPBELL, Grant",Progressive Conservative,124,Progressive Conservative Party,PC,t,13964,f,1
+24,1958-03-31,ON,150,STORMONT,13424,"LAVIGNE, Albert Peter",Liberal,75,Liberal,Lib,t,11977,f,2
+24,1958-03-31,ON,150,STORMONT,13425,"ROWAT, Melvin Andrew",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,331,f,3
+24,1958-03-31,ON,151,SUDBURY,13426,"MITCHELL, Rodger",Liberal,75,Liberal,Lib,t,16216,f,1
+24,1958-03-31,ON,151,SUDBURY,13427,"MITCHELL, R.M.",Progressive Conservative,124,Progressive Conservative Party,PC,t,11084,f,2
+24,1958-03-31,ON,151,SUDBURY,13428,"ELLIS, Bill",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,4413,f,3
+24,1958-03-31,ON,152,TIMISKAMING,13429,"PETERS, Arnold",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,7544,f,1
+24,1958-03-31,ON,152,TIMISKAMING,13430,"RICE, C. Foster",Progressive Conservative,124,Progressive Conservative Party,PC,t,7318,f,2
+24,1958-03-31,ON,152,TIMISKAMING,13431,"MIRON, Ted J.",Liberal,75,Liberal,Lib,t,6118,f,3
+24,1958-03-31,ON,153,TIMMINS,13432,"MARTIN, Murdo",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,7342,f,1
+24,1958-03-31,ON,153,TIMMINS,13433,"BRUNETTE, J.-Emile",Progressive Conservative,124,Progressive Conservative Party,PC,t,6252,f,2
+24,1958-03-31,ON,153,TIMMINS,13434,"EVANS, Joseph J.",Liberal,75,Liberal,Lib,t,5719,f,3
+24,1958-03-31,ON,154,TRINITY,13435,"LOCKYER, Edward R.",Progressive Conservative,124,Progressive Conservative Party,PC,t,10203,f,1
+24,1958-03-31,ON,154,TRINITY,13436,"HAIDASZ, Stanley",Liberal,75,Liberal,Lib,t,8177,f,2
+24,1958-03-31,ON,154,TRINITY,13437,"ANCEVICH, Frank",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,3170,f,3
+24,1958-03-31,ON,154,TRINITY,13438,"BUCK, Timothy",Labour Progressive Party,31,Communist Party,Com,f,851,f,4
+24,1958-03-31,ON,155,VICTORIA,13439,"HODGSON, Clayton Wesley",Progressive Conservative,124,Progressive Conservative Party,PC,t,16080,f,1
+24,1958-03-31,ON,155,VICTORIA,13440,"HUTTON, Joseph A.",Liberal,75,Liberal,Lib,t,5190,f,2
+24,1958-03-31,ON,155,VICTORIA,13441,"CONSTABLE, George",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1112,f,3
+24,1958-03-31,ON,156,WATERLOO NORTH,13442,"WEICHEL, O.W. Mike",Progressive Conservative,124,Progressive Conservative Party,PC,t,24526,f,1
+24,1958-03-31,ON,156,WATERLOO NORTH,13443,"SCHNEIDER, Norman C.",Liberal,75,Liberal,Lib,t,15206,f,2
+24,1958-03-31,ON,156,WATERLOO NORTH,13444,"HONSBERGER, Russell",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,5148,f,3
+24,1958-03-31,ON,157,WATERLOO SOUTH,13445,"ANDERSON, William",Progressive Conservative,124,Progressive Conservative Party,PC,t,15624,f,1
+24,1958-03-31,ON,157,WATERLOO SOUTH,13446,"OLIVER, Marjorie",Liberal,75,Liberal,Lib,t,5793,f,2
+24,1958-03-31,ON,157,WATERLOO SOUTH,13447,"ISLEY, Theodore H.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,4415,f,3
+24,1958-03-31,ON,158,WELLAND,13448,"MCMILLAN, William H.",Liberal,75,Liberal,Lib,t,15365,f,1
+24,1958-03-31,ON,158,WELLAND,13449,"PIETZ, Allan Ernest",Progressive Conservative,124,Progressive Conservative Party,PC,t,14053,f,2
+24,1958-03-31,ON,158,WELLAND,13450,"SWART, Mel",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,6550,f,3
+24,1958-03-31,ON,159,WELLINGTON SOUTH,13451,"HALES, Alfred Dryden",Progressive Conservative,124,Progressive Conservative Party,PC,t,15160,f,1
+24,1958-03-31,ON,159,WELLINGTON SOUTH,13452,"KEATING, James B.",Liberal,75,Liberal,Lib,t,8194,f,2
+24,1958-03-31,ON,159,WELLINGTON SOUTH,13453,"WHITE, Fred J.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2186,f,3
+24,1958-03-31,ON,160,WELLINGTON--HURON,13454,"HOWE, Marvin",Progressive Conservative,124,Progressive Conservative Party,PC,t,10574,f,1
+24,1958-03-31,ON,160,WELLINGTON--HURON,13455,"MCLELLAN, Ross",Liberal,75,Liberal,Lib,t,4963,f,2
+24,1958-03-31,ON,161,WENTWORTH,13456,"LENNARD, Frank Exton",Progressive Conservative,124,Progressive Conservative Party,PC,t,23854,f,1
+24,1958-03-31,ON,161,WENTWORTH,13458,"DUNHAM, William Kitchen",Liberal,75,Liberal,Lib,t,7578,f,2
+24,1958-03-31,ON,161,WENTWORTH,13457,"ZULINIAK, John Joseph",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,4972,f,3
+24,1958-03-31,ON,162,YORK CENTRE,13459,"STINSON, Fred C.",Progressive Conservative,124,Progressive Conservative Party,PC,t,30764,f,1
+24,1958-03-31,ON,162,YORK CENTRE,13461,"HOLLINGWORTH, Allan Henry",Liberal,75,Liberal,Lib,t,19065,f,2
+24,1958-03-31,ON,162,YORK CENTRE,13460,"SHEFFE, Larry",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,7888,f,3
+24,1958-03-31,ON,163,YORK EAST,13462,"MCGREGOR, R.H.",Progressive Conservative,124,Progressive Conservative Party,PC,t,22900,f,1
+24,1958-03-31,ON,163,YORK EAST,13463,"TOWER, Ray. S.",Liberal,75,Liberal,Lib,t,8317,f,2
+24,1958-03-31,ON,163,YORK EAST,13464,"DUNKLEY, Sid",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,6033,f,3
+24,1958-03-31,ON,164,YORK NORTH,13465,"CATHERS, C.A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,21499,f,1
+24,1958-03-31,ON,164,YORK NORTH,13467,"COOK, Sam",Liberal,75,Liberal,Lib,t,9523,f,2
+24,1958-03-31,ON,164,YORK NORTH,13468,"PRENTICE, Fred",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2148,f,3
+24,1958-03-31,ON,164,YORK NORTH,13466,"GREER, W. Dave",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,494,f,4
+24,1958-03-31,ON,165,YORK SOUTH,13469,"BEECH, Wm. G.",Progressive Conservative,124,Progressive Conservative Party,PC,t,22980,f,1
+24,1958-03-31,ON,165,YORK SOUTH,13470,"GELBER, Marvin",Liberal,75,Liberal,Lib,t,13141,f,2
+24,1958-03-31,ON,165,YORK SOUTH,13471,"SEFTON, Bill",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,9643,f,3
+24,1958-03-31,ON,165,YORK SOUTH,13472,"MORRIS, Leslie",Labour Progressive Party,31,Communist Party,Com,f,427,f,4
+24,1958-03-31,ON,165,YORK SOUTH,13473,"JAMIESON, Harvey",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,258,f,5
+24,1958-03-31,ON,166,YORK WEST,13474,"HAMILTON, John B.",Progressive Conservative,124,Progressive Conservative Party,PC,t,34208,f,1
+24,1958-03-31,ON,166,YORK WEST,13475,"BELL, Jack",Liberal,75,Liberal,Lib,t,15589,f,2
+24,1958-03-31,ON,166,YORK WEST,13476,"SARK, Rose",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,6502,f,3
+24,1958-03-31,ON,166,YORK WEST,13477,"MILNE, David R.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,612,f,4
+24,1958-03-31,ON,167,YORK--HUMBER,13478,"AITKEN, Margaret",Progressive Conservative,124,Progressive Conservative Party,PC,t,23723,f,1
+24,1958-03-31,ON,167,YORK--HUMBER,13480,"DACOSTA, Elena Murdock",Liberal,75,Liberal,Lib,t,9557,f,2
+24,1958-03-31,ON,167,YORK--HUMBER,13479,"COLLINS, Leonard",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,6257,f,3
+24,1958-03-31,ON,168,YORK--SCARBOROUGH,13481,"MCGEE, Frank",Progressive Conservative,124,Progressive Conservative Party,PC,t,57396,f,1
+24,1958-03-31,ON,168,YORK--SCARBOROUGH,13483,"ENFIELD, Frank A.",Liberal,75,Liberal,Lib,t,22019,f,2
+24,1958-03-31,ON,168,YORK--SCARBOROUGH,13482,"SIGEN, Elva R.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,8123,f,3
+24,1958-03-31,ON,168,YORK--SCARBOROUGH,13484,"BIRRELL, E. Shipley",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,653,f,4
+24,1958-03-31,PE,169,KING'S,13486,"MACDONALD, John A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,5018,f,1
+24,1958-03-31,PE,169,KING'S,13485,"KICKHAM, Thomas Joseph",Liberal,75,Liberal,Lib,t,3884,f,2
+24,1958-03-31,PE,170,PRINCE,13487,"PHILLIPS, Orville H.",Progressive Conservative,124,Progressive Conservative Party,PC,t,10444,f,1
+24,1958-03-31,PE,170,PRINCE,13488,"MACNAUGHT, J. Watson",Liberal,75,Liberal,Lib,t,6636,f,2
+24,1958-03-31,PE,170,PRINCE,13489,"GALLANT, Cyrus F.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,215,f,3
+24,1958-03-31,PE,171,QUEEN'S-1,13491,"MACQUARRIE, Heath",Progressive Conservative,124,Progressive Conservative Party,PC,t,13480,f,1
+24,1958-03-31,PE,171,QUEEN'S-1,13490,"CAMPBELL, J.O.C.",Liberal,75,Liberal,Lib,t,7540,f,2
+24,1958-03-31,PE,172,QUEEN'S-2,13493,"MACLEAN, J. Angus",Progressive Conservative,124,Progressive Conservative Party,PC,t,13969,f,1
+24,1958-03-31,PE,172,QUEEN'S-2,13492,"REID, Ernest D.",Liberal,75,Liberal,Lib,t,7787,f,2
+24,1958-03-31,QC,173,ARGENTEUIL--DEUX-MONTAGNES,13494,"LATOUR, J.-Octave",Progressive Conservative,124,Progressive Conservative Party,PC,t,14483,f,1
+24,1958-03-31,QC,173,ARGENTEUIL--DEUX-MONTAGNES,13495,"GOSSELIN, Bernard-L.",Liberal,75,Liberal,Lib,t,10493,f,2
+24,1958-03-31,QC,173,ARGENTEUIL--DEUX-MONTAGNES,13496,"DUHAMEL, Georges",Independent Progressive Conservative,62,Independent Progressive Conservative,IndProgCon,f,626,f,3
+24,1958-03-31,QC,174,BEAUCE,13497,"RACINE, Jean-Paul",Liberal,75,Liberal,Lib,t,10417,f,1
+24,1958-03-31,QC,174,BEAUCE,13498,"POULIN, Raoul",Independent,52,Independent,Ind,f,9984,f,2
+24,1958-03-31,QC,174,BEAUCE,13499,"HALL, Eddy",Progressive Conservative,124,Progressive Conservative Party,PC,t,4217,f,3
+24,1958-03-31,QC,175,BEAUHARNOIS--SALABERRY,13500,"BRUCHESI, Gérard",Progressive Conservative,124,Progressive Conservative Party,PC,t,13202,f,1
+24,1958-03-31,QC,175,BEAUHARNOIS--SALABERRY,13501,"CAUCHON, Robert",Liberal,75,Liberal,Lib,t,12368,f,2
+24,1958-03-31,QC,176,BELLECHASSE,13502,"DORION, Noël",Progressive Conservative,124,Progressive Conservative Party,PC,t,6861,f,1
+24,1958-03-31,QC,176,BELLECHASSE,13503,"LAFLAMME, Ovide",Liberal,75,Liberal,Lib,t,6255,f,2
+24,1958-03-31,QC,177,BERTHIER--MASKINONGÉ--DELANAUDIÈRE,13505,"PAUL, Rémi",Progressive Conservative,124,Progressive Conservative Party,PC,t,12702,f,1
+24,1958-03-31,QC,177,BERTHIER--MASKINONGÉ--DELANAUDIÈRE,13504,"DOUCET, Roland",Liberal,75,Liberal,Lib,t,8738,f,2
+24,1958-03-31,QC,178,BONAVENTURE,13506,"GRENIER, Lucien",Progressive Conservative,124,Progressive Conservative Party,PC,t,9135,f,1
+24,1958-03-31,QC,178,BONAVENTURE,13507,"DUBE, André",Liberal,75,Liberal,Lib,t,7741,f,2
+24,1958-03-31,QC,179,BROME--MISSISQUOI,13508,"GRAFFTEY, Heward",Progressive Conservative,124,Progressive Conservative Party,PC,t,11361,f,1
+24,1958-03-31,QC,179,BROME--MISSISQUOI,13509,"HALLE, Maurice",Liberal,75,Liberal,Lib,t,7093,f,2
+24,1958-03-31,QC,180,CARTIER,13510,"CRESTOHL, Leon David",Liberal,75,Liberal,Lib,t,7097,f,1
+24,1958-03-31,QC,180,CARTIER,13511,"BROCK, Hyman Bernard",Progressive Conservative,124,Progressive Conservative Party,PC,t,6850,f,2
+24,1958-03-31,QC,180,CARTIER,13512,"KOLOMEIR, Samuel",Independent Liberal,58,Independent Liberal,IndLib,f,1528,f,3
+24,1958-03-31,QC,180,CARTIER,13513,"WOZNIAK, Michael",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,713,f,4
+24,1958-03-31,QC,181,CHAMBLY--ROUVILLE,13514,"JOHNSON, Maurice",Progressive Conservative,124,Progressive Conservative Party,PC,t,10546,f,1
+24,1958-03-31,QC,181,CHAMBLY--ROUVILLE,13516,"L'HEUREUX, Yvon",Liberal,75,Liberal,Lib,t,10224,f,2
+24,1958-03-31,QC,181,CHAMBLY--ROUVILLE,13515,"LUSSIER, Camille",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,366,f,3
+24,1958-03-31,QC,182,CHAMPLAIN,13517,"LAHAYE, Paul",Progressive Conservative,124,Progressive Conservative Party,PC,t,13537,f,1
+24,1958-03-31,QC,182,CHAMPLAIN,13518,"MONGRAIN, J.-Alfred",Liberal,75,Liberal,Lib,t,13374,f,2
+24,1958-03-31,QC,183,CHAPLEAU,13519,"MARTEL, Jean-Jacques",Progressive Conservative,124,Progressive Conservative Party,PC,t,14705,f,1
+24,1958-03-31,QC,183,CHAPLEAU,13520,"BARBES, Charles-Noël",Liberal,75,Liberal,Lib,t,9764,f,2
+24,1958-03-31,QC,183,CHAPLEAU,13521,"ROULEAU, Jean-Jacques",Parti ouvrier canadien,111,Parti ouvrier canadien,OuvCan,f,243,f,3
+24,1958-03-31,QC,184,CHARLEVOIX,13522,"ASSELIN, Martial",Progressive Conservative,124,Progressive Conservative Party,PC,t,12315,f,1
+24,1958-03-31,QC,184,CHARLEVOIX,13523,"MALTAIS, Auguste",Liberal,75,Liberal,Lib,t,7918,f,2
+24,1958-03-31,QC,185,CHICOUTIMI,13524,"BRASSARD, Vincent",Progressive Conservative,124,Progressive Conservative Party,PC,t,15407,f,1
+24,1958-03-31,QC,185,CHICOUTIMI,13525,"GAUTHIER, Rosaire",Liberal,75,Liberal,Lib,t,12348,f,2
+24,1958-03-31,QC,185,CHICOUTIMI,13526,"GLADU, Victor",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2666,f,3
+24,1958-03-31,QC,186,CHÂTEAUGUAY--HUNTINGDON--LAPRAIRIE,13527,"BARRINGTON, Merrill Edwin",Progressive Conservative,124,Progressive Conservative Party,PC,t,12365,f,1
+24,1958-03-31,QC,186,CHÂTEAUGUAY--HUNTINGDON--LAPRAIRIE,13528,"Boucher, Jean",Liberal,75,Liberal,Lib,t,6472,f,2
+24,1958-03-31,QC,187,COMPTON--FRONTENAC,13529,"STEARNS, George Mac",Progressive Conservative,124,Progressive Conservative Party,PC,t,9383,f,1
+24,1958-03-31,QC,187,COMPTON--FRONTENAC,13530,"BLANCHETTE, J.-A.",Liberal,75,Liberal,Lib,t,8349,f,2
+24,1958-03-31,QC,187,COMPTON--FRONTENAC,13531,"LOWRY, Curtis Henry",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,331,f,3
+24,1958-03-31,QC,188,DOLLARD,13532,"ROULEAU, Guy",Liberal,75,Liberal,Lib,t,18760,f,1
+24,1958-03-31,QC,188,DOLLARD,13533,"COUSINEAU, Maurice",Progressive Conservative,124,Progressive Conservative Party,PC,t,16677,f,2
+24,1958-03-31,QC,188,DOLLARD,13534,"ST-JEAN, Viateur",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1742,f,3
+24,1958-03-31,QC,188,DOLLARD,13535,"RICHARD, Dollard",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1063,f,4
+24,1958-03-31,QC,189,DORCHESTER,13536,"DROUIN, Noël",Progressive Conservative,124,Progressive Conservative Party,PC,t,8766,f,1
+24,1958-03-31,QC,189,DORCHESTER,13537,"LANDRY, J.-Armand",Liberal,75,Liberal,Lib,t,7111,f,2
+24,1958-03-31,QC,190,DRUMMOND--ARTHABASKA,13538,"BOULANGER, Samuel",Liberal,75,Liberal,Lib,t,17288,f,1
+24,1958-03-31,QC,190,DRUMMOND--ARTHABASKA,13540,"PAUL, Victor",Progressive Conservative,124,Progressive Conservative Party,PC,t,16522,f,2
+24,1958-03-31,QC,190,DRUMMOND--ARTHABASKA,13539,"MÉLANCON, Sylvio",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1308,f,3
+24,1958-03-31,QC,191,GASPÉ,13541,"ENGLISH, Roland-Léo",Progressive Conservative,124,Progressive Conservative Party,PC,t,14535,f,1
+24,1958-03-31,QC,191,GASPÉ,13542,"DÉRY, Charles-Auguste",Liberal,75,Liberal,Lib,t,9994,f,2
+24,1958-03-31,QC,191,GASPÉ,13543,"GAGNÉ, Théo",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,282,f,3
+24,1958-03-31,QC,192,GATINEAU,13544,"Leduc, Rodolphe",Liberal,75,Liberal,Lib,t,10840,f,1
+24,1958-03-31,QC,192,GATINEAU,13545,"PATRY, Réjean",Progressive Conservative,124,Progressive Conservative Party,PC,t,9004,f,2
+24,1958-03-31,QC,192,GATINEAU,13546,"JOANNISSE, Léo",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,878,f,3
+24,1958-03-31,QC,193,HOCHELAGA,13547,"EUDES, Raymond",Liberal,75,Liberal,Lib,t,16706,f,1
+24,1958-03-31,QC,193,HOCHELAGA,13548,"GONTHIER, Benoît",Progressive Conservative,124,Progressive Conservative Party,PC,t,12845,f,2
+24,1958-03-31,QC,193,HOCHELAGA,13549,"SAUVÉ, Armand",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1294,f,3
+24,1958-03-31,QC,193,HOCHELAGA,13550,"DIONNE, Camille",Labour Progressive Party,31,Communist Party,Com,f,883,f,4
+24,1958-03-31,QC,194,HULL,13551,"CARON, Alexis",Liberal,75,Liberal,Lib,t,20132,f,1
+24,1958-03-31,QC,194,HULL,13553,"MOUGEOT, Lionel",Progressive Conservative,124,Progressive Conservative Party,PC,t,12869,f,2
+24,1958-03-31,QC,194,HULL,13552,"CLÉMENT, Marcellin",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2484,f,3
+24,1958-03-31,QC,194,HULL,13554,"GENDRON, Raoul",Independent Liberal,58,Independent Liberal,IndLib,f,348,f,4
+24,1958-03-31,QC,195,JACQUES-CARTIER--LASALLE,13555,"PRATT, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,30908,f,1
+24,1958-03-31,QC,195,JACQUES-CARTIER--LASALLE,13557,"Leduc, Edgar",Liberal,75,Liberal,Lib,t,24233,f,2
+24,1958-03-31,QC,195,JACQUES-CARTIER--LASALLE,13556,"CASGRAIN, Thérèse",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,3364,f,3
+24,1958-03-31,QC,196,JOLIETTE--L'ASSOMPTION--MONTCALM,13558,"PIGEON, Louis-Joseph",Progressive Conservative,124,Progressive Conservative Party,PC,t,21821,f,1
+24,1958-03-31,QC,196,JOLIETTE--L'ASSOMPTION--MONTCALM,13559,"BRETON, Maurice",Liberal,75,Liberal,Lib,t,15454,f,2
+24,1958-03-31,QC,197,KAMOURASKA,13560,"RICHARD, Charles",Progressive Conservative,124,Progressive Conservative Party,PC,t,7691,f,1
+24,1958-03-31,QC,197,KAMOURASKA,13561,"ROUSSEAU, André",Liberal,75,Liberal,Lib,t,6847,f,2
+24,1958-03-31,QC,198,LABELLE,13562,"COURTEMANCHE, Henri",Progressive Conservative,124,Progressive Conservative Party,PC,t,10606,f,1
+24,1958-03-31,QC,198,LABELLE,13563,"FORGET, J.-Henri",Liberal,75,Liberal,Lib,t,7660,f,2
+24,1958-03-31,QC,199,LAC-SAINT-JEAN,13564,"PARIZEAU, Roger",Progressive Conservative,124,Progressive Conservative Party,PC,t,8255,f,1
+24,1958-03-31,QC,199,LAC-SAINT-JEAN,13565,"GAUTHIER, André",Liberal,75,Liberal,Lib,t,7353,f,2
+24,1958-03-31,QC,199,LAC-SAINT-JEAN,13566,"LAROUCHE, Gérard",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2120,f,3
+24,1958-03-31,QC,200,LAFONTAINE,13567,"RATELLE, J.-Georges",Liberal,75,Liberal,Lib,t,12195,f,1
+24,1958-03-31,QC,200,LAFONTAINE,13569,"DANSEREAU, Dollard",Progressive Conservative,124,Progressive Conservative Party,PC,t,10299,f,2
+24,1958-03-31,QC,200,LAFONTAINE,13570,"ROCHON, Hector",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,979,f,3
+24,1958-03-31,QC,200,LAFONTAINE,13568,"VÉZINA, Paul",Independent Progressive Conservative,62,Independent Progressive Conservative,IndProgCon,f,276,f,4
+24,1958-03-31,QC,201,LAPOINTE,13571,"BRASSARD, Augustin",Liberal,75,Liberal,Lib,t,12113,f,1
+24,1958-03-31,QC,201,LAPOINTE,13573,"WILSHIRE, Bernard",Progressive Conservative,124,Progressive Conservative Party,PC,t,9864,f,2
+24,1958-03-31,QC,201,LAPOINTE,13572,"CHARTRAND, Michel",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,7042,f,3
+24,1958-03-31,QC,202,LAURIER,13574,"CHEVRIER, Hon. Lionel",Liberal,75,Liberal,Lib,t,10125,f,1
+24,1958-03-31,QC,202,LAURIER,13576,"LECLAIR, Paul",Progressive Conservative,124,Progressive Conservative Party,PC,t,8915,f,2
+24,1958-03-31,QC,202,LAURIER,13575,"OUELLETTE, Guy",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,741,f,3
+24,1958-03-31,QC,203,LAVAL,13577,"BOURDAGES, Rodrigue",Progressive Conservative,124,Progressive Conservative Party,PC,t,26076,f,1
+24,1958-03-31,QC,203,LAVAL,13579,"DEMERS, Léopold",Liberal,75,Liberal,Lib,t,25363,f,2
+24,1958-03-31,QC,203,LAVAL,13581,"CHAMPAGNE, Jacques",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2165,f,3
+24,1958-03-31,QC,203,LAVAL,13580,"JOLY, Alexandre",Independent Progressive Conservative,62,Independent Progressive Conservative,IndProgCon,f,796,f,4
+24,1958-03-31,QC,203,LAVAL,13578,"PRÉVOST, Arthur",Independent Liberal,58,Independent Liberal,IndLib,f,476,f,5
+24,1958-03-31,QC,204,LONGUEUIL,13582,"SÉVIGNY, Pierre",Progressive Conservative,124,Progressive Conservative Party,PC,t,18637,f,1
+24,1958-03-31,QC,204,LONGUEUIL,13583,"VINCENT, Auguste",Liberal,75,Liberal,Lib,t,16238,f,2
+24,1958-03-31,QC,204,LONGUEUIL,13584,"FERRON, Jacques",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2529,f,3
+24,1958-03-31,QC,205,LOTBINIÈRE,13585,"O'HURLEY, Raymond",Progressive Conservative,124,Progressive Conservative Party,PC,t,9610,f,1
+24,1958-03-31,QC,205,LOTBINIÈRE,13586,"BIRON, Paul",Liberal,75,Liberal,Lib,t,6432,f,2
+24,1958-03-31,QC,206,LÉVIS,13587,"BOURGET, Maurice",Liberal,75,Liberal,Lib,t,12410,f,1
+24,1958-03-31,QC,206,LÉVIS,13588,"FORGUES, Jean",Progressive Conservative,124,Progressive Conservative Party,PC,t,9164,f,2
+24,1958-03-31,QC,207,MAISONNEUVE--ROSEMONT,13589,"DESCHATELETS, Jean-Paul",Liberal,75,Liberal,Lib,t,21515,f,1
+24,1958-03-31,QC,207,MAISONNEUVE--ROSEMONT,13590,"JODOIN, Jean",Progressive Conservative,124,Progressive Conservative Party,PC,t,19479,f,2
+24,1958-03-31,QC,207,MAISONNEUVE--ROSEMONT,13591,"BRAY, John",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2276,f,3
+24,1958-03-31,QC,208,MATAPÉDIA--MATANE,13592,"BELZILE, J.-Alfred",Progressive Conservative,124,Progressive Conservative Party,PC,t,14969,f,1
+24,1958-03-31,QC,208,MATAPÉDIA--MATANE,13593,"BERGERON, Roland",Liberal,75,Liberal,Lib,t,10433,f,2
+24,1958-03-31,QC,209,MERCIER,13594,"GILLET, André",Progressive Conservative,124,Progressive Conservative Party,PC,t,26463,f,1
+24,1958-03-31,QC,209,MERCIER,13595,"MONETTE, Marcel",Liberal,75,Liberal,Lib,t,23103,f,2
+24,1958-03-31,QC,209,MERCIER,13597,"COUTURE, Gisèle",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2219,f,3
+24,1958-03-31,QC,209,MERCIER,13596,"ROUSSEAU, Georges",Radical chrétien,132,Radical chrétien,RadChret,f,687,f,4
+24,1958-03-31,QC,210,MONTMAGNY--L'ISLET,13598,"LESAGE, Hon. Jean",Liberal,75,Liberal,Lib,t,8689,f,1
+24,1958-03-31,QC,210,MONTMAGNY--L'ISLET,13599,"DIONNE, Denys",Progressive Conservative,124,Progressive Conservative Party,PC,t,7963,f,2
+24,1958-03-31,QC,211,MOUNT ROYAL,13600,"MACNAUGHTON, Alan Aylesworth",Liberal,75,Liberal,Lib,t,22051,f,1
+24,1958-03-31,QC,211,MOUNT ROYAL,13601,"Dawson, Reginald J.",Progressive Conservative,124,Progressive Conservative Party,PC,t,21562,f,2
+24,1958-03-31,QC,211,MOUNT ROYAL,13602,"ATWILL, Harold",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1952,f,3
+24,1958-03-31,QC,212,MÉGANTIC,13603,"ROBERGE, Gabriel",Liberal,75,Liberal,Lib,t,13486,f,1
+24,1958-03-31,QC,212,MÉGANTIC,13604,"CHARTIER, C.-Benoît",Progressive Conservative,124,Progressive Conservative Party,PC,t,13030,f,2
+24,1958-03-31,QC,212,MÉGANTIC,13605,"SIROIS, Gérard",Independent Liberal,58,Independent Liberal,IndLib,f,246,f,3
+24,1958-03-31,QC,213,NICOLET--YAMASKA,13606,"COMTOIS, Hon. Paul",Progressive Conservative,124,Progressive Conservative Party,PC,t,11880,f,1
+24,1958-03-31,QC,213,NICOLET--YAMASKA,13607,"PELLERIN, Gilles",Liberal,75,Liberal,Lib,t,7219,f,2
+24,1958-03-31,QC,214,NOTRE-DAME-DE-GRÂCE,13608,"HAMILTON, William McLean",Progressive Conservative,124,Progressive Conservative Party,PC,t,27145,f,1
+24,1958-03-31,QC,214,NOTRE-DAME-DE-GRÂCE,13610,"MACKAY, Kenneth C.",Liberal,75,Liberal,Lib,t,16172,f,2
+24,1958-03-31,QC,214,NOTRE-DAME-DE-GRÂCE,13609,"FLANAGAN, James Cyril",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1526,f,3
+24,1958-03-31,QC,215,OUTREMONT--ST-JEAN,13611,"BOURQUE, Romuald",Liberal,75,Liberal,Lib,t,12715,f,1
+24,1958-03-31,QC,215,OUTREMONT--ST-JEAN,13613,"ARCHAMBAULT, Conrad",Progressive Conservative,124,Progressive Conservative Party,PC,t,8906,f,2
+24,1958-03-31,QC,215,OUTREMONT--ST-JEAN,13612,"MIRON, Gaston",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1249,f,3
+24,1958-03-31,QC,216,PAPINEAU,13614,"MEUNIER, Adrien",Liberal,75,Liberal,Lib,t,18466,f,1
+24,1958-03-31,QC,216,PAPINEAU,13616,"DANIS, Claude",Progressive Conservative,124,Progressive Conservative Party,PC,t,14468,f,2
+24,1958-03-31,QC,216,PAPINEAU,13615,"RIOPEL, Jean",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1328,f,3
+24,1958-03-31,QC,216,PAPINEAU,13617,"LUCCISANO, Archie",Independent,52,Independent,Ind,f,632,f,4
+24,1958-03-31,QC,217,PONTIAC--TÉMISCAMINGUE,13618,"MARTINEAU, Paul",Progressive Conservative,124,Progressive Conservative Party,PC,t,8842,f,1
+24,1958-03-31,QC,217,PONTIAC--TÉMISCAMINGUE,13619,"PROUDFOOT, Hugh",Liberal,75,Liberal,Lib,t,8431,f,2
+24,1958-03-31,QC,218,PORTNEUF,13620,"ROMPRÉ, Aristide",Progressive Conservative,124,Progressive Conservative Party,PC,t,11386,f,1
+24,1958-03-31,QC,218,PORTNEUF,13621,"GAUTHIER, Pierre",Liberal,75,Liberal,Lib,t,10031,f,2
+24,1958-03-31,QC,219,QUEBEC EAST,13622,"TASSÉ, Yvon-R.",Progressive Conservative,124,Progressive Conservative Party,PC,t,22285,f,1
+24,1958-03-31,QC,219,QUEBEC EAST,13623,"LAMONTAGNE, Maurice",Liberal,75,Liberal,Lib,t,21649,f,2
+24,1958-03-31,QC,219,QUEBEC EAST,13624,"HUDON, Jean-Louis",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1104,f,3
+24,1958-03-31,QC,220,QUEBEC SOUTH,13625,"FLYNN, Jacques",Progressive Conservative,124,Progressive Conservative Party,PC,t,15771,f,1
+24,1958-03-31,QC,220,QUEBEC SOUTH,13626,"POWER, Frank G.",Liberal,75,Liberal,Lib,t,15507,f,2
+24,1958-03-31,QC,221,QUEBEC WEST,13627,"BISSONNETTE, J.-Eugène",Progressive Conservative,124,Progressive Conservative Party,PC,t,14223,f,1
+24,1958-03-31,QC,221,QUEBEC WEST,13629,"BÉGIN, René",Liberal,75,Liberal,Lib,t,12357,f,2
+24,1958-03-31,QC,221,QUEBEC WEST,13628,"THÉRIEN, Jules",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1054,f,3
+24,1958-03-31,QC,222,QUÉBEC--MONTMORENCY,13630,"LAFRENIÈRE, Robert",Progressive Conservative,124,Progressive Conservative Party,PC,t,25394,f,1
+24,1958-03-31,QC,222,QUÉBEC--MONTMORENCY,13632,"LACROIX, Wilfrid",Liberal,75,Liberal,Lib,t,19610,f,2
+24,1958-03-31,QC,222,QUÉBEC--MONTMORENCY,13631,"ROBILLARD, Raoul",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1109,f,3
+24,1958-03-31,QC,223,RICHELIEU--VERCHÈRES,13633,"CARDIN, Louis-Joseph-Lucien",Liberal,75,Liberal,Lib,t,13497,f,1
+24,1958-03-31,QC,223,RICHELIEU--VERCHÈRES,13634,"COURNOYER, Charles",Progressive Conservative,124,Progressive Conservative Party,PC,t,11005,f,2
+24,1958-03-31,QC,224,RICHMOND--WOLFE,13635,"DUBOIS, V.-Florent",Progressive Conservative,124,Progressive Conservative Party,PC,t,11984,f,1
+24,1958-03-31,QC,224,RICHMOND--WOLFE,13636,"GINGRAS, Ernest-Omer",Liberal,75,Liberal,Lib,t,11299,f,2
+24,1958-03-31,QC,224,RICHMOND--WOLFE,13637,"BACHAND, Lucien",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,560,f,3
+24,1958-03-31,QC,225,RIMOUSKI,13638,"MORISSETTE, Émilien",Progressive Conservative,124,Progressive Conservative Party,PC,t,16426,f,1
+24,1958-03-31,QC,225,RIMOUSKI,13640,"LEGARÉ, Gérard",Liberal,75,Liberal,Lib,t,11503,f,2
+24,1958-03-31,QC,225,RIMOUSKI,13639,"JEAN, Jean-Nil",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,534,f,3
+24,1958-03-31,QC,226,ROBERVAL,13641,"TREMBLAY, Jean-Noël",Progressive Conservative,124,Progressive Conservative Party,PC,t,10696,f,1
+24,1958-03-31,QC,226,ROBERVAL,13642,"VILLENEUVE, Georges",Liberal,75,Liberal,Lib,t,9130,f,2
+24,1958-03-31,QC,227,SAGUENAY,13643,"LARUE, Perreault",Progressive Conservative,124,Progressive Conservative Party,PC,t,13194,f,1
+24,1958-03-31,QC,227,SAGUENAY,13644,"BRISSON, Lomer",Liberal,75,Liberal,Lib,t,11330,f,2
+24,1958-03-31,QC,228,SAINT-ANTOINE--WESTMOUNT,13645,"WEBSTER, Ross",Progressive Conservative,124,Progressive Conservative Party,PC,t,15882,f,1
+24,1958-03-31,QC,228,SAINT-ANTOINE--WESTMOUNT,13648,"MARLER, Hon. George C.",Liberal,75,Liberal,Lib,t,12941,f,2
+24,1958-03-31,QC,228,SAINT-ANTOINE--WESTMOUNT,13646,"JASMIN, Amédée",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,684,f,3
+24,1958-03-31,QC,228,SAINT-ANTOINE--WESTMOUNT,13647,"NAUD, J.-G.-Henri",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,192,f,4
+24,1958-03-31,QC,229,SAINT-DENIS,13649,"DENIS, Azellus",Liberal,75,Liberal,Lib,t,14737,f,1
+24,1958-03-31,QC,229,SAINT-DENIS,13650,"MARION, Jean",Progressive Conservative,124,Progressive Conservative Party,PC,t,12166,f,2
+24,1958-03-31,QC,229,SAINT-DENIS,13652,"PANNETON, F.-Avila",Independent Liberal,58,Independent Liberal,IndLib,f,917,f,3
+24,1958-03-31,QC,229,SAINT-DENIS,13651,"ALARIE, Léon",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,879,f,4
+24,1958-03-31,QC,230,SAINT-HENRI,13653,"LESSARD, H.-Pit",Liberal,75,Liberal,Lib,t,11533,f,1
+24,1958-03-31,QC,230,SAINT-HENRI,13654,"ANGRIGNON, Germain",Progressive Conservative,124,Progressive Conservative Party,PC,t,10196,f,2
+24,1958-03-31,QC,230,SAINT-HENRI,13655,"BOUCHARD, Rosaire",Independent Liberal,58,Independent Liberal,IndLib,f,4393,f,3
+24,1958-03-31,QC,230,SAINT-HENRI,13656,"FOURNIER, Eugène-J.-E.",Independent Liberal,58,Independent Liberal,IndLib,f,1825,f,4
+24,1958-03-31,QC,230,SAINT-HENRI,13657,"BOUGIE, Lucien",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,714,f,5
+24,1958-03-31,QC,230,SAINT-HENRI,13658,"JUTRAS, Paul-Émile",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,691,f,6
+24,1958-03-31,QC,231,SAINT-HYACINTHE--BAGOT,13659,"RICARD, Théogène",Progressive Conservative,124,Progressive Conservative Party,PC,t,15761,f,1
+24,1958-03-31,QC,231,SAINT-HYACINTHE--BAGOT,13660,"HÉBERT, Charles-Édouard",Liberal,75,Liberal,Lib,t,10857,f,2
+24,1958-03-31,QC,231,SAINT-HYACINTHE--BAGOT,13661,"FLIBOTTE, Wilfrid",Independent Liberal,58,Independent Liberal,IndLib,f,157,f,3
+24,1958-03-31,QC,232,SAINT-JACQUES,13662,"CAMPEAU, Charles-Edouard",Progressive Conservative,124,Progressive Conservative Party,PC,t,12798,f,1
+24,1958-03-31,QC,232,SAINT-JACQUES,13663,"RINFRET, Maurice",Liberal,75,Liberal,Lib,t,10517,f,2
+24,1958-03-31,QC,232,SAINT-JACQUES,13664,"ROBERT, Gaétan",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,670,f,3
+24,1958-03-31,QC,232,SAINT-JACQUES,13665,"GAGNON, Henri",Socialist,148,Socialist,Social,f,666,f,4
+24,1958-03-31,QC,233,SAINT-JEAN--IBERVILLE--NAPIERVILLE,13666,"DUPUIS, Yvon",Liberal,75,Liberal,Lib,t,14332,f,1
+24,1958-03-31,QC,233,SAINT-JEAN--IBERVILLE--NAPIERVILLE,13667,"SAUVÉ, Robert",Progressive Conservative,124,Progressive Conservative Party,PC,t,12100,f,2
+24,1958-03-31,QC,234,SAINT-MAURICE--LAFLÈCHE,13668,"RICHARD, Joseph-Adolphe",Liberal,75,Liberal,Lib,t,18556,f,1
+24,1958-03-31,QC,234,SAINT-MAURICE--LAFLÈCHE,13669,"FILION, Lucien",Progressive Conservative,124,Progressive Conservative Party,PC,t,14405,f,2
+24,1958-03-31,QC,234,SAINT-MAURICE--LAFLÈCHE,13670,"COTÉ, Armand",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1863,f,3
+24,1958-03-31,QC,235,SAINTE-MARIE,13671,"VALADE, Georges-J.",Progressive Conservative,124,Progressive Conservative Party,PC,t,11635,f,1
+24,1958-03-31,QC,235,SAINTE-MARIE,13674,"DUPUIS, Hector",Liberal,75,Liberal,Lib,t,9662,f,2
+24,1958-03-31,QC,235,SAINTE-MARIE,13673,"DORAIS, Eugène",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,634,f,3
+24,1958-03-31,QC,235,SAINTE-MARIE,13672,"BROWN, Eddy",Independent,52,Independent,Ind,f,433,f,4
+24,1958-03-31,QC,236,SHEFFORD,13675,"BOIVIN, Marcel",Liberal,75,Liberal,Lib,t,13001,f,1
+24,1958-03-31,QC,236,SHEFFORD,13676,"HANNON, Jacques",Progressive Conservative,124,Progressive Conservative Party,PC,t,12211,f,2
+24,1958-03-31,QC,236,SHEFFORD,13677,"DUMAS, Adrien",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,739,f,3
+24,1958-03-31,QC,237,SHERBROOKE,13678,"ALLARD, Maurice",Progressive Conservative,124,Progressive Conservative Party,PC,t,15383,f,1
+24,1958-03-31,QC,237,SHERBROOKE,13679,"GINGUES, Maurice",Liberal,75,Liberal,Lib,t,14458,f,2
+24,1958-03-31,QC,237,SHERBROOKE,13680,"RACINE, Guillaume",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,349,f,3
+24,1958-03-31,QC,238,ST. ANN,13681,"LOISELLE, Gérard",Liberal,75,Liberal,Lib,t,8289,f,1
+24,1958-03-31,QC,238,ST. ANN,13683,"SULLIVAN, Gerald",Progressive Conservative,124,Progressive Conservative Party,PC,t,5941,f,2
+24,1958-03-31,QC,238,ST. ANN,13682,"COLLETTE, Albert",Independent,52,Independent,Ind,f,1256,f,3
+24,1958-03-31,QC,238,ST. ANN,13684,"KING, Paul Francis",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,394,f,4
+24,1958-03-31,QC,239,ST. LAWRENCE--ST. GEORGE,13685,"CHAMBERS, Egan",Progressive Conservative,124,Progressive Conservative Party,PC,t,9702,f,1
+24,1958-03-31,QC,239,ST. LAWRENCE--ST. GEORGE,13688,"RICHARDSON, Claude",Liberal,75,Liberal,Lib,t,7132,f,2
+24,1958-03-31,QC,239,ST. LAWRENCE--ST. GEORGE,13687,"MERGLER, Norman",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,534,f,3
+24,1958-03-31,QC,239,ST. LAWRENCE--ST. GEORGE,13686,"BRENTON, Frank",Labour Progressive Party,31,Communist Party,Com,f,279,f,4
+24,1958-03-31,QC,240,STANSTEAD,13689,"LÉTOURNEAU, René",Progressive Conservative,124,Progressive Conservative Party,PC,t,10363,f,1
+24,1958-03-31,QC,240,STANSTEAD,13690,"ROBERGE, Louis-E.",Liberal,75,Liberal,Lib,t,7638,f,2
+24,1958-03-31,QC,240,STANSTEAD,13691,"THÉROUX, Maurice",Independent,52,Independent,Ind,f,489,f,3
+24,1958-03-31,QC,241,TERREBONNE,13692,"DESCHAMBAULT, Marcel",Progressive Conservative,124,Progressive Conservative Party,PC,t,19319,f,1
+24,1958-03-31,QC,241,TERREBONNE,13693,"RAYMOND, Raymond",Liberal,75,Liberal,Lib,t,18241,f,2
+24,1958-03-31,QC,242,TROIS-RIVIÈRES,13694,"BALCER, Hon. Léon",Progressive Conservative,124,Progressive Conservative Party,PC,t,18049,f,1
+24,1958-03-31,QC,242,TROIS-RIVIÈRES,13696,"GAUTHIER, Antoine",Liberal,75,Liberal,Lib,t,11193,f,2
+24,1958-03-31,QC,242,TROIS-RIVIÈRES,13695,"GRENIER, H.-Georges",Capital  familial,24,Capital  familial,CapFam,f,968,f,3
+24,1958-03-31,QC,243,TÉMISCOUATA,13697,"FRÉCHETTE, Antoine",Progressive Conservative,124,Progressive Conservative Party,PC,t,13361,f,1
+24,1958-03-31,QC,243,TÉMISCOUATA,13698,"ST-LAURENT, Jean-Paul",Liberal,75,Liberal,Lib,t,9810,f,2
+24,1958-03-31,QC,244,VAUDREUIL--SOULANGES,13699,"BOURBONNAIS, Marcel",Progressive Conservative,124,Progressive Conservative Party,PC,t,8161,f,1
+24,1958-03-31,QC,244,VAUDREUIL--SOULANGES,13700,"ASSELIN, Armand",Liberal,75,Liberal,Lib,t,7274,f,2
+24,1958-03-31,QC,245,VERDUN,13701,"MONTEITH, Harold Edmond",Progressive Conservative,124,Progressive Conservative Party,PC,t,16357,f,1
+24,1958-03-31,QC,245,VERDUN,13702,"Leduc, Yves",Liberal,75,Liberal,Lib,t,14604,f,2
+24,1958-03-31,QC,245,VERDUN,13705,"DODGE, William",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2205,f,3
+24,1958-03-31,QC,245,VERDUN,13703,"Leduc, J.-O.-Rolland",Independent Liberal,58,Independent Liberal,IndLib,f,1901,f,4
+24,1958-03-31,QC,245,VERDUN,13704,"PROVENCHER, Édouard",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,264,f,5
+24,1958-03-31,QC,246,VILLENEUVE,13706,"DUMAS, Armand",Liberal,75,Liberal,Lib,t,10102,f,1
+24,1958-03-31,QC,246,VILLENEUVE,13709,"LEMIEUX, André",Progressive Conservative,124,Progressive Conservative Party,PC,t,9811,f,2
+24,1958-03-31,QC,246,VILLENEUVE,13707,"CAOUETTE, Réal",Candidats des électeurs,143,Social Credit Party,SoCred,t,8276,f,3
+24,1958-03-31,QC,246,VILLENEUVE,13708,"PARENT, Yvon",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,662,f,4
+24,1958-03-31,QC,247,ÎLES-DE-LA-MADELEINE,13710,"KEAYS, J.-Russell",Progressive Conservative,124,Progressive Conservative Party,PC,t,2471,f,1
+24,1958-03-31,QC,247,ÎLES-DE-LA-MADELEINE,13711,"CANNON, Charles-Arthur",Liberal,75,Liberal,Lib,t,2115,f,2
+24,1958-03-31,QC,247,ÎLES-DE-LA-MADELEINE,13712,"PAINCHAUD, Félix-Armand",Independent Progressive Conservative,62,Independent Progressive Conservative,IndProgCon,f,146,f,3
+24,1958-03-31,SK,248,ASSINIBOIA,13713,"ARGUE, Hazen R.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,9104,f,1
+24,1958-03-31,SK,248,ASSINIBOIA,13714,"FERGUSON, W.J.",Progressive Conservative,124,Progressive Conservative Party,PC,t,6360,f,2
+24,1958-03-31,SK,248,ASSINIBOIA,13715,"THATCHER, W. Ross",Liberal,75,Liberal,Lib,t,6173,f,3
+24,1958-03-31,SK,249,HUMBOLDT--MELFORT,13716,"RAPP, Reynold R.",Progressive Conservative,124,Progressive Conservative Party,PC,t,9975,f,1
+24,1958-03-31,SK,249,HUMBOLDT--MELFORT,13718,"BRYSON, Alex",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,6619,f,2
+24,1958-03-31,SK,249,HUMBOLDT--MELFORT,13717,"GALE, J.N.",Liberal,75,Liberal,Lib,t,3501,f,3
+24,1958-03-31,SK,250,KINDERSLEY,13719,"HANBIDGE, Robert L.",Progressive Conservative,124,Progressive Conservative Party,PC,t,8935,f,1
+24,1958-03-31,SK,250,KINDERSLEY,13721,"JOHNSON, Merv",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,7027,f,2
+24,1958-03-31,SK,250,KINDERSLEY,13720,"STEIERT, Anthony C.",Liberal,75,Liberal,Lib,t,5362,f,3
+24,1958-03-31,SK,251,MACKENZIE,13722,"KORCHINSKI, Stanley James",Progressive Conservative,124,Progressive Conservative Party,PC,t,9138,f,1
+24,1958-03-31,SK,251,MACKENZIE,13724,"NICHOLSON, Alexander Malcolm",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,5559,f,2
+24,1958-03-31,SK,251,MACKENZIE,13723,"MARSHALL, Joseph",Liberal,75,Liberal,Lib,t,2511,f,3
+24,1958-03-31,SK,252,MEADOW LAKE,13725,"CADIEU, Albert C.",Progressive Conservative,124,Progressive Conservative Party,PC,t,6830,f,1
+24,1958-03-31,SK,252,MEADOW LAKE,13727,"HARRISON, John H.",Liberal,75,Liberal,Lib,t,3272,f,2
+24,1958-03-31,SK,252,MEADOW LAKE,13726,"WARICK, Frank G.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2719,f,3
+24,1958-03-31,SK,253,MELVILLE,13728,"ORMISTON, James Norris",Progressive Conservative,124,Progressive Conservative Party,PC,t,8440,f,1
+24,1958-03-31,SK,253,MELVILLE,13729,"BURTON, John",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,5698,f,2
+24,1958-03-31,SK,253,MELVILLE,13730,"GARDINER, James G.",Liberal,75,Liberal,Lib,t,5673,f,3
+24,1958-03-31,SK,254,MOOSE JAW--LAKE CENTRE,13731,"PASCOE, J. Ernest",Progressive Conservative,124,Progressive Conservative Party,PC,t,18736,f,1
+24,1958-03-31,SK,254,MOOSE JAW--LAKE CENTRE,13732,"LEWRY, Louis H.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,8535,f,2
+24,1958-03-31,SK,254,MOOSE JAW--LAKE CENTRE,13733,"DE ROSENROLL, Jim,",Liberal,75,Liberal,Lib,t,4030,f,3
+24,1958-03-31,SK,254,MOOSE JAW--LAKE CENTRE,13734,"ROGERS, W. Elvy",Independent,52,Independent,Ind,f,146,f,4
+24,1958-03-31,SK,255,MOOSE MOUNTAIN,13735,"SOUTHAM, R.R.",Progressive Conservative,124,Progressive Conservative Party,PC,t,9287,f,1
+24,1958-03-31,SK,255,MOOSE MOUNTAIN,13736,"MCCULLOUGH, Ed.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,5712,f,2
+24,1958-03-31,SK,255,MOOSE MOUNTAIN,13737,"SMITH, J.J.",Liberal,75,Liberal,Lib,t,5130,f,3
+24,1958-03-31,SK,256,PRINCE ALBERT,13738,"DIEFENBAKER, John George",Progressive Conservative,124,Progressive Conservative Party,PC,t,16583,f,1
+24,1958-03-31,SK,256,PRINCE ALBERT,13739,"WIGGENS, Thora Elizabeth",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,3870,f,2
+24,1958-03-31,SK,256,PRINCE ALBERT,13740,"UNRUH, Ernie",Liberal,75,Liberal,Lib,t,2538,f,3
+24,1958-03-31,SK,257,QU'APPELLE,13741,"HAMILTON, Hon. Alvin",Progressive Conservative,124,Progressive Conservative Party,PC,t,10514,f,1
+24,1958-03-31,SK,257,QU'APPELLE,13742,"KEARNS, Thomas",Liberal,75,Liberal,Lib,t,4357,f,2
+24,1958-03-31,SK,257,QU'APPELLE,13743,"KENNEDY, Norman",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2941,f,3
+24,1958-03-31,SK,258,REGINA CITY,13744,"MORE, Kenneth Hamill",Progressive Conservative,124,Progressive Conservative Party,PC,t,24424,f,1
+24,1958-03-31,SK,258,REGINA CITY,13745,"ELLIS, Claude",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,12391,f,2
+24,1958-03-31,SK,258,REGINA CITY,13746,"MACDONALD, Raymond Alexander",Liberal,75,Liberal,Lib,t,7844,f,3
+24,1958-03-31,SK,258,REGINA CITY,13747,"BEECHING, William C.",Labour Progressive Party,31,Communist Party,Com,f,262,f,4
+24,1958-03-31,SK,259,ROSETOWN--BIGGAR,13748,"COOPER, C.O.",Progressive Conservative,124,Progressive Conservative Party,PC,t,9962,f,1
+24,1958-03-31,SK,259,ROSETOWN--BIGGAR,13750,"COLDWELL, M.J.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,8051,f,2
+24,1958-03-31,SK,259,ROSETOWN--BIGGAR,13749,"MITCHELL, Howard C.",Liberal,75,Liberal,Lib,t,2886,f,3
+24,1958-03-31,SK,260,ROSTHERN,13751,"NASSERDEN, Ed",Progressive Conservative,124,Progressive Conservative Party,PC,t,8166,f,1
+24,1958-03-31,SK,260,ROSTHERN,13753,"TUCKER, Walter Adam",Liberal,75,Liberal,Lib,t,4446,f,2
+24,1958-03-31,SK,260,ROSTHERN,13752,"ELCHUK, George",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,3322,f,3
+24,1958-03-31,SK,260,ROSTHERN,13754,"HENSCHEL, Herbert Henry",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1745,f,4
+24,1958-03-31,SK,261,SASKATOON,13755,"JONES, Henry Frank",Progressive Conservative,124,Progressive Conservative Party,PC,t,24622,f,1
+24,1958-03-31,SK,261,SASKATOON,13756,"KNIGHT, R.R.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,10324,f,2
+24,1958-03-31,SK,261,SASKATOON,13757,"CALDWELL, Jessie",Liberal,75,Liberal,Lib,t,5505,f,3
+24,1958-03-31,SK,262,SWIFT CURRENT--MAPLE CREEK,13758,"MCINTOSH, Jack",Progressive Conservative,124,Progressive Conservative Party,PC,t,11618,f,1
+24,1958-03-31,SK,262,SWIFT CURRENT--MAPLE CREEK,13760,"STUDER, Irvin W.",Liberal,75,Liberal,Lib,t,6932,f,2
+24,1958-03-31,SK,262,SWIFT CURRENT--MAPLE CREEK,13761,"JOHNSON, Arthur H.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,6921,f,3
+24,1958-03-31,SK,262,SWIFT CURRENT--MAPLE CREEK,13759,"SCHOFIELD, Fred J.",Labour Progressive Party,31,Communist Party,Com,f,196,f,4
+24,1958-03-31,SK,263,THE BATTLEFORDS,13762,"HORNER, Albert",Progressive Conservative,124,Progressive Conservative Party,PC,t,10970,f,1
+24,1958-03-31,SK,263,THE BATTLEFORDS,13763,"CAMPBELL, Max",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,6363,f,2
+24,1958-03-31,SK,263,THE BATTLEFORDS,13764,"BURAK, William J.",Liberal,75,Liberal,Lib,t,2975,f,3
+24,1958-03-31,SK,264,YORKTON,13765,"CLANCY, G. Drummond",Progressive Conservative,124,Progressive Conservative Party,PC,t,9882,f,1
+24,1958-03-31,SK,264,YORKTON,13766,"CASTLEDEN, George Hugh",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,7644,f,2
+24,1958-03-31,SK,264,YORKTON,13767,"HLUCHANIUK, Dmytro",Liberal,75,Liberal,Lib,t,4986,f,3
+24,1958-03-31,YK,265,YUKON,13768,"NIELSEN, Erik",Progressive Conservative,124,Progressive Conservative Party,PC,t,2947,f,1
+24,1958-03-31,YK,265,YUKON,13769,"SIMMONS, J. Aubrey",Liberal,75,Liberal,Lib,t,2340,f,2
+24,1958-03-31,YK,265,YUKON,13770,"WATT, John Victor",Independent Conservative,56,Independent Conservative,IndCon,f,122,f,3

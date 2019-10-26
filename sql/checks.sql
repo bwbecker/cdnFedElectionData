@@ -1,3 +1,8 @@
+
+\set ON_ERROR_STOP 'on'
+
+
+
   WITH historicals AS (
       SELECT election_id, count(*) AS raw_count
         FROM _work.history
@@ -37,7 +42,7 @@
                      ),
        final_counts AS (
            SELECT election_id, count(*) AS final_count
-             FROM _elections.elections
+             FROM _elections.results
             GROUP BY election_id
                        )
 
@@ -51,6 +56,11 @@ SELECT *
  WHERE abs(diff) > 0;
 
 
+SELECT election_id, party_name, ed_id, cand_name, ideology_code
+  FROM _work.combined
+ WHERE ideology_code IS NULL;
+ 
+
 /*
 Parties properly classified as mainstream.
 */
@@ -62,15 +72,16 @@ SELECT *
                            , sum(party_votes) OVER (PARTITION BY election_id) AS election_votes
                         FROM (
                                  SELECT election_id
-                                      , party_code
-                                      , main_stream
+                                      , party_id
+                                      , mainstream
                                       , sum(votes) AS party_votes
-                                   FROM _elections.elections
-                                        JOIN _elections.parties USING (party_code)
-                                  GROUP BY election_id, party_code, main_stream
-                                  ORDER BY election_id, party_code
+                                   FROM _elections.results
+                                        JOIN _elections.parties USING (party_id)
+                                  WHERE party_short_name not in ('Unknown', 'Ind')
+                                  GROUP BY election_id, party_id, mainstream
+                                  ORDER BY election_id, party_id
                              ) AS foo
                   ) AS foo
        ) AS foo
- WHERE NOT main_stream AND pct >= 5
-   AND party_code NOT IN ('Unknown', 'Ind');
+ WHERE NOT mainstream AND pct >= 5;
+

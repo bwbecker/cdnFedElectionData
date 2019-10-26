@@ -1,0 +1,115 @@
+party_id,party_name,party_short_name,ideology_code,mainstream,first_election,last_election,num_candidates,also_known_as
+1,AACEV Party of Canada,AACEV,Oth,f,39,39,1,"{""AACEV Party of Canada""}"
+2,ATN,ATN,Oth,f,42,42,1,{ATN}
+3,Abolitionist Party of Canada,Abolition,SglIss,f,35,35,80,"{""Abolitionist Party of Canada""}"
+4,All Canadian Party,ACP,Oth,f,25,25,1,"{""All Canadian Party""}"
+5,Animal Alliance/Environment Voters,AnimalAll,SglIss,f,40,42,22,"{""Animal Alliance/Environment Voters""}"
+7,Animal Protection Party,AnimalPP,SglIss,f,43,43,17,"{""Animal Protection Party""}"
+8,Anti-Communist,AntiCom,SglIss,f,18,22,2,{Anti-Communist}
+9,Anti-Confederate,AntiConfed,SglIss,t,1,1,19,{Anti-Confederate}
+10,Anti-Conscriptionist,AntiConscript,SglIss,f,19,19,1,{Anti-Conscriptionist}
+12,Bloc Québécois,Bloc,Quebec,t,35,43,681,"{""Bloc Québécois""}"
+13,Bloc populaire canadien,BlocPop,Pop,f,20,20,35,"{""Bloc populaire canadien""}"
+14,CFF - Canada's Fourth Front,FourthFront,Oth,f,43,43,7,"{""CFF - Canada's Fourth Front""}"
+15,Canada Party,CdaParty,Oth,f,35,42,57,"{""Canada Party""}"
+16,Canadian Action Party,CAP,Pop,f,36,42,234,"{CAP,""Canadian Action"",""Canadian Action Party""}"
+19,Canadian Alliance,CdnAll,Con,t,37,37,298,"{""Canadian Alliance""}"
+20,Canadian Democrat,CdnDem,Oth,f,23,23,1,"{""Canadian Democrat""}"
+21,Canadian Labour,CdnLab,Labour,f,19,19,1,"{""Canadian Labour""}"
+23,Candidat libéral des électeurs,Electeurs,Oth,f,25,26,2,"{""Candidat libéral des électeurs""}"
+24,Capital  familial,CapFam,Oth,f,23,25,3,"{""Capital  familial""}"
+25,Christian Heritage Party,CHP,Con,f,34,43,455,"{""CHP Canada"",""Christian Heritage Party"",""Christian Heritage Party of Canada""}"
+28,Christian Liberal,ChristLib,Oth,f,22,22,1,"{""Christian Liberal""}"
+29,Co-operative Commonwealth Federation,CCF,Labour,t,17,34,1100,"{""Co-operative Commonwealth Federation""}"
+31,Communist Party,Com,Labour,f,17,43,793,"{Communist,""Communist Party of Canada"",""Labour Progressive Party"",""United Progressive"",Unity}"
+36,Confederation of Regions Western Party,RegionsW,Con,f,33,34,106,"{""Confederation of Regions Western Party""}"
+37,Conservative,Con,Con,t,1,43,4552,{Conservative}
+38,Conservative Party of Canada,ConParty,Con,t,38,38,308,"{""Conservative Party of Canada""}"
+39,Cooperative Builders of Canada,Builder,Oth,f,25,25,1,"{""Cooperative Builders of Canada""}"
+40,Democrat,Demo,Oth,f,20,20,5,{Democrat}
+41,Democratic Advancement,DemoAdv,Oth,f,42,42,4,"{""Democratic Advancement""}"
+42,Droit vital personnel,Droit,Oth,f,27,27,1,"{""Droit vital personnel""}"
+43,Equal Rights,EqRights,Oth,f,7,7,2,"{""Equal Rights""}"
+44,Esprit social,Esprit,Oth,f,28,28,1,"{""Esprit social""}"
+46,First Peoples National Party,FPNP,SglIss,f,39,41,7,{FPNP}
+47,Forces et Démocratie - Allier les forces de nos régions,ForcesDem,Oth,f,42,42,17,"{""Forces et Démocratie - Allier les forces de nos régions""}"
+48,Franc Lib,FrancLib,Oth,f,17,28,2,"{""Franc Lib""}"
+49,Government,Gov,Con,t,13,13,211,{Government}
+50,Green Party,Grn,Env,t,33,43,2295,"{""Green Party"",""Green Party of Canada""}"
+52,Independent,Ind,Oth,f,1,43,1906,"{Independent,""No Affiliation"",""No affiliation to a recognised party""}"
+55,Independent Co-operative Commonwealth Federation,IndCCF,Labour,f,20,20,2,"{""Independent Co-operative Commonwealth Federation""}"
+56,Independent Conservative,IndCon,Con,f,2,28,71,"{""Independent Conservative""}"
+57,Independent Labor,IndLab,Labour,f,9,20,6,"{""Independent Labor""}"
+58,Independent Liberal,IndLib,Lib,f,1,28,248,"{""Independent Liberal""}"
+59,Independent Liberal Progressive,IndLibP,Lib,f,15,15,1,"{""Independent Liberal Progressive""}"
+60,Independent Nationalist,IndNat,Pop,f,19,19,2,"{""Independent Nationalist""}"
+61,Independent Progressive,IndProg,Labour,f,14,17,3,"{""Independent Progressive""}"
+62,Independent Progressive Conservative,IndProgCon,Con,f,20,28,43,"{""Independent Progressive Conservative""}"
+63,Independent Reconstruction Party,IndRecon,Oth,f,18,18,1,"{""Independent Reconstruction Party""}"
+64,Independent Social Credit,IndSoCred,Pop,f,21,27,10,"{""Independent Social Credit""}"
+65,Labour,Labour,Labour,f,2,28,148,"{Conservative-Labour,""Farmer Labour"",Labour,""Labour Farmer"",""Liberal Labour"",""Liberal Labour Party"",""National Labour"",""United Farmers of Ontario-Labour""}"
+75,Liberal,Lib,Lib,t,1,43,10107,{Liberal}
+76,Liberal Conservative Coalition,LibConCoal,Oth,f,23,23,1,"{""Liberal Conservative Coalition""}"
+77,Liberal Labour Progressive,LibLabProg,Oth,f,16,19,2,"{""Liberal Labour Progressive"",""National Liberal Progressive""}"
+79,Liberal Progressive,LibProgr,Oth,f,15,22,32,"{""Liberal Progressive""}"
+80,Liberal Protectionist,LibProtect,SglIss,f,15,17,3,"{""Liberal Protectionist""}"
+81,Libertarian Party,Liber,Pop,f,31,43,489,"{Libertarian,""Libertarian Party of Canada""}"
+83,Locataire (candidat),Locataire,Oth,f,22,22,1,"{""Locataire (candidat)""}"
+84,Marijuana Party,Marijuana,SglIss,f,37,43,189,"{""Marijuana Party"",""Radical Marijuana""}"
+86,Marxist-Leninist Party,Marx-Len,Labour,f,30,43,1030,"{ML,Marxist-Leninist,""Marxist-Leninist Party""}"
+89,McCarthyite,McCarthy,Oth,f,8,8,11,{McCarthyite}
+90,National Citizens Alliance,NatCitAlli,Pop,f,43,43,4,"{""National Citizens Alliance""}"
+91,National Credit Control,NatCredControl,Labour,f,23,23,1,"{""National Credit Control""}"
+92,National Party of Canada,NationalPC,Oth,f,35,35,171,"{""National Party of Canada""}"
+93,National Socialist,NatSoc,Oth,f,28,28,1,"{""National Socialist""}"
+94,National Unity,NatUnity,Oth,f,19,19,1,"{""National Unity""}"
+95,Nationalist,Nationalist,Oth,f,6,43,16,{Nationalist}
+96,Nationalist Conservative,NationalistCon,Oth,f,4,12,7,"{""Nationalist Conservative""}"
+98,Natural Law Party of Canada,NatLaw,SglIss,f,35,37,436,"{""Natural Law Party of Canada""}"
+99,New Canada Party,NewCan,Oth,f,27,28,4,"{""New Canada Party""}"
+100,New Democratic Party,NDP,Labour,t,19,43,5422,"{N.D.P.,""NDP-New Democratic Party"",""New Democratic Party""}"
+104,Non-Partisan League,NonPartL,Oth,f,13,13,3,"{""Non-Partisan League""}"
+105,Opposition,OppConscript,Lib,t,13,13,213,{Opposition}
+106,Opposition-Labour,OppConscriptL,Lib,f,13,13,8,{Opposition-Labour}
+107,Ouvrier indépendent,OuvInd,Labour,f,25,27,4,"{""Ouvrier indépendent""}"
+108,Parti Nationaliste du Québec,NationalQc,Quebec,f,33,33,74,"{""Parti Nationaliste du Québec""}"
+109,Parti de la Démocratisation Économique,DemoEcon,Oth,f,28,28,5,"{""Parti de la Démocratisation Économique""}"
+111,Parti ouvrier canadien,OuvCan,Labour,f,24,24,1,"{""Parti ouvrier canadien""}"
+112,"Party for Accountability, Competency and Transparency",PACT,SglIss,f,42,42,1,{PACT}
+113,Party for the Commonwealth of Canada,CWealth,Oth,f,33,35,183,"{""Party for the Commonwealth of Canada""}"
+114,Patrons of Industry,PatronsInd,Oth,f,8,8,31,"{""Patrons of Industry""}"
+115,People's Party,PPC,Pop,f,43,43,315,"{""People's Party""}"
+117,Pirate Party,Pirate,Oth,f,40,42,25,"{Pirate,""Pirate Party""}"
+120,Pour l'Indépendance du Québec,IndQc,Quebec,f,43,43,13,"{""Pour l'Indépendance du Québec""}"
+121,Progressive,Progressive,Oth,t,7,17,250,{Progressive}
+122,Progressive Canadian Party,ProgCdnParty,Con,f,38,43,70,"{""PC Party"",""Progressive Canadian Party""}"
+124,Progressive Conservative Party,PC,Con,t,1,37,5360,"{Liberal-Conservative,""National Government"",""Progressive Conservative""}"
+128,Progressive Workers Movement,ProgWorker,Labour,f,27,27,1,"{""Progressive Workers Movement""}"
+129,Prohibition,Prohib,SglIss,f,17,17,1,{Prohibition}
+130,Protectionist,Protect,SglIss,f,16,16,1,{Protectionist}
+131,Protestant Protective Association,ProtestantPA,SglIss,f,8,8,5,"{""Protestant Protective Association""}"
+132,Radical chrétien,RadChret,Oth,f,24,24,1,"{""Radical chrétien""}"
+133,Reconstruction Party,Reconstruct,Pop,t,18,18,173,"{""Reconstruction Party""}"
+134,Reform Party,Reform,Con,t,28,36,507,"{""Reform Party of Canada""}"
+136,Republican Party,Repub,Oth,f,27,28,2,"{Republican,""Republican Party""}"
+138,Rhinoceros Party,Rhino,Oth,f,27,43,444,"{""Parti Rhinocéros"",""Parti Rhinocéros Party"",Rhinoceros}"
+142,Seniors Party,Seniors,SglIss,f,42,42,1,"{""Seniors Party""}"
+143,Social Credit Party,SoCred,Pop,t,18,34,1743,"{""Candidats des électeurs"",""New Democracy"",""Ralliement Créditiste"",""Social Credit Party of Canada""}"
+147,Social Credit-National Unity,SoCredNat,Pop,f,19,19,1,"{""Social Credit-National Unity""}"
+148,Socialist,Social,Labour,f,10,24,20,{Socialist}
+149,Socialist Labour,SocialLab,Labour,f,20,28,7,"{""Socialist Labour""}"
+150,Stop Climate Change,StopCliChg,Env,f,43,43,2,"{""Stop Climate Change""}"
+151,Technocrat,Techno,Oth,f,18,18,1,{Technocrat}
+152,The Bridge,Bridge,Oth,f,42,42,1,"{""The Bridge""}"
+153,Trades Union,Traces,Labour,f,20,20,1,"{""Trades Union""}"
+155,Union Populaire,UnionPop,SglIss,f,31,32,123,"{""Union Populaire""}"
+156,Union of Electors,UnionElectors,Labour,f,20,21,57,"{""Union of Electors""}"
+157,United Farmers,UnitedFarm,Labour,f,14,17,34,"{Farmer,""United Farmers of Alberta"",""United Farmers of Ontario""}"
+162,United Party of Canada,UPC,Oth,f,40,43,11,"{UPC,""United Party""}"
+163,United Reform Movement,UnitedReform,Labour,f,19,19,2,"{""United Reform"",""United Reform Movement""}"
+165,Unité nationale,Unité,Oth,f,21,21,1,"{""Unité nationale""}"
+166,Unknown,Unknown,Oth,f,1,25,696,{Unknown}
+168,Verdun,Verdun,Oth,f,18,18,1,{Verdun}
+167,Veterans Coalition,VetsCoal,SglIss,f,43,43,25,{VCP}
+169,Veterans Party,Vets,SglIss,f,18,18,1,"{""Veterans Party""}"
+170,Western Block Party,WBP,Pop,f,39,41,12,{WBP}

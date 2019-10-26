@@ -2,17 +2,14 @@
 
 
 # Load the database with the data.
-# Create the views.
 
 
 PSQL="psql service=esim"
 
-${PSQL} -c "CREATE SCHEMA IF NOT EXISTS _work;"
-${PSQL} -c "CREATE SCHEMA IF NOT EXISTS _elections;"
 
 
 echo "\n\nCreating raw DB tables"
-${PSQL} < sql/createRawDbTables.sql
+${PSQL} -f sql/createRawDbTables.sql
 
 
 # Load historical data
@@ -36,18 +33,3 @@ echo "Loading raw data from work/preliminary.csv"
 ${PSQL} -c "TRUNCATE _work.preliminary" \
 		-c "\copy _work.preliminary from work/preliminary.csv"
 
-
-#
-# Add the views over the raw data
-#
-echo "Creating raw data views"
-${PSQL} < sql/rawDataViews.sql
-
-#
-# Build the final raw table
-#
-echo "Creating consolidated elections table"
-${PSQL} < sql/elections.sql
-
-echo "Diffs should be zero"
-${PSQL} < sql/checks.sql

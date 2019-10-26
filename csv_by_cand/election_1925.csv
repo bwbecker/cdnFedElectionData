@@ -1,0 +1,580 @@
+election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_party_name,party_id,party_name,party_short_name,mainstream,votes,acclaimed,place
+15,1925-10-29,AB,1,ACADIA,6163,"GARDINER, Robert",Progressive,121,Progressive,Progressive,t,5362,f,1
+15,1925-10-29,AB,1,ACADIA,6165,"EATON, Robert Berry",Liberal,75,Liberal,Lib,t,1552,f,2
+15,1925-10-29,AB,1,ACADIA,6164,"WADE, George Harrison",Conservative,37,Conservative,Con,t,1481,f,3
+15,1925-10-29,AB,2,ATHABASKA,6166,"CROSS, Charles Wilson",Liberal,75,Liberal,Lib,t,5078,f,1
+15,1925-10-29,AB,2,ATHABASKA,6168,"KELLNER, Donald Ferdinand",Progressive,121,Progressive,Progressive,t,3648,f,2
+15,1925-10-29,AB,2,ATHABASKA,6167,"GAUVREAU, Charles Jenry",Conservative,37,Conservative,Con,t,643,f,3
+15,1925-10-29,AB,3,BATTLE RIVER,6169,"SPENCER, Henry Elvins",Progressive,121,Progressive,Progressive,t,5067,f,1
+15,1925-10-29,AB,3,BATTLE RIVER,6171,"LEE, Raymond McFarlane",Liberal,75,Liberal,Lib,t,1690,f,2
+15,1925-10-29,AB,3,BATTLE RIVER,6170,"MORRISON, John William Geddie",Conservative,37,Conservative,Con,t,1634,f,3
+15,1925-10-29,AB,4,BOW RIVER,6172,"GARLAND, Edward Joseph",Progressive,121,Progressive,Progressive,t,3773,f,1
+15,1925-10-29,AB,4,BOW RIVER,6173,"GOUGE, Jesse Elmer",Liberal,75,Liberal,Lib,t,2917,f,2
+15,1925-10-29,AB,4,BOW RIVER,6174,"DOUGLASS, William James",Conservative,37,Conservative,Con,t,2075,f,3
+15,1925-10-29,AB,5,CALGARY EAST,6175,"DAVIS, Fred",Conservative,37,Conservative,Con,t,5560,f,1
+15,1925-10-29,AB,5,CALGARY EAST,6176,"IRVINE, William",Labour,65,Labour,Labour,f,3710,f,2
+15,1925-10-29,AB,5,CALGARY EAST,6177,"DAVIDSON, William McCartney",Liberal,75,Liberal,Lib,t,2519,f,3
+15,1925-10-29,AB,6,CALGARY WEST,6178,"BENNETT, Hon. Richard Bedford",Conservative,37,Conservative,Con,t,10256,f,1
+15,1925-10-29,AB,6,CALGARY WEST,6179,"SHAW, Joseph Tweed",Labour,65,Labour,Labour,f,6040,f,2
+15,1925-10-29,AB,7,CAMROSE,6180,"LUCAS, William Thomas",United Farmers of Alberta,157,United Farmers,UnitedFarm,f,4202,f,1
+15,1925-10-29,AB,7,CAMROSE,6181,"THOMAS, John Wilson",Liberal,75,Liberal,Lib,t,1885,f,2
+15,1925-10-29,AB,7,CAMROSE,6182,"SCOTT, Albert",Conservative,37,Conservative,Con,t,1409,f,3
+15,1925-10-29,AB,8,EDMONTON EAST,6183,"BURY, Ambrose Upton Gledstanes",Conservative,37,Conservative,Con,t,3927,f,1
+15,1925-10-29,AB,8,EDMONTON EAST,6184,"MCLENNAN, Andrew Robert",Liberal,75,Liberal,Lib,t,3440,f,2
+15,1925-10-29,AB,8,EDMONTON EAST,6185,"LATHAM, George",Labour Farmer,65,Labour,Labour,f,2767,f,3
+15,1925-10-29,AB,9,EDMONTON WEST,6186,"STEWART, Hon. Charles",Liberal,75,Liberal,Lib,t,6394,f,1
+15,1925-10-29,AB,9,EDMONTON WEST,6187,"DOUGLAS, James McCrie",Conservative,37,Conservative,Con,t,4706,f,2
+15,1925-10-29,AB,9,EDMONTON WEST,6188,"EAST, James",Labour Farmer,65,Labour,Labour,f,2007,f,3
+15,1925-10-29,AB,10,LETHBRIDGE,6190,"JELLIFF, Lincoln Henry",Progressive,121,Progressive,Progressive,t,5399,f,1
+15,1925-10-29,AB,10,LETHBRIDGE,6189,"STEWART, John Smith",Conservative,37,Conservative,Con,t,4656,f,2
+15,1925-10-29,AB,11,MACLEOD,6192,"COOTE, George Gibson",Progressive,121,Progressive,Progressive,t,4943,f,1
+15,1925-10-29,AB,11,MACLEOD,6191,"HERRON, John",Conservative,37,Conservative,Con,t,4239,f,2
+15,1925-10-29,AB,11,MACLEOD,6193,"MILNES, Thomas Charles",Liberal,75,Liberal,Lib,t,1941,f,3
+15,1925-10-29,AB,12,MEDICINE HAT,6194,"GERSHAW, Frederick William",Liberal,75,Liberal,Lib,t,4383,f,1
+15,1925-10-29,AB,12,MEDICINE HAT,6196,"BLACKSTOCK, George McNeill",Conservative,37,Conservative,Con,t,2397,f,2
+15,1925-10-29,AB,12,MEDICINE HAT,6195,"MCDANIEL, Hugh Campbell",Progressive,121,Progressive,Progressive,t,2039,f,3
+15,1925-10-29,AB,13,PEACE RIVER,6197,"KENNEDY, Donald MacBeth",Progressive,121,Progressive,Progressive,t,3986,f,1
+15,1925-10-29,AB,13,PEACE RIVER,6198,"COLLINS, James Arthur",Conservative,37,Conservative,Con,t,3969,f,2
+15,1925-10-29,AB,13,PEACE RIVER,6199,"RAE, William Archibald",Liberal,75,Liberal,Lib,t,3944,f,3
+15,1925-10-29,AB,14,RED DEER,6200,"SPEAKMAN, Alfred",United Farmers of Alberta,157,United Farmers,UnitedFarm,f,3851,f,1
+15,1925-10-29,AB,14,RED DEER,6201,"MCKERCHER, Thomas",Liberal,75,Liberal,Lib,t,2462,f,2
+15,1925-10-29,AB,14,RED DEER,6202,"LA FRANCE, Joseph George",Conservative,37,Conservative,Con,t,2029,f,3
+15,1925-10-29,AB,15,VEGREVILLE,6203,"BOUTILLIER, Arthur Moren",Progressive,121,Progressive,Progressive,t,5103,f,1
+15,1925-10-29,AB,15,VEGREVILLE,6204,"GORDON, Charles",Liberal,75,Liberal,Lib,t,2643,f,2
+15,1925-10-29,AB,16,WETASKIWIN,6205,"TOBIN, Stanley Gilbert",Liberal,75,Liberal,Lib,t,3429,f,1
+15,1925-10-29,AB,16,WETASKIWIN,6206,"WARNER, Daniel Webster",Progressive,121,Progressive,Progressive,t,3201,f,2
+15,1925-10-29,AB,16,WETASKIWIN,6207,"RUSSELL, Charles Homer",Conservative,37,Conservative,Con,t,2121,f,3
+15,1925-10-29,BC,17,CARIBOO,6208,"FRASER, John Anderson",Conservative,37,Conservative,Con,t,6430,f,1
+15,1925-10-29,BC,17,CARIBOO,6209,"MCBRIDE, Thomas George",Progressive,121,Progressive,Progressive,t,5534,f,2
+15,1925-10-29,BC,18,COMOX--ALBERNI,6210,"NEILL, Alan Webster",Independent,52,Independent,Ind,f,4794,f,1
+15,1925-10-29,BC,18,COMOX--ALBERNI,6211,"COLDICUTT, Thomas Davis",Conservative,37,Conservative,Con,t,2247,f,2
+15,1925-10-29,BC,19,FRASER VALLEY,6212,"BARBER, Harry James",Conservative,37,Conservative,Con,t,5751,f,1
+15,1925-10-29,BC,19,FRASER VALLEY,6213,"MUNRO, Elgin Albert",Liberal,75,Liberal,Lib,t,4485,f,2
+15,1925-10-29,BC,20,KOOTENAY EAST,6214,"KING, Hon. James Horace",Liberal,75,Liberal,Lib,t,4446,f,1
+15,1925-10-29,BC,20,KOOTENAY EAST,6215,"RUTLEDGE, John Wesley",Conservative,37,Conservative,Con,t,3495,f,2
+15,1925-10-29,BC,21,KOOTENAY WEST,6216,"ESLING, William Kemble",Conservative,37,Conservative,Con,t,5720,f,1
+15,1925-10-29,BC,21,KOOTENAY WEST,6217,"HUMPHREY, Levi William",Progressive,121,Progressive,Progressive,t,4779,f,2
+15,1925-10-29,BC,22,NANAIMO,6218,"DICKIE, Charles Herbert",Conservative,37,Conservative,Con,t,9584,f,1
+15,1925-10-29,BC,22,NANAIMO,6219,"BOOTH, Thomas Banks",Liberal,75,Liberal,Lib,t,6117,f,2
+15,1925-10-29,BC,22,NANAIMO,6220,"GRIEVES, William Turner",Socialist,148,Socialist,Social,f,1888,f,3
+15,1925-10-29,BC,23,NEW WESTMINSTER,6221,"MCQUARRIE, William Garland",Conservative,37,Conservative,Con,t,7714,f,1
+15,1925-10-29,BC,23,NEW WESTMINSTER,6222,"GRAY, Arthur Wellesley",Liberal,75,Liberal,Lib,t,7013,f,2
+15,1925-10-29,BC,23,NEW WESTMINSTER,6223,"HENDERSON, Rose Mary Louise",Labour,65,Labour,Labour,f,3305,f,3
+15,1925-10-29,BC,24,SKEENA,6224,"STORK, Alfred",Liberal,75,Liberal,Lib,t,3633,f,1
+15,1925-10-29,BC,24,SKEENA,6225,"BUSHBY, George Gordon",Conservative,37,Conservative,Con,t,2940,f,2
+15,1925-10-29,BC,24,SKEENA,6226,"NICKERSON, George Watson",Progressive,121,Progressive,Progressive,t,765,f,3
+15,1925-10-29,BC,25,VANCOUVER CENTRE,6227,"STEVENS, Hon. Henry Herbert",Conservative,37,Conservative,Con,t,9458,f,1
+15,1925-10-29,BC,25,VANCOUVER CENTRE,6228,"MCGEER, Gerald Grattan",Liberal,75,Liberal,Lib,t,8277,f,2
+15,1925-10-29,BC,25,VANCOUVER CENTRE,6229,"LEFEAUX, Wallis Walter",Labour,65,Labour,Labour,f,1777,f,3
+15,1925-10-29,BC,26,VANCOUVER NORTH,6230,"DONAGHY, Dugald",Liberal,75,Liberal,Lib,t,4279,f,1
+15,1925-10-29,BC,26,VANCOUVER NORTH,6231,"MORDEN, George Herbert",Conservative,37,Conservative,Con,t,3694,f,2
+15,1925-10-29,BC,26,VANCOUVER NORTH,6232,"CURRY, William Jamison",Labour,65,Labour,Labour,f,1384,f,3
+15,1925-10-29,BC,27,VANCOUVER SOUTH,6233,"LADNER, Leon Johnson",Conservative,37,Conservative,Con,t,8587,f,1
+15,1925-10-29,BC,27,VANCOUVER SOUTH,6234,"MACPHERSON, Robert George",Liberal,75,Liberal,Lib,t,6797,f,2
+15,1925-10-29,BC,27,VANCOUVER SOUTH,6235,"HURRY, Alfred",Labour,65,Labour,Labour,f,2783,f,3
+15,1925-10-29,BC,28,VANCOUVER--BURRARD,6236,"CLARK, John Arthur",Conservative,37,Conservative,Con,t,9897,f,1
+15,1925-10-29,BC,28,VANCOUVER--BURRARD,6237,"MCLENNAN, Robert Purves",Liberal,75,Liberal,Lib,t,8840,f,2
+15,1925-10-29,BC,28,VANCOUVER--BURRARD,6238,"SIDAWAY, John",Labour,65,Labour,Labour,f,2230,f,3
+15,1925-10-29,BC,29,VICTORIA,6239,"TOLMIE, Hon. Simon Fraser",Conservative,37,Conservative,Con,t,6926,f,1
+15,1925-10-29,BC,29,VICTORIA,6240,"IVEL, William McKinnon",Liberal,75,Liberal,Lib,t,4617,f,2
+15,1925-10-29,BC,30,YALE,6241,"STIRLING, Grote",Conservative,37,Conservative,Con,t,7573,f,1
+15,1925-10-29,BC,30,YALE,6242,"EDGETT, Charles Edgar",Liberal,75,Liberal,Lib,t,4870,f,2
+15,1925-10-29,MB,31,BRANDON,6243,"FORKE, Robert",Progressive,121,Progressive,Progressive,t,6411,f,1
+15,1925-10-29,MB,31,BRANDON,6244,"BEAUBIER, David Wilson",Conservative,37,Conservative,Con,t,5428,f,2
+15,1925-10-29,MB,32,DAUPHIN,6245,"WARD, William John",Progressive,121,Progressive,Progressive,t,5102,f,1
+15,1925-10-29,MB,32,DAUPHIN,6246,"BOWMAN, James Langstaff, K.C",Conservative,37,Conservative,Con,t,4883,f,2
+15,1925-10-29,MB,33,LISGAR,6247,"BROWN, John Livingstone",Progressive,121,Progressive,Progressive,t,3112,f,1
+15,1925-10-29,MB,33,LISGAR,6248,"ROWE, William James",Conservative,37,Conservative,Con,t,2736,f,2
+15,1925-10-29,MB,34,MACDONALD,6249,"LOVIE, William James",Progressive,121,Progressive,Progressive,t,5346,f,1
+15,1925-10-29,MB,34,MACDONALD,6250,"ROBINSON, Herbert Edward",Conservative,37,Conservative,Con,t,3293,f,2
+15,1925-10-29,MB,35,MARQUETTE,6251,"MULLINS, Henry Alfred",Conservative,37,Conservative,Con,t,4219,f,1
+15,1925-10-29,MB,35,MARQUETTE,6252,"STEVENSON, Charles Stuart",Progressive,121,Progressive,Progressive,t,4084,f,2
+15,1925-10-29,MB,35,MARQUETTE,6253,"IVERACH, William",Liberal,75,Liberal,Lib,t,1665,f,3
+15,1925-10-29,MB,36,NEEPAWA,6254,"MURPHY, Thomas Gerow",Conservative,37,Conservative,Con,t,3461,f,1
+15,1925-10-29,MB,36,NEEPAWA,6255,"MILNE, Robert",Progressive,121,Progressive,Progressive,t,3332,f,2
+15,1925-10-29,MB,36,NEEPAWA,6256,"BROADFOOT, Peter",Liberal,75,Liberal,Lib,t,1809,f,3
+15,1925-10-29,MB,37,NELSON,6257,"BIRD, Thomas William",Progressive,121,Progressive,Progressive,t,2485,f,1
+15,1925-10-29,MB,37,NELSON,6258,"MYERS, Joseph",Conservative,37,Conservative,Con,t,2143,f,2
+15,1925-10-29,MB,38,PORTAGE LA PRAIRIE,6259,"MEIGHEN, Rt. Hon. Arthur",Conservative,37,Conservative,Con,t,5817,f,1
+15,1925-10-29,MB,38,PORTAGE LA PRAIRIE,6260,"LEADER, Harry",Progressive,121,Progressive,Progressive,t,4966,f,2
+15,1925-10-29,MB,39,PROVENCHER,6261,"BEAUBIEN, Arthur-Lucien",Progressive,121,Progressive,Progressive,t,2736,f,1
+15,1925-10-29,MB,39,PROVENCHER,6262,"COMEAULT, Edmond",Liberal,75,Liberal,Lib,t,2656,f,2
+15,1925-10-29,MB,40,SELKIRK,6263,"HANNESSON, Hannes Marino",Conservative,37,Conservative,Con,t,3831,f,1
+15,1925-10-29,MB,40,SELKIRK,6265,"BANCROFT, Leland Payson",Liberal Progressive,79,Liberal Progressive,LibProgr,f,3319,f,2
+15,1925-10-29,MB,40,SELKIRK,6264,"GIBBS, Walter Henry Gabriel",Liberal,75,Liberal,Lib,t,2524,f,3
+15,1925-10-29,MB,41,SOURIS,6266,"STEEDSMAN, James",Progressive,121,Progressive,Progressive,t,3509,f,1
+15,1925-10-29,MB,41,SOURIS,6267,"WILLSON, William",Conservative,37,Conservative,Con,t,3258,f,2
+15,1925-10-29,MB,41,SOURIS,6268,"WILLIAMS, John",Liberal,75,Liberal,Lib,t,1563,f,3
+15,1925-10-29,MB,42,SPRINGFIELD,6269,"HAY, Thomas",Conservative,37,Conservative,Con,t,2259,f,1
+15,1925-10-29,MB,42,SPRINGFIELD,6270,"BISSETT, Edgar Douglas Richmond",Liberal,75,Liberal,Lib,t,1724,f,2
+15,1925-10-29,MB,42,SPRINGFIELD,6271,"HOLLAND, John",Progressive,121,Progressive,Progressive,t,1665,f,3
+15,1925-10-29,MB,43,ST. BONIFACE,6272,"HOWDEN, John Power",Liberal,75,Liberal,Lib,t,4819,f,1
+15,1925-10-29,MB,43,ST. BONIFACE,6273,"MEIKLE, Allan",Independent Labor,57,Independent Labor,IndLab,f,2901,f,2
+15,1925-10-29,MB,43,ST. BONIFACE,6274,"MACLEAN, George Campbell",Conservative,37,Conservative,Con,t,2442,f,3
+15,1925-10-29,MB,44,WINNIPEG NORTH,6275,"HEAPS, Abraham Albert",Labour,65,Labour,Labour,f,4781,f,1
+15,1925-10-29,MB,44,WINNIPEG NORTH,6276,"BLAKE, Matthew Robert",Conservative,37,Conservative,Con,t,3882,f,2
+15,1925-10-29,MB,44,WINNIPEG NORTH,6277,"MCMURRAY, Hon. Edward James",Liberal,75,Liberal,Lib,t,3573,f,3
+15,1925-10-29,MB,45,WINNIPEG NORTH CENTRE,6278,"WOODSWORTH, James Shaver",Labour,65,Labour,Labour,f,4794,f,1
+15,1925-10-29,MB,45,WINNIPEG NORTH CENTRE,6279,"BRAID, Joseph Edwin",Conservative,37,Conservative,Con,t,3578,f,2
+15,1925-10-29,MB,45,WINNIPEG NORTH CENTRE,6280,"LOWERY, Edward Wesley",Liberal,75,Liberal,Lib,t,1689,f,3
+15,1925-10-29,MB,46,WINNIPEG SOUTH,6281,"ROGERS, Hon. Robert",Conservative,37,Conservative,Con,t,7017,f,1
+15,1925-10-29,MB,46,WINNIPEG SOUTH,6282,"NORRIS, Tobias Crawford",Liberal,75,Liberal,Lib,t,5400,f,2
+15,1925-10-29,MB,46,WINNIPEG SOUTH,6283,"KELLY, John",Labour,65,Labour,Labour,f,3206,f,3
+15,1925-10-29,MB,47,WINNIPEG SOUTH CENTRE,6284,"KENNEDY, William Walker",Conservative,37,Conservative,Con,t,12094,f,1
+15,1925-10-29,MB,47,WINNIPEG SOUTH CENTRE,6285,"DAVIDSON, Joseph Fergus",Liberal,75,Liberal,Lib,t,7132,f,2
+15,1925-10-29,MB,47,WINNIPEG SOUTH CENTRE,6286,"HENRY, Alexander",Labour,65,Labour,Labour,f,3643,f,3
+15,1925-10-29,NB,48,CHARLOTTE,6287,"GRIMMER, Robert Watson",Conservative,37,Conservative,Con,t,5426,f,1
+15,1925-10-29,NB,48,CHARLOTTE,6288,"HOLT, William Albert",Liberal,75,Liberal,Lib,t,3274,f,2
+15,1925-10-29,NB,49,GLOUCESTER,6290,"ROBICHAUD, Jean George",Liberal,75,Liberal,Lib,t,6254,f,1
+15,1925-10-29,NB,49,GLOUCESTER,6289,"HACHEY, Joseph Benoit",Conservative,37,Conservative,Con,t,5272,f,2
+15,1925-10-29,NB,50,KENT,6291,"DOUCET, Alexandre Joseph",Conservative,37,Conservative,Con,t,4427,f,1
+15,1925-10-29,NB,50,KENT,6292,"ROBICHAUD, Louis Prudent",Liberal,75,Liberal,Lib,t,3534,f,2
+15,1925-10-29,NB,51,NORTHUMBERLAND,6293,"FISH, Charles Elijah",Conservative,37,Conservative,Con,t,5331,f,1
+15,1925-10-29,NB,51,NORTHUMBERLAND,6294,"TWEEDIE, Frederick Morrison",Liberal,75,Liberal,Lib,t,3779,f,2
+15,1925-10-29,NB,52,RESTIGOUCHE--MADAWASKA,6295,"CULLIGAN, Arthur",Conservative,37,Conservative,Con,t,6374,f,1
+15,1925-10-29,NB,52,RESTIGOUCHE--MADAWASKA,6296,"MICHAUD, Pius",Liberal,75,Liberal,Lib,t,4904,f,2
+15,1925-10-29,NB,53,ROYAL,6297,"JONES, George B.",Conservative,37,Conservative,Con,t,7485,f,1
+15,1925-10-29,NB,53,ROYAL,6298,"MCALISTER, Duncan H.",Liberal,75,Liberal,Lib,t,5614,f,2
+15,1925-10-29,NB,54,ST. JOHN--ALBERT-1,6300,"BELL, Thomas",Conservative,37,Conservative,Con,t,14250,f,1
+15,1925-10-29,NB,54,ST. JOHN--ALBERT-1,6299,"HAYES, Robert Thomas",Liberal,75,Liberal,Lib,t,8435,f,2
+15,1925-10-29,NB,55,ST. JOHN--ALBERT-2,6302,"MACLAREN, Murray",Conservative,37,Conservative,Con,t,14623,f,1
+15,1925-10-29,NB,55,ST. JOHN--ALBERT-2,6301,"FOSTER, Hon. Walter Edward",Liberal,75,Liberal,Lib,t,9348,f,2
+15,1925-10-29,NB,56,VICTORIA--CARLETON,6303,"FLEMMING, James Kidd",Conservative,37,Conservative,Con,t,6859,f,1
+15,1925-10-29,NB,56,VICTORIA--CARLETON,6304,"CALDWELL, Thomas Wakem",Independent Liberal Progressive,59,Independent Liberal Progressive,IndLibP,f,4958,f,2
+15,1925-10-29,NB,56,VICTORIA--CARLETON,6305,"ADNEY, Minnie Bell",Independent,52,Independent,Ind,f,84,f,3
+15,1925-10-29,NB,57,WESTMORLAND,6306,"PRICE, Otto Baird",Conservative,37,Conservative,Con,t,11806,f,1
+15,1925-10-29,NB,57,WESTMORLAND,6307,"SMITH, Ernest Albert",Liberal,75,Liberal,Lib,t,7780,f,2
+15,1925-10-29,NB,58,YORK--SUNBURY,6308,"HANSON, Richard Burpee",Conservative,37,Conservative,Con,t,8636,f,1
+15,1925-10-29,NB,58,YORK--SUNBURY,6309,"HAWKINS, Charles Robert",Liberal,75,Liberal,Lib,t,3207,f,2
+15,1925-10-29,NS,59,ANTIGONISH--GUYSBOROUGH,6310,"MACDONALD, Hon. Edward Mortiner",Liberal,75,Liberal,Lib,t,6135,f,1
+15,1925-10-29,NS,59,ANTIGONISH--GUYSBOROUGH,6311,"CHISHOLM, Duncan Stuart",Conservative,37,Conservative,Con,t,5545,f,2
+15,1925-10-29,NS,60,CAPE BRETON NORTH--VICTORIA,6312,"JOHNSTONE, Lewis Wilkieson",Conservative,37,Conservative,Con,t,6873,f,1
+15,1925-10-29,NS,60,CAPE BRETON NORTH--VICTORIA,6313,"KELLY, Fenwick Lionel",Liberal,75,Liberal,Lib,t,4309,f,2
+15,1925-10-29,NS,61,CAPE BRETON SOUTH,6315,"MACDONALD, Finlay",Conservative,37,Conservative,Con,t,9551,f,1
+15,1925-10-29,NS,61,CAPE BRETON SOUTH,6314,"CURRIE, Laughlin Daniel",Liberal,75,Liberal,Lib,t,4510,f,2
+15,1925-10-29,NS,61,CAPE BRETON SOUTH,6316,"MACLACHLAN, James Bryson",Labour,65,Labour,Labour,f,3617,f,3
+15,1925-10-29,NS,62,COLCHESTER,6317,"MACNUTT, George T.",Conservative,37,Conservative,Con,t,6405,f,1
+15,1925-10-29,NS,62,COLCHESTER,6318,"ARCHIBALD, Maynard B.",Liberal,75,Liberal,Lib,t,3394,f,2
+15,1925-10-29,NS,63,CUMBERLAND,6319,"SMITH, Robert Knowlton",Conservative,37,Conservative,Con,t,8492,f,1
+15,1925-10-29,NS,63,CUMBERLAND,6320,"LOGAN, Hance James",Liberal,75,Liberal,Lib,t,6291,f,2
+15,1925-10-29,NS,64,DIGBY--ANNAPOLIS,6322,"SHORT, Harry B.",Conservative,37,Conservative,Con,t,7599,f,1
+15,1925-10-29,NS,64,DIGBY--ANNAPOLIS,6321,"LOVETT, Lewis J.",Liberal,75,Liberal,Lib,t,7219,f,2
+15,1925-10-29,NS,65,HALIFAX-1,6323,"QUINN, Felix Patrick",Conservative,37,Conservative,Con,t,17996,f,1
+15,1925-10-29,NS,65,HALIFAX-1,6324,"FINN, Robert Emmett",Liberal,75,Liberal,Lib,t,10609,f,2
+15,1925-10-29,NS,66,HALIFAX-2,6325,"BLACK, William Anderson",Conservative,37,Conservative,Con,t,18796,f,1
+15,1925-10-29,NS,66,HALIFAX-2,6326,"MARSHALL, Gordon Ross",Liberal,75,Liberal,Lib,t,10815,f,2
+15,1925-10-29,NS,67,HANTS--KINGS,6328,"FOSTER, Arthur de Witt",Conservative,37,Conservative,Con,t,10168,f,1
+15,1925-10-29,NS,67,HANTS--KINGS,6327,"ROBINSON, Ernest William",Liberal,75,Liberal,Lib,t,9110,f,2
+15,1925-10-29,NS,68,INVERNESS,6329,"MACDOUGALL, Isaac Duncan",Conservative,37,Conservative,Con,t,5030,f,1
+15,1925-10-29,NS,68,INVERNESS,6330,"CHISHOLM, Alexander W.",Liberal,75,Liberal,Lib,t,3807,f,2
+15,1925-10-29,NS,69,PICTOU,6331,"CANTLEY, Thomas",Conservative,37,Conservative,Con,t,9693,f,1
+15,1925-10-29,NS,69,PICTOU,6332,"MACKAY, Robert H.",Liberal,75,Liberal,Lib,t,7731,f,2
+15,1925-10-29,NS,70,QUEENS--LUNENBURG,6333,"DUFF, William",Liberal,75,Liberal,Lib,t,9219,f,1
+15,1925-10-29,NS,70,QUEENS--LUNENBURG,6334,"ERNST, William G.",Conservative,37,Conservative,Con,t,8846,f,2
+15,1925-10-29,NS,71,RICHMOND--WEST CAPE BRETON,6335,"MACDONALD, John Alexander",Conservative,37,Conservative,Con,t,3962,f,1
+15,1925-10-29,NS,71,RICHMOND--WEST CAPE BRETON,6336,"KYTE, George William",Liberal,75,Liberal,Lib,t,3252,f,2
+15,1925-10-29,NS,72,SHELBURNE--YARMOUTH,6337,"HATFIELD, Paul Lacombe",Liberal,75,Liberal,Lib,t,6709,f,1
+15,1925-10-29,NS,72,SHELBURNE--YARMOUTH,6338,"SPINNEY, Hon. Edgar Keith",Conservative,37,Conservative,Con,t,6327,f,2
+15,1925-10-29,ON,73,ALGOMA EAST,6340,"NICHOLSON, George Brecken",Conservative,37,Conservative,Con,t,6209,f,1
+15,1925-10-29,ON,73,ALGOMA EAST,6339,"CARRUTHERS, John",Liberal,75,Liberal,Lib,t,5665,f,2
+15,1925-10-29,ON,74,ALGOMA WEST,6341,"SIMPSON, Thomas Edward",Conservative,37,Conservative,Con,t,6767,f,1
+15,1925-10-29,ON,74,ALGOMA WEST,6342,"MCCAULEY, Thomas John",Liberal,75,Liberal,Lib,t,3574,f,2
+15,1925-10-29,ON,75,BRANT,6343,"SMOKE, Franklin",Conservative,37,Conservative,Con,t,4151,f,1
+15,1925-10-29,ON,75,BRANT,6344,"STANDING, Edgar Howard",Progressive,121,Progressive,Progressive,t,3173,f,2
+15,1925-10-29,ON,76,BRANTFORD CITY,6345,"RYERSON, Robert Edwy",Conservative,37,Conservative,Con,t,7395,f,1
+15,1925-10-29,ON,76,BRANTFORD CITY,6346,"RAYMOND, William Gawtress",Liberal,75,Liberal,Lib,t,4952,f,2
+15,1925-10-29,ON,77,BRUCE NORTH,6347,"MALCOLM, James",Liberal,75,Liberal,Lib,t,3839,f,1
+15,1925-10-29,ON,77,BRUCE NORTH,6348,"CLARK, Hugh",Conservative,37,Conservative,Con,t,3646,f,2
+15,1925-10-29,ON,77,BRUCE NORTH,6349,"LANDON, Nathan Stevenson",Progressive,121,Progressive,Progressive,t,2351,f,3
+15,1925-10-29,ON,78,BRUCE SOUTH,6350,"HALL, Walter Allan",Liberal,75,Liberal,Lib,t,3965,f,1
+15,1925-10-29,ON,78,BRUCE SOUTH,6351,"LIPPERT, Frederick William",Conservative,37,Conservative,Con,t,3362,f,2
+15,1925-10-29,ON,78,BRUCE SOUTH,6352,"FINDLAY, John Walter",Progressive,121,Progressive,Progressive,t,2128,f,3
+15,1925-10-29,ON,79,CARLETON,6353,"GARLAND, William Foster",Conservative,37,Conservative,Con,t,7757,f,1
+15,1925-10-29,ON,79,CARLETON,6354,"CUMMINGS, Mortimer Newton",Liberal,75,Liberal,Lib,t,5748,f,2
+15,1925-10-29,ON,80,DUFFERIN--SIMCOE,6355,"ROWE, William Earl",Conservative,37,Conservative,Con,t,8942,f,1
+15,1925-10-29,ON,80,DUFFERIN--SIMCOE,6356,"WOOD, Robert John",Progressive,121,Progressive,Progressive,t,5936,f,2
+15,1925-10-29,ON,81,DURHAM,6357,"BOWEN, Fred Wellington",Conservative,37,Conservative,Con,t,7020,f,1
+15,1925-10-29,ON,81,DURHAM,6358,"MASSEY, Hon. Charles Vicent",Liberal,75,Liberal,Lib,t,6074,f,2
+15,1925-10-29,ON,82,ELGIN WEST,6359,"MCKILLOP, Hugh C.",Conservative,37,Conservative,Con,t,8360,f,1
+15,1925-10-29,ON,82,ELGIN WEST,6360,"SLOGGETT, George Henry",Liberal,75,Liberal,Lib,t,6535,f,2
+15,1925-10-29,ON,83,ESSEX EAST,6361,"MORAND, Raymond",Conservative,37,Conservative,Con,t,6052,f,1
+15,1925-10-29,ON,83,ESSEX EAST,6362,"ODETTE, Edmond George",Liberal,75,Liberal,Lib,t,5855,f,2
+15,1925-10-29,ON,84,ESSEX SOUTH,6363,"GOTT, Eccles James",Conservative,37,Conservative,Con,t,6851,f,1
+15,1925-10-29,ON,84,ESSEX SOUTH,6364,"GRAHAM, Rt. Hon. George Perr",Liberal,75,Liberal,Lib,t,6017,f,2
+15,1925-10-29,ON,85,ESSEX WEST,6365,"ROBINSON, Sidney Cecil",Conservative,37,Conservative,Con,t,11029,f,1
+15,1925-10-29,ON,85,ESSEX WEST,6366,"WINTER, Edward Blake",Liberal,75,Liberal,Lib,t,8508,f,2
+15,1925-10-29,ON,86,FORT WILLIAM,6367,"MANION, Hon. Robert James",Conservative,37,Conservative,Con,t,6205,f,1
+15,1925-10-29,ON,86,FORT WILLIAM,6368,"GARVER, DeWitt Clinton",Liberal,75,Liberal,Lib,t,2830,f,2
+15,1925-10-29,ON,87,FRONTENAC--ADDINGTON,6369,"EDWARDS, Hon. John Wesley",Conservative,37,Conservative,Con,t,7322,f,1
+15,1925-10-29,ON,87,FRONTENAC--ADDINGTON,6370,"REED, William Samuel",Progressive,121,Progressive,Progressive,t,4554,f,2
+15,1925-10-29,ON,88,GLENGARRY,6371,"MACDONALD, Archibald John",Liberal,75,Liberal,Lib,t,2785,f,1
+15,1925-10-29,ON,88,GLENGARRY,6372,"MCGILLIS, Angus",Conservative,37,Conservative,Con,t,2628,f,2
+15,1925-10-29,ON,88,GLENGARRY,6373,"KENNEDY, John Wilfred",Progressive,121,Progressive,Progressive,t,2519,f,3
+15,1925-10-29,ON,89,GRENVILLE--DUNDAS,6374,"CASSELMAN, Arza Clair",Conservative,37,Conservative,Con,t,8175,f,1
+15,1925-10-29,ON,89,GRENVILLE--DUNDAS,6375,"ANDERSON, William Garnet",Liberal,75,Liberal,Lib,t,5221,f,2
+15,1925-10-29,ON,90,GREY NORTH,6376,"DUNCAN, Matthew Robert",Conservative,37,Conservative,Con,t,6861,f,1
+15,1925-10-29,ON,90,GREY NORTH,6377,"CARMICHAEL, Dougall",Progressive,121,Progressive,Progressive,t,6415,f,2
+15,1925-10-29,ON,91,GREY SOUTHEAST,6378,"MACPHAIL, Agnes C.",Progressive,121,Progressive,Progressive,t,6652,f,1
+15,1925-10-29,ON,91,GREY SOUTHEAST,6379,"CAMPBELL, Lewis G.",Conservative,37,Conservative,Con,t,5245,f,2
+15,1925-10-29,ON,92,HALDIMAND,6380,"SENN, Mark Cecil",Conservative,37,Conservative,Con,t,5415,f,1
+15,1925-10-29,ON,92,HALDIMAND,6381,"MARSHALL, Thomas",Liberal,75,Liberal,Lib,t,4266,f,2
+15,1925-10-29,ON,93,HALTON,6382,"ANDERSON, Robert King",Conservative,37,Conservative,Con,t,6775,f,1
+15,1925-10-29,ON,93,HALTON,6383,"CAMPBELL, Duncan",Liberal,75,Liberal,Lib,t,5424,f,2
+15,1925-10-29,ON,94,HAMILTON EAST,6384,"MEWBURN, Hon. Sydney Chilton",Conservative,37,Conservative,Con,t,15669,f,1
+15,1925-10-29,ON,94,HAMILTON EAST,6385,"LAWRENCE, Samuel",Labour,65,Labour,Labour,f,2286,f,2
+15,1925-10-29,ON,94,HAMILTON EAST,6386,"NEWLANDS, John",Liberal,75,Liberal,Lib,t,2205,f,3
+15,1925-10-29,ON,95,HAMILTON WEST,6387,"BELL, Charles William",Conservative,37,Conservative,Con,t,13875,f,1
+15,1925-10-29,ON,95,HAMILTON WEST,6388,"GOW, George Alexander",Liberal,75,Liberal,Lib,t,2651,f,2
+15,1925-10-29,ON,96,HASTINGS SOUTH,6389,"TUMMON, William Ernest",Conservative,37,Conservative,Con,t,10448,f,1
+15,1925-10-29,ON,96,HASTINGS SOUTH,6390,"HANNA, Charles Edward",Liberal,75,Liberal,Lib,t,7837,f,2
+15,1925-10-29,ON,97,HASTINGS--PETERBOROUGH,6391,"EMBURY, Alexander Thomas",Conservative,37,Conservative,Con,t,6511,f,1
+15,1925-10-29,ON,97,HASTINGS--PETERBOROUGH,6392,"BRETHEN, George Arthur",Progressive,121,Progressive,Progressive,t,3747,f,2
+15,1925-10-29,ON,98,HURON NORTH,6394,"KING, John Warwick",Progressive,121,Progressive,Progressive,t,5340,f,1
+15,1925-10-29,ON,98,HURON NORTH,6393,"SPOTTON, George",Conservative,37,Conservative,Con,t,5170,f,2
+15,1925-10-29,ON,99,HURON SOUTH,6396,"MCMILLAN, Thomas",Liberal,75,Liberal,Lib,t,4947,f,1
+15,1925-10-29,ON,99,HURON SOUTH,6395,"MERNER, Jonathan Joseph",Conservative,37,Conservative,Con,t,4694,f,2
+15,1925-10-29,ON,99,HURON SOUTH,6397,"MCMILLAN, Robert J.",Progressive,121,Progressive,Progressive,t,1680,f,3
+15,1925-10-29,ON,100,KENORA--RAINY RIVER,6398,"HEENAN, Peter",Liberal,75,Liberal,Lib,t,3898,f,1
+15,1925-10-29,ON,100,KENORA--RAINY RIVER,6399,"MACHIN, Harold Arthur Clemen",Conservative,37,Conservative,Con,t,3707,f,2
+15,1925-10-29,ON,100,KENORA--RAINY RIVER,6400,"MACLEAN, Roderick",Farmer Labour,65,Labour,Labour,f,762,f,3
+15,1925-10-29,ON,101,KENT,6402,"CHAPLIN, Alexander Dew",Conservative,37,Conservative,Con,t,8396,f,1
+15,1925-10-29,ON,101,KENT,6403,"RUTHERFORD, James Warren",Liberal,75,Liberal,Lib,t,7833,f,2
+15,1925-10-29,ON,101,KENT,6401,"WARD, John Wesley",Unknown,166,Unknown,Unknown,f,4461,f,3
+15,1925-10-29,ON,102,KINGSTON CITY,6404,"ROSS, Arthur Edward",Conservative,37,Conservative,Con,t,6765,f,1
+15,1925-10-29,ON,102,KINGSTON CITY,6405,"CAMPBELL, John Murdoch",Liberal,75,Liberal,Lib,t,5004,f,2
+15,1925-10-29,ON,103,LAMBTON EAST,6406,"ARMSTRONG, Joseph E.",Conservative,37,Conservative,Con,t,5611,f,1
+15,1925-10-29,ON,103,LAMBTON EAST,6407,"FANSHER, Burt Wendell",Progressive,121,Progressive,Progressive,t,5522,f,2
+15,1925-10-29,ON,103,LAMBTON EAST,6408,"STIRRETT, John Ross",Liberal,75,Liberal,Lib,t,1061,f,3
+15,1925-10-29,ON,104,LAMBTON WEST,6409,"GOODISON, William Thomas",Liberal,75,Liberal,Lib,t,6704,f,1
+15,1925-10-29,ON,104,LAMBTON WEST,6410,"LESUEUR, Richard Vryling",Conservative,37,Conservative,Con,t,6535,f,2
+15,1925-10-29,ON,105,LANARK,6411,"PRESTON, Richard Franklin",Conservative,37,Conservative,Con,t,7620,f,1
+15,1925-10-29,ON,105,LANARK,6412,"GEMMELL, Duncan Herbert",Independent,52,Independent,Ind,f,4416,f,2
+15,1925-10-29,ON,106,LEEDS,6413,"STEWART, Hugh Alexander",Conservative,37,Conservative,Con,t,8931,f,1
+15,1925-10-29,ON,106,LEEDS,6414,"COMSTOCK, William Henry",Liberal,75,Liberal,Lib,t,6689,f,2
+15,1925-10-29,ON,107,LINCOLN,6415,"CHAPLIN, James Dew",Conservative,37,Conservative,Con,t,12054,f,1
+15,1925-10-29,ON,107,LINCOLN,6416,"WOODRUFF, Hamilton Killally",Liberal,75,Liberal,Lib,t,5942,f,2
+15,1925-10-29,ON,108,LONDON,6417,"WHITE, John Franklin",Conservative,37,Conservative,Con,t,12260,f,1
+15,1925-10-29,ON,108,LONDON,6418,"LITTLE, Edgar Sydney",Liberal,75,Liberal,Lib,t,7777,f,2
+15,1925-10-29,ON,108,LONDON,6419,"COLBERT, John",Labour,65,Labour,Labour,f,2405,f,3
+15,1925-10-29,ON,109,MIDDLESEX EAST,6420,"HODGINS, Adam King",Conservative,37,Conservative,Con,t,5220,f,1
+15,1925-10-29,ON,109,MIDDLESEX EAST,6421,"ROSS, Cecil Clarkson",Liberal,75,Liberal,Lib,t,3155,f,2
+15,1925-10-29,ON,109,MIDDLESEX EAST,6422,"HODGINS, Archie Latimer",Progressive,121,Progressive,Progressive,t,2518,f,3
+15,1925-10-29,ON,110,MIDDLESEX WEST,6423,"ELLIOTT, John Campbell",Liberal,75,Liberal,Lib,t,4926,f,1
+15,1925-10-29,ON,110,MIDDLESEX WEST,6424,"MCDOUGALL, Allan L.",Progressive,121,Progressive,Progressive,t,3548,f,2
+15,1925-10-29,ON,110,MIDDLESEX WEST,6425,"ELLIOTT, Thomas",Conservative,37,Conservative,Con,t,2816,f,3
+15,1925-10-29,ON,111,MUSKOKA--ONTARIO,6426,"MCGIBBON, Peter",Conservative,37,Conservative,Con,t,9184,f,1
+15,1925-10-29,ON,111,MUSKOKA--ONTARIO,6427,"HALBERT, Robert Henry",Progressive,121,Progressive,Progressive,t,5608,f,2
+15,1925-10-29,ON,112,NIPISSING,6428,"LAPIERRE, Edmond Anthony",Liberal,75,Liberal,Lib,t,9128,f,1
+15,1925-10-29,ON,112,NIPISSING,6429,"FERGUSSON, John",Conservative,37,Conservative,Con,t,9031,f,2
+15,1925-10-29,ON,113,NORFOLK--ELGIN,6431,"STANSELL, John Lawrence",Conservative,37,Conservative,Con,t,8145,f,1
+15,1925-10-29,ON,113,NORFOLK--ELGIN,6430,"SEWELL, George David",Progressive,121,Progressive,Progressive,t,7183,f,2
+15,1925-10-29,ON,114,NORTHUMBERLAND,6432,"MAYBEE, Milton Edgar",Conservative,37,Conservative,Con,t,7815,f,1
+15,1925-10-29,ON,114,NORTHUMBERLAND,6433,"SLADE, Frederick John",Progressive,121,Progressive,Progressive,t,6665,f,2
+15,1925-10-29,ON,115,ONTARIO,6435,"KAISER, Thomas Erlin",Conservative,37,Conservative,Con,t,7835,f,1
+15,1925-10-29,ON,115,ONTARIO,6434,"CLIFFORD, Lawson Omar",Unknown,166,Unknown,Unknown,f,6595,f,2
+15,1925-10-29,ON,116,OTTAWA (CITY OF)-1,6436,"CHABOT, John Léo",Conservative,37,Conservative,Con,t,21281,f,1
+15,1925-10-29,ON,116,OTTAWA (CITY OF)-1,6437,"WILSON, Norman Frank",Liberal,75,Liberal,Lib,t,19165,f,2
+15,1925-10-29,ON,117,OTTAWA (CITY OF)-2,6438,"MCCLENAGHAN, Stewart",Conservative,37,Conservative,Con,t,21604,f,1
+15,1925-10-29,ON,117,OTTAWA (CITY OF)-2,6439,"CHEVRIER, Edgar Rodolphe",Liberal,75,Liberal,Lib,t,19725,f,2
+15,1925-10-29,ON,118,OXFORD NORTH,6440,"SUTHERLAND, Donald Matheson",Conservative,37,Conservative,Con,t,6243,f,1
+15,1925-10-29,ON,118,OXFORD NORTH,6441,"SINCLAIR, Duncan James",Liberal,75,Liberal,Lib,t,5660,f,2
+15,1925-10-29,ON,119,OXFORD SOUTH,6442,"SUTHERLAND, Donald",Conservative,37,Conservative,Con,t,5400,f,1
+15,1925-10-29,ON,119,OXFORD SOUTH,6443,"INNES, James William",Liberal,75,Liberal,Lib,t,5200,f,2
+15,1925-10-29,ON,120,PARKDALE,6444,"SPENCE, David",Conservative,37,Conservative,Con,t,14483,f,1
+15,1925-10-29,ON,120,PARKDALE,6445,"CHRISTIE, Kenneth A.",Liberal,75,Liberal,Lib,t,5299,f,2
+15,1925-10-29,ON,121,PARRY SOUND,6446,"ARTHURS, James",Conservative,37,Conservative,Con,t,5224,f,1
+15,1925-10-29,ON,121,PARRY SOUND,6447,"MASON, William Robert",Liberal,75,Liberal,Lib,t,3922,f,2
+15,1925-10-29,ON,122,PEEL,6448,"CHARTERS, Samuel",Conservative,37,Conservative,Con,t,7047,f,1
+15,1925-10-29,ON,122,PEEL,6449,"PARKER, William Ruston Perci",Liberal,75,Liberal,Lib,t,6546,f,2
+15,1925-10-29,ON,123,PERTH NORTH,6450,"WRIGHT, David McKenzie",Conservative,37,Conservative,Con,t,7386,f,1
+15,1925-10-29,ON,123,PERTH NORTH,6451,"BROWN, Tom",Liberal,75,Liberal,Lib,t,6725,f,2
+15,1925-10-29,ON,124,PERTH SOUTH,6452,"SANDERSON, Frederick George",Liberal,75,Liberal,Lib,t,4455,f,1
+15,1925-10-29,ON,124,PERTH SOUTH,6453,"GRAHAM, Robert S.",Conservative,37,Conservative,Con,t,4041,f,2
+15,1925-10-29,ON,125,PETERBOROUGH WEST,6454,"PECK, Edward Armour",Conservative,37,Conservative,Con,t,9100,f,1
+15,1925-10-29,ON,125,PETERBOROUGH WEST,6455,"GORDON, Hon. George Newcombe",Liberal,75,Liberal,Lib,t,7137,f,2
+15,1925-10-29,ON,126,PORT ARTHUR--THUNDER BAY,6456,"LANGWORTHY, William Fitzgerald",Conservative,37,Conservative,Con,t,3277,f,1
+15,1925-10-29,ON,126,PORT ARTHUR--THUNDER BAY,6457,"CARRICK, John James",Independent Conservative,56,Independent Conservative,IndCon,f,2424,f,2
+15,1925-10-29,ON,126,PORT ARTHUR--THUNDER BAY,6458,"MATTHEWS, Isaac Lamont",Liberal,75,Liberal,Lib,t,2413,f,3
+15,1925-10-29,ON,126,PORT ARTHUR--THUNDER BAY,6459,"SMITH, Albert Edward",Labour,65,Labour,Labour,f,1363,f,4
+15,1925-10-29,ON,127,PRESCOTT,6460,"EVANTUREL, Gustave",Liberal,75,Liberal,Lib,t,4198,f,1
+15,1925-10-29,ON,127,PRESCOTT,6461,"COUPAL, Joseph Napoléon",Liberal,75,Liberal,Lib,t,2519,f,2
+15,1925-10-29,ON,127,PRESCOTT,6462,"KIRBY, Hiram Horton",Conservative,37,Conservative,Con,t,2387,f,3
+15,1925-10-29,ON,128,PRINCE EDWARD--LENNOX,6463,"HUBBS, John",Conservative,37,Conservative,Con,t,6435,f,1
+15,1925-10-29,ON,128,PRINCE EDWARD--LENNOX,6464,"SEXSMITH, Edward James",Progressive,121,Progressive,Progressive,t,5701,f,2
+15,1925-10-29,ON,129,RENFREW NORTH,6465,"COTNAM, Ira Delbert",Conservative,37,Conservative,Con,t,5303,f,1
+15,1925-10-29,ON,129,RENFREW NORTH,6466,"MCKAY, Matthew",Liberal,75,Liberal,Lib,t,4529,f,2
+15,1925-10-29,ON,130,RENFREW SOUTH,6467,"MALONEY, Martin James",Conservative,37,Conservative,Con,t,6336,f,1
+15,1925-10-29,ON,130,RENFREW SOUTH,6468,"LOW, Hon. Thomas Andrew",Liberal,75,Liberal,Lib,t,4925,f,2
+15,1925-10-29,ON,131,RUSSELL,6469,"GOULET, Alfred",Liberal,75,Liberal,Lib,t,8419,f,1
+15,1925-10-29,ON,131,RUSSELL,6470,"MERKLEY, Duncan Cameron",Conservative,37,Conservative,Con,t,6328,f,2
+15,1925-10-29,ON,132,SIMCOE EAST,6471,"THOMPSON, Alfred Burke",Conservative,37,Conservative,Con,t,7658,f,1
+15,1925-10-29,ON,132,SIMCOE EAST,6472,"CHEW, Manley",Liberal,75,Liberal,Lib,t,6929,f,2
+15,1925-10-29,ON,133,SIMCOE NORTH,6473,"BOYS, William Alves",Conservative,37,Conservative,Con,t,6885,f,1
+15,1925-10-29,ON,133,SIMCOE NORTH,6474,"DRURY, Ernest Charles",Progressive,121,Progressive,Progressive,t,6295,f,2
+15,1925-10-29,ON,134,STORMONT,6475,"HAMILTON, Charles James",Conservative,37,Conservative,Con,t,5706,f,1
+15,1925-10-29,ON,134,STORMONT,6476,"GOGO, George Ira",Liberal,75,Liberal,Lib,t,5394,f,2
+15,1925-10-29,ON,135,TIMISKAMING NORTH,6477,"O'NEIL, John Ray",Conservative,37,Conservative,Con,t,6053,f,1
+15,1925-10-29,ON,135,TIMISKAMING NORTH,6478,"BRADETTE, Joseph-Arthur",Liberal,75,Liberal,Lib,t,5560,f,2
+15,1925-10-29,ON,135,TIMISKAMING NORTH,6479,"GALLAGHER, Charles Vincent",Liberal,75,Liberal,Lib,t,3255,f,3
+15,1925-10-29,ON,136,TIMISKAMING SOUTH,6480,"ARMSTRONG, Ernest Frederick",Conservative,37,Conservative,Con,t,5362,f,1
+15,1925-10-29,ON,136,TIMISKAMING SOUTH,6481,"LANG, Malcolm",Labour,65,Labour,Labour,f,4558,f,2
+15,1925-10-29,ON,136,TIMISKAMING SOUTH,6482,"WELCH, Harold Milton Tremaine",Labour,65,Labour,Labour,f,1882,f,3
+15,1925-10-29,ON,137,TORONTO EAST,6483,"RYCKMAN, Edmond Baird",Conservative,37,Conservative,Con,t,17663,f,1
+15,1925-10-29,ON,137,TORONTO EAST,6484,"FARRELL, Hon. Gerald",Liberal,75,Liberal,Lib,t,4036,f,2
+15,1925-10-29,ON,138,TORONTO EAST CENTRE,6485,"BRISTOL, Hon. Edmund",Conservative,37,Conservative,Con,t,8898,f,1
+15,1925-10-29,ON,138,TORONTO EAST CENTRE,6486,"ARMSTRONG, Cecil William",Independent Conservative,56,Independent Conservative,IndCon,f,4935,f,2
+15,1925-10-29,ON,138,TORONTO EAST CENTRE,6487,"CASCADEN, John Harold",Liberal,75,Liberal,Lib,t,4682,f,3
+15,1925-10-29,ON,138,TORONTO EAST CENTRE,6488,"CALLAHAN, John",Independent Liberal,58,Independent Liberal,IndLib,f,410,f,4
+15,1925-10-29,ON,139,TORONTO NORTHEAST,6489,"BAKER, Richard Langton",Conservative,37,Conservative,Con,t,20877,f,1
+15,1925-10-29,ON,139,TORONTO NORTHEAST,6490,"MATTHEWS, Albert Edward",Liberal,75,Liberal,Lib,t,8073,f,2
+15,1925-10-29,ON,140,TORONTO NORTHWEST,6492,"CHURCH, Thomas Langton",Conservative,37,Conservative,Con,t,16329,f,1
+15,1925-10-29,ON,140,TORONTO NORTHWEST,6491,"GILCHRIST, James",Liberal,75,Liberal,Lib,t,3106,f,2
+15,1925-10-29,ON,140,TORONTO NORTHWEST,6493,"SIMPSON, James",Labour,65,Labour,Labour,f,1542,f,3
+15,1925-10-29,ON,140,TORONTO NORTHWEST,6494,"BROWN, Caroline Sophia",Independent Conservative,56,Independent Conservative,IndCon,f,544,f,4
+15,1925-10-29,ON,140,TORONTO NORTHWEST,6495,"COCHRANE, Wallace",Independent Conservative,56,Independent Conservative,IndCon,f,104,f,5
+15,1925-10-29,ON,141,TORONTO SOUTH,6496,"GEARY, George Reginald",Conservative,37,Conservative,Con,t,5895,f,1
+15,1925-10-29,ON,141,TORONTO SOUTH,6497,"PEARCE, Claude Bereford",Liberal,75,Liberal,Lib,t,2442,f,2
+15,1925-10-29,ON,141,TORONTO SOUTH,6498,"MCEACHREN, Norman Charles",Independent,52,Independent,Ind,f,289,f,3
+15,1925-10-29,ON,142,TORONTO WEST CENTRE,6499,"HOCKEN, Horatio Clarence",Conservative,37,Conservative,Con,t,10514,f,1
+15,1925-10-29,ON,142,TORONTO WEST CENTRE,6500,"SINGER, Joseph",Liberal,75,Liberal,Lib,t,7495,f,2
+15,1925-10-29,ON,142,TORONTO WEST CENTRE,6501,"MURPHY, Francis Herbert",Independent,52,Independent,Ind,f,247,f,3
+15,1925-10-29,ON,143,TORONTO--HIGH PARK,6502,"ANDERSON, Alexander James",Conservative,37,Conservative,Con,t,15809,f,1
+15,1925-10-29,ON,143,TORONTO--HIGH PARK,6503,"MURDOCK, Hon. James",Liberal,75,Liberal,Lib,t,5465,f,2
+15,1925-10-29,ON,144,TORONTO--SCARBOROUGH,6504,"HARRIS, Joseph Henry",Conservative,37,Conservative,Con,t,18481,f,1
+15,1925-10-29,ON,144,TORONTO--SCARBOROUGH,6505,"BEER, Edwin Charles",Liberal,75,Liberal,Lib,t,4281,f,2
+15,1925-10-29,ON,145,VICTORIA,6506,"STINSON, Thomas Hubert",Conservative,37,Conservative,Con,t,8632,f,1
+15,1925-10-29,ON,145,VICTORIA,6507,"MCNIVEN, Bruce",Progressive,121,Progressive,Progressive,t,6285,f,2
+15,1925-10-29,ON,146,WATERLOO NORTH,6508,"EULER, William Daum",Liberal,75,Liberal,Lib,t,8868,f,1
+15,1925-10-29,ON,146,WATERLOO NORTH,6509,"SCULLY, Edwin Hamilton",Conservative,37,Conservative,Con,t,4657,f,2
+15,1925-10-29,ON,147,WATERLOO SOUTH,6510,"EDWARDS, Alexander McKay",Conservative,37,Conservative,Con,t,8089,f,1
+15,1925-10-29,ON,147,WATERLOO SOUTH,6511,"ELLIOTT, William",Progressive,121,Progressive,Progressive,t,5158,f,2
+15,1925-10-29,ON,148,WELLAND,6512,"PETTIT, George Hamilton",Conservative,37,Conservative,Con,t,12753,f,1
+15,1925-10-29,ON,148,WELLAND,6513,"STEPHENS, Harry Punshon",Liberal,75,Liberal,Lib,t,8373,f,2
+15,1925-10-29,ON,149,WELLINGTON NORTH,6515,"SINCLAIR, Duncan",Conservative,37,Conservative,Con,t,4152,f,1
+15,1925-10-29,ON,149,WELLINGTON NORTH,6514,"PRITCHARD, John",Progressive,121,Progressive,Progressive,t,3370,f,2
+15,1925-10-29,ON,150,WELLINGTON SOUTH,6516,"GUTHRIE, Hon. Hugh",Conservative,37,Conservative,Con,t,9096,f,1
+15,1925-10-29,ON,150,WELLINGTON SOUTH,6517,"GLADSTONE, Robert William",Liberal,75,Liberal,Lib,t,8088,f,2
+15,1925-10-29,ON,151,WENTWORTH,6518,"WILSON, Gordon Crooks",Conservative,37,Conservative,Con,t,12970,f,1
+15,1925-10-29,ON,151,WENTWORTH,6519,"WOODLEY, Christopher Frederic Thomas",Progressive,121,Progressive,Progressive,t,5213,f,2
+15,1925-10-29,ON,152,YORK NORTH,6520,"LENNOX, Thomas Herbert",Conservative,37,Conservative,Con,t,10028,f,1
+15,1925-10-29,ON,152,YORK NORTH,6521,"KING, Rt. Hon. William Lyon Mackenzie",Liberal,75,Liberal,Lib,t,9534,f,2
+15,1925-10-29,ON,153,YORK SOUTH,6522,"MACLEAN, William Findlay",Independent Conservative,56,Independent Conservative,IndCon,f,7762,f,1
+15,1925-10-29,ON,153,YORK SOUTH,6523,"REESOR, Russell James",Liberal,75,Liberal,Lib,t,1394,f,2
+15,1925-10-29,ON,153,YORK SOUTH,6524,"GALBRAITH, John",Independent Conservative,56,Independent Conservative,IndCon,f,990,f,3
+15,1925-10-29,ON,154,YORK WEST,6525,"DRAYTON, Sir Henry Lumley",Conservative,37,Conservative,Con,t,23637,f,1
+15,1925-10-29,ON,154,YORK WEST,6526,"MACGREGOR, Alexander",Liberal,75,Liberal,Lib,t,7536,f,2
+15,1925-10-29,PE,155,KING'S,6527,"MACDONALD, John A.",Conservative,37,Conservative,Con,t,3758,f,1
+15,1925-10-29,PE,155,KING'S,6528,"JOHNSTON, James J.",Liberal,75,Liberal,Lib,t,3422,f,2
+15,1925-10-29,PE,156,PRINCE,6529,"MACLEAN, Alfred E.",Liberal,75,Liberal,Lib,t,6692,f,1
+15,1925-10-29,PE,156,PRINCE,6530,"SHARP, G. Shelton",Conservative,37,Conservative,Con,t,5167,f,2
+15,1925-10-29,PE,157,QUEEN'S-1,6532,"MESSERVY, John Albert",Conservative,37,Conservative,Con,t,7432,f,1
+15,1925-10-29,PE,157,QUEEN'S-1,6531,"MCKINNON, Donald",Unknown,166,Unknown,Unknown,f,7392,f,2
+15,1925-10-29,PE,158,QUEEN'S-2,6534,"JENKINS, Robert Harold",Liberal,75,Liberal,Lib,t,8167,f,1
+15,1925-10-29,PE,158,QUEEN'S-2,6533,"SINCLAIR, John Ewen",Liberal,75,Liberal,Lib,t,7400,f,2
+15,1925-10-29,QC,159,ARGENTEUIL,6535,"PERLEY, Sir George H.",Conservative,37,Conservative,Con,t,3921,f,1
+15,1925-10-29,QC,159,ARGENTEUIL,6536,"LEGAULT, Joseph-Louis-Lorenzo",Liberal,75,Liberal,Lib,t,3721,f,2
+15,1925-10-29,QC,160,BAGOT,6537,"MARCILE, Joseph-Edmond",Liberal,75,Liberal,Lib,t,3571,f,1
+15,1925-10-29,QC,160,BAGOT,6538,"FAUTEUX, Hon. Guillaume-André",Conservative,37,Conservative,Con,t,2797,f,2
+15,1925-10-29,QC,161,BEAUCE,6539,"LACROIX, Edouard",Liberal,75,Liberal,Lib,t,12765,f,1
+15,1925-10-29,QC,161,BEAUCE,6540,"MORIN, Louis",Conservative,37,Conservative,Con,t,3684,f,2
+15,1925-10-29,QC,162,BEAUHARNOIS,6541,"RAYMOND, Maxime",Liberal,75,Liberal,Lib,t,4724,f,1
+15,1925-10-29,QC,162,BEAUHARNOIS,6542,"LAROCHE, Stanislas Wilfrid",Conservative,37,Conservative,Con,t,3223,f,2
+15,1925-10-29,QC,163,BELLECHASSE,6543,"FOURNIER, Charles-Alphonse",Liberal,75,Liberal,Lib,t,4596,f,1
+15,1925-10-29,QC,163,BELLECHASSE,6544,"MCKENZIE, Murdock",Conservative,37,Conservative,Con,t,1917,f,2
+15,1925-10-29,QC,164,BERTHIER--MASKINONGÉ,6545,"GERVAIS, Joseph-Charles-Théodore",Liberal,75,Liberal,Lib,t,6664,f,1
+15,1925-10-29,QC,164,BERTHIER--MASKINONGÉ,6546,"BARRETTE, Joseph Arthur",Conservative,37,Conservative,Con,t,4264,f,2
+15,1925-10-29,QC,165,BONAVENTURE,6547,"MARCIL, Hon. Charles",Liberal,75,Liberal,Lib,t,4344,f,1
+15,1925-10-29,QC,165,BONAVENTURE,6548,"PAQUET, Etienne Théodore",Conservative,37,Conservative,Con,t,3815,f,2
+15,1925-10-29,QC,166,BROME--MISSISQUOI,6549,"KAY, William Frederic",Liberal,75,Liberal,Lib,t,6804,f,1
+15,1925-10-29,QC,166,BROME--MISSISQUOI,6550,"PICKEL, Follin Horace",Conservative,37,Conservative,Con,t,5196,f,2
+15,1925-10-29,QC,167,CARTIER,6551,"JACOBS, Samuel William",Liberal,75,Liberal,Lib,t,7934,f,1
+15,1925-10-29,QC,167,CARTIER,6552,"BERNIER, Joseph Alfred",Independent Liberal,58,Independent Liberal,IndLib,f,4889,f,2
+15,1925-10-29,QC,168,CHAMBLY--VERCHÈRES,6553,"LANGLOIS, Joseph-Victor-Aimé",Liberal,75,Liberal,Lib,t,7875,f,1
+15,1925-10-29,QC,168,CHAMBLY--VERCHÈRES,6554,"GAREAU, Joseph-Arthur",Conservative,37,Conservative,Con,t,5914,f,2
+15,1925-10-29,QC,169,CHAMPLAIN,6555,"DESAULNIERS, Arthur Lesieur",Liberal,75,Liberal,Lib,t,9423,f,1
+15,1925-10-29,QC,169,CHAMPLAIN,6556,"BERGERON, Albert Joseph Ovila",Conservative,37,Conservative,Con,t,5057,f,2
+15,1925-10-29,QC,170,CHARLEVOIX--SAGUENAY,6557,"CASGRAIN, Pierre-François",Liberal,75,Liberal,Lib,t,8312,f,1
+15,1925-10-29,QC,170,CHARLEVOIX--SAGUENAY,6559,"GOBEIL, Jules",Conservative,37,Conservative,Con,t,3046,f,2
+15,1925-10-29,QC,170,CHARLEVOIX--SAGUENAY,6558,"LEGER, Alcibiade",Independent Liberal,58,Independent Liberal,IndLib,f,143,f,3
+15,1925-10-29,QC,171,CHICOUTIMI,6560,"DUBUC, Julien Edouard Alfre",Independent Liberal,58,Independent Liberal,IndLib,f,7198,f,1
+15,1925-10-29,QC,171,CHICOUTIMI,6562,"LEVESQUE, Louis-Joseph",Liberal,75,Liberal,Lib,t,4981,f,2
+15,1925-10-29,QC,171,CHICOUTIMI,6561,"GAGNE, Jean-Charles",Conservative,37,Conservative,Con,t,1120,f,3
+15,1925-10-29,QC,172,CHÂTEAUGUAY--HUNTINGDON,6563,"ROBB, Hon. James Alexander",Liberal,75,Liberal,Lib,t,5270,f,1
+15,1925-10-29,QC,172,CHÂTEAUGUAY--HUNTINGDON,6564,"SULLIVAN, John Alexander",Conservative,37,Conservative,Con,t,4058,f,2
+15,1925-10-29,QC,173,COMPTON,6565,"LETELLIER, DE SAINT-JUST, Joseph Étienne",Liberal,75,Liberal,Lib,t,6497,f,1
+15,1925-10-29,QC,173,COMPTON,6566,"GOBEIL, Samuel",Conservative,37,Conservative,Con,t,4262,f,2
+15,1925-10-29,QC,174,DORCHESTER,6567,"CANNON, Hon. Lucien",Liberal,75,Liberal,Lib,t,5167,f,1
+15,1925-10-29,QC,174,DORCHESTER,6568,"GAUTHIER, Louis Joseph",Conservative,37,Conservative,Con,t,3666,f,2
+15,1925-10-29,QC,175,DRUMMOND--ARTHABASKA,6569,"GIROUARD, Wilfrid",Liberal,75,Liberal,Lib,t,9301,f,1
+15,1925-10-29,QC,175,DRUMMOND--ARTHABASKA,6571,"MARIER, Joseph",Conservative,37,Conservative,Con,t,3926,f,2
+15,1925-10-29,QC,175,DRUMMOND--ARTHABASKA,6570,"POULIN DE COURVAL, Luc Louis Philippe",Farmer,157,United Farmers,UnitedFarm,f,1130,f,3
+15,1925-10-29,QC,176,GASPÉ,6572,"LEMIEUX, Hon. Rodolphe",Liberal,75,Liberal,Lib,t,7615,f,1
+15,1925-10-29,QC,176,GASPÉ,6573,"O'LEARY, Grattan",Conservative,37,Conservative,Con,t,3528,f,2
+15,1925-10-29,QC,177,HOCHELAGA,6574,"ST-PÈRE, Édouard Charles",Liberal,75,Liberal,Lib,t,14741,f,1
+15,1925-10-29,QC,177,HOCHELAGA,6575,"BUMBRAY, Jean-Baptiste alias Jean Edouard Charles",Conservative,37,Conservative,Con,t,4732,f,2
+15,1925-10-29,QC,178,HULL,6576,"FONTAINE, Joseph-Éloi",Liberal,75,Liberal,Lib,t,10248,f,1
+15,1925-10-29,QC,178,HULL,6577,"COUSINEAU, Louis",Conservative,37,Conservative,Con,t,4561,f,2
+15,1925-10-29,QC,179,JACQUES CARTIER,6578,"RHÉAUME, Théodule",Liberal,75,Liberal,Lib,t,16826,f,1
+15,1925-10-29,QC,179,JACQUES CARTIER,6579,"PATENAUDE, Hon. Esioff Léon",Conservative,37,Conservative,Con,t,14956,f,2
+15,1925-10-29,QC,180,JOLIETTE,6580,"DENIS, Jean Joseph",Liberal,75,Liberal,Lib,t,5638,f,1
+15,1925-10-29,QC,180,JOLIETTE,6581,"LADOUCEUR, Joseph Emery",Conservative,37,Conservative,Con,t,4114,f,2
+15,1925-10-29,QC,181,KAMOURASKA,6582,"BOUCHARD, Georges",Liberal,75,Liberal,Lib,t,4425,f,1
+15,1925-10-29,QC,181,KAMOURASKA,6583,"DUPRÉ, Maurice",Conservative,37,Conservative,Con,t,2918,f,2
+15,1925-10-29,QC,182,L'ASSOMPTION--MONTCALM,6584,"SÉGUIN, Paul-Arthur",Liberal,75,Liberal,Lib,t,6261,f,1
+15,1925-10-29,QC,182,L'ASSOMPTION--MONTCALM,6585,"MONAHAN, John Paul",Conservative,37,Conservative,Con,t,2480,f,2
+15,1925-10-29,QC,183,L'ISLET,6586,"FAFARD, Joseph-Ferdinand",Liberal,75,Liberal,Lib,t,3516,f,1
+15,1925-10-29,QC,183,L'ISLET,6587,"GAGNON, Joseph-Adhémar",Conservative,37,Conservative,Con,t,2436,f,2
+15,1925-10-29,QC,184,LABELLE,6588,"BOURASSA, Henri",Independent,52,Independent,Ind,f,5843,f,1
+15,1925-10-29,QC,184,LABELLE,6589,"JODOIN, Henri",Liberal,75,Liberal,Lib,t,3764,f,2
+15,1925-10-29,QC,185,LAKE ST. JOHN,6590,"SYLVESTRE, Armand",Liberal,75,Liberal,Lib,t,7579,f,1
+15,1925-10-29,QC,185,LAKE ST. JOHN,6591,"TURCOTTE, Joseph-Sylvio-Narcisse",Conservative,37,Conservative,Con,t,5502,f,2
+15,1925-10-29,QC,186,LAPRAIRIE--NAPIERVILLE,6592,"LANCTOT, Roch",Liberal,75,Liberal,Lib,t,3956,f,1
+15,1925-10-29,QC,186,LAPRAIRIE--NAPIERVILLE,6594,"BROSSARD, Arthur",Conservative,37,Conservative,Con,t,2635,f,2
+15,1925-10-29,QC,186,LAPRAIRIE--NAPIERVILLE,6593,"LAMARRE, Joseph Hildège",Independent,52,Independent,Ind,f,356,f,3
+15,1925-10-29,QC,187,LAURIER--OUTREMONT,6595,"MERCIER, Joseph-Alexandre",Liberal,75,Liberal,Lib,t,12889,f,1
+15,1925-10-29,QC,187,LAURIER--OUTREMONT,6596,"MONTY, Hon. Rodolphe",Conservative,37,Conservative,Con,t,10105,f,2
+15,1925-10-29,QC,188,LAVAL--TWO MOUNTAINS,6597,"LACOMBE, Liguori",Liberal,75,Liberal,Lib,t,5717,f,1
+15,1925-10-29,QC,188,LAVAL--TWO MOUNTAINS,6598,"GERMAIN, Alban",Conservative,37,Conservative,Con,t,3634,f,2
+15,1925-10-29,QC,188,LAVAL--TWO MOUNTAINS,6599,"BIBEAU, Joseph Azarie",Liberal,75,Liberal,Lib,t,768,f,3
+15,1925-10-29,QC,189,LOTBINIÈRE,6600,"VERVILLE, Joseph-Achille",Liberal,75,Liberal,Lib,t,3819,f,1
+15,1925-10-29,QC,189,LOTBINIÈRE,6602,"POULIOT, Joseph Adalbert",Conservative,37,Conservative,Con,t,1402,f,2
+15,1925-10-29,QC,189,LOTBINIÈRE,6601,"LANGLOIS, Omer",Liberal,75,Liberal,Lib,t,1358,f,3
+15,1925-10-29,QC,190,LÉVIS,6603,"DUSSAULT, J. Étienne",Liberal,75,Liberal,Lib,t,7192,f,1
+15,1925-10-29,QC,190,LÉVIS,6604,"GRAVEL, L. Gédéon",Conservative,37,Conservative,Con,t,4899,f,2
+15,1925-10-29,QC,191,MAISONNEUVE,6605,"ROBITAILLE, Clément",Liberal,75,Liberal,Lib,t,12624,f,1
+15,1925-10-29,QC,191,MAISONNEUVE,6606,"DESJARDINS, Hubert",Conservative,37,Conservative,Con,t,7406,f,2
+15,1925-10-29,QC,191,MAISONNEUVE,6607,"TREMBLAY, William",Labour,65,Labour,Labour,f,994,f,3
+15,1925-10-29,QC,191,MAISONNEUVE,6608,"MCAVOY, Daniel",Independent,52,Independent,Ind,f,183,f,4
+15,1925-10-29,QC,192,MATANE,6609,"DIONNE, Georges-Léonidas",Liberal,75,Liberal,Lib,t,7660,f,1
+15,1925-10-29,QC,192,MATANE,6610,"LANGLAIS, Roméo",Conservative,37,Conservative,Con,t,3884,f,2
+15,1925-10-29,QC,193,MONTMAGNY,6611,"LAFLAMME, Léo Kemner",Liberal,75,Liberal,Lib,t,4070,f,1
+15,1925-10-29,QC,193,MONTMAGNY,6612,"LAVERGNE, Armand",Conservative,37,Conservative,Con,t,3189,f,2
+15,1925-10-29,QC,194,MOUNT ROYAL,6613,"WHITE, Robert Smeaton",Conservative,37,Conservative,Con,t,16377,f,1
+15,1925-10-29,QC,194,MOUNT ROYAL,6614,"CALDER, Robert Louis",Independent Liberal,58,Independent Liberal,IndLib,f,7129,f,2
+15,1925-10-29,QC,195,MÉGANTIC,6615,"ROBERGE, Eusèbe",Liberal,75,Liberal,Lib,t,6929,f,1
+15,1925-10-29,QC,195,MÉGANTIC,6616,"LALIBERTÉ, Wilfrid",Conservative,37,Conservative,Con,t,3262,f,2
+15,1925-10-29,QC,196,NICOLET,6617,"DESCOTEAUX, Joseph-Félix",Liberal,75,Liberal,Lib,t,6221,f,1
+15,1925-10-29,QC,196,NICOLET,6618,"LAMARCHE, Joseph",Conservative,37,Conservative,Con,t,2972,f,2
+15,1925-10-29,QC,196,NICOLET,6619,"O'SHAUGHNESSY, John",Independent Liberal,58,Independent Liberal,IndLib,f,723,f,3
+15,1925-10-29,QC,197,PONTIAC,6620,"CAHILL, Frank S.",Liberal,75,Liberal,Lib,t,7562,f,1
+15,1925-10-29,QC,197,PONTIAC,6621,"LADOUCEUR, Lucien Alfred",Conservative,37,Conservative,Con,t,4663,f,2
+15,1925-10-29,QC,197,PONTIAC,6622,"LEPAGE, Arthur",Independent Liberal,58,Independent Liberal,IndLib,f,3136,f,3
+15,1925-10-29,QC,198,PORTNEUF,6623,"DELISLE, Michel-Siméon",Liberal,75,Liberal,Lib,t,6412,f,1
+15,1925-10-29,QC,198,PORTNEUF,6624,"DUCHARME, C.-Romulus",Conservative,37,Conservative,Con,t,3405,f,2
+15,1925-10-29,QC,198,PORTNEUF,6625,"MARCOTTE, Herment (alias Armand)",Independent Liberal,58,Independent Liberal,IndLib,f,2418,f,3
+15,1925-10-29,QC,199,QUEBEC EAST,6626,"LAPOINTE, Hon. Ernest",Liberal,75,Liberal,Lib,t,9193,f,1
+15,1925-10-29,QC,199,QUEBEC EAST,6627,"AUDET, Pierre",Conservative,37,Conservative,Con,t,6366,f,2
+15,1925-10-29,QC,200,QUEBEC SOUTH,6628,"POWER, Charles Gavan",Liberal,75,Liberal,Lib,t,6780,f,1
+15,1925-10-29,QC,200,QUEBEC SOUTH,6629,"O'MEARA, John Skillman",Conservative,37,Conservative,Con,t,5109,f,2
+15,1925-10-29,QC,201,QUEBEC WEST,6630,"PARENT, George",Liberal,75,Liberal,Lib,t,7561,f,1
+15,1925-10-29,QC,201,QUEBEC WEST,6631,"RATTÉ, Charles",Conservative,37,Conservative,Con,t,6059,f,2
+15,1925-10-29,QC,202,QUÉBEC--MONTMORENCY,6632,"LAVIGUEUR, Henri-Edgar",Liberal,75,Liberal,Lib,t,7194,f,1
+15,1925-10-29,QC,202,QUÉBEC--MONTMORENCY,6633,"CHAUVEAU, Charles-Auguste",Conservative,37,Conservative,Con,t,5250,f,2
+15,1925-10-29,QC,203,RICHELIEU,6634,"CARDIN, Hon. Pierre Joseph Arthur",Liberal,75,Liberal,Lib,t,4562,f,1
+15,1925-10-29,QC,203,RICHELIEU,6635,"MORGAN, William Georges Marcellin",Conservative,37,Conservative,Con,t,2565,f,2
+15,1925-10-29,QC,204,RICHMOND--WOLFE,6636,"TOBIN, Edmund William",Liberal,75,Liberal,Lib,t,7292,f,1
+15,1925-10-29,QC,204,RICHMOND--WOLFE,6637,"PARÉ, Joseph Hormisdas",Conservative,37,Conservative,Con,t,3689,f,2
+15,1925-10-29,QC,205,RIMOUSKI,6638,"FISET, Sir Eugène",Liberal,75,Liberal,Lib,t,5142,f,1
+15,1925-10-29,QC,205,RIMOUSKI,6639,"SIMARD, Gérard",Conservative,37,Conservative,Con,t,3167,f,2
+15,1925-10-29,QC,206,SHEFFORD,6640,"BOIVIN, George Henri",Liberal,75,Liberal,Lib,t,5910,f,1
+15,1925-10-29,QC,206,SHEFFORD,6641,"DAVIDSON, James",Conservative,37,Conservative,Con,t,4499,f,2
+15,1925-10-29,QC,207,SHERBROOKE,6642,"HOWARD, Charles B.",Liberal,75,Liberal,Lib,t,6566,f,1
+15,1925-10-29,QC,207,SHERBROOKE,6643,"WORTHINGTON, Edward Bruen",Conservative,37,Conservative,Con,t,5449,f,2
+15,1925-10-29,QC,208,ST. ANN,6644,"GUERIN, James John Edmund",Liberal,75,Liberal,Lib,t,10242,f,1
+15,1925-10-29,QC,208,ST. ANN,6645,"O'CONNELL, Thomas",Conservative,37,Conservative,Con,t,9914,f,2
+15,1925-10-29,QC,208,ST. ANN,6646,"TREMBLAY, Joseph",Labour,65,Labour,Labour,f,687,f,3
+15,1925-10-29,QC,209,ST. ANTOINE,6647,"BELL, Leslie Gordon",Conservative,37,Conservative,Con,t,6433,f,1
+15,1925-10-29,QC,209,ST. ANTOINE,6648,"HUSHION, William James",Liberal,75,Liberal,Lib,t,5927,f,2
+15,1925-10-29,QC,210,ST. DENIS,6649,"DENIS, Joseph-Arthur",Liberal,75,Liberal,Lib,t,13850,f,1
+15,1925-10-29,QC,210,ST. DENIS,6650,"BLAIN, Aldéric",Conservative,37,Conservative,Con,t,7372,f,2
+15,1925-10-29,QC,210,ST. DENIS,6651,"PLANTE, Léonce",Liberal,75,Liberal,Lib,t,7216,f,3
+15,1925-10-29,QC,211,ST. HENRI,6652,"MERCIER, Paul",Liberal,75,Liberal,Lib,t,11829,f,1
+15,1925-10-29,QC,211,ST. HENRI,6653,"DOYON, Léopold",Liberal Protectionist,80,Liberal Protectionist,LibProtect,f,2839,f,2
+15,1925-10-29,QC,212,ST. HYACINTHE--ROUVILLE,6654,"MORIN, L.S. René",Liberal,75,Liberal,Lib,t,7645,f,1
+15,1925-10-29,QC,212,ST. HYACINTHE--ROUVILLE,6655,"BOUSQUET, Jean-Baptiste Joseph Eugène",Conservative,37,Conservative,Con,t,2790,f,2
+15,1925-10-29,QC,213,ST. JAMES,6656,"RINFRET, Louis-Édouard-Fernand",Liberal,75,Liberal,Lib,t,12080,f,1
+15,1925-10-29,QC,213,ST. JAMES,6657,"LAURIER, Ruben-Charles",Liberal Protectionist,80,Liberal Protectionist,LibProtect,f,4076,f,2
+15,1925-10-29,QC,214,ST. JOHNS--IBERVILLE,6658,"BENOIT, Aldéric-Joseph",Liberal,75,Liberal,Lib,t,4074,f,1
+15,1925-10-29,QC,214,ST. JOHNS--IBERVILLE,6659,"GAGNON, Pacifique",Independent Liberal,58,Independent Liberal,IndLib,f,1387,f,2
+15,1925-10-29,QC,215,ST. LAWRENCE--ST. GEORGE,6660,"CAHAN, Charles Hazlitt",Conservative,37,Conservative,Con,t,6509,f,1
+15,1925-10-29,QC,215,ST. LAWRENCE--ST. GEORGE,6661,"MARLER, Hon. Herbert",Liberal,75,Liberal,Lib,t,5580,f,2
+15,1925-10-29,QC,216,ST. MARY,6662,"DESLAURIERS, Hermas",Liberal,75,Liberal,Lib,t,14411,f,1
+15,1925-10-29,QC,216,ST. MARY,6663,"LAURIER, Yvon",Independent Liberal,58,Independent Liberal,IndLib,f,3707,f,2
+15,1925-10-29,QC,217,STANSTEAD,6664,"BALDWIN, Willis Keith",Liberal,75,Liberal,Lib,t,5520,f,1
+15,1925-10-29,QC,217,STANSTEAD,6665,"HACKETT, John Thomas",Conservative,37,Conservative,Con,t,4326,f,2
+15,1925-10-29,QC,218,TERREBONNE,6666,"PRÉVOST, Jules-Édouard",Liberal,75,Liberal,Lib,t,6789,f,1
+15,1925-10-29,QC,218,TERREBONNE,6667,"NANTEL, Léopold",Conservative,37,Conservative,Con,t,2609,f,2
+15,1925-10-29,QC,219,THREE RIVERS--ST. MAURICE,6668,"BETTEZ, Arthur",Liberal,75,Liberal,Lib,t,10285,f,1
+15,1925-10-29,QC,219,THREE RIVERS--ST. MAURICE,6670,"NORMAND, Louis",Conservative,37,Conservative,Con,t,6007,f,2
+15,1925-10-29,QC,219,THREE RIVERS--ST. MAURICE,6669,"RYAN, Robert",Unknown,166,Unknown,Unknown,f,1999,f,3
+15,1925-10-29,QC,220,TÉMISCOUATA,6671,"POULIOT, Jean-François",Liberal,75,Liberal,Lib,t,7341,f,1
+15,1925-10-29,QC,220,TÉMISCOUATA,6672,"DUBÉ, Charles-Eugène",Conservative,37,Conservative,Con,t,5291,f,2
+15,1925-10-29,QC,221,VAUDREUIL--SOULANGES,6673,"WILSON, Lawrence A.",Liberal,75,Liberal,Lib,t,5554,f,1
+15,1925-10-29,QC,221,VAUDREUIL--SOULANGES,6674,"LEROUX, Eugène",Conservative,37,Conservative,Con,t,1687,f,2
+15,1925-10-29,QC,222,WRIGHT,6675,"PERRAS, Fizalane William",Liberal,75,Liberal,Lib,t,4685,f,1
+15,1925-10-29,QC,222,WRIGHT,6676,"LABELLE, François-Albert",Conservative,37,Conservative,Con,t,3973,f,2
+15,1925-10-29,QC,223,YAMASKA,6677,"Boucher, Aimé",Liberal,75,Liberal,Lib,t,3438,f,1
+15,1925-10-29,QC,223,YAMASKA,6678,"BOULAIS, Joseph-Félix-Frédéric",Conservative,37,Conservative,Con,t,2754,f,2
+15,1925-10-29,SK,224,ASSINIBOIA,6679,"MCKENZIE, Robert",Liberal,75,Liberal,Lib,t,4356,f,1
+15,1925-10-29,SK,224,ASSINIBOIA,6680,"GOULD, Oliver",Progressive,121,Progressive,Progressive,t,3124,f,2
+15,1925-10-29,SK,224,ASSINIBOIA,6681,"HILL, Joseph",Conservative,37,Conservative,Con,t,2303,f,3
+15,1925-10-29,SK,225,HUMBOLDT,6682,"TOTZKE, Albert Frederick",Liberal,75,Liberal,Lib,t,3212,f,1
+15,1925-10-29,SK,225,HUMBOLDT,6683,"STEWART, Charles Wallace",Progressive,121,Progressive,Progressive,t,2536,f,2
+15,1925-10-29,SK,225,HUMBOLDT,6684,"WILSON, Edward S.",Conservative,37,Conservative,Con,t,967,f,3
+15,1925-10-29,SK,226,KINDERSLEY,6685,"CARMICHAEL, Archibald M.",Progressive,121,Progressive,Progressive,t,3631,f,1
+15,1925-10-29,SK,226,KINDERSLEY,6686,"SUTHERLAND, William Charles",Liberal,75,Liberal,Lib,t,2614,f,2
+15,1925-10-29,SK,226,KINDERSLEY,6687,"ACHESON, James Lewis",Conservative,37,Conservative,Con,t,1218,f,3
+15,1925-10-29,SK,227,LAST MOUNTAIN,6688,"FANSHER, William Russell",Progressive,121,Progressive,Progressive,t,3359,f,1
+15,1925-10-29,SK,227,LAST MOUNTAIN,6689,"BUTCHER, Harry",Liberal,75,Liberal,Lib,t,3269,f,2
+15,1925-10-29,SK,227,LAST MOUNTAIN,6690,"MATTHEWSON, John Walter",Conservative,37,Conservative,Con,t,1596,f,3
+15,1925-10-29,SK,228,LONG LAKE,6691,"JOHNSTON, John Frederick",Progressive,121,Progressive,Progressive,t,3497,f,1
+15,1925-10-29,SK,228,LONG LAKE,6692,"ADRAIN, Stewart",Conservative,37,Conservative,Con,t,1904,f,2
+15,1925-10-29,SK,228,LONG LAKE,6693,"KETCHESON, Harry Wilmot",Independent Progressive,61,Independent Progressive,IndProg,f,1768,f,3
+15,1925-10-29,SK,229,MACKENZIE,6694,"CAMPBELL, Milton Neil",Progressive,121,Progressive,Progressive,t,3609,f,1
+15,1925-10-29,SK,229,MACKENZIE,6695,"MACMILLAN, John Angus",Liberal,75,Liberal,Lib,t,2496,f,2
+15,1925-10-29,SK,230,MAPLE CREEK,6696,"SPENCE, George",Liberal,75,Liberal,Lib,t,4019,f,1
+15,1925-10-29,SK,230,MAPLE CREEK,6697,"SWANSTON, James Beck",Conservative,37,Conservative,Con,t,3253,f,2
+15,1925-10-29,SK,230,MAPLE CREEK,6698,"MCTAGGART, Neil Hamon",Progressive,121,Progressive,Progressive,t,2570,f,3
+15,1925-10-29,SK,231,MELFORT,6699,"MCLEAN, Malcolm",Liberal,75,Liberal,Lib,t,3688,f,1
+15,1925-10-29,SK,231,MELFORT,6700,"KEOWN, Herbert Elwood",Conservative,37,Conservative,Con,t,2646,f,2
+15,1925-10-29,SK,231,MELFORT,6701,"GREAVES, Rupert James",Progressive,121,Progressive,Progressive,t,2178,f,3
+15,1925-10-29,SK,232,MELVILLE,6702,"MOTHERWELL, Hon. William Richard",Liberal,75,Liberal,Lib,t,5305,f,1
+15,1925-10-29,SK,232,MELVILLE,6703,"HEPBURN, William James",Progressive,121,Progressive,Progressive,t,2302,f,2
+15,1925-10-29,SK,232,MELVILLE,6704,"DINNIN, John Robert",Conservative,37,Conservative,Con,t,1692,f,3
+15,1925-10-29,SK,233,MOOSE JAW,6705,"ROSS, John Gordon",Liberal,75,Liberal,Lib,t,5654,f,1
+15,1925-10-29,SK,233,MOOSE JAW,6706,"WHITE, Wellington",Conservative,37,Conservative,Con,t,5356,f,2
+15,1925-10-29,SK,233,MOOSE JAW,6707,"HOPKINS, Edward Nicholas",Progressive,121,Progressive,Progressive,t,2801,f,3
+15,1925-10-29,SK,234,NORTH BATTLEFORD,6708,"MCINTOSH, Cameron Ross",Liberal,75,Liberal,Lib,t,4204,f,1
+15,1925-10-29,SK,234,NORTH BATTLEFORD,6709,"DAVIES, Claudius Charles",Progressive,121,Progressive,Progressive,t,2697,f,2
+15,1925-10-29,SK,234,NORTH BATTLEFORD,6710,"Panton, Leonard Arthur Cattanach",Conservative,37,Conservative,Con,t,1830,f,3
+15,1925-10-29,SK,235,PRINCE ALBERT,6711,"MCDONALD, Charles",Liberal,75,Liberal,Lib,t,5301,f,1
+15,1925-10-29,SK,235,PRINCE ALBERT,6712,"KNOX, Andrew",Progressive,121,Progressive,Progressive,t,2638,f,2
+15,1925-10-29,SK,235,PRINCE ALBERT,6713,"DIEFENBAKER, John George",Conservative,37,Conservative,Con,t,2412,f,3
+15,1925-10-29,SK,236,QU'APPELLE,6714,"MILLAR, John",Progressive,121,Progressive,Progressive,t,5272,f,1
+15,1925-10-29,SK,236,QU'APPELLE,6715,"LYND, William Wallace",Conservative,37,Conservative,Con,t,4600,f,2
+15,1925-10-29,SK,237,REGINA,6716,"DARKE, Francis Nicholson",Liberal,75,Liberal,Lib,t,7478,f,1
+15,1925-10-29,SK,237,REGINA,6717,"TURNBULL, Franklin White",Conservative,37,Conservative,Con,t,5399,f,2
+15,1925-10-29,SK,237,REGINA,6718,"COLDWELL, Major James",Progressive,121,Progressive,Progressive,t,2284,f,3
+15,1925-10-29,SK,238,ROSETOWN,6719,"EVANS, John",Progressive,121,Progressive,Progressive,t,2974,f,1
+15,1925-10-29,SK,238,ROSETOWN,6720,"MOONEY, Arthur W.",Liberal,75,Liberal,Lib,t,2450,f,2
+15,1925-10-29,SK,238,ROSETOWN,6721,"MILLER, William Willoughby",Conservative,37,Conservative,Con,t,1926,f,3
+15,1925-10-29,SK,238,ROSETOWN,6722,"GIFFORD, Edward B.",Unknown,166,Unknown,Unknown,f,136,f,4
+15,1925-10-29,SK,239,SASKATOON,6723,"Young, Alexander",Liberal,75,Liberal,Lib,t,5303,f,1
+15,1925-10-29,SK,239,SASKATOON,6724,"MACMILLAN, Frank Roland",Conservative,37,Conservative,Con,t,5114,f,2
+15,1925-10-29,SK,239,SASKATOON,6725,"KIRKPATRICK, Walter Lee",Progressive,121,Progressive,Progressive,t,1417,f,3
+15,1925-10-29,SK,240,SOUTH BATTLEFORD,6726,"VALLANCE, John",Liberal,75,Liberal,Lib,t,4364,f,1
+15,1925-10-29,SK,240,SOUTH BATTLEFORD,6728,"BINGHAM, Sydney",Progressive,121,Progressive,Progressive,t,3252,f,2
+15,1925-10-29,SK,240,SOUTH BATTLEFORD,6727,"HAGERMAN, James Arnold",Conservative,37,Conservative,Con,t,2646,f,3
+15,1925-10-29,SK,241,SWIFT CURRENT,6729,"BOTHWELL, Charles Edward",Liberal,75,Liberal,Lib,t,4555,f,1
+15,1925-10-29,SK,241,SWIFT CURRENT,6730,"LEWIS, Arthur John",Progressive,121,Progressive,Progressive,t,3668,f,2
+15,1925-10-29,SK,242,WEYBURN,6731,"YOUNG, Edward James",Liberal,75,Liberal,Lib,t,4807,f,1
+15,1925-10-29,SK,242,WEYBURN,6732,"MORRISON, John",Progressive,121,Progressive,Progressive,t,2162,f,2
+15,1925-10-29,SK,242,WEYBURN,6733,"HILLIAR, Thomas Henry",Conservative,37,Conservative,Con,t,1957,f,3
+15,1925-10-29,SK,243,WILLOW BUNCH,6734,"DONNELLY, Thomas",Liberal,75,Liberal,Lib,t,5506,f,1
+15,1925-10-29,SK,243,WILLOW BUNCH,6735,"JOHNSON, Robert Milton",Progressive,121,Progressive,Progressive,t,3861,f,2
+15,1925-10-29,SK,243,WILLOW BUNCH,6736,"MACKINNON, Alexander Edward",Conservative,37,Conservative,Con,t,1790,f,3
+15,1925-10-29,SK,244,YORKTON,6737,"MCPHEE, George Washington",Liberal,75,Liberal,Lib,t,3702,f,1
+15,1925-10-29,SK,244,YORKTON,6738,"STEWART, Alan Carl",Progressive,121,Progressive,Progressive,t,2579,f,2
+15,1925-10-29,SK,244,YORKTON,6739,"GARVIN, Frederick George",Conservative,37,Conservative,Con,t,1212,f,3
+15,1925-10-29,YK,245,YUKON,6740,"BLACK, George",Conservative,37,Conservative,Con,t,742,f,1
+15,1925-10-29,YK,245,YUKON,6741,"LOWE, Robert",Liberal,75,Liberal,Lib,t,508,f,2

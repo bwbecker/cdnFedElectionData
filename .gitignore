@@ -8,3 +8,4 @@ work
 .rawRecentDataLoaded
 .rawDataLoaded
 *.json
+.buildElections
