@@ -272,3 +272,53 @@ SELECT *
        JOIN stats USING (party_id)
       ORDER BY party_name
 $$;
+
+
+
+
+
+/*
+
+One row per election.
+
+  WITH counts AS (
+      SELECT election_id
+           , ideology_code
+           , sum(votes) AS votes
+           , sum(CASE WHEN place = 1 THEN 1 ELSE 0 END) AS seats
+        FROM _elections.results
+             JOIN _elections.parties USING (party_id)
+       GROUP BY election_id, ideology_code
+       ORDER BY election_id, ideology_code
+                 ),
+       all_elections_and_ideologies AS (
+           SELECT *
+             FROM (
+                 SELECT election_id
+                   FROM _elections.elections
+                  ) AS foo
+                ,
+                 (
+                     SELECT DISTINCT ideology_code
+                       FROM _elections.parties
+                 )  AS bar
+            ORDER BY election_id, ideology_code
+                                       ),
+       election_results AS (
+
+           SELECT *
+             FROM all_elections_and_ideologies
+                  LEFT JOIN counts USING (election_id, ideology_code)
+                           )
+
+SELECT election_id
+     , election_date
+     , array_agg(ideology_code ORDER BY ideology_code)
+     , array_agg(votes::INT ORDER BY ideology_code)
+     , array_agg(seats::INT ORDER BY ideology_code)
+  FROM election_results
+       JOIN _elections.elections USING (election_id)
+ GROUP BY election_id, election_date
+ ORDER BY election_id
+
+*/
