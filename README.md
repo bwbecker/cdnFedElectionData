@@ -115,14 +115,22 @@ columns:
     See the section, below, on cleaning party names.
 
 ## Raw Data
-The raw data is from the [Open Data Portal)](https://open.canada.ca/data/en/dataset?q=election&collection=federated&collection=primary&sort=&page=2), 
-most of it retrieved on 2019-10-18.  We're using three different formats:
+The raw data is from:
 
 * For elections 39 - 42 (and hopefully 43 and later) there is data to the
-  polling station level.  
-* For elections 1 - 40 there is one large CSV file with data to the riding level.
+  polling station level for 
+  [39](https://www.elections.ca/content.aspx?section=res&dir=rep/off/39gedata&document=bypro&lang=e)
+  [40](https://www.elections.ca/content.aspx?section=res&dir=rep/off/40gedata&document=bypro&lang=e),
+  [41](https://www.elections.ca/content.aspx?section=res&dir=rep/off/41gedata&document=bypro&lang=e),
+  and [42](https://www.elections.ca/content.aspx?section=res&dir=rep/off/42gedata&document=bypro&lang=e).
+  Use the "Poll results" for all of Canada.
+* For elections 1 - 40 there is one large CSV file with data to the riding level
+  at the the [Open Data Portal)](https://open.canada.ca/data/en/dataset?q=election&collection=federated&collection=primary&sort=&page=2), 
+  retrieved on 2019-10-18.
 * For election 43 (just held at the time of writing) there are preliminary
   results from [Elections Canada](https://enr.elections.ca/DownloadResults.aspx).
+
+Quoting was messed up in the CSV for ridings 24047, 35003, 35084, 59029 in election 40.  Fixed them up by hand.
 
 To harmonize this, we drop the poll-by-poll data and go to just the riding level.
 
@@ -143,7 +151,7 @@ As a first step, the following party names were normalized.
 <table>
 <tr><th>Normalized Name</th><th>Original Names</th></tr>
 
-<tr><td>Animal Alliance/Environment Voters</td><td>Animal Alliance Environment Voters Party of Canada<br>Animal Alliance/Environment Voters</td></tr>
+<tr><td>Animal Alliance/Environment Voters</td><td>Animal Alliance Environment Voters Party of Canada<br>Animal Alliance/Environment Voters<br>AAEV Party of Canada</td></tr>
 <tr><td>Canadian Action Party</td><td>CAP<br>Canadian Action Party<br>Canadian Action</td></tr>
 <tr><td>Christian Heritage Party</td><td>CHP Canada<br>Christian Heritage Party<br>Christian Heritage Party of Canada</td></tr>
 <tr><td>Communist Party</td><td>Communist<br>Communist Party of Canada</td></tr>
@@ -152,7 +160,10 @@ As a first step, the following party names were normalized.
 <tr><td>Libertarian Party</td><td>Libertarian<br>Libertarian Party of Canada</td></tr>
 <tr><td>Marijuana Party</td><td>Marijuana Party<br>Radical Marijuana</td></tr>
 <tr><td>Marxist-Leninist Party</td><td>Marxist-Leninist<br>Marxist-Leninist Party<br>ML</td></tr>
+<tr><td>Newfoundland and Labrador First Party</td><td>Newfoundland and Labrador First Party<br>NL First Party</td>),
+</td></tr>
 <tr><td>New Democratic Party</td><td>N.D.P.<br>NDP-New Democratic Party<br>New Democratic Party</td></tr>
+<tr><td>People's Political Power Party of Canada</td><td>People's Political Power Party of Canada<br>PPP</td></tr>
 <tr><td>Pirate Party</td><td>Pirate<br>Pirate Party<br>Pirate Party of Canada</td></tr>
 <tr><td>Progressive Canadian Party</td><td>Progressive Canadian Party<br>PC Party</td></tr>
 <tr><td>Reform Party</td><td>Reform<br>Reform Party of Canada</td></tr>

@@ -6,6 +6,9 @@
 # for all of Canada.  Add the election number as the first field.
 # Strip out the header row.
 #
+# Some have extra blank lines.
+# Election 40 is missing a " around a field.
+#
 
 # Usage:  ./bin/combine_files.sh <ELECTION_NUM> <CSV_FILES> > outfile
 #         ./bin/combine_files.sh 39 pollresults_resultatsbureau_canada_39/pollresults_resultatsbureau*.csv
@@ -16,7 +19,9 @@ files=$@
 
 for f in ${files} 
 do
-	tail -n +2 ${f} | sed -e "s/^/${election},/" \
+	tail -n +2 ${f} | sed \
+		-e '/^\r$/d' \
+		-e "s/^/${election},/" \
 		-e 's/\xe0/à/g' \
 		-e 's/\xe1/á/g' \
 		-e 's/\xe2/â/g' \
@@ -34,6 +39,8 @@ do
 		-e 's/\xfb/û/g' \
 		-e 's/\xfc/ü/g' \
 		-e 's/\x80/-/g' \
-		-e 's/\x94/ /g'
+		-e 's/\x94/ /g' \
+		-E -e "s/^(40,[0-9]*,)/\1\"/" \
+
 done
 
