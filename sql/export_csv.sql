@@ -170,7 +170,7 @@ CREATE OR REPLACE FUNCTION _elections.csv_by_riding(election_id_p INT
     LANGUAGE SQL
 AS $$
 /*
-  Doing a pivot table in SQL isn't eary.  We essentially put the pivoted values into arrays
+  Doing a pivot table in SQL isn't easy.  We essentially put the pivoted values into arrays
   using candidates_by_riding.  This function then unpacks them into a CSV format.
   It's a pain to use the crosstab function referenced at 
   https://stackoverflow.com/questions/3002499/postgresql-crosstab-query because we need differing
@@ -232,6 +232,113 @@ END
 
 $$
 ;
+
+
+
+
+
+-- **********************************************************************************************
+-- **********************************************************************************************
+
+DROP FUNCTION IF EXISTS _elections.election_summary(
+                                                   );
+CREATE OR REPLACE FUNCTION _elections.election_summary(
+                                                      )
+    RETURNS TABLE (
+        election_id   INT,
+        election_date DATE,
+        ideologies    TEXT[],
+        votes         INT[],
+        seats         INT[],
+        winners       TEXT[]
+    )
+    LANGUAGE SQL
+AS
+$$
+  WITH counts AS (
+      SELECT election_id
+           , ideology_code
+           , nullif(sum(votes), 0) AS votes
+           , nullif(sum(CASE WHEN place = 1 THEN 1 ELSE 0 END), 0) AS seats
+        FROM _elections.results
+             JOIN _elections.parties USING (party_id)
+       GROUP BY election_id, ideology_code
+       ORDER BY election_id, ideology_code
+                 ),
+       all_elections_and_ideologies AS (
+           SELECT *
+             FROM (
+                 SELECT election_id
+                   FROM _elections.elections
+                  ) AS foo
+                ,
+                 (
+                     SELECT DISTINCT ideology_code
+                       FROM _elections.parties
+                 )  AS bar
+            ORDER BY election_id, ideology_code
+                                       ),
+       election_results AS (
+
+           SELECT *
+             FROM all_elections_and_ideologies
+                  LEFT JOIN counts USING (election_id, ideology_code)
+                           )
+
+SELECT election_id
+     , election_date
+     , array_agg(ideology_code ORDER BY ideology_code) AS ideologies
+     , array_agg(votes::INT ORDER BY ideology_code) AS votes
+     , array_agg(seats::INT ORDER BY ideology_code) AS seats
+     , array_agg(ideology_code ORDER BY seats DESC NULLS LAST) AS winners
+  FROM election_results
+       JOIN _elections.elections USING (election_id)
+ GROUP BY election_id, election_date
+ ORDER BY election_id
+$$;
+
+
+
+
+-- **********************************************************************************************
+-- **********************************************************************************************
+
+CREATE OR REPLACE FUNCTION _elections.csv_by_election(
+                                                     )
+    RETURNS TABLE (
+        csv_row TEXT
+    )
+    LANGUAGE SQL
+AS $$
+
+(
+    SELECT format('election_id,election_date,%s,%s,1st,2nd,3rd'
+               , array_to_string(ideologies, '_votes,')
+               , array_to_string(ideologies, '_seats,')
+               )
+      FROM _elections.election_summary()
+     LIMIT 1
+)
+ UNION ALL
+(
+    SELECT format('%s,%s,%s,%s,%s,%s,%s'
+               , election_id
+               , election_date
+               , array_to_string(votes, ',', '')
+               , array_to_string(seats, ',', '')
+               , winners[1]
+               , winners[2]
+               , winners[3]
+               )
+      FROM _elections.election_summary()
+     ORDER BY election_id
+)
+
+$$;
+
+
+
+
 
 
 -- **********************************************************************************************
