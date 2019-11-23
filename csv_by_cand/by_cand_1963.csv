@@ -1,0 +1,1024 @@
+election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_party_name,party_id,party_name,party_short_name,mainstream,votes,acclaimed,place
+26,1963-04-08,AB,1,ACADIA,14787,"HORNER, Jack H.",Progressive Conservative,124,Progressive Conservative Party,PC,t,10616,f,1
+26,1963-04-08,AB,1,ACADIA,14790,"HEWSON, G. Marshall",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,7018,f,2
+26,1963-04-08,AB,1,ACADIA,14789,"HOURIHAN, Walter Peter",Liberal,75,Liberal,Lib,t,1995,f,3
+26,1963-04-08,AB,1,ACADIA,14788,"JOHNSON, Floyd A.",New Democratic Party,100,New Democratic Party,NDP,t,840,f,4
+26,1963-04-08,AB,2,ATHABASKA,14791,"BIGG, Jack",Progressive Conservative,124,Progressive Conservative Party,PC,t,12074,f,1
+26,1963-04-08,AB,2,ATHABASKA,14793,"HALL, R.E. Dick",Liberal,75,Liberal,Lib,t,5416,f,2
+26,1963-04-08,AB,2,ATHABASKA,14794,"CHABA, Peter",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,3601,f,3
+26,1963-04-08,AB,2,ATHABASKA,14792,"SZCHECHINA, Alex",New Democratic Party,100,New Democratic Party,NDP,t,1045,f,4
+26,1963-04-08,AB,3,BATTLE RIVER--CAMROSE,14795,"SMALLWOOD, Clifford S.",Progressive Conservative,124,Progressive Conservative Party,PC,t,15565,f,1
+26,1963-04-08,AB,3,BATTLE RIVER--CAMROSE,14798,"ROSENAU, Arthur Henry",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,5984,f,2
+26,1963-04-08,AB,3,BATTLE RIVER--CAMROSE,14796,"PERKA, Stanley J.",Liberal,75,Liberal,Lib,t,2752,f,3
+26,1963-04-08,AB,3,BATTLE RIVER--CAMROSE,14797,"ARNSTON, Alfred O.",New Democratic Party,100,New Democratic Party,NDP,t,1283,f,4
+26,1963-04-08,AB,4,BOW RIVER,14799,"WOOLLIAMS, Eldon M.",Progressive Conservative,124,Progressive Conservative Party,PC,t,11461,f,1
+26,1963-04-08,AB,4,BOW RIVER,14800,"PORTER, Francis J.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,7460,f,2
+26,1963-04-08,AB,4,BOW RIVER,14801,"HASTINGS, Earl",Liberal,75,Liberal,Lib,t,4589,f,3
+26,1963-04-08,AB,4,BOW RIVER,14802,"SIEWERT, Walter W.",New Democratic Party,100,New Democratic Party,NDP,t,1481,f,4
+26,1963-04-08,AB,5,CALGARY NORTH,14803,"HARKNESS, Douglas Scott",Progressive Conservative,124,Progressive Conservative Party,PC,t,21966,f,1
+26,1963-04-08,AB,5,CALGARY NORTH,14805,"SIMPSON, Bob",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,15386,f,2
+26,1963-04-08,AB,5,CALGARY NORTH,14804,"LAW, Marion Albert",Liberal,75,Liberal,Lib,t,14653,f,3
+26,1963-04-08,AB,5,CALGARY NORTH,14806,"BALDWIN, Everett C.",New Democratic Party,100,New Democratic Party,NDP,t,4792,f,4
+26,1963-04-08,AB,6,CALGARY SOUTH,14807,"HAYS, Harry W.",Liberal,75,Liberal,Lib,t,21619,f,1
+26,1963-04-08,AB,6,CALGARY SOUTH,14810,"LESLIE, Jack",Progressive Conservative,124,Progressive Conservative Party,PC,t,19760,f,2
+26,1963-04-08,AB,6,CALGARY SOUTH,14808,"CUMMING, Glen",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,8753,f,3
+26,1963-04-08,AB,6,CALGARY SOUTH,14809,"HANLEY, F.W.",New Democratic Party,100,New Democratic Party,NDP,t,3760,f,4
+26,1963-04-08,AB,7,EDMONTON EAST,14811,"SKOREYKO, William",Progressive Conservative,124,Progressive Conservative Party,PC,t,13582,f,1
+26,1963-04-08,AB,7,EDMONTON EAST,14814,"BRINTON, Donald",Liberal,75,Liberal,Lib,t,7950,f,2
+26,1963-04-08,AB,7,EDMONTON EAST,14812,"MAYNARD, Lucien",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,7057,f,3
+26,1963-04-08,AB,7,EDMONTON EAST,14815,"DENT, Ivor G.",New Democratic Party,100,New Democratic Party,NDP,t,3645,f,4
+26,1963-04-08,AB,7,EDMONTON EAST,14813,"TUOMI, W.A.",Communist Party of Canada,31,Communist Party,Com,f,340,f,5
+26,1963-04-08,AB,8,EDMONTON WEST,14816,"LAMBERT, Marcel",Progressive Conservative,124,Progressive Conservative Party,PC,t,26578,f,1
+26,1963-04-08,AB,8,EDMONTON WEST,14818,"PROWSE, J. Harper",Liberal,75,Liberal,Lib,t,20720,f,2
+26,1963-04-08,AB,8,EDMONTON WEST,14819,"KENNEDY, Orvis A.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,11466,f,3
+26,1963-04-08,AB,8,EDMONTON WEST,14817,"MOTYL, John",New Democratic Party,100,New Democratic Party,NDP,t,4091,f,4
+26,1963-04-08,AB,9,EDMONTON--STRATHCONA,14820,"NUGENT, Terry",Progressive Conservative,124,Progressive Conservative Party,PC,t,18880,f,1
+26,1963-04-08,AB,9,EDMONTON--STRATHCONA,14821,"DECORE, John",Liberal,75,Liberal,Lib,t,16195,f,2
+26,1963-04-08,AB,9,EDMONTON--STRATHCONA,14822,"SORENSON, S.A.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,13841,f,3
+26,1963-04-08,AB,9,EDMONTON--STRATHCONA,14823,"SOWTON, Ian",New Democratic Party,100,New Democratic Party,NDP,t,4464,f,4
+26,1963-04-08,AB,10,JASPER--EDSON,14824,"HORNER, Hugh M.",Progressive Conservative,124,Progressive Conservative Party,PC,t,14776,f,1
+26,1963-04-08,AB,10,JASPER--EDSON,14826,"SMITH, Samuel P.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,5238,f,2
+26,1963-04-08,AB,10,JASPER--EDSON,14825,"SWITZER, William A.",Liberal,75,Liberal,Lib,t,4833,f,3
+26,1963-04-08,AB,10,JASPER--EDSON,14827,"TORGERSEN, James D.",New Democratic Party,100,New Democratic Party,NDP,t,1457,f,4
+26,1963-04-08,AB,11,LETHBRIDGE,14828,"GUNDLOCK, Deane R.",Progressive Conservative,124,Progressive Conservative Party,PC,t,11475,f,1
+26,1963-04-08,AB,11,LETHBRIDGE,14829,"KAPCSOS, Steve",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,9271,f,2
+26,1963-04-08,AB,11,LETHBRIDGE,14830,"HOYT, Martin",Liberal,75,Liberal,Lib,t,4284,f,3
+26,1963-04-08,AB,11,LETHBRIDGE,14832,"UGANECZ, Peter",New Democratic Party,100,New Democratic Party,NDP,t,1277,f,4
+26,1963-04-08,AB,11,LETHBRIDGE,14831,"SPENCER, John Arthur",Independent,52,Independent,Ind,f,193,f,5
+26,1963-04-08,AB,12,MACLEOD,14833,"KINDT, Lawrence E.",Progressive Conservative,124,Progressive Conservative Party,PC,t,9785,f,1
+26,1963-04-08,AB,12,MACLEOD,14834,"PATTERSON, Ernie",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,7795,f,2
+26,1963-04-08,AB,12,MACLEOD,14835,"BOSTROM, Robert",Liberal,75,Liberal,Lib,t,2866,f,3
+26,1963-04-08,AB,12,MACLEOD,14836,"GRIFFIN, John P.",New Democratic Party,100,New Democratic Party,NDP,t,1143,f,4
+26,1963-04-08,AB,13,MEDICINE HAT,14837,"OLSON, Horace A. Bud",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,11080,f,1
+26,1963-04-08,AB,13,MEDICINE HAT,14840,"BRUNSDEN, E.W.",Progressive Conservative,124,Progressive Conservative Party,PC,t,10829,f,2
+26,1963-04-08,AB,13,MEDICINE HAT,14838,"BROADFOOT, David R.",Liberal,75,Liberal,Lib,t,3734,f,3
+26,1963-04-08,AB,13,MEDICINE HAT,14839,"HEAD, John",New Democratic Party,100,New Democratic Party,NDP,t,1271,f,4
+26,1963-04-08,AB,14,PEACE RIVER,14841,"BALDWIN, Ged",Progressive Conservative,124,Progressive Conservative Party,PC,t,16111,f,1
+26,1963-04-08,AB,14,PEACE RIVER,14843,"SMITH, James A.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,6564,f,2
+26,1963-04-08,AB,14,PEACE RIVER,14844,"NOBLE, Fred",Liberal,75,Liberal,Lib,t,3059,f,3
+26,1963-04-08,AB,14,PEACE RIVER,14842,"MACKLIN, I.V.",New Democratic Party,100,New Democratic Party,NDP,t,1760,f,4
+26,1963-04-08,AB,15,RED DEER,14845,"THOMPSON, Robert Norman",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,12182,f,1
+26,1963-04-08,AB,15,RED DEER,14846,"TOWERS, Gordon",Progressive Conservative,124,Progressive Conservative Party,PC,t,11149,f,2
+26,1963-04-08,AB,15,RED DEER,14847,"DE HAMEL, Max",Liberal,75,Liberal,Lib,t,2702,f,3
+26,1963-04-08,AB,15,RED DEER,14848,"JENSON, Paul A.",New Democratic Party,100,New Democratic Party,NDP,t,1082,f,4
+26,1963-04-08,AB,16,VEGREVILLE,14849,"FANE, Frank J.W.",Progressive Conservative,124,Progressive Conservative Party,PC,t,12859,f,1
+26,1963-04-08,AB,16,VEGREVILLE,14850,"TOMYN, Metro",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2777,f,2
+26,1963-04-08,AB,16,VEGREVILLE,14851,"STEINHAUER, Ralph G.",Liberal,75,Liberal,Lib,t,1579,f,3
+26,1963-04-08,AB,16,VEGREVILLE,14852,"CHUDYK, Ted",New Democratic Party,100,New Democratic Party,NDP,t,1132,f,4
+26,1963-04-08,AB,16,VEGREVILLE,14854,"MARICLE, Frank E.",Communist Party of Canada,31,Communist Party,Com,f,455,f,5
+26,1963-04-08,AB,16,VEGREVILLE,14853,"PIDRUCHNEY, Anna",Independent,52,Independent,Ind,f,267,f,6
+26,1963-04-08,AB,17,WETASKIWIN,14855,"MOORE, Harry",Progressive Conservative,124,Progressive Conservative Party,PC,t,11601,f,1
+26,1963-04-08,AB,17,WETASKIWIN,14857,"STONEHOCKER, Ivan Paul",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,6483,f,2
+26,1963-04-08,AB,17,WETASKIWIN,14856,"GORDON, Ronald Alexander",Liberal,75,Liberal,Lib,t,2527,f,3
+26,1963-04-08,AB,17,WETASKIWIN,14858,"STROSCHEIN, William",New Democratic Party,100,New Democratic Party,NDP,t,1252,f,4
+26,1963-04-08,BC,18,BURNABY--COQUITLAM,14859,"DOUGLAS, Tommy C.",New Democratic Party,100,New Democratic Party,NDP,t,19067,f,1
+26,1963-04-08,BC,18,BURNABY--COQUITLAM,14860,"KENT, Tom",Liberal,75,Liberal,Lib,t,14148,f,2
+26,1963-04-08,BC,18,BURNABY--COQUITLAM,14861,"MORROW, Lyn",Progressive Conservative,124,Progressive Conservative Party,PC,t,3990,f,3
+26,1963-04-08,BC,18,BURNABY--COQUITLAM,14862,"GAMACHE, René-J.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,3917,f,4
+26,1963-04-08,BC,19,BURNABY--RICHMOND,14863,"PRITTIE, R.W. Bob",New Democratic Party,100,New Democratic Party,NDP,t,16578,f,1
+26,1963-04-08,BC,19,BURNABY--RICHMOND,14864,"TRAINOR, Bill",Liberal,75,Liberal,Lib,t,15568,f,2
+26,1963-04-08,BC,19,BURNABY--RICHMOND,14865,"STANNARD, Philip S.",Progressive Conservative,124,Progressive Conservative Party,PC,t,7138,f,3
+26,1963-04-08,BC,19,BURNABY--RICHMOND,14866,"SMITH, Cyril",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4312,f,4
+26,1963-04-08,BC,20,CARIBOO,14867,"LEBOE, Bert Raymond",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,9335,f,1
+26,1963-04-08,BC,20,CARIBOO,14868,"GRAHAM, Charles E.",Liberal,75,Liberal,Lib,t,8543,f,2
+26,1963-04-08,BC,20,CARIBOO,14869,"RUNKLE, Peter",Progressive Conservative,124,Progressive Conservative Party,PC,t,8304,f,3
+26,1963-04-08,BC,20,CARIBOO,14870,"CLOSE, Bill",New Democratic Party,100,New Democratic Party,NDP,t,4461,f,4
+26,1963-04-08,BC,21,COAST-CAPILANO,14871,"DAVIS, Jack",Liberal,75,Liberal,Lib,t,27177,f,1
+26,1963-04-08,BC,21,COAST-CAPILANO,14873,"FAMINOW, Peter S.",New Democratic Party,100,New Democratic Party,NDP,t,11731,f,2
+26,1963-04-08,BC,21,COAST-CAPILANO,14874,"SOUTHIN, Mary Frances",Progressive Conservative,124,Progressive Conservative Party,PC,t,10206,f,3
+26,1963-04-08,BC,21,COAST-CAPILANO,14872,"FULLERTON, James Thornton",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4160,f,4
+26,1963-04-08,BC,21,COAST-CAPILANO,14875,"CARON, Charles",Communist Party of Canada,31,Communist Party,Com,f,682,f,5
+26,1963-04-08,BC,22,COMOX--ALBERNI,14876,"BARNETT, Thomas Speakman",New Democratic Party,100,New Democratic Party,NDP,t,13449,f,1
+26,1963-04-08,BC,22,COMOX--ALBERNI,14877,"MOORE, William C.",Liberal,75,Liberal,Lib,t,9217,f,2
+26,1963-04-08,BC,22,COMOX--ALBERNI,14878,"CROUCH, Alex W.",Progressive Conservative,124,Progressive Conservative Party,PC,t,6099,f,3
+26,1963-04-08,BC,22,COMOX--ALBERNI,14879,"FEE, Hazel",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2428,f,4
+26,1963-04-08,BC,23,ESQUIMALT--SAANICH,14880,"CHATTERTON, George L.",Progressive Conservative,124,Progressive Conservative Party,PC,t,13772,f,1
+26,1963-04-08,BC,23,ESQUIMALT--SAANICH,14882,"OSTLER, Robert V.",Liberal,75,Liberal,Lib,t,11187,f,2
+26,1963-04-08,BC,23,ESQUIMALT--SAANICH,14881,"WINDSOR, John",New Democratic Party,100,New Democratic Party,NDP,t,7193,f,3
+26,1963-04-08,BC,23,ESQUIMALT--SAANICH,14883,"LUM, Edward",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4621,f,4
+26,1963-04-08,BC,24,FRASER VALLEY,14884,"PATTERSON, Alex B.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,11500,f,1
+26,1963-04-08,BC,24,FRASER VALLEY,14885,"REGIER, Erhart",New Democratic Party,100,New Democratic Party,NDP,t,9735,f,2
+26,1963-04-08,BC,24,FRASER VALLEY,14887,"JACK, W.R.",Liberal,75,Liberal,Lib,t,9226,f,3
+26,1963-04-08,BC,24,FRASER VALLEY,14886,"HICKS, W. Harold",Progressive Conservative,124,Progressive Conservative Party,PC,t,7500,f,4
+26,1963-04-08,BC,24,FRASER VALLEY,14888,"MILLAR, Helen",Independent,52,Independent,Ind,f,232,f,5
+26,1963-04-08,BC,25,KAMLOOPS,14889,"WILLOUGHBY, Charles J.M.",Progressive Conservative,124,Progressive Conservative Party,PC,t,8604,f,1
+26,1963-04-08,BC,25,KAMLOOPS,14891,"WHIST, Jarl",Liberal,75,Liberal,Lib,t,8359,f,2
+26,1963-04-08,BC,25,KAMLOOPS,14890,"JONES, Vernor W.",New Democratic Party,100,New Democratic Party,NDP,t,6860,f,3
+26,1963-04-08,BC,25,KAMLOOPS,14892,"WRIGHT, Clarence A.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,5394,f,4
+26,1963-04-08,BC,26,KOOTENAY EAST,14893,"BYRNE, Jim",Liberal,75,Liberal,Lib,t,6165,f,1
+26,1963-04-08,BC,26,KOOTENAY EAST,14895,"MUNDY, William Basil",New Democratic Party,100,New Democratic Party,NDP,t,5395,f,2
+26,1963-04-08,BC,26,KOOTENAY EAST,14896,"MCFARLANE, Murray L.",Progressive Conservative,124,Progressive Conservative Party,PC,t,3977,f,3
+26,1963-04-08,BC,26,KOOTENAY EAST,14894,"HUNTER, Allan Wood",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2800,f,4
+26,1963-04-08,BC,27,KOOTENAY WEST,14897,"HERRIDGE, Herbert W.",New Democratic Party,100,New Democratic Party,NDP,t,8595,f,1
+26,1963-04-08,BC,27,KOOTENAY WEST,14899,"DEWDNEY, Peter",Progressive Conservative,124,Progressive Conservative Party,PC,t,5122,f,2
+26,1963-04-08,BC,27,KOOTENAY WEST,14898,"CADY, George B.",Liberal,75,Liberal,Lib,t,4752,f,3
+26,1963-04-08,BC,27,KOOTENAY WEST,14900,"VAN MAARION, Edith A.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4455,f,4
+26,1963-04-08,BC,28,NANAIMO--COWICHAN--THE ISLANDS,14901,"CAMERON, Colin",New Democratic Party,100,New Democratic Party,NDP,t,12280,f,1
+26,1963-04-08,BC,28,NANAIMO--COWICHAN--THE ISLANDS,14902,"GREER, Douglas Malcolm",Liberal,75,Liberal,Lib,t,6782,f,2
+26,1963-04-08,BC,28,NANAIMO--COWICHAN--THE ISLANDS,14903,"MATTHEWS, W.F.",Progressive Conservative,124,Progressive Conservative Party,PC,t,6481,f,3
+26,1963-04-08,BC,28,NANAIMO--COWICHAN--THE ISLANDS,14904,"DANE, Alfred Douglas",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2272,f,4
+26,1963-04-08,BC,29,NEW WESTMINSTER,14905,"MATHER, Barry",New Democratic Party,100,New Democratic Party,NDP,t,23609,f,1
+26,1963-04-08,BC,29,NEW WESTMINSTER,14908,"JACKSON, F.H.",Liberal,75,Liberal,Lib,t,17086,f,2
+26,1963-04-08,BC,29,NEW WESTMINSTER,14907,"MCLENNAN, W.A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,13908,f,3
+26,1963-04-08,BC,29,NEW WESTMINSTER,14906,"BURROWS, Jack",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,9280,f,4
+26,1963-04-08,BC,30,OKANAGAN BOUNDARY,14909,"PUGH, David V.",Progressive Conservative,124,Progressive Conservative Party,PC,t,10031,f,1
+26,1963-04-08,BC,30,OKANAGAN BOUNDARY,14912,"SHAW, Frederick Davis",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,7430,f,2
+26,1963-04-08,BC,30,OKANAGAN BOUNDARY,14910,"GILMOUR, William Andrew",Liberal,75,Liberal,Lib,t,6453,f,3
+26,1963-04-08,BC,30,OKANAGAN BOUNDARY,14911,"YOUNG, J.A.",New Democratic Party,100,New Democratic Party,NDP,t,6425,f,4
+26,1963-04-08,BC,31,OKANAGAN--REVELSTOKE,14913,"FLEMING, Stuart A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,5800,f,1
+26,1963-04-08,BC,31,OKANAGAN--REVELSTOKE,14915,"CLARKE, Everard",Liberal,75,Liberal,Lib,t,3821,f,2
+26,1963-04-08,BC,31,OKANAGAN--REVELSTOKE,14916,"POTHECARY, Isobel",New Democratic Party,100,New Democratic Party,NDP,t,3554,f,3
+26,1963-04-08,BC,31,OKANAGAN--REVELSTOKE,14914,"PAYNTER, Peer",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,3314,f,4
+26,1963-04-08,BC,32,SKEENA,14917,"HOWARD, Frank",New Democratic Party,100,New Democratic Party,NDP,t,10743,f,1
+26,1963-04-08,BC,32,SKEENA,14919,"MAGOR, John F.",Liberal,75,Liberal,Lib,t,4860,f,2
+26,1963-04-08,BC,32,SKEENA,14920,"MADLEY, L.G.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2353,f,3
+26,1963-04-08,BC,32,SKEENA,14918,"JEPHSON, Ronald John",Progressive Conservative,124,Progressive Conservative Party,PC,t,2270,f,4
+26,1963-04-08,BC,33,VANCOUVER CENTRE,14921,"NICHOLSON, Jack R.",Liberal,75,Liberal,Lib,t,9472,f,1
+26,1963-04-08,BC,33,VANCOUVER CENTRE,14923,"JUNG, Douglas",Progressive Conservative,124,Progressive Conservative Party,PC,t,7353,f,2
+26,1963-04-08,BC,33,VANCOUVER CENTRE,14922,"ERICKSON, Margaret",New Democratic Party,100,New Democratic Party,NDP,t,5826,f,3
+26,1963-04-08,BC,33,VANCOUVER CENTRE,14924,"WALTERS, Bevis",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1430,f,4
+26,1963-04-08,BC,34,VANCOUVER EAST,14925,"WINCH, Harold Edward",New Democratic Party,100,New Democratic Party,NDP,t,12688,f,1
+26,1963-04-08,BC,34,VANCOUVER EAST,14926,"SHARP, Alexander Charles",Liberal,75,Liberal,Lib,t,5538,f,2
+26,1963-04-08,BC,34,VANCOUVER EAST,14927,"CHONG, Gladys Guy",Progressive Conservative,124,Progressive Conservative Party,PC,t,3335,f,3
+26,1963-04-08,BC,34,VANCOUVER EAST,14928,"MUNNIK, Dorothy Jean",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1804,f,4
+26,1963-04-08,BC,35,VANCOUVER KINGSWAY,14929,"WEBSTER, Arnold Alexander",New Democratic Party,100,New Democratic Party,NDP,t,13966,f,1
+26,1963-04-08,BC,35,VANCOUVER KINGSWAY,14931,"WALKER, Douglas A.",Liberal,75,Liberal,Lib,t,8154,f,2
+26,1963-04-08,BC,35,VANCOUVER KINGSWAY,14930,"KLEIN, Gerald E.",Progressive Conservative,124,Progressive Conservative Party,PC,t,4301,f,3
+26,1963-04-08,BC,35,VANCOUVER KINGSWAY,14932,"HOLMES, Arthur",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,3145,f,4
+26,1963-04-08,BC,36,VANCOUVER QUADRA,14933,"DEACHMAN, Grant",Liberal,75,Liberal,Lib,t,15160,f,1
+26,1963-04-08,BC,36,VANCOUVER QUADRA,14936,"GREEN, Howard Charles",Progressive Conservative,124,Progressive Conservative Party,PC,t,13756,f,2
+26,1963-04-08,BC,36,VANCOUVER QUADRA,14935,"STEEVES, Dorothy Gretchen",New Democratic Party,100,New Democratic Party,NDP,t,5324,f,3
+26,1963-04-08,BC,36,VANCOUVER QUADRA,14934,"MASON, James P.R.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2085,f,4
+26,1963-04-08,BC,37,VANCOUVER SOUTH,14937,"LAING, Arthur",Liberal,75,Liberal,Lib,t,19140,f,1
+26,1963-04-08,BC,37,VANCOUVER SOUTH,14938,"GREER, Cliff",New Democratic Party,100,New Democratic Party,NDP,t,9649,f,2
+26,1963-04-08,BC,37,VANCOUVER SOUTH,14940,"BROWNE, J. Ferguson",Progressive Conservative,124,Progressive Conservative Party,PC,t,9374,f,3
+26,1963-04-08,BC,37,VANCOUVER SOUTH,14939,"BACKMAN, Earl",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,3960,f,4
+26,1963-04-08,BC,37,VANCOUVER SOUTH,14941,"MCEWEN, Thomas A.",Communist Party of Canada,31,Communist Party,Com,f,345,f,5
+26,1963-04-08,BC,38,VANCOUVER--BURRARD,14942,"BASFORD, Ron",Liberal,75,Liberal,Lib,t,12048,f,1
+26,1963-04-08,BC,38,VANCOUVER--BURRARD,14945,"BERGER, Tom",New Democratic Party,100,New Democratic Party,NDP,t,9998,f,2
+26,1963-04-08,BC,38,VANCOUVER--BURRARD,14946,"TAYLOR, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,7678,f,3
+26,1963-04-08,BC,38,VANCOUVER--BURRARD,14943,"MATHEWS, George C.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2150,f,4
+26,1963-04-08,BC,38,VANCOUVER--BURRARD,14944,"SWAN, David",Independent Liberal,58,Independent Liberal,IndLib,f,127,f,5
+26,1963-04-08,BC,39,VICTORIA,14947,"GROOS, David W.",Liberal,75,Liberal,Lib,t,15040,f,1
+26,1963-04-08,BC,39,VICTORIA,14949,"CHARMAN, Eric",Progressive Conservative,124,Progressive Conservative Party,PC,t,13502,f,2
+26,1963-04-08,BC,39,VICTORIA,14950,"FANTHORPE, Henry A.L.",New Democratic Party,100,New Democratic Party,NDP,t,5757,f,3
+26,1963-04-08,BC,39,VICTORIA,14948,"MOONEY, Millard H.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,5701,f,4
+26,1963-04-08,BC,39,VICTORIA,14951,"ISHERWOOD, Thomas Foster",Independent Liberal,58,Independent Liberal,IndLib,f,3460,f,5
+26,1963-04-08,MB,40,BRANDON--SOURIS,14952,"DINSDALE, Walter G.",Progressive Conservative,124,Progressive Conservative Party,PC,t,18100,f,1
+26,1963-04-08,MB,40,BRANDON--SOURIS,14954,"HAMILTON, A.C.",Liberal,75,Liberal,Lib,t,7011,f,2
+26,1963-04-08,MB,40,BRANDON--SOURIS,14953,"BASSINGTHWAIGHTE, A.W.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,3305,f,3
+26,1963-04-08,MB,40,BRANDON--SOURIS,14955,"FORREST, Kathleen",New Democratic Party,100,New Democratic Party,NDP,t,1514,f,4
+26,1963-04-08,MB,41,CHURCHILL,14956,"SIMPSON, Robert",Progressive Conservative,124,Progressive Conservative Party,PC,t,11707,f,1
+26,1963-04-08,MB,41,CHURCHILL,14957,"DUNLOP, Bruce",Liberal,75,Liberal,Lib,t,7253,f,2
+26,1963-04-08,MB,41,CHURCHILL,14958,"MATTHEWS, Florence",New Democratic Party,100,New Democratic Party,NDP,t,2990,f,3
+26,1963-04-08,MB,42,DAUPHIN,14959,"FORBES, R. Elmer",Progressive Conservative,124,Progressive Conservative Party,PC,t,7541,f,1
+26,1963-04-08,MB,42,DAUPHIN,14960,"SIGURDSON, Siggi T.",Liberal,75,Liberal,Lib,t,5526,f,2
+26,1963-04-08,MB,42,DAUPHIN,14962,"MILNER, Lawrence A.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,3334,f,3
+26,1963-04-08,MB,42,DAUPHIN,14961,"TAYLOR, Ray",New Democratic Party,100,New Democratic Party,NDP,t,1148,f,4
+26,1963-04-08,MB,43,LISGAR,14963,"MUIR, George",Progressive Conservative,124,Progressive Conservative Party,PC,t,9698,f,1
+26,1963-04-08,MB,43,LISGAR,14965,"WILTON, Jack",Liberal,75,Liberal,Lib,t,5167,f,2
+26,1963-04-08,MB,43,LISGAR,14966,"LOEPPKY, George",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4099,f,3
+26,1963-04-08,MB,43,LISGAR,14964,"ELIASON, Magnus",New Democratic Party,100,New Democratic Party,NDP,t,416,f,4
+26,1963-04-08,MB,44,MARQUETTE,14967,"MANDZIUK, Nick",Progressive Conservative,124,Progressive Conservative Party,PC,t,11729,f,1
+26,1963-04-08,MB,44,MARQUETTE,14968,"HUSTON, Harris",Liberal,75,Liberal,Lib,t,6709,f,2
+26,1963-04-08,MB,44,MARQUETTE,14969,"DONOVAN, Walter",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2036,f,3
+26,1963-04-08,MB,44,MARQUETTE,14970,"SOTAS, Michael J.",New Democratic Party,100,New Democratic Party,NDP,t,981,f,4
+26,1963-04-08,MB,45,PORTAGE--NEEPAWA,14971,"ENNS, Sig J.",Progressive Conservative,124,Progressive Conservative Party,PC,t,12532,f,1
+26,1963-04-08,MB,45,PORTAGE--NEEPAWA,14974,"BRADLEY, William H.",Liberal,75,Liberal,Lib,t,8398,f,2
+26,1963-04-08,MB,45,PORTAGE--NEEPAWA,14975,"BARNETT, Sybil",New Democratic Party,100,New Democratic Party,NDP,t,1551,f,3
+26,1963-04-08,MB,45,PORTAGE--NEEPAWA,14972,"TURNER, Charles R.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1484,f,4
+26,1963-04-08,MB,45,PORTAGE--NEEPAWA,14973,"HENDERSON, Harold Lloyd",Independent,52,Independent,Ind,f,826,f,5
+26,1963-04-08,MB,46,PROVENCHER,14976,"JORGENSON, Warner H.",Progressive Conservative,124,Progressive Conservative Party,PC,t,6729,f,1
+26,1963-04-08,MB,46,PROVENCHER,14977,"ROBERTS, Stan C.",Liberal,75,Liberal,Lib,t,5351,f,2
+26,1963-04-08,MB,46,PROVENCHER,14978,"DORGE, Elie J.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2512,f,3
+26,1963-04-08,MB,47,SELKIRK,14979,"STEFANSON, Eric",Progressive Conservative,124,Progressive Conservative Party,PC,t,10096,f,1
+26,1963-04-08,MB,47,SELKIRK,14980,"USICK, Rudy E.",Liberal,75,Liberal,Lib,t,6937,f,2
+26,1963-04-08,MB,47,SELKIRK,14982,"CROMARTY, Raymond",New Democratic Party,100,New Democratic Party,NDP,t,2211,f,3
+26,1963-04-08,MB,47,SELKIRK,14981,"HOLLBORN, Carl E.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,718,f,4
+26,1963-04-08,MB,48,SPRINGFIELD,14983,"SLOGAN, Joe",Progressive Conservative,124,Progressive Conservative Party,PC,t,9552,f,1
+26,1963-04-08,MB,48,SPRINGFIELD,14986,"WARREN, Archie",Liberal,75,Liberal,Lib,t,5532,f,2
+26,1963-04-08,MB,48,SPRINGFIELD,14985,"SYMS, Frank",New Democratic Party,100,New Democratic Party,NDP,t,3648,f,3
+26,1963-04-08,MB,48,SPRINGFIELD,14984,"LUINING, Robert H.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1358,f,4
+26,1963-04-08,MB,49,ST. BONIFACE,14987,"TEILLET, Roger-Joseph",Liberal,75,Liberal,Lib,t,13547,f,1
+26,1963-04-08,MB,49,ST. BONIFACE,14988,"RÉGNIER, Laurier",Progressive Conservative,124,Progressive Conservative Party,PC,t,9716,f,2
+26,1963-04-08,MB,49,ST. BONIFACE,14990,"CAMPBELL, Graham",New Democratic Party,100,New Democratic Party,NDP,t,6184,f,3
+26,1963-04-08,MB,49,ST. BONIFACE,14989,"FOREST, Georges-J.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,3859,f,4
+26,1963-04-08,MB,50,WINNIPEG NORTH,14991,"ORLIKOW, David",New Democratic Party,100,New Democratic Party,NDP,t,18512,f,1
+26,1963-04-08,MB,50,WINNIPEG NORTH,14993,"PARASHIN, Paul",Liberal,75,Liberal,Lib,t,16081,f,2
+26,1963-04-08,MB,50,WINNIPEG NORTH,14994,"THOMPSON, Don",Progressive Conservative,124,Progressive Conservative Party,PC,t,14391,f,3
+26,1963-04-08,MB,50,WINNIPEG NORTH,14992,"HALAS, Nick",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1729,f,4
+26,1963-04-08,MB,51,WINNIPEG NORTH CENTRE,14995,"KNOWLES, Stanley H.",New Democratic Party,100,New Democratic Party,NDP,t,13619,f,1
+26,1963-04-08,MB,51,WINNIPEG NORTH CENTRE,14996,"HARTMAN, Erna",Progressive Conservative,124,Progressive Conservative Party,PC,t,7814,f,2
+26,1963-04-08,MB,51,WINNIPEG NORTH CENTRE,14997,"KRAWCHUK, Barry E.",Liberal,75,Liberal,Lib,t,7077,f,3
+26,1963-04-08,MB,51,WINNIPEG NORTH CENTRE,14998,"WILLMS, Val. Paul",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1026,f,4
+26,1963-04-08,MB,52,WINNIPEG SOUTH,14999,"KONANTZ, Margaret",Liberal,75,Liberal,Lib,t,24467,f,1
+26,1963-04-08,MB,52,WINNIPEG SOUTH,15001,"CHOWN, Gordon",Progressive Conservative,124,Progressive Conservative Party,PC,t,22316,f,2
+26,1963-04-08,MB,52,WINNIPEG SOUTH,15000,"STINSON, Lloyd",New Democratic Party,100,New Democratic Party,NDP,t,7867,f,3
+26,1963-04-08,MB,52,WINNIPEG SOUTH,15002,"MACPHERSON, James C.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1515,f,4
+26,1963-04-08,MB,53,WINNIPEG SOUTH CENTRE,15003,"CHURCHILL, Gordon",Progressive Conservative,124,Progressive Conservative Party,PC,t,17092,f,1
+26,1963-04-08,MB,53,WINNIPEG SOUTH CENTRE,15005,"DOUGLAS, Fred",Liberal,75,Liberal,Lib,t,15849,f,2
+26,1963-04-08,MB,53,WINNIPEG SOUTH CENTRE,15004,"STEWART, Alistair",New Democratic Party,100,New Democratic Party,NDP,t,6011,f,3
+26,1963-04-08,MB,53,WINNIPEG SOUTH CENTRE,15006,"BATHGATE, Harold",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1182,f,4
+26,1963-04-08,NB,54,CHARLOTTE,15007,"MCLEAN, Allan M.A.",Liberal,75,Liberal,Lib,t,6279,f,1
+26,1963-04-08,NB,54,CHARLOTTE,15008,"BUCHANAN, Norman",Progressive Conservative,124,Progressive Conservative Party,PC,t,5284,f,2
+26,1963-04-08,NB,54,CHARLOTTE,15009,"CORMACK, David N.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,159,f,3
+26,1963-04-08,NB,54,CHARLOTTE,15010,"COGSWELL, George W.",New Democratic Party,100,New Democratic Party,NDP,t,118,f,4
+26,1963-04-08,NB,55,GLOUCESTER,15011,"ROBICHAUD, Hédard-J.",Liberal,75,Liberal,Lib,t,13344,f,1
+26,1963-04-08,NB,55,GLOUCESTER,15013,"DUBÉ, Joseph",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,5365,f,2
+26,1963-04-08,NB,55,GLOUCESTER,15012,"FERGUSON, Leo",Progressive Conservative,124,Progressive Conservative Party,PC,t,4515,f,3
+26,1963-04-08,NB,56,KENT,15014,"CROSSMAN, Guy F.",Liberal,75,Liberal,Lib,t,5971,f,1
+26,1963-04-08,NB,56,KENT,15015,"MILLS, Lionel",Progressive Conservative,124,Progressive Conservative Party,PC,t,3095,f,2
+26,1963-04-08,NB,56,KENT,15016,"ROBICHAUD, Langis-J.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,705,f,3
+26,1963-04-08,NB,56,KENT,15017,"LÉGER, Antoine",New Democratic Party,100,New Democratic Party,NDP,t,226,f,4
+26,1963-04-08,NB,57,NORTHUMBERLAND--MIRAMICHI,15018,"MCWILLIAM, George Roy",Liberal,75,Liberal,Lib,t,10148,f,1
+26,1963-04-08,NB,57,NORTHUMBERLAND--MIRAMICHI,15020,"THERIAULT, Adé-J.",Progressive Conservative,124,Progressive Conservative Party,PC,t,6305,f,2
+26,1963-04-08,NB,57,NORTHUMBERLAND--MIRAMICHI,15019,"CURRIE, John A.",New Democratic Party,100,New Democratic Party,NDP,t,844,f,3
+26,1963-04-08,NB,57,NORTHUMBERLAND--MIRAMICHI,15021,"BOURQUE, J.-Fidèle",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,646,f,4
+26,1963-04-08,NB,58,RESTIGOUCHE--MADAWASKA,15022,"DUBÉ, Jean-Eudes",Liberal,75,Liberal,Lib,t,14111,f,1
+26,1963-04-08,NB,58,RESTIGOUCHE--MADAWASKA,15024,"DUBÉ, Charles-Léopold",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,9306,f,2
+26,1963-04-08,NB,58,RESTIGOUCHE--MADAWASKA,15023,"AYLES, Louis C.",Progressive Conservative,124,Progressive Conservative Party,PC,t,5400,f,3
+26,1963-04-08,NB,59,ROYAL,15025,"FAIRWEATHER, Gordon",Progressive Conservative,124,Progressive Conservative Party,PC,t,9524,f,1
+26,1963-04-08,NB,59,ROYAL,15028,"DEARBORN, Dorothy",Liberal,75,Liberal,Lib,t,7314,f,2
+26,1963-04-08,NB,59,ROYAL,15027,"STEPHEN, John Haykel",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,539,f,3
+26,1963-04-08,NB,59,ROYAL,15026,"BOND, Russell L.",New Democratic Party,100,New Democratic Party,NDP,t,426,f,4
+26,1963-04-08,NB,60,ST. JOHN--ALBERT,15029,"BELL, Thomas M.",Progressive Conservative,124,Progressive Conservative Party,PC,t,21584,f,1
+26,1963-04-08,NB,60,ST. JOHN--ALBERT,15031,"WHELLY, Arthur W.",Liberal,75,Liberal,Lib,t,16669,f,2
+26,1963-04-08,NB,60,ST. JOHN--ALBERT,15030,"SIMONDS, John F.",New Democratic Party,100,New Democratic Party,NDP,t,1869,f,3
+26,1963-04-08,NB,60,ST. JOHN--ALBERT,15032,"SHERWOOD, W. Paul",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1606,f,4
+26,1963-04-08,NB,61,VICTORIA--CARLETON,15033,"FLEMMING, Hugh John",Progressive Conservative,124,Progressive Conservative Party,PC,t,10572,f,1
+26,1963-04-08,NB,61,VICTORIA--CARLETON,15034,"MCCLUSKEY, Michael Francis",Liberal,75,Liberal,Lib,t,6533,f,2
+26,1963-04-08,NB,61,VICTORIA--CARLETON,15035,"SLANEY, Arnold J.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,811,f,3
+26,1963-04-08,NB,62,WESTMORLAND,15036,"RIDEOUT, Sherwood H.",Liberal,75,Liberal,Lib,t,19989,f,1
+26,1963-04-08,NB,62,WESTMORLAND,15038,"LEBLANC, Jean-Paul",Progressive Conservative,124,Progressive Conservative Party,PC,t,16356,f,2
+26,1963-04-08,NB,62,WESTMORLAND,15037,"MCALLISTER, J. Edward",New Democratic Party,100,New Democratic Party,NDP,t,4415,f,3
+26,1963-04-08,NB,62,WESTMORLAND,15039,"BAMPTON, John L.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,771,f,4
+26,1963-04-08,NB,63,YORK--SUNBURY,15040,"MACRAE, J. Chester",Progressive Conservative,124,Progressive Conservative Party,PC,t,15827,f,1
+26,1963-04-08,NB,63,YORK--SUNBURY,15041,"DICKSON, David M.",Liberal,75,Liberal,Lib,t,14678,f,2
+26,1963-04-08,NB,63,YORK--SUNBURY,15042,"NICKERSON, George Walter",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1142,f,3
+26,1963-04-08,NB,63,YORK--SUNBURY,15043,"CLARK, Lovell C.",New Democratic Party,100,New Democratic Party,NDP,t,1001,f,4
+26,1963-04-08,NL,64,BONAVISTA--TWILLINGATE,15044,"PICKERSGILL, John W.",Liberal,75,Liberal,Lib,t,11748,f,1
+26,1963-04-08,NL,64,BONAVISTA--TWILLINGATE,15045,"EVELEIGH, Guy H.",Progressive Conservative,124,Progressive Conservative Party,PC,t,2448,f,2
+26,1963-04-08,NL,64,BONAVISTA--TWILLINGATE,15046,"DAVIS, Walter Herbert",Independent Liberal,58,Independent Liberal,IndLib,f,1943,f,3
+26,1963-04-08,NL,65,BURIN--BURGEO,15047,"CARTER, Chesley William",Liberal,75,Liberal,Lib,t,12167,f,1
+26,1963-04-08,NL,65,BURIN--BURGEO,15048,"WALTERS, Samuel",Progressive Conservative,124,Progressive Conservative Party,PC,t,2439,f,2
+26,1963-04-08,NL,66,GRAND FALLS--WHITE BAY--LABRADOR,15049,"GRANGER, Charles Ronald",Liberal,75,Liberal,Lib,t,18233,f,1
+26,1963-04-08,NL,66,GRAND FALLS--WHITE BAY--LABRADOR,15050,"PELLEY, Cyril C.",Progressive Conservative,124,Progressive Conservative Party,PC,t,6545,f,2
+26,1963-04-08,NL,66,GRAND FALLS--WHITE BAY--LABRADOR,15051,"PRITCHETT, Kitchener",New Democratic Party,100,New Democratic Party,NDP,t,1025,f,3
+26,1963-04-08,NL,67,HUMBER--ST. GEORGE'S,15052,"BATTEN, Herman Maxwell",Liberal,75,Liberal,Lib,t,13605,f,1
+26,1963-04-08,NL,67,HUMBER--ST. GEORGE'S,15053,"FINN, Edward",New Democratic Party,100,New Democratic Party,NDP,t,4873,f,2
+26,1963-04-08,NL,67,HUMBER--ST. GEORGE'S,15054,"MURPHY, Edna",Progressive Conservative,124,Progressive Conservative Party,PC,t,4295,f,3
+26,1963-04-08,NL,68,ST. JOHN'S EAST,15055,"O'KEEFE, Joseph P.",Liberal,75,Liberal,Lib,t,14768,f,1
+26,1963-04-08,NL,68,ST. JOHN'S EAST,15056,"MCGRATH, James Aloysius",Progressive Conservative,124,Progressive Conservative Party,PC,t,13911,f,2
+26,1963-04-08,NL,69,ST. JOHN'S WEST,15057,"CASHIN, Richard J.",Liberal,75,Liberal,Lib,t,14724,f,1
+26,1963-04-08,NL,69,ST. JOHN'S WEST,15058,"HARNETT, Art",Progressive Conservative,124,Progressive Conservative Party,PC,t,10997,f,2
+26,1963-04-08,NL,69,ST. JOHN'S WEST,15059,"WALSH, James J.",New Democratic Party,100,New Democratic Party,NDP,t,466,f,3
+26,1963-04-08,NL,70,TRINITY--CONCEPTION,15060,"TUCKER, James Roy",Liberal,75,Liberal,Lib,t,12331,f,1
+26,1963-04-08,NL,70,TRINITY--CONCEPTION,15061,"BUTT, Albert B.",Progressive Conservative,124,Progressive Conservative Party,PC,t,4856,f,2
+26,1963-04-08,NS,71,ANTIGONISH--GUYSBOROUGH,15062,"STEWART, John B.",Liberal,75,Liberal,Lib,t,6947,f,1
+26,1963-04-08,NS,71,ANTIGONISH--GUYSBOROUGH,15063,"FORBES, Jack",Progressive Conservative,124,Progressive Conservative Party,PC,t,5835,f,2
+26,1963-04-08,NS,72,CAPE BRETON NORTH AND VICTORIA,15064,"MUIR, Robert",Progressive Conservative,124,Progressive Conservative Party,PC,t,10508,f,1
+26,1963-04-08,NS,72,CAPE BRETON NORTH AND VICTORIA,15065,"FERGUSON, Robert France",Liberal,75,Liberal,Lib,t,8507,f,2
+26,1963-04-08,NS,72,CAPE BRETON NORTH AND VICTORIA,15066,"YETMAN, Gerald A.",New Democratic Party,100,New Democratic Party,NDP,t,2347,f,3
+26,1963-04-08,NS,73,CAPE BRETON SOUTH,15067,"MACINNIS, Donald",Progressive Conservative,124,Progressive Conservative Party,PC,t,14307,f,1
+26,1963-04-08,NS,73,CAPE BRETON SOUTH,15069,"MACINNIS, Malcolm Vic",New Democratic Party,100,New Democratic Party,NDP,t,13327,f,2
+26,1963-04-08,NS,73,CAPE BRETON SOUTH,15068,"MACEACHERN, Joe",Liberal,75,Liberal,Lib,t,9184,f,3
+26,1963-04-08,NS,74,COLCHESTER--HANTS,15070,"KENNEDY, Cyril F.",Progressive Conservative,124,Progressive Conservative Party,PC,t,14387,f,1
+26,1963-04-08,NS,74,COLCHESTER--HANTS,15071,"HILL, Hector",Liberal,75,Liberal,Lib,t,14185,f,2
+26,1963-04-08,NS,74,COLCHESTER--HANTS,15072,"CAMERON, Laurence C.",New Democratic Party,100,New Democratic Party,NDP,t,822,f,3
+26,1963-04-08,NS,75,CUMBERLAND,15073,"COATES, Robert C.",Progressive Conservative,124,Progressive Conservative Party,PC,t,9034,f,1
+26,1963-04-08,NS,75,CUMBERLAND,15074,"RUSSELL, H. Keith",Liberal,75,Liberal,Lib,t,8082,f,2
+26,1963-04-08,NS,75,CUMBERLAND,15075,"SPICER, Carson Carlyle",New Democratic Party,100,New Democratic Party,NDP,t,874,f,3
+26,1963-04-08,NS,76,DIGBY--ANNAPOLIS--KINGS,15076,"NOWLAN, George Clyde",Progressive Conservative,124,Progressive Conservative Party,PC,t,16887,f,1
+26,1963-04-08,NS,76,DIGBY--ANNAPOLIS--KINGS,15078,"SHAFFNER, John Elvin",Liberal,75,Liberal,Lib,t,16471,f,2
+26,1963-04-08,NS,76,DIGBY--ANNAPOLIS--KINGS,15077,"BENT, Murray Alton",New Democratic Party,100,New Democratic Party,NDP,t,579,f,3
+26,1963-04-08,NS,77,HALIFAX-1,15080,"REGAN, Gerald A.",Liberal,75,Liberal,Lib,t,45173,f,1
+26,1963-04-08,NS,77,HALIFAX-1,15082,"MACDONALD, Finlay",Progressive Conservative,124,Progressive Conservative Party,PC,t,41655,f,2
+26,1963-04-08,NS,77,HALIFAX-1,15084,"O'BRIEN, Allan",New Democratic Party,100,New Democratic Party,NDP,t,3860,f,3
+26,1963-04-08,NS,78,HALIFAX-2,15079,"LLOYD, John E.",Liberal,75,Liberal,Lib,t,46274,f,1
+26,1963-04-08,NS,78,HALIFAX-2,15081,"MCCLEAVE, Robert",Progressive Conservative,124,Progressive Conservative Party,PC,t,42548,f,2
+26,1963-04-08,NS,78,HALIFAX-2,15083,"RONAYNE, Perry",New Democratic Party,100,New Democratic Party,NDP,t,3466,f,3
+26,1963-04-08,NS,79,INVERNESS--RICHMOND,15085,"MACEACHEN, Allan J.",Liberal,75,Liberal,Lib,t,8373,f,1
+26,1963-04-08,NS,79,INVERNESS--RICHMOND,15086,"BOUDREAU, Leo",Progressive Conservative,124,Progressive Conservative Party,PC,t,7013,f,2
+26,1963-04-08,NS,80,PICTOU,15087,"MACEWAN, Russell",Progressive Conservative,124,Progressive Conservative Party,PC,t,10566,f,1
+26,1963-04-08,NS,80,PICTOU,15088,"CAMERON, James M.",Liberal,75,Liberal,Lib,t,8847,f,2
+26,1963-04-08,NS,80,PICTOU,15089,"MARKIE, John J.",New Democratic Party,100,New Democratic Party,NDP,t,1127,f,3
+26,1963-04-08,NS,80,PICTOU,15090,"PARKER, Kenneth York",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,181,f,4
+26,1963-04-08,NS,81,QUEENS--LUNENBURG,15091,"CROUSE, Lloyd R.",Progressive Conservative,124,Progressive Conservative Party,PC,t,12591,f,1
+26,1963-04-08,NS,81,QUEENS--LUNENBURG,15092,"BURKE, Archibald",Liberal,75,Liberal,Lib,t,11357,f,2
+26,1963-04-08,NS,82,SHELBURNE--YARMOUTH--CLARE,15093,"ARMSTRONG, Frederick Thomas",Liberal,75,Liberal,Lib,t,11607,f,1
+26,1963-04-08,NS,82,SHELBURNE--YARMOUTH--CLARE,15094,"BOWER, John O.",Progressive Conservative,124,Progressive Conservative Party,PC,t,10380,f,2
+26,1963-04-08,NS,82,SHELBURNE--YARMOUTH--CLARE,15096,"CROWELL, Ashley Allen",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,220,f,3
+26,1963-04-08,NS,82,SHELBURNE--YARMOUTH--CLARE,15095,"ROSS, Victor A.",New Democratic Party,100,New Democratic Party,NDP,t,215,f,4
+26,1963-04-08,NT,83,NORTHWEST TERRITORIES,15097,"RHEAUME, Gene",Progressive Conservative,124,Progressive Conservative Party,PC,t,4814,f,1
+26,1963-04-08,NT,83,NORTHWEST TERRITORIES,15098,"HARDIE, I.J. Tibbie",Liberal,75,Liberal,Lib,t,3659,f,2
+26,1963-04-08,ON,84,ALGOMA EAST,15099,"PEARSON, Lester B.",Liberal,75,Liberal,Lib,t,10817,f,1
+26,1963-04-08,ON,84,ALGOMA EAST,15100,"JEWELL, Paul",Progressive Conservative,124,Progressive Conservative Party,PC,t,6146,f,2
+26,1963-04-08,ON,84,ALGOMA EAST,15101,"QUENNEVILLE, Irénée John",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2016,f,3
+26,1963-04-08,ON,84,ALGOMA EAST,15102,"DONAHUE, Bennett",New Democratic Party,100,New Democratic Party,NDP,t,1751,f,4
+26,1963-04-08,ON,85,ALGOMA WEST,15103,"NIXON, George Ewart",Liberal,75,Liberal,Lib,t,14023,f,1
+26,1963-04-08,ON,85,ALGOMA WEST,15105,"EAID, Charles",Progressive Conservative,124,Progressive Conservative Party,PC,t,10119,f,2
+26,1963-04-08,ON,85,ALGOMA WEST,15106,"WERNICK, Morris",New Democratic Party,100,New Democratic Party,NDP,t,9351,f,3
+26,1963-04-08,ON,85,ALGOMA WEST,15104,"ASH, Ronald James",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,355,f,4
+26,1963-04-08,ON,86,BRANT--HALDIMAND,15107,"PENNELL, Larry T.",Liberal,75,Liberal,Lib,t,12733,f,1
+26,1963-04-08,ON,86,BRANT--HALDIMAND,15108,"SKINNER, A. Gordon",Progressive Conservative,124,Progressive Conservative Party,PC,t,10814,f,2
+26,1963-04-08,ON,86,BRANT--HALDIMAND,15109,"MOWLE, William B.",New Democratic Party,100,New Democratic Party,NDP,t,2274,f,3
+26,1963-04-08,ON,86,BRANT--HALDIMAND,15110,"FEHR, David",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,557,f,4
+26,1963-04-08,ON,87,BRANTFORD,15111,"BROWN, James E.",Liberal,75,Liberal,Lib,t,10804,f,1
+26,1963-04-08,ON,87,BRANTFORD,15112,"ANDREASEN, Andy",Progressive Conservative,124,Progressive Conservative Party,PC,t,9680,f,2
+26,1963-04-08,ON,87,BRANTFORD,15114,"HUMBLE, Bill",New Democratic Party,100,New Democratic Party,NDP,t,3706,f,3
+26,1963-04-08,ON,87,BRANTFORD,15113,"MOTZ, Herb",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,766,f,4
+26,1963-04-08,ON,88,BROADVIEW,15115,"HAHN, D.G.",Liberal,75,Liberal,Lib,t,8743,f,1
+26,1963-04-08,ON,88,BROADVIEW,15117,"DAY, Glen",Progressive Conservative,124,Progressive Conservative Party,PC,t,6684,f,2
+26,1963-04-08,ON,88,BROADVIEW,15116,"GILBERT, John",New Democratic Party,100,New Democratic Party,NDP,t,5574,f,3
+26,1963-04-08,ON,88,BROADVIEW,15118,"COMERFORD, Tom",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,166,f,4
+26,1963-04-08,ON,88,BROADVIEW,15119,"GRAHAM, Fred",Independent,52,Independent,Ind,f,149,f,5
+26,1963-04-08,ON,88,BROADVIEW,15120,"SANDERSON, Alan",Socialist Labour,149,Socialist Labour,SocialLab,f,43,f,6
+26,1963-04-08,ON,89,BRUCE,15121,"LONEY, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,7451,f,1
+26,1963-04-08,ON,89,BRUCE,15123,"MACKENZIE, John H.",Liberal,75,Liberal,Lib,t,6401,f,2
+26,1963-04-08,ON,89,BRUCE,15122,"SCARROW, Alex",Independent,52,Independent,Ind,f,611,f,3
+26,1963-04-08,ON,90,CARLETON,15124,"FRANCIS, Lloyd",Liberal,75,Liberal,Lib,t,32325,f,1
+26,1963-04-08,ON,90,CARLETON,15125,"BELL, Richard Albert",Progressive Conservative,124,Progressive Conservative Party,PC,t,31168,f,2
+26,1963-04-08,ON,90,CARLETON,15126,"HANLEY, Lewis",New Democratic Party,100,New Democratic Party,NDP,t,3144,f,3
+26,1963-04-08,ON,90,CARLETON,15127,"SPLETT, Harold Herbert",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,699,f,4
+26,1963-04-08,ON,91,COCHRANE,15128,"HABEL, Joseph-Anaclet",Liberal,75,Liberal,Lib,t,7809,f,1
+26,1963-04-08,ON,91,COCHRANE,15130,"PATERSON, Ross A.",New Democratic Party,100,New Democratic Party,NDP,t,5498,f,2
+26,1963-04-08,ON,91,COCHRANE,15131,"PALANGIO, Mike",Progressive Conservative,124,Progressive Conservative Party,PC,t,3276,f,3
+26,1963-04-08,ON,91,COCHRANE,15129,"BRISSON, Alphonse",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2204,f,4
+26,1963-04-08,ON,92,DANFORTH,15132,"SCOTT, Reid",New Democratic Party,100,New Democratic Party,NDP,t,14903,f,1
+26,1963-04-08,ON,92,DANFORTH,15133,"WHITEHEAD, John",Liberal,75,Liberal,Lib,t,14701,f,2
+26,1963-04-08,ON,92,DANFORTH,15134,"SMALL, Robert Hardy",Progressive Conservative,124,Progressive Conservative Party,PC,t,10835,f,3
+26,1963-04-08,ON,92,DANFORTH,15135,"WATTS, Ernest T.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,212,f,4
+26,1963-04-08,ON,93,DAVENPORT,15136,"GORDON, Walter L.",Liberal,75,Liberal,Lib,t,11023,f,1
+26,1963-04-08,ON,93,DAVENPORT,15137,"MILES, Pauline",Progressive Conservative,124,Progressive Conservative Party,PC,t,4520,f,2
+26,1963-04-08,ON,93,DAVENPORT,15138,"CATHERS, Vic",New Democratic Party,100,New Democratic Party,NDP,t,4347,f,3
+26,1963-04-08,ON,93,DAVENPORT,15139,"RING, Roland",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,245,f,4
+26,1963-04-08,ON,94,DUFFERIN--SIMCOE,15140,"MADILL, J. Ellwood",Progressive Conservative,124,Progressive Conservative Party,PC,t,10278,f,1
+26,1963-04-08,ON,94,DUFFERIN--SIMCOE,15142,"STEWART, Harvey",Liberal,75,Liberal,Lib,t,8941,f,2
+26,1963-04-08,ON,94,DUFFERIN--SIMCOE,15143,"CUMMING, Lloyd G.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1626,f,3
+26,1963-04-08,ON,94,DUFFERIN--SIMCOE,15141,"MANSON, Derrick",New Democratic Party,100,New Democratic Party,NDP,t,673,f,4
+26,1963-04-08,ON,95,DURHAM,15144,"HONEY, Russell C.",Liberal,75,Liberal,Lib,t,8720,f,1
+26,1963-04-08,ON,95,DURHAM,15145,"RICKARD, Garnet",Progressive Conservative,124,Progressive Conservative Party,PC,t,8084,f,2
+26,1963-04-08,ON,95,DURHAM,15146,"COUTTS, Eileen Ethel",New Democratic Party,100,New Democratic Party,NDP,t,1901,f,3
+26,1963-04-08,ON,95,DURHAM,15147,"CRANDALL, Wilbur N.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,161,f,4
+26,1963-04-08,ON,96,EGLINTON,15148,"SHARP, Mitchell",Liberal,75,Liberal,Lib,t,22215,f,1
+26,1963-04-08,ON,96,EGLINTON,15149,"HARDY, Eric",Progressive Conservative,124,Progressive Conservative Party,PC,t,13984,f,2
+26,1963-04-08,ON,96,EGLINTON,15150,"MITCHELL, Malcolm Bowles",New Democratic Party,100,New Democratic Party,NDP,t,5151,f,3
+26,1963-04-08,ON,97,ELGIN,15151,"MCBAIN, John A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,13957,f,1
+26,1963-04-08,ON,97,ELGIN,15152,"STAFFORD, Harold Edwin",Liberal,75,Liberal,Lib,t,12910,f,2
+26,1963-04-08,ON,97,ELGIN,15153,"BROOKS, Harold Nathaniel",New Democratic Party,100,New Democratic Party,NDP,t,1127,f,3
+26,1963-04-08,ON,97,ELGIN,15154,"SHACKLETON, Kenneth E.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,757,f,4
+26,1963-04-08,ON,98,ESSEX EAST,15155,"MARTIN, Paul",Liberal,75,Liberal,Lib,t,25727,f,1
+26,1963-04-08,ON,98,ESSEX EAST,15157,"GOURLIE, David",Progressive Conservative,124,Progressive Conservative Party,PC,t,8894,f,2
+26,1963-04-08,ON,98,ESSEX EAST,15156,"MCCONVILLE, Hugh",New Democratic Party,100,New Democratic Party,NDP,t,7648,f,3
+26,1963-04-08,ON,98,ESSEX EAST,15158,"GIGNAC, Frank",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,740,f,4
+26,1963-04-08,ON,99,ESSEX SOUTH,15159,"WHELAN, Eugene F.",Liberal,75,Liberal,Lib,t,12947,f,1
+26,1963-04-08,ON,99,ESSEX SOUTH,15160,"THRASHER, Richard Devere",Progressive Conservative,124,Progressive Conservative Party,PC,t,12178,f,2
+26,1963-04-08,ON,99,ESSEX SOUTH,15161,"BACKER, Jack",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,419,f,3
+26,1963-04-08,ON,100,ESSEX WEST,15162,"Gray, Herb",Liberal,75,Liberal,Lib,t,23165,f,1
+26,1963-04-08,ON,100,ESSEX WEST,15164,"BROPHEY, Tom",Progressive Conservative,124,Progressive Conservative Party,PC,t,10946,f,2
+26,1963-04-08,ON,100,ESSEX WEST,15165,"PRICE, Trevor",New Democratic Party,100,New Democratic Party,NDP,t,6267,f,3
+26,1963-04-08,ON,100,ESSEX WEST,15163,"GANGNIER, Ray",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,884,f,4
+26,1963-04-08,ON,101,FORT WILLIAM,15166,"BADANAI, Hubert",Liberal,75,Liberal,Lib,t,11765,f,1
+26,1963-04-08,ON,101,FORT WILLIAM,15167,"FREEMAN, Edward G.",New Democratic Party,100,New Democratic Party,NDP,t,7619,f,2
+26,1963-04-08,ON,101,FORT WILLIAM,15168,"DEVLIN, C.B.",Progressive Conservative,124,Progressive Conservative Party,PC,t,6618,f,3
+26,1963-04-08,ON,101,FORT WILLIAM,15169,"HUTTON, Arthur W.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,309,f,4
+26,1963-04-08,ON,102,GLENGARRY--PRESCOTT,15170,"ETHIER, Viateur",Liberal,75,Liberal,Lib,t,9906,f,1
+26,1963-04-08,ON,102,GLENGARRY--PRESCOTT,15171,"GELINEAU, J.-Marcel",Progressive Conservative,124,Progressive Conservative Party,PC,t,5568,f,2
+26,1963-04-08,ON,102,GLENGARRY--PRESCOTT,15172,"CHOLETTE, Rolland",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2786,f,3
+26,1963-04-08,ON,102,GLENGARRY--PRESCOTT,15173,"BRUNEAU, Raymond",Independent Liberal,58,Independent Liberal,IndLib,f,1234,f,4
+26,1963-04-08,ON,102,GLENGARRY--PRESCOTT,15174,"SCHNEIDER, Peter Marcel",New Democratic Party,100,New Democratic Party,NDP,t,394,f,5
+26,1963-04-08,ON,103,GREENWOOD,15175,"BREWIN, Andrew",New Democratic Party,100,New Democratic Party,NDP,t,9421,f,1
+26,1963-04-08,ON,103,GREENWOOD,15176,"HILTON, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,7221,f,2
+26,1963-04-08,ON,103,GREENWOOD,15177,"REILLY, T. Edgar",Liberal,75,Liberal,Lib,t,7207,f,3
+26,1963-04-08,ON,103,GREENWOOD,15178,"LONSDALE, Peter",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,224,f,4
+26,1963-04-08,ON,104,GRENVILLE--DUNDAS,15179,"CASSELMAN, Jean",Progressive Conservative,124,Progressive Conservative Party,PC,t,10434,f,1
+26,1963-04-08,ON,104,GRENVILLE--DUNDAS,15180,"LIBBY, Reginald S.",New Democratic Party,100,New Democratic Party,NDP,t,7207,f,2
+26,1963-04-08,ON,104,GRENVILLE--DUNDAS,15181,"PALMER, John",Liberal,75,Liberal,Lib,t,7207,f,2
+26,1963-04-08,ON,105,GREY NORTH,15182,"NOBLE, Percy Vermer",Progressive Conservative,124,Progressive Conservative Party,PC,t,9804,f,1
+26,1963-04-08,ON,105,GREY NORTH,15183,"HARRISON, Arthur Pratt",Liberal,75,Liberal,Lib,t,6819,f,2
+26,1963-04-08,ON,105,GREY NORTH,15184,"STEVENSON, John Carter",New Democratic Party,100,New Democratic Party,NDP,t,1967,f,3
+26,1963-04-08,ON,105,GREY NORTH,15185,"CLARKE, David Almour",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,525,f,4
+26,1963-04-08,ON,106,GREY--BRUCE,15186,"WINKLER, Eric A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,10535,f,1
+26,1963-04-08,ON,106,GREY--BRUCE,15187,"MCCALLUM, Duncan Melvin",Liberal,75,Liberal,Lib,t,6981,f,2
+26,1963-04-08,ON,106,GREY--BRUCE,15188,"WATSON, George D.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,566,f,3
+26,1963-04-08,ON,106,GREY--BRUCE,15189,"MCASEY, Elzard Joseph",New Democratic Party,100,New Democratic Party,NDP,t,399,f,4
+26,1963-04-08,ON,107,HALTON,15190,"HARLEY, Harry C.",Liberal,75,Liberal,Lib,t,25482,f,1
+26,1963-04-08,ON,107,HALTON,15191,"BEST, Sandy",Progressive Conservative,124,Progressive Conservative Party,PC,t,15949,f,2
+26,1963-04-08,ON,107,HALTON,15192,"FULLERTON, Ellis",New Democratic Party,100,New Democratic Party,NDP,t,6790,f,3
+26,1963-04-08,ON,107,HALTON,15193,"TIMMINS, Henry",Independent Conservative,56,Independent Conservative,IndCon,f,481,f,4
+26,1963-04-08,ON,107,HALTON,15194,"WILSON, Irv",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,330,f,5
+26,1963-04-08,ON,108,HAMILTON EAST,15195,"MUNRO, John Carr",Liberal,75,Liberal,Lib,t,13167,f,1
+26,1963-04-08,ON,108,HAMILTON EAST,15196,"MARTINI, Quinto",Progressive Conservative,124,Progressive Conservative Party,PC,t,7644,f,2
+26,1963-04-08,ON,108,HAMILTON EAST,15197,"O'DONNELL, Brian",New Democratic Party,100,New Democratic Party,NDP,t,7015,f,3
+26,1963-04-08,ON,108,HAMILTON EAST,15198,"VOSTREZ, Vaclav George",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,240,f,4
+26,1963-04-08,ON,109,HAMILTON SOUTH,15199,"HOWE, William Dean",New Democratic Party,100,New Democratic Party,NDP,t,19205,f,1
+26,1963-04-08,ON,109,HAMILTON SOUTH,15200,"CUSTEAU, James Charles",Liberal,75,Liberal,Lib,t,17842,f,2
+26,1963-04-08,ON,109,HAMILTON SOUTH,15201,"MCDONALD, Robert M.T.",Progressive Conservative,124,Progressive Conservative Party,PC,t,16441,f,3
+26,1963-04-08,ON,109,HAMILTON SOUTH,15202,"LEPP, Peter Paul",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,459,f,4
+26,1963-04-08,ON,110,HAMILTON WEST,15203,"MACALUSO, Joseph",Liberal,75,Liberal,Lib,t,13701,f,1
+26,1963-04-08,ON,110,HAMILTON WEST,15204,"FAIRCLOUGH, Ellen L.",Progressive Conservative,124,Progressive Conservative Party,PC,t,10849,f,2
+26,1963-04-08,ON,110,HAMILTON WEST,15205,"CHERTKOFF, Gary",New Democratic Party,100,New Democratic Party,NDP,t,5709,f,3
+26,1963-04-08,ON,110,HAMILTON WEST,15206,"BUCHAN, James Ian",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,442,f,4
+26,1963-04-08,ON,110,HAMILTON WEST,15207,"HUNTER, Harry",Communist Party of Canada,31,Communist Party,Com,f,283,f,5
+26,1963-04-08,ON,111,HASTINGS SOUTH,15208,"TEMPLE, Robert",Liberal,75,Liberal,Lib,t,15505,f,1
+26,1963-04-08,ON,111,HASTINGS SOUTH,15209,"GRILLS, Lee",Progressive Conservative,124,Progressive Conservative Party,PC,t,14859,f,2
+26,1963-04-08,ON,111,HASTINGS SOUTH,15210,"DIGBY, Leslie W.",New Democratic Party,100,New Democratic Party,NDP,t,1332,f,3
+26,1963-04-08,ON,111,HASTINGS SOUTH,15211,"MALLORY, G.S.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,265,f,4
+26,1963-04-08,ON,112,HASTINGS--FRONTENAC,15212,"WEBB, Rod",Progressive Conservative,124,Progressive Conservative Party,PC,t,12321,f,1
+26,1963-04-08,ON,112,HASTINGS--FRONTENAC,15214,"SHANNON, William A.",Liberal,75,Liberal,Lib,t,6479,f,2
+26,1963-04-08,ON,112,HASTINGS--FRONTENAC,15213,"ELLIOTT, James",New Democratic Party,100,New Democratic Party,NDP,t,989,f,3
+26,1963-04-08,ON,112,HASTINGS--FRONTENAC,15215,"JAMES, R.H.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,738,f,4
+26,1963-04-08,ON,113,HIGH PARK,15216,"CAMERON, Alan John Patrick",Liberal,75,Liberal,Lib,t,13034,f,1
+26,1963-04-08,ON,113,HIGH PARK,15217,"STEPHENS, James H.",Progressive Conservative,124,Progressive Conservative Party,PC,t,7045,f,2
+26,1963-04-08,ON,113,HIGH PARK,15218,"MAYS, Andrew W.",New Democratic Party,100,New Democratic Party,NDP,t,4425,f,3
+26,1963-04-08,ON,113,HIGH PARK,15219,"MALNYCHUK, William",Communist Party of Canada,31,Communist Party,Com,f,420,f,4
+26,1963-04-08,ON,113,HIGH PARK,15220,"MIDDLETON, Watson",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,203,f,5
+26,1963-04-08,ON,114,HURON,15221,"CARDIFF, Elston",Progressive Conservative,124,Progressive Conservative Party,PC,t,12224,f,1
+26,1963-04-08,ON,114,HURON,15222,"MCGAVIN, Gordon",Liberal,75,Liberal,Lib,t,10169,f,2
+26,1963-04-08,ON,115,KENORA--RAINY RIVER,15223,"BENIDICKSON, William Moore",Liberal Labour,65,Labour,Labour,f,16794,f,1
+26,1963-04-08,ON,115,KENORA--RAINY RIVER,15224,"MILLAR, Jean",Progressive Conservative,124,Progressive Conservative Party,PC,t,10221,f,2
+26,1963-04-08,ON,116,KENT,15225,"DANFORTH, Harold W.",Progressive Conservative,124,Progressive Conservative Party,PC,t,15381,f,1
+26,1963-04-08,ON,116,KENT,15226,"CLUNIS, Sidney LeRoi",Liberal,75,Liberal,Lib,t,15179,f,2
+26,1963-04-08,ON,116,KENT,15227,"MOORE, Larry",New Democratic Party,100,New Democratic Party,NDP,t,924,f,3
+26,1963-04-08,ON,116,KENT,15228,"HEATHERINGTON, Donald Lawrence",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,388,f,4
+26,1963-04-08,ON,117,KINGSTON,15229,"BENSON, Edgar John",Liberal,75,Liberal,Lib,t,18425,f,1
+26,1963-04-08,ON,117,KINGSTON,15230,"MCEWEN, J. Earl",Progressive Conservative,124,Progressive Conservative Party,PC,t,12879,f,2
+26,1963-04-08,ON,117,KINGSTON,15231,"KALMAN, Denis",New Democratic Party,100,New Democratic Party,NDP,t,2400,f,3
+26,1963-04-08,ON,117,KINGSTON,15232,"GOUGH, Grace C.A.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,194,f,4
+26,1963-04-08,ON,118,LAMBTON WEST,15233,"FOY, Walter Frank",Liberal,75,Liberal,Lib,t,15978,f,1
+26,1963-04-08,ON,118,LAMBTON WEST,15234,"JACKSON, David Mackay",Progressive Conservative,124,Progressive Conservative Party,PC,t,12592,f,2
+26,1963-04-08,ON,118,LAMBTON WEST,15235,"KIMMERLY, Jim",New Democratic Party,100,New Democratic Party,NDP,t,3626,f,3
+26,1963-04-08,ON,118,LAMBTON WEST,15236,"VERHEYDEN, Larry",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,264,f,4
+26,1963-04-08,ON,119,LAMBTON--KENT,15237,"MCCUTCHEON, Mac T.",Progressive Conservative,124,Progressive Conservative Party,PC,t,9520,f,1
+26,1963-04-08,ON,119,LAMBTON--KENT,15238,"BURGESS, John W.",Liberal,75,Liberal,Lib,t,9496,f,2
+26,1963-04-08,ON,119,LAMBTON--KENT,15239,"CUNNINGHAM, Cecil A.",New Democratic Party,100,New Democratic Party,NDP,t,576,f,3
+26,1963-04-08,ON,119,LAMBTON--KENT,15240,"KELLETT, William E.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,379,f,4
+26,1963-04-08,ON,120,LANARK,15241,"DOUCETT, George H.",Progressive Conservative,124,Progressive Conservative Party,PC,t,10475,f,1
+26,1963-04-08,ON,120,LANARK,15242,"STEWART, R. Arthur",Liberal,75,Liberal,Lib,t,7043,f,2
+26,1963-04-08,ON,120,LANARK,15243,"GRIFFITH, James O.W.",New Democratic Party,100,New Democratic Party,NDP,t,601,f,3
+26,1963-04-08,ON,120,LANARK,15244,"VENTRESS, Oscar Wilmot",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,312,f,4
+26,1963-04-08,ON,121,LEEDS,15245,"MATHESON, John R.",Liberal,75,Liberal,Lib,t,12113,f,1
+26,1963-04-08,ON,121,LEEDS,15246,"MACODRUM, Frances D.",Progressive Conservative,124,Progressive Conservative Party,PC,t,9899,f,2
+26,1963-04-08,ON,122,LINCOLN,15247,"MCNULTY, James C.",Liberal,75,Liberal,Lib,t,25902,f,1
+26,1963-04-08,ON,122,LINCOLN,15248,"ROSS, Romaine K.",Progressive Conservative,124,Progressive Conservative Party,PC,t,21345,f,2
+26,1963-04-08,ON,122,LINCOLN,15249,"COOKSON, Rose",New Democratic Party,100,New Democratic Party,NDP,t,5315,f,3
+26,1963-04-08,ON,122,LINCOLN,15250,"WALTERS, James R.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2841,f,4
+26,1963-04-08,ON,123,LONDON,15251,"IRVINE, Jack A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,15700,f,1
+26,1963-04-08,ON,123,LONDON,15252,"PETERSON, Clarence M.",Liberal,75,Liberal,Lib,t,14262,f,2
+26,1963-04-08,ON,123,LONDON,15253,"O'BRIEN, Paddy",New Democratic Party,100,New Democratic Party,NDP,t,3335,f,3
+26,1963-04-08,ON,123,LONDON,15254,"ALFORD, Lloyd H.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,599,f,4
+26,1963-04-08,ON,124,MIDDLESEX EAST,15255,"MILLAR, Campbell E.",Progressive Conservative,124,Progressive Conservative Party,PC,t,19850,f,1
+26,1963-04-08,ON,124,MIDDLESEX EAST,15256,"LIND, Jim",Liberal,75,Liberal,Lib,t,18043,f,2
+26,1963-04-08,ON,124,MIDDLESEX EAST,15257,"GELLETA, John G.",New Democratic Party,100,New Democratic Party,NDP,t,5092,f,3
+26,1963-04-08,ON,124,MIDDLESEX EAST,15258,"WATSON, Rae J.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1159,f,4
+26,1963-04-08,ON,125,MIDDLESEX WEST,15259,"THOMAS, W.H.A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,10247,f,1
+26,1963-04-08,ON,125,MIDDLESEX WEST,15260,"MCKENZIE, George A.",Liberal,75,Liberal,Lib,t,9320,f,2
+26,1963-04-08,ON,125,MIDDLESEX WEST,15261,"STEWART, Arthur B.",New Democratic Party,100,New Democratic Party,NDP,t,1327,f,3
+26,1963-04-08,ON,125,MIDDLESEX WEST,15262,"WATSON, James A.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,232,f,4
+26,1963-04-08,ON,126,NIAGARA FALLS,15263,"LAMARSH, Judy",Liberal,75,Liberal,Lib,t,18749,f,1
+26,1963-04-08,ON,126,NIAGARA FALLS,15264,"DOUGLAS, Jean",Progressive Conservative,124,Progressive Conservative Party,PC,t,8863,f,2
+26,1963-04-08,ON,126,NIAGARA FALLS,15265,"JOHNSON, Bill",New Democratic Party,100,New Democratic Party,NDP,t,3555,f,3
+26,1963-04-08,ON,127,NICKEL BELT,15266,"GODIN, O.-J.",Liberal,75,Liberal,Lib,t,13414,f,1
+26,1963-04-08,ON,127,NICKEL BELT,15268,"MACLEAN, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,7268,f,2
+26,1963-04-08,ON,127,NICKEL BELT,15269,"GRIFFITH, Carl Maitland",New Democratic Party,100,New Democratic Party,NDP,t,5486,f,3
+26,1963-04-08,ON,127,NICKEL BELT,15267,"DEGARIE, Oscar",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,3524,f,4
+26,1963-04-08,ON,128,NIPISSING,15270,"GARLAND, Jack",Liberal,75,Liberal,Lib,t,16547,f,1
+26,1963-04-08,ON,128,NIPISSING,15271,"HEWITT, Cec",Progressive Conservative,124,Progressive Conservative Party,PC,t,7283,f,2
+26,1963-04-08,ON,128,NIPISSING,15272,"KOWALCHUK, Bill",New Democratic Party,100,New Democratic Party,NDP,t,2351,f,3
+26,1963-04-08,ON,128,NIPISSING,15273,"LAROCQUE, Raymond",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1587,f,4
+26,1963-04-08,ON,129,NORFOLK,15274,"ROXBURGH, Jack M.",Liberal,75,Liberal,Lib,t,10862,f,1
+26,1963-04-08,ON,129,NORFOLK,15275,"KNOWLES, J. Evans",Progressive Conservative,124,Progressive Conservative Party,PC,t,10115,f,2
+26,1963-04-08,ON,129,NORFOLK,15276,"PADYK, Leonard",New Democratic Party,100,New Democratic Party,NDP,t,1156,f,3
+26,1963-04-08,ON,129,NORFOLK,15277,"JUDD, James W.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,594,f,4
+26,1963-04-08,ON,130,NORTHUMBERLAND,15278,"JEWETT, Pauline",Liberal,75,Liberal,Lib,t,10343,f,1
+26,1963-04-08,ON,130,NORTHUMBERLAND,15279,"BRADLEY, Harry",Progressive Conservative,124,Progressive Conservative Party,PC,t,9838,f,2
+26,1963-04-08,ON,130,NORTHUMBERLAND,15280,"MABEE, Fred Keith",New Democratic Party,100,New Democratic Party,NDP,t,621,f,3
+26,1963-04-08,ON,130,NORTHUMBERLAND,15281,"BEAUDRY, Gérard",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,388,f,4
+26,1963-04-08,ON,131,ONTARIO,15282,"STARR, Michael",Progressive Conservative,124,Progressive Conservative Party,PC,t,22902,f,1
+26,1963-04-08,ON,131,ONTARIO,15283,"CAFIK, Norman A.",Liberal,75,Liberal,Lib,t,20174,f,2
+26,1963-04-08,ON,131,ONTARIO,15284,"HALL, Aileen",New Democratic Party,100,New Democratic Party,NDP,t,15020,f,3
+26,1963-04-08,ON,132,OTTAWA EAST,15285,"RICHARD, J.-T.",Liberal,75,Liberal,Lib,t,12043,f,1
+26,1963-04-08,ON,132,OTTAWA EAST,15286,"PARISIEN, Yves",Independent Liberal,58,Independent Liberal,IndLib,f,6574,f,2
+26,1963-04-08,ON,132,OTTAWA EAST,15287,"LE LACHEUR, Rex",Progressive Conservative,124,Progressive Conservative Party,PC,t,3964,f,3
+26,1963-04-08,ON,132,OTTAWA EAST,15288,"TOWNSEND, Ruth",New Democratic Party,100,New Democratic Party,NDP,t,1433,f,4
+26,1963-04-08,ON,132,OTTAWA EAST,15289,"BOULANGER, Roger",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,930,f,5
+26,1963-04-08,ON,132,OTTAWA EAST,15290,"BORDELEAU, Laurent",Independent Progressive Conservative,62,Independent Progressive Conservative,IndProgCon,f,349,f,6
+26,1963-04-08,ON,133,OTTAWA WEST,15291,"MCILRAITH, George",Liberal,75,Liberal,Lib,t,18634,f,1
+26,1963-04-08,ON,133,OTTAWA WEST,15292,"HUESTON, Don",Progressive Conservative,124,Progressive Conservative Party,PC,t,9852,f,2
+26,1963-04-08,ON,133,OTTAWA WEST,15293,"HUGGINS, Brian E.",New Democratic Party,100,New Democratic Party,NDP,t,1422,f,3
+26,1963-04-08,ON,133,OTTAWA WEST,15294,"RICHARDSON, F.D.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,924,f,4
+26,1963-04-08,ON,134,OXFORD,15295,"NESBITT, Wally",Progressive Conservative,124,Progressive Conservative Party,PC,t,19402,f,1
+26,1963-04-08,ON,134,OXFORD,15296,"YOUNG, William",Liberal,75,Liberal,Lib,t,10359,f,2
+26,1963-04-08,ON,134,OXFORD,15297,"VALE, Wilf",New Democratic Party,100,New Democratic Party,NDP,t,1550,f,3
+26,1963-04-08,ON,134,OXFORD,15298,"ELSOM, Margaret",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,805,f,4
+26,1963-04-08,ON,135,PARKDALE,15299,"HAIDASZ, Stanley",Liberal,75,Liberal,Lib,t,12694,f,1
+26,1963-04-08,ON,135,PARKDALE,15300,"DYMOND, William C.",Progressive Conservative,124,Progressive Conservative Party,PC,t,6308,f,2
+26,1963-04-08,ON,135,PARKDALE,15301,"CAMPBELL, Tom",New Democratic Party,100,New Democratic Party,NDP,t,5538,f,3
+26,1963-04-08,ON,135,PARKDALE,15302,"SLOAN, Olive E. Calvert",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,259,f,4
+26,1963-04-08,ON,136,PARRY SOUND--MUSKOKA,15303,"AIKEN, Gordon Harvey",Progressive Conservative,124,Progressive Conservative Party,PC,t,12132,f,1
+26,1963-04-08,ON,136,PARRY SOUND--MUSKOKA,15304,"TAYLOR, Gerald M.",Liberal,75,Liberal,Lib,t,10598,f,2
+26,1963-04-08,ON,136,PARRY SOUND--MUSKOKA,15305,"AGNEW, Ward",New Democratic Party,100,New Democratic Party,NDP,t,2169,f,3
+26,1963-04-08,ON,136,PARRY SOUND--MUSKOKA,15306,"MACDONALD, Alex S.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1033,f,4
+26,1963-04-08,ON,137,PEEL,15307,"BEER, Bruce S.",Liberal,75,Liberal,Lib,t,28009,f,1
+26,1963-04-08,ON,137,PEEL,15309,"FOX, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,15921,f,2
+26,1963-04-08,ON,137,PEEL,15308,"LAWLOR, Patrick",New Democratic Party,100,New Democratic Party,NDP,t,8836,f,3
+26,1963-04-08,ON,137,PEEL,15310,"SIBBALD, Ronald Gordon",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,354,f,4
+26,1963-04-08,ON,138,PERTH,15311,"MONTEITH, J. Waldo",Progressive Conservative,124,Progressive Conservative Party,PC,t,15328,f,1
+26,1963-04-08,ON,138,PERTH,15312,"BISSONNETTE, R. Neill",Liberal,75,Liberal,Lib,t,10442,f,2
+26,1963-04-08,ON,138,PERTH,15313,"SOPER, Thomas O.",New Democratic Party,100,New Democratic Party,NDP,t,1065,f,3
+26,1963-04-08,ON,139,PETERBOROUGH,15314,"STENSON, Fred",Progressive Conservative,124,Progressive Conservative Party,PC,t,11909,f,1
+26,1963-04-08,ON,139,PETERBOROUGH,15315,"PITMAN, Walter",New Democratic Party,100,New Democratic Party,NDP,t,11131,f,2
+26,1963-04-08,ON,139,PETERBOROUGH,15316,"FAULKNER, Hugh",Liberal,75,Liberal,Lib,t,9927,f,3
+26,1963-04-08,ON,139,PETERBOROUGH,15317,"HARTMAN, David E.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,180,f,4
+26,1963-04-08,ON,140,PORT ARTHUR,15318,"FISHER, Douglas M.",New Democratic Party,100,New Democratic Party,NDP,t,16141,f,1
+26,1963-04-08,ON,140,PORT ARTHUR,15319,"LASKIN, Saul",Liberal,75,Liberal,Lib,t,13132,f,2
+26,1963-04-08,ON,140,PORT ARTHUR,15320,"SMITH, Harvey W.",Progressive Conservative,124,Progressive Conservative Party,PC,t,6316,f,3
+26,1963-04-08,ON,141,PRINCE EDWARD--LENNOX,15321,"ALKENBRACK, A. Douglas",Progressive Conservative,124,Progressive Conservative Party,PC,t,8869,f,1
+26,1963-04-08,ON,141,PRINCE EDWARD--LENNOX,15322,"WOOLSEY, Lloyd Douglas",Liberal,75,Liberal,Lib,t,7516,f,2
+26,1963-04-08,ON,141,PRINCE EDWARD--LENNOX,15323,"WEESE, Howard",New Democratic Party,100,New Democratic Party,NDP,t,863,f,3
+26,1963-04-08,ON,141,PRINCE EDWARD--LENNOX,15324,"O'MARRA, Lawrence R.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,117,f,4
+26,1963-04-08,ON,142,RENFREW NORTH,15325,"FORGIE, James Moffat",Liberal,75,Liberal,Lib,t,11580,f,1
+26,1963-04-08,ON,142,RENFREW NORTH,15326,"FRASER, E. Mac",Progressive Conservative,124,Progressive Conservative Party,PC,t,9089,f,2
+26,1963-04-08,ON,142,RENFREW NORTH,15327,"BRUBACHER, Enos",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1712,f,3
+26,1963-04-08,ON,142,RENFREW NORTH,15328,"CHARBONNEAU, Wilfred L.",New Democratic Party,100,New Democratic Party,NDP,t,947,f,4
+26,1963-04-08,ON,143,RENFREW SOUTH,15329,"GREENE, John James",Liberal,75,Liberal,Lib,t,8765,f,1
+26,1963-04-08,ON,143,RENFREW SOUTH,15330,"BASKIN, James William",Progressive Conservative,124,Progressive Conservative Party,PC,t,8210,f,2
+26,1963-04-08,ON,143,RENFREW SOUTH,15331,"WELK, Leonard Eric",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,393,f,3
+26,1963-04-08,ON,143,RENFREW SOUTH,15332,"BRIGINSHAW, Ernest Henry",New Democratic Party,100,New Democratic Party,NDP,t,316,f,4
+26,1963-04-08,ON,144,ROSEDALE,15333,"MACDONALD, Donald S.",Liberal,75,Liberal,Lib,t,12860,f,1
+26,1963-04-08,ON,144,ROSEDALE,15334,"JACKMAN, Hal",Progressive Conservative,124,Progressive Conservative Party,PC,t,6803,f,2
+26,1963-04-08,ON,144,ROSEDALE,15335,"BISHOP, Harding E.",New Democratic Party,100,New Democratic Party,NDP,t,3534,f,3
+26,1963-04-08,ON,144,ROSEDALE,15336,"LESLIE, George",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,240,f,4
+26,1963-04-08,ON,145,RUSSELL,15337,"TARDIF, Paul",Liberal,75,Liberal,Lib,t,31182,f,1
+26,1963-04-08,ON,145,RUSSELL,15338,"POIRIER, Joe",Progressive Conservative,124,Progressive Conservative Party,PC,t,14892,f,2
+26,1963-04-08,ON,145,RUSSELL,15339,"WILSON, Harold",New Democratic Party,100,New Democratic Party,NDP,t,3191,f,3
+26,1963-04-08,ON,145,RUSSELL,15340,"COTE, Léo",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2938,f,4
+26,1963-04-08,ON,146,SIMCOE EAST,15341,"RYNARD, Philip Bernard",Progressive Conservative,124,Progressive Conservative Party,PC,t,12662,f,1
+26,1963-04-08,ON,146,SIMCOE EAST,15342,"GIGNAC, Jerome J.",Liberal,75,Liberal,Lib,t,9324,f,2
+26,1963-04-08,ON,146,SIMCOE EAST,15343,"RINTOUL, C. Perrie",New Democratic Party,100,New Democratic Party,NDP,t,2031,f,3
+26,1963-04-08,ON,146,SIMCOE EAST,15344,"PINKNEY, Bob",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1054,f,4
+26,1963-04-08,ON,147,SIMCOE NORTH,15345,"SMITH, Heber",Progressive Conservative,124,Progressive Conservative Party,PC,t,10157,f,1
+26,1963-04-08,ON,147,SIMCOE NORTH,15346,"SNELGROVE, Ralph",Liberal,75,Liberal,Lib,t,8374,f,2
+26,1963-04-08,ON,147,SIMCOE NORTH,15347,"KINZIE, Williard",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1961,f,3
+26,1963-04-08,ON,147,SIMCOE NORTH,15348,"POGUE, Russell",New Democratic Party,100,New Democratic Party,NDP,t,963,f,4
+26,1963-04-08,ON,147,SIMCOE NORTH,15349,"BROWNE, Jack",Independent Conservative,56,Independent Conservative,IndCon,f,678,f,5
+26,1963-04-08,ON,148,SPADINA,15350,"RYAN, Perry",Liberal,75,Liberal,Lib,t,14850,f,1
+26,1963-04-08,ON,148,SPADINA,15351,"CHAMBERS, Frank",Progressive Conservative,124,Progressive Conservative Party,PC,t,6094,f,2
+26,1963-04-08,ON,148,SPADINA,15352,"BEARDSLEY, Robert",New Democratic Party,100,New Democratic Party,NDP,t,5888,f,3
+26,1963-04-08,ON,148,SPADINA,15353,"TOMASINI, Angelo",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,332,f,4
+26,1963-04-08,ON,149,ST. PAUL'S,15354,"WAHN, Ian Grant",Liberal,75,Liberal,Lib,t,15891,f,1
+26,1963-04-08,ON,149,ST. PAUL'S,15355,"ALDRED, Joel W.",Progressive Conservative,124,Progressive Conservative Party,PC,t,7795,f,2
+26,1963-04-08,ON,149,ST. PAUL'S,15356,"STEVENSON, Don",New Democratic Party,100,New Democratic Party,NDP,t,3794,f,3
+26,1963-04-08,ON,149,ST. PAUL'S,15357,"CARMICHAEL, Neil",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,543,f,4
+26,1963-04-08,ON,150,STORMONT,15358,"LAMOUREUX, Lucien",Liberal,75,Liberal,Lib,t,13285,f,1
+26,1963-04-08,ON,150,STORMONT,15360,"ALGUIRE, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,9728,f,2
+26,1963-04-08,ON,150,STORMONT,15361,"BOILEAU, Ludger",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,851,f,3
+26,1963-04-08,ON,150,STORMONT,15359,"KILGER, Bill",New Democratic Party,100,New Democratic Party,NDP,t,801,f,4
+26,1963-04-08,ON,151,SUDBURY,15362,"MITCHELL, Rodger",Liberal,75,Liberal,Lib,t,15794,f,1
+26,1963-04-08,ON,151,SUDBURY,15364,"DIXON, Tom",Progressive Conservative,124,Progressive Conservative Party,PC,t,8597,f,2
+26,1963-04-08,ON,151,SUDBURY,15365,"MASIH, John",New Democratic Party,100,New Democratic Party,NDP,t,5472,f,3
+26,1963-04-08,ON,151,SUDBURY,15363,"MAHER, Murray R.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2180,f,4
+26,1963-04-08,ON,151,SUDBURY,15366,"BOYCHUCK, Peter",Communist Party of Canada,31,Communist Party,Com,f,311,f,5
+26,1963-04-08,ON,152,TIMISKAMING,15367,"PETERS, Arnold",New Democratic Party,100,New Democratic Party,NDP,t,7356,f,1
+26,1963-04-08,ON,152,TIMISKAMING,15368,"LAVIGNE, Mervyn",Liberal,75,Liberal,Lib,t,6763,f,2
+26,1963-04-08,ON,152,TIMISKAMING,15370,"CRAM, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,5540,f,3
+26,1963-04-08,ON,152,TIMISKAMING,15369,"SAMSON, Camil",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2033,f,4
+26,1963-04-08,ON,153,TIMMINS,15371,"MARTIN, Murdo",New Democratic Party,100,New Democratic Party,NDP,t,8452,f,1
+26,1963-04-08,ON,153,TIMMINS,15373,"DEL VILLANO, Leo",Liberal,75,Liberal,Lib,t,7592,f,2
+26,1963-04-08,ON,153,TIMMINS,15374,"BRUNETTE, J.-Emile",Progressive Conservative,124,Progressive Conservative Party,PC,t,3068,f,3
+26,1963-04-08,ON,153,TIMMINS,15372,"LAROCHELLE, Clément-G.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,719,f,4
+26,1963-04-08,ON,154,TRINITY,15375,"HELLYER, Paul",Liberal,75,Liberal,Lib,t,10595,f,1
+26,1963-04-08,ON,154,TRINITY,15377,"WASYLENKO, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,5171,f,2
+26,1963-04-08,ON,154,TRINITY,15376,"PATON, Thomas",New Democratic Party,100,New Democratic Party,NDP,t,3512,f,3
+26,1963-04-08,ON,154,TRINITY,15378,"MORRIS, Leslie",Communist Party of Canada,31,Communist Party,Com,f,391,f,4
+26,1963-04-08,ON,155,VICTORIA,15379,"LAMB, Charles",Progressive Conservative,124,Progressive Conservative Party,PC,t,10538,f,1
+26,1963-04-08,ON,155,VICTORIA,15380,"BENSON, S. Clifton",Liberal,75,Liberal,Lib,t,9572,f,2
+26,1963-04-08,ON,155,VICTORIA,15381,"MCPHAIL, Allan Gordon",New Democratic Party,100,New Democratic Party,NDP,t,2994,f,3
+26,1963-04-08,ON,156,WATERLOO NORTH,15382,"WEICHEL, O.W. Mike",Progressive Conservative,124,Progressive Conservative Party,PC,t,22007,f,1
+26,1963-04-08,ON,156,WATERLOO NORTH,15383,"WEBER, Donald",Liberal,75,Liberal,Lib,t,21366,f,2
+26,1963-04-08,ON,156,WATERLOO NORTH,15384,"WALTER, John",New Democratic Party,100,New Democratic Party,NDP,t,6200,f,3
+26,1963-04-08,ON,156,WATERLOO NORTH,15385,"LAUER, M.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1157,f,4
+26,1963-04-08,ON,157,WATERLOO SOUTH,15386,"CHAPLIN, Gordon",Progressive Conservative,124,Progressive Conservative Party,PC,t,11479,f,1
+26,1963-04-08,ON,157,WATERLOO SOUTH,15387,"SHAVER, Don",Liberal,75,Liberal,Lib,t,8792,f,2
+26,1963-04-08,ON,157,WATERLOO SOUTH,15388,"STEWART, Rod",New Democratic Party,100,New Democratic Party,NDP,t,7403,f,3
+26,1963-04-08,ON,157,WATERLOO SOUTH,15389,"BEZAN, Ted",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,372,f,4
+26,1963-04-08,ON,158,WELLAND,15390,"MCMILLAN, William H.",Liberal,75,Liberal,Lib,t,19879,f,1
+26,1963-04-08,ON,158,WELLAND,15391,"GOLDRING, Francis",Progressive Conservative,124,Progressive Conservative Party,PC,t,9291,f,2
+26,1963-04-08,ON,158,WELLAND,15394,"MERSEREAU, Guy",New Democratic Party,100,New Democratic Party,NDP,t,5010,f,3
+26,1963-04-08,ON,158,WELLAND,15392,"PATTERSON, J.M.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1413,f,4
+26,1963-04-08,ON,158,WELLAND,15393,"HASLAM, Frank",Communist Party of Canada,31,Communist Party,Com,f,372,f,5
+26,1963-04-08,ON,159,WELLINGTON SOUTH,15395,"HALES, Alfred Dryden",Progressive Conservative,124,Progressive Conservative Party,PC,t,11350,f,1
+26,1963-04-08,ON,159,WELLINGTON SOUTH,15398,"DENT, Ralph",Liberal,75,Liberal,Lib,t,10713,f,2
+26,1963-04-08,ON,159,WELLINGTON SOUTH,15397,"HARNEY, John",New Democratic Party,100,New Democratic Party,NDP,t,6391,f,3
+26,1963-04-08,ON,159,WELLINGTON SOUTH,15396,"YOUD, Reginald",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,150,f,4
+26,1963-04-08,ON,160,WELLINGTON--HURON,15399,"HOWE, Marvin",Progressive Conservative,124,Progressive Conservative Party,PC,t,8391,f,1
+26,1963-04-08,ON,160,WELLINGTON--HURON,15401,"TILDEN, Bill",Liberal,75,Liberal,Lib,t,5809,f,2
+26,1963-04-08,ON,160,WELLINGTON--HURON,15400,"MABEE, Oliver",New Democratic Party,100,New Democratic Party,NDP,t,1152,f,3
+26,1963-04-08,ON,161,WENTWORTH,15402,"MORISON, John",Liberal,75,Liberal,Lib,t,18589,f,1
+26,1963-04-08,ON,161,WENTWORTH,15403,"SAMS, Joe R.",Progressive Conservative,124,Progressive Conservative Party,PC,t,17640,f,2
+26,1963-04-08,ON,161,WENTWORTH,15404,"POMEROY, Harry",New Democratic Party,100,New Democratic Party,NDP,t,8088,f,3
+26,1963-04-08,ON,162,YORK CENTRE,15405,"WALKER, Jim",Liberal,75,Liberal,Lib,t,41485,f,1
+26,1963-04-08,ON,162,YORK CENTRE,15407,"SCOTT, Val",New Democratic Party,100,New Democratic Party,NDP,t,28505,f,2
+26,1963-04-08,ON,162,YORK CENTRE,15406,"DUROVIC, Bill",Progressive Conservative,124,Progressive Conservative Party,PC,t,12807,f,3
+26,1963-04-08,ON,163,YORK EAST,15408,"OTTO, Steve",Liberal,75,Liberal,Lib,t,21038,f,1
+26,1963-04-08,ON,163,YORK EAST,15411,"BLAIR, Willis L.",Progressive Conservative,124,Progressive Conservative Party,PC,t,14777,f,2
+26,1963-04-08,ON,163,YORK EAST,15409,"DUNKLEY, Sid",New Democratic Party,100,New Democratic Party,NDP,t,11234,f,3
+26,1963-04-08,ON,163,YORK EAST,15410,"MACKIE, James",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,349,f,4
+26,1963-04-08,ON,164,YORK NORTH,15412,"ADDISON, John",Liberal,75,Liberal,Lib,t,21668,f,1
+26,1963-04-08,ON,164,YORK NORTH,15413,"HOOPER, Charles",Progressive Conservative,124,Progressive Conservative Party,PC,t,14488,f,2
+26,1963-04-08,ON,164,YORK NORTH,15414,"HALL, Stan",New Democratic Party,100,New Democratic Party,NDP,t,8591,f,3
+26,1963-04-08,ON,164,YORK NORTH,15415,"O'BRIEN, John R.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,330,f,4
+26,1963-04-08,ON,165,YORK SOUTH,15416,"GELBER, Marvin",Liberal,75,Liberal,Lib,t,21042,f,1
+26,1963-04-08,ON,165,YORK SOUTH,15417,"LEWIS, David",New Democratic Party,100,New Democratic Party,NDP,t,17396,f,2
+26,1963-04-08,ON,165,YORK SOUTH,15418,"BEECH, William G.",Progressive Conservative,124,Progressive Conservative Party,PC,t,9648,f,3
+26,1963-04-08,ON,166,YORK WEST,15419,"KELLY, Red",Liberal,75,Liberal,Lib,t,41480,f,1
+26,1963-04-08,ON,166,YORK WEST,15420,"EAGLESON, R. Alan",Progressive Conservative,124,Progressive Conservative Party,PC,t,24479,f,2
+26,1963-04-08,ON,166,YORK WEST,15421,"MIDDLETON, David",New Democratic Party,100,New Democratic Party,NDP,t,14003,f,3
+26,1963-04-08,ON,166,YORK WEST,15422,"MILNE, David R.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,697,f,4
+26,1963-04-08,ON,167,YORK--HUMBER,15423,"COWAN, Ralph B.",Liberal,75,Liberal,Lib,t,20188,f,1
+26,1963-04-08,ON,167,YORK--HUMBER,15425,"MORTON, M. Douglas",Progressive Conservative,124,Progressive Conservative Party,PC,t,12218,f,2
+26,1963-04-08,ON,167,YORK--HUMBER,15424,"MILLARD, Charlie H.",New Democratic Party,100,New Democratic Party,NDP,t,11821,f,3
+26,1963-04-08,ON,168,YORK--SCARBOROUGH,15426,"MOREAU, Maurice J.",Liberal,75,Liberal,Lib,t,63049,f,1
+26,1963-04-08,ON,168,YORK--SCARBOROUGH,15428,"MCGEE, Frank",Progressive Conservative,124,Progressive Conservative Party,PC,t,41535,f,2
+26,1963-04-08,ON,168,YORK--SCARBOROUGH,15429,"PHILLIPS, Edward G.",New Democratic Party,100,New Democratic Party,NDP,t,26819,f,3
+26,1963-04-08,ON,168,YORK--SCARBOROUGH,15427,"FORD, J. Alex",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,895,f,4
+26,1963-04-08,PE,169,KING'S,15430,"MULLALLY, John",Liberal,75,Liberal,Lib,t,4705,f,1
+26,1963-04-08,PE,169,KING'S,15431,"MACDONALD, Margaret Mary",Progressive Conservative,124,Progressive Conservative Party,PC,t,4304,f,2
+26,1963-04-08,PE,169,KING'S,15432,"DUNPHY, Brendon",New Democratic Party,100,New Democratic Party,NDP,t,62,f,3
+26,1963-04-08,PE,170,PRINCE,15433,"MACNAUGHT, J. Watson",Liberal,75,Liberal,Lib,t,8967,f,1
+26,1963-04-08,PE,170,PRINCE,15434,"MONKLEY, G. Lorne",Progressive Conservative,124,Progressive Conservative Party,PC,t,8387,f,2
+26,1963-04-08,PE,170,PRINCE,15435,"MCINNIS, Gregory",New Democratic Party,100,New Democratic Party,NDP,t,247,f,3
+26,1963-04-08,PE,171,QUEEN'S-1,15437,"MACLEAN, J. Angus",Progressive Conservative,124,Progressive Conservative Party,PC,t,11666,f,1
+26,1963-04-08,PE,171,QUEEN'S-1,15439,"LEWIS, Ira",Liberal,75,Liberal,Lib,t,9257,f,2
+26,1963-04-08,PE,171,QUEEN'S-1,15441,"ARSENAULT, Leonard E.",New Democratic Party,100,New Democratic Party,NDP,t,264,f,3
+26,1963-04-08,PE,172,QUEEN'S-2,15436,"MACQUARRIE, Heath",Progressive Conservative,124,Progressive Conservative Party,PC,t,11608,f,1
+26,1963-04-08,PE,172,QUEEN'S-2,15440,"GILLIS, Allison M.",Liberal,75,Liberal,Lib,t,9144,f,2
+26,1963-04-08,PE,172,QUEEN'S-2,15438,"MACLEAN, Alexander",New Democratic Party,100,New Democratic Party,NDP,t,567,f,3
+26,1963-04-08,QC,173,ARGENTEUIL--DEUX-MONTAGNES,15442,"DROUIN, Vincent",Liberal,75,Liberal,Lib,t,12324,f,1
+26,1963-04-08,QC,173,ARGENTEUIL--DEUX-MONTAGNES,15443,"REGIMBAL, Roger-E.",Progressive Conservative,124,Progressive Conservative Party,PC,t,10176,f,2
+26,1963-04-08,QC,173,ARGENTEUIL--DEUX-MONTAGNES,15444,"GOUGEON, Maurice",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,5114,f,3
+26,1963-04-08,QC,173,ARGENTEUIL--DEUX-MONTAGNES,15445,"HEBERT, Maurice-W.",New Democratic Party,100,New Democratic Party,NDP,t,1179,f,4
+26,1963-04-08,QC,174,BEAUCE,15446,"PERRON, Gérard",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,12627,f,1
+26,1963-04-08,QC,174,BEAUCE,15449,"RACINE, Jean-Paul",Liberal,75,Liberal,Lib,t,10532,f,2
+26,1963-04-08,QC,174,BEAUCE,15447,"BEAUDOIN, Serge",Progressive Conservative,124,Progressive Conservative Party,PC,t,1134,f,3
+26,1963-04-08,QC,174,BEAUCE,15448,"MORIN, Jean-Claude",New Democratic Party,100,New Democratic Party,NDP,t,740,f,4
+26,1963-04-08,QC,175,BEAUHARNOIS--SALABERRY,15450,"LANIEL, Gérald",Liberal,75,Liberal,Lib,t,15892,f,1
+26,1963-04-08,QC,175,BEAUHARNOIS--SALABERRY,15451,"BOYER, Jean",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,7836,f,2
+26,1963-04-08,QC,175,BEAUHARNOIS--SALABERRY,15452,"PAIEMENT, Florian",Progressive Conservative,124,Progressive Conservative Party,PC,t,5440,f,3
+26,1963-04-08,QC,175,BEAUHARNOIS--SALABERRY,15453,"BOSSE, Denis",New Democratic Party,100,New Democratic Party,NDP,t,1795,f,4
+26,1963-04-08,QC,176,BELLECHASSE,15454,"LAVERDIERE, Herman",Liberal,75,Liberal,Lib,t,5434,f,1
+26,1963-04-08,QC,176,BELLECHASSE,15456,"DUMONT, Bernard",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,5367,f,2
+26,1963-04-08,QC,176,BELLECHASSE,15455,"LALIBERTE, Maurice",Progressive Conservative,124,Progressive Conservative Party,PC,t,1291,f,3
+26,1963-04-08,QC,177,BERTHIER--MASKINONGÉ--DELANAUDIÈRE,15457,"PAUL, Rémi",Progressive Conservative,124,Progressive Conservative Party,PC,t,8471,f,1
+26,1963-04-08,QC,177,BERTHIER--MASKINONGÉ--DELANAUDIÈRE,15458,"SAVARD, Maurice",Liberal,75,Liberal,Lib,t,8178,f,2
+26,1963-04-08,QC,177,BERTHIER--MASKINONGÉ--DELANAUDIÈRE,15459,"GABOURY, René-Paul",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,3339,f,3
+26,1963-04-08,QC,177,BERTHIER--MASKINONGÉ--DELANAUDIÈRE,15460,"BELLEMARE, Mendoza",New Democratic Party,100,New Democratic Party,NDP,t,392,f,4
+26,1963-04-08,QC,178,BONAVENTURE,15461,"BECHARD, Albert",Liberal,75,Liberal,Lib,t,9092,f,1
+26,1963-04-08,QC,178,BONAVENTURE,15463,"BERNARD, J.-O-Gérard",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4302,f,2
+26,1963-04-08,QC,178,BONAVENTURE,15462,"GRENIER, Lucien",Progressive Conservative,124,Progressive Conservative Party,PC,t,2785,f,3
+26,1963-04-08,QC,179,BROME--MISSISQUOI,15464,"GRAFFTEY, Heward",Progressive Conservative,124,Progressive Conservative Party,PC,t,8411,f,1
+26,1963-04-08,QC,179,BROME--MISSISQUOI,15465,"DUQUETTE, Léo",Liberal,75,Liberal,Lib,t,7105,f,2
+26,1963-04-08,QC,179,BROME--MISSISQUOI,15466,"RUEL, Normand",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2468,f,3
+26,1963-04-08,QC,179,BROME--MISSISQUOI,15467,"BISSON, Giles",New Democratic Party,100,New Democratic Party,NDP,t,856,f,4
+26,1963-04-08,QC,180,CARTIER,15468,"KLEIN, Milton L.",Liberal,75,Liberal,Lib,t,6642,f,1
+26,1963-04-08,QC,180,CARTIER,15469,"BARDEN, Charles S.",Progressive Conservative,124,Progressive Conservative Party,PC,t,2788,f,2
+26,1963-04-08,QC,180,CARTIER,15471,"BINETTE, Georges",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2162,f,3
+26,1963-04-08,QC,180,CARTIER,15470,"MILLER, William I.",New Democratic Party,100,New Democratic Party,NDP,t,1918,f,4
+26,1963-04-08,QC,181,CHAMBLY--ROUVILLE,15472,"PILON, Bernard",Liberal,75,Liberal,Lib,t,13850,f,1
+26,1963-04-08,QC,181,CHAMBLY--ROUVILLE,15475,"LUSSIER, Camille",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4887,f,2
+26,1963-04-08,QC,181,CHAMBLY--ROUVILLE,15474,"PETIT, Roger-E.-N.",Progressive Conservative,124,Progressive Conservative Party,PC,t,3412,f,3
+26,1963-04-08,QC,181,CHAMBLY--ROUVILLE,15473,"LEFEBVRE, Bernard",New Democratic Party,100,New Democratic Party,NDP,t,2311,f,4
+26,1963-04-08,QC,182,CHAMPLAIN,15476,"MATTE, Jean-Paul",Liberal,75,Liberal,Lib,t,12446,f,1
+26,1963-04-08,QC,182,CHAMPLAIN,15477,"ARVISAIS, Origène",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,7470,f,2
+26,1963-04-08,QC,182,CHAMPLAIN,15478,"MARCOTTE, Gaston",Progressive Conservative,124,Progressive Conservative Party,PC,t,7287,f,3
+26,1963-04-08,QC,182,CHAMPLAIN,15479,"BERGERON, J.-Albert",New Democratic Party,100,New Democratic Party,NDP,t,570,f,4
+26,1963-04-08,QC,183,CHAPLEAU,15480,"LAPRISE, Gérard",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,14701,f,1
+26,1963-04-08,QC,183,CHAPLEAU,15481,"BEAUDRY, Théo.",Liberal,75,Liberal,Lib,t,5955,f,2
+26,1963-04-08,QC,183,CHAPLEAU,15482,"FALARDEAU, Gérard",Progressive Conservative,124,Progressive Conservative Party,PC,t,4205,f,3
+26,1963-04-08,QC,184,CHARLEVOIX,15483,"BELANGER, L.P.-Antoine",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,7390,f,1
+26,1963-04-08,QC,184,CHARLEVOIX,15485,"ASSELIN, Martial",Progressive Conservative,124,Progressive Conservative Party,PC,t,6843,f,2
+26,1963-04-08,QC,184,CHARLEVOIX,15484,"BOUCHARD, Meredy",Liberal,75,Liberal,Lib,t,5787,f,3
+26,1963-04-08,QC,185,CHICOUTIMI,15486,"COTE, Maurice",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,14581,f,1
+26,1963-04-08,QC,185,CHICOUTIMI,15487,"TREMBLAY, Gérard",Liberal,75,Liberal,Lib,t,10334,f,2
+26,1963-04-08,QC,185,CHICOUTIMI,15488,"BOUCHARD, Claude",Progressive Conservative,124,Progressive Conservative Party,PC,t,3670,f,3
+26,1963-04-08,QC,185,CHICOUTIMI,15489,"VILLENEUVE, Maurice",New Democratic Party,100,New Democratic Party,NDP,t,2687,f,4
+26,1963-04-08,QC,186,CHÂTEAUGUAY--HUNTINGDON--LAPRAIRIE,15490,"WATSON, Ian",Liberal,75,Liberal,Lib,t,10746,f,1
+26,1963-04-08,QC,186,CHÂTEAUGUAY--HUNTINGDON--LAPRAIRIE,15493,"BERIAULT, Raymond-J.",Progressive Conservative,124,Progressive Conservative Party,PC,t,6926,f,2
+26,1963-04-08,QC,186,CHÂTEAUGUAY--HUNTINGDON--LAPRAIRIE,15492,"BOILEAU, Gaston",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4039,f,3
+26,1963-04-08,QC,186,CHÂTEAUGUAY--HUNTINGDON--LAPRAIRIE,15491,"TREMBLAY, Jean-Guy",New Democratic Party,100,New Democratic Party,NDP,t,1226,f,4
+26,1963-04-08,QC,187,COMPTON--FRONTENAC,15494,"LATULIPPE, Henry",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,6234,f,1
+26,1963-04-08,QC,187,COMPTON--FRONTENAC,15496,"DOUGHERTY, Cecil W.",Liberal,75,Liberal,Lib,t,5673,f,2
+26,1963-04-08,QC,187,COMPTON--FRONTENAC,15495,"GOBEIL, Estelle",Progressive Conservative,124,Progressive Conservative Party,PC,t,3471,f,3
+26,1963-04-08,QC,187,COMPTON--FRONTENAC,15497,"LOWRY, Curtis",New Democratic Party,100,New Democratic Party,NDP,t,445,f,4
+26,1963-04-08,QC,188,DOLLARD,15498,"ROULEAU, Guy",Liberal,75,Liberal,Lib,t,23764,f,1
+26,1963-04-08,QC,188,DOLLARD,15502,"BOUDREAU, J.-Émile",New Democratic Party,100,New Democratic Party,NDP,t,6342,f,2
+26,1963-04-08,QC,188,DOLLARD,15501,"MALLETTE, Lucien",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4938,f,3
+26,1963-04-08,QC,188,DOLLARD,15499,"DESAUTELS, Dollard",Progressive Conservative,124,Progressive Conservative Party,PC,t,4693,f,4
+26,1963-04-08,QC,188,DOLLARD,15500,"CARON, Aimé",Independent Liberal,58,Independent Liberal,IndLib,f,1320,f,5
+26,1963-04-08,QC,189,DORCHESTER,15503,"BOUTIN, Pierre-André",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,5830,f,1
+26,1963-04-08,QC,189,DORCHESTER,15504,"O'FARRELL, Francis",Liberal,75,Liberal,Lib,t,4801,f,2
+26,1963-04-08,QC,189,DORCHESTER,15505,"PERRON, Robert",Progressive Conservative,124,Progressive Conservative Party,PC,t,3597,f,3
+26,1963-04-08,QC,190,DRUMMOND--ARTHABASKA,15506,"PEPIN, Jean-Luc",Liberal,75,Liberal,Lib,t,17338,f,1
+26,1963-04-08,QC,190,DRUMMOND--ARTHABASKA,15507,"OUELLET, David",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,14739,f,2
+26,1963-04-08,QC,190,DRUMMOND--ARTHABASKA,15509,"COUTURE, J.-Claude",Progressive Conservative,124,Progressive Conservative Party,PC,t,3416,f,3
+26,1963-04-08,QC,190,DRUMMOND--ARTHABASKA,15508,"LAMBERT, Pierre",New Democratic Party,100,New Democratic Party,NDP,t,1456,f,4
+26,1963-04-08,QC,191,GASPÉ,15510,"CYR, Alexandre",Liberal,75,Liberal,Lib,t,10738,f,1
+26,1963-04-08,QC,191,GASPÉ,15511,"ENGLISH, Roland-Léo",Progressive Conservative,124,Progressive Conservative Party,PC,t,8846,f,2
+26,1963-04-08,QC,191,GASPÉ,15512,"MIGNAULT, J.-Albert",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4208,f,3
+26,1963-04-08,QC,192,GATINEAU,15513,"Leduc, Rodolphe",Liberal,75,Liberal,Lib,t,11589,f,1
+26,1963-04-08,QC,192,GATINEAU,15514,"BEAUDOIN, Conrad",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,6295,f,2
+26,1963-04-08,QC,192,GATINEAU,15515,"VAN DUSEN, Thomas",Progressive Conservative,124,Progressive Conservative Party,PC,t,5861,f,3
+26,1963-04-08,QC,192,GATINEAU,15516,"LABERGE, Roy",New Democratic Party,100,New Democratic Party,NDP,t,1102,f,4
+26,1963-04-08,QC,193,HOCHELAGA,15517,"EUDES, Raymond",Liberal,75,Liberal,Lib,t,13093,f,1
+26,1963-04-08,QC,193,HOCHELAGA,15518,"BOURRET, Fernand",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,7535,f,2
+26,1963-04-08,QC,193,HOCHELAGA,15521,"HEPPELL, J.-Marius",Progressive Conservative,124,Progressive Conservative Party,PC,t,3892,f,3
+26,1963-04-08,QC,193,HOCHELAGA,15519,"LAMOUREUX, Arthur",New Democratic Party,100,New Democratic Party,NDP,t,3394,f,4
+26,1963-04-08,QC,193,HOCHELAGA,15520,"PRATTE, Jeannette",Communist Party of Canada,31,Communist Party,Com,f,327,f,5
+26,1963-04-08,QC,194,HULL,15522,"CARON, Alexis",Liberal,75,Liberal,Lib,t,19667,f,1
+26,1963-04-08,QC,194,HULL,15525,"CLÉMENT, Marcel",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,13603,f,2
+26,1963-04-08,QC,194,HULL,15524,"BARRIÈRE, Jules",Progressive Conservative,124,Progressive Conservative Party,PC,t,2965,f,3
+26,1963-04-08,QC,194,HULL,15523,"MORISSETTE, Claude",New Democratic Party,100,New Democratic Party,NDP,t,891,f,4
+26,1963-04-08,QC,195,JACQUES-CARTIER--LASALLE,15526,"ROCK, Raymond",Liberal,75,Liberal,Lib,t,44299,f,1
+26,1963-04-08,QC,195,JACQUES-CARTIER--LASALLE,15528,"PRATT, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,20260,f,2
+26,1963-04-08,QC,195,JACQUES-CARTIER--LASALLE,15529,"TREMBLAY, Jean-Charles",New Democratic Party,100,New Democratic Party,NDP,t,6167,f,3
+26,1963-04-08,QC,195,JACQUES-CARTIER--LASALLE,15527,"RIVARD, Jean-Gaston",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4637,f,4
+26,1963-04-08,QC,196,JOLIETTE--L'ASSOMPTION--MONTCALM,15530,"PIGEON, Louis-Joseph",Progressive Conservative,124,Progressive Conservative Party,PC,t,16103,f,1
+26,1963-04-08,QC,196,JOLIETTE--L'ASSOMPTION--MONTCALM,15531,"COMTOIS, Joseph-Roland",Liberal,75,Liberal,Lib,t,12299,f,2
+26,1963-04-08,QC,196,JOLIETTE--L'ASSOMPTION--MONTCALM,15533,"PAGETTE, Victor",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,7399,f,3
+26,1963-04-08,QC,196,JOLIETTE--L'ASSOMPTION--MONTCALM,15532,"LEGENDRE, Raymond",New Democratic Party,100,New Democratic Party,NDP,t,2033,f,4
+26,1963-04-08,QC,197,KAMOURASKA,15534,"DIONNE, Chs.-Eugène",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,6286,f,1
+26,1963-04-08,QC,197,KAMOURASKA,15535,"ANCTIL, Rosaire",Liberal,75,Liberal,Lib,t,5659,f,2
+26,1963-04-08,QC,197,KAMOURASKA,15536,"MICHAUD, Paul-Aimé",Progressive Conservative,124,Progressive Conservative Party,PC,t,767,f,3
+26,1963-04-08,QC,197,KAMOURASKA,15537,"ROUSSEAU, Joseph-Eleuthère",New Democratic Party,100,New Democratic Party,NDP,t,143,f,4
+26,1963-04-08,QC,198,LABELLE,15538,"GIROUARD, Gérard",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,6951,f,1
+26,1963-04-08,QC,198,LABELLE,15540,"CLERMONT, Gaston",Liberal,75,Liberal,Lib,t,6632,f,2
+26,1963-04-08,QC,198,LABELLE,15541,"VERMETTE, Gérard",Progressive Conservative,124,Progressive Conservative Party,PC,t,2844,f,3
+26,1963-04-08,QC,198,LABELLE,15539,"MASSÉ, Roland",New Democratic Party,100,New Democratic Party,NDP,t,905,f,4
+26,1963-04-08,QC,199,LAC-SAINT-JEAN,15542,"LESSARD, Marcel",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,9318,f,1
+26,1963-04-08,QC,199,LAC-SAINT-JEAN,15543,"HARVEY, Réal",Liberal,75,Liberal,Lib,t,6219,f,2
+26,1963-04-08,QC,199,LAC-SAINT-JEAN,15544,"OUELLET, Rachel",New Democratic Party,100,New Democratic Party,NDP,t,1524,f,3
+26,1963-04-08,QC,199,LAC-SAINT-JEAN,15545,"DE BEAUMONT, Gilles",Progressive Conservative,124,Progressive Conservative Party,PC,t,1373,f,4
+26,1963-04-08,QC,200,LAFONTAINE,15546,"LACHANCE, Georges-C.",Liberal,75,Liberal,Lib,t,10929,f,1
+26,1963-04-08,QC,200,LAFONTAINE,15549,"SMITH, Roger",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4456,f,2
+26,1963-04-08,QC,200,LAFONTAINE,15547,"FOREST, J.-P.",New Democratic Party,100,New Democratic Party,NDP,t,3340,f,3
+26,1963-04-08,QC,200,LAFONTAINE,15548,"DES ROCHERS, Roméo",Progressive Conservative,124,Progressive Conservative Party,PC,t,2937,f,4
+26,1963-04-08,QC,201,LAPOINTE,15550,"GRÉGOIRE, Gilles",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,13312,f,1
+26,1963-04-08,QC,201,LAPOINTE,15552,"COTÉ, René",Liberal,75,Liberal,Lib,t,8506,f,2
+26,1963-04-08,QC,201,LAPOINTE,15553,"VAILLANCOURT, Henri",Progressive Conservative,124,Progressive Conservative Party,PC,t,3474,f,3
+26,1963-04-08,QC,201,LAPOINTE,15551,"VACHON, Henri",New Democratic Party,100,New Democratic Party,NDP,t,2857,f,4
+26,1963-04-08,QC,202,LAURIER,15554,"CHEVRIER, Lionel",Liberal,75,Liberal,Lib,t,8059,f,1
+26,1963-04-08,QC,202,LAURIER,15555,"CAOUETTE, Gilles",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4282,f,2
+26,1963-04-08,QC,202,LAURIER,15556,"GUILBEAULT, Albert",Progressive Conservative,124,Progressive Conservative Party,PC,t,3245,f,3
+26,1963-04-08,QC,202,LAURIER,15557,"MASSÉ, Paul",New Democratic Party,100,New Democratic Party,NDP,t,2379,f,4
+26,1963-04-08,QC,203,LAVAL,15558,"ROCHON, Jean-L.",Liberal,75,Liberal,Lib,t,43452,f,1
+26,1963-04-08,QC,203,LAVAL,15559,"REEVES, Roland",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,13701,f,2
+26,1963-04-08,QC,203,LAVAL,15560,"LECOURS, Louis-Philippe",New Democratic Party,100,New Democratic Party,NDP,t,12478,f,3
+26,1963-04-08,QC,203,LAVAL,15561,"LONG, Georges",Progressive Conservative,124,Progressive Conservative Party,PC,t,10963,f,4
+26,1963-04-08,QC,204,LONGUEUIL,15562,"COTÉ, Jean-Pierre",Liberal,75,Liberal,Lib,t,17223,f,1
+26,1963-04-08,QC,204,LONGUEUIL,15564,"SÉVIGNY, Pierre",Progressive Conservative,124,Progressive Conservative Party,PC,t,14269,f,2
+26,1963-04-08,QC,204,LONGUEUIL,15565,"CAMIRAND, Bruno",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,7735,f,3
+26,1963-04-08,QC,204,LONGUEUIL,15563,"PHILIPPS, Gérard",New Democratic Party,100,New Democratic Party,NDP,t,3208,f,4
+26,1963-04-08,QC,205,LOTBINIÈRE,15566,"CHOQUETTE, Auguste",Liberal,75,Liberal,Lib,t,6957,f,1
+26,1963-04-08,QC,205,LOTBINIÈRE,15567,"O'HURLEY, Raymond",Progressive Conservative,124,Progressive Conservative Party,PC,t,5449,f,2
+26,1963-04-08,QC,205,LOTBINIÈRE,15568,"LAMONTAGNE, Gérard",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,3442,f,3
+26,1963-04-08,QC,206,LÉVIS,15569,"GUAY, Raynald",Liberal,75,Liberal,Lib,t,9634,f,1
+26,1963-04-08,QC,206,LÉVIS,15570,"ROY, J.-A.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,9315,f,2
+26,1963-04-08,QC,206,LÉVIS,15571,"MORIN, Jean-Marie",Progressive Conservative,124,Progressive Conservative Party,PC,t,4563,f,3
+26,1963-04-08,QC,207,MAISONNEUVE--ROSEMONT,15572,"DESCHATELETS, Jean-Paul",Liberal,75,Liberal,Lib,t,20595,f,1
+26,1963-04-08,QC,207,MAISONNEUVE--ROSEMONT,15575,"DAOUST, Fernand",New Democratic Party,100,New Democratic Party,NDP,t,7798,f,2
+26,1963-04-08,QC,207,MAISONNEUVE--ROSEMONT,15574,"SAVIGNAC, Maurice",Progressive Conservative,124,Progressive Conservative Party,PC,t,7711,f,3
+26,1963-04-08,QC,207,MAISONNEUVE--ROSEMONT,15573,"PELLETIER, Horace",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,6025,f,4
+26,1963-04-08,QC,208,MATAPÉDIA--MATANE,15576,"TREMBLAY, René",Liberal,75,Liberal,Lib,t,10265,f,1
+26,1963-04-08,QC,208,MATAPÉDIA--MATANE,15579,"ALLARD, Eudore",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,7237,f,2
+26,1963-04-08,QC,208,MATAPÉDIA--MATANE,15577,"BELZILE, J.-Alfred",Progressive Conservative,124,Progressive Conservative Party,PC,t,6021,f,3
+26,1963-04-08,QC,208,MATAPÉDIA--MATANE,15578,"RATTÉ, Gérard",Independent Social Credit,64,Independent Social Credit,IndSoCred,f,344,f,4
+26,1963-04-08,QC,209,MERCIER,15580,"BOULANGER, Prosper",Liberal,75,Liberal,Lib,t,33450,f,1
+26,1963-04-08,QC,209,MERCIER,15583,"LAJEUNESSE, Maurice",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,19577,f,2
+26,1963-04-08,QC,209,MERCIER,15582,"GILLET, André",Progressive Conservative,124,Progressive Conservative Party,PC,t,15130,f,3
+26,1963-04-08,QC,209,MERCIER,15581,"PICARD, Gérard",New Democratic Party,100,New Democratic Party,NDP,t,11606,f,4
+26,1963-04-08,QC,210,MONTMAGNY--L'ISLET,15584,"BERGER, Jean",Liberal,75,Liberal,Lib,t,7096,f,1
+26,1963-04-08,QC,210,MONTMAGNY--L'ISLET,15585,"COOK, Jean-Paul",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,5537,f,2
+26,1963-04-08,QC,210,MONTMAGNY--L'ISLET,15586,"PELLETIER, Claire Lizotte",Progressive Conservative,124,Progressive Conservative Party,PC,t,3292,f,3
+26,1963-04-08,QC,211,MOUNT ROYAL,15587,"MACNAUGHTON, Alan",Liberal,75,Liberal,Lib,t,37648,f,1
+26,1963-04-08,QC,211,MOUNT ROYAL,15589,"TAYLOR, Charles",New Democratic Party,100,New Democratic Party,NDP,t,8855,f,2
+26,1963-04-08,QC,211,MOUNT ROYAL,15588,"COONAN, Thomas Joseph",Progressive Conservative,124,Progressive Conservative Party,PC,t,5693,f,3
+26,1963-04-08,QC,211,MOUNT ROYAL,15590,"GORDON, Austin G.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1318,f,4
+26,1963-04-08,QC,212,MÉGANTIC,15591,"LANGLOIS, Raymond",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,11329,f,1
+26,1963-04-08,QC,212,MÉGANTIC,15594,"GILBERT-LESSARD, Luc",Liberal,75,Liberal,Lib,t,9140,f,2
+26,1963-04-08,QC,212,MÉGANTIC,15593,"GAGNÉ, Fernand",Progressive Conservative,124,Progressive Conservative Party,PC,t,4267,f,3
+26,1963-04-08,QC,212,MÉGANTIC,15592,"POULIN, Klaude",New Democratic Party,100,New Democratic Party,NDP,t,1115,f,4
+26,1963-04-08,QC,213,NICOLET--YAMASKA,15595,"VINCENT, Clément",Progressive Conservative,124,Progressive Conservative Party,PC,t,9438,f,1
+26,1963-04-08,QC,213,NICOLET--YAMASKA,15596,"SAINT-ARNAUD, Lorenzo",Liberal,75,Liberal,Lib,t,8124,f,2
+26,1963-04-08,QC,213,NICOLET--YAMASKA,15597,"LUPIEN, Gérard",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1825,f,3
+26,1963-04-08,QC,213,NICOLET--YAMASKA,15598,"RONDEAU, Claude",New Democratic Party,100,New Democratic Party,NDP,t,228,f,4
+26,1963-04-08,QC,214,NOTRE-DAME-DE-GRÂCE,15599,"ASSELIN, Edmund Tobin",Liberal,75,Liberal,Lib,t,30532,f,1
+26,1963-04-08,QC,214,NOTRE-DAME-DE-GRÂCE,15602,"HAYES, W. Paschal",Progressive Conservative,124,Progressive Conservative Party,PC,t,8734,f,2
+26,1963-04-08,QC,214,NOTRE-DAME-DE-GRÂCE,15601,"GIFFORD, C.G.",New Democratic Party,100,New Democratic Party,NDP,t,7141,f,3
+26,1963-04-08,QC,214,NOTRE-DAME-DE-GRÂCE,15600,"CLERMONT, Jean",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,932,f,4
+26,1963-04-08,QC,215,OUTREMONT--ST-JEAN,15603,"LAMONTAGNE, Maurice",Liberal,75,Liberal,Lib,t,13305,f,1
+26,1963-04-08,QC,215,OUTREMONT--ST-JEAN,15604,"LACOSTE, Marc",Progressive Conservative,124,Progressive Conservative Party,PC,t,4684,f,2
+26,1963-04-08,QC,215,OUTREMONT--ST-JEAN,15606,"CASGRAIN, Thérèse-F.",New Democratic Party,100,New Democratic Party,NDP,t,4227,f,3
+26,1963-04-08,QC,215,OUTREMONT--ST-JEAN,15605,"SAVARD, Léopold",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1278,f,4
+26,1963-04-08,QC,216,PAPINEAU,15607,"FAVREAU, Guy",Liberal,75,Liberal,Lib,t,15677,f,1
+26,1963-04-08,QC,216,PAPINEAU,15610,"PAIEMENT, Albert",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4959,f,2
+26,1963-04-08,QC,216,PAPINEAU,15611,"THÉRIEN, Alphonse",Progressive Conservative,124,Progressive Conservative Party,PC,t,4353,f,3
+26,1963-04-08,QC,216,PAPINEAU,15609,"TRUDEL, Paul-Émile",New Democratic Party,100,New Democratic Party,NDP,t,3388,f,4
+26,1963-04-08,QC,216,PAPINEAU,15612,"BÉCOTTE, Lionel",Ouvrier indépendent,107,Ouvrier indépendent,OuvInd,f,1064,f,5
+26,1963-04-08,QC,216,PAPINEAU,15608,"IALENTI, Vincent",Candidat libéral des électeurs,23,Candidat libéral des électeurs,Electeurs,f,496,f,6
+26,1963-04-08,QC,217,PONTIAC--TÉMISCAMINGUE,15615,"GOULET, Paul-Oliva",Liberal,75,Liberal,Lib,t,6448,f,1
+26,1963-04-08,QC,217,PONTIAC--TÉMISCAMINGUE,15613,"MARTINEAU, Paul",Progressive Conservative,124,Progressive Conservative Party,PC,t,6448,f,1
+26,1963-04-08,QC,217,PONTIAC--TÉMISCAMINGUE,15614,"BEAULÉ, Yvan",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,3339,f,3
+26,1963-04-08,QC,217,PONTIAC--TÉMISCAMINGUE,15616,"CATHERWOOD, Lorne",New Democratic Party,100,New Democratic Party,NDP,t,351,f,4
+26,1963-04-08,QC,218,PORTNEUF,15617,"FRÉNETTE, Jean-Louis",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,11473,f,1
+26,1963-04-08,QC,218,PORTNEUF,15619,"RIVARD, Andrée-Robert",Liberal,75,Liberal,Lib,t,6776,f,2
+26,1963-04-08,QC,218,PORTNEUF,15620,"MARTEL, Grégoire",Independent Progressive Conservative,62,Independent Progressive Conservative,IndProgCon,f,1616,f,3
+26,1963-04-08,QC,218,PORTNEUF,15618,"PLOURDE, René-Paul-Joseph",Progressive Conservative,124,Progressive Conservative Party,PC,t,459,f,4
+26,1963-04-08,QC,219,QUEBEC EAST,15621,"BEAULÉ, Robert",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,18661,f,1
+26,1963-04-08,QC,219,QUEBEC EAST,15625,"PARENT, Albert",Liberal,75,Liberal,Lib,t,16976,f,2
+26,1963-04-08,QC,219,QUEBEC EAST,15622,"MICHAUD, Gaston",Progressive Conservative,124,Progressive Conservative Party,PC,t,6593,f,3
+26,1963-04-08,QC,219,QUEBEC EAST,15623,"DUFRESNE, Paul-Henri",New Democratic Party,100,New Democratic Party,NDP,t,1450,f,4
+26,1963-04-08,QC,219,QUEBEC EAST,15624,"TREMBLAY, Léo",Nationalist,95,Nationalist,Nationalist,f,540,f,5
+26,1963-04-08,QC,220,QUEBEC SOUTH,15626,"CANTIN, Jean-Charles",Liberal,75,Liberal,Lib,t,16314,f,1
+26,1963-04-08,QC,220,QUEBEC SOUTH,15628,"MARQUIS, Jacques",Progressive Conservative,124,Progressive Conservative Party,PC,t,5533,f,2
+26,1963-04-08,QC,220,QUEBEC SOUTH,15627,"FRÉCHETTE, Louis",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,5454,f,3
+26,1963-04-08,QC,220,QUEBEC SOUTH,15629,"GAGNON, Jean-Paul",New Democratic Party,100,New Democratic Party,NDP,t,2329,f,4
+26,1963-04-08,QC,221,QUEBEC WEST,15630,"PLOURDE, Lucien",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,13136,f,1
+26,1963-04-08,QC,221,QUEBEC WEST,15631,"NOLIN, Jean-Paul",Liberal,75,Liberal,Lib,t,9580,f,2
+26,1963-04-08,QC,221,QUEBEC WEST,15632,"LAVOIE, Jacques",Progressive Conservative,124,Progressive Conservative Party,PC,t,3160,f,3
+26,1963-04-08,QC,221,QUEBEC WEST,15633,"SIMARD, Albert",New Democratic Party,100,New Democratic Party,NDP,t,848,f,4
+26,1963-04-08,QC,221,QUEBEC WEST,15634,"JULIEN, Magella",Independent Social Credit,64,Independent Social Credit,IndSoCred,f,373,f,5
+26,1963-04-08,QC,222,QUÉBEC--MONTMORENCY,15635,"MARCOUX, Guy",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,28147,f,1
+26,1963-04-08,QC,222,QUÉBEC--MONTMORENCY,15636,"LAFLAMME, Ovide",Liberal,75,Liberal,Lib,t,25091,f,2
+26,1963-04-08,QC,222,QUÉBEC--MONTMORENCY,15637,"BLONDEAU, Paul-E.",Progressive Conservative,124,Progressive Conservative Party,PC,t,5555,f,3
+26,1963-04-08,QC,222,QUÉBEC--MONTMORENCY,15638,"LALIBERTÉ, G. Raymond",New Democratic Party,100,New Democratic Party,NDP,t,3282,f,4
+26,1963-04-08,QC,223,RICHELIEU--VERCHÈRES,15639,"CARDIN, Louis-Joseph-Lucien",Liberal,75,Liberal,Lib,t,14194,f,1
+26,1963-04-08,QC,223,RICHELIEU--VERCHÈRES,15640,"MÉNARD, Yvon",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,9616,f,2
+26,1963-04-08,QC,223,RICHELIEU--VERCHÈRES,15641,"GUERTIN, Paul-Émile",Progressive Conservative,124,Progressive Conservative Party,PC,t,1795,f,3
+26,1963-04-08,QC,223,RICHELIEU--VERCHÈRES,15642,"ROY, Paul-Aimé",New Democratic Party,100,New Democratic Party,NDP,t,936,f,4
+26,1963-04-08,QC,224,RICHMOND--WOLFE,15643,"ASSELIN, Patrick-T.",Liberal,75,Liberal,Lib,t,8762,f,1
+26,1963-04-08,QC,224,RICHMOND--WOLFE,15644,"BERNIER, André",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,8312,f,2
+26,1963-04-08,QC,224,RICHMOND--WOLFE,15645,"DUBOIS, V.-Florent",Progressive Conservative,124,Progressive Conservative Party,PC,t,4063,f,3
+26,1963-04-08,QC,224,RICHMOND--WOLFE,15646,"CRAIG, Lewis",New Democratic Party,100,New Democratic Party,NDP,t,928,f,4
+26,1963-04-08,QC,225,RIMOUSKI,15647,"OUELLET, Gérard",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,12414,f,1
+26,1963-04-08,QC,225,RIMOUSKI,15648,"LEGARÉ, Gérard",Liberal,75,Liberal,Lib,t,12274,f,2
+26,1963-04-08,QC,225,RIMOUSKI,15649,"DIONNE, Fernand",Progressive Conservative,124,Progressive Conservative Party,PC,t,3192,f,3
+26,1963-04-08,QC,225,RIMOUSKI,15650,"D'AUTEUIL, Raymond",New Democratic Party,100,New Democratic Party,NDP,t,1297,f,4
+26,1963-04-08,QC,226,RIVIÈRE-DU-LOUP--TÉMISCOUATA,15651,"GENDRON, Rosaire",Liberal,75,Liberal,Lib,t,10753,f,1
+26,1963-04-08,QC,226,RIVIÈRE-DU-LOUP--TÉMISCOUATA,15653,"GAGNON, Philippe",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,10278,f,2
+26,1963-04-08,QC,226,RIVIÈRE-DU-LOUP--TÉMISCOUATA,15654,"VIOLETTE, Gilles",Progressive Conservative,124,Progressive Conservative Party,PC,t,1246,f,3
+26,1963-04-08,QC,226,RIVIÈRE-DU-LOUP--TÉMISCOUATA,15652,"PELLETIER, Georges-Aurèle",New Democratic Party,100,New Democratic Party,NDP,t,244,f,4
+26,1963-04-08,QC,227,ROBERVAL,15655,"GAUTHIER, Charles-Arthur",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,10345,f,1
+26,1963-04-08,QC,227,ROBERVAL,15658,"GARANT, Albert",Liberal,75,Liberal,Lib,t,6908,f,2
+26,1963-04-08,QC,227,ROBERVAL,15657,"PERRON, J.-Eugène",Progressive Conservative,124,Progressive Conservative Party,PC,t,1667,f,3
+26,1963-04-08,QC,227,ROBERVAL,15656,"GAULIN, Robert",New Democratic Party,100,New Democratic Party,NDP,t,1025,f,4
+26,1963-04-08,QC,228,SAGUENAY,15659,"BLOUIN, Gustave-P.",Liberal,75,Liberal,Lib,t,13896,f,1
+26,1963-04-08,QC,228,SAGUENAY,15661,"MALTAIS, Lauréat",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,13261,f,2
+26,1963-04-08,QC,228,SAGUENAY,15662,"ST-LAURENT, Louis-Edmond",Progressive Conservative,124,Progressive Conservative Party,PC,t,3240,f,3
+26,1963-04-08,QC,228,SAGUENAY,15660,"LAPOINTE, Raymond",New Democratic Party,100,New Democratic Party,NDP,t,2036,f,4
+26,1963-04-08,QC,229,SAINT-ANTOINE--WESTMOUNT,15663,"DRURY, Charles Mills",Liberal,75,Liberal,Lib,t,16635,f,1
+26,1963-04-08,QC,229,SAINT-ANTOINE--WESTMOUNT,15664,"KERRIGAN, Peter",Progressive Conservative,124,Progressive Conservative Party,PC,t,7223,f,2
+26,1963-04-08,QC,229,SAINT-ANTOINE--WESTMOUNT,15665,"MAJOR, Julien",New Democratic Party,100,New Democratic Party,NDP,t,2227,f,3
+26,1963-04-08,QC,229,SAINT-ANTOINE--WESTMOUNT,15666,"FOSTER, Jacques",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1338,f,4
+26,1963-04-08,QC,230,SAINT-DENIS,15667,"DENIS, Azellus",Liberal,75,Liberal,Lib,t,11707,f,1
+26,1963-04-08,QC,230,SAINT-DENIS,15668,"PAQUET, Henri",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4573,f,2
+26,1963-04-08,QC,230,SAINT-DENIS,15670,"LALUMIÈRE, Rolland",Progressive Conservative,124,Progressive Conservative Party,PC,t,4035,f,3
+26,1963-04-08,QC,230,SAINT-DENIS,15669,"DINELLE, Réjeanne",New Democratic Party,100,New Democratic Party,NDP,t,2637,f,4
+26,1963-04-08,QC,231,SAINT-HENRI,15671,"LESSARD, H.-Pit",Liberal,75,Liberal,Lib,t,13981,f,1
+26,1963-04-08,QC,231,SAINT-HENRI,15674,"LÉPINE, Bruno",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,8003,f,2
+26,1963-04-08,QC,231,SAINT-HENRI,15672,"JOANNISSE, Philippe",Progressive Conservative,124,Progressive Conservative Party,PC,t,2800,f,3
+26,1963-04-08,QC,231,SAINT-HENRI,15673,"HÉBERT, Maurice",New Democratic Party,100,New Democratic Party,NDP,t,2378,f,4
+26,1963-04-08,QC,232,SAINT-HYACINTHE--BAGOT,15675,"RICARD, J.-H.-Théogène",Progressive Conservative,124,Progressive Conservative Party,PC,t,13716,f,1
+26,1963-04-08,QC,232,SAINT-HYACINTHE--BAGOT,15676,"Leduc, Jean",Liberal,75,Liberal,Lib,t,8540,f,2
+26,1963-04-08,QC,232,SAINT-HYACINTHE--BAGOT,15677,"EVEN, François",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4122,f,3
+26,1963-04-08,QC,233,SAINT-JACQUES,15678,"RINFRET, Maurice",Liberal,75,Liberal,Lib,t,7841,f,1
+26,1963-04-08,QC,233,SAINT-JACQUES,15681,"HÉBERT, Gérard",Progressive Conservative,124,Progressive Conservative Party,PC,t,5831,f,2
+26,1963-04-08,QC,233,SAINT-JACQUES,15679,"MÉLANÇON, Sylvio",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4386,f,3
+26,1963-04-08,QC,233,SAINT-JACQUES,15680,"FORTIN, Willie",New Democratic Party,100,New Democratic Party,NDP,t,2106,f,4
+26,1963-04-08,QC,234,SAINT-JEAN--IBERVILLE--NAPIERVILLE,15682,"DUPUIS, Yvon",Liberal,75,Liberal,Lib,t,14656,f,1
+26,1963-04-08,QC,234,SAINT-JEAN--IBERVILLE--NAPIERVILLE,15685,"RICHARD, Dollard",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,7081,f,2
+26,1963-04-08,QC,234,SAINT-JEAN--IBERVILLE--NAPIERVILLE,15684,"SABOURIN, Yvan",Progressive Conservative,124,Progressive Conservative Party,PC,t,4461,f,3
+26,1963-04-08,QC,234,SAINT-JEAN--IBERVILLE--NAPIERVILLE,15683,"MARCEAU, A.-Jean",New Democratic Party,100,New Democratic Party,NDP,t,1599,f,4
+26,1963-04-08,QC,235,SAINT-MAURICE--LAFLÈCHE,15686,"CHRÉTIEN, Jean",Liberal,75,Liberal,Lib,t,16358,f,1
+26,1963-04-08,QC,235,SAINT-MAURICE--LAFLÈCHE,15688,"LAMY, Gérard",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,14414,f,2
+26,1963-04-08,QC,235,SAINT-MAURICE--LAFLÈCHE,15689,"PELLERIN, Bruno",Progressive Conservative,124,Progressive Conservative Party,PC,t,3018,f,3
+26,1963-04-08,QC,235,SAINT-MAURICE--LAFLÈCHE,15687,"LAFOREST, Martial",New Democratic Party,100,New Democratic Party,NDP,t,1983,f,4
+26,1963-04-08,QC,236,SAINTE-MARIE,15690,"VALADE, Georges-J.",Progressive Conservative,124,Progressive Conservative Party,PC,t,8549,f,1
+26,1963-04-08,QC,236,SAINTE-MARIE,15692,"CAPLETTE, Albert",Liberal,75,Liberal,Lib,t,6043,f,2
+26,1963-04-08,QC,236,SAINTE-MARIE,15693,"LAJEUNESSE, Hervé",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4271,f,3
+26,1963-04-08,QC,236,SAINTE-MARIE,15691,"COULOMBE, Jean",New Democratic Party,100,New Democratic Party,NDP,t,1320,f,4
+26,1963-04-08,QC,237,SHEFFORD,15694,"RONDEAU, Gilbert",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,9989,f,1
+26,1963-04-08,QC,237,SHEFFORD,15696,"LACAILLE, Gérard",Liberal,75,Liberal,Lib,t,9713,f,2
+26,1963-04-08,QC,237,SHEFFORD,15695,"MAROIS, Donat",Progressive Conservative,124,Progressive Conservative Party,PC,t,4991,f,3
+26,1963-04-08,QC,237,SHEFFORD,15697,"JOURDENAIS, Jacques",New Democratic Party,100,New Democratic Party,NDP,t,1706,f,4
+26,1963-04-08,QC,238,SHERBROOKE,15698,"CHAPDELAINE, Gérard",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,12708,f,1
+26,1963-04-08,QC,238,SHERBROOKE,15700,"ROY, Sarto",Liberal,75,Liberal,Lib,t,12103,f,2
+26,1963-04-08,QC,238,SHERBROOKE,15699,"PERREAULT, Roger",Progressive Conservative,124,Progressive Conservative Party,PC,t,3390,f,3
+26,1963-04-08,QC,238,SHERBROOKE,15701,"BROUSSEAU, Louis-Philippe",Independent,52,Independent,Ind,f,2469,f,4
+26,1963-04-08,QC,238,SHERBROOKE,15702,"STEENLAND, Gustave",New Democratic Party,100,New Democratic Party,NDP,t,1052,f,5
+26,1963-04-08,QC,239,ST. ANN,15703,"LOISELLE, Gérard",Liberal,75,Liberal,Lib,t,7215,f,1
+26,1963-04-08,QC,239,ST. ANN,15706,"COLLETTE, Albert",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2830,f,2
+26,1963-04-08,QC,239,ST. ANN,15705,"VANLOO, A. Peter",Progressive Conservative,124,Progressive Conservative Party,PC,t,1963,f,3
+26,1963-04-08,QC,239,ST. ANN,15704,"MULCAHY, Bernard",New Democratic Party,100,New Democratic Party,NDP,t,753,f,4
+26,1963-04-08,QC,240,ST. LAWRENCE--ST. GEORGE,15707,"TURNER, John N.",Liberal,75,Liberal,Lib,t,8552,f,1
+26,1963-04-08,QC,240,ST. LAWRENCE--ST. GEORGE,15710,"CHAMBERS, Egan",Progressive Conservative,124,Progressive Conservative Party,PC,t,3796,f,2
+26,1963-04-08,QC,240,ST. LAWRENCE--ST. GEORGE,15709,"RUTLAND, R. Barry",New Democratic Party,100,New Democratic Party,NDP,t,1606,f,3
+26,1963-04-08,QC,240,ST. LAWRENCE--ST. GEORGE,15708,"SUCSANY, Charles",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,708,f,4
+26,1963-04-08,QC,241,STANSTEAD,15711,"FOREST, Yves",Liberal,75,Liberal,Lib,t,7649,f,1
+26,1963-04-08,QC,241,STANSTEAD,15712,"LÉTOURNEAU, René",Progressive Conservative,124,Progressive Conservative Party,PC,t,6394,f,2
+26,1963-04-08,QC,241,STANSTEAD,15713,"CUSTEAU, Roméo",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4714,f,3
+26,1963-04-08,QC,242,TERREBONNE,15714,"CADIEUX, Léo",Liberal,75,Liberal,Lib,t,19015,f,1
+26,1963-04-08,QC,242,TERREBONNE,15717,"MURRAY, Hubert",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,13618,f,2
+26,1963-04-08,QC,242,TERREBONNE,15716,"WALKER, Bert",Progressive Conservative,124,Progressive Conservative Party,PC,t,4798,f,3
+26,1963-04-08,QC,242,TERREBONNE,15715,"GAGNON, Gérard",New Democratic Party,100,New Democratic Party,NDP,t,3895,f,4
+26,1963-04-08,QC,243,TROIS-RIVIÈRES,15718,"BALCER, Léon",Progressive Conservative,124,Progressive Conservative Party,PC,t,14558,f,1
+26,1963-04-08,QC,243,TROIS-RIVIÈRES,15721,"BISSON, Claude",Liberal,75,Liberal,Lib,t,13077,f,2
+26,1963-04-08,QC,243,TROIS-RIVIÈRES,15719,"RICHARD, Lucien",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4224,f,3
+26,1963-04-08,QC,243,TROIS-RIVIÈRES,15720,"ROBINDAINE, Alfred",New Democratic Party,100,New Democratic Party,NDP,t,718,f,4
+26,1963-04-08,QC,244,VAUDREUIL--SOULANGES,15722,"ÉMARD, René",Liberal,75,Liberal,Lib,t,8639,f,1
+26,1963-04-08,QC,244,VAUDREUIL--SOULANGES,15725,"BOURBONNAIS, J.-Marcel",Progressive Conservative,124,Progressive Conservative Party,PC,t,6031,f,2
+26,1963-04-08,QC,244,VAUDREUIL--SOULANGES,15723,"LESSARD, Marcel",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2340,f,3
+26,1963-04-08,QC,244,VAUDREUIL--SOULANGES,15724,"RAYMOND, Gérard",Independent,52,Independent,Ind,f,354,f,4
+26,1963-04-08,QC,245,VERDUN,15726,"MACKASEY, Bryce Stuart",Liberal,75,Liberal,Lib,t,19473,f,1
+26,1963-04-08,QC,245,VERDUN,15727,"RHÉAUME, Bernard",Progressive Conservative,124,Progressive Conservative Party,PC,t,7488,f,2
+26,1963-04-08,QC,245,VERDUN,15728,"O'MALLEY, Carl B.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4412,f,3
+26,1963-04-08,QC,245,VERDUN,15729,"FINDLAY, Douglas",New Democratic Party,100,New Democratic Party,NDP,t,3380,f,4
+26,1963-04-08,QC,246,VILLENEUVE,15730,"CAOUETTE, Réal",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,18096,f,1
+26,1963-04-08,QC,246,VILLENEUVE,15733,"CUDDIHY, Stephen",Liberal,75,Liberal,Lib,t,7270,f,2
+26,1963-04-08,QC,246,VILLENEUVE,15731,"BÉDARD, Roger",New Democratic Party,100,New Democratic Party,NDP,t,2279,f,3
+26,1963-04-08,QC,246,VILLENEUVE,15732,"CLOUTIER, Marc",Progressive Conservative,124,Progressive Conservative Party,PC,t,2235,f,4
+26,1963-04-08,QC,247,ÎLES-DE-LA-MADELEINE,15734,"SAUVÉ, Maurice",Liberal,75,Liberal,Lib,t,3053,f,1
+26,1963-04-08,QC,247,ÎLES-DE-LA-MADELEINE,15735,"TURBIDE, Fernand",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1568,f,2
+26,1963-04-08,QC,247,ÎLES-DE-LA-MADELEINE,15736,"MECTEAU, Gérard",Progressive Conservative,124,Progressive Conservative Party,PC,t,183,f,3
+26,1963-04-08,SK,248,ASSINIBOIA,15737,"WATSON, Lawrence",Progressive Conservative,124,Progressive Conservative Party,PC,t,9393,f,1
+26,1963-04-08,SK,248,ASSINIBOIA,15740,"ARGUE, Hazen",Liberal,75,Liberal,Lib,t,7311,f,2
+26,1963-04-08,SK,248,ASSINIBOIA,15738,"BAILEY, Cecil T.",New Democratic Party,100,New Democratic Party,NDP,t,3683,f,3
+26,1963-04-08,SK,248,ASSINIBOIA,15739,"RUMBLE, Daryl David",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,575,f,4
+26,1963-04-08,SK,249,HUMBOLDT--MELFORT--TISDALE,15741,"RAPP, Reynold R.",Progressive Conservative,124,Progressive Conservative Party,PC,t,12010,f,1
+26,1963-04-08,SK,249,HUMBOLDT--MELFORT--TISDALE,15742,"LEITCH, Don S.",New Democratic Party,100,New Democratic Party,NDP,t,4245,f,2
+26,1963-04-08,SK,249,HUMBOLDT--MELFORT--TISDALE,15743,"BATTEN, M. Charles R.",Liberal,75,Liberal,Lib,t,3970,f,3
+26,1963-04-08,SK,249,HUMBOLDT--MELFORT--TISDALE,15744,"DUECK, Peter",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,983,f,4
+26,1963-04-08,SK,250,KINDERSLEY,15745,"CANTELON, Reg",Progressive Conservative,124,Progressive Conservative Party,PC,t,9944,f,1
+26,1963-04-08,SK,250,KINDERSLEY,15748,"MARTIN, J.B. Joe",Liberal,75,Liberal,Lib,t,5957,f,2
+26,1963-04-08,SK,250,KINDERSLEY,15747,"JOHNSON, Merv",New Democratic Party,100,New Democratic Party,NDP,t,4461,f,3
+26,1963-04-08,SK,250,KINDERSLEY,15746,"LEESON, Ron",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1335,f,4
+26,1963-04-08,SK,251,MACKENZIE,15749,"KORCHINSKI, Stanley James",Progressive Conservative,124,Progressive Conservative Party,PC,t,10010,f,1
+26,1963-04-08,SK,251,MACKENZIE,15750,"FORSTER, James",New Democratic Party,100,New Democratic Party,NDP,t,3706,f,2
+26,1963-04-08,SK,251,MACKENZIE,15753,"NAKRAYKO, John",Liberal,75,Liberal,Lib,t,2940,f,3
+26,1963-04-08,SK,251,MACKENZIE,15751,"JOHNSON, George",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,691,f,4
+26,1963-04-08,SK,251,MACKENZIE,15752,"MORRIS, Fred R.",Communist Party of Canada,31,Communist Party,Com,f,179,f,5
+26,1963-04-08,SK,252,MEADOW LAKE,15754,"CADIEU, Bert",Progressive Conservative,124,Progressive Conservative Party,PC,t,7819,f,1
+26,1963-04-08,SK,252,MEADOW LAKE,15756,"HARRISON, Jack",Liberal,75,Liberal,Lib,t,3710,f,2
+26,1963-04-08,SK,252,MEADOW LAKE,15755,"ADDLEY, Angus",New Democratic Party,100,New Democratic Party,NDP,t,2319,f,3
+26,1963-04-08,SK,253,MELVILLE,15757,"ORMISTON, James N.",Progressive Conservative,124,Progressive Conservative Party,PC,t,9412,f,1
+26,1963-04-08,SK,253,MELVILLE,15758,"KREISER, Jack",Liberal,75,Liberal,Lib,t,5629,f,2
+26,1963-04-08,SK,253,MELVILLE,15760,"PHELPS, Joe L.",New Democratic Party,100,New Democratic Party,NDP,t,3464,f,3
+26,1963-04-08,SK,253,MELVILLE,15759,"LANG, John",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,925,f,4
+26,1963-04-08,SK,254,MOOSE JAW--LAKE CENTRE,15761,"PASCOE, J. Ernest",Progressive Conservative,124,Progressive Conservative Party,PC,t,20958,f,1
+26,1963-04-08,SK,254,MOOSE JAW--LAKE CENTRE,15762,"PUDDEN, Ted",Liberal,75,Liberal,Lib,t,8283,f,2
+26,1963-04-08,SK,254,MOOSE JAW--LAKE CENTRE,15763,"WELLS, Carl",New Democratic Party,100,New Democratic Party,NDP,t,7439,f,3
+26,1963-04-08,SK,254,MOOSE JAW--LAKE CENTRE,15764,"CHAMBERLIN, Ed",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1581,f,4
+26,1963-04-08,SK,255,MOOSE MOUNTAIN,15765,"SOUTHAM, Dick",Progressive Conservative,124,Progressive Conservative Party,PC,t,9949,f,1
+26,1963-04-08,SK,255,MOOSE MOUNTAIN,15766,"BEAMISH, Tom",Liberal,75,Liberal,Lib,t,5962,f,2
+26,1963-04-08,SK,255,MOOSE MOUNTAIN,15768,"RICHARDSON, Harry",New Democratic Party,100,New Democratic Party,NDP,t,3270,f,3
+26,1963-04-08,SK,255,MOOSE MOUNTAIN,15767,"WILSON, Stan",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,843,f,4
+26,1963-04-08,SK,256,PRINCE ALBERT,15769,"DIEFENBAKER, John George",Progressive Conservative,124,Progressive Conservative Party,PC,t,17824,f,1
+26,1963-04-08,SK,256,PRINCE ALBERT,15771,"APPS, Henry Merrifield",New Democratic Party,100,New Democratic Party,NDP,t,3373,f,2
+26,1963-04-08,SK,256,PRINCE ALBERT,15770,"FRASER, Harold John",Liberal,75,Liberal,Lib,t,3206,f,3
+26,1963-04-08,SK,256,PRINCE ALBERT,15772,"Solheim, Kenneth",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,565,f,4
+26,1963-04-08,SK,257,QU'APPELLE,15773,"HAMILTON, Alvin",Progressive Conservative,124,Progressive Conservative Party,PC,t,10690,f,1
+26,1963-04-08,SK,257,QU'APPELLE,15776,"PREFONTAINE, L.L.",Liberal,75,Liberal,Lib,t,4312,f,2
+26,1963-04-08,SK,257,QU'APPELLE,15774,"KENNEDY, Norman",New Democratic Party,100,New Democratic Party,NDP,t,2028,f,3
+26,1963-04-08,SK,257,QU'APPELLE,15775,"FREDLUND, Edwin",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,729,f,4
+26,1963-04-08,SK,258,REGINA CITY,15777,"MORE, Ken",Progressive Conservative,124,Progressive Conservative Party,PC,t,19605,f,1
+26,1963-04-08,SK,258,REGINA CITY,15781,"YOUNG, Joseph A.",Liberal,75,Liberal,Lib,t,12234,f,2
+26,1963-04-08,SK,258,REGINA CITY,15782,"ELLIS, Claude",New Democratic Party,100,New Democratic Party,NDP,t,9016,f,3
+26,1963-04-08,SK,258,REGINA CITY,15778,"BOEHME, Arthur F.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1360,f,4
+26,1963-04-08,SK,258,REGINA CITY,15780,"MILLER, Frederick Allan",Independent,52,Independent,Ind,f,135,f,5
+26,1963-04-08,SK,258,REGINA CITY,15779,"BEECHING, William C.",Communist Party of Canada,31,Communist Party,Com,f,129,f,6
+26,1963-04-08,SK,259,ROSETOWN--BIGGAR,15783,"COOPER, C.O.",Progressive Conservative,124,Progressive Conservative Party,PC,t,11984,f,1
+26,1963-04-08,SK,259,ROSETOWN--BIGGAR,15784,"THOMSON, Rod",New Democratic Party,100,New Democratic Party,NDP,t,4661,f,2
+26,1963-04-08,SK,259,ROSETOWN--BIGGAR,15786,"TRAPP, Don",Liberal,75,Liberal,Lib,t,4268,f,3
+26,1963-04-08,SK,259,ROSETOWN--BIGGAR,15785,"ZIEGLER, Chris",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,716,f,4
+26,1963-04-08,SK,260,ROSTHERN,15787,"NASSERDEN, Edward",Progressive Conservative,124,Progressive Conservative Party,PC,t,11351,f,1
+26,1963-04-08,SK,260,ROSTHERN,15788,"LANG, Otto Theodore",Liberal,75,Liberal,Lib,t,3804,f,2
+26,1963-04-08,SK,260,ROSTHERN,15790,"MCCLOY, W.E.",New Democratic Party,100,New Democratic Party,NDP,t,2428,f,3
+26,1963-04-08,SK,260,ROSTHERN,15789,"FROESE, John C.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1213,f,4
+26,1963-04-08,SK,261,SASKATOON,15791,"JONES, Henry Frank",Progressive Conservative,124,Progressive Conservative Party,PC,t,26237,f,1
+26,1963-04-08,SK,261,SASKATOON,15793,"BUCKWOLD, Sidney Labe",Liberal,75,Liberal,Lib,t,13499,f,2
+26,1963-04-08,SK,261,SASKATOON,15794,"MAHOOD, David E.",New Democratic Party,100,New Democratic Party,NDP,t,8262,f,3
+26,1963-04-08,SK,261,SASKATOON,15792,"VAIL, John Wesley",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1256,f,4
+26,1963-04-08,SK,262,SWIFT CURRENT--MAPLE CREEK,15795,"MCINTOSH, Jack",Progressive Conservative,124,Progressive Conservative Party,PC,t,12963,f,1
+26,1963-04-08,SK,262,SWIFT CURRENT--MAPLE CREEK,15796,"STUDER, Irvin W.",Liberal,75,Liberal,Lib,t,7058,f,2
+26,1963-04-08,SK,262,SWIFT CURRENT--MAPLE CREEK,15798,"JOHNSON, Art",New Democratic Party,100,New Democratic Party,NDP,t,4917,f,3
+26,1963-04-08,SK,262,SWIFT CURRENT--MAPLE CREEK,15797,"KOURI, Ted",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1444,f,4
+26,1963-04-08,SK,263,THE BATTLEFORDS,15799,"HORNER, Albert",Progressive Conservative,124,Progressive Conservative Party,PC,t,12108,f,1
+26,1963-04-08,SK,263,THE BATTLEFORDS,15800,"MAHER, Hugh James",Liberal,75,Liberal,Lib,t,4179,f,2
+26,1963-04-08,SK,263,THE BATTLEFORDS,15802,"WOLOSHYN, Fred",New Democratic Party,100,New Democratic Party,NDP,t,3771,f,3
+26,1963-04-08,SK,263,THE BATTLEFORDS,15801,"BOSKAY, John",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,746,f,4
+26,1963-04-08,SK,264,YORKTON,15803,"CLANCY, Gordon Drummond",Progressive Conservative,124,Progressive Conservative Party,PC,t,12443,f,1
+26,1963-04-08,SK,264,YORKTON,15805,"LARSON, Leonard M.",New Democratic Party,100,New Democratic Party,NDP,t,5083,f,2
+26,1963-04-08,SK,264,YORKTON,15806,"ROSS, J.H.",Liberal,75,Liberal,Lib,t,4425,f,3
+26,1963-04-08,SK,264,YORKTON,15804,"BURNLEY, Wilfrid D.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1148,f,4
+26,1963-04-08,YK,265,YUKON,15807,"NIELSEN, Erik",Progressive Conservative,124,Progressive Conservative Party,PC,t,2969,f,1
+26,1963-04-08,YK,265,YUKON,15809,"WYLIE, Victor",Liberal,75,Liberal,Lib,t,2455,f,2
+26,1963-04-08,YK,265,YUKON,15808,"WILSON, Ray",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,560,f,3

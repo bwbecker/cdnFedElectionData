@@ -68,13 +68,13 @@ DECLARE
 BEGIN
     FOR rec IN
         SELECT election_id, format(
-                $a$/Users/bwbecker/byron/activism/charterChallenge/cdnFedElectionData/csv_by_cand/election_%s.csv$a$,
+                $a$/Users/bwbecker/byron/activism/pr_recent/cdnFedElectionData/csv_by_cand/by_cand_%s.csv$a$,
                 date_part('year', election_date)) AS fname
           FROM _elections.elections
          -- WHERE election_id IN (1, 2)
          UNION
         SELECT 0 AS election_id,
-            $a$/Users/bwbecker/byron/activism/charterChallenge/cdnFedElectionData/csv_by_cand/election_all.csv$a$
+            $a$/Users/bwbecker/byron/activism/pr_recent/cdnFedElectionData/csv_by_cand/by_cand_all.csv$a$
                 AS fname
 
         LOOP
@@ -217,7 +217,7 @@ DECLARE
 BEGIN
     FOR rec IN
         SELECT election_id, format(
-                $a$/Users/bwbecker/byron/activism/charterChallenge/cdnFedElectionData/csv_by_riding/election_%s.csv$a$,
+                $a$/Users/bwbecker/byron/activism/pr_recent/cdnFedElectionData/csv_by_riding/by_riding_%s.csv$a$,
                 date_part('year', election_date)) AS fname
           FROM _elections.elections
              -- WHERE election_id IN (1, 2)

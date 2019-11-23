@@ -1,0 +1,309 @@
+election_id,prov_code,ed_id,ed_name,Bloc,Con,Grn,Lib,NDP,Other,1st,2nd,3rd
+40,AB,48001,"Fort McMurray--Athabasca",,17160,1628,2710,3300,769,Con,NDP,Lib
+40,AB,48002,"Calgary East",,21311,3403,3255,3768,323,Con,NDP,Grn
+40,AB,48003,"Calgary Centre-North",,27361,7392,5699,7413,529,Con,NDP,Grn
+40,AB,48004,"Calgary Northeast",,18917,2045,7433,3279,5047,Con,Lib,Other
+40,AB,48005,"Calgary--Nose Hill",,35029,4685,6657,3941,,Con,Lib,Grn
+40,AB,48006,"Calgary Centre",,26085,7778,8402,4229,420,Con,Lib,Grn
+40,AB,48007,"Calgary Southeast",,41425,5736,4878,4024,,Con,Grn,Lib
+40,AB,48008,"Calgary Southwest",,38548,4743,4918,4102,521,Con,Lib,Grn
+40,AB,48009,"Calgary West",,34579,6722,13204,3832,1945,Con,Lib,Grn
+40,AB,48010,"Crowfoot",,39342,2875,1958,3783,,Con,NDP,Grn
+40,AB,48011,"Edmonton--Mill Woods--Beaumont",,25130,2366,7709,6297,157,Con,Lib,NDP
+40,AB,48012,"Edmonton Centre",,22634,3746,12661,6912,203,Con,Lib,NDP
+40,AB,48013,"Edmonton East",,21487,2488,4578,13318,,Con,NDP,Lib
+40,AB,48014,"Edmonton--Leduc",,33174,4081,9234,5994,,Con,Lib,NDP
+40,AB,48015,"Edmonton--St. Albert",,31436,4072,7441,8045,,Con,NDP,Lib
+40,AB,48016,"Edmonton--Sherwood Park",,17628,3678,5575,6339,15960,Con,Other,NDP
+40,AB,48017,"Edmonton--Spruce Grove",,36402,3975,6099,6627,,Con,NDP,Lib
+40,AB,48018,"Edmonton--Strathcona",,19640,3040,4279,20103,147,NDP,Con,Lib
+40,AB,48019,"Lethbridge",,31714,3420,4404,6733,1094,Con,NDP,Lib
+40,AB,48020,"Macleod",,35328,4161,2703,3053,422,Con,Grn,NDP
+40,AB,48021,"Medicine Hat",,26950,2338,2639,4187,1914,Con,NDP,Lib
+40,AB,48022,"Peace River",,29550,3303,2843,6124,689,Con,NDP,Grn
+40,AB,48023,"Red Deer",,33226,4239,2863,5040,,Con,NDP,Grn
+40,AB,48024,"Vegreville--Wainwright",,34493,3676,2345,4230,,Con,NDP,Grn
+40,AB,48025,"Westlock--St. Paul",,27338,2522,3418,3809,510,Con,NDP,Lib
+40,AB,48026,"Wetaskiwin",,32528,3395,2362,3636,249,Con,NDP,Grn
+40,AB,48027,"Wild Rose",,36869,6390,2890,4169,246,Con,Grn,NDP
+40,AB,48028,"Yellowhead",,26863,3437,1489,4587,1014,Con,NDP,Grn
+40,BC,59001,"Abbotsford",,30853,3141,7933,6444,358,Con,Lib,NDP
+40,BC,59002,"Burnaby--Douglas",,17139,2822,9177,17937,203,NDP,Con,Lib
+40,BC,59003,"Burnaby--New Westminster",,13150,3067,6681,20145,282,NDP,Con,Lib
+40,BC,59004,"Cariboo--Prince George",,22637,2614,4309,10581,729,Con,NDP,Lib
+40,BC,59005,"Chilliwack--Fraser Canyon",,29198,4107,3990,8791,766,Con,NDP,Grn
+40,BC,59006,"Delta--Richmond East",,26252,3663,10371,6803,,Con,Lib,NDP
+40,BC,59007,"Pitt Meadows--Maple Ridge--Mission",,26512,3833,3394,16894,538,Con,NDP,Grn
+40,BC,59008,"Esquimalt--Juan de Fuca",,19974,4854,20042,13322,439,Lib,Con,NDP
+40,BC,59009,"Fleetwood--Port Kells",,21389,3045,12502,10916,,Con,Lib,NDP
+40,BC,59010,"Kamloops--Thompson--Cariboo",,25209,4430,5375,19601,,Con,NDP,Lib
+40,BC,59011,"Kelowna--Lake Country",,31907,7821,8469,8624,218,Con,NDP,Lib
+40,BC,59012,"Kootenay--Columbia",,23402,3933,3044,8892,,Con,NDP,Grn
+40,BC,59013,"Langley",,32594,5059,5888,8898,594,Con,NDP,Lib
+40,BC,59014,"Nanaimo--Alberni",,28930,7457,5578,19680,331,Con,NDP,Grn
+40,BC,59015,"Nanaimo--Cowichan",,22844,5816,4483,27454,182,NDP,Con,Grn
+40,BC,59016,"Newton--North Delta",,13988,2533,16481,11824,426,Lib,Con,NDP
+40,BC,59017,"New Westminster--Coquitlam",,19299,3574,5615,20787,417,NDP,Con,Lib
+40,BC,59018,"Okanagan--Shuswap",,28002,9368,5414,10664,694,Con,NDP,Grn
+40,BC,59019,"North Vancouver",,24371,6168,21551,5417,166,Con,Lib,Grn
+40,BC,59020,"Okanagan--Coquihalla",,28765,6603,5883,8236,,Con,NDP,Grn
+40,BC,59021,"Port Moody--Westwood--Port Coquitlam",,25535,3568,6918,10418,321,Con,NDP,Lib
+40,BC,59022,"Prince George--Peace River",,22325,3656,2954,6170,,Con,NDP,Grn
+40,BC,59023,"Richmond",,21359,2753,13221,5059,486,Con,Lib,NDP
+40,BC,59024,"Saanich--Gulf Islands",,27991,6742,25366,3667,694,Con,Lib,Grn
+40,BC,59025,"Skeena--Bulkley Valley",,12561,1613,1916,17219,1237,NDP,Con,Lib
+40,BC,59026,"British Columbia Southern Interior",,17122,4573,3292,22693,80,NDP,Con,Grn
+40,BC,59027,"South Surrey--White Rock--Cloverdale",,31216,4951,11515,7146,273,Con,Lib,NDP
+40,BC,59028,"Surrey North",,13714,1925,5227,12608,1359,Con,NDP,Lib
+40,BC,59029,"Vancouver Centre",,14188,10354,19506,12047,434,Lib,Con,NDP
+40,BC,59030,"Vancouver East",,6432,4708,7127,22506,596,NDP,Lib,Con
+40,BC,59031,"Vancouver Island North",,25963,4544,2380,23466,362,Con,NDP,Grn
+40,BC,59032,"Vancouver Kingsway",,12419,3031,13164,15933,749,NDP,Lib,Con
+40,BC,59033,"Vancouver Quadra",,20561,4916,25393,4493,333,Lib,Con,Grn
+40,BC,59034,"Vancouver South",,16090,2065,16110,7376,211,Lib,Con,NDP
+40,BC,59035,"Victoria",,16337,6252,10006,26443,237,NDP,Con,Lib
+40,BC,59036,"West Vancouver--Sunshine Coast--Sea to Sky Country",,26949,8723,16069,8728,,Con,Lib,NDP
+40,MB,46001,"Brandon--Souris",,19558,5410,2836,6055,416,Con,NDP,Grn
+40,MB,46002,"Charleswood--St. James--Assiniboia",,21588,2632,8514,7190,180,Con,Lib,NDP
+40,MB,46003,"Churchill",,3773,606,5289,8734,,NDP,Lib,Con
+40,MB,46004,"Dauphin--Swan River--Marquette",,18132,1923,4128,4914,452,Con,NDP,Lib
+40,MB,46005,"Elmwood--Transcona",,12776,1839,2079,14355,312,NDP,Con,Lib
+40,MB,46006,"Kildonan--St. Paul",,19751,1685,3009,12093,447,Con,NDP,Lib
+40,MB,46007,"Portage--Lisgar",,22036,2606,4374,2353,911,Con,Lib,Grn
+40,MB,46008,"Provencher",,23303,2089,4531,4947,1170,Con,NDP,Lib
+40,MB,46009,"Saint Boniface",,19440,2104,14728,5502,195,Con,Lib,NDP
+40,MB,46010,"Selkirk--Interlake",,23302,2126,3203,9506,295,Con,NDP,Lib
+40,MB,46011,"Winnipeg Centre",,5437,2777,3922,12285,692,NDP,Con,Lib
+40,MB,46012,"Winnipeg North",,5033,1070,2075,14097,241,NDP,Con,Lib
+40,MB,46013,"Winnipeg South",,19954,1839,14221,4673,173,Con,Lib,NDP
+40,MB,46014,"Winnipeg South Centre",,14103,2860,16438,5490,,Lib,Con,NDP
+40,NB,13001,"Acadie--Bathurst",,8331,904,9850,25849,,NDP,Lib,Con
+40,NB,13002,"Beauséjour",,12506,3087,20059,7242,,Lib,Con,NDP
+40,NB,13003,"Fredericton",,17962,4293,13319,6490,168,Con,Lib,NDP
+40,NB,13004,"Fundy Royal",,17211,2443,5773,7907,,Con,NDP,Lib
+40,NB,13005,"Madawaska--Restigouche",,11402,1287,16266,5361,,Lib,Con,NDP
+40,NB,13006,"Miramichi",,12058,1105,10590,4904,,Con,Lib,NDP
+40,NB,13007,"Moncton--Riverview--Dieppe",,16297,3998,17797,7394,,Lib,Con,NDP
+40,NB,13008,"New Brunswick Southwest",,17474,1667,5863,4958,,Con,Lib,NDP
+40,NB,13009,"Saint John",,13782,1888,13285,5560,330,Con,Lib,NDP
+40,NB,13010,"Tobique--Mactaquac",,18071,1810,6773,4830,,Con,Lib,NDP
+40,NL,10001,"Avalon",,11542,714,14866,5707,,Lib,Con,NDP
+40,NL,10002,"Bonavista--Gander--Grand Falls--Windsor",,4354,568,20089,3577,,Lib,Con,NDP
+40,NL,10003,"Humber--St. Barbe--Baie Verte",,2799,,17956,4603,964,Lib,NDP,Con
+40,NL,10004,"Labrador",,615,302,5426,1378,,Lib,NDP,Con
+40,NL,10005,"Random--Burin--St. George's",,4791,462,12557,5563,,Lib,NDP,Con
+40,NL,10006,"St. John's East",,3836,570,5211,30881,925,NDP,Lib,Con
+40,NL,10007,"St. John's South--Mount Pearl",,4324,643,14920,13971,581,Lib,NDP,Con
+40,NS,12001,"Cape Breton--Canso",,8524,2641,17447,7660,,Lib,Con,NDP
+40,NS,12002,"Central Nova",,18240,12620,,7659,623,Con,Grn,NDP
+40,NS,12003,"Dartmouth--Cole Harbour",,9109,2417,16016,12793,219,Lib,NDP,Con
+40,NS,12004,"Halifax",,9295,3931,12458,19252,162,NDP,Lib,Con
+40,NS,12005,"Halifax West",,8708,2920,17129,12201,257,Lib,NDP,Con
+40,NS,12006,"Kings--Hants",,9846,2353,16641,8291,528,Lib,Con,NDP
+40,NS,12007,"Cumberland--Colchester--Musquodoboit Valley",,3493,,3344,4874,27853,Other,NDP,Con
+40,NS,12008,"Sackville--Eastern Shore",,8198,2034,5018,24279,,NDP,Con,Lib
+40,NS,12009,"South Shore--St. Margaret's",,14388,2090,9536,13456,513,Con,NDP,Lib
+40,NS,12010,"Sydney--Victoria",,7223,1941,17303,8559,,Lib,NDP,Con
+40,NS,12011,"West Nova",,16779,2106,15185,7097,844,Con,Lib,NDP
+40,NT,61001,"Western Arctic",,5146,752,1858,5669,252,NDP,Con,Lib
+40,NU,62001,"Nunavut",,2815,669,2349,2228,,Con,Lib,NDP
+40,ON,35001,"Ajax--Pickering",,18471,3543,21675,4422,565,Lib,Con,NDP
+40,ON,35002,"Algoma--Manitoulin--Kapuskasing",,5914,1451,10902,15249,,NDP,Lib,Con
+40,ON,35003,"Ancaster--Dundas--Flamborough--Westdale",,26297,5149,15322,9632,148,Con,Lib,NDP
+40,ON,35004,"Barrie",,27927,5921,12732,6403,344,Con,Lib,NDP
+40,ON,35005,"Beaches--East York",,7907,4389,18967,14875,155,Lib,NDP,Con
+40,ON,35006,"Bramalea--Gore--Malton",,18353,2551,22272,5945,309,Lib,Con,NDP
+40,ON,35007,"Brampton--Springdale",,17804,3516,18577,5238,135,Lib,Con,NDP
+40,ON,35008,"Brampton West",,21515,3329,21746,7334,,Lib,Con,NDP
+40,ON,35009,"Brant",,22736,3814,17943,9331,371,Con,Lib,NDP
+40,ON,35010,"Burlington",,28614,4083,19577,6597,,Con,Lib,NDP
+40,ON,35011,"Cambridge",,24895,4279,11977,10044,,Con,Lib,NDP
+40,ON,35012,"Carleton--Mississippi Mills",,39433,6983,15254,6583,,Con,Lib,Grn
+40,ON,35013,"Chatham-Kent--Essex",,19960,2712,12127,6850,,Con,Lib,NDP
+40,ON,35014,"Durham",,28551,6041,12167,5485,577,Con,Lib,Grn
+40,ON,35015,"Davenport",,3838,3655,15953,10896,511,Lib,NDP,Con
+40,ON,35016,"Don Valley East",,11777,2618,18264,5062,266,Lib,Con,NDP
+40,ON,35017,"Don Valley West",,19441,3155,22212,5102,162,Lib,Con,NDP
+40,ON,35018,"Dufferin--Caledon",,23363,7377,8495,4385,284,Con,Lib,Grn
+40,ON,35019,"Eglinton--Lawrence",,17073,3629,19133,3663,,Lib,Con,NDP
+40,ON,35020,"Elgin--Middlesex--London",,22970,3241,11169,9135,958,Con,Lib,NDP
+40,ON,35021,"Essex",,20608,2234,14973,13703,,Con,Lib,NDP
+40,ON,35022,"Etobicoke Centre",,18839,2688,24537,4164,,Lib,Con,NDP
+40,ON,35023,"Etobicoke--Lakeshore",,17793,3562,23536,5950,181,Lib,Con,NDP
+40,ON,35024,"Etobicoke North",,9436,1460,15244,4940,300,Lib,Con,NDP
+40,ON,35025,"Glengarry--Prescott--Russell",,25659,2908,19997,5678,,Con,Lib,NDP
+40,ON,35026,"Bruce--Grey--Owen Sound",,22975,13095,6892,4640,599,Con,Grn,Lib
+40,ON,35027,"Guelph",,17186,12454,18974,9713,562,Lib,Con,Grn
+40,ON,35028,"Haldimand--Norfolk",,19657,2041,15577,5549,5322,Con,Lib,NDP
+40,ON,35029,"Haliburton--Kawartha Lakes--Brock",,30391,4505,11093,7952,374,Con,Lib,NDP
+40,ON,35030,"Halton",,32986,4872,25136,6118,337,Con,Lib,NDP
+40,ON,35031,"Hamilton Centre",,9051,3625,7164,20010,779,NDP,Con,Lib
+40,ON,35032,"Hamilton East--Stoney Creek",,11556,2142,13455,19919,1176,NDP,Lib,Con
+40,ON,35033,"Hamilton Mountain",,16010,2884,10531,22796,,NDP,Con,Lib
+40,ON,35034,"Huron--Bruce",,22182,2617,16336,7426,989,Con,Lib,NDP
+40,ON,35035,"Kenora",,9395,1087,7344,5394,,Con,Lib,NDP
+40,ON,35036,"Kingston and the Islands",,18895,6282,22734,10158,,Lib,Con,NDP
+40,ON,35037,"Kitchener Centre",,16480,3823,16141,8122,342,Con,Lib,NDP
+40,ON,35038,"Kitchener--Conestoga",,23525,5124,11876,7173,,Con,Lib,NDP
+40,ON,35039,"Kitchener--Waterloo",,21830,7326,21813,8915,650,Con,Lib,NDP
+40,ON,35040,"Lanark--Frontenac--Lennox and Addington",,30272,4629,11809,7112,347,Con,Lib,NDP
+40,ON,35041,"Leeds--Grenville",,27473,4522,8075,6511,426,Con,Lib,NDP
+40,ON,35042,"London--Fanshawe",,12659,2656,7774,17672,276,NDP,Con,Lib
+40,ON,35043,"London North Centre",,17712,5603,21018,9387,,Lib,Con,NDP
+40,ON,35044,"London West",,22556,5630,20435,8409,667,Con,Lib,NDP
+40,ON,35045,"Markham--Unionville",,13855,1921,25296,4682,225,Lib,Con,NDP
+40,ON,35046,"Lambton--Kent--Middlesex",,24516,3386,11812,7427,663,Con,Lib,NDP
+40,ON,35047,"Mississauga--Brampton South",,14664,2947,21220,5268,395,Lib,Con,NDP
+40,ON,35048,"Mississauga East--Cooksville",,13277,2138,20457,4632,277,Lib,Con,NDP
+40,ON,35049,"Mississauga--Erindale",,23863,3636,23466,4774,129,Con,Lib,NDP
+40,ON,35050,"Mississauga South",,18366,3407,20518,4104,,Lib,Con,NDP
+40,ON,35051,"Mississauga--Streetsville",,16985,3179,21710,4710,857,Lib,Con,NDP
+40,ON,35052,"Nepean--Carleton",,39921,7880,16743,6946,,Con,Lib,Grn
+40,ON,35053,"Newmarket--Aurora",,24873,4381,18250,4548,1209,Con,Lib,NDP
+40,ON,35054,"Niagara Falls",,24016,4356,13867,9186,,Con,Lib,NDP
+40,ON,35055,"Niagara West--Glanbrook",,28089,3897,12955,7980,1118,Con,Lib,NDP
+40,ON,35056,"Nickel Belt",,8869,2056,10748,19021,178,NDP,Lib,Con
+40,ON,35057,"Nipissing--Timiskaming",,13432,2808,18510,6582,204,Lib,Con,NDP
+40,ON,35058,"Northumberland--Quinte West",,27615,4633,16209,8230,,Con,Lib,NDP
+40,ON,35059,"Oak Ridges--Markham",,32028,5184,31483,7126,,Con,Lib,NDP
+40,ON,35060,"Oakville",,26011,4681,20528,4143,,Con,Lib,Grn
+40,ON,35061,"Oshawa",,19951,3374,7741,16750,415,Con,NDP,Lib
+40,ON,35062,"Ottawa Centre",,15065,6348,16633,25399,473,NDP,Lib,Con
+40,ON,35063,"Ottawa--Orléans",,27244,3845,23549,6025,,Con,Lib,NDP
+40,ON,35064,"Ottawa South",,19417,3939,29035,4920,864,Lib,Con,NDP
+40,ON,35065,"Ottawa--Vanier",,14138,4447,23948,8845,457,Lib,Con,NDP
+40,ON,35066,"Ottawa West--Nepean",,25109,3558,20161,6432,564,Con,Lib,NDP
+40,ON,35067,"Oxford",,23330,3355,8586,7982,1036,Con,Lib,NDP
+40,ON,35068,"Parkdale--High Park",,5992,3601,20705,17332,549,Lib,NDP,Con
+40,ON,35069,"Parry Sound--Muskoka",,21831,5119,10871,5355,325,Con,Lib,NDP
+40,ON,35070,"Perth--Wellington",,20765,3874,10225,7334,982,Con,Lib,NDP
+40,ON,35071,"Peterborough",,27630,4029,18417,8115,98,Con,Lib,NDP
+40,ON,35072,"Pickering--Scarborough East",,14940,3023,22874,4875,321,Lib,Con,NDP
+40,ON,35073,"Prince Edward--Hastings",,26061,4379,14048,7156,276,Con,Lib,NDP
+40,ON,35074,"Renfrew--Nipissing--Pembroke",,28908,3201,9737,5175,293,Con,Lib,NDP
+40,ON,35075,"Richmond Hill",,16318,3388,21488,4526,,Lib,Con,NDP
+40,ON,35076,"St. Catharines",,23474,3477,14652,9428,113,Con,Lib,NDP
+40,ON,35077,"St. Paul's",,13948,4726,26286,6666,312,Lib,Con,NDP
+40,ON,35078,"Sarnia--Lambton",,23195,3201,9404,10037,545,Con,NDP,Lib
+40,ON,35079,"Sault Ste. Marie",,15461,1774,6870,16572,316,NDP,Con,Lib
+40,ON,35080,"Scarborough--Agincourt",,11836,1870,22795,3748,,Lib,Con,NDP
+40,ON,35081,"Scarborough Centre",,11088,2011,17927,5801,,Lib,Con,NDP
+40,ON,35082,"Scarborough--Guildwood",,10881,1913,18098,5183,,Lib,Con,NDP
+40,ON,35083,"Scarborough--Rouge River",,9160,1207,23718,5936,331,Lib,Con,NDP
+40,ON,35084,"Scarborough Southwest",,10928,3514,15486,6943,151,Lib,Con,NDP
+40,ON,35085,"Simcoe--Grey",,30897,5685,12099,6288,1161,Con,Lib,NDP
+40,ON,35086,"Simcoe North",,26328,5821,14670,6202,,Con,Lib,NDP
+40,ON,35087,"Stormont--Dundas--South Glengarry",,25846,1880,8554,6107,2686,Con,Lib,NDP
+40,ON,35088,"Sudbury",,11073,3330,12969,15094,477,NDP,Lib,Con
+40,ON,35089,"Thornhill",,26660,2686,21448,3601,,Con,Lib,NDP
+40,ON,35090,"Thunder Bay--Rainy River",,8466,1377,11589,14478,,NDP,Lib,Con
+40,ON,35091,"Thunder Bay--Superior North",,9556,2463,10083,13187,327,NDP,Lib,Con
+40,ON,35092,"Timmins--James Bay",,5536,938,6740,17188,,NDP,Lib,Con
+40,ON,35093,"Toronto Centre",,9402,6081,27462,7743,618,Lib,Con,NDP
+40,ON,35094,"Toronto--Danforth",,5287,5995,13336,20323,446,NDP,Lib,Grn
+40,ON,35095,"Trinity--Spadina",,8249,5418,20970,24454,787,NDP,Lib,Con
+40,ON,35096,"Vaughan",,19390,3870,27773,5442,,Lib,Con,NDP
+40,ON,35097,"Welland",,16542,2816,14295,16842,683,NDP,Con,Lib
+40,ON,35098,"Wellington--Halton Hills",,29191,4987,11312,4747,414,Con,Lib,Grn
+40,ON,35099,"Whitby--Oshawa",,30704,5067,15460,8584,395,Con,Lib,NDP
+40,ON,35100,"Willowdale",,15931,3130,23889,5011,1124,Lib,Con,NDP
+40,ON,35101,"Windsor--Tecumseh",,10276,2749,9005,20914,,NDP,Con,Lib
+40,ON,35102,"Windsor West",,8954,2253,7357,20791,241,NDP,Con,Lib
+40,ON,35103,"York Centre",,14132,2390,16164,4503,,Lib,Con,NDP
+40,ON,35104,"York--Simcoe",,27412,4887,9044,5882,1120,Con,Lib,NDP
+40,ON,35105,"York South--Weston",,7021,1757,16071,9641,,Lib,NDP,Con
+40,ON,35106,"York West",,4773,1488,16997,5363,,Lib,NDP,Con
+40,PE,11001,"Cardigan",,5661,710,10105,1556,1101,Lib,Con,NDP
+40,PE,11002,"Charlottetown",,5704,858,8893,2187,124,Lib,Con,NDP
+40,PE,11003,"Egmont",,8110,626,8055,1670,,Con,Lib,NDP
+40,PE,11004,"Malpeque",,7388,1291,8312,1819,,Lib,Con,NDP
+40,QC,24001,"Abitibi--Témiscamingue",20929,8267,976,9055,4151,302,Bloc,Lib,Con
+40,QC,24002,"Ahuntsic",18815,4937,1228,18392,4276,,Bloc,Lib,Con
+40,QC,24003,"Alfred-Pellan",20686,8662,1665,15594,6406,259,Bloc,Lib,Con
+40,QC,24004,"Argenteuil--Papineau--Mirabel",26455,9584,2055,9984,6819,98,Bloc,Lib,Con
+40,QC,24005,"Beauce",7143,31883,2436,5270,4352,,Con,Bloc,Lib
+40,QC,24006,"Beauharnois--Salaberry",26904,10858,1764,7995,6214,,Bloc,Con,Lib
+40,QC,24007,"Beauport--Limoilou",15962,17994,1363,7030,5986,610,Con,Bloc,Lib
+40,QC,24008,"Berthier--Maskinongé",24945,12078,1691,10035,5684,,Bloc,Con,Lib
+40,QC,24009,"Bourassa",10145,5405,1166,19869,3188,130,Lib,Bloc,Con
+40,QC,24010,"Brome--Missisquoi",17561,9309,1784,16357,4514,354,Bloc,Lib,Con
+40,QC,24011,"Brossard--La Prairie",19034,11062,1816,19103,7452,157,Lib,Bloc,Con
+40,QC,24012,"Chambly--Borduas",31773,9564,2460,10649,8998,,Bloc,Lib,Con
+40,QC,24013,"Charlesbourg--Haute-Saint-Charles",14602,20566,1231,7039,6542,,Con,Bloc,Lib
+40,QC,24014,"Montmorency--Charlevoix--Haute-Côte-Nord",21068,11789,1147,5769,3332,,Bloc,Con,Lib
+40,QC,24015,"Châteauguay--Saint-Constant",25086,9827,1755,10104,8261,,Bloc,Lib,Con
+40,QC,24016,"Chicoutimi--Le Fjord",19737,16680,1193,6425,3742,,Bloc,Con,Lib
+40,QC,24017,"Compton--Stanstead",20332,9445,2368,10946,5483,,Bloc,Lib,Con
+40,QC,24018,"Drummond",17613,11490,1144,7697,7460,,Bloc,Con,Lib
+40,QC,24019,"Gaspésie--Îles-de-la-Madeleine",14636,8334,1136,9840,2549,,Bloc,Lib,Con
+40,QC,24020,"Gatineau",15189,8762,1342,13193,13612,,Bloc,NDP,Lib
+40,QC,24021,"Hochelaga",22720,4201,1946,9442,6600,774,Bloc,Lib,NDP
+40,QC,24022,"Honoré-Mercier",13871,7549,1380,21544,4986,,Lib,Bloc,Con
+40,QC,24023,"Hull--Aylmer",11625,7996,2784,19750,10454,121,Lib,Bloc,NDP
+40,QC,24024,"Jeanne-Le Ber",17144,5494,2345,15841,7708,577,Bloc,Lib,NDP
+40,QC,24025,"Joliette",28040,9540,2588,7769,5579,,Bloc,Con,Lib
+40,QC,24026,"Jonquière--Alma",19035,26639,,2616,2475,,Con,Bloc,Lib
+40,QC,24027,"Lac-Saint-Louis",2953,12085,4415,23842,8105,,Lib,Con,NDP
+40,QC,24028,"La Pointe-de-l'Île",25976,5179,1340,7403,5975,438,Bloc,Lib,NDP
+40,QC,24029,"LaSalle--Émard",10384,6802,1579,17226,5622,818,Lib,Bloc,Con
+40,QC,24030,"Laurentides--Labelle",24956,6914,2094,14143,4896,,Bloc,Lib,Con
+40,QC,24031,"Laurier--Sainte-Marie",24103,2320,3801,8798,8209,744,Bloc,Lib,NDP
+40,QC,24032,"Laval",19085,9101,1607,14190,6289,221,Bloc,Lib,Con
+40,QC,24033,"Laval--Les Îles",12576,11017,1752,21603,6124,336,Lib,Bloc,Con
+40,QC,24034,"Lévis--Bellechasse",13747,24785,1370,8130,5856,113,Con,Bloc,Lib
+40,QC,24035,"Longueuil--Pierre-Boucher",23118,7210,1752,10920,7021,103,Bloc,Lib,Con
+40,QC,24036,"Lotbinière--Chutes-de-la-Chaudière",12738,24495,1265,6498,6828,,Con,Bloc,NDP
+40,QC,24037,"Louis-Hébert",20992,16343,1408,13669,5403,119,Bloc,Con,Lib
+40,QC,24038,"Louis-Saint-Laurent",13330,23683,1260,6712,5252,,Con,Bloc,Lib
+40,QC,24039,"Manicouagan",15272,8374,1112,4737,1491,,Bloc,Con,Lib
+40,QC,24040,"Marc-Aurèle-Fortin",25552,7759,2178,13728,6907,,Bloc,Lib,Con
+40,QC,24041,"Haute-Gaspésie--La Mitis--Matane--Matapédia",11984,5771,1139,11368,1497,175,Bloc,Lib,Con
+40,QC,24042,"Mégantic--L'Érable",12283,20697,959,6185,4191,,Con,Bloc,Lib
+40,QC,24043,"Montcalm",33519,8096,1854,8387,8337,,Bloc,Lib,NDP
+40,QC,24044,"Mount Royal",1543,9676,1565,19702,2733,186,Lib,Con,NDP
+40,QC,24045,"Notre-Dame-de-Grâce--Lachine",6962,7108,3378,19554,6641,177,Lib,Con,Bloc
+40,QC,24046,"Abitibi--Baie-James--Nunavik--Eeyou",10995,8422,928,5108,2276,,Bloc,Con,Lib
+40,QC,24047,"Outremont",4554,3820,1566,12005,14348,,NDP,Lib,Bloc
+40,QC,24048,"Papineau",16535,3262,1213,17724,3734,267,Lib,Bloc,NDP
+40,QC,24049,"Pierrefonds--Dollard",4357,11815,3161,21468,4823,111,Lib,Con,NDP
+40,QC,24050,"Pontiac",9576,14023,2148,10396,6616,112,Con,Lib,Bloc
+40,QC,24051,"Portneuf--Jacques-Cartier",14401,,1452,7320,5707,16102,Other,Bloc,Lib
+40,QC,24052,"Québec",21064,12943,1650,8845,5933,,Bloc,Con,Lib
+40,QC,24053,"Repentigny",31007,8168,1666,8751,8853,,Bloc,NDP,Lib
+40,QC,24054,"Bas-Richelieu--Nicolet--Bécancour",26821,8904,1334,7987,4010,,Bloc,Con,Lib
+40,QC,24055,"Richmond--Arthabaska",23913,15080,1337,6599,4509,526,Bloc,Con,Lib
+40,QC,24056,"Rimouski-Neigette--Témiscouata--Les Basques",17652,7216,645,7937,4084,1966,Bloc,Lib,Con
+40,QC,24057,"Rivière-des-Mille-Îles",23216,9911,2134,8823,6741,,Bloc,Con,Lib
+40,QC,24058,"Montmagny--L'Islet--Kamouraska--Rivière-du-Loup",20494,13640,978,6835,2428,147,Bloc,Con,Lib
+40,QC,24059,"Rivière-du-Nord",26588,7170,1656,6755,7187,273,Bloc,NDP,Con
+40,QC,24060,"Roberval--Lac-Saint-Jean",14619,16055,737,3721,1738,,Con,Bloc,Lib
+40,QC,24061,"Rosemont--La Petite-Patrie",27260,3876,2406,9785,8522,572,Bloc,Lib,NDP
+40,QC,24062,"Saint-Bruno--Saint-Hubert",23767,8125,2031,11755,7154,,Bloc,Lib,Con
+40,QC,24063,"Saint-Hyacinthe--Bagot",22719,10195,1682,6649,6721,,Bloc,Con,NDP
+40,QC,24064,"Saint-Jean",26506,9281,2160,9430,5529,520,Bloc,Lib,Con
+40,QC,24065,"Saint-Lambert",16346,6867,1566,12383,6280,,Bloc,Lib,Con
+40,QC,24066,"Saint-Laurent--Cartierville",4611,6999,,25095,3654,299,Lib,Con,Bloc
+40,QC,24067,"Saint-Léonard--Saint-Michel",5146,5627,1063,21652,4039,287,Lib,Con,Bloc
+40,QC,24068,"Saint-Maurice--Champlain",20397,11083,1562,9755,3601,,Bloc,Con,Lib
+40,QC,24069,"Shefford",21650,9927,1848,10810,6323,,Bloc,Lib,Con
+40,QC,24070,"Sherbrooke",25502,8331,,9947,6676,467,Bloc,Lib,Con
+40,QC,24071,"Terrebonne--Blainville",28303,7551,1714,8937,7278,283,Bloc,Lib,Con
+40,QC,24072,"Trois-Rivières",22405,11998,1540,9008,4544,,Bloc,Con,Lib
+40,QC,24073,"Vaudreuil-Soulanges",27044,15496,2625,13954,6298,,Bloc,Con,Lib
+40,QC,24074,"Verchères--Les Patriotes",27602,7742,1679,8871,8388,,Bloc,Lib,NDP
+40,QC,24075,"Westmount--Ville-Marie",2818,6139,2733,18041,8904,192,Lib,NDP,Con
+40,SK,47001,"Battlefords--Lloydminster",,15621,1287,2140,6572,368,Con,NDP,Lib
+40,SK,47002,"Blackstrap",,20747,2325,5509,9876,,Con,NDP,Lib
+40,SK,47003,"Desnethé--Missinippi--Churchill River",,8964,733,5816,3414,282,Con,Lib,NDP
+40,SK,47004,"Cypress Hills--Grasslands",,17922,1840,3691,4394,,Con,NDP,Lib
+40,SK,47005,"Palliser",,14159,1580,5489,10865,,Con,NDP,Lib
+40,SK,47006,"Prince Albert",,16542,1413,2289,8243,167,Con,NDP,Lib
+40,SK,47007,"Regina--Lumsden--Lake Centre",,16053,1737,4668,8963,,Con,NDP,Lib
+40,SK,47008,"Regina--Qu'Appelle",,14068,1556,2809,8699,,Con,NDP,Lib
+40,SK,47009,"Saskatoon--Humboldt",,18610,2211,4135,9632,,Con,NDP,Lib
+40,SK,47010,"Saskatoon--Rosetown--Biggar",,12231,1232,1188,11969,326,Con,NDP,Grn
+40,SK,47011,"Saskatoon--Wanuskewin",,18320,2182,4020,7898,,Con,NDP,Lib
+40,SK,47012,"Souris--Moose Mountain",,19293,1643,1834,4599,,Con,NDP,Lib
+40,SK,47013,"Wascana",,12798,1706,17028,5418,,Lib,Con,NDP
+40,SK,47014,"Yorkton--Melville",,19824,1664,1578,6076,,Con,NDP,Grn
+40,YK,60001,"Yukon",,4788,1881,6715,1276,,Lib,Con,Grn

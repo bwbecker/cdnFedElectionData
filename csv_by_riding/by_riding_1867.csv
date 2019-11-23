@@ -1,0 +1,181 @@
+election_id,prov_code,ed_id,ed_name,AntiConfed,Con,Lib,Other,PC,1st,2nd,3rd
+1,NB,1,"ALBERT",,,778,714,,Lib,Other,AntiConfed
+1,NB,2,"CARLETON",,,,,,Other,AntiConfed,Con
+1,NB,3,"CHARLOTTE",,,1214,918,,Lib,Other,AntiConfed
+1,NB,4,"CITY AND COUNTY OF ST. JOHN",,,,,,Other,AntiConfed,Con
+1,NB,5,"CITY OF ST. JOHN",,,,610,1402,PC,Other,AntiConfed
+1,NB,6,"GLOUCESTER",,,1061,671,,Lib,Other,AntiConfed
+1,NB,7,"KENT",,,876,1246,,Other,Lib,AntiConfed
+1,NB,8,"KING'S",,,1303,1083,,Lib,Other,AntiConfed
+1,NB,9,"NORTHUMBERLAND",,,1226,757,,Lib,Other,AntiConfed
+1,NB,10,"QUEEN'S",,,,,,Other,AntiConfed,Con
+1,NB,11,"RESTIGOUCHE",,,370,259,,Lib,Other,AntiConfed
+1,NB,12,"SUNBURY",,,664,425,,Lib,Other,AntiConfed
+1,NB,13,"VICTORIA",,,,565,778,PC,Other,AntiConfed
+1,NB,14,"WESTMORLAND",,,2207,454,,Lib,Other,AntiConfed
+1,NB,15,"YORK",,,,,,Other,AntiConfed,Con
+1,NS,16,"ANNAPOLIS",1171,1016,,,,AntiConfed,Con,Other
+1,NS,17,"ANTIGONISH",1238,390,,,,AntiConfed,Con,Other
+1,NS,18,"CAPE BRETON",,,,,,Other,AntiConfed,Con
+1,NS,19,"COLCHESTER",1649,,,,1289,AntiConfed,PC,Other
+1,NS,20,"CUMBERLAND",1271,1368,,,,Con,AntiConfed,Other
+1,NS,21,"DIGBY",792,,,859,,Other,AntiConfed,Con
+1,NS,22,"GUYSBOROUGH",,,,,,Other,AntiConfed,Con
+1,NS,23,"HALIFAX-1",2381,,,2154,,AntiConfed,Other,Con
+1,NS,24,"HALIFAX-2",2367,,,2158,,AntiConfed,Other,Con
+1,NS,25,"HANTS",1530,,,956,,AntiConfed,Other,Con
+1,NS,26,"INVERNESS",1186,601,,,,AntiConfed,Con,Other
+1,NS,27,"KINGS",1472,,,659,,AntiConfed,Other,Con
+1,NS,28,"LUNENBURG",1557,,,905,,AntiConfed,Other,Con
+1,NS,29,"PICTOU",2011,1653,,,,AntiConfed,Con,Other
+1,NS,30,"QUEENS",844,,,271,,AntiConfed,Other,Con
+1,NS,31,"RICHMOND",545,,,279,,AntiConfed,Other,Con
+1,NS,32,"SHELBURNE",,,,,,Other,AntiConfed,Con
+1,NS,33,"VICTORIA",,,,,,Other,AntiConfed,Con
+1,NS,34,"YARMOUTH",1225,,,666,,AntiConfed,Other,Con
+1,ON,35,"ADDINGTON",,1120,,3,991,Con,PC,Other
+1,ON,36,"ALGOMA",,250,,279,,Other,Con,AntiConfed
+1,ON,37,"BOTHWELL",,1224,1333,,,Lib,Con,Other
+1,ON,38,"BRANT NORTH",,,,670,672,PC,Other,AntiConfed
+1,ON,39,"BRANT SOUTH",,,1257,1090,,Lib,Other,AntiConfed
+1,ON,40,"BROCKVILLE",,690,,521,,Con,Other,AntiConfed
+1,ON,41,"BRUCE NORTH",,862,,852,,Con,Other,AntiConfed
+1,ON,42,"BRUCE SOUTH",,1777,,1629,,Con,Other,AntiConfed
+1,ON,43,"CARDWELL",,1155,,1078,,Con,Other,AntiConfed
+1,ON,44,"CARLETON",,1006,,,1087,PC,Con,Other
+1,ON,45,"CORNWALL",,,451,295,,Lib,Other,AntiConfed
+1,ON,46,"DUNDAS",,,,,,Other,AntiConfed,Con
+1,ON,47,"DURHAM EAST",,1134,,451,,Con,Other,AntiConfed
+1,ON,48,"DURHAM WEST",,,1337,931,,Lib,Other,AntiConfed
+1,ON,49,"ELGIN EAST",,1492,,1382,,Con,Other,AntiConfed
+1,ON,50,"ELGIN WEST",,970,,766,,Con,Other,AntiConfed
+1,ON,51,"ESSEX",,1439,,1432,,Con,Other,AntiConfed
+1,ON,52,"FRONTENAC",,1242,,693,,Con,Other,AntiConfed
+1,ON,53,"GLENGARRY",,,,,,Other,AntiConfed,Con
+1,ON,54,"GRENVILLE SOUTH",,899,,730,,Con,Other,AntiConfed
+1,ON,55,"GREY NORTH",,,1399,1143,,Lib,Other,AntiConfed
+1,ON,56,"GREY SOUTH",,1560,,1547,,Con,Other,AntiConfed
+1,ON,57,"HALDIMAND",,,1391,1022,,Lib,Other,AntiConfed
+1,ON,58,"HALTON",,,1422,1289,,Lib,Other,AntiConfed
+1,ON,59,"HAMILTON",,,,,,Other,AntiConfed,Con
+1,ON,60,"HASTINGS EAST",,1110,,457,,Con,Other,AntiConfed
+1,ON,61,"HASTINGS NORTH",,928,,637,,Con,Other,AntiConfed
+1,ON,62,"HASTINGS WEST",,773,,313,,Con,Other,AntiConfed
+1,ON,63,"HURON NORTH",,,1940,1993,,Other,Lib,AntiConfed
+1,ON,64,"HURON SOUTH",,,1624,1454,,Lib,Other,AntiConfed
+1,ON,65,"KENT",,1524,,1427,,Con,Other,AntiConfed
+1,ON,66,"KINGSTON",,,,142,735,PC,Other,AntiConfed
+1,ON,67,"LAMBTON",,1311,1999,,,Lib,Con,Other
+1,ON,68,"LANARK NORTH",,,,,,Other,AntiConfed,Con
+1,ON,69,"LANARK SOUTH",,,,,,Other,AntiConfed,Con
+1,ON,70,"LEEDS NORTH AND GRENVILLE NORTH",,923,,857,,Con,Other,AntiConfed
+1,ON,71,"LEEDS SOUTH",,1393,,1364,,Con,Other,AntiConfed
+1,ON,72,"LENNOX",,1268,,1122,,Con,Other,AntiConfed
+1,ON,73,"LINCOLN",,,,,,Other,AntiConfed,Con
+1,ON,74,"LONDON",,,,266,1114,PC,Other,AntiConfed
+1,ON,75,"MIDDLESEX EAST",,,,1756,1896,PC,Other,AntiConfed
+1,ON,76,"MIDDLESEX NORTH",,,1605,874,,Lib,Other,AntiConfed
+1,ON,77,"MIDDLESEX WEST",,1063,,1044,,Con,Other,AntiConfed
+1,ON,78,"MONCK",,,,871,1126,PC,Other,AntiConfed
+1,ON,79,"NIAGARA",,300,,250,,Con,Other,AntiConfed
+1,ON,80,"NORFOLK NORTH",,1026,,990,,Con,Other,AntiConfed
+1,ON,81,"NORFOLK SOUTH",,,1050,969,,Lib,Other,AntiConfed
+1,ON,82,"NORTHUMBERLAND EAST",,,,827,1607,PC,Other,AntiConfed
+1,ON,83,"NORTHUMBERLAND WEST",,,,,,Other,AntiConfed,Con
+1,ON,84,"ONTARIO NORTH",,,2990,,,Lib,Other,AntiConfed
+1,ON,85,"ONTARIO SOUTH",,,,1223,1292,PC,Other,AntiConfed
+1,ON,86,"OTTAWA (CITY OF)",,,,31,974,PC,Other,AntiConfed
+1,ON,87,"OXFORD NORTH",,,,,,Other,AntiConfed,Con
+1,ON,88,"OXFORD SOUTH",,,,,,Other,AntiConfed,Con
+1,ON,89,"PEEL",,1138,,1076,,Con,Other,AntiConfed
+1,ON,90,"PERTH NORTH",,,1515,0,1307,Lib,PC,Other
+1,ON,91,"PERTH SOUTH",,,1490,1393,,Lib,Other,AntiConfed
+1,ON,92,"PETERBOROUGH EAST",,956,,644,,Con,Other,AntiConfed
+1,ON,93,"PETERBOROUGH WEST",,681,,652,,Con,Other,AntiConfed
+1,ON,94,"PRESCOTT",,,1205,130,,Lib,Other,AntiConfed
+1,ON,95,"PRINCE EDWARD",,942,1779,,,Lib,Con,Other
+1,ON,96,"RENFREW NORTH",,613,,527,,Con,Other,AntiConfed
+1,ON,97,"RENFREW SOUTH",,,,,,Other,AntiConfed,Con
+1,ON,98,"RUSSELL",,1293,,695,,Con,Other,AntiConfed
+1,ON,99,"SIMCOE NORTH",,,,,,Other,AntiConfed,Con
+1,ON,100,"SIMCOE SOUTH",,,,1055,1411,PC,Other,AntiConfed
+1,ON,101,"STORMONT",,,,363,955,PC,Other,AntiConfed
+1,ON,102,"TORONTO EAST",,1113,,981,,Con,Other,AntiConfed
+1,ON,103,"VICTORIA NORTH",,,687,403,,Lib,Other,AntiConfed
+1,ON,104,"VICTORIA SOUTH",,,1001,801,,Lib,Other,AntiConfed
+1,ON,105,"WATERLOO NORTH",,,,,,Other,AntiConfed,Con
+1,ON,106,"WATERLOO SOUTH",,,1324,958,,Lib,Other,AntiConfed
+1,ON,107,"WELLAND",,,,,,Other,AntiConfed,Con
+1,ON,108,"WELLINGTON CENTRE",,,,,,Other,AntiConfed,Con
+1,ON,109,"WELLINGTON NORTH",,,,1271,1493,PC,Other,AntiConfed
+1,ON,110,"WELLINGTON SOUTH",,,963,652,,Lib,Other,AntiConfed
+1,ON,111,"WENTWORTH NORTH",,,1154,1093,,Lib,Other,AntiConfed
+1,ON,112,"WENTWORTH SOUTH",,,1015,988,,Lib,Other,AntiConfed
+1,ON,113,"WEST TORONTO",,1477,,1048,,Con,Other,AntiConfed
+1,ON,114,"YORK EAST",,,1174,937,,Lib,Other,AntiConfed
+1,ON,115,"YORK NORTH",,,,,,Other,AntiConfed,Con
+1,ON,116,"YORK WEST",,,,297,810,PC,Other,AntiConfed
+1,QC,117,"ARGENTEUIL",,,,595,693,PC,Other,AntiConfed
+1,QC,118,"BAGOT",,1156,,889,,Con,Other,AntiConfed
+1,QC,119,"BEAUCE",,,1180,629,,Lib,Other,AntiConfed
+1,QC,120,"BEAUHARNOIS",,724,,691,,Con,Other,AntiConfed
+1,QC,121,"BELLECHASSE",,983,,671,,Con,Other,AntiConfed
+1,QC,122,"BERTHIER",,,1131,1095,,Lib,Other,AntiConfed
+1,QC,123,"BONAVENTURE",,1018,,444,,Con,Other,AntiConfed
+1,QC,124,"BROME",,,,,,Other,AntiConfed,Con
+1,QC,125,"CHAMBLY",,691,,526,,Con,Other,AntiConfed
+1,QC,126,"CHAMPLAIN",,1449,,305,,Con,Other,AntiConfed
+1,QC,127,"CHARLEVOIX",,999,,911,,Con,Other,AntiConfed
+1,QC,128,"CHICOUTIMI--SAGUENAY",,,,,,Other,AntiConfed,Con
+1,QC,129,"CHÂTEAUGUAY",,,1013,586,,Lib,Other,AntiConfed
+1,QC,130,"COMPTON",,,,,,Other,AntiConfed,Con
+1,QC,131,"DORCHESTER",,,,,,Other,AntiConfed,Con
+1,QC,132,"DRUMMOND--ARTHABASKA",,1135,,1111,,Con,Other,AntiConfed
+1,QC,133,"GASPÉ",,,,,,Other,AntiConfed,Con
+1,QC,134,"HOCHELAGA",,,1312,1289,,Lib,Other,AntiConfed
+1,QC,135,"HUNTINGDON",,,,468,1280,PC,Other,AntiConfed
+1,QC,136,"IBERVILLE",,,1035,504,,Lib,Other,AntiConfed
+1,QC,137,"JACQUES CARTIER",,659,,542,,Con,Other,AntiConfed
+1,QC,138,"JOLIETTE",,862,918,,,Lib,Con,Other
+1,QC,139,"L'ASSOMPTION",,,,665,898,PC,Other,AntiConfed
+1,QC,140,"L'ISLET",,464,,40,,Con,Other,AntiConfed
+1,QC,141,"LAPRAIRIE",,750,,293,,Con,Other,AntiConfed
+1,QC,142,"LAVAL",,,,,,Other,AntiConfed,Con
+1,QC,143,"LOTBINIÈRE",,,,,,Other,AntiConfed,Con
+1,QC,144,"LÉVIS",,,,,,Other,AntiConfed,Con
+1,QC,145,"MASKINONGÉ",,702,,564,,Con,Other,AntiConfed
+1,QC,146,"MISSISQUOI",,1190,,497,,Con,Other,AntiConfed
+1,QC,147,"MONTCALM",,,,,,Other,AntiConfed,Con
+1,QC,148,"MONTMAGNY",,,,,,Other,AntiConfed,Con
+1,QC,149,"MONTMORENCY",,,,,,Other,AntiConfed,Con
+1,QC,150,"MONTREAL CENTRE",,,,,,Other,AntiConfed,Con
+1,QC,151,"MONTREAL EAST",,,2085,,2431,PC,Lib,Other
+1,QC,152,"MONTREAL WEST",,,2478,,2675,PC,Lib,Other
+1,QC,153,"MÉGANTIC",,1000,,733,,Con,Other,AntiConfed
+1,QC,154,"NAPIERVILLE",,,878,344,,Lib,Other,AntiConfed
+1,QC,155,"NICOLET",,1070,,499,,Con,Other,AntiConfed
+1,QC,156,"OTTAWA (COUNTY OF)",,,,,,Other,AntiConfed,Con
+1,QC,157,"PONTIAC",,,,,,Other,AntiConfed,Con
+1,QC,158,"PORTNEUF",,1027,,719,,Con,Other,AntiConfed
+1,QC,159,"QUEBEC COUNTY",,,,,,Other,AntiConfed,Con
+1,QC,160,"QUEBEC EAST",,,,,,Other,AntiConfed,Con
+1,QC,161,"QUEBEC WEST",,,,,,Other,AntiConfed,Con
+1,QC,162,"QUEBEC-CENTRE",,1291,,7,,Con,Other,AntiConfed
+1,QC,163,"RICHELIEU",,777,,1075,,Other,Con,AntiConfed
+1,QC,164,"RICHMOND--WOLFE",,1137,,903,,Con,Other,AntiConfed
+1,QC,165,"RIMOUSKI",,1152,,697,,Con,Other,AntiConfed
+1,QC,166,"ROUVILLE",,,1236,824,,Lib,Other,AntiConfed
+1,QC,167,"SAINT MAURICE",,,,,,Other,AntiConfed,Con
+1,QC,168,"SHEFFORD",,,1317,991,,Lib,Other,AntiConfed
+1,QC,169,"SHERBROOKE (TOWN OF)",,,,,,Other,AntiConfed,Con
+1,QC,170,"SOULANGES",,729,,470,,Con,Other,AntiConfed
+1,QC,171,"ST. HYACINTHE",,,1107,929,,Lib,Other,AntiConfed
+1,QC,172,"ST. JOHN'S",,,696,600,,Lib,Other,AntiConfed
+1,QC,173,"STANSTEAD",,,,616,814,PC,Other,AntiConfed
+1,QC,174,"TERREBONNE",,,,,,Other,AntiConfed,Con
+1,QC,175,"THREE RIVERS",,277,,143,,Con,Other,AntiConfed
+1,QC,176,"TWO MOUNTAINS",,,,,,Other,AntiConfed,Con
+1,QC,177,"TÉMISCOUATA",,,,,,Other,AntiConfed,Con
+1,QC,178,"VAUDREUIL",,,,,,Other,AntiConfed,Con
+1,QC,179,"VERCHÈRES",,,831,740,,Lib,Other,AntiConfed
+1,QC,180,"YAMASKA",,760,797,,,Lib,Con,Other

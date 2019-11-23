@@ -1,0 +1,968 @@
+election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_party_name,party_id,party_name,party_short_name,mainstream,votes,acclaimed,place
+28,1968-06-25,AB,1,ATHABASCA,16821,"YEWCHUK, Paul",Progressive Conservative,124,Progressive Conservative Party,PC,t,8852,f,1
+28,1968-06-25,AB,1,ATHABASCA,16822,"MACCAGNO, Mike",Liberal,75,Liberal,Lib,t,7626,f,2
+28,1968-06-25,AB,1,ATHABASCA,16823,"ANDERSON, Terry",New Democratic Party,100,New Democratic Party,NDP,t,2315,f,3
+28,1968-06-25,AB,2,BATTLE RIVER,16824,"DOWNEY, Cliff",Progressive Conservative,124,Progressive Conservative Party,PC,t,15725,f,1
+28,1968-06-25,AB,2,BATTLE RIVER,16826,"KNAUT, Rod",Liberal,75,Liberal,Lib,t,4124,f,2
+28,1968-06-25,AB,2,BATTLE RIVER,16825,"VALLEAU, Stan",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2756,f,3
+28,1968-06-25,AB,2,BATTLE RIVER,16827,"SCOTTEN, William M.",New Democratic Party,100,New Democratic Party,NDP,t,1827,f,4
+28,1968-06-25,AB,3,CALGARY CENTRE,16828,"HARKNESS, Douglas S.",Progressive Conservative,124,Progressive Conservative Party,PC,t,16977,f,1
+28,1968-06-25,AB,3,CALGARY CENTRE,16829,"TAYLOR, Nick",Liberal,75,Liberal,Lib,t,16676,f,2
+28,1968-06-25,AB,3,CALGARY CENTRE,16830,"JACKSON, Margaret I.",New Democratic Party,100,New Democratic Party,NDP,t,2413,f,3
+28,1968-06-25,AB,4,CALGARY NORTH,16831,"WOOLLIAMS, Eldon M.",Progressive Conservative,124,Progressive Conservative Party,PC,t,21708,f,1
+28,1968-06-25,AB,4,CALGARY NORTH,16833,"PETRASUK, Peter",Liberal,75,Liberal,Lib,t,18185,f,2
+28,1968-06-25,AB,4,CALGARY NORTH,16832,"TAKACS, Ted",New Democratic Party,100,New Democratic Party,NDP,t,3648,f,3
+28,1968-06-25,AB,5,CALGARY SOUTH,16834,"MAHONEY, Pat",Liberal,75,Liberal,Lib,t,20472,f,1
+28,1968-06-25,AB,5,CALGARY SOUTH,16835,"BALLARD, Ray",Progressive Conservative,124,Progressive Conservative Party,PC,t,19716,f,2
+28,1968-06-25,AB,5,CALGARY SOUTH,16836,"PETERS, Jack D.",New Democratic Party,100,New Democratic Party,NDP,t,2798,f,3
+28,1968-06-25,AB,6,CROWFOOT,16837,"HORNER, Jack H.",Progressive Conservative,124,Progressive Conservative Party,PC,t,16508,f,1
+28,1968-06-25,AB,6,CROWFOOT,16839,"SHARP, Noel",Liberal,75,Liberal,Lib,t,4783,f,2
+28,1968-06-25,AB,6,CROWFOOT,16838,"MCCREADY, Stuart",New Democratic Party,100,New Democratic Party,NDP,t,1185,f,3
+28,1968-06-25,AB,7,EDMONTON CENTRE,16840,"PAPROSKI, Steven Eugene",Progressive Conservative,124,Progressive Conservative Party,PC,t,12062,f,1
+28,1968-06-25,AB,7,EDMONTON CENTRE,16843,"GRAY, Donald",Liberal,75,Liberal,Lib,t,11811,f,2
+28,1968-06-25,AB,7,EDMONTON CENTRE,16842,"HAWRELAK, William",Independent Liberal,58,Independent Liberal,IndLib,f,7912,f,3
+28,1968-06-25,AB,7,EDMONTON CENTRE,16841,"DOLMAN, Norman Gerald",New Democratic Party,100,New Democratic Party,NDP,t,3054,f,4
+28,1968-06-25,AB,8,EDMONTON EAST,16844,"SKOREYKO, Bill",Progressive Conservative,124,Progressive Conservative Party,PC,t,15764,f,1
+28,1968-06-25,AB,8,EDMONTON EAST,16845,"SHEWCHUK, Pat",Liberal,75,Liberal,Lib,t,12739,f,2
+28,1968-06-25,AB,8,EDMONTON EAST,16847,"JAMHA, Roy H.",New Democratic Party,100,New Democratic Party,NDP,t,5292,f,3
+28,1968-06-25,AB,8,EDMONTON EAST,16846,"ASKIN, William R.",Communist Party of Canada,31,Communist Party,Com,f,410,f,4
+28,1968-06-25,AB,9,EDMONTON WEST,16848,"LAMBERT, Marcel",Progressive Conservative,124,Progressive Conservative Party,PC,t,19612,f,1
+28,1968-06-25,AB,9,EDMONTON WEST,16849,"MILLER, Tevie",Liberal,75,Liberal,Lib,t,17306,f,2
+28,1968-06-25,AB,9,EDMONTON WEST,16850,"KERR, Kenneth",New Democratic Party,100,New Democratic Party,NDP,t,2793,f,3
+28,1968-06-25,AB,10,EDMONTON--STRATHCONA,16851,"HARRIES, Hu",Liberal,75,Liberal,Lib,t,21074,f,1
+28,1968-06-25,AB,10,EDMONTON--STRATHCONA,16853,"NUGENT, Terry",Progressive Conservative,124,Progressive Conservative Party,PC,t,15228,f,2
+28,1968-06-25,AB,10,EDMONTON--STRATHCONA,16852,"RADCLIFFE, Lawrence",New Democratic Party,100,New Democratic Party,NDP,t,2745,f,3
+28,1968-06-25,AB,10,EDMONTON--STRATHCONA,16854,"BEATTY, John R.",Independent,52,Independent,Ind,f,1206,f,4
+28,1968-06-25,AB,11,LETHBRIDGE,16855,"GUNDLOCK, Deane Roscoe",Progressive Conservative,124,Progressive Conservative Party,PC,t,11901,f,1
+28,1968-06-25,AB,11,LETHBRIDGE,16856,"BORAS, John I.",Liberal,75,Liberal,Lib,t,8193,f,2
+28,1968-06-25,AB,11,LETHBRIDGE,16857,"PATTERSON, Ernest R.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,3941,f,3
+28,1968-06-25,AB,11,LETHBRIDGE,16858,"ORCHARD, George Edward",New Democratic Party,100,New Democratic Party,NDP,t,2442,f,4
+28,1968-06-25,AB,12,MEDICINE HAT,16859,"OLSON, H.A. Bud",Liberal,75,Liberal,Lib,t,9015,f,1
+28,1968-06-25,AB,12,MEDICINE HAT,16860,"MEAGHER, C.J. Chuck",Progressive Conservative,124,Progressive Conservative Party,PC,t,8809,f,2
+28,1968-06-25,AB,12,MEDICINE HAT,16861,"STROM, W.H. Walt",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4237,f,3
+28,1968-06-25,AB,12,MEDICINE HAT,16862,"TOOLE, Lewis E.",New Democratic Party,100,New Democratic Party,NDP,t,2401,f,4
+28,1968-06-25,AB,13,PALLISER,16863,"SCHUMACHER, Stan",Progressive Conservative,124,Progressive Conservative Party,PC,t,16967,f,1
+28,1968-06-25,AB,13,PALLISER,16865,"AYER, John",Liberal,75,Liberal,Lib,t,9147,f,2
+28,1968-06-25,AB,13,PALLISER,16864,"EARLY, Allan M.",New Democratic Party,100,New Democratic Party,NDP,t,2014,f,3
+28,1968-06-25,AB,14,PEACE RIVER,16866,"BALDWIN, Ged",Progressive Conservative,124,Progressive Conservative Party,PC,t,11825,f,1
+28,1968-06-25,AB,14,PEACE RIVER,16868,"THOMPSON, Phil",New Democratic Party,100,New Democratic Party,NDP,t,4830,f,2
+28,1968-06-25,AB,14,PEACE RIVER,16867,"BRANIGAN, Don",Liberal,75,Liberal,Lib,t,4620,f,3
+28,1968-06-25,AB,15,PEMBINA,16869,"BIGG, Jack",Progressive Conservative,124,Progressive Conservative Party,PC,t,17578,f,1
+28,1968-06-25,AB,15,PEMBINA,16871,"CHALIFOUX, Paul-A.",Liberal,75,Liberal,Lib,t,9342,f,2
+28,1968-06-25,AB,15,PEMBINA,16870,"ROMANIUK, Anne",New Democratic Party,100,New Democratic Party,NDP,t,2963,f,3
+28,1968-06-25,AB,16,RED DEER,16872,"THOMPSON, Robert Norman",Progressive Conservative,124,Progressive Conservative Party,PC,t,17930,f,1
+28,1968-06-25,AB,16,RED DEER,16874,"IRWIN, Douglas M.",Liberal,75,Liberal,Lib,t,8541,f,2
+28,1968-06-25,AB,16,RED DEER,16873,"ANDERSON, Peter G.",New Democratic Party,100,New Democratic Party,NDP,t,2349,f,3
+28,1968-06-25,AB,17,ROCKY MOUNTAIN,16875,"SULATYCKY, Allen B.",Liberal,75,Liberal,Lib,t,7355,f,1
+28,1968-06-25,AB,17,ROCKY MOUNTAIN,16878,"GOURLAY, Hugh",Progressive Conservative,124,Progressive Conservative Party,PC,t,5792,f,2
+28,1968-06-25,AB,17,ROCKY MOUNTAIN,16880,"CASTON, Douglas M.",Progressive Conservative,124,Progressive Conservative Party,PC,t,3585,f,3
+28,1968-06-25,AB,17,ROCKY MOUNTAIN,16876,"HORNBY, Searle Elmer",New Democratic Party,100,New Democratic Party,NDP,t,2093,f,4
+28,1968-06-25,AB,17,ROCKY MOUNTAIN,16879,"MCLEOD, John William",Independent Liberal,58,Independent Liberal,IndLib,f,412,f,5
+28,1968-06-25,AB,17,ROCKY MOUNTAIN,16877,"MABERLEY, Collier",Independent Liberal,58,Independent Liberal,IndLib,f,275,f,6
+28,1968-06-25,AB,18,VEGREVILLE,16881,"MAZANKOWSKI, Don",Progressive Conservative,124,Progressive Conservative Party,PC,t,15855,f,1
+28,1968-06-25,AB,18,VEGREVILLE,16883,"VAN BRABANT, Jules",Liberal,75,Liberal,Lib,t,5066,f,2
+28,1968-06-25,AB,18,VEGREVILLE,16882,"LINDGREN, Lester Albin",New Democratic Party,100,New Democratic Party,NDP,t,2277,f,3
+28,1968-06-25,AB,18,VEGREVILLE,16884,"EGLINSKI, George M.",Independent Progressive Conservative,62,Independent Progressive Conservative,IndProgCon,f,1349,f,4
+28,1968-06-25,AB,19,WETASKIWIN,16885,"MOORE, Harry A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,15178,f,1
+28,1968-06-25,AB,19,WETASKIWIN,16886,"BÉGUIN, René",Liberal,75,Liberal,Lib,t,4970,f,2
+28,1968-06-25,AB,19,WETASKIWIN,16887,"NELSON, Ed",New Democratic Party,100,New Democratic Party,NDP,t,3281,f,3
+28,1968-06-25,BC,20,BURNABY--RICHMOND,16888,"GOODE, Tom",Liberal,75,Liberal,Lib,t,16182,f,1
+28,1968-06-25,BC,20,BURNABY--RICHMOND,16891,"PRITTIE, Bob",New Democratic Party,100,New Democratic Party,NDP,t,14470,f,2
+28,1968-06-25,BC,20,BURNABY--RICHMOND,16889,"PHILLIPS, Matt",Progressive Conservative,124,Progressive Conservative Party,PC,t,5035,f,3
+28,1968-06-25,BC,20,BURNABY--RICHMOND,16890,"LUBZINSKI, Jack",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2445,f,4
+28,1968-06-25,BC,21,BURNABY--SEYMOUR,16892,"PERRAULT, Ray",Liberal,75,Liberal,Lib,t,17891,f,1
+28,1968-06-25,BC,21,BURNABY--SEYMOUR,16894,"DOUGLAS, Tommy C.",New Democratic Party,100,New Democratic Party,NDP,t,17753,f,2
+28,1968-06-25,BC,21,BURNABY--SEYMOUR,16895,"MACLEAN, Charles",Progressive Conservative,124,Progressive Conservative Party,PC,t,3206,f,3
+28,1968-06-25,BC,21,BURNABY--SEYMOUR,16893,"PRICE, Ron",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,702,f,4
+28,1968-06-25,BC,22,CAPILANO,16896,"DAVIS, Jack",Liberal,75,Liberal,Lib,t,28292,f,1
+28,1968-06-25,BC,22,CAPILANO,16898,"SHANNON, Carlyle Boyd",Progressive Conservative,124,Progressive Conservative Party,PC,t,7310,f,2
+28,1968-06-25,BC,22,CAPILANO,16899,"SNOWSELL, Frank",New Democratic Party,100,New Democratic Party,NDP,t,6279,f,3
+28,1968-06-25,BC,22,CAPILANO,16897,"MACKIE, Lance Jack",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,745,f,4
+28,1968-06-25,BC,23,COAST CHILCOTIN,16900,"ST-PIERRE, Paul",Liberal,75,Liberal,Lib,t,10292,f,1
+28,1968-06-25,BC,23,COAST CHILCOTIN,16901,"DENT, Hartley",New Democratic Party,100,New Democratic Party,NDP,t,7477,f,2
+28,1968-06-25,BC,23,COAST CHILCOTIN,16902,"HOPKIN, Gordon",Progressive Conservative,124,Progressive Conservative Party,PC,t,2355,f,3
+28,1968-06-25,BC,23,COAST CHILCOTIN,16903,"WIDSTEN, Andy",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1629,f,4
+28,1968-06-25,BC,24,COMOX--ALBERNI,16904,"DURANTE, Richard J.J.",Liberal,75,Liberal,Lib,t,11939,f,1
+28,1968-06-25,BC,24,COMOX--ALBERNI,16906,"BARNETT, Thomas S.",New Democratic Party,100,New Democratic Party,NDP,t,11930,f,2
+28,1968-06-25,BC,24,COMOX--ALBERNI,16907,"MCLEAN, Blair",Progressive Conservative,124,Progressive Conservative Party,PC,t,5154,f,3
+28,1968-06-25,BC,24,COMOX--ALBERNI,16905,"GAGNON, Jean-M.-Joseph",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,997,f,4
+28,1968-06-25,BC,24,COMOX--ALBERNI,16908,"MOSHER, Mark",Communist Party of Canada,31,Communist Party,Com,f,311,f,5
+28,1968-06-25,BC,25,ESQUIMALT--SAANICH,16909,"ANDERSON, David",Liberal,75,Liberal,Lib,t,16501,f,1
+28,1968-06-25,BC,25,ESQUIMALT--SAANICH,16910,"CHATTERTON, George L.",Progressive Conservative,124,Progressive Conservative Party,PC,t,13587,f,2
+28,1968-06-25,BC,25,ESQUIMALT--SAANICH,16911,"JOHANNESSEN, Donald",New Democratic Party,100,New Democratic Party,NDP,t,10952,f,3
+28,1968-06-25,BC,25,ESQUIMALT--SAANICH,16912,"OVERTON, Ralph Leroy",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,751,f,4
+28,1968-06-25,BC,26,FRASER VALLEY EAST,16913,"PRINGLE, Jerry",Liberal,75,Liberal,Lib,t,9689,f,1
+28,1968-06-25,BC,26,FRASER VALLEY EAST,16915,"PATTERSON, Alex B.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,8035,f,2
+28,1968-06-25,BC,26,FRASER VALLEY EAST,16916,"HADDRELL, Glenn C.",New Democratic Party,100,New Democratic Party,NDP,t,6654,f,3
+28,1968-06-25,BC,26,FRASER VALLEY EAST,16914,"DAYTON, Oscar",Progressive Conservative,124,Progressive Conservative Party,PC,t,3514,f,4
+28,1968-06-25,BC,27,FRASER VALLEY WEST,16917,"ROSE, Mark",New Democratic Party,100,New Democratic Party,NDP,t,14410,f,1
+28,1968-06-25,BC,27,FRASER VALLEY WEST,16919,"MURPHY, Edward Patrick",Liberal,75,Liberal,Lib,t,13745,f,2
+28,1968-06-25,BC,27,FRASER VALLEY WEST,16920,"LOHNES, Warren",Progressive Conservative,124,Progressive Conservative Party,PC,t,4997,f,3
+28,1968-06-25,BC,27,FRASER VALLEY WEST,16918,"PRICE, Bert",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,3224,f,4
+28,1968-06-25,BC,28,KAMLOOPS--CARIBOO,16921,"MARCHAND, Leonard Stephen",Liberal,75,Liberal,Lib,t,13000,f,1
+28,1968-06-25,BC,28,KAMLOOPS--CARIBOO,16924,"FULTON, Edmund Davie",Progressive Conservative,124,Progressive Conservative Party,PC,t,9704,f,2
+28,1968-06-25,BC,28,KAMLOOPS--CARIBOO,16922,"JONES, Vernor Wilfred",New Democratic Party,100,New Democratic Party,NDP,t,7566,f,3
+28,1968-06-25,BC,28,KAMLOOPS--CARIBOO,16923,"GOOK, Peter Robert",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1842,f,4
+28,1968-06-25,BC,29,KOOTENAY WEST,16925,"HARDING, Randolph",New Democratic Party,100,New Democratic Party,NDP,t,12181,f,1
+28,1968-06-25,BC,29,KOOTENAY WEST,16926,"GRIFFITHS, Donald F.",Liberal,75,Liberal,Lib,t,7768,f,2
+28,1968-06-25,BC,29,KOOTENAY WEST,16927,"ARNESEN, Bruce",Progressive Conservative,124,Progressive Conservative Party,PC,t,4457,f,3
+28,1968-06-25,BC,29,KOOTENAY WEST,16928,"BROTHERS, Edward L.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2693,f,4
+28,1968-06-25,BC,30,NANAIMO--COWICHAN--THE ISLANDS,16929,"CAMERON, Colin",New Democratic Party,100,New Democratic Party,NDP,t,15273,f,1
+28,1968-06-25,BC,30,NANAIMO--COWICHAN--THE ISLANDS,16932,"ZORKIN, Mladen Giunio",Liberal,75,Liberal,Lib,t,11378,f,2
+28,1968-06-25,BC,30,NANAIMO--COWICHAN--THE ISLANDS,16930,"BROCK, Jeffry",Progressive Conservative,124,Progressive Conservative Party,PC,t,8773,f,3
+28,1968-06-25,BC,30,NANAIMO--COWICHAN--THE ISLANDS,16931,"LEE, Lorne",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1193,f,4
+28,1968-06-25,BC,31,NEW WESTMINSTER,16933,"HOGARTH, Douglas Aird",Liberal,75,Liberal,Lib,t,18083,f,1
+28,1968-06-25,BC,31,NEW WESTMINSTER,16937,"LYTLE, Clive B.",New Democratic Party,100,New Democratic Party,NDP,t,16144,f,2
+28,1968-06-25,BC,31,NEW WESTMINSTER,16936,"CRAIG, Frederick Young",Progressive Conservative,124,Progressive Conservative Party,PC,t,4761,f,3
+28,1968-06-25,BC,31,NEW WESTMINSTER,16934,"MCRAE, Grayden B.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1382,f,4
+28,1968-06-25,BC,31,NEW WESTMINSTER,16935,"MCLAREN, Robert C.",Communist Party of Canada,31,Communist Party,Com,f,251,f,5
+28,1968-06-25,BC,32,OKANAGAN BOUNDARY,16938,"HOWARD, Bruce",Liberal,75,Liberal,Lib,t,12321,f,1
+28,1968-06-25,BC,32,OKANAGAN BOUNDARY,16940,"PUGH, David V.",Progressive Conservative,124,Progressive Conservative Party,PC,t,10691,f,2
+28,1968-06-25,BC,32,OKANAGAN BOUNDARY,16941,"TURNER, Alex",New Democratic Party,100,New Democratic Party,NDP,t,10481,f,3
+28,1968-06-25,BC,32,OKANAGAN BOUNDARY,16939,"Sparrow, Dave",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4217,f,4
+28,1968-06-25,BC,33,OKANAGAN--KOOTENAY,16942,"STEWART, Doug",Liberal,75,Liberal,Lib,t,11370,f,1
+28,1968-06-25,BC,33,OKANAGAN--KOOTENAY,16944,"PATTERSON, James",New Democratic Party,100,New Democratic Party,NDP,t,9552,f,2
+28,1968-06-25,BC,33,OKANAGAN--KOOTENAY,16943,"JOHNSTON, Howard",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,5837,f,3
+28,1968-06-25,BC,33,OKANAGAN--KOOTENAY,16945,"MCKECHNIE, David Wilson",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4837,f,4
+28,1968-06-25,BC,34,PRINCE GEORGE--PEACE RIVER,16946,"BORRIE, Bob",Liberal,75,Liberal,Lib,t,10926,f,1
+28,1968-06-25,BC,34,PRINCE GEORGE--PEACE RIVER,16950,"RUNKLE, Peter",Progressive Conservative,124,Progressive Conservative Party,PC,t,9293,f,2
+28,1968-06-25,BC,34,PRINCE GEORGE--PEACE RIVER,16947,"REGIER, Erhart",New Democratic Party,100,New Democratic Party,NDP,t,6894,f,3
+28,1968-06-25,BC,34,PRINCE GEORGE--PEACE RIVER,16948,"LEBOE, Bert",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,3776,f,4
+28,1968-06-25,BC,34,PRINCE GEORGE--PEACE RIVER,16949,"POWERS, John H.",Independent,52,Independent,Ind,f,402,f,5
+28,1968-06-25,BC,35,SKEENA,16951,"HOWARD, Frank",New Democratic Party,100,New Democratic Party,NDP,t,12471,f,1
+28,1968-06-25,BC,35,SKEENA,16952,"BATES, Art",Liberal,75,Liberal,Lib,t,7874,f,2
+28,1968-06-25,BC,35,SKEENA,16953,"CICCONE, Vern",Progressive Conservative,124,Progressive Conservative Party,PC,t,3552,f,3
+28,1968-06-25,BC,36,SURREY,16954,"MATHER, Barry",New Democratic Party,100,New Democratic Party,NDP,t,16186,f,1
+28,1968-06-25,BC,36,SURREY,16957,"VANDER ZALM, William",Liberal,75,Liberal,Lib,t,11741,f,2
+28,1968-06-25,BC,36,SURREY,16955,"HARVEY, Roland John",Progressive Conservative,124,Progressive Conservative Party,PC,t,5953,f,3
+28,1968-06-25,BC,36,SURREY,16956,"DOLL, Delbert K.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2445,f,4
+28,1968-06-25,BC,37,VANCOUVER CENTRE,16958,"BASFORD, Ron",Liberal,75,Liberal,Lib,t,25426,f,1
+28,1968-06-25,BC,37,VANCOUVER CENTRE,16959,"DEVERELL, William",New Democratic Party,100,New Democratic Party,NDP,t,11151,f,2
+28,1968-06-25,BC,37,VANCOUVER CENTRE,16960,"KILGOUR, David W.",Progressive Conservative,124,Progressive Conservative Party,PC,t,8326,f,3
+28,1968-06-25,BC,37,VANCOUVER CENTRE,16961,"GOEUJON, Gerard",Reform Party of Canada,134,Reform Party,Reform,t,420,f,4
+28,1968-06-25,BC,38,VANCOUVER EAST,16962,"WINCH, Harold Edward",New Democratic Party,100,New Democratic Party,NDP,t,13339,f,1
+28,1968-06-25,BC,38,VANCOUVER EAST,16963,"KENNEDY, Robert",Liberal,75,Liberal,Lib,t,9750,f,2
+28,1968-06-25,BC,38,VANCOUVER EAST,16964,"MEYER, Max E.",Progressive Conservative,124,Progressive Conservative Party,PC,t,2377,f,3
+28,1968-06-25,BC,38,VANCOUVER EAST,16965,"EMANUELE, P. Daniel",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,726,f,4
+28,1968-06-25,BC,38,VANCOUVER EAST,16966,"CARON, Charles",Communist Party of Canada,31,Communist Party,Com,f,477,f,5
+28,1968-06-25,BC,39,VANCOUVER KINGSWAY,16967,"MACINNIS, Grace",New Democratic Party,100,New Democratic Party,NDP,t,15599,f,1
+28,1968-06-25,BC,39,VANCOUVER KINGSWAY,16968,"BODNARCHUK, Edward",Liberal,75,Liberal,Lib,t,10835,f,2
+28,1968-06-25,BC,39,VANCOUVER KINGSWAY,16969,"BRITTON, Claude",Progressive Conservative,124,Progressive Conservative Party,PC,t,3285,f,3
+28,1968-06-25,BC,39,VANCOUVER KINGSWAY,16970,"GREEN, Lorena T.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1760,f,4
+28,1968-06-25,BC,40,VANCOUVER QUADRA,16971,"DEACHMAN, Grant",Liberal,75,Liberal,Lib,t,20788,f,1
+28,1968-06-25,BC,40,VANCOUVER QUADRA,16972,"PEARKES, John A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,11604,f,2
+28,1968-06-25,BC,40,VANCOUVER QUADRA,16973,"TRASOV, George",New Democratic Party,100,New Democratic Party,NDP,t,5727,f,3
+28,1968-06-25,BC,40,VANCOUVER QUADRA,16974,"HEIN, Robert",Republican,136,Republican Party,Repub,f,175,f,4
+28,1968-06-25,BC,41,VANCOUVER SOUTH,16975,"LAING, Arthur",Liberal,75,Liberal,Lib,t,19757,f,1
+28,1968-06-25,BC,41,VANCOUVER SOUTH,16976,"FRASER, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,9521,f,2
+28,1968-06-25,BC,41,VANCOUVER SOUTH,16977,"WARNOCK, Joe",New Democratic Party,100,New Democratic Party,NDP,t,9086,f,3
+28,1968-06-25,BC,41,VANCOUVER SOUTH,16978,"DEVLIN, Daniel A.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1585,f,4
+28,1968-06-25,BC,41,VANCOUVER SOUTH,16979,"SMITH, Robin",Communist Party of Canada,31,Communist Party,Com,f,157,f,5
+28,1968-06-25,BC,42,VICTORIA,16980,"GROOS, David",Liberal,75,Liberal,Lib,t,18401,f,1
+28,1968-06-25,BC,42,VICTORIA,16981,"CHARMAN, Eric",Progressive Conservative,124,Progressive Conservative Party,PC,t,13578,f,2
+28,1968-06-25,BC,42,VICTORIA,16982,"RICHARDSON, Harvey",New Democratic Party,100,New Democratic Party,NDP,t,9414,f,3
+28,1968-06-25,BC,42,VICTORIA,16983,"BURNHAM, George",Independent,52,Independent,Ind,f,526,f,4
+28,1968-06-25,MB,43,BRANDON--SOURIS,16984,"DINSDALE, Walter",Progressive Conservative,124,Progressive Conservative Party,PC,t,15060,f,1
+28,1968-06-25,MB,43,BRANDON--SOURIS,16985,"BATES, James R.",Liberal,75,Liberal,Lib,t,9963,f,2
+28,1968-06-25,MB,43,BRANDON--SOURIS,16986,"VAN MULLIGEN, Harold",New Democratic Party,100,New Democratic Party,NDP,t,4031,f,3
+28,1968-06-25,MB,44,CHURCHILL,16987,"SIMPSON, Robert",Progressive Conservative,124,Progressive Conservative Party,PC,t,9009,f,1
+28,1968-06-25,MB,44,CHURCHILL,16988,"DEMBINSKY, Frank",Liberal,75,Liberal,Lib,t,7673,f,2
+28,1968-06-25,MB,44,CHURCHILL,16989,"KOSHUL, Brian",New Democratic Party,100,New Democratic Party,NDP,t,4888,f,3
+28,1968-06-25,MB,45,DAUPHIN,16990,"RITCHIE, Gordon",Progressive Conservative,124,Progressive Conservative Party,PC,t,8701,f,1
+28,1968-06-25,MB,45,DAUPHIN,16991,"ALLARD, Raymond-J.",Liberal,75,Liberal,Lib,t,6770,f,2
+28,1968-06-25,MB,45,DAUPHIN,16992,"SYME, Evelyn",New Democratic Party,100,New Democratic Party,NDP,t,6737,f,3
+28,1968-06-25,MB,45,DAUPHIN,16993,"WHITEWAY, Dean Waldon",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1194,f,4
+28,1968-06-25,MB,46,LISGAR,16994,"MUIR, George",Progressive Conservative,124,Progressive Conservative Party,PC,t,11785,f,1
+28,1968-06-25,MB,46,LISGAR,16995,"LIVINGSTON, Donald A.",Liberal,75,Liberal,Lib,t,7748,f,2
+28,1968-06-25,MB,46,LISGAR,16996,"ESLER, Roy E.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1350,f,3
+28,1968-06-25,MB,46,LISGAR,16997,"ALSOP, Edith",New Democratic Party,100,New Democratic Party,NDP,t,1305,f,4
+28,1968-06-25,MB,46,LISGAR,16998,"ELIAS, George G.",Independent,52,Independent,Ind,f,614,f,5
+28,1968-06-25,MB,47,MARQUETTE,16999,"STEWART, Craig",Progressive Conservative,124,Progressive Conservative Party,PC,t,12706,f,1
+28,1968-06-25,MB,47,MARQUETTE,17000,"CLEMENT, Rod",Liberal,75,Liberal,Lib,t,9183,f,2
+28,1968-06-25,MB,47,MARQUETTE,17001,"ANTONATION, Michael S.",New Democratic Party,100,New Democratic Party,NDP,t,3651,f,3
+28,1968-06-25,MB,47,MARQUETTE,17002,"DONOVAN, Walter",Independent,52,Independent,Ind,f,593,f,4
+28,1968-06-25,MB,48,PORTAGE,17003,"COBBE, Gerald Richard",Liberal,75,Liberal,Lib,t,8415,f,1
+28,1968-06-25,MB,48,PORTAGE,17004,"ENNS, Sig J.",Progressive Conservative,124,Progressive Conservative Party,PC,t,8025,f,2
+28,1968-06-25,MB,48,PORTAGE,17005,"ROSCHUK, Kazmir",New Democratic Party,100,New Democratic Party,NDP,t,3184,f,3
+28,1968-06-25,MB,49,PROVENCHER,17006,"SMERCHANSKI, Mark G.",Liberal,75,Liberal,Lib,t,9021,f,1
+28,1968-06-25,MB,49,PROVENCHER,17007,"JORGENSON, Warner H.",Progressive Conservative,124,Progressive Conservative Party,PC,t,7791,f,2
+28,1968-06-25,MB,49,PROVENCHER,17008,"BLAKE-KNOX, Harry",New Democratic Party,100,New Democratic Party,NDP,t,3078,f,3
+28,1968-06-25,MB,49,PROVENCHER,17009,"REZNOWSKI, Lorne A.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1773,f,4
+28,1968-06-25,MB,50,SELKIRK,17010,"SCHREYER, Ed",New Democratic Party,100,New Democratic Party,NDP,t,17310,f,1
+28,1968-06-25,MB,50,SELKIRK,17011,"WOLFE, Bernie",Liberal,75,Liberal,Lib,t,12020,f,2
+28,1968-06-25,MB,50,SELKIRK,17012,"STEFANSON, Eric",Progressive Conservative,124,Progressive Conservative Party,PC,t,8781,f,3
+28,1968-06-25,MB,50,SELKIRK,17013,"BOWDEN, Walter",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,707,f,4
+28,1968-06-25,MB,51,ST. BONIFACE,17014,"GUAY, Joseph-P.",Liberal,75,Liberal,Lib,t,22032,f,1
+28,1968-06-25,MB,51,ST. BONIFACE,17015,"SHAFRANSKY, Harry",New Democratic Party,100,New Democratic Party,NDP,t,11566,f,2
+28,1968-06-25,MB,51,ST. BONIFACE,17016,"BAIRD, Vaughan L.",Progressive Conservative,124,Progressive Conservative Party,PC,t,8048,f,3
+28,1968-06-25,MB,51,ST. BONIFACE,17017,"FOREST, Georges",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,949,f,4
+28,1968-06-25,MB,52,WINNIPEG NORTH,17018,"ORLIKOW, David",New Democratic Party,100,New Democratic Party,NDP,t,15608,f,1
+28,1968-06-25,MB,52,WINNIPEG NORTH,17019,"SEMCHYSHYN, Cecil W.",Liberal,75,Liberal,Lib,t,14645,f,2
+28,1968-06-25,MB,52,WINNIPEG NORTH,17020,"SCHERBAIN, Gary Raymond",Progressive Conservative,124,Progressive Conservative Party,PC,t,3206,f,3
+28,1968-06-25,MB,52,WINNIPEG NORTH,17021,"ROSS, W.C.",Communist Party of Canada,31,Communist Party,Com,f,869,f,4
+28,1968-06-25,MB,53,WINNIPEG NORTH CENTRE,17022,"KNOWLES, Stanley H.",New Democratic Party,100,New Democratic Party,NDP,t,14880,f,1
+28,1968-06-25,MB,53,WINNIPEG NORTH CENTRE,17023,"Axworthy, Lloyd",Liberal,75,Liberal,Lib,t,11323,f,2
+28,1968-06-25,MB,53,WINNIPEG NORTH CENTRE,17024,"KERR, Joe",Progressive Conservative,124,Progressive Conservative Party,PC,t,4124,f,3
+28,1968-06-25,MB,54,WINNIPEG SOUTH,17025,"RICHARDSON, James",Liberal,75,Liberal,Lib,t,23457,f,1
+28,1968-06-25,MB,54,WINNIPEG SOUTH,17026,"SHERMAN, Bud",Progressive Conservative,124,Progressive Conservative Party,PC,t,15209,f,2
+28,1968-06-25,MB,54,WINNIPEG SOUTH,17027,"HUTTON, William John",New Democratic Party,100,New Democratic Party,NDP,t,5499,f,3
+28,1968-06-25,MB,55,WINNIPEG SOUTH CENTRE,17028,"OSLER, E.B.",Liberal,75,Liberal,Lib,t,23775,f,1
+28,1968-06-25,MB,55,WINNIPEG SOUTH CENTRE,17029,"ROBLIN, Duff",Progressive Conservative,124,Progressive Conservative Party,PC,t,13268,f,2
+28,1968-06-25,MB,55,WINNIPEG SOUTH CENTRE,17030,"THOMPSON, Frances",New Democratic Party,100,New Democratic Party,NDP,t,8240,f,3
+28,1968-06-25,MB,55,WINNIPEG SOUTH CENTRE,17031,"MCDOWELL, John",Independent Conservative,56,Independent Conservative,IndCon,f,632,f,4
+28,1968-06-25,NB,56,CARLETON--CHARLOTTE,17032,"FLEMMING, Hugh John",Progressive Conservative,124,Progressive Conservative Party,PC,t,15469,f,1
+28,1968-06-25,NB,56,CARLETON--CHARLOTTE,17033,"HACHEY, Henry B.",Liberal,75,Liberal,Lib,t,8330,f,2
+28,1968-06-25,NB,56,CARLETON--CHARLOTTE,17034,"JONES, Tom",New Democratic Party,100,New Democratic Party,NDP,t,848,f,3
+28,1968-06-25,NB,57,FUNDY--ROYAL,17035,"FAIRWEATHER, Gordon",Progressive Conservative,124,Progressive Conservative Party,PC,t,17013,f,1
+28,1968-06-25,NB,57,FUNDY--ROYAL,17036,"CALLAGHAN, A.J.",Liberal,75,Liberal,Lib,t,9435,f,2
+28,1968-06-25,NB,57,FUNDY--ROYAL,17037,"KIPPERS, Hendrien",New Democratic Party,100,New Democratic Party,NDP,t,1316,f,3
+28,1968-06-25,NB,58,GLOUCESTER,17038,"BREAU, Herbert",Liberal,75,Liberal,Lib,t,12196,f,1
+28,1968-06-25,NB,58,GLOUCESTER,17039,"ARSENAULT, J.-Frédéric",Progressive Conservative,124,Progressive Conservative Party,PC,t,8960,f,2
+28,1968-06-25,NB,58,GLOUCESTER,17040,"ROBICHAUD, Florian",New Democratic Party,100,New Democratic Party,NDP,t,1007,f,3
+28,1968-06-25,NB,59,MADAWASKA--VICTORIA,17041,"CORBIN, Eymard",Liberal,75,Liberal,Lib,t,9924,f,1
+28,1968-06-25,NB,59,MADAWASKA--VICTORIA,17042,"SIMARD, Jean-Maurice",Progressive Conservative,124,Progressive Conservative Party,PC,t,9541,f,2
+28,1968-06-25,NB,59,MADAWASKA--VICTORIA,17043,"YOUNG, George Temple",New Democratic Party,100,New Democratic Party,NDP,t,379,f,3
+28,1968-06-25,NB,60,MONCTON,17044,"THOMAS, Charles H.",Progressive Conservative,124,Progressive Conservative Party,PC,t,17969,f,1
+28,1968-06-25,NB,60,MONCTON,17045,"RIDEOUT, Margaret",Liberal,75,Liberal,Lib,t,15013,f,2
+28,1968-06-25,NB,60,MONCTON,17046,"HOULD, Barrie N.",New Democratic Party,100,New Democratic Party,NDP,t,2332,f,3
+28,1968-06-25,NB,60,MONCTON,17047,"ROBINSON, R.F.",Independent,52,Independent,Ind,f,553,f,4
+28,1968-06-25,NB,61,NORTHUMBERLAND--MIRAMICHI,17048,"SMITH, G.A. Percy",Liberal,75,Liberal,Lib,t,10292,f,1
+28,1968-06-25,NB,61,NORTHUMBERLAND--MIRAMICHI,17049,"FLAM, Bernard",Progressive Conservative,124,Progressive Conservative Party,PC,t,7853,f,2
+28,1968-06-25,NB,61,NORTHUMBERLAND--MIRAMICHI,17050,"QUINN, J. Edward",New Democratic Party,100,New Democratic Party,NDP,t,1290,f,3
+28,1968-06-25,NB,62,RESTIGOUCHE,17051,"DUBÉ, Jean-Eudes",Liberal,75,Liberal,Lib,t,9991,f,1
+28,1968-06-25,NB,62,RESTIGOUCHE,17054,"ARSENEAULT, Hector-J.",Progressive Conservative,124,Progressive Conservative Party,PC,t,7049,f,2
+28,1968-06-25,NB,62,RESTIGOUCHE,17052,"BOUDREAU, J.-André",Ralliement Créditiste,143,Social Credit Party,SoCred,t,1769,f,3
+28,1968-06-25,NB,62,RESTIGOUCHE,17053,"PEACOCK, Bruce Garnet",New Democratic Party,100,New Democratic Party,NDP,t,748,f,4
+28,1968-06-25,NB,63,SAINT JOHN--LANCASTER,17055,"BELL, Thomas M.",Progressive Conservative,124,Progressive Conservative Party,PC,t,15756,f,1
+28,1968-06-25,NB,63,SAINT JOHN--LANCASTER,17056,"RYAN, William F.",Liberal,75,Liberal,Lib,t,12160,f,2
+28,1968-06-25,NB,63,SAINT JOHN--LANCASTER,17058,"RICHARDSON, Eldon J.",New Democratic Party,100,New Democratic Party,NDP,t,1508,f,3
+28,1968-06-25,NB,63,SAINT JOHN--LANCASTER,17057,"CRAWFORD, Mildred A.",Independent Progressive Conservative,62,Independent Progressive Conservative,IndProgCon,f,268,f,4
+28,1968-06-25,NB,64,WESTMORLAND--KENT,17059,"CROSSMAN, Guy",Liberal,75,Liberal,Lib,t,11519,f,1
+28,1968-06-25,NB,64,WESTMORLAND--KENT,17060,"ARSENAULT, Frederic-J.",Progressive Conservative,124,Progressive Conservative Party,PC,t,8265,f,2
+28,1968-06-25,NB,64,WESTMORLAND--KENT,17061,"JUDSON, John",New Democratic Party,100,New Democratic Party,NDP,t,1821,f,3
+28,1968-06-25,NB,65,YORK--SUNBURY,17062,"MACRAE, J. Chester",Progressive Conservative,124,Progressive Conservative Party,PC,t,17394,f,1
+28,1968-06-25,NB,65,YORK--SUNBURY,17063,"BURDEN, Paul",Liberal,75,Liberal,Lib,t,12983,f,2
+28,1968-06-25,NB,65,YORK--SUNBURY,17064,"CALLAGHAN, Patrick",New Democratic Party,100,New Democratic Party,NDP,t,1028,f,3
+28,1968-06-25,NL,66,BONAVISTA--TRINITY--CONCEPTION,17065,"MOORES, Frank",Progressive Conservative,124,Progressive Conservative Party,PC,t,14823,f,1
+28,1968-06-25,NL,66,BONAVISTA--TRINITY--CONCEPTION,17066,"TUCKER, James Roy",Liberal,75,Liberal,Lib,t,10082,f,2
+28,1968-06-25,NL,66,BONAVISTA--TRINITY--CONCEPTION,17067,"MARCH, Fraser Lloyd",New Democratic Party,100,New Democratic Party,NDP,t,532,f,3
+28,1968-06-25,NL,67,BURIN--BURGEO,17068,"JAMIESON, Don",Liberal,75,Liberal,Lib,t,8674,f,1
+28,1968-06-25,NL,67,BURIN--BURGEO,17069,"MCGRATH, Robert Michael",Progressive Conservative,124,Progressive Conservative Party,PC,t,5440,f,2
+28,1968-06-25,NL,67,BURIN--BURGEO,17070,"BARTON, Donald",New Democratic Party,100,New Democratic Party,NDP,t,758,f,3
+28,1968-06-25,NL,68,GANDER--TWILLINGATE,17071,"LUNDRIGAN, John Howard",Progressive Conservative,124,Progressive Conservative Party,PC,t,10601,f,1
+28,1968-06-25,NL,68,GANDER--TWILLINGATE,17073,"GRANGER, Charles R.M.",Liberal,75,Liberal,Lib,t,9016,f,2
+28,1968-06-25,NL,68,GANDER--TWILLINGATE,17072,"PAULSON, Lowell",New Democratic Party,100,New Democratic Party,NDP,t,352,f,3
+28,1968-06-25,NL,69,GRAND FALLS--WHITE BAY--LABRADOR,17074,"PEDDLE, Ambrose Hubert",Progressive Conservative,124,Progressive Conservative Party,PC,t,10322,f,1
+28,1968-06-25,NL,69,GRAND FALLS--WHITE BAY--LABRADOR,17075,"CHATWOOD, Andrew",Liberal,75,Liberal,Lib,t,9587,f,2
+28,1968-06-25,NL,69,GRAND FALLS--WHITE BAY--LABRADOR,17076,"SCOTT, Austin",New Democratic Party,100,New Democratic Party,NDP,t,571,f,3
+28,1968-06-25,NL,70,HUMBER--ST. GEORGE'S--ST. BARBE,17077,"MARSHALL, Jack",Progressive Conservative,124,Progressive Conservative Party,PC,t,9765,f,1
+28,1968-06-25,NL,70,HUMBER--ST. GEORGE'S--ST. BARBE,17079,"BATTEN, Herman Maxwell",Liberal,75,Liberal,Lib,t,9482,f,2
+28,1968-06-25,NL,70,HUMBER--ST. GEORGE'S--ST. BARBE,17078,"HILLYARD, Calvin Morris",New Democratic Party,100,New Democratic Party,NDP,t,3276,f,3
+28,1968-06-25,NL,71,ST. JOHN'S EAST,17080,"MCGRATH, James A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,18153,f,1
+28,1968-06-25,NL,71,ST. JOHN'S EAST,17081,"O'KEEFE, Joseph P.",Liberal,75,Liberal,Lib,t,10558,f,2
+28,1968-06-25,NL,71,ST. JOHN'S EAST,17082,"SUMMERS, Mary",New Democratic Party,100,New Democratic Party,NDP,t,956,f,3
+28,1968-06-25,NL,71,ST. JOHN'S EAST,17083,"KING, Norman W.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,126,f,4
+28,1968-06-25,NL,72,ST. JOHN'S WEST,17084,"CARTER, Walter C.",Progressive Conservative,124,Progressive Conservative Party,PC,t,15379,f,1
+28,1968-06-25,NL,72,ST. JOHN'S WEST,17085,"CASHIN, Richard",Liberal,75,Liberal,Lib,t,11150,f,2
+28,1968-06-25,NL,72,ST. JOHN'S WEST,17086,"CONNORS, John Lorne",New Democratic Party,100,New Democratic Party,NDP,t,597,f,3
+28,1968-06-25,NS,73,ANNAPOLIS VALLEY,17087,"NOWLAN, John Patrick",Progressive Conservative,124,Progressive Conservative Party,PC,t,17435,f,1
+28,1968-06-25,NS,73,ANNAPOLIS VALLEY,17089,"WILLIAMSON, Alexander C.",Liberal,75,Liberal,Lib,t,12342,f,2
+28,1968-06-25,NS,73,ANNAPOLIS VALLEY,17088,"MCKAY, Donald L.",New Democratic Party,100,New Democratic Party,NDP,t,1007,f,3
+28,1968-06-25,NS,74,CAPE BRETON HIGHLANDS--CANSO,17090,"MACEACHEN, Allan Joseph",Liberal,75,Liberal,Lib,t,13725,f,1
+28,1968-06-25,NS,74,CAPE BRETON HIGHLANDS--CANSO,17092,"GILLIS, D. Hugh",Progressive Conservative,124,Progressive Conservative Party,PC,t,13195,f,2
+28,1968-06-25,NS,74,CAPE BRETON HIGHLANDS--CANSO,17091,"JESSENS, Ieva",New Democratic Party,100,New Democratic Party,NDP,t,445,f,3
+28,1968-06-25,NS,75,CAPE BRETON--EAST RICHMOND,17093,"MACINNIS, Donald",Progressive Conservative,124,Progressive Conservative Party,PC,t,11583,f,1
+28,1968-06-25,NS,75,CAPE BRETON--EAST RICHMOND,17094,"MCINTYRE, Leo",Liberal,75,Liberal,Lib,t,8284,f,2
+28,1968-06-25,NS,75,CAPE BRETON--EAST RICHMOND,17095,"AKERMAN, Jeremy",New Democratic Party,100,New Democratic Party,NDP,t,7749,f,3
+28,1968-06-25,NS,76,CAPE BRETON--THE SYDNEYS,17096,"MUIR, Robert",Progressive Conservative,124,Progressive Conservative Party,PC,t,14971,f,1
+28,1968-06-25,NS,76,CAPE BRETON--THE SYDNEYS,17098,"MORRISON, Vincent",Liberal,75,Liberal,Lib,t,10543,f,2
+28,1968-06-25,NS,76,CAPE BRETON--THE SYDNEYS,17097,"MERNER, Martin J.",New Democratic Party,100,New Democratic Party,NDP,t,3426,f,3
+28,1968-06-25,NS,77,CENTRAL NOVA,17099,"MACEWAN, Russell",Progressive Conservative,124,Progressive Conservative Party,PC,t,16720,f,1
+28,1968-06-25,NS,77,CENTRAL NOVA,17100,"STEWART, Donald F.",Liberal,75,Liberal,Lib,t,9499,f,2
+28,1968-06-25,NS,77,CENTRAL NOVA,17101,"MCKAY, Leo F.",New Democratic Party,100,New Democratic Party,NDP,t,2330,f,3
+28,1968-06-25,NS,78,CUMBERLAND--COLCHESTER NORTH,17102,"COATES, Robert Carman",Progressive Conservative,124,Progressive Conservative Party,PC,t,18446,f,1
+28,1968-06-25,NS,78,CUMBERLAND--COLCHESTER NORTH,17104,"FLEMMING, Harry",Liberal,75,Liberal,Lib,t,10139,f,2
+28,1968-06-25,NS,78,CUMBERLAND--COLCHESTER NORTH,17103,"SCHURMAN, Gordon S.",New Democratic Party,100,New Democratic Party,NDP,t,1696,f,3
+28,1968-06-25,NS,79,DARTMOUTH--HALIFAX EAST,17105,"FORRESTALL, Mike",Progressive Conservative,124,Progressive Conservative Party,PC,t,19694,f,1
+28,1968-06-25,NS,79,DARTMOUTH--HALIFAX EAST,17106,"PATTERSON, C. Arnie",Liberal,75,Liberal,Lib,t,14429,f,2
+28,1968-06-25,NS,79,DARTMOUTH--HALIFAX EAST,17107,"NEWELL, H. Edward",New Democratic Party,100,New Democratic Party,NDP,t,1572,f,3
+28,1968-06-25,NS,80,HALIFAX,17108,"STANFIELD, Robert L.",Progressive Conservative,124,Progressive Conservative Party,PC,t,19569,f,1
+28,1968-06-25,NS,80,HALIFAX,17110,"TOMPKINS, M. Gregory",Liberal,75,Liberal,Lib,t,11555,f,2
+28,1968-06-25,NS,80,HALIFAX,17109,"WEDDERBURN, Gus",New Democratic Party,100,New Democratic Party,NDP,t,1314,f,3
+28,1968-06-25,NS,81,HALIFAX--EAST HANTS,17111,"MCCLEAVE, Robert",Progressive Conservative,124,Progressive Conservative Party,PC,t,22323,f,1
+28,1968-06-25,NS,81,HALIFAX--EAST HANTS,17113,"CREGAN, Alex J.",Liberal,75,Liberal,Lib,t,13488,f,2
+28,1968-06-25,NS,81,HALIFAX--EAST HANTS,17112,"DEVANNEY, Burris",New Democratic Party,100,New Democratic Party,NDP,t,1718,f,3
+28,1968-06-25,NS,82,SOUTH SHORE,17114,"CROUSE, Lloyd R.",Progressive Conservative,124,Progressive Conservative Party,PC,t,17547,f,1
+28,1968-06-25,NS,82,SOUTH SHORE,17116,"KINLEY, John James",Liberal,75,Liberal,Lib,t,11668,f,2
+28,1968-06-25,NS,82,SOUTH SHORE,17115,"HARDING, Aubrey",New Democratic Party,100,New Democratic Party,NDP,t,764,f,3
+28,1968-06-25,NS,83,SOUTH WESTERN NOVA,17117,"COMEAU, Louis-Roland",Progressive Conservative,124,Progressive Conservative Party,PC,t,14543,f,1
+28,1968-06-25,NS,83,SOUTH WESTERN NOVA,17118,"STEWART, John B.",Liberal,75,Liberal,Lib,t,12290,f,2
+28,1968-06-25,NS,83,SOUTH WESTERN NOVA,17119,"GILMAN, Rae",New Democratic Party,100,New Democratic Party,NDP,t,655,f,3
+28,1968-06-25,NS,83,SOUTH WESTERN NOVA,17120,"ATKINSON, N. Evanson",Independent Progressive Conservative,62,Independent Progressive Conservative,IndProgCon,f,293,f,4
+28,1968-06-25,NT,84,NORTHWEST TERRITORIES,17121,"ORANGE, Bud",Liberal,75,Liberal,Lib,t,6018,f,1
+28,1968-06-25,NT,84,NORTHWEST TERRITORIES,17122,"VAN NORMAN, R.",Progressive Conservative,124,Progressive Conservative Party,PC,t,2211,f,2
+28,1968-06-25,NT,84,NORTHWEST TERRITORIES,17123,"KENT, William Harvey",New Democratic Party,100,New Democratic Party,NDP,t,1203,f,3
+28,1968-06-25,ON,85,ALGOMA,17124,"FOSTER, Maurice",Liberal,75,Liberal,Lib,t,9542,f,1
+28,1968-06-25,ON,85,ALGOMA,17126,"MCPHAIL, John D.",Progressive Conservative,124,Progressive Conservative Party,PC,t,5270,f,2
+28,1968-06-25,ON,85,ALGOMA,17125,"LEFEBVRE, Len",New Democratic Party,100,New Democratic Party,NDP,t,4057,f,3
+28,1968-06-25,ON,86,BRANT,17127,"BROWN, James E.",Liberal,75,Liberal,Lib,t,16029,f,1
+28,1968-06-25,ON,86,BRANT,17129,"BLACKBURN, Derek",New Democratic Party,100,New Democratic Party,NDP,t,12333,f,2
+28,1968-06-25,ON,86,BRANT,17128,"STYLES, Geoff",Progressive Conservative,124,Progressive Conservative Party,PC,t,11901,f,3
+28,1968-06-25,ON,87,BROADVIEW,17130,"GILBERT, John",New Democratic Party,100,New Democratic Party,NDP,t,10406,f,1
+28,1968-06-25,ON,87,BROADVIEW,17131,"SUTHERLAND, Bob",Liberal,75,Liberal,Lib,t,9929,f,2
+28,1968-06-25,ON,87,BROADVIEW,17132,"KNIGHT, Betty M.",Progressive Conservative,124,Progressive Conservative Party,PC,t,4752,f,3
+28,1968-06-25,ON,87,BROADVIEW,17133,"HENDRY, William B.",Socialist Labour,149,Socialist Labour,SocialLab,f,202,f,4
+28,1968-06-25,ON,88,BRUCE,17134,"WHICHER, Ross",Liberal,75,Liberal,Lib,t,12775,f,1
+28,1968-06-25,ON,88,BRUCE,17135,"LONEY, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,11674,f,2
+28,1968-06-25,ON,88,BRUCE,17136,"NELSON, Eric",New Democratic Party,100,New Democratic Party,NDP,t,2911,f,3
+28,1968-06-25,ON,89,COCHRANE,17137,"STEWART, Ralph W.",Liberal,75,Liberal,Lib,t,9803,f,1
+28,1968-06-25,ON,89,COCHRANE,17138,"PATERSON, Ross A.",New Democratic Party,100,New Democratic Party,NDP,t,7034,f,2
+28,1968-06-25,ON,89,COCHRANE,17139,"MAYBURY, George W.",Progressive Conservative,124,Progressive Conservative Party,PC,t,2875,f,3
+28,1968-06-25,ON,89,COCHRANE,17140,"LAVOIE, Jeanne",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,433,f,4
+28,1968-06-25,ON,90,DAVENPORT,17141,"CACCIA, Charles L.",Liberal,75,Liberal,Lib,t,10736,f,1
+28,1968-06-25,ON,90,DAVENPORT,17142,"BRESSAN, Otto",New Democratic Party,100,New Democratic Party,NDP,t,5865,f,2
+28,1968-06-25,ON,90,DAVENPORT,17143,"DEAR, Ken",Progressive Conservative,124,Progressive Conservative Party,PC,t,4688,f,3
+28,1968-06-25,ON,91,DON VALLEY,17144,"KAPLAN, Robert P.",Liberal,75,Liberal,Lib,t,27335,f,1
+28,1968-06-25,ON,91,DON VALLEY,17145,"CAMP, Dalton",Progressive Conservative,124,Progressive Conservative Party,PC,t,22359,f,2
+28,1968-06-25,ON,91,DON VALLEY,17146,"MURRAY, Margaret",New Democratic Party,100,New Democratic Party,NDP,t,3863,f,3
+28,1968-06-25,ON,92,EGLINTON,17147,"SHARP, Mitchell",Liberal,75,Liberal,Lib,t,23215,f,1
+28,1968-06-25,ON,92,EGLINTON,17148,"MAYNARD, Murray R.",Progressive Conservative,124,Progressive Conservative Party,PC,t,11155,f,2
+28,1968-06-25,ON,92,EGLINTON,17149,"LEMON, James T.",New Democratic Party,100,New Democratic Party,NDP,t,4654,f,3
+28,1968-06-25,ON,92,EGLINTON,17150,"SMIALOWSKI, Arthur L.B.",Independent,52,Independent,Ind,f,164,f,4
+28,1968-06-25,ON,93,ELGIN,17151,"STAFFORD, Harold E.",Liberal,75,Liberal,Lib,t,12856,f,1
+28,1968-06-25,ON,93,ELGIN,17153,"KER, John S.",Progressive Conservative,124,Progressive Conservative Party,PC,t,11799,f,2
+28,1968-06-25,ON,93,ELGIN,17152,"WHITTAKER, Barry P.",New Democratic Party,100,New Democratic Party,NDP,t,4227,f,3
+28,1968-06-25,ON,94,ESSEX,17154,"WHELAN, Eugene",Liberal,75,Liberal,Lib,t,14707,f,1
+28,1968-06-25,ON,94,ESSEX,17155,"WENSLEY, Ralph N.",New Democratic Party,100,New Democratic Party,NDP,t,9399,f,2
+28,1968-06-25,ON,94,ESSEX,17156,"TAYLOR, Tom",Progressive Conservative,124,Progressive Conservative Party,PC,t,5485,f,3
+28,1968-06-25,ON,95,ETOBICOKE,17157,"GILLESPIE, Alastair",Liberal,75,Liberal,Lib,t,32066,f,1
+28,1968-06-25,ON,95,ETOBICOKE,17158,"HARNETT, Arthur",Progressive Conservative,124,Progressive Conservative Party,PC,t,17799,f,2
+28,1968-06-25,ON,95,ETOBICOKE,17159,"YOUNG, Robert Sydney",New Democratic Party,100,New Democratic Party,NDP,t,7432,f,3
+28,1968-06-25,ON,96,FORT WILLIAM,17160,"BADANAI, Hubert",Liberal,75,Liberal,Lib,t,10635,f,1
+28,1968-06-25,ON,96,FORT WILLIAM,17161,"GRANT, Charles A.",New Democratic Party,100,New Democratic Party,NDP,t,7394,f,2
+28,1968-06-25,ON,96,FORT WILLIAM,17162,"HASTINGS, Lionel",Progressive Conservative,124,Progressive Conservative Party,PC,t,7284,f,3
+28,1968-06-25,ON,97,FRONTENAC--LENNOX AND ADDINGTON,17163,"ALKENBRACK, Douglas",Progressive Conservative,124,Progressive Conservative Party,PC,t,11801,f,1
+28,1968-06-25,ON,97,FRONTENAC--LENNOX AND ADDINGTON,17165,"CONNOLLY, Peter C.",Liberal,75,Liberal,Lib,t,9953,f,2
+28,1968-06-25,ON,97,FRONTENAC--LENNOX AND ADDINGTON,17164,"MOSS, John",New Democratic Party,100,New Democratic Party,NDP,t,2730,f,3
+28,1968-06-25,ON,97,FRONTENAC--LENNOX AND ADDINGTON,17166,"MILLIGAN, Clarence A.",Independent Progressive Conservative,62,Independent Progressive Conservative,IndProgCon,f,571,f,4
+28,1968-06-25,ON,98,GLENGARRY--PRESCOTT,17167,"ETHIER, Viateur",Liberal,75,Liberal,Lib,t,14970,f,1
+28,1968-06-25,ON,98,GLENGARRY--PRESCOTT,17168,"CARRIERE, J.-Lomer",Progressive Conservative,124,Progressive Conservative Party,PC,t,7564,f,2
+28,1968-06-25,ON,98,GLENGARRY--PRESCOTT,17169,"DEMERS, Claude",New Democratic Party,100,New Democratic Party,NDP,t,1606,f,3
+28,1968-06-25,ON,99,GREENWOOD,17170,"BREWIN, Andrew",New Democratic Party,100,New Democratic Party,NDP,t,12117,f,1
+28,1968-06-25,ON,99,GREENWOOD,17171,"JAMES, Walter",Liberal,75,Liberal,Lib,t,11755,f,2
+28,1968-06-25,ON,99,GREENWOOD,17172,"STEWART, Gordon",Progressive Conservative,124,Progressive Conservative Party,PC,t,8268,f,3
+28,1968-06-25,ON,100,GRENVILLE--CARLETON,17173,"BLAIR, Gordon",Liberal,75,Liberal,Lib,t,21250,f,1
+28,1968-06-25,ON,100,GRENVILLE--CARLETON,17174,"WADDS, Jean",Progressive Conservative,124,Progressive Conservative Party,PC,t,18843,f,2
+28,1968-06-25,ON,100,GRENVILLE--CARLETON,17175,"BELL, David",New Democratic Party,100,New Democratic Party,NDP,t,3887,f,3
+28,1968-06-25,ON,101,GREY--SIMCOE,17176,"NOBLE, Percy V.",Progressive Conservative,124,Progressive Conservative Party,PC,t,13146,f,1
+28,1968-06-25,ON,101,GREY--SIMCOE,17178,"VANCISE, Arnold",Liberal,75,Liberal,Lib,t,11204,f,2
+28,1968-06-25,ON,101,GREY--SIMCOE,17177,"BARBER, Trueman R.",New Democratic Party,100,New Democratic Party,NDP,t,3623,f,3
+28,1968-06-25,ON,102,HALTON,17179,"WHITING, Rud L.",Liberal,75,Liberal,Lib,t,17837,f,1
+28,1968-06-25,ON,102,HALTON,17180,"MCWILLIAMS, Peter",Progressive Conservative,124,Progressive Conservative Party,PC,t,12614,f,2
+28,1968-06-25,ON,102,HALTON,17181,"KERNIGHAN, Murray",New Democratic Party,100,New Democratic Party,NDP,t,6606,f,3
+28,1968-06-25,ON,103,HALTON--WENTWORTH,17182,"MORISON, John",Liberal,75,Liberal,Lib,t,19563,f,1
+28,1968-06-25,ON,103,HALTON--WENTWORTH,17184,"SWANBOROUGH, James Reginald",Progressive Conservative,124,Progressive Conservative Party,PC,t,18043,f,2
+28,1968-06-25,ON,103,HALTON--WENTWORTH,17183,"MACDONALD, Ted",New Democratic Party,100,New Democratic Party,NDP,t,9312,f,3
+28,1968-06-25,ON,103,HALTON--WENTWORTH,17185,"BRADEN, Norman Brian",Independent Liberal,58,Independent Liberal,IndLib,f,399,f,4
+28,1968-06-25,ON,104,HAMILTON EAST,17186,"MUNRO, John C.",Liberal,75,Liberal,Lib,t,15273,f,1
+28,1968-06-25,ON,104,HAMILTON EAST,17188,"RAMACIERI, Nick",New Democratic Party,100,New Democratic Party,NDP,t,9210,f,2
+28,1968-06-25,ON,104,HAMILTON EAST,17187,"STEINBERG, David",Progressive Conservative,124,Progressive Conservative Party,PC,t,5633,f,3
+28,1968-06-25,ON,104,HAMILTON EAST,17189,"BRIDGEWOOD, James R.",Communist Party of Canada,31,Communist Party,Com,f,297,f,4
+28,1968-06-25,ON,105,HAMILTON MOUNTAIN,17190,"SULLIVAN, Gordon",Liberal,75,Liberal,Lib,t,17794,f,1
+28,1968-06-25,ON,105,HAMILTON MOUNTAIN,17191,"HOWE, William D.",New Democratic Party,100,New Democratic Party,NDP,t,14838,f,2
+28,1968-06-25,ON,105,HAMILTON MOUNTAIN,17192,"BEATTIE, Duncan",Progressive Conservative,124,Progressive Conservative Party,PC,t,10583,f,3
+28,1968-06-25,ON,106,HAMILTON WEST,17193,"ALEXANDER, Lincoln M.",Progressive Conservative,124,Progressive Conservative Party,PC,t,13580,f,1
+28,1968-06-25,ON,106,HAMILTON WEST,17195,"BECKETT, Thomas A.",Liberal,75,Liberal,Lib,t,13238,f,2
+28,1968-06-25,ON,106,HAMILTON WEST,17194,"BRUCE, Patricia",New Democratic Party,100,New Democratic Party,NDP,t,6809,f,3
+28,1968-06-25,ON,107,HAMILTON--WENTWORTH,17196,"GIBSON, Colin David",Liberal,75,Liberal,Lib,t,14979,f,1
+28,1968-06-25,ON,107,HAMILTON--WENTWORTH,17197,"VICHERT, Gordon Stewart",New Democratic Party,100,New Democratic Party,NDP,t,12852,f,2
+28,1968-06-25,ON,107,HAMILTON--WENTWORTH,17198,"RIDGE, Jim",Progressive Conservative,124,Progressive Conservative Party,PC,t,10059,f,3
+28,1968-06-25,ON,108,HASTINGS,17199,"GRILLS, Lee",Progressive Conservative,124,Progressive Conservative Party,PC,t,13555,f,1
+28,1968-06-25,ON,108,HASTINGS,17201,"TEMPLE, Robert",Liberal,75,Liberal,Lib,t,10875,f,2
+28,1968-06-25,ON,108,HASTINGS,17200,"BURSHAW, Donald G.",New Democratic Party,100,New Democratic Party,NDP,t,3195,f,3
+28,1968-06-25,ON,109,HIGH PARK,17202,"DEAKON, Walter",Liberal,75,Liberal,Lib,t,16260,f,1
+28,1968-06-25,ON,109,HIGH PARK,17206,"MCKAY, Win",Progressive Conservative,124,Progressive Conservative Party,PC,t,10743,f,2
+28,1968-06-25,ON,109,HIGH PARK,17203,"STEVENSON, Don",New Democratic Party,100,New Democratic Party,NDP,t,8131,f,3
+28,1968-06-25,ON,109,HIGH PARK,17204,"COWAN, Ralph B.",Independent Liberal,58,Independent Liberal,IndLib,f,2895,f,4
+28,1968-06-25,ON,109,HIGH PARK,17205,"FORMOSA, Henry",Independent,52,Independent,Ind,f,215,f,5
+28,1968-06-25,ON,110,HURON,17207,"MCKINLEY, Robert E.",Progressive Conservative,124,Progressive Conservative Party,PC,t,14652,f,1
+28,1968-06-25,ON,110,HURON,17209,"EDGAR, Maitland E.",Liberal,75,Liberal,Lib,t,10960,f,2
+28,1968-06-25,ON,110,HURON,17208,"WEARY, Shirley M.",New Democratic Party,100,New Democratic Party,NDP,t,1212,f,3
+28,1968-06-25,ON,111,KENORA--RAINY RIVER,17210,"REID, John M.",Liberal Labour,65,Labour,Labour,f,10144,f,1
+28,1968-06-25,ON,111,KENORA--RAINY RIVER,17211,"MOATS, Harvey H.",New Democratic Party,100,New Democratic Party,NDP,t,5711,f,2
+28,1968-06-25,ON,111,KENORA--RAINY RIVER,17212,"WEBB, T. Howard",Progressive Conservative,124,Progressive Conservative Party,PC,t,4655,f,3
+28,1968-06-25,ON,112,KENT--ESSEX,17213,"DANFORTH, Harold W.",Progressive Conservative,124,Progressive Conservative Party,PC,t,15195,f,1
+28,1968-06-25,ON,112,KENT--ESSEX,17214,"HENRY, R. Thomas",Liberal,75,Liberal,Lib,t,13077,f,2
+28,1968-06-25,ON,112,KENT--ESSEX,17215,"WOOD, John D.M.",New Democratic Party,100,New Democratic Party,NDP,t,2528,f,3
+28,1968-06-25,ON,113,KINGSTON AND THE ISLANDS,17216,"BENSON, Edgar John",Liberal,75,Liberal,Lib,t,16234,f,1
+28,1968-06-25,ON,113,KINGSTON AND THE ISLANDS,17217,"TRUMPOUR, Bogart W.",Progressive Conservative,124,Progressive Conservative Party,PC,t,11799,f,2
+28,1968-06-25,ON,113,KINGSTON AND THE ISLANDS,17218,"MCCONNELL, Brendan",New Democratic Party,100,New Democratic Party,NDP,t,4636,f,3
+28,1968-06-25,ON,114,KITCHENER,17219,"HYMMEN, Keith",Liberal,75,Liberal,Lib,t,16471,f,1
+28,1968-06-25,ON,114,KITCHENER,17221,"ROSENBERG, Morley",New Democratic Party,100,New Democratic Party,NDP,t,12799,f,2
+28,1968-06-25,ON,114,KITCHENER,17220,"YOUNG, Jack",Progressive Conservative,124,Progressive Conservative Party,PC,t,11217,f,3
+28,1968-06-25,ON,115,LAKESHORE,17222,"ROBINSON, Kenneth",Liberal,75,Liberal,Lib,t,14464,f,1
+28,1968-06-25,ON,115,LAKESHORE,17223,"GRIER, Terry",New Democratic Party,100,New Democratic Party,NDP,t,12367,f,2
+28,1968-06-25,ON,115,LAKESHORE,17224,"SUMMERHAYES, Stuart",Progressive Conservative,124,Progressive Conservative Party,PC,t,6794,f,3
+28,1968-06-25,ON,116,LAMBTON--KENT,17225,"MCCUTCHEON, M.T. Mac",Progressive Conservative,124,Progressive Conservative Party,PC,t,14460,f,1
+28,1968-06-25,ON,116,LAMBTON--KENT,17227,"LUCIER, Len",Liberal,75,Liberal,Lib,t,11094,f,2
+28,1968-06-25,ON,116,LAMBTON--KENT,17226,"MCGAFFEY, Ray",New Democratic Party,100,New Democratic Party,NDP,t,2342,f,3
+28,1968-06-25,ON,117,LANARK AND RENFREW,17228,"MCBRIDE, Murray",Liberal,75,Liberal,Lib,t,13156,f,1
+28,1968-06-25,ON,117,LANARK AND RENFREW,17229,"BASKIN, James W.",Progressive Conservative,124,Progressive Conservative Party,PC,t,12737,f,2
+28,1968-06-25,ON,117,LANARK AND RENFREW,17230,"RONSON, James",New Democratic Party,100,New Democratic Party,NDP,t,1861,f,3
+28,1968-06-25,ON,118,LEEDS,17231,"CODE, Desmond M.",Progressive Conservative,124,Progressive Conservative Party,PC,t,13536,f,1
+28,1968-06-25,ON,118,LEEDS,17232,"MATHESON, John R.",Liberal,75,Liberal,Lib,t,13532,f,2
+28,1968-06-25,ON,118,LEEDS,17233,"GRAVES, Clayton C.",New Democratic Party,100,New Democratic Party,NDP,t,2005,f,3
+28,1968-06-25,ON,119,LINCOLN,17234,"BARRETT, H. Gordon",Liberal,75,Liberal,Lib,t,13328,f,1
+28,1968-06-25,ON,119,LINCOLN,17236,"HIGSON, Kenneth J.",Progressive Conservative,124,Progressive Conservative Party,PC,t,12692,f,2
+28,1968-06-25,ON,119,LINCOLN,17235,"MARTIN, John",New Democratic Party,100,New Democratic Party,NDP,t,6763,f,3
+28,1968-06-25,ON,120,LONDON EAST,17237,"TURNER, Charles",Liberal,75,Liberal,Lib,t,11823,f,1
+28,1968-06-25,ON,120,LONDON EAST,17240,"MATTHEWS, Donald",Progressive Conservative,124,Progressive Conservative Party,PC,t,10079,f,2
+28,1968-06-25,ON,120,LONDON EAST,17238,"RICHMOND, Alec",New Democratic Party,100,New Democratic Party,NDP,t,9703,f,3
+28,1968-06-25,ON,120,LONDON EAST,17239,"WEICHE, Martin K.",National Socialist,93,National Socialist,NatSoc,f,89,f,4
+28,1968-06-25,ON,121,LONDON WEST,17241,"BUCHANAN, Judd",Liberal,75,Liberal,Lib,t,21764,f,1
+28,1968-06-25,ON,121,LONDON WEST,17243,"IRVINE, Jack A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,18462,f,2
+28,1968-06-25,ON,121,LONDON WEST,17242,"PEMBERTON, Gwen",New Democratic Party,100,New Democratic Party,NDP,t,3891,f,3
+28,1968-06-25,ON,122,MIDDLESEX,17244,"LIND, Jim",Liberal,75,Liberal,Lib,t,15986,f,1
+28,1968-06-25,ON,122,MIDDLESEX,17246,"FRANK, Bill",Progressive Conservative,124,Progressive Conservative Party,PC,t,15284,f,2
+28,1968-06-25,ON,122,MIDDLESEX,17245,"WEBER, Peter A.",New Democratic Party,100,New Democratic Party,NDP,t,3743,f,3
+28,1968-06-25,ON,123,NIAGARA FALLS,17247,"GREENE, Joe",Liberal,75,Liberal,Lib,t,17183,f,1
+28,1968-06-25,ON,123,NIAGARA FALLS,17249,"ROLLS, Bob",Progressive Conservative,124,Progressive Conservative Party,PC,t,10825,f,2
+28,1968-06-25,ON,123,NIAGARA FALLS,17248,"WILSON, Ray",New Democratic Party,100,New Democratic Party,NDP,t,5861,f,3
+28,1968-06-25,ON,124,NICKEL BELT,17250,"SERRE, Gaetan-J.",Liberal,75,Liberal,Lib,t,11551,f,1
+28,1968-06-25,ON,124,NICKEL BELT,17252,"FAWCETT, Norm",New Democratic Party,100,New Democratic Party,NDP,t,9621,f,2
+28,1968-06-25,ON,124,NICKEL BELT,17251,"FIELDING, Cecil",Progressive Conservative,124,Progressive Conservative Party,PC,t,4439,f,3
+28,1968-06-25,ON,125,NIPISSING,17253,"LEGAULT, Carl",Liberal,75,Liberal,Lib,t,13524,f,1
+28,1968-06-25,ON,125,NIPISSING,17254,"GOULET, Bruce J.",Progressive Conservative,124,Progressive Conservative Party,PC,t,8412,f,2
+28,1968-06-25,ON,125,NIPISSING,17255,"PRICE, Bob",New Democratic Party,100,New Democratic Party,NDP,t,3267,f,3
+28,1968-06-25,ON,126,NORFOLK--HALDIMAND,17256,"KNOWLES, Bill",Progressive Conservative,124,Progressive Conservative Party,PC,t,14908,f,1
+28,1968-06-25,ON,126,NORFOLK--HALDIMAND,17257,"ROXBURGH, John Maxwell",Liberal,75,Liberal,Lib,t,13132,f,2
+28,1968-06-25,ON,126,NORFOLK--HALDIMAND,17258,"STUART, Lois M.",New Democratic Party,100,New Democratic Party,NDP,t,3441,f,3
+28,1968-06-25,ON,127,NORTHUMBERLAND--DURHAM,17259,"HONEY, Russell C.",Liberal,75,Liberal,Lib,t,13707,f,1
+28,1968-06-25,ON,127,NORTHUMBERLAND--DURHAM,17261,"PRATT, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,11141,f,2
+28,1968-06-25,ON,127,NORTHUMBERLAND--DURHAM,17260,"HILL, Wilmer J.",New Democratic Party,100,New Democratic Party,NDP,t,5897,f,3
+28,1968-06-25,ON,128,ONTARIO,17262,"CAFIK, Norman A.",Liberal,75,Liberal,Lib,t,13483,f,1
+28,1968-06-25,ON,128,ONTARIO,17263,"MUIRHEAD, Clark T.",Progressive Conservative,124,Progressive Conservative Party,PC,t,10579,f,2
+28,1968-06-25,ON,128,ONTARIO,17264,"WING, Robert L.",New Democratic Party,100,New Democratic Party,NDP,t,7607,f,3
+28,1968-06-25,ON,129,OSHAWA--WHITBY,17265,"BROADBENT, J. Edward",New Democratic Party,100,New Democratic Party,NDP,t,15224,f,1
+28,1968-06-25,ON,129,OSHAWA--WHITBY,17266,"STARR, Michael",Progressive Conservative,124,Progressive Conservative Party,PC,t,15209,f,2
+28,1968-06-25,ON,129,OSHAWA--WHITBY,17267,"NEWMAN, Desmond G.",Liberal,75,Liberal,Lib,t,14899,f,3
+28,1968-06-25,ON,130,OTTAWA CENTRE,17268,"MCILRAITH, George",Liberal,75,Liberal,Lib,t,19578,f,1
+28,1968-06-25,ON,130,OTTAWA CENTRE,17270,"HEIT, Murray A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,11602,f,2
+28,1968-06-25,ON,130,OTTAWA CENTRE,17269,"RALPH, June B.",New Democratic Party,100,New Democratic Party,NDP,t,2729,f,3
+28,1968-06-25,ON,131,OTTAWA EAST,17271,"RICHARD, J.-T.",Liberal,75,Liberal,Lib,t,26170,f,1
+28,1968-06-25,ON,131,OTTAWA EAST,17272,"LE LACHEUR, Rex",Progressive Conservative,124,Progressive Conservative Party,PC,t,4186,f,2
+28,1968-06-25,ON,131,OTTAWA EAST,17273,"MACDONALD, Ian",New Democratic Party,100,New Democratic Party,NDP,t,2921,f,3
+28,1968-06-25,ON,132,OTTAWA WEST,17274,"FRANCIS, Lloyd",Liberal,75,Liberal,Lib,t,23750,f,1
+28,1968-06-25,ON,132,OTTAWA WEST,17276,"BELL, Richard A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,16392,f,2
+28,1968-06-25,ON,132,OTTAWA WEST,17275,"SUTHERLAND, Ralph",New Democratic Party,100,New Democratic Party,NDP,t,5003,f,3
+28,1968-06-25,ON,133,OTTAWA--CARLETON,17277,"TURNER, John N.",Liberal,75,Liberal,Lib,t,28987,f,1
+28,1968-06-25,ON,133,OTTAWA--CARLETON,17278,"BINKS, Ken",Progressive Conservative,124,Progressive Conservative Party,PC,t,11665,f,2
+28,1968-06-25,ON,133,OTTAWA--CARLETON,17279,"WILSON, Harold",New Democratic Party,100,New Democratic Party,NDP,t,3115,f,3
+28,1968-06-25,ON,134,OXFORD,17280,"NESBITT, Wally",Progressive Conservative,124,Progressive Conservative Party,PC,t,18504,f,1
+28,1968-06-25,ON,134,OXFORD,17281,"TATHAM, Charlie",Liberal,75,Liberal,Lib,t,12697,f,2
+28,1968-06-25,ON,134,OXFORD,17282,"HILBORN, John",New Democratic Party,100,New Democratic Party,NDP,t,3335,f,3
+28,1968-06-25,ON,135,PARKDALE,17283,"HAIDASZ, Stanley",Liberal,75,Liberal,Lib,t,14717,f,1
+28,1968-06-25,ON,135,PARKDALE,17284,"ROGERS, Bruce",New Democratic Party,100,New Democratic Party,NDP,t,8983,f,2
+28,1968-06-25,ON,135,PARKDALE,17285,"ARMSTRONG, Kay",Progressive Conservative,124,Progressive Conservative Party,PC,t,5057,f,3
+28,1968-06-25,ON,136,PARRY SOUND--MUSKOKA,17286,"AIKEN, Gordon",Progressive Conservative,124,Progressive Conservative Party,PC,t,12045,f,1
+28,1968-06-25,ON,136,PARRY SOUND--MUSKOKA,17287,"TAYLOR, Gerald M.",Liberal,75,Liberal,Lib,t,9622,f,2
+28,1968-06-25,ON,136,PARRY SOUND--MUSKOKA,17288,"BISHOP, Hugh A.",New Democratic Party,100,New Democratic Party,NDP,t,3568,f,3
+28,1968-06-25,ON,137,PEEL SOUTH,17289,"CHAPPELL, Hyl",Liberal,75,Liberal,Lib,t,24255,f,1
+28,1968-06-25,ON,137,PEEL SOUTH,17290,"BROWNRIDGE, Earl K.",Progressive Conservative,124,Progressive Conservative Party,PC,t,19065,f,2
+28,1968-06-25,ON,137,PEEL SOUTH,17291,"WOLLARD, Keith",New Democratic Party,100,New Democratic Party,NDP,t,8498,f,3
+28,1968-06-25,ON,138,PEEL--DUFFERIN--SIMCOE,17292,"BEER, Bruce S.",Liberal,75,Liberal,Lib,t,18950,f,1
+28,1968-06-25,ON,138,PEEL--DUFFERIN--SIMCOE,17294,"MADILL, Ellwood",Progressive Conservative,124,Progressive Conservative Party,PC,t,14138,f,2
+28,1968-06-25,ON,138,PEEL--DUFFERIN--SIMCOE,17293,"HILL, George",New Democratic Party,100,New Democratic Party,NDP,t,6972,f,3
+28,1968-06-25,ON,139,PERTH,17295,"MONTEITH, J. Waldo",Progressive Conservative,124,Progressive Conservative Party,PC,t,14959,f,1
+28,1968-06-25,ON,139,PERTH,17296,"SOMERVILLE, Bill",Liberal,75,Liberal,Lib,t,12864,f,2
+28,1968-06-25,ON,139,PERTH,17297,"BISHOP, Jack",New Democratic Party,100,New Democratic Party,NDP,t,3009,f,3
+28,1968-06-25,ON,140,PETERBOROUGH,17298,"FAULKNER, Hugh",Liberal,75,Liberal,Lib,t,15675,f,1
+28,1968-06-25,ON,140,PETERBOROUGH,17300,"MCLEAN, Archie",Progressive Conservative,124,Progressive Conservative Party,PC,t,12972,f,2
+28,1968-06-25,ON,140,PETERBOROUGH,17299,"HODGINS, Bruce",New Democratic Party,100,New Democratic Party,NDP,t,8593,f,3
+28,1968-06-25,ON,141,PORT ARTHUR,17301,"ANDRAS, Robert K.",Liberal,75,Liberal,Lib,t,11079,f,1
+28,1968-06-25,ON,141,PORT ARTHUR,17302,"ROTHNEY, Gordon Oliver",New Democratic Party,100,New Democratic Party,NDP,t,7306,f,2
+28,1968-06-25,ON,141,PORT ARTHUR,17304,"ROGERS, Carl",Progressive Conservative,124,Progressive Conservative Party,PC,t,4179,f,3
+28,1968-06-25,ON,141,PORT ARTHUR,17303,"FREED, Norman",Communist Party of Canada,31,Communist Party,Com,f,233,f,4
+28,1968-06-25,ON,142,PRINCE EDWARD--HASTINGS,17305,"HEES, George",Progressive Conservative,124,Progressive Conservative Party,PC,t,15682,f,1
+28,1968-06-25,ON,142,PRINCE EDWARD--HASTINGS,17306,"CUNNINGHAM, George Wesley",Liberal,75,Liberal,Lib,t,12614,f,2
+28,1968-06-25,ON,142,PRINCE EDWARD--HASTINGS,17307,"MIEDEMA, Peter P.",New Democratic Party,100,New Democratic Party,NDP,t,2569,f,3
+28,1968-06-25,ON,143,RENFREW NORTH,17308,"HOPKINS, Leonard D.",Liberal,75,Liberal,Lib,t,13195,f,1
+28,1968-06-25,ON,143,RENFREW NORTH,17309,"O'BRIEN, Del",Progressive Conservative,124,Progressive Conservative Party,PC,t,7976,f,2
+28,1968-06-25,ON,143,RENFREW NORTH,17310,"WIDENMAIER, Kenneth C.",New Democratic Party,100,New Democratic Party,NDP,t,1813,f,3
+28,1968-06-25,ON,144,ROSEDALE,17311,"MACDONALD, Donald S.",Liberal,75,Liberal,Lib,t,19011,f,1
+28,1968-06-25,ON,144,ROSEDALE,17312,"BRADLEY, Bob",Progressive Conservative,124,Progressive Conservative Party,PC,t,9683,f,2
+28,1968-06-25,ON,144,ROSEDALE,17313,"CHAMARD, John",New Democratic Party,100,New Democratic Party,NDP,t,4083,f,3
+28,1968-06-25,ON,144,ROSEDALE,17314,"CLARKE, F. Nelson",Communist Party of Canada,31,Communist Party,Com,f,183,f,4
+28,1968-06-25,ON,144,ROSEDALE,17315,"REINER, Fred",New Canada Party,99,New Canada Party,NewCan,f,148,f,5
+28,1968-06-25,ON,145,SARNIA,17316,"CULLEN, Jack",Liberal,75,Liberal,Lib,t,14573,f,1
+28,1968-06-25,ON,145,SARNIA,17318,"FORD, Dick",Progressive Conservative,124,Progressive Conservative Party,PC,t,12883,f,2
+28,1968-06-25,ON,145,SARNIA,17317,"GRABOVE, Alex",New Democratic Party,100,New Democratic Party,NDP,t,4733,f,3
+28,1968-06-25,ON,146,SAULT STE. MARIE,17319,"MURPHY, C. Terrence",Liberal,75,Liberal,Lib,t,12527,f,1
+28,1968-06-25,ON,146,SAULT STE. MARIE,17322,"RAMSAY, Russ",Progressive Conservative,124,Progressive Conservative Party,PC,t,11529,f,2
+28,1968-06-25,ON,146,SAULT STE. MARIE,17321,"VALENTINE, Anne",New Democratic Party,100,New Democratic Party,NDP,t,7297,f,3
+28,1968-06-25,ON,146,SAULT STE. MARIE,17320,"SKOV, George",Independent,52,Independent,Ind,f,102,f,4
+28,1968-06-25,ON,147,SCARBOROUGH EAST,17323,"O'CONNELL, M.P.",Liberal,75,Liberal,Lib,t,23701,f,1
+28,1968-06-25,ON,147,SCARBOROUGH EAST,17325,"RANNEY, Kenneth",New Democratic Party,100,New Democratic Party,NDP,t,13265,f,2
+28,1968-06-25,ON,147,SCARBOROUGH EAST,17324,"TAYLOR, James",Progressive Conservative,124,Progressive Conservative Party,PC,t,12477,f,3
+28,1968-06-25,ON,148,SCARBOROUGH WEST,17326,"WEATHERHEAD, David",Liberal,75,Liberal,Lib,t,14889,f,1
+28,1968-06-25,ON,148,SCARBOROUGH WEST,17328,"HARNEY, John",New Democratic Party,100,New Democratic Party,NDP,t,12473,f,2
+28,1968-06-25,ON,148,SCARBOROUGH WEST,17327,"CROSBY, Herb",Progressive Conservative,124,Progressive Conservative Party,PC,t,7340,f,3
+28,1968-06-25,ON,149,SIMCOE NORTH,17329,"RYNARD, P.B.",Progressive Conservative,124,Progressive Conservative Party,PC,t,16619,f,1
+28,1968-06-25,ON,149,SIMCOE NORTH,17331,"BELL, Bill A.",Liberal,75,Liberal,Lib,t,14936,f,2
+28,1968-06-25,ON,149,SIMCOE NORTH,17330,"RINTOUL, Charles Perrie",New Democratic Party,100,New Democratic Party,NDP,t,4730,f,3
+28,1968-06-25,ON,150,SPADINA,17332,"RYAN, Perry",Liberal,75,Liberal,Lib,t,9379,f,1
+28,1968-06-25,ON,150,SPADINA,17333,"HEAP, Daniel J.",New Democratic Party,100,New Democratic Party,NDP,t,3943,f,2
+28,1968-06-25,ON,150,SPADINA,17334,"BAGNATO, Victor",Progressive Conservative,124,Progressive Conservative Party,PC,t,3353,f,3
+28,1968-06-25,ON,151,ST. CATHARINES,17335,"MCNULTY, James C.",Liberal,75,Liberal,Lib,t,18100,f,1
+28,1968-06-25,ON,151,ST. CATHARINES,17336,"SABIA, Laura",Progressive Conservative,124,Progressive Conservative Party,PC,t,14544,f,2
+28,1968-06-25,ON,151,ST. CATHARINES,17337,"COOK, June E.",New Democratic Party,100,New Democratic Party,NDP,t,7185,f,3
+28,1968-06-25,ON,152,ST. PAUL'S,17338,"WAHN, Ian",Liberal,75,Liberal,Lib,t,20981,f,1
+28,1968-06-25,ON,152,ST. PAUL'S,17341,"LOWES, Barry",Progressive Conservative,124,Progressive Conservative Party,PC,t,10882,f,2
+28,1968-06-25,ON,152,ST. PAUL'S,17342,"FENN, Robert A.",New Democratic Party,100,New Democratic Party,NDP,t,2743,f,3
+28,1968-06-25,ON,152,ST. PAUL'S,17339,"TAYLOR, W.J. Russell",Independent Liberal,58,Independent Liberal,IndLib,f,420,f,4
+28,1968-06-25,ON,152,ST. PAUL'S,17340,"MURPHY, Rae Allan",Communist Party of Canada,31,Communist Party,Com,f,292,f,5
+28,1968-06-25,ON,153,STORMONT--DUNDAS,17343,"LAMOUREUX, Lucien",Independent,52,Independent,Ind,f,17014,f,1
+28,1968-06-25,ON,153,STORMONT--DUNDAS,17344,"WEES, Tim",New Democratic Party,100,New Democratic Party,NDP,t,5409,f,2
+28,1968-06-25,ON,154,SUDBURY,17345,"JEROME, Jim",Liberal,75,Liberal,Lib,t,19672,f,1
+28,1968-06-25,ON,154,SUDBURY,17347,"GERMA, Bud",New Democratic Party,100,New Democratic Party,NDP,t,12260,f,2
+28,1968-06-25,ON,154,SUDBURY,17346,"DESMARAIS, Robert",Progressive Conservative,124,Progressive Conservative Party,PC,t,5696,f,3
+28,1968-06-25,ON,155,THUNDER BAY,17348,"PENNER, B. Keith",Liberal,75,Liberal,Lib,t,9540,f,1
+28,1968-06-25,ON,155,THUNDER BAY,17349,"SLY, Douglas M.",New Democratic Party,100,New Democratic Party,NDP,t,6081,f,2
+28,1968-06-25,ON,155,THUNDER BAY,17350,"WARDROPE, George C.",Progressive Conservative,124,Progressive Conservative Party,PC,t,4904,f,3
+28,1968-06-25,ON,156,TIMISKAMING,17351,"PETERS, Arnold",New Democratic Party,100,New Democratic Party,NDP,t,8482,f,1
+28,1968-06-25,ON,156,TIMISKAMING,17354,"VANNIER, Louis-R.",Liberal,75,Liberal,Lib,t,7728,f,2
+28,1968-06-25,ON,156,TIMISKAMING,17352,"CASSIDY, George L.",Progressive Conservative,124,Progressive Conservative Party,PC,t,4443,f,3
+28,1968-06-25,ON,156,TIMISKAMING,17353,"HAMELIN, Alcide-J.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,288,f,4
+28,1968-06-25,ON,157,TIMMINS,17355,"ROY, Jean-R.",Liberal,75,Liberal,Lib,t,11141,f,1
+28,1968-06-25,ON,157,TIMMINS,17356,"MARTIN, Murdo",New Democratic Party,100,New Democratic Party,NDP,t,8807,f,2
+28,1968-06-25,ON,157,TIMMINS,17357,"BREWER, Wyman",Progressive Conservative,124,Progressive Conservative Party,PC,t,2118,f,3
+28,1968-06-25,ON,158,TRINITY,17358,"HELLYER, Paul",Liberal,75,Liberal,Lib,t,13126,f,1
+28,1968-06-25,ON,158,TRINITY,17359,"ROBERTSON, Ed",Progressive Conservative,124,Progressive Conservative Party,PC,t,5360,f,2
+28,1968-06-25,ON,158,TRINITY,17360,"DE CANDOLE, Jim",New Democratic Party,100,New Democratic Party,NDP,t,4177,f,3
+28,1968-06-25,ON,159,VICTORIA--HALIBURTON,17361,"SCOTT, William C.",Progressive Conservative,124,Progressive Conservative Party,PC,t,12621,f,1
+28,1968-06-25,ON,159,VICTORIA--HALIBURTON,17362,"LOGAN, Dave",Liberal,75,Liberal,Lib,t,10263,f,2
+28,1968-06-25,ON,159,VICTORIA--HALIBURTON,17363,"MCPHAIL, Allan Gordon",New Democratic Party,100,New Democratic Party,NDP,t,3374,f,3
+28,1968-06-25,ON,159,VICTORIA--HALIBURTON,17364,"ARMSTRONG, Harvie James",Independent,52,Independent,Ind,f,258,f,4
+28,1968-06-25,ON,160,WATERLOO,17365,"SALTSMAN, Max",New Democratic Party,100,New Democratic Party,NDP,t,15231,f,1
+28,1968-06-25,ON,160,WATERLOO,17368,"EPP, Herbert A.",Liberal,75,Liberal,Lib,t,14835,f,2
+28,1968-06-25,ON,160,WATERLOO,17366,"O'BRIAN, Liam S.",Progressive Conservative,124,Progressive Conservative Party,PC,t,14568,f,3
+28,1968-06-25,ON,160,WATERLOO,17367,"GERVAIS, Régent",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,167,f,4
+28,1968-06-25,ON,161,WELLAND,17369,"TOLMIE, Donald R.",Liberal,75,Liberal,Lib,t,17335,f,1
+28,1968-06-25,ON,161,WELLAND,17371,"WRIGHT, Robert",New Democratic Party,100,New Democratic Party,NDP,t,11363,f,2
+28,1968-06-25,ON,161,WELLAND,17370,"LAW, Franklin Bud",Progressive Conservative,124,Progressive Conservative Party,PC,t,6129,f,3
+28,1968-06-25,ON,162,WELLINGTON,17372,"HALES, Alfred Dryden",Progressive Conservative,124,Progressive Conservative Party,PC,t,13496,f,1
+28,1968-06-25,ON,162,WELLINGTON,17374,"DENT, Ralph",Liberal,75,Liberal,Lib,t,11842,f,2
+28,1968-06-25,ON,162,WELLINGTON,17373,"LANTHIER, Phil",New Democratic Party,100,New Democratic Party,NDP,t,5012,f,3
+28,1968-06-25,ON,163,WELLINGTON--GREY,17375,"HOWE, Marvin",Progressive Conservative,124,Progressive Conservative Party,PC,t,12118,f,1
+28,1968-06-25,ON,163,WELLINGTON--GREY,17377,"CHURCH, Jon",Liberal,75,Liberal,Lib,t,12027,f,2
+28,1968-06-25,ON,163,WELLINGTON--GREY,17378,"SEYMOUR, Edward E.",New Democratic Party,100,New Democratic Party,NDP,t,2902,f,3
+28,1968-06-25,ON,163,WELLINGTON--GREY,17376,"KIENAPPLE, Melvin Francis",Independent,52,Independent,Ind,f,224,f,4
+28,1968-06-25,ON,164,WINDSOR WEST,17379,"Gray, Herb",Liberal,75,Liberal,Lib,t,16442,f,1
+28,1968-06-25,ON,164,WINDSOR WEST,17381,"ROSS, Stuart",New Democratic Party,100,New Democratic Party,NDP,t,8972,f,2
+28,1968-06-25,ON,164,WINDSOR WEST,17380,"WALDRON, William J.",Progressive Conservative,124,Progressive Conservative Party,PC,t,5002,f,3
+28,1968-06-25,ON,165,WINDSOR--WALKERVILLE,17382,"MACGUIGAN, Mark",Liberal,75,Liberal,Lib,t,17090,f,1
+28,1968-06-25,ON,165,WINDSOR--WALKERVILLE,17384,"WEEKS, Albert H.",New Democratic Party,100,New Democratic Party,NDP,t,12090,f,2
+28,1968-06-25,ON,165,WINDSOR--WALKERVILLE,17383,"GRAY, David Alexander",Progressive Conservative,124,Progressive Conservative Party,PC,t,5191,f,3
+28,1968-06-25,ON,165,WINDSOR--WALKERVILLE,17385,"MAGNUSON, Bruce A.H.",Communist Party of Canada,31,Communist Party,Com,f,408,f,4
+28,1968-06-25,ON,166,YORK CENTRE,17386,"WALKER, James E.",Liberal,75,Liberal,Lib,t,26758,f,1
+28,1968-06-25,ON,166,YORK CENTRE,17388,"FISHER, Douglas",New Democratic Party,100,New Democratic Party,NDP,t,14714,f,2
+28,1968-06-25,ON,166,YORK CENTRE,17387,"STIRLING, Donald Victor",Progressive Conservative,124,Progressive Conservative Party,PC,t,5804,f,3
+28,1968-06-25,ON,167,YORK EAST,17389,"OTTO, Steve",Liberal,75,Liberal,Lib,t,19320,f,1
+28,1968-06-25,ON,167,YORK EAST,17390,"WANG, Kechin",Progressive Conservative,124,Progressive Conservative Party,PC,t,12155,f,2
+28,1968-06-25,ON,167,YORK EAST,17391,"PARK, Eamon",New Democratic Party,100,New Democratic Party,NDP,t,11921,f,3
+28,1968-06-25,ON,168,YORK NORTH,17392,"DANSON, Barney",Liberal,75,Liberal,Lib,t,24054,f,1
+28,1968-06-25,ON,168,YORK NORTH,17393,"HURLBURT, Gord",Progressive Conservative,124,Progressive Conservative Party,PC,t,15693,f,2
+28,1968-06-25,ON,168,YORK NORTH,17394,"GRANT, Jack",New Democratic Party,100,New Democratic Party,NDP,t,7000,f,3
+28,1968-06-25,ON,169,YORK SOUTH,17395,"LEWIS, David",New Democratic Party,100,New Democratic Party,NDP,t,12357,f,1
+28,1968-06-25,ON,169,YORK SOUTH,17397,"BARBARO, Ron",Liberal,75,Liberal,Lib,t,11693,f,2
+28,1968-06-25,ON,169,YORK SOUTH,17396,"TOWNSEND, Cy",Progressive Conservative,124,Progressive Conservative Party,PC,t,4499,f,3
+28,1968-06-25,ON,170,YORK WEST,17398,"GIVENS, Philip G.",Liberal,75,Liberal,Lib,t,20416,f,1
+28,1968-06-25,ON,170,YORK WEST,17402,"SCOTT, Val",New Democratic Party,100,New Democratic Party,NDP,t,16204,f,2
+28,1968-06-25,ON,170,YORK WEST,17401,"BODDINGTON, Wes",Progressive Conservative,124,Progressive Conservative Party,PC,t,8344,f,3
+28,1968-06-25,ON,170,YORK WEST,17400,"GUNN, Norman",Independent,52,Independent,Ind,f,442,f,4
+28,1968-06-25,ON,170,YORK WEST,17399,"KASHTAN, William",Communist Party of Canada,31,Communist Party,Com,f,155,f,5
+28,1968-06-25,ON,171,YORK--SCARBOROUGH,17403,"STANBURY, Robert",Liberal,75,Liberal,Lib,t,37374,f,1
+28,1968-06-25,ON,171,YORK--SCARBOROUGH,17405,"HEISEY, Alan",Progressive Conservative,124,Progressive Conservative Party,PC,t,15458,f,2
+28,1968-06-25,ON,171,YORK--SCARBOROUGH,17404,"MANN, W.E. Ted",New Democratic Party,100,New Democratic Party,NDP,t,10724,f,3
+28,1968-06-25,ON,172,YORK--SIMCOE,17406,"ROBERTS, John",Liberal,75,Liberal,Lib,t,15906,f,1
+28,1968-06-25,ON,172,YORK--SIMCOE,17407,"MCCUTCHEON, Wallace",Progressive Conservative,124,Progressive Conservative Party,PC,t,13100,f,2
+28,1968-06-25,ON,172,YORK--SIMCOE,17408,"MCFADYEN, Don",New Democratic Party,100,New Democratic Party,NDP,t,6095,f,3
+28,1968-06-25,PE,173,CARDIGAN,17409,"MCQUAID, Melvin J.",Progressive Conservative,124,Progressive Conservative Party,PC,t,5717,f,1
+28,1968-06-25,PE,173,CARDIGAN,17411,"MULLALLY, John",Liberal,75,Liberal,Lib,t,5623,f,2
+28,1968-06-25,PE,173,CARDIGAN,17410,"HAZELDEN, Spurgeon Joseph",New Democratic Party,100,New Democratic Party,NDP,t,203,f,3
+28,1968-06-25,PE,174,EGMONT,17412,"MACDONALD, David",Progressive Conservative,124,Progressive Conservative Party,PC,t,7182,f,1
+28,1968-06-25,PE,174,EGMONT,17414,"CAMPBELL, J. Melville",Liberal,75,Liberal,Lib,t,5945,f,2
+28,1968-06-25,PE,174,EGMONT,17413,"Dawson, Harvey",New Democratic Party,100,New Democratic Party,NDP,t,292,f,3
+28,1968-06-25,PE,175,HILLSBOROUGH,17415,"MACQUARRIE, Heath N.",Progressive Conservative,124,Progressive Conservative Party,PC,t,8328,f,1
+28,1968-06-25,PE,175,HILLSBOROUGH,17417,"MCANDREW, Jack",Liberal,75,Liberal,Lib,t,6447,f,2
+28,1968-06-25,PE,175,HILLSBOROUGH,17416,"HALL, David F.",New Democratic Party,100,New Democratic Party,NDP,t,930,f,3
+28,1968-06-25,PE,176,MALPEQUE,17418,"MACLEAN, J. Angus",Progressive Conservative,124,Progressive Conservative Party,PC,t,5049,f,1
+28,1968-06-25,PE,176,MALPEQUE,17420,"WOOD, Don",Liberal,75,Liberal,Lib,t,4839,f,2
+28,1968-06-25,PE,176,MALPEQUE,17419,"MACFARLANE, Douglas H.",New Democratic Party,100,New Democratic Party,NDP,t,211,f,3
+28,1968-06-25,QC,177,ABITIBI,17421,"LAPRISE, Gérard",Ralliement Créditiste,143,Social Credit Party,SoCred,t,10884,f,1
+28,1968-06-25,QC,177,ABITIBI,17423,"LAVIGNE, André",Liberal,75,Liberal,Lib,t,6606,f,2
+28,1968-06-25,QC,177,ABITIBI,17424,"PARENT, Marc",Progressive Conservative,124,Progressive Conservative Party,PC,t,1796,f,3
+28,1968-06-25,QC,177,ABITIBI,17422,"LEONARD, J.-Gérald",New Democratic Party,100,New Democratic Party,NDP,t,515,f,4
+28,1968-06-25,QC,178,AHUNTSIC,17425,"ROCHON, Jean-L.",Liberal,75,Liberal,Lib,t,23149,f,1
+28,1968-06-25,QC,178,AHUNTSIC,17426,"LECOURS, Louis-Philippe",New Democratic Party,100,New Democratic Party,NDP,t,4977,f,2
+28,1968-06-25,QC,178,AHUNTSIC,17429,"BARRIERE, Claude",Progressive Conservative,124,Progressive Conservative Party,PC,t,4807,f,3
+28,1968-06-25,QC,178,AHUNTSIC,17428,"PATENAUDE, Claude",Independent Liberal,58,Independent Liberal,IndLib,f,1483,f,4
+28,1968-06-25,QC,178,AHUNTSIC,17427,"PAIEMENT, Albert",Ralliement Créditiste,143,Social Credit Party,SoCred,t,1243,f,5
+28,1968-06-25,QC,179,ARGENTEUIL,17430,"MAJOR, Robert-B.",Liberal,75,Liberal,Lib,t,15726,f,1
+28,1968-06-25,QC,179,ARGENTEUIL,17433,"REGIMBAL, Roger-E.",Progressive Conservative,124,Progressive Conservative Party,PC,t,13566,f,2
+28,1968-06-25,QC,179,ARGENTEUIL,17431,"Boucher, Jacques",New Democratic Party,100,New Democratic Party,NDP,t,1696,f,3
+28,1968-06-25,QC,179,ARGENTEUIL,17432,"HOULE, Lise",Ralliement Créditiste,143,Social Credit Party,SoCred,t,1158,f,4
+28,1968-06-25,QC,180,BEAUCE,17434,"RODRIGUE, Romuald",Ralliement Créditiste,143,Social Credit Party,SoCred,t,13428,f,1
+28,1968-06-25,QC,180,BEAUCE,17438,"RACINE, Jean-Paul",Liberal,75,Liberal,Lib,t,7752,f,2
+28,1968-06-25,QC,180,BEAUCE,17437,"BEAUDOIN, Gilles",Progressive Conservative,124,Progressive Conservative Party,PC,t,6207,f,3
+28,1968-06-25,QC,180,BEAUCE,17435,"GOSSELIN, Bertrand",New Democratic Party,100,New Democratic Party,NDP,t,639,f,4
+28,1968-06-25,QC,180,BEAUCE,17436,"MATHIEU, André",Independent,52,Independent,Ind,f,260,f,5
+28,1968-06-25,QC,181,BEAUHARNOIS,17439,"LANIEL, Gérald",Liberal,75,Liberal,Lib,t,17203,f,1
+28,1968-06-25,QC,181,BEAUHARNOIS,17441,"MIRON, Armand",Progressive Conservative,124,Progressive Conservative Party,PC,t,8703,f,2
+28,1968-06-25,QC,181,BEAUHARNOIS,17442,"PATAFIE, Joseph-Aurèle",New Democratic Party,100,New Democratic Party,NDP,t,1764,f,3
+28,1968-06-25,QC,181,BEAUHARNOIS,17440,"POULIN, Jean-Paul",Ralliement Créditiste,143,Social Credit Party,SoCred,t,1087,f,4
+28,1968-06-25,QC,182,BELLECHASSE,17443,"LAMBERT, Adrien",Ralliement Créditiste,143,Social Credit Party,SoCred,t,11137,f,1
+28,1968-06-25,QC,182,BELLECHASSE,17444,"CHOQUETTE, Auguste",Liberal,75,Liberal,Lib,t,9793,f,2
+28,1968-06-25,QC,182,BELLECHASSE,17445,"POULIN, Gérard",Progressive Conservative,124,Progressive Conservative Party,PC,t,2262,f,3
+28,1968-06-25,QC,182,BELLECHASSE,17446,"LALONDE, Marcel",New Democratic Party,100,New Democratic Party,NDP,t,528,f,4
+28,1968-06-25,QC,183,BERTHIER,17447,"YANAKIS, Antonio",Liberal,75,Liberal,Lib,t,10818,f,1
+28,1968-06-25,QC,183,BERTHIER,17449,"LAPOINTE, Patrice",Progressive Conservative,124,Progressive Conservative Party,PC,t,8182,f,2
+28,1968-06-25,QC,183,BERTHIER,17448,"GRAVEL, André",Ralliement Créditiste,143,Social Credit Party,SoCred,t,2994,f,3
+28,1968-06-25,QC,183,BERTHIER,17450,"BELLEMARE, Mendoza",New Democratic Party,100,New Democratic Party,NDP,t,1029,f,4
+28,1968-06-25,QC,184,BONAVENTURE,17451,"BECHARD, Albert",Liberal,75,Liberal,Lib,t,10144,f,1
+28,1968-06-25,QC,184,BONAVENTURE,17453,"AUDET, Gérard",Ralliement Créditiste,143,Social Credit Party,SoCred,t,4240,f,2
+28,1968-06-25,QC,184,BONAVENTURE,17454,"BOURDAGES, Robert",Progressive Conservative,124,Progressive Conservative Party,PC,t,3674,f,3
+28,1968-06-25,QC,184,BONAVENTURE,17452,"CHAPADOS, Henri",Independent,52,Independent,Ind,f,680,f,4
+28,1968-06-25,QC,184,BONAVENTURE,17455,"MARTIN, Bernard",New Democratic Party,100,New Democratic Party,NDP,t,282,f,5
+28,1968-06-25,QC,185,BOURASSA,17456,"TRUDEL, Jacques-L.",Liberal,75,Liberal,Lib,t,19778,f,1
+28,1968-06-25,QC,185,BOURASSA,17460,"RYAN, Yves",Progressive Conservative,124,Progressive Conservative Party,PC,t,10939,f,2
+28,1968-06-25,QC,185,BOURASSA,17457,"MAROTTE, Gérard",New Democratic Party,100,New Democratic Party,NDP,t,3443,f,3
+28,1968-06-25,QC,185,BOURASSA,17458,"LEDOUX, Gérard",Ralliement Créditiste,143,Social Credit Party,SoCred,t,1401,f,4
+28,1968-06-25,QC,185,BOURASSA,17459,"DENOMMÉE, Rolland",Conservative,37,Conservative,Con,t,339,f,5
+28,1968-06-25,QC,186,CHAMBLY,17461,"PILON, Bernard",Liberal,75,Liberal,Lib,t,22767,f,1
+28,1968-06-25,QC,186,CHAMBLY,17462,"LASSONDE, Gabriel-H.",Progressive Conservative,124,Progressive Conservative Party,PC,t,6739,f,2
+28,1968-06-25,QC,186,CHAMBLY,17463,"ST-AMOUR, Georges-M.",New Democratic Party,100,New Democratic Party,NDP,t,3394,f,3
+28,1968-06-25,QC,186,CHAMBLY,17464,"MIGNAULT, Michel",Ralliement Créditiste,143,Social Credit Party,SoCred,t,1430,f,4
+28,1968-06-25,QC,187,CHAMPLAIN,17465,"MATTE, René",Ralliement Créditiste,143,Social Credit Party,SoCred,t,9866,f,1
+28,1968-06-25,QC,187,CHAMPLAIN,17467,"MATTE, Jean-Paul",Liberal,75,Liberal,Lib,t,9665,f,2
+28,1968-06-25,QC,187,CHAMPLAIN,17466,"FILION, Lucien",Progressive Conservative,124,Progressive Conservative Party,PC,t,6449,f,3
+28,1968-06-25,QC,187,CHAMPLAIN,17468,"DIAMOND, George L.",New Democratic Party,100,New Democratic Party,NDP,t,550,f,4
+28,1968-06-25,QC,188,CHARLEVOIX,17469,"ASSELIN, Martial",Progressive Conservative,124,Progressive Conservative Party,PC,t,9487,f,1
+28,1968-06-25,QC,188,CHARLEVOIX,17470,"RACINE, Aimé",Liberal,75,Liberal,Lib,t,8282,f,2
+28,1968-06-25,QC,188,CHARLEVOIX,17471,"POULIN, Raymond",Ralliement Créditiste,143,Social Credit Party,SoCred,t,3831,f,3
+28,1968-06-25,QC,188,CHARLEVOIX,17472,"BOULAY, Reginald",New Democratic Party,100,New Democratic Party,NDP,t,1070,f,4
+28,1968-06-25,QC,189,CHICOUTIMI,17473,"LANGLOIS, Paul",Liberal,75,Liberal,Lib,t,14054,f,1
+28,1968-06-25,QC,189,CHICOUTIMI,17474,"LAVOIE, Jean-Marc",Progressive Conservative,124,Progressive Conservative Party,PC,t,9811,f,2
+28,1968-06-25,QC,189,CHICOUTIMI,17475,"SIMARD, Antonio",Ralliement Créditiste,143,Social Credit Party,SoCred,t,3151,f,3
+28,1968-06-25,QC,189,CHICOUTIMI,17476,"GAUTHIER, Jean-Baptiste",New Democratic Party,100,New Democratic Party,NDP,t,879,f,4
+28,1968-06-25,QC,190,COMPTON,17477,"LATULIPPE, Henry",Ralliement Créditiste,143,Social Credit Party,SoCred,t,11961,f,1
+28,1968-06-25,QC,190,COMPTON,17479,"CAMERON, Léger",Liberal,75,Liberal,Lib,t,8615,f,2
+28,1968-06-25,QC,190,COMPTON,17478,"BOURQUE, Luc",Progressive Conservative,124,Progressive Conservative Party,PC,t,3987,f,3
+28,1968-06-25,QC,190,COMPTON,17480,"LOWRY, Curtis",New Democratic Party,100,New Democratic Party,NDP,t,851,f,4
+28,1968-06-25,QC,191,DOLLARD,17481,"GOYER, Jean-Pierre",Liberal,75,Liberal,Lib,t,34146,f,1
+28,1968-06-25,QC,191,DOLLARD,17483,"TAYLOR, Charles",New Democratic Party,100,New Democratic Party,NDP,t,10485,f,2
+28,1968-06-25,QC,191,DOLLARD,17482,"LÉGER, Ronald",Progressive Conservative,124,Progressive Conservative Party,PC,t,2391,f,3
+28,1968-06-25,QC,191,DOLLARD,17484,"HAMEL, Yvette",Ralliement Créditiste,143,Social Credit Party,SoCred,t,287,f,4
+28,1968-06-25,QC,192,DRUMMOND,17485,"PEPIN, Jean-Luc",Liberal,75,Liberal,Lib,t,11667,f,1
+28,1968-06-25,QC,192,DRUMMOND,17486,"PROULX, Claude",Ralliement Créditiste,143,Social Credit Party,SoCred,t,9545,f,2
+28,1968-06-25,QC,192,DRUMMOND,17487,"BIRON, André",Progressive Conservative,124,Progressive Conservative Party,PC,t,8342,f,3
+28,1968-06-25,QC,192,DRUMMOND,17488,"GAGNÉ, Pierre",New Democratic Party,100,New Democratic Party,NDP,t,723,f,4
+28,1968-06-25,QC,193,DUVERNAY,17489,"KIERANS, Eric W.",Liberal,75,Liberal,Lib,t,18701,f,1
+28,1968-06-25,QC,193,DUVERNAY,17491,"CLICHE, Robert",New Democratic Party,100,New Democratic Party,NDP,t,16225,f,2
+28,1968-06-25,QC,193,DUVERNAY,17492,"BÉDARD, Simon",Progressive Conservative,124,Progressive Conservative Party,PC,t,1068,f,3
+28,1968-06-25,QC,193,DUVERNAY,17490,"BÉLISLE, Fernand",Ralliement Créditiste,143,Social Credit Party,SoCred,t,1006,f,4
+28,1968-06-25,QC,194,FRONTENAC,17493,"DUMONT, Bernard",Ralliement Créditiste,143,Social Credit Party,SoCred,t,12298,f,1
+28,1968-06-25,QC,194,FRONTENAC,17494,"THÉBERGE, Gaëtan",Liberal,75,Liberal,Lib,t,9863,f,2
+28,1968-06-25,QC,194,FRONTENAC,17495,"PAUL, André",Progressive Conservative,124,Progressive Conservative Party,PC,t,3510,f,3
+28,1968-06-25,QC,194,FRONTENAC,17496,"LAFLEUR, Claude",New Democratic Party,100,New Democratic Party,NDP,t,1231,f,4
+28,1968-06-25,QC,195,GAMELIN,17497,"PORTELANCE, Arthur",Liberal,75,Liberal,Lib,t,19051,f,1
+28,1968-06-25,QC,195,GAMELIN,17501,"FARIBAULT, Marcel",Progressive Conservative,124,Progressive Conservative Party,PC,t,8866,f,2
+28,1968-06-25,QC,195,GAMELIN,17500,"LAZURE, Denis",New Democratic Party,100,New Democratic Party,NDP,t,5210,f,3
+28,1968-06-25,QC,195,GAMELIN,17499,"BERNARD, Gaëtan",Ralliement Créditiste,143,Social Credit Party,SoCred,t,873,f,4
+28,1968-06-25,QC,195,GAMELIN,17502,"LAPORTE, Emile",Parti de la Démocratisation Économique,109,Parti de la Démocratisation Économique,DemoEcon,f,365,f,5
+28,1968-06-25,QC,195,GAMELIN,17498,"LAROCQUE, Léo",Independent,52,Independent,Ind,f,358,f,6
+28,1968-06-25,QC,196,GASPÉ,17503,"CYR, Alexandre",Liberal,75,Liberal,Lib,t,9208,f,1
+28,1968-06-25,QC,196,GASPÉ,17506,"KEAYS, J. Russell",Progressive Conservative,124,Progressive Conservative Party,PC,t,6969,f,2
+28,1968-06-25,QC,196,GASPÉ,17504,"FRANCOEUR, Jean-Guy",Ralliement Créditiste,143,Social Credit Party,SoCred,t,3571,f,3
+28,1968-06-25,QC,196,GASPÉ,17505,"MCBREARTY, Lawrence",New Democratic Party,100,New Democratic Party,NDP,t,564,f,4
+28,1968-06-25,QC,197,GATINEAU,17507,"CLERMONT, Gaston",Liberal,75,Liberal,Lib,t,14348,f,1
+28,1968-06-25,QC,197,GATINEAU,17508,"LAROCQUE, Lévis",Progressive Conservative,124,Progressive Conservative Party,PC,t,7581,f,2
+28,1968-06-25,QC,197,GATINEAU,17510,"BÉDARD, Antoine",Ralliement Créditiste,143,Social Credit Party,SoCred,t,3711,f,3
+28,1968-06-25,QC,197,GATINEAU,17509,"MONGEON, Emile",New Democratic Party,100,New Democratic Party,NDP,t,1163,f,4
+28,1968-06-25,QC,198,HOCHELAGA,17511,"PELLETIER, Gérard",Liberal,75,Liberal,Lib,t,12080,f,1
+28,1968-06-25,QC,198,HOCHELAGA,17514,"GAGNON, Michel",Progressive Conservative,124,Progressive Conservative Party,PC,t,5720,f,2
+28,1968-06-25,QC,198,HOCHELAGA,17515,"NANTEL, René",New Democratic Party,100,New Democratic Party,NDP,t,2793,f,3
+28,1968-06-25,QC,198,HOCHELAGA,17512,"DESORMEAUX, Dollard",Ralliement Créditiste,143,Social Credit Party,SoCred,t,1122,f,4
+28,1968-06-25,QC,198,HOCHELAGA,17513,"WALSH, Jeannette",Communist Party of Canada,31,Communist Party,Com,f,192,f,5
+28,1968-06-25,QC,199,HULL,17516,"ISABELLE, Gaston",Liberal,75,Liberal,Lib,t,22982,f,1
+28,1968-06-25,QC,199,HULL,17517,"VILLENEUVE, Joseph-René",Ralliement Créditiste,143,Social Credit Party,SoCred,t,5311,f,2
+28,1968-06-25,QC,199,HULL,17518,"SÉGUIN, Jean-Marie",Progressive Conservative,124,Progressive Conservative Party,PC,t,3661,f,3
+28,1968-06-25,QC,199,HULL,17519,"THIBAULT, Richard",New Democratic Party,100,New Democratic Party,NDP,t,1151,f,4
+28,1968-06-25,QC,199,HULL,17520,"GENDRON, Raoul",Independent Liberal,58,Independent Liberal,IndLib,f,337,f,5
+28,1968-06-25,QC,200,JOLIETTE,17521,"LASALLE, Roch",Progressive Conservative,124,Progressive Conservative Party,PC,t,12464,f,1
+28,1968-06-25,QC,200,JOLIETTE,17524,"RONDEAU, Georges",Liberal,75,Liberal,Lib,t,12292,f,2
+28,1968-06-25,QC,200,JOLIETTE,17523,"NEVEU, Aurélien",Ralliement Créditiste,143,Social Credit Party,SoCred,t,2391,f,3
+28,1968-06-25,QC,200,JOLIETTE,17522,"BOURGEOIS, Roland",New Democratic Party,100,New Democratic Party,NDP,t,1620,f,4
+28,1968-06-25,QC,201,KAMOURASKA,17525,"DIONNE, Charles-Eugène",Ralliement Créditiste,143,Social Credit Party,SoCred,t,8762,f,1
+28,1968-06-25,QC,201,KAMOURASKA,17527,"BERGER, Jean",Liberal,75,Liberal,Lib,t,7631,f,2
+28,1968-06-25,QC,201,KAMOURASKA,17526,"PELLETIER, J.-Rosario",Progressive Conservative,124,Progressive Conservative Party,PC,t,4996,f,3
+28,1968-06-25,QC,201,KAMOURASKA,17528,"DEMERS, Lionel",New Democratic Party,100,New Democratic Party,NDP,t,359,f,4
+28,1968-06-25,QC,202,LABELLE,17529,"CADIEUX, Léo",Liberal,75,Liberal,Lib,t,15801,f,1
+28,1968-06-25,QC,202,LABELLE,17531,"SARRAZIN, Fernand",Progressive Conservative,124,Progressive Conservative Party,PC,t,10152,f,2
+28,1968-06-25,QC,202,LABELLE,17530,"GRONDIN, Clément",Ralliement Créditiste,143,Social Credit Party,SoCred,t,2215,f,3
+28,1968-06-25,QC,202,LABELLE,17532,"PECLET, André",New Democratic Party,100,New Democratic Party,NDP,t,1699,f,4
+28,1968-06-25,QC,203,LAC-SAINT-JEAN,17533,"LESSARD, Marcel",Liberal,75,Liberal,Lib,t,9325,f,1
+28,1968-06-25,QC,203,LAC-SAINT-JEAN,17534,"SIMARD, J.-Alcide",Ralliement Créditiste,143,Social Credit Party,SoCred,t,8430,f,2
+28,1968-06-25,QC,203,LAC-SAINT-JEAN,17535,"TREMBLAY, Jean-Jacques",New Democratic Party,100,New Democratic Party,NDP,t,1330,f,3
+28,1968-06-25,QC,203,LAC-SAINT-JEAN,17536,"SAVARD, Raoul",Progressive Conservative,124,Progressive Conservative Party,PC,t,1034,f,4
+28,1968-06-25,QC,204,LACHINE,17537,"ROCK, Raymond",Liberal,75,Liberal,Lib,t,25989,f,1
+28,1968-06-25,QC,204,LACHINE,17539,"LAPIERRE, Laurier",New Democratic Party,100,New Democratic Party,NDP,t,7898,f,2
+28,1968-06-25,QC,204,LACHINE,17540,"DESNOYERS, Sarto",Progressive Conservative,124,Progressive Conservative Party,PC,t,6225,f,3
+28,1968-06-25,QC,204,LACHINE,17538,"VILLENEUVE, Jean",Ralliement Créditiste,143,Social Credit Party,SoCred,t,220,f,4
+28,1968-06-25,QC,205,LAFONTAINE,17541,"LACHANCE, Georges-C.",Liberal,75,Liberal,Lib,t,14786,f,1
+28,1968-06-25,QC,205,LAFONTAINE,17543,"GAGNON, André",Progressive Conservative,124,Progressive Conservative Party,PC,t,6412,f,2
+28,1968-06-25,QC,205,LAFONTAINE,17544,"LALONDE, Guy",New Democratic Party,100,New Democratic Party,NDP,t,3142,f,3
+28,1968-06-25,QC,205,LAFONTAINE,17545,"ROBERT, Émile",Ralliement Créditiste,143,Social Credit Party,SoCred,t,879,f,4
+28,1968-06-25,QC,205,LAFONTAINE,17542,"LEACH, Albert",Independent Liberal,58,Independent Liberal,IndLib,f,210,f,5
+28,1968-06-25,QC,206,LANGELIER,17546,"MARCHAND, Jean",Liberal,75,Liberal,Lib,t,11439,f,1
+28,1968-06-25,QC,206,LANGELIER,17549,"JEAN, Guy",Ralliement Créditiste,143,Social Credit Party,SoCred,t,8770,f,2
+28,1968-06-25,QC,206,LANGELIER,17548,"PAGEAU, Rodrigue",Progressive Conservative,124,Progressive Conservative Party,PC,t,8150,f,3
+28,1968-06-25,QC,206,LANGELIER,17547,"POURTIER, Pierre",New Democratic Party,100,New Democratic Party,NDP,t,658,f,4
+28,1968-06-25,QC,206,LANGELIER,17550,"ROY, Michel",Ralliement Créditiste,143,Social Credit Party,SoCred,t,308,f,5
+28,1968-06-25,QC,207,LAPOINTE,17551,"MARCEAU, Gilles",Liberal,75,Liberal,Lib,t,11821,f,1
+28,1968-06-25,QC,207,LAPOINTE,17554,"LALIBERTÉ, Alphonse",Progressive Conservative,124,Progressive Conservative Party,PC,t,8077,f,2
+28,1968-06-25,QC,207,LAPOINTE,17553,"LACOMBE, Gérard",Ralliement Créditiste,143,Social Credit Party,SoCred,t,4324,f,3
+28,1968-06-25,QC,207,LAPOINTE,17552,"TRINQUE, Louis-Philippe",New Democratic Party,100,New Democratic Party,NDP,t,919,f,4
+28,1968-06-25,QC,208,LAPRAIRIE,17555,"WATSON, Ian",Liberal,75,Liberal,Lib,t,31968,f,1
+28,1968-06-25,QC,208,LAPRAIRIE,17556,"LABERGE, H.-René",Progressive Conservative,124,Progressive Conservative Party,PC,t,5316,f,2
+28,1968-06-25,QC,208,LAPRAIRIE,17558,"DEMERS, Yves",New Democratic Party,100,New Democratic Party,NDP,t,3551,f,3
+28,1968-06-25,QC,208,LAPRAIRIE,17557,"GAGNON, Marcellin",Ralliement Créditiste,143,Social Credit Party,SoCred,t,1288,f,4
+28,1968-06-25,QC,209,LASALLE,17559,"LESSARD, H.-Pit",Liberal,75,Liberal,Lib,t,26546,f,1
+28,1968-06-25,QC,209,LASALLE,17560,"RAYMOND, Gérald",Progressive Conservative,124,Progressive Conservative Party,PC,t,7018,f,2
+28,1968-06-25,QC,209,LASALLE,17561,"BELLINI, John",New Democratic Party,100,New Democratic Party,NDP,t,4097,f,3
+28,1968-06-25,QC,209,LASALLE,17562,"LIMOGES, Roland",Ralliement Créditiste,143,Social Credit Party,SoCred,t,982,f,4
+28,1968-06-25,QC,210,LAURIER,17563,"LEBLANC, Fernand-E.",Liberal,75,Liberal,Lib,t,10040,f,1
+28,1968-06-25,QC,210,LAURIER,17568,"FALARDEAU, Hubert",Independent,52,Independent,Ind,f,4402,f,2
+28,1968-06-25,QC,210,LAURIER,17564,"BRISKIN, Julius",Progressive Conservative,124,Progressive Conservative Party,PC,t,2827,f,3
+28,1968-06-25,QC,210,LAURIER,17567,"MCKENTY, Gaston",New Democratic Party,100,New Democratic Party,NDP,t,843,f,4
+28,1968-06-25,QC,210,LAURIER,17565,"BANVILLE, Joseph-Wilfrid",Ralliement Créditiste,143,Social Credit Party,SoCred,t,695,f,5
+28,1968-06-25,QC,210,LAURIER,17566,"LANDRY, Marcel",Independent,52,Independent,Ind,f,480,f,6
+28,1968-06-25,QC,211,LAVAL,17569,"ROY, Marcel",Liberal,75,Liberal,Lib,t,24740,f,1
+28,1968-06-25,QC,211,LAVAL,17571,"BOYLE, D.-A.",New Democratic Party,100,New Democratic Party,NDP,t,5807,f,2
+28,1968-06-25,QC,211,LAVAL,17572,"LÉGER, Jean-Louis",Progressive Conservative,124,Progressive Conservative Party,PC,t,4801,f,3
+28,1968-06-25,QC,211,LAVAL,17573,"MARCOTTE, Jean-Roger",Franc Lib,48,Franc Lib,FrancLib,f,2141,f,4
+28,1968-06-25,QC,211,LAVAL,17570,"LECLERC, Thomas",Ralliement Créditiste,143,Social Credit Party,SoCred,t,940,f,5
+28,1968-06-25,QC,212,LONGUEUIL,17574,"COTÉ, Jean-Pierre",Liberal,75,Liberal,Lib,t,19080,f,1
+28,1968-06-25,QC,212,LONGUEUIL,17575,"BÉRIAULT, Raymond-J.",Progressive Conservative,124,Progressive Conservative Party,PC,t,5448,f,2
+28,1968-06-25,QC,212,LONGUEUIL,17579,"FERRON, Paul",New Democratic Party,100,New Democratic Party,NDP,t,4254,f,3
+28,1968-06-25,QC,212,LONGUEUIL,17576,"CHÉNIER, Jos.-A.",Ralliement Créditiste,143,Social Credit Party,SoCred,t,2023,f,4
+28,1968-06-25,QC,212,LONGUEUIL,17577,"CHARLEBOIS, Robert",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,354,f,5
+28,1968-06-25,QC,212,LONGUEUIL,17578,"PRÉVOST, Gaston",Independent Progressive Conservative,62,Independent Progressive Conservative,IndProgCon,f,281,f,6
+28,1968-06-25,QC,213,LOTBINIÈRE,17580,"FORTIN, André",Ralliement Créditiste,143,Social Credit Party,SoCred,t,11302,f,1
+28,1968-06-25,QC,213,LOTBINIÈRE,17581,"BEAUDET, Fernand",Liberal,75,Liberal,Lib,t,9743,f,2
+28,1968-06-25,QC,213,LOTBINIÈRE,17582,"OUELLET, Gérard",Progressive Conservative,124,Progressive Conservative Party,PC,t,8215,f,3
+28,1968-06-25,QC,213,LOTBINIÈRE,17583,"LAURIN, Marcel",New Democratic Party,100,New Democratic Party,NDP,t,732,f,4
+28,1968-06-25,QC,214,LOUIS-HÉBERT,17584,"CANTIN, Jean-Charles",Liberal,75,Liberal,Lib,t,28220,f,1
+28,1968-06-25,QC,214,LOUIS-HÉBERT,17586,"BERLINGUETTE, Gérard",Progressive Conservative,124,Progressive Conservative Party,PC,t,8174,f,2
+28,1968-06-25,QC,214,LOUIS-HÉBERT,17585,"TURGEON, Jean",Ralliement Créditiste,143,Social Credit Party,SoCred,t,5433,f,3
+28,1968-06-25,QC,214,LOUIS-HÉBERT,17587,"DUTIL, Gatéan",New Democratic Party,100,New Democratic Party,NDP,t,2054,f,4
+28,1968-06-25,QC,215,LÉVIS,17588,"GUAY, Raynald",Liberal,75,Liberal,Lib,t,12227,f,1
+28,1968-06-25,QC,215,LÉVIS,17589,"BORGIA, Henri",Ralliement Créditiste,143,Social Credit Party,SoCred,t,9887,f,2
+28,1968-06-25,QC,215,LÉVIS,17590,"DUBÉ, Paul-Émile",Progressive Conservative,124,Progressive Conservative Party,PC,t,9523,f,3
+28,1968-06-25,QC,215,LÉVIS,17591,"RAMSAY, Jean-Guy",New Democratic Party,100,New Democratic Party,NDP,t,1189,f,4
+28,1968-06-25,QC,216,MAISONNEUVE,17592,"THOMAS, J.-Antonio",Liberal,75,Liberal,Lib,t,15784,f,1
+28,1968-06-25,QC,216,MAISONNEUVE,17593,"BEAULIEU, Romuald",Progressive Conservative,124,Progressive Conservative Party,PC,t,5522,f,2
+28,1968-06-25,QC,216,MAISONNEUVE,17594,"MORIN, Roland",New Democratic Party,100,New Democratic Party,NDP,t,4588,f,3
+28,1968-06-25,QC,216,MAISONNEUVE,17595,"PAQUET, Henri",Ralliement Créditiste,143,Social Credit Party,SoCred,t,1233,f,4
+28,1968-06-25,QC,217,MANICOUAGAN,17596,"BLOUIN, Gustave",Liberal,75,Liberal,Lib,t,13504,f,1
+28,1968-06-25,QC,217,MANICOUAGAN,17598,"GILES, Jerry",Progressive Conservative,124,Progressive Conservative Party,PC,t,4539,f,2
+28,1968-06-25,QC,217,MANICOUAGAN,17599,"RIOUX, Louis",New Democratic Party,100,New Democratic Party,NDP,t,2463,f,3
+28,1968-06-25,QC,217,MANICOUAGAN,17597,"BOULANGER, Roger",Ralliement Créditiste,143,Social Credit Party,SoCred,t,1992,f,4
+28,1968-06-25,QC,218,MATANE,17600,"DE BANÉ, Pierre",Liberal,75,Liberal,Lib,t,9207,f,1
+28,1968-06-25,QC,218,MATANE,17601,"CHOUINARD, Julien",Progressive Conservative,124,Progressive Conservative Party,PC,t,6055,f,2
+28,1968-06-25,QC,218,MATANE,17603,"GAGNON, Ghislain",Ralliement Créditiste,143,Social Credit Party,SoCred,t,1159,f,3
+28,1968-06-25,QC,218,MATANE,17602,"BUREAU, Marcel",New Democratic Party,100,New Democratic Party,NDP,t,639,f,4
+28,1968-06-25,QC,219,MERCIER,17604,"BOULANGER, Prosper",Liberal,75,Liberal,Lib,t,19077,f,1
+28,1968-06-25,QC,219,MERCIER,17608,"DANIEL, Raymond",Progressive Conservative,124,Progressive Conservative Party,PC,t,10571,f,2
+28,1968-06-25,QC,219,MERCIER,17607,"BERNIER, Lucette",New Democratic Party,100,New Democratic Party,NDP,t,3041,f,3
+28,1968-06-25,QC,219,MERCIER,17605,"BÉLANGER, Joseph",Ralliement Créditiste,143,Social Credit Party,SoCred,t,3011,f,4
+28,1968-06-25,QC,219,MERCIER,17606,"DUCHAINE, Zotique",Independent,52,Independent,Ind,f,888,f,5
+28,1968-06-25,QC,220,MISSISQUOI,17609,"FOREST, Yves",Liberal,75,Liberal,Lib,t,12905,f,1
+28,1968-06-25,QC,220,MISSISQUOI,17611,"GRAFFTEY, Heward W.",Progressive Conservative,124,Progressive Conservative Party,PC,t,11705,f,2
+28,1968-06-25,QC,220,MISSISQUOI,17612,"CUSTEAU, Roméo",Ralliement Créditiste,143,Social Credit Party,SoCred,t,5205,f,3
+28,1968-06-25,QC,220,MISSISQUOI,17610,"FORTIN, Willie",New Democratic Party,100,New Democratic Party,NDP,t,803,f,4
+28,1968-06-25,QC,221,MONTMORENCY,17613,"LAFLAMME, Ovide",Liberal,75,Liberal,Lib,t,17327,f,1
+28,1968-06-25,QC,221,MONTMORENCY,17616,"MCNICOLL, Jean-Marie",Ralliement Créditiste,143,Social Credit Party,SoCred,t,16114,f,2
+28,1968-06-25,QC,221,MONTMORENCY,17615,"LORTIE, Roland",Progressive Conservative,124,Progressive Conservative Party,PC,t,6555,f,3
+28,1968-06-25,QC,221,MONTMORENCY,17614,"MORIN, Lucille",New Democratic Party,100,New Democratic Party,NDP,t,775,f,4
+28,1968-06-25,QC,221,MONTMORENCY,17617,"DUFRESNE, Paul-Henri",Independent,52,Independent,Ind,f,649,f,5
+28,1968-06-25,QC,222,MOUNT ROYAL,17618,"TRUDEAU, Pierre-Elliott",Liberal,75,Liberal,Lib,t,37402,f,1
+28,1968-06-25,QC,222,MOUNT ROYAL,17620,"MARLEAU, Huguette",Progressive Conservative,124,Progressive Conservative Party,PC,t,1965,f,2
+28,1968-06-25,QC,222,MOUNT ROYAL,17621,"BRAININ, Jussy",New Democratic Party,100,New Democratic Party,NDP,t,1583,f,3
+28,1968-06-25,QC,222,MOUNT ROYAL,17622,"GALLAGHER, Walter",Independent,52,Independent,Ind,f,182,f,4
+28,1968-06-25,QC,222,MOUNT ROYAL,17619,"LAMONDE, Michel",Ralliement Créditiste,143,Social Credit Party,SoCred,t,80,f,5
+28,1968-06-25,QC,223,NOTRE-DAME-DE-GRÂCE,17623,"ALLMAND, Warren",Liberal,75,Liberal,Lib,t,25959,f,1
+28,1968-06-25,QC,223,NOTRE-DAME-DE-GRÂCE,17624,"GIFFORD, C.G.",New Democratic Party,100,New Democratic Party,NDP,t,7123,f,2
+28,1968-06-25,QC,223,NOTRE-DAME-DE-GRÂCE,17625,"SHAW, Gordon",Progressive Conservative,124,Progressive Conservative Party,PC,t,2466,f,3
+28,1968-06-25,QC,224,OUTREMONT,17626,"NOËL, Aurélien",Liberal,75,Liberal,Lib,t,24219,f,1
+28,1968-06-25,QC,224,OUTREMONT,17627,"HANDELMAN, Saul",New Democratic Party,100,New Democratic Party,NDP,t,3511,f,2
+28,1968-06-25,QC,224,OUTREMONT,17628,"MORRISON, Neil",Progressive Conservative,124,Progressive Conservative Party,PC,t,3059,f,3
+28,1968-06-25,QC,225,PAPINEAU,17629,"OUELLET, André",Liberal,75,Liberal,Lib,t,14379,f,1
+28,1968-06-25,QC,225,PAPINEAU,17632,"PAQUIN, René",Progressive Conservative,124,Progressive Conservative Party,PC,t,4168,f,2
+28,1968-06-25,QC,225,PAPINEAU,17631,"DEMERS, Pierre",New Democratic Party,100,New Democratic Party,NDP,t,2572,f,3
+28,1968-06-25,QC,225,PAPINEAU,17633,"MARIER, Jean-Louis",Ralliement Créditiste,143,Social Credit Party,SoCred,t,1094,f,4
+28,1968-06-25,QC,225,PAPINEAU,17630,"LACOMBE, Guy-Gilles",Parti de la Démocratisation Économique,109,Parti de la Démocratisation Économique,DemoEcon,f,537,f,5
+28,1968-06-25,QC,226,PONTIAC,17634,"LEFEBVRE, Tom",Liberal,75,Liberal,Lib,t,10250,f,1
+28,1968-06-25,QC,226,PONTIAC,17635,"MARTINEAU, Paul",Progressive Conservative,124,Progressive Conservative Party,PC,t,7392,f,2
+28,1968-06-25,QC,226,PONTIAC,17637,"LAROCQUE, Louis-P.",Ralliement Créditiste,143,Social Credit Party,SoCred,t,2420,f,3
+28,1968-06-25,QC,226,PONTIAC,17636,"SHANNON, James A.",New Democratic Party,100,New Democratic Party,NDP,t,827,f,4
+28,1968-06-25,QC,227,PORTNEUF,17638,"GODIN, Roland",Ralliement Créditiste,143,Social Credit Party,SoCred,t,18328,f,1
+28,1968-06-25,QC,227,PORTNEUF,17639,"LAPIERRE, Jules",Liberal,75,Liberal,Lib,t,13965,f,2
+28,1968-06-25,QC,227,PORTNEUF,17640,"MARTINEAU, Marcel",Progressive Conservative,124,Progressive Conservative Party,PC,t,4519,f,3
+28,1968-06-25,QC,227,PORTNEUF,17641,"DROLET, Fernand",New Democratic Party,100,New Democratic Party,NDP,t,1126,f,4
+28,1968-06-25,QC,228,QUÉBEC-EST,17642,"DUQUET, Gérard",Liberal,75,Liberal,Lib,t,14945,f,1
+28,1968-06-25,QC,228,QUÉBEC-EST,17645,"ROBICHAUD, Robert",Ralliement Créditiste,143,Social Credit Party,SoCred,t,13807,f,2
+28,1968-06-25,QC,228,QUÉBEC-EST,17644,"PERRON, Jacques",Progressive Conservative,124,Progressive Conservative Party,PC,t,4607,f,3
+28,1968-06-25,QC,228,QUÉBEC-EST,17643,"LE-TIEC, Yvon",New Democratic Party,100,New Democratic Party,NDP,t,953,f,4
+28,1968-06-25,QC,229,RICHELIEU,17646,"COTÉ, Florian",Liberal,75,Liberal,Lib,t,15350,f,1
+28,1968-06-25,QC,229,RICHELIEU,17647,"GAGNÉ, Bernard",Progressive Conservative,124,Progressive Conservative Party,PC,t,12470,f,2
+28,1968-06-25,QC,229,RICHELIEU,17649,"PRESTON, Armand",Ralliement Créditiste,143,Social Credit Party,SoCred,t,1966,f,3
+28,1968-06-25,QC,229,RICHELIEU,17650,"PROULX-MORGAN, Lise",New Democratic Party,100,New Democratic Party,NDP,t,1300,f,4
+28,1968-06-25,QC,229,RICHELIEU,17648,"RITTER, Joffre",Independent,52,Independent,Ind,f,395,f,5
+28,1968-06-25,QC,230,RICHMOND,17651,"BEAUDOIN, Léonel",Ralliement Créditiste,143,Social Credit Party,SoCred,t,11853,f,1
+28,1968-06-25,QC,230,RICHMOND,17652,"ASSELIN, Patrick-T.",Liberal,75,Liberal,Lib,t,8870,f,2
+28,1968-06-25,QC,230,RICHMOND,17653,"TARDIF, Falconio",Progressive Conservative,124,Progressive Conservative Party,PC,t,3527,f,3
+28,1968-06-25,QC,230,RICHMOND,17654,"RINFRET-BÉDARD, Nicole",New Democratic Party,100,New Democratic Party,NDP,t,608,f,4
+28,1968-06-25,QC,231,RIMOUSKI,17655,"LEBLANC, Guy",Liberal,75,Liberal,Lib,t,12073,f,1
+28,1968-06-25,QC,231,RIMOUSKI,17656,"CARLE, Gilles",Progressive Conservative,124,Progressive Conservative Party,PC,t,9445,f,2
+28,1968-06-25,QC,231,RIMOUSKI,17657,"GAGNON, Félix",Ralliement Créditiste,143,Social Credit Party,SoCred,t,2937,f,3
+28,1968-06-25,QC,232,ROBERVAL,17658,"GAUTHIER, Charles-Arthur",Ralliement Créditiste,143,Social Credit Party,SoCred,t,8811,f,1
+28,1968-06-25,QC,232,ROBERVAL,17660,"LAROUCHE, Lucien",Liberal,75,Liberal,Lib,t,7727,f,2
+28,1968-06-25,QC,232,ROBERVAL,17661,"BOUCHARD, Fernand",Progressive Conservative,124,Progressive Conservative Party,PC,t,1951,f,3
+28,1968-06-25,QC,232,ROBERVAL,17659,"CAJOLAIS, Pierre",New Democratic Party,100,New Democratic Party,NDP,t,241,f,4
+28,1968-06-25,QC,233,SAINT-DENIS,17662,"PRUD'HOMME, Marcel",Liberal,75,Liberal,Lib,t,17022,f,1
+28,1968-06-25,QC,233,SAINT-DENIS,17663,"DOZOIS, Guy",Progressive Conservative,124,Progressive Conservative Party,PC,t,3653,f,2
+28,1968-06-25,QC,233,SAINT-DENIS,17664,"AUF DER MAUR, Frank",New Democratic Party,100,New Democratic Party,NDP,t,1908,f,3
+28,1968-06-25,QC,233,SAINT-DENIS,17665,"POITRAS, André",Ralliement Créditiste,143,Social Credit Party,SoCred,t,1165,f,4
+28,1968-06-25,QC,234,SAINT-HENRI,17666,"LOISELLE, Gérard",Liberal,75,Liberal,Lib,t,12792,f,1
+28,1968-06-25,QC,234,SAINT-HENRI,17669,"SÉVIGNY, Pierre",Independent,52,Independent,Ind,f,3499,f,2
+28,1968-06-25,QC,234,SAINT-HENRI,17670,"PHILIPPS, Gérard",New Democratic Party,100,New Democratic Party,NDP,t,1491,f,3
+28,1968-06-25,QC,234,SAINT-HENRI,17671,"HOGUE, Pierre",Progressive Conservative,124,Progressive Conservative Party,PC,t,972,f,4
+28,1968-06-25,QC,234,SAINT-HENRI,17668,"RANGER, Joseph",Ralliement Créditiste,143,Social Credit Party,SoCred,t,608,f,5
+28,1968-06-25,QC,234,SAINT-HENRI,17672,"GAUDREAU, William",Independent Liberal,58,Independent Liberal,IndLib,f,465,f,6
+28,1968-06-25,QC,234,SAINT-HENRI,17667,"PILOTE, Lomer",Independent,52,Independent,Ind,f,335,f,7
+28,1968-06-25,QC,235,SAINT-HYACINTHE,17673,"RICARD, J.-H.-Théogène",Progressive Conservative,124,Progressive Conservative Party,PC,t,16389,f,1
+28,1968-06-25,QC,235,SAINT-HYACINTHE,17675,"SAUVÉ, Maurice",Liberal,75,Liberal,Lib,t,15601,f,2
+28,1968-06-25,QC,235,SAINT-HYACINTHE,17676,"AUGER, Jean-Baptiste",Ralliement Créditiste,143,Social Credit Party,SoCred,t,1682,f,3
+28,1968-06-25,QC,235,SAINT-HYACINTHE,17674,"LACOMBE, André",New Democratic Party,100,New Democratic Party,NDP,t,878,f,4
+28,1968-06-25,QC,236,SAINT-JACQUES,17677,"GUILBAULT, Jacques",Liberal,75,Liberal,Lib,t,9701,f,1
+28,1968-06-25,QC,236,SAINT-JACQUES,17679,"ALIE, Fernand",Progressive Conservative,124,Progressive Conservative Party,PC,t,4238,f,2
+28,1968-06-25,QC,236,SAINT-JACQUES,17682,"MAJOR, Julien",New Democratic Party,100,New Democratic Party,NDP,t,971,f,3
+28,1968-06-25,QC,236,SAINT-JACQUES,17678,"MALLETTE, Lucien",Ralliement Créditiste,143,Social Credit Party,SoCred,t,705,f,4
+28,1968-06-25,QC,236,SAINT-JACQUES,17680,"ABRAHAM, Joseph-Louis",Independent,52,Independent,Ind,f,314,f,5
+28,1968-06-25,QC,236,SAINT-JACQUES,17681,"GRENIER, H.-Georges",Esprit social,44,Esprit social,Esprit,f,311,f,6
+28,1968-06-25,QC,237,SAINT-JEAN,17683,"SMITH, Walter",Liberal,75,Liberal,Lib,t,15878,f,1
+28,1968-06-25,QC,237,SAINT-JEAN,17687,"BEAULIEU, Paul",Progressive Conservative,124,Progressive Conservative Party,PC,t,9715,f,2
+28,1968-06-25,QC,237,SAINT-JEAN,17684,"DOCQUIER, Gérard",New Democratic Party,100,New Democratic Party,NDP,t,3332,f,3
+28,1968-06-25,QC,237,SAINT-JEAN,17685,"POIRIER, Louis",Ralliement Créditiste,143,Social Credit Party,SoCred,t,1373,f,4
+28,1968-06-25,QC,237,SAINT-JEAN,17686,"MELOCHE, Jean",Parti de la Démocratisation Économique,109,Parti de la Démocratisation Économique,DemoEcon,f,214,f,5
+28,1968-06-25,QC,238,SAINT-MAURICE,17688,"CHRÉTIEN, Jean",Liberal,75,Liberal,Lib,t,13895,f,1
+28,1968-06-25,QC,238,SAINT-MAURICE,17689,"POULIN, Alphonse",Ralliement Créditiste,143,Social Credit Party,SoCred,t,12198,f,2
+28,1968-06-25,QC,238,SAINT-MAURICE,17690,"GERMAIN, Guy",Progressive Conservative,124,Progressive Conservative Party,PC,t,4570,f,3
+28,1968-06-25,QC,238,SAINT-MAURICE,17691,"LALANCETTE, Jean-Guy",New Democratic Party,100,New Democratic Party,NDP,t,550,f,4
+28,1968-06-25,QC,239,SAINT-MICHEL,17692,"FORGET, Victor",Liberal,75,Liberal,Lib,t,22307,f,1
+28,1968-06-25,QC,239,SAINT-MICHEL,17695,"BALENA, Louis",Progressive Conservative,124,Progressive Conservative Party,PC,t,4685,f,2
+28,1968-06-25,QC,239,SAINT-MICHEL,17694,"CULMER, Robert",New Democratic Party,100,New Democratic Party,NDP,t,3176,f,3
+28,1968-06-25,QC,239,SAINT-MICHEL,17696,"PAQUIN, Edgar",Ralliement Créditiste,143,Social Credit Party,SoCred,t,2515,f,4
+28,1968-06-25,QC,239,SAINT-MICHEL,17693,"ST-JEAN, Sylvio-Robert",Parti de la Démocratisation Économique,109,Parti de la Démocratisation Économique,DemoEcon,f,711,f,5
+28,1968-06-25,QC,240,SAINTE-MARIE,17697,"VALADE, J. Georges",Progressive Conservative,124,Progressive Conservative Party,PC,t,9528,f,1
+28,1968-06-25,QC,240,SAINTE-MARIE,17702,"OUELLET, Jean-Robert",Liberal,75,Liberal,Lib,t,7449,f,2
+28,1968-06-25,QC,240,SAINTE-MARIE,17698,"CAPLETTE, Albert",Independent Liberal,58,Independent Liberal,IndLib,f,1977,f,3
+28,1968-06-25,QC,240,SAINTE-MARIE,17700,"PAQUIN, Marcel",New Democratic Party,100,New Democratic Party,NDP,t,1149,f,4
+28,1968-06-25,QC,240,SAINTE-MARIE,17701,"MÉNARD, Pierre",Ralliement Créditiste,143,Social Credit Party,SoCred,t,884,f,5
+28,1968-06-25,QC,240,SAINTE-MARIE,17699,"ROLLIN, Paul",Independent,52,Independent,Ind,f,169,f,6
+28,1968-06-25,QC,241,SHEFFORD,17703,"RONDEAU, Gilbert",Ralliement Créditiste,143,Social Credit Party,SoCred,t,12633,f,1
+28,1968-06-25,QC,241,SHEFFORD,17706,"NEVEU, Louis-Paul",Liberal,75,Liberal,Lib,t,12158,f,2
+28,1968-06-25,QC,241,SHEFFORD,17704,"TRÉPANIER, Paul-O.",Progressive Conservative,124,Progressive Conservative Party,PC,t,5718,f,3
+28,1968-06-25,QC,241,SHEFFORD,17705,"MILLER, Jean",New Democratic Party,100,New Democratic Party,NDP,t,574,f,4
+28,1968-06-25,QC,242,SHERBROOKE,17707,"GERVAIS, Paul-M.",Liberal,75,Liberal,Lib,t,15270,f,1
+28,1968-06-25,QC,242,SHERBROOKE,17708,"LAROSE, Adélard",Ralliement Créditiste,143,Social Credit Party,SoCred,t,15172,f,2
+28,1968-06-25,QC,242,SHERBROOKE,17709,"KINDY, Alexandre",Progressive Conservative,124,Progressive Conservative Party,PC,t,5946,f,3
+28,1968-06-25,QC,242,SHERBROOKE,17710,"BLOUIN, Jean-Paul",New Democratic Party,100,New Democratic Party,NDP,t,1563,f,4
+28,1968-06-25,QC,243,TERREBONNE,17711,"COMTOIS, Joseph-Roland",Liberal,75,Liberal,Lib,t,21191,f,1
+28,1968-06-25,QC,243,TERREBONNE,17715,"VACHON, Jacques",Progressive Conservative,124,Progressive Conservative Party,PC,t,6934,f,2
+28,1968-06-25,QC,243,TERREBONNE,17713,"SÉNÉCAL, Jean-Maurice",New Democratic Party,100,New Democratic Party,NDP,t,3860,f,3
+28,1968-06-25,QC,243,TERREBONNE,17714,"THERRIEN, Rosario",Ralliement Créditiste,143,Social Credit Party,SoCred,t,1363,f,4
+28,1968-06-25,QC,243,TERREBONNE,17712,"THERRIEN, Pierre",Parti de la Démocratisation Économique,109,Parti de la Démocratisation Économique,DemoEcon,f,824,f,5
+28,1968-06-25,QC,244,TROIS-RIVIÈRES,17716,"MONGRAIN, J.-Alfred",Liberal,75,Liberal,Lib,t,17592,f,1
+28,1968-06-25,QC,244,TROIS-RIVIÈRES,17717,"GAUTHIER, Gilles",Progressive Conservative,124,Progressive Conservative Party,PC,t,10501,f,2
+28,1968-06-25,QC,244,TROIS-RIVIÈRES,17719,"FRÉCHETTE, Émile",Ralliement Créditiste,143,Social Credit Party,SoCred,t,7305,f,3
+28,1968-06-25,QC,244,TROIS-RIVIÈRES,17718,"DAVIAULT, Philippe",New Democratic Party,100,New Democratic Party,NDP,t,1724,f,4
+28,1968-06-25,QC,244,TROIS-RIVIÈRES,17721,"PELLETIER, Gaston",Independent,52,Independent,Ind,f,566,f,5
+28,1968-06-25,QC,244,TROIS-RIVIÈRES,17720,"BORNAIS, Lucien",Independent,52,Independent,Ind,f,364,f,6
+28,1968-06-25,QC,245,TÉMISCAMINGUE,17722,"CAOUETTE, Réal",Ralliement Créditiste,143,Social Credit Party,SoCred,t,12532,f,1
+28,1968-06-25,QC,245,TÉMISCAMINGUE,17723,"LAPIERRE, Côme-A.",Liberal,75,Liberal,Lib,t,6603,f,2
+28,1968-06-25,QC,245,TÉMISCAMINGUE,17724,"CHARRON-LABRIE, Aurore",Progressive Conservative,124,Progressive Conservative Party,PC,t,1774,f,3
+28,1968-06-25,QC,245,TÉMISCAMINGUE,17725,"WORMSLEY, George",New Democratic Party,100,New Democratic Party,NDP,t,556,f,4
+28,1968-06-25,QC,246,TÉMISCOUATA,17726,"GENDRON, Rosaire",Liberal,75,Liberal,Lib,t,10605,f,1
+28,1968-06-25,QC,246,TÉMISCOUATA,17727,"DUBÉ, Antonio",Progressive Conservative,124,Progressive Conservative Party,PC,t,8630,f,2
+28,1968-06-25,QC,246,TÉMISCOUATA,17729,"GAGNON, Philippe",Ralliement Créditiste,143,Social Credit Party,SoCred,t,3029,f,3
+28,1968-06-25,QC,246,TÉMISCOUATA,17728,"MCLEOD, Robert",New Democratic Party,100,New Democratic Party,NDP,t,360,f,4
+28,1968-06-25,QC,247,VAUDREUIL,17730,"ÉMARD, René",Liberal,75,Liberal,Lib,t,29830,f,1
+28,1968-06-25,QC,247,VAUDREUIL,17731,"FAIRHEAD, Harold G.",Progressive Conservative,124,Progressive Conservative Party,PC,t,7654,f,2
+28,1968-06-25,QC,247,VAUDREUIL,17732,"DAVIAU, Maurice",New Democratic Party,100,New Democratic Party,NDP,t,2905,f,3
+28,1968-06-25,QC,248,VERDUN,17733,"MACKASEY, Bryce",Liberal,75,Liberal,Lib,t,22436,f,1
+28,1968-06-25,QC,248,VERDUN,17734,"DE SERRES, Claude",Progressive Conservative,124,Progressive Conservative Party,PC,t,3410,f,2
+28,1968-06-25,QC,248,VERDUN,17736,"CRAIG, Matt",New Democratic Party,100,New Democratic Party,NDP,t,2813,f,3
+28,1968-06-25,QC,248,VERDUN,17735,"LÉPINE, Eugène",Ralliement Créditiste,143,Social Credit Party,SoCred,t,1004,f,4
+28,1968-06-25,QC,249,VILLENEUVE,17737,"TÉTRAULT, Oza",Ralliement Créditiste,143,Social Credit Party,SoCred,t,10073,f,1
+28,1968-06-25,QC,249,VILLENEUVE,17740,"ROY, André",Liberal,75,Liberal,Lib,t,7994,f,2
+28,1968-06-25,QC,249,VILLENEUVE,17738,"BÉRARD, J.-Eugène",Progressive Conservative,124,Progressive Conservative Party,PC,t,2182,f,3
+28,1968-06-25,QC,249,VILLENEUVE,17739,"LEGAULT, Wilfrid",New Democratic Party,100,New Democratic Party,NDP,t,886,f,4
+28,1968-06-25,QC,250,WESTMOUNT,17741,"DRURY, C.M.",Liberal,75,Liberal,Lib,t,31104,f,1
+28,1968-06-25,QC,250,WESTMOUNT,17742,"BALLANTYNE, Murray G.",Progressive Conservative,124,Progressive Conservative Party,PC,t,5928,f,2
+28,1968-06-25,QC,250,WESTMOUNT,17743,"ADAMS, Jeff",New Democratic Party,100,New Democratic Party,NDP,t,2303,f,3
+28,1968-06-25,SK,251,ASSINIBOIA,17744,"DOUGLAS, A.B.",Liberal,75,Liberal,Lib,t,9636,f,1
+28,1968-06-25,SK,251,ASSINIBOIA,17745,"WATSON, Lawrence",Progressive Conservative,124,Progressive Conservative Party,PC,t,9541,f,2
+28,1968-06-25,SK,251,ASSINIBOIA,17746,"WILSON, Bruce L.",New Democratic Party,100,New Democratic Party,NDP,t,9295,f,3
+28,1968-06-25,SK,252,BATTLEFORD--KINDERSLEY,17747,"THOMSON, Rod",New Democratic Party,100,New Democratic Party,NDP,t,10583,f,1
+28,1968-06-25,SK,252,BATTLEFORD--KINDERSLEY,17748,"CANTELON, Reg",Progressive Conservative,124,Progressive Conservative Party,PC,t,9941,f,2
+28,1968-06-25,SK,252,BATTLEFORD--KINDERSLEY,17749,"STEIERT, Anthony C.",Liberal,75,Liberal,Lib,t,7872,f,3
+28,1968-06-25,SK,253,MACKENZIE,17750,"KORCHINSKI, Stanley James",Progressive Conservative,124,Progressive Conservative Party,PC,t,8578,f,1
+28,1968-06-25,SK,253,MACKENZIE,17752,"ZBITNEW, Joe",New Democratic Party,100,New Democratic Party,NDP,t,7512,f,2
+28,1968-06-25,SK,253,MACKENZIE,17751,"ZIMMER, Joseph Wayne",Liberal,75,Liberal,Lib,t,4199,f,3
+28,1968-06-25,SK,254,MEADOW LAKE,17753,"CADIEU, Bert",Progressive Conservative,124,Progressive Conservative Party,PC,t,7688,f,1
+28,1968-06-25,SK,254,MEADOW LAKE,17754,"NESDOLY, Elias",New Democratic Party,100,New Democratic Party,NDP,t,6080,f,2
+28,1968-06-25,SK,254,MEADOW LAKE,17755,"JACKSON, Bert",Liberal,75,Liberal,Lib,t,4932,f,3
+28,1968-06-25,SK,254,MEADOW LAKE,17756,"LAVALLEE, Carole D.",Independent,52,Independent,Ind,f,689,f,4
+28,1968-06-25,SK,255,MOOSE JAW,17757,"SKOBERG, John L.",New Democratic Party,100,New Democratic Party,NDP,t,11982,f,1
+28,1968-06-25,SK,255,MOOSE JAW,17759,"PASCOE, Ernest",Progressive Conservative,124,Progressive Conservative Party,PC,t,10496,f,2
+28,1968-06-25,SK,255,MOOSE JAW,17758,"DUDDRIDGE, Lew C.",Liberal,75,Liberal,Lib,t,7000,f,3
+28,1968-06-25,SK,256,PRINCE ALBERT,17760,"DIEFENBAKER, John George",Progressive Conservative,124,Progressive Conservative Party,PC,t,17850,f,1
+28,1968-06-25,SK,256,PRINCE ALBERT,17761,"HARTLEY, Al",New Democratic Party,100,New Democratic Party,NDP,t,8979,f,2
+28,1968-06-25,SK,256,PRINCE ALBERT,17762,"WEST, Philip Edward",Liberal,75,Liberal,Lib,t,5025,f,3
+28,1968-06-25,SK,257,QU'APPELLE--MOOSE MOUNTAIN,17763,"SOUTHAM, Richard R.",Progressive Conservative,124,Progressive Conservative Party,PC,t,12429,f,1
+28,1968-06-25,SK,257,QU'APPELLE--MOOSE MOUNTAIN,17765,"GOODWIN, William F.",New Democratic Party,100,New Democratic Party,NDP,t,8765,f,2
+28,1968-06-25,SK,257,QU'APPELLE--MOOSE MOUNTAIN,17764,"ANDERSON, Dwight L.",Liberal,75,Liberal,Lib,t,8299,f,3
+28,1968-06-25,SK,258,REGINA EAST,17766,"BURTON, John",New Democratic Party,100,New Democratic Party,NDP,t,13641,f,1
+28,1968-06-25,SK,258,REGINA EAST,17769,"HAMILTON, Alvin",Progressive Conservative,124,Progressive Conservative Party,PC,t,13449,f,2
+28,1968-06-25,SK,258,REGINA EAST,17768,"MACLEOD, Ken",Liberal,75,Liberal,Lib,t,11986,f,3
+28,1968-06-25,SK,258,REGINA EAST,17767,"BEECHING, William Charles",Communist Party of Canada,31,Communist Party,Com,f,230,f,4
+28,1968-06-25,SK,259,REGINA--LAKE CENTRE,17770,"BENJAMIN, Les",New Democratic Party,100,New Democratic Party,NDP,t,17102,f,1
+28,1968-06-25,SK,259,REGINA--LAKE CENTRE,17771,"MORE, Ken",Progressive Conservative,124,Progressive Conservative Party,PC,t,13572,f,2
+28,1968-06-25,SK,259,REGINA--LAKE CENTRE,17772,"ACKERMAN, Tom",Liberal,75,Liberal,Lib,t,13104,f,3
+28,1968-06-25,SK,260,SASKATOON--BIGGAR,17773,"GLEAVE, A.P.",New Democratic Party,100,New Democratic Party,NDP,t,15928,f,1
+28,1968-06-25,SK,260,SASKATOON--BIGGAR,17774,"NASSERDEN, Ed",Progressive Conservative,124,Progressive Conservative Party,PC,t,13309,f,2
+28,1968-06-25,SK,260,SASKATOON--BIGGAR,17775,"BLACKLOCK, Ben",Liberal,75,Liberal,Lib,t,8071,f,3
+28,1968-06-25,SK,261,SASKATOON--HUMBOLDT,17776,"LANG, Otto Emil",Liberal,75,Liberal,Lib,t,15210,f,1
+28,1968-06-25,SK,261,SASKATOON--HUMBOLDT,17777,"TAYLOR, George",New Democratic Party,100,New Democratic Party,NDP,t,14655,f,2
+28,1968-06-25,SK,261,SASKATOON--HUMBOLDT,17778,"BRAND, Lewis",Progressive Conservative,124,Progressive Conservative Party,PC,t,14444,f,3
+28,1968-06-25,SK,262,SWIFT CURRENT--MAPLE CREEK,17779,"MCINTOSH, Jack",Progressive Conservative,124,Progressive Conservative Party,PC,t,11237,f,1
+28,1968-06-25,SK,262,SWIFT CURRENT--MAPLE CREEK,17781,"CURRIE, Bev",New Democratic Party,100,New Democratic Party,NDP,t,10207,f,2
+28,1968-06-25,SK,262,SWIFT CURRENT--MAPLE CREEK,17780,"STRATH, Donald J.",Liberal,75,Liberal,Lib,t,6930,f,3
+28,1968-06-25,SK,263,YORKTON--MELVILLE,17782,"Nystrom, Lorne",New Democratic Party,100,New Democratic Party,NDP,t,13212,f,1
+28,1968-06-25,SK,263,YORKTON--MELVILLE,17784,"ORMISTON, James N.",Progressive Conservative,124,Progressive Conservative Party,PC,t,10699,f,2
+28,1968-06-25,SK,263,YORKTON--MELVILLE,17783,"KONKIN, Peter J.",Liberal,75,Liberal,Lib,t,10068,f,3
+28,1968-06-25,YK,264,YUKON,17785,"NIELSEN, Erik",Progressive Conservative,124,Progressive Conservative Party,PC,t,3110,f,1
+28,1968-06-25,YK,264,YUKON,17786,"FINDLAY, Chris",Liberal,75,Liberal,Lib,t,3048,f,2
+28,1968-06-25,YK,264,YUKON,17787,"MCLAREN, Robert A.",New Democratic Party,100,New Democratic Party,NDP,t,325,f,3

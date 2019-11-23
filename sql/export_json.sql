@@ -13,7 +13,6 @@ SELECT json_agg(
                json_build_object('ridingId', ed_id,
                                  'name', cand_name,
                                  'party', party_short_name,
-                                 'rwIncumbent', FALSE,
                                  'rwElected', elected,
                                  'rwVotes', votes)
                ORDER BY election_id, ed_id, cand_name
@@ -62,10 +61,10 @@ DECLARE
 BEGIN
     FOR rec IN
         SELECT election_id, format(
-                  $a$/Users/bwbecker/byron/activism/charterChallenge/cdnFedElectionData/json_work/candidates_%s.json$a$,
+                  $a$/Users/bwbecker/byron/activism/pr_recent/cdnFedElectionData/json_work/candidates-%s.json$a$,
                   date_part('year', election_date)) AS cand_fname,
                 format(
-                  $a$/Users/bwbecker/byron/activism/charterChallenge/cdnFedElectionData/json_work/ridings_%s.json$a$,
+                  $a$/Users/bwbecker/byron/activism/pr_recent/cdnFedElectionData/json_work/ridings-%s.json$a$,
                   date_part('year', election_date)) AS riding_fname
           FROM _elections.elections
           --WHERE election_id IN (1, 2)

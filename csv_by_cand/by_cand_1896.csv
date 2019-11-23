@@ -1,0 +1,470 @@
+election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_party_name,party_id,party_name,party_short_name,mainstream,votes,acclaimed,place
+8,1896-06-23,BC,1,BURRARD,2778,"MAXWELL, G.R.",Liberal,75,Liberal,Lib,t,1512,f,1
+8,1896-06-23,BC,1,BURRARD,2779,"COWAN, G.H.",Conservative,37,Conservative,Con,t,1214,f,2
+8,1896-06-23,BC,1,BURRARD,2780,"BOWSER, W.J.",Conservative,37,Conservative,Con,t,410,f,3
+8,1896-06-23,BC,2,NEW WESTMINSTER,2781,"MORRISON, Aulay",Liberal,75,Liberal,Lib,t,1758,f,1
+8,1896-06-23,BC,2,NEW WESTMINSTER,2782,"MCBRIDE, Richard",Conservative,37,Conservative,Con,t,1460,f,2
+8,1896-06-23,BC,3,VANCOUVER,2783,"MCINNES, Wm. W.B.",Liberal,75,Liberal,Lib,t,1020,f,1
+8,1896-06-23,BC,3,VANCOUVER,2784,"HASLAM, Andrew",Conservative,37,Conservative,Con,t,823,f,2
+8,1896-06-23,BC,3,VANCOUVER,2785,"HAGGART, James",Conservative,37,Conservative,Con,t,647,f,3
+8,1896-06-23,BC,4,VICTORIA-1,2787,"EARLE, Thomas",Conservative,37,Conservative,Con,t,1551,f,1
+8,1896-06-23,BC,4,VICTORIA-1,2789,"MILNE, George L.",Liberal,75,Liberal,Lib,t,1355,f,2
+8,1896-06-23,BC,5,VICTORIA-2,2786,"PRIOR, E.G.",Conservative,37,Conservative,Con,t,1647,f,1
+8,1896-06-23,BC,5,VICTORIA-2,2788,"TEMPLEMAN, William",Liberal,75,Liberal,Lib,t,1452,f,2
+8,1896-06-23,BC,6,YALE--CARIBOO,2790,"BOSTOCK, H.",Liberal,75,Liberal,Lib,t,1824,f,1
+8,1896-06-23,BC,6,YALE--CARIBOO,2791,"MARA, J.A.",Conservative,37,Conservative,Con,t,1479,f,2
+8,1896-06-23,MB,7,BRANDON,2792,"MCCARTHY, D'Alton",McCarthyite,89,McCarthyite,McCarthy,f,3073,f,1
+8,1896-06-23,MB,7,BRANDON,2793,"MCDONALD, W.A.",Conservative,37,Conservative,Con,t,2738,f,2
+8,1896-06-23,MB,7,BRANDON,2794,"POSTLETHWAITE, W.",Patrons of Industry,114,Patrons of Industry,PatronsInd,f,1102,f,3
+8,1896-06-23,MB,8,LISGAR,2795,"RICHARDSON, Robert Lorne",Liberal,75,Liberal,Lib,t,2657,f,1
+8,1896-06-23,MB,8,LISGAR,2796,"ROGERS, R.",Conservative,37,Conservative,Con,t,2603,f,2
+8,1896-06-23,MB,9,MACDONALD,2797,"BOYD, Nathaniel",Conservative,37,Conservative,Con,t,2436,f,1
+8,1896-06-23,MB,9,MACDONALD,2798,"RUTHERFORD, John G.",Liberal,75,Liberal,Lib,t,2038,f,2
+8,1896-06-23,MB,9,MACDONALD,2799,"BAITHWAITE, Charles",Patrons of Industry,114,Patrons of Industry,PatronsInd,f,1259,f,3
+8,1896-06-23,MB,10,MARQUETTE,2800,"ROCHE, W.J.",Conservative,37,Conservative,Con,t,1533,f,1
+8,1896-06-23,MB,10,MARQUETTE,2801,"ASHDOWN, J.H.",Liberal,75,Liberal,Lib,t,1466,f,2
+8,1896-06-23,MB,10,MARQUETTE,2802,"MARSHALL, G.A.I.A.",Patrons of Industry,114,Patrons of Industry,PatronsInd,f,472,f,3
+8,1896-06-23,MB,11,PROVENCHER,2803,"LARIVIÈRE, A.A.C.",Conservative,37,Conservative,Con,t,1476,f,1
+8,1896-06-23,MB,11,PROVENCHER,2804,"WALTON, George",Liberal,75,Liberal,Lib,t,810,f,2
+8,1896-06-23,MB,12,SELKIRK,2805,"Macdonell, John A.",Liberal,75,Liberal,Lib,t,1713,f,1
+8,1896-06-23,MB,12,SELKIRK,2806,"ARMSTRONG, Hugh",Conservative,37,Conservative,Con,t,1712,f,2
+8,1896-06-23,MB,13,WINNIPEG,2807,"MACDONALD, Hon. Hugh J.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2961,f,1
+8,1896-06-23,MB,13,WINNIPEG,2808,"MARTIN, Joseph",Liberal,75,Liberal,Lib,t,2835,f,2
+8,1896-06-23,NB,14,ALBERT,2809,"LEWIS, W.J.",Independent,52,Independent,Ind,f,1170,f,1
+8,1896-06-23,NB,14,ALBERT,2810,"WELDON, R.C.",Conservative,37,Conservative,Con,t,927,f,2
+8,1896-06-23,NB,15,CARLETON,2811,"HALE, F.H.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2667,f,1
+8,1896-06-23,NB,15,CARLETON,2812,"COLTER, N.R.",Liberal,75,Liberal,Lib,t,2261,f,2
+8,1896-06-23,NB,16,CHARLOTTE,2813,"GANONG, G.W.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2453,f,1
+8,1896-06-23,NB,16,CHARLOTTE,2814,"GILLMOR, A.H.",Liberal,75,Liberal,Lib,t,1981,f,2
+8,1896-06-23,NB,17,CITY AND COUNTY OF ST. JOHN,2815,"TUCKER, Joseph John",Liberal,75,Liberal,Lib,t,3924,f,1
+8,1896-06-23,NB,17,CITY AND COUNTY OF ST. JOHN,2816,"HAZEN, J. Douglas",Conservative,37,Conservative,Con,t,3733,f,2
+8,1896-06-23,NB,17,CITY AND COUNTY OF ST. JOHN,2817,"MCLAUGHLIN, D.J.",Independent,52,Independent,Ind,f,1495,f,3
+8,1896-06-23,NB,18,CITY OF ST. JOHN,2818,"ELLIS, John V.",Liberal,75,Liberal,Lib,t,3249,f,1
+8,1896-06-23,NB,18,CITY OF ST. JOHN,2819,"CHESLEY, John A.",Conservative,37,Conservative,Con,t,2527,f,2
+8,1896-06-23,NB,18,CITY OF ST. JOHN,2820,"PUGSLEY, William",Independent,52,Independent,Ind,f,1427,f,3
+8,1896-06-23,NB,19,GLOUCESTER,2821,"BLANCHARD, Théotime",Conservative,37,Conservative,Con,t,1947,f,1
+8,1896-06-23,NB,19,GLOUCESTER,2822,"TURGEON, O.",Liberal,75,Liberal,Lib,t,1140,f,2
+8,1896-06-23,NB,19,GLOUCESTER,2823,"YOUNG, Robert",Independent,52,Independent,Ind,f,736,f,3
+8,1896-06-23,NB,20,KENT,2824,"MCINERNEY, G.V.",Conservative,37,Conservative,Con,t,2041,f,1
+8,1896-06-23,NB,20,KENT,2825,"LEBLANC, O.J.",Liberal,75,Liberal,Lib,t,1514,f,2
+8,1896-06-23,NB,21,KING'S,2826,"DOMVILLE, James",Liberal,75,Liberal,Lib,t,2389,f,1
+8,1896-06-23,NB,21,KING'S,2827,"MORTON, F.E.",Conservative,37,Conservative,Con,t,1874,f,2
+8,1896-06-23,NB,22,NORTHUMBERLAND,2828,"ROBINSON, James",Conservative,37,Conservative,Con,t,2225,f,1
+8,1896-06-23,NB,22,NORTHUMBERLAND,2829,"MITCHELL, Hon. Peter",Liberal,75,Liberal,Lib,t,1718,f,2
+8,1896-06-23,NB,22,NORTHUMBERLAND,2830,"MORRISSY, John",Independent,52,Independent,Ind,f,660,f,3
+8,1896-06-23,NB,23,RESTIGOUCHE,2831,"MCALISTER, John",Liberal-Conservative,124,Progressive Conservative Party,PC,t,794,f,1
+8,1896-06-23,NB,23,RESTIGOUCHE,2832,"HADOW, G.",Liberal,75,Liberal,Lib,t,750,f,2
+8,1896-06-23,NB,24,SUNBURY--QUEEN'S,2833,"KING, Geo. G.",Liberal,75,Liberal,Lib,t,1778,f,1
+8,1896-06-23,NB,24,SUNBURY--QUEEN'S,2834,"WILMOT, R.D.",Conservative,37,Conservative,Con,t,1599,f,2
+8,1896-06-23,NB,25,VICTORIA,2835,"COSTIGAN, Hon. John",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1864,f,1
+8,1896-06-23,NB,25,VICTORIA,2836,"LAFOREST, Fred",Liberal,75,Liberal,Lib,t,1318,f,2
+8,1896-06-23,NB,26,WESTMORLAND,2837,"POWELL, H.A.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,3442,f,1
+8,1896-06-23,NB,26,WESTMORLAND,2838,"ROBINSON, C.N.",Liberal,75,Liberal,Lib,t,3427,f,2
+8,1896-06-23,NB,27,YORK,2839,"FOSTER, Hon. George E.",Conservative,37,Conservative,Con,t,3306,f,1
+8,1896-06-23,NB,27,YORK,2840,"ALLEN, Edmond N.",Liberal,75,Liberal,Lib,t,1764,f,2
+8,1896-06-23,NS,28,ANNAPOLIS,2841,"MILLS, John B.",Conservative,37,Conservative,Con,t,2012,f,1
+8,1896-06-23,NS,28,ANNAPOLIS,2842,"LONGLEY, J.W.",Liberal,75,Liberal,Lib,t,1815,f,2
+8,1896-06-23,NS,29,ANTIGONISH,2843,"MCISAAC, Colin F.",Liberal,75,Liberal,Lib,t,1341,f,1
+8,1896-06-23,NS,29,ANTIGONISH,2844,"CHISHOLM, J.A.",Conservative,37,Conservative,Con,t,1224,f,2
+8,1896-06-23,NS,30,CAPE BRETON-1,2846,"TUPPER, Sir Chs.",Conservative,37,Conservative,Con,t,3630,f,1
+8,1896-06-23,NS,30,CAPE BRETON-1,2848,"KENDALL, A.S.",Liberal,75,Liberal,Lib,t,2813,f,2
+8,1896-06-23,NS,31,CAPE BRETON-2,2845,"MCDOUGALL, H.F.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,3430,f,1
+8,1896-06-23,NS,31,CAPE BRETON-2,2847,"MCPHERSON, Joseph",Liberal,75,Liberal,Lib,t,2328,f,2
+8,1896-06-23,NS,32,COLCHESTER,2849,"DIMOCK, W.D.",Conservative,37,Conservative,Con,t,2483,f,1
+8,1896-06-23,NS,32,COLCHESTER,2850,"MCCLURE, F.",Liberal,75,Liberal,Lib,t,2306,f,2
+8,1896-06-23,NS,33,CUMBERLAND,2851,"LOGAN, H.J.",Liberal,75,Liberal,Lib,t,3462,f,1
+8,1896-06-23,NS,33,CUMBERLAND,2852,"DICKEY, A.R.",Conservative,37,Conservative,Con,t,3307,f,2
+8,1896-06-23,NS,34,DIGBY,2853,"COPP, Albert J.S.",Liberal,75,Liberal,Lib,t,1636,f,1
+8,1896-06-23,NS,34,DIGBY,2854,"JONES, J. Edgar",Conservative,37,Conservative,Con,t,1591,f,2
+8,1896-06-23,NS,35,GUYSBOROUGH,2855,"FRASER, Duncan C.",Liberal,75,Liberal,Lib,t,1533,f,1
+8,1896-06-23,NS,35,GUYSBOROUGH,2856,"GREGORY, Ernest",Conservative,37,Conservative,Con,t,1455,f,2
+8,1896-06-23,NS,36,HALIFAX-1,2858,"BORDEN, R.L.",Conservative,37,Conservative,Con,t,6170,f,1
+8,1896-06-23,NS,36,HALIFAX-1,2860,"KENNY, T.E.",Conservative,37,Conservative,Con,t,5616,f,2
+8,1896-06-23,NS,37,HALIFAX-2,2857,"RUSSELL, Benj.",Liberal,75,Liberal,Lib,t,5997,f,1
+8,1896-06-23,NS,37,HALIFAX-2,2859,"KEEFE, M.E.",Liberal,75,Liberal,Lib,t,5472,f,2
+8,1896-06-23,NS,38,HANTS,2861,"HALEY, Allen",Liberal,75,Liberal,Lib,t,1838,f,1
+8,1896-06-23,NS,38,HANTS,2862,"PUTNAM, Alfred",Conservative,37,Conservative,Con,t,1803,f,2
+8,1896-06-23,NS,39,INVERNESS,2863,"MCLENNAN, Angus",Liberal,75,Liberal,Lib,t,1676,f,1
+8,1896-06-23,NS,39,INVERNESS,2865,"CAMERON, Hugh",Conservative,37,Conservative,Con,t,1532,f,2
+8,1896-06-23,NS,39,INVERNESS,2864,"MCKEW, John",Independent,52,Independent,Ind,f,737,f,3
+8,1896-06-23,NS,40,KINGS,2866,"BORDEN, F.W.",Liberal,75,Liberal,Lib,t,2252,f,1
+8,1896-06-23,NS,40,KINGS,2867,"BILL, W.C.",Conservative,37,Conservative,Con,t,1781,f,2
+8,1896-06-23,NS,41,LUNENBURG,2868,"KAULBACH, Chs. E.",Conservative,37,Conservative,Con,t,2403,f,1
+8,1896-06-23,NS,41,LUNENBURG,2869,"SPERRY, John D.",Liberal,75,Liberal,Lib,t,2318,f,2
+8,1896-06-23,NS,42,PICTOU-1,2871,"BELL, Adam C.",Conservative,37,Conservative,Con,t,3503,f,1
+8,1896-06-23,NS,42,PICTOU-1,2873,"CARMICHAEL, J.W.",Liberal,75,Liberal,Lib,t,3337,f,2
+8,1896-06-23,NS,43,PICTOU-2,2870,"TUPPER, Hon. Sir Chs. H.",Conservative,37,Conservative,Con,t,3577,f,1
+8,1896-06-23,NS,43,PICTOU-2,2872,"MCDONALD, E.M.",Liberal,75,Liberal,Lib,t,3349,f,2
+8,1896-06-23,NS,44,RICHMOND,2874,"GILLIES, J.A.",Conservative,37,Conservative,Con,t,1078,f,1
+8,1896-06-23,NS,44,RICHMOND,2875,"FLYNN, Edm. V.",Liberal,75,Liberal,Lib,t,1056,f,2
+8,1896-06-23,NS,45,SHELBURNE AND QUEEN'S,2876,"FORBES, F.G.",Liberal,75,Liberal,Lib,t,2130,f,1
+8,1896-06-23,NS,45,SHELBURNE AND QUEEN'S,2877,"CAHAN, Cha. H.",Conservative,37,Conservative,Con,t,1932,f,2
+8,1896-06-23,NS,46,VICTORIA,2878,"BETHUNE, John L.",Conservative,37,Conservative,Con,t,1049,f,1
+8,1896-06-23,NS,46,VICTORIA,2879,"CAMPBELL, S.C.",Liberal,75,Liberal,Lib,t,877,f,2
+8,1896-06-23,NS,47,YARMOUTH,2880,"FLINT, Thos. B.",Liberal,75,Liberal,Lib,t,1640,f,1
+8,1896-06-23,NS,47,YARMOUTH,2881,"BINGAY, Jacob",Conservative,37,Conservative,Con,t,1196,f,2
+8,1896-06-23,NT,48,ALBERTA (PROVISIONAL DISTRICT),2882,"OLIVER, Frank",Liberal,75,Liberal,Lib,t,3647,f,1
+8,1896-06-23,NT,48,ALBERTA (PROVISIONAL DISTRICT),2884,"COCHRANE, Thomas B.H.",Conservative,37,Conservative,Con,t,2863,f,2
+8,1896-06-23,NT,48,ALBERTA (PROVISIONAL DISTRICT),2883,"CLARK, Simon I.",Independent,52,Independent,Ind,f,71,f,3
+8,1896-06-23,NT,49,ASSINIBOIA EAST,2885,"DOUGLAS, James M.",Liberal,75,Liberal,Lib,t,3556,f,1
+8,1896-06-23,NT,49,ASSINIBOIA EAST,2886,"MCDONALD, W.W.",Conservative,37,Conservative,Con,t,2502,f,2
+8,1896-06-23,NT,50,ASSINIBOIA WEST,2888,"MCINNIS, John K.",Independent,52,Independent,Ind,f,1502,f,1
+8,1896-06-23,NT,50,ASSINIBOIA WEST,2887,"DAVIN, Nicholas Flood",Conservative,37,Conservative,Con,t,1502,f,1
+8,1896-06-23,NT,51,SASKATCHEWAN (PROVISIONAL DISTRICT),2889,"LAURIER, Hon. Wilfrid",Liberal,75,Liberal,Lib,t,988,f,1
+8,1896-06-23,NT,51,SASKATCHEWAN (PROVISIONAL DISTRICT),2890,"MCKAY, James",Conservative,37,Conservative,Con,t,944,f,2
+8,1896-06-23,NT,51,SASKATCHEWAN (PROVISIONAL DISTRICT),2891,"CRAIG, William",Independent,52,Independent,Ind,f,213,f,3
+8,1896-06-23,ON,52,ADDINGTON,2892,"BELL, John",Conservative,37,Conservative,Con,t,2587,f,1
+8,1896-06-23,ON,52,ADDINGTON,2893,"Dawson, Geo. W.W.",Liberal,75,Liberal,Lib,t,2500,f,2
+8,1896-06-23,ON,53,ALGOMA,2894,"DYMENT, A.E.",Liberal,75,Liberal,Lib,t,3176,f,1
+8,1896-06-23,ON,53,ALGOMA,2895,"MACDONELL, G.H.",Conservative,37,Conservative,Con,t,1349,f,2
+8,1896-06-23,ON,54,BOTHWELL,2896,"CLANCY, James",Conservative,37,Conservative,Con,t,2587,f,1
+8,1896-06-23,ON,54,BOTHWELL,2897,"MILLS, Hon. D.",Liberal,75,Liberal,Lib,t,2528,f,2
+8,1896-06-23,ON,55,BRANT SOUTH,2898,"HENRY, Robert",Conservative,37,Conservative,Con,t,2538,f,1
+8,1896-06-23,ON,55,BRANT SOUTH,2899,"PATERSON, Wm.",Liberal,75,Liberal,Lib,t,2447,f,2
+8,1896-06-23,ON,56,BROCKVILLE,2900,"WOOD, Hon. John F.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1781,f,1
+8,1896-06-23,ON,56,BROCKVILLE,2902,"CUMMING, James",Liberal,75,Liberal,Lib,t,1549,f,2
+8,1896-06-23,ON,56,BROCKVILLE,2901,"CLUFF, William Johnson",McCarthyite,89,McCarthyite,McCarthy,f,148,f,3
+8,1896-06-23,ON,57,BRUCE EAST,2903,"CARGILL, Henry",Conservative,37,Conservative,Con,t,2048,f,1
+8,1896-06-23,ON,57,BRUCE EAST,2904,"TOLTON, James",Patrons of Industry,114,Patrons of Industry,PatronsInd,f,1881,f,2
+8,1896-06-23,ON,58,BRUCE NORTH,2905,"McNeill, Alexander",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1702,f,1
+8,1896-06-23,ON,58,BRUCE NORTH,2906,"BONNAR, Hector A.",Liberal,75,Liberal,Lib,t,1671,f,2
+8,1896-06-23,ON,58,BRUCE NORTH,2907,"POTTS, Henry T.",Protestant Protective Association,131,Protestant Protective Association,ProtestantPA,f,991,f,3
+8,1896-06-23,ON,59,BRUCE WEST,2908,"TOLMIE, John",Liberal,75,Liberal,Lib,t,2110,f,1
+8,1896-06-23,ON,59,BRUCE WEST,2909,"MCKENZIE, Peter H.",Unknown,166,Unknown,Unknown,f,1622,f,2
+8,1896-06-23,ON,60,CARDWELL,2910,"STUBBS, William",Independent Conservative,56,Independent Conservative,IndCon,f,1825,f,1
+8,1896-06-23,ON,60,CARDWELL,2911,"WALSH, W.L.",Conservative,37,Conservative,Con,t,1441,f,2
+8,1896-06-23,ON,61,CARLETON,2912,"HODGINS, William T.",Conservative,37,Conservative,Con,t,1337,f,1
+8,1896-06-23,ON,61,CARLETON,2913,"MCKELLAR, John",Liberal,75,Liberal,Lib,t,1128,f,2
+8,1896-06-23,ON,61,CARLETON,2914,"HENDRICKS, J.S.",Independent,52,Independent,Ind,f,299,f,3
+8,1896-06-23,ON,61,CARLETON,2915,"BUTLER, Thos.",McCarthyite,89,McCarthyite,McCarthy,f,50,f,4
+8,1896-06-23,ON,62,CORNWALL AND STORMONT,2916,"BERGIN, Darby",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1838,f,1
+8,1896-06-23,ON,62,CORNWALL AND STORMONT,2917,"ADAMS, John G.",Patrons of Industry,114,Patrons of Industry,PatronsInd,f,1513,f,2
+8,1896-06-23,ON,62,CORNWALL AND STORMONT,2918,"SNETSINGER, John G.",Liberal,75,Liberal,Lib,t,1456,f,3
+8,1896-06-23,ON,63,DUNDAS,2919,"BRODER, Andrew",Conservative,37,Conservative,Con,t,1932,f,1
+8,1896-06-23,ON,63,DUNDAS,2920,"JOHNSTON, Adam",Liberal,75,Liberal,Lib,t,1870,f,2
+8,1896-06-23,ON,63,DUNDAS,2921,"FOX, James P.",McCarthyite,89,McCarthyite,McCarthy,f,494,f,3
+8,1896-06-23,ON,64,DURHAM EAST,2922,"CRAIG, Thomas Dixon",Conservative,37,Conservative,Con,t,1767,f,1
+8,1896-06-23,ON,64,DURHAM EAST,2923,"MCCLEAN, Milliam",McCarthyite,89,McCarthyite,McCarthy,f,1598,f,2
+8,1896-06-23,ON,65,DURHAM WEST,2924,"BEITH, Robert",Liberal,75,Liberal,Lib,t,1458,f,1
+8,1896-06-23,ON,65,DURHAM WEST,2926,"WALSH, D.F.",Conservative,37,Conservative,Con,t,1406,f,2
+8,1896-06-23,ON,65,DURHAM WEST,2925,"THORNTON, C.J.",Patrons of Industry,114,Patrons of Industry,PatronsInd,f,428,f,3
+8,1896-06-23,ON,66,ELGIN EAST,2927,"INGRAM, A.B.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2862,f,1
+8,1896-06-23,ON,66,ELGIN EAST,2928,"WILSON, J.H.",Liberal,75,Liberal,Lib,t,2684,f,2
+8,1896-06-23,ON,66,ELGIN EAST,2929,"MARTYN, J.P.",Patrons of Industry,114,Patrons of Industry,PatronsInd,f,492,f,3
+8,1896-06-23,ON,67,ELGIN WEST,2930,"CASEY, George E.",Liberal,75,Liberal,Lib,t,2585,f,1
+8,1896-06-23,ON,67,ELGIN WEST,2931,"MCKILLOP, Alexander A.",Patrons of Industry,114,Patrons of Industry,PatronsInd,f,1859,f,2
+8,1896-06-23,ON,68,ESSEX NORTH,2932,"MCGREGOR, William",Liberal,75,Liberal,Lib,t,2511,f,1
+8,1896-06-23,ON,68,ESSEX NORTH,2933,"ODETTE, Daniel Bpte.",Conservative,37,Conservative,Con,t,2038,f,2
+8,1896-06-23,ON,68,ESSEX NORTH,2934,"MASON, Daniel Willis",Patrons of Industry,114,Patrons of Industry,PatronsInd,f,605,f,3
+8,1896-06-23,ON,68,ESSEX NORTH,2935,"MCNEIL, Alex",Independent,52,Independent,Ind,f,70,f,4
+8,1896-06-23,ON,69,ESSEX SOUTH,2936,"COWAN, M.K.",Liberal,75,Liberal,Lib,t,2426,f,1
+8,1896-06-23,ON,69,ESSEX SOUTH,2937,"KING, S.A.",Conservative,37,Conservative,Con,t,2244,f,2
+8,1896-06-23,ON,70,FRONTENAC,2938,"ROGERS, David D.",Patrons of Industry,114,Patrons of Industry,PatronsInd,f,,t,1
+8,1896-06-23,ON,71,GLENGARRY,2939,"MCLENNAN, Roderick R.",Conservative,37,Conservative,Con,t,2486,f,1
+8,1896-06-23,ON,71,GLENGARRY,2940,"WILSON, James Lockie",Patrons of Industry,114,Patrons of Industry,PatronsInd,f,1752,f,2
+8,1896-06-23,ON,72,GRENVILLE SOUTH,2941,"REID, John Dowsley",Conservative,37,Conservative,Con,t,1397,f,1
+8,1896-06-23,ON,72,GRENVILLE SOUTH,2942,"CARRUTHERS, John",Liberal,75,Liberal,Lib,t,1290,f,2
+8,1896-06-23,ON,73,GREY EAST,2943,"SPROULE, Thomas S.",Conservative,37,Conservative,Con,t,2560,f,1
+8,1896-06-23,ON,73,GREY EAST,2944,"BOWES, James",Patrons of Industry,114,Patrons of Industry,PatronsInd,f,2039,f,2
+8,1896-06-23,ON,74,GREY NORTH,2945,"CLARK, John",Liberal,75,Liberal,Lib,t,2559,f,1
+8,1896-06-23,ON,74,GREY NORTH,2946,"MCLAUGHLIN, James",Conservative,37,Conservative,Con,t,2527,f,2
+8,1896-06-23,ON,75,GREY SOUTH,2947,"LANDERKIN, George",Liberal,75,Liberal,Lib,t,1819,f,1
+8,1896-06-23,ON,75,GREY SOUTH,2949,"JAMESON, David",Conservative,37,Conservative,Con,t,1753,f,2
+8,1896-06-23,ON,75,GREY SOUTH,2948,"ALLAN, William",Patrons of Industry,114,Patrons of Industry,PatronsInd,f,1196,f,3
+8,1896-06-23,ON,76,HALDIMAND AND MONCK,2950,"Montague, Hon. W.H.",Conservative,37,Conservative,Con,t,2197,f,1
+8,1896-06-23,ON,76,HALDIMAND AND MONCK,2951,"DAVIS, A.A.",Liberal,75,Liberal,Lib,t,1484,f,2
+8,1896-06-23,ON,76,HALDIMAND AND MONCK,2952,"BECK, S.A.",Patrons of Industry,114,Patrons of Industry,PatronsInd,f,728,f,3
+8,1896-06-23,ON,77,HALTON,2953,"HENDERSON, David",Conservative,37,Conservative,Con,t,2460,f,1
+8,1896-06-23,ON,77,HALTON,2954,"WALDIE, John",Liberal,75,Liberal,Lib,t,2376,f,2
+8,1896-06-23,ON,78,HAMILTON-1,2956,"MACPHERSON, T.H.",Liberal,75,Liberal,Lib,t,3797,f,1
+8,1896-06-23,ON,78,HAMILTON-1,2958,"BARKER, Samuel",Conservative,37,Conservative,Con,t,3546,f,2
+8,1896-06-23,ON,78,HAMILTON-1,2960,"WATKINS, F.W.",Independent,52,Independent,Ind,f,806,f,3
+8,1896-06-23,ON,79,HAMILTON-2,2955,"WOOD, A.T.",Liberal,75,Liberal,Lib,t,3837,f,1
+8,1896-06-23,ON,79,HAMILTON-2,2957,"BOVILLE, R.G.",Conservative,37,Conservative,Con,t,3773,f,2
+8,1896-06-23,ON,79,HAMILTON-2,2959,"BUCHANNAN, W.W.",Independent,52,Independent,Ind,f,928,f,3
+8,1896-06-23,ON,80,HASTINGS EAST,2961,"HURLEY, J.M.",Liberal,75,Liberal,Lib,t,1508,f,1
+8,1896-06-23,ON,80,HASTINGS EAST,2962,"NORTHRUP, W.B.",Conservative,37,Conservative,Con,t,1285,f,2
+8,1896-06-23,ON,80,HASTINGS EAST,2963,"BALCANQUEL, Jas.",Patrons of Industry,114,Patrons of Industry,PatronsInd,f,908,f,3
+8,1896-06-23,ON,81,HASTINGS NORTH,2964,"CARSCALLEN, Alexander W.",Conservative,37,Conservative,Con,t,2478,f,1
+8,1896-06-23,ON,81,HASTINGS NORTH,2965,"HARRYETT, Samuel",McCarthyite,89,McCarthyite,McCarthy,f,1735,f,2
+8,1896-06-23,ON,82,HASTINGS WEST,2966,"CORBY, H.",Conservative,37,Conservative,Con,t,1836,f,1
+8,1896-06-23,ON,82,HASTINGS WEST,2967,"RITCHIE, Thomas",Liberal,75,Liberal,Lib,t,1591,f,2
+8,1896-06-23,ON,83,HURON EAST,2968,"MACDONALD, Peter",Liberal,75,Liberal,Lib,t,2079,f,1
+8,1896-06-23,ON,83,HURON EAST,2969,"DICKINSON, E.L.",Conservative,37,Conservative,Con,t,1920,f,2
+8,1896-06-23,ON,84,HURON SOUTH,2970,"MCMILLAN, John",Liberal,75,Liberal,Lib,t,1831,f,1
+8,1896-06-23,ON,84,HURON SOUTH,2971,"HAYS, T.E.",Conservative,37,Conservative,Con,t,1526,f,2
+8,1896-06-23,ON,85,HURON WEST,2972,"CAMERON, Malcolm Colin",Liberal,75,Liberal,Lib,t,1837,f,1
+8,1896-06-23,ON,85,HURON WEST,2974,"MCLEAN, Robert",Conservative,37,Conservative,Con,t,1520,f,2
+8,1896-06-23,ON,85,HURON WEST,2973,"KILTY, G. Mcl.",Patrons of Industry,114,Patrons of Industry,PatronsInd,f,725,f,3
+8,1896-06-23,ON,86,KENT,2975,"CAMPBELL, Archibald",Liberal,75,Liberal,Lib,t,3315,f,1
+8,1896-06-23,ON,86,KENT,2976,"BALL, W.",Conservative,37,Conservative,Con,t,3158,f,2
+8,1896-06-23,ON,87,KINGSTON,2977,"BRITTON, B.M.",Liberal,75,Liberal,Lib,t,1671,f,1
+8,1896-06-23,ON,87,KINGSTON,2978,"MCINTYRE, D.M.",Conservative,37,Conservative,Con,t,1519,f,2
+8,1896-06-23,ON,88,LAMBTON EAST,2979,"FRASER, John",Liberal,75,Liberal,Lib,t,2144,f,1
+8,1896-06-23,ON,88,LAMBTON EAST,2980,"MONCRIEFF, Geo.",Conservative,37,Conservative,Con,t,2104,f,2
+8,1896-06-23,ON,88,LAMBTON EAST,2981,"ARMSTRONG, J.E.",Protestant Protective Association,131,Protestant Protective Association,ProtestantPA,f,1383,f,3
+8,1896-06-23,ON,89,LAMBTON WEST,2982,"LISTER, J. Frederick",Liberal,75,Liberal,Lib,t,2365,f,1
+8,1896-06-23,ON,89,LAMBTON WEST,2983,"DEWAR, Arch Cam.",Protestant Protective Association,131,Protestant Protective Association,ProtestantPA,f,1208,f,2
+8,1896-06-23,ON,89,LAMBTON WEST,2984,"HANNA, W. John",Conservative,37,Conservative,Con,t,878,f,3
+8,1896-06-23,ON,90,LANARK NORTH,2985,"ROSAMOND, Bennett",Conservative,37,Conservative,Con,t,1757,f,1
+8,1896-06-23,ON,90,LANARK NORTH,2986,"MILLER, James",Patrons of Industry,114,Patrons of Industry,PatronsInd,f,1481,f,2
+8,1896-06-23,ON,90,LANARK NORTH,2987,"MCELROY, David",McCarthyite,89,McCarthyite,McCarthy,f,280,f,3
+8,1896-06-23,ON,91,LANARK SOUTH,2988,"HAGGART, J. H.",Conservative,37,Conservative,Con,t,1939,f,1
+8,1896-06-23,ON,91,LANARK SOUTH,2989,"FERGUSON, John",McCarthyite,89,McCarthyite,McCarthy,f,1560,f,2
+8,1896-06-23,ON,92,LEEDS NORTH AND GRENVILLE NORTH,2990,"FROST, Francis T.",Liberal,75,Liberal,Lib,t,1432,f,1
+8,1896-06-23,ON,92,LEEDS NORTH AND GRENVILLE NORTH,2991,"LAVELL, John N.",Conservative,37,Conservative,Con,t,1423,f,2
+8,1896-06-23,ON,93,LEEDS SOUTH,2992,"TAYLOR, George",Conservative,37,Conservative,Con,t,2501,f,1
+8,1896-06-23,ON,93,LEEDS SOUTH,2993,"FREDENBURGH, William H.",Liberal,75,Liberal,Lib,t,2013,f,2
+8,1896-06-23,ON,93,LEEDS SOUTH,2994,"HORTON, James H.",Patrons of Industry,114,Patrons of Industry,PatronsInd,f,263,f,3
+8,1896-06-23,ON,94,LENNOX,2995,"WILSON, Uriah",Conservative,37,Conservative,Con,t,1192,f,1
+8,1896-06-23,ON,94,LENNOX,2996,"SWITZER, E.B.",Patrons of Industry,114,Patrons of Industry,PatronsInd,f,1043,f,2
+8,1896-06-23,ON,94,LENNOX,2997,"STEVENS, Chas.",Independent,52,Independent,Ind,f,690,f,3
+8,1896-06-23,ON,95,LINCOLN AND NIAGARA,2998,"GIBSON, Wm.",Liberal,75,Liberal,Lib,t,2945,f,1
+8,1896-06-23,ON,95,LINCOLN AND NIAGARA,2999,"RYKERT, John C.",Conservative,37,Conservative,Con,t,2523,f,2
+8,1896-06-23,ON,96,LONDON,3000,"BEATTIE, Thos.",Conservative,37,Conservative,Con,t,2325,f,1
+8,1896-06-23,ON,96,LONDON,3001,"HYMAN, C.S.",Liberal,75,Liberal,Lib,t,2284,f,2
+8,1896-06-23,ON,97,MIDDLESEX EAST,3002,"GILMOUR, James",Conservative,37,Conservative,Con,t,2651,f,1
+8,1896-06-23,ON,97,MIDDLESEX EAST,3003,"GILLSON, John",Liberal,75,Liberal,Lib,t,2227,f,2
+8,1896-06-23,ON,98,MIDDLESEX NORTH,3004,"RATZ, Valentine",Liberal,75,Liberal,Lib,t,2184,f,1
+8,1896-06-23,ON,98,MIDDLESEX NORTH,3005,"HUTCHINS, William H.",Conservative,37,Conservative,Con,t,2122,f,2
+8,1896-06-23,ON,99,MIDDLESEX SOUTH,3006,"MCGUGAN, M.",Liberal,75,Liberal,Lib,t,2035,f,1
+8,1896-06-23,ON,99,MIDDLESEX SOUTH,3007,"ELLIOTT, H.B.",Conservative,37,Conservative,Con,t,1295,f,2
+8,1896-06-23,ON,100,MIDDLESEX WEST,3008,"CALVERT, Will Samuel",Liberal,75,Liberal,Lib,t,2274,f,1
+8,1896-06-23,ON,100,MIDDLESEX WEST,3009,"ROOME, William T.",Conservative,37,Conservative,Con,t,1933,f,2
+8,1896-06-23,ON,101,MUSKOKA AND PARRY SOUND,3010,"MCCORMICK, George",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2249,f,1
+8,1896-06-23,ON,101,MUSKOKA AND PARRY SOUND,3011,"PRATT, William H.",Liberal,75,Liberal,Lib,t,1991,f,2
+8,1896-06-23,ON,101,MUSKOKA AND PARRY SOUND,3012,"O'BRIEN, William E.",McCarthyite,89,McCarthyite,McCarthy,f,1068,f,3
+8,1896-06-23,ON,102,NIPISSING,3013,"KLOCK, James Bell",Conservative,37,Conservative,Con,t,2477,f,1
+8,1896-06-23,ON,102,NIPISSING,3014,"CONMEE, James",Liberal,75,Liberal,Lib,t,1513,f,2
+8,1896-06-23,ON,103,NORFOLK NORTH,3015,"CHARLTON, John",Liberal,75,Liberal,Lib,t,2142,f,1
+8,1896-06-23,ON,103,NORFOLK NORTH,3016,"MCGUIRE, Wm.",Patrons of Industry,114,Patrons of Industry,PatronsInd,f,1598,f,2
+8,1896-06-23,ON,104,NORFOLK SOUTH,3017,"TISDALE, Hon. David",Conservative,37,Conservative,Con,t,2383,f,1
+8,1896-06-23,ON,104,NORFOLK SOUTH,3018,"WALKER, George",Patrons of Industry,114,Patrons of Industry,PatronsInd,f,2110,f,2
+8,1896-06-23,ON,105,NORTHUMBERLAND EAST,3019,"COCHRANE, E.",Conservative,37,Conservative,Con,t,2410,f,1
+8,1896-06-23,ON,105,NORTHUMBERLAND EAST,3020,"MALLORY, C.A.",Patrons of Industry,114,Patrons of Industry,PatronsInd,f,2013,f,2
+8,1896-06-23,ON,106,NORTHUMBERLAND WEST,3021,"GUILLET, George",Conservative,37,Conservative,Con,t,1200,f,1
+8,1896-06-23,ON,106,NORTHUMBERLAND WEST,3023,"MCCOLL, John B.",Liberal,75,Liberal,Lib,t,1130,f,2
+8,1896-06-23,ON,106,NORTHUMBERLAND WEST,3022,"ROSEVEAR, John C.",Patrons of Industry,114,Patrons of Industry,PatronsInd,f,621,f,3
+8,1896-06-23,ON,107,ONTARIO NORTH,3024,"McGillivray, John Alexander",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2328,f,1
+8,1896-06-23,ON,107,ONTARIO NORTH,3025,"GRAHAM, Duncan",Patrons of Industry,114,Patrons of Industry,PatronsInd,f,2327,f,2
+8,1896-06-23,ON,108,ONTARIO SOUTH,3026,"BURNETT, Leonard",Liberal,75,Liberal,Lib,t,2165,f,1
+8,1896-06-23,ON,108,ONTARIO SOUTH,3027,"SMITH, William",Conservative,37,Conservative,Con,t,2021,f,2
+8,1896-06-23,ON,109,ONTARIO WEST,3028,"EDGAR, Hon. J.D.",Liberal,75,Liberal,Lib,t,1832,f,1
+8,1896-06-23,ON,109,ONTARIO WEST,3029,"MCCORMACK, W.A.",Conservative,37,Conservative,Con,t,1093,f,2
+8,1896-06-23,ON,110,OTTAWA (CITY OF)-1,3031,"BELCOURT, N.A.",Liberal,75,Liberal,Lib,t,2942,f,1
+8,1896-06-23,ON,110,OTTAWA (CITY OF)-1,3033,"CHAMPAGNE, N.",Conservative,37,Conservative,Con,t,2654,f,2
+8,1896-06-23,ON,111,OTTAWA (CITY OF)-2,3030,"HUTCHINSON, W.",Liberal,75,Liberal,Lib,t,3333,f,1
+8,1896-06-23,ON,111,OTTAWA (CITY OF)-2,3032,"ROBINSON, Hiram",Conservative,37,Conservative,Con,t,2751,f,2
+8,1896-06-23,ON,111,OTTAWA (CITY OF)-2,3034,"MCVEITY, Taylor",Protestant Protective Association,131,Protestant Protective Association,ProtestantPA,f,2100,f,3
+8,1896-06-23,ON,112,OXFORD NORTH,3035,"SUTHERLAND, James",Liberal,75,Liberal,Lib,t,2811,f,1
+8,1896-06-23,ON,112,OXFORD NORTH,3036,"KARN, D.W.",Conservative,37,Conservative,Con,t,1010,f,2
+8,1896-06-23,ON,113,OXFORD SOUTH,3037,"CARTWRIGHT, Hon. Sir R.",Liberal,75,Liberal,Lib,t,2347,f,1
+8,1896-06-23,ON,113,OXFORD SOUTH,3038,"MAYBERRY, Ths. R.",Conservative,37,Conservative,Con,t,1597,f,2
+8,1896-06-23,ON,114,PEEL,3039,"FEATHERSTON, Joseph",Liberal,75,Liberal,Lib,t,1891,f,1
+8,1896-06-23,ON,114,PEEL,3040,"CAMPBELL, A.F.",Conservative,37,Conservative,Con,t,1425,f,2
+8,1896-06-23,ON,115,PERTH NORTH,3041,"MACLAREN, Alex. F.",Conservative,37,Conservative,Con,t,2916,f,1
+8,1896-06-23,ON,115,PERTH NORTH,3042,"GRIEVE, James N.",Liberal,75,Liberal,Lib,t,2870,f,2
+8,1896-06-23,ON,116,PERTH SOUTH,3043,"ERB, D.K.",Liberal,75,Liberal,Lib,t,2069,f,1
+8,1896-06-23,ON,116,PERTH SOUTH,3044,"PRIDHAM, Wm.",Conservative,37,Conservative,Con,t,1851,f,2
+8,1896-06-23,ON,116,PERTH SOUTH,3045,"DONALD, J.A.",Protestant Protective Association,131,Protestant Protective Association,ProtestantPA,f,551,f,3
+8,1896-06-23,ON,117,PETERBOROUGH EAST,3046,"LANG, John",Independent Liberal,58,Independent Liberal,IndLib,f,2353,f,1
+8,1896-06-23,ON,117,PETERBOROUGH EAST,3047,"BURNHAM, John",Conservative,37,Conservative,Con,t,1738,f,2
+8,1896-06-23,ON,118,PETERBOROUGH WEST,3048,"KENDRY, James",Conservative,37,Conservative,Con,t,1485,f,1
+8,1896-06-23,ON,118,PETERBOROUGH WEST,3049,"HALL, Richard",Liberal,75,Liberal,Lib,t,1166,f,2
+8,1896-06-23,ON,118,PETERBOROUGH WEST,3050,"NEWMAN, Rob. C.",Independent,52,Independent,Ind,f,622,f,3
+8,1896-06-23,ON,119,PRESCOTT,3051,"PROULX, Isidore",Liberal,75,Liberal,Lib,t,1334,f,1
+8,1896-06-23,ON,119,PRESCOTT,3052,"CLORAN, H.J.",Patrons of Industry,114,Patrons of Industry,PatronsInd,f,996,f,2
+8,1896-06-23,ON,119,PRESCOTT,3053,"SABOURIN, Dosithé",Conservative,37,Conservative,Con,t,902,f,3
+8,1896-06-23,ON,120,PRINCE EDWARD,3054,"PETTET, Wm. Varney",Patrons of Industry,114,Patrons of Industry,PatronsInd,f,2188,f,1
+8,1896-06-23,ON,120,PRINCE EDWARD,3055,"BOULTER, W.",Conservative,37,Conservative,Con,t,1967,f,2
+8,1896-06-23,ON,121,RENFREW NORTH,3056,"MACKIE, Thomas",Liberal,75,Liberal,Lib,t,1900,f,1
+8,1896-06-23,ON,121,RENFREW NORTH,3057,"WHITE, Peter",Conservative,37,Conservative,Con,t,1837,f,2
+8,1896-06-23,ON,122,RENFREW SOUTH,3058,"FERGUSON, John",Independent Conservative,56,Independent Conservative,IndCon,f,1846,f,1
+8,1896-06-23,ON,122,RENFREW SOUTH,3059,"JAMIESON, Robert A.",Patrons of Industry,114,Patrons of Industry,PatronsInd,f,1424,f,2
+8,1896-06-23,ON,123,RUSSELL,3060,"EDWARDS, Wm. C.",Liberal,75,Liberal,Lib,t,2983,f,1
+8,1896-06-23,ON,123,RUSSELL,3062,"HURTIBISE, E.N.",Conservative,37,Conservative,Con,t,1380,f,2
+8,1896-06-23,ON,123,RUSSELL,3061,"WILSON, G.J.",Independent,52,Independent,Ind,f,1093,f,3
+8,1896-06-23,ON,124,SIMCOE EAST,3063,"BENNETT, William H.",Conservative,37,Conservative,Con,t,2775,f,1
+8,1896-06-23,ON,124,SIMCOE EAST,3064,"COOK, H.H.",Liberal,75,Liberal,Lib,t,2529,f,2
+8,1896-06-23,ON,124,SIMCOE EAST,3065,"ANDERSON, D.C.",Patrons of Industry,114,Patrons of Industry,PatronsInd,f,1197,f,3
+8,1896-06-23,ON,125,SIMCOE NORTH,3066,"MCCARTHY, Dalton",McCarthyite,89,McCarthyite,McCarthy,f,2517,f,1
+8,1896-06-23,ON,125,SIMCOE NORTH,3068,"STEWART, Elihu",Liberal,75,Liberal,Lib,t,1410,f,2
+8,1896-06-23,ON,125,SIMCOE NORTH,3067,"LENNOX, Houghton",Conservative,37,Conservative,Con,t,875,f,3
+8,1896-06-23,ON,126,SIMCOE SOUTH,3069,"TYRWHITT, Richard",Conservative,37,Conservative,Con,t,2146,f,1
+8,1896-06-23,ON,126,SIMCOE SOUTH,3070,"LENNOX, Thos. W.",Patrons of Industry,114,Patrons of Industry,PatronsInd,f,1620,f,2
+8,1896-06-23,ON,127,TORONTO CENTRE,3071,"LOUNT, Wm.",Liberal,75,Liberal,Lib,t,2394,f,1
+8,1896-06-23,ON,127,TORONTO CENTRE,3072,"COCKBURN, G.R.R.",Conservative,37,Conservative,Con,t,2154,f,2
+8,1896-06-23,ON,128,TORONTO EAST,3073,"ROBERTSON, John Ross",Independent Conservative,56,Independent Conservative,IndCon,f,4631,f,1
+8,1896-06-23,ON,128,TORONTO EAST,3074,"COATSWORTH, Emerson Jr.",Conservative,37,Conservative,Con,t,3012,f,2
+8,1896-06-23,ON,129,VICTORIA NORTH,3075,"HUGHES, Samuel",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1715,f,1
+8,1896-06-23,ON,129,VICTORIA NORTH,3076,"MCLAUGHLIN, R.J.",Liberal,75,Liberal,Lib,t,1464,f,2
+8,1896-06-23,ON,129,VICTORIA NORTH,3077,"DELEMERE, J.H.",McCarthyite,89,McCarthyite,McCarthy,f,338,f,3
+8,1896-06-23,ON,130,VICTORIA SOUTH,3078,"MCHUGH, Geo.",Liberal,75,Liberal,Lib,t,2051,f,1
+8,1896-06-23,ON,130,VICTORIA SOUTH,3079,"VROOMAN, Adam E.",Conservative,37,Conservative,Con,t,1989,f,2
+8,1896-06-23,ON,131,WATERLOO NORTH,3080,"SEAGRAM, Jos. E.",Conservative,37,Conservative,Con,t,2706,f,1
+8,1896-06-23,ON,131,WATERLOO NORTH,3081,"SNIDER, E.W.R.",Liberal,75,Liberal,Lib,t,2397,f,2
+8,1896-06-23,ON,132,WATERLOO SOUTH,3082,"LIVINGSTON, James",Liberal,75,Liberal,Lib,t,2543,f,1
+8,1896-06-23,ON,132,WATERLOO SOUTH,3083,"CLARE, George A.",Conservative,37,Conservative,Con,t,2454,f,2
+8,1896-06-23,ON,133,WELLAND,3084,"MCCLEARY, Wm.",Conservative,37,Conservative,Con,t,2705,f,1
+8,1896-06-23,ON,133,WELLAND,3085,"LOWELL, Jas. A.",Liberal,75,Liberal,Lib,t,2536,f,2
+8,1896-06-23,ON,134,WELLINGTON CENTRE,3086,"SEMPLE, Andrew",Liberal,75,Liberal,Lib,t,1917,f,1
+8,1896-06-23,ON,134,WELLINGTON CENTRE,3087,"LEWIS, F.W.",Conservative,37,Conservative,Con,t,1295,f,2
+8,1896-06-23,ON,134,WELLINGTON CENTRE,3088,"GROVES, Abraham",Independent,52,Independent,Ind,f,752,f,3
+8,1896-06-23,ON,134,WELLINGTON CENTRE,3089,"GORDON, W.L.",Independent,52,Independent,Ind,f,599,f,4
+8,1896-06-23,ON,135,WELLINGTON NORTH,3090,"MCMULLEN, James",Liberal,75,Liberal,Lib,t,2712,f,1
+8,1896-06-23,ON,135,WELLINGTON NORTH,3091,"CLARKE, L.H.",Conservative,37,Conservative,Con,t,2550,f,2
+8,1896-06-23,ON,136,WELLINGTON SOUTH,3092,"KLOEPFER, Christian",Conservative,37,Conservative,Con,t,2578,f,1
+8,1896-06-23,ON,136,WELLINGTON SOUTH,3093,"INNES, James",Liberal,75,Liberal,Lib,t,2440,f,2
+8,1896-06-23,ON,137,WENTWORTH NORTH AND BRANT,3094,"SOMERVILLE, Jas.",Liberal,75,Liberal,Lib,t,1824,f,1
+8,1896-06-23,ON,137,WENTWORTH NORTH AND BRANT,3095,"MUMA, Chas. C.",Conservative,37,Conservative,Con,t,703,f,2
+8,1896-06-23,ON,138,WENTWORTH SOUTH,3096,"BAIN, Thomas",Liberal,75,Liberal,Lib,t,2673,f,1
+8,1896-06-23,ON,138,WENTWORTH SOUTH,3097,"PETTIT, Andrew H.",Conservative,37,Conservative,Con,t,2486,f,2
+8,1896-06-23,ON,139,WEST TORONTO-1,3099,"CLARKE, E.F.",Conservative,37,Conservative,Con,t,5147,f,1
+8,1896-06-23,ON,139,WEST TORONTO-1,3101,"HUNTER, N.T.",Liberal,75,Liberal,Lib,t,4225,f,2
+8,1896-06-23,ON,140,WEST TORONTO-2,3098,"OSLER, E.B.",Conservative,37,Conservative,Con,t,5370,f,1
+8,1896-06-23,ON,140,WEST TORONTO-2,3100,"PRESTON, W.T.R.",Liberal,75,Liberal,Lib,t,4734,f,2
+8,1896-06-23,ON,141,YORK EAST,3102,"MCLEAN, William F.",Independent Conservative,56,Independent Conservative,IndCon,f,3907,f,1
+8,1896-06-23,ON,141,YORK EAST,3103,"FRANKLAND, Henry R.",Liberal,75,Liberal,Lib,t,3904,f,2
+8,1896-06-23,ON,142,YORK NORTH,3104,"MULOCK, Hon. Wm.",Liberal,75,Liberal,Lib,t,2712,f,1
+8,1896-06-23,ON,142,YORK NORTH,3105,"STRANGE, P.W.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2036,f,2
+8,1896-06-23,ON,143,YORK WEST,3106,"WALLACE, Hon. N. Clarke",Conservative,37,Conservative,Con,t,5018,f,1
+8,1896-06-23,ON,143,YORK WEST,3108,"BROWN, John",Patrons of Industry,114,Patrons of Industry,PatronsInd,f,950,f,2
+8,1896-06-23,ON,143,YORK WEST,3107,"PLATT, James",Conservative,37,Conservative,Con,t,745,f,3
+8,1896-06-23,PE,144,EAST PRINCE,3109,"YEO, John",Liberal,75,Liberal,Lib,t,1916,f,1
+8,1896-06-23,PE,144,EAST PRINCE,3110,"HUNT, Richard A.",Conservative,37,Conservative,Con,t,1799,f,2
+8,1896-06-23,PE,145,EAST QUEEN'S,3111,"MARTIN, M.",Conservative,37,Conservative,Con,t,2175,f,1
+8,1896-06-23,PE,145,EAST QUEEN'S,3112,"WELSH, William",Liberal,75,Liberal,Lib,t,1821,f,2
+8,1896-06-23,PE,146,KING'S,3113,"MCDONALD, A.C.",Conservative,37,Conservative,Con,t,1939,f,1
+8,1896-06-23,PE,146,KING'S,3114,"MCINTYRE, P.A.",Liberal,75,Liberal,Lib,t,1924,f,2
+8,1896-06-23,PE,147,WEST PRINCE,3115,"HACKETT, Edward",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1593,f,1
+8,1896-06-23,PE,147,WEST PRINCE,3116,"PERRY, S.F.",Liberal,75,Liberal,Lib,t,1548,f,2
+8,1896-06-23,PE,147,WEST PRINCE,3117,"YEO, John",Liberal,75,Liberal,Lib,t,321,f,3
+8,1896-06-23,PE,148,WEST QUEEN'S,3118,"DAVIES, L.H.",Liberal,75,Liberal,Lib,t,1985,f,1
+8,1896-06-23,PE,148,WEST QUEEN'S,3119,"JENKINS, J.J.",Conservative,37,Conservative,Con,t,1651,f,2
+8,1896-06-23,QC,149,ARGENTEUIL,3120,"CHRISTIE, Thos.",Liberal,75,Liberal,Lib,t,1125,f,1
+8,1896-06-23,QC,149,ARGENTEUIL,3121,"ABBOTT, Harry",Conservative,37,Conservative,Con,t,1050,f,2
+8,1896-06-23,QC,150,BAGOT,3122,"DUPONT, F.",Conservative,37,Conservative,Con,t,,t,1
+8,1896-06-23,QC,151,BEAUCE,3123,"GODBOUT, Jos.",Liberal,75,Liberal,Lib,t,3003,f,1
+8,1896-06-23,QC,151,BEAUCE,3124,"CLOUTIER, G.",Conservative,37,Conservative,Con,t,2576,f,2
+8,1896-06-23,QC,152,BEAUHARNOIS,3125,"BERGERON, J.G.H.",Conservative,37,Conservative,Con,t,1582,f,1
+8,1896-06-23,QC,152,BEAUHARNOIS,3126,"TARTE, J. Israel",Liberal,75,Liberal,Lib,t,1534,f,2
+8,1896-06-23,QC,153,BELLECHASSE,3127,"TALBOT, Onésiphore-Ernest",Liberal,75,Liberal,Lib,t,1537,f,1
+8,1896-06-23,QC,153,BELLECHASSE,3128,"ROY, Joseph-Edmond",Conservative,37,Conservative,Con,t,1227,f,2
+8,1896-06-23,QC,154,BERTHIER,3129,"BEAUSOLEIL, C.",Liberal,75,Liberal,Lib,t,,t,1
+8,1896-06-23,QC,155,BONAVENTURE,3130,"FAUVEL, W. LeB.",Liberal,75,Liberal,Lib,t,1644,f,1
+8,1896-06-23,QC,155,BONAVENTURE,3131,"ROY, Geo. P.",Conservative,37,Conservative,Con,t,1331,f,2
+8,1896-06-23,QC,156,BROME,3132,"FISHER, Sydney Arthur",Liberal,75,Liberal,Lib,t,1677,f,1
+8,1896-06-23,QC,156,BROME,3133,"FOSTER, George Green",Conservative,37,Conservative,Con,t,1344,f,2
+8,1896-06-23,QC,157,CHAMBLY--VERCHÈRES,3134,"GEOFFRION, Christophe-A.",Liberal,75,Liberal,Lib,t,2511,f,1
+8,1896-06-23,QC,157,CHAMBLY--VERCHÈRES,3135,"TAILLON, L.O.",Conservative,37,Conservative,Con,t,2117,f,2
+8,1896-06-23,QC,158,CHAMPLAIN,3136,"MARCOTTE, F.A.",Conservative,37,Conservative,Con,t,2411,f,1
+8,1896-06-23,QC,158,CHAMPLAIN,3137,"TRUDEL, P.",Liberal,75,Liberal,Lib,t,2035,f,2
+8,1896-06-23,QC,159,CHARLEVOIX,3138,"ANGERS, Louis Charles A.",Liberal,75,Liberal,Lib,t,1403,f,1
+8,1896-06-23,QC,159,CHARLEVOIX,3139,"CIMON, Simon",Conservative,37,Conservative,Con,t,1273,f,2
+8,1896-06-23,QC,160,CHICOUTIMI--SAGUENAY,3140,"SAVARD, P.V.",Liberal,75,Liberal,Lib,t,3059,f,1
+8,1896-06-23,QC,160,CHICOUTIMI--SAGUENAY,3141,"BELLEY, L.G.",Conservative,37,Conservative,Con,t,1973,f,2
+8,1896-06-23,QC,161,CHÂTEAUGUAY,3142,"BROWN, J.P.",Liberal,75,Liberal,Lib,t,1594,f,1
+8,1896-06-23,QC,161,CHÂTEAUGUAY,3143,"LECAVALIER, C.",Conservative,37,Conservative,Con,t,894,f,2
+8,1896-06-23,QC,162,COMPTON,3144,"POPE, Rufus Henry",Conservative,37,Conservative,Con,t,1948,f,1
+8,1896-06-23,QC,162,COMPTON,3145,"WELLARD, Francis F.",Patrons of Industry,114,Patrons of Industry,PatronsInd,f,1485,f,2
+8,1896-06-23,QC,163,DORCHESTER,3146,"MORIN, J.B.",Conservative,37,Conservative,Con,t,1480,f,1
+8,1896-06-23,QC,163,DORCHESTER,3147,"VAILLANCOURT, C.E.",Nationalist,95,Nationalist,Nationalist,f,1150,f,2
+8,1896-06-23,QC,164,DRUMMOND--ARTHABASKA,3148,"LAVERGNE, J.",Liberal,75,Liberal,Lib,t,3561,f,1
+8,1896-06-23,QC,164,DRUMMOND--ARTHABASKA,3149,"DÉSY, E.",Conservative,37,Conservative,Con,t,2255,f,2
+8,1896-06-23,QC,165,GASPÉ,3150,"LEMIEUX, Rodolphe",Liberal,75,Liberal,Lib,t,1658,f,1
+8,1896-06-23,QC,165,GASPÉ,3151,"ENNIS, Thos.",Conservative,37,Conservative,Con,t,1616,f,2
+8,1896-06-23,QC,166,HOCHELAGA,3152,"MADORE, J.C.A.",Liberal,75,Liberal,Lib,t,3635,f,1
+8,1896-06-23,QC,166,HOCHELAGA,3153,"LACHAPELLE, Dr. S.",Conservative,37,Conservative,Con,t,3129,f,2
+8,1896-06-23,QC,167,HUNTINGDON,3154,"SCRIVER, Julius",Liberal,75,Liberal,Lib,t,1546,f,1
+8,1896-06-23,QC,167,HUNTINGDON,3155,"WHITE, Wm. J.",Conservative,37,Conservative,Con,t,827,f,2
+8,1896-06-23,QC,168,JACQUES CARTIER,3156,"MONCK, Frederick D.",Conservative,37,Conservative,Con,t,2329,f,1
+8,1896-06-23,QC,168,JACQUES CARTIER,3157,"BOYER, Arthur",Liberal,75,Liberal,Lib,t,2216,f,2
+8,1896-06-23,QC,169,JOLIETTE,3158,"BAZINET, Charles",Liberal,75,Liberal,Lib,t,1769,f,1
+8,1896-06-23,QC,169,JOLIETTE,3159,"LAVALLÉE, V.P.",Conservative,37,Conservative,Con,t,1453,f,2
+8,1896-06-23,QC,170,KAMOURASKA,3160,"CARROLL, H.G.",Liberal,75,Liberal,Lib,t,1414,f,1
+8,1896-06-23,QC,170,KAMOURASKA,3161,"TASCHEREAU, Linière",Conservative,37,Conservative,Con,t,1403,f,2
+8,1896-06-23,QC,171,L'ASSOMPTION,3162,"GAUTHIER, Joseph",Liberal,75,Liberal,Lib,t,1335,f,1
+8,1896-06-23,QC,171,L'ASSOMPTION,3163,"JEANNOTTE, H.",Conservative,37,Conservative,Con,t,1216,f,2
+8,1896-06-23,QC,172,L'ISLET,3164,"DÉCHENE, A.M.",Liberal,75,Liberal,Lib,t,1038,f,1
+8,1896-06-23,QC,172,L'ISLET,3165,"DIONNE, A.",Conservative,37,Conservative,Con,t,1032,f,2
+8,1896-06-23,QC,173,LABELLE,3166,"BOURASSA, J.H.N.",Liberal,75,Liberal,Lib,t,2175,f,1
+8,1896-06-23,QC,173,LABELLE,3167,"POULIN, S.R.",Conservative,37,Conservative,Con,t,1706,f,2
+8,1896-06-23,QC,174,LAPRAIRIE--NAPIERVILLE,3168,"MONET, D.",Liberal,75,Liberal,Lib,t,1734,f,1
+8,1896-06-23,QC,174,LAPRAIRIE--NAPIERVILLE,3169,"PELLETIER, L.C.",Conservative,37,Conservative,Con,t,1458,f,2
+8,1896-06-23,QC,175,LAVAL,3170,"FORTIN, Thos.",Liberal,75,Liberal,Lib,t,1541,f,1
+8,1896-06-23,QC,175,LAVAL,3171,"BISAILLON, F.J.",Conservative,37,Conservative,Con,t,1449,f,2
+8,1896-06-23,QC,176,LOTBINIÈRE,3172,"RINFRET, Dr. C.I.",Liberal,75,Liberal,Lib,t,1620,f,1
+8,1896-06-23,QC,176,LOTBINIÈRE,3173,"LORD, Dr. I.A.P.",Conservative,37,Conservative,Con,t,1214,f,2
+8,1896-06-23,QC,177,LÉVIS,3174,"GUAY, P. Malcolm",Liberal,75,Liberal,Lib,t,2271,f,1
+8,1896-06-23,QC,177,LÉVIS,3175,"GELLEY, J.E.",Conservative,37,Conservative,Con,t,1963,f,2
+8,1896-06-23,QC,178,MAISONNEUVE,3176,"PRÉFONTAINE, R.",Liberal,75,Liberal,Lib,t,3912,f,1
+8,1896-06-23,QC,178,MAISONNEUVE,3177,"BARIL, Dr. Geo. E.",Conservative,37,Conservative,Con,t,2342,f,2
+8,1896-06-23,QC,179,MASKINONGÉ,3178,"LEGRIS, Joseph-Hormidas",Liberal,75,Liberal,Lib,t,1384,f,1
+8,1896-06-23,QC,179,MASKINONGÉ,3179,"COULOMBE, Charles-Jérémie",Conservative,37,Conservative,Con,t,1094,f,2
+8,1896-06-23,QC,180,MISSISQUOI,3180,"MEIGS, D.B.",Liberal,75,Liberal,Lib,t,1687,f,1
+8,1896-06-23,QC,180,MISSISQUOI,3181,"SLACK, G.F.",Conservative,37,Conservative,Con,t,1471,f,2
+8,1896-06-23,QC,181,MONTCALM,3182,"DUGAS, Louis Euclide",Conservative,37,Conservative,Con,t,1202,f,1
+8,1896-06-23,QC,181,MONTCALM,3183,"LABELLE, Louis Victor",Liberal,75,Liberal,Lib,t,907,f,2
+8,1896-06-23,QC,182,MONTMAGNY,3184,"CHOQUETTE, P.A.",Liberal,75,Liberal,Lib,t,1143,f,1
+8,1896-06-23,QC,182,MONTMAGNY,3185,"BENDER, E.P.",Conservative,37,Conservative,Con,t,901,f,2
+8,1896-06-23,QC,183,MONTMORENCY,3186,"CASGRAIN, T.C.",Conservative,37,Conservative,Con,t,1096,f,1
+8,1896-06-23,QC,183,MONTMORENCY,3187,"Langelier, C.",Liberal,75,Liberal,Lib,t,1046,f,2
+8,1896-06-23,QC,184,MÉGANTIC,3188,"TURCOT, Georges",Liberal,75,Liberal,Lib,t,2064,f,1
+8,1896-06-23,QC,184,MÉGANTIC,3189,"FRÉCHETTE, L.J.",Conservative,37,Conservative,Con,t,1410,f,2
+8,1896-06-23,QC,185,NICOLET,3190,"BOISVERT, Fabien",Conservative,37,Conservative,Con,t,2377,f,1
+8,1896-06-23,QC,185,NICOLET,3191,"Leduc, J.H.",Liberal,75,Liberal,Lib,t,2239,f,2
+8,1896-06-23,QC,186,PONTIAC,3192,"POUPORE, W.J.",Conservative,37,Conservative,Con,t,1980,f,1
+8,1896-06-23,QC,186,PONTIAC,3193,"GABOURY, T.C.",Liberal,75,Liberal,Lib,t,1341,f,2
+8,1896-06-23,QC,187,PORTNEUF,3194,"JOLY de LOTBINIÈRE, Sir Henri",Liberal,75,Liberal,Lib,t,2086,f,1
+8,1896-06-23,QC,187,PORTNEUF,3195,"STAFFORD, L.",Conservative,37,Conservative,Con,t,2050,f,2
+8,1896-06-23,QC,188,QUEBEC COUNTY,3196,"FITZPATRICK, Chs.",Liberal,75,Liberal,Lib,t,1982,f,1
+8,1896-06-23,QC,188,QUEBEC COUNTY,3197,"FRÉMONT, J.J.T.",Liberal,75,Liberal,Lib,t,1058,f,2
+8,1896-06-23,QC,189,QUEBEC EAST,3198,"LAURIER, Hon. W.",Liberal,75,Liberal,Lib,t,3202,f,1
+8,1896-06-23,QC,189,QUEBEC EAST,3199,"LECLERC, Cléophas",Conservative,37,Conservative,Con,t,1011,f,2
+8,1896-06-23,QC,190,QUEBEC WEST,3200,"DOBELL, R.R.",Liberal,75,Liberal,Lib,t,1057,f,1
+8,1896-06-23,QC,190,QUEBEC WEST,3201,"MCGREEVY, Ths.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,826,f,2
+8,1896-06-23,QC,191,QUEBEC-CENTRE,3202,"Langelier, Frs.",Liberal,75,Liberal,Lib,t,1469,f,1
+8,1896-06-23,QC,191,QUEBEC-CENTRE,3203,"ANGERS, A.R.",Conservative,37,Conservative,Con,t,1150,f,2
+8,1896-06-23,QC,192,RICHELIEU,3204,"BRUNEAU, A.A.",Liberal,75,Liberal,Lib,t,1609,f,1
+8,1896-06-23,QC,192,RICHELIEU,3205,"DESJARDINS, Hon. Alp.",Conservative,37,Conservative,Con,t,1475,f,2
+8,1896-06-23,QC,193,RICHMOND--WOLFE,3206,"STENSON, M.T.",Liberal,75,Liberal,Lib,t,2782,f,1
+8,1896-06-23,QC,193,RICHMOND--WOLFE,3207,"CLEVELAND, C.C.",Conservative,37,Conservative,Con,t,2544,f,2
+8,1896-06-23,QC,194,RIMOUSKI,3208,"FISET, J.B.R.",Liberal,75,Liberal,Lib,t,2443,f,1
+8,1896-06-23,QC,194,RIMOUSKI,3209,"TACHÉ, Louis",Conservative,37,Conservative,Con,t,2177,f,2
+8,1896-06-23,QC,195,ROUVILLE,3210,"BRODEUR, L.P.",Liberal,75,Liberal,Lib,t,1840,f,1
+8,1896-06-23,QC,195,ROUVILLE,3211,"FOURNIER, J.A.",Conservative,37,Conservative,Con,t,870,f,2
+8,1896-06-23,QC,196,SHEFFORD,3212,"PARMELEE, C.H.",Liberal,75,Liberal,Lib,t,2191,f,1
+8,1896-06-23,QC,196,SHEFFORD,3213,"PELTIER, P.J.I.",Conservative,37,Conservative,Con,t,1726,f,2
+8,1896-06-23,QC,197,SHERBROOKE (TOWN OF),3214,"IVES, Hon. W.B.",Conservative,37,Conservative,Con,t,1478,f,1
+8,1896-06-23,QC,197,SHERBROOKE (TOWN OF),3215,"AYLMER, Hon. Henry",Liberal,75,Liberal,Lib,t,1221,f,2
+8,1896-06-23,QC,198,SOULANGES,3216,"BOURBONNAIS, Augustin",Liberal,75,Liberal,Lib,t,1054,f,1
+8,1896-06-23,QC,198,SOULANGES,3217,"LANTIER, Elzéar",Conservative,37,Conservative,Con,t,861,f,2
+8,1896-06-23,QC,199,ST. ANNE,3218,"QUINN, M.F.J.",Conservative,37,Conservative,Con,t,3071,f,1
+8,1896-06-23,QC,199,ST. ANNE,3219,"MCSHANE, Hon. James",Liberal,75,Liberal,Lib,t,2952,f,2
+8,1896-06-23,QC,200,ST. ANTOINE,3220,"RODDICK, Thos. G.",Conservative,37,Conservative,Con,t,3077,f,1
+8,1896-06-23,QC,200,ST. ANTOINE,3221,"MACKAY, Robert",Liberal,75,Liberal,Lib,t,2904,f,2
+8,1896-06-23,QC,201,ST. HYACINTHE,3222,"BERNIER, M.E.",Liberal,75,Liberal,Lib,t,,t,1
+8,1896-06-23,QC,202,ST. JAMES,3223,"DESMARAIS, Odilon",Liberal,75,Liberal,Lib,t,3423,f,1
+8,1896-06-23,QC,202,ST. JAMES,3224,"LAVALLÉE, Louis Arsène",Conservative,37,Conservative,Con,t,2054,f,2
+8,1896-06-23,QC,203,ST. JOHNS--IBERVILLE,3225,"BÉCHARD, Frs",Liberal,75,Liberal,Lib,t,1849,f,1
+8,1896-06-23,QC,203,ST. JOHNS--IBERVILLE,3226,"ROY, P.H.",Conservative,37,Conservative,Con,t,1342,f,2
+8,1896-06-23,QC,204,ST. LAWRENCE,3227,"PENNY, E. Goff",Liberal,75,Liberal,Lib,t,3632,f,1
+8,1896-06-23,QC,204,ST. LAWRENCE,3228,"SMITH, R.W.",Conservative,37,Conservative,Con,t,2915,f,2
+8,1896-06-23,QC,205,ST. MARY,3229,"DUPRÉ, H.",Liberal,75,Liberal,Lib,t,3367,f,1
+8,1896-06-23,QC,205,ST. MARY,3230,"LÉPINE, A.T.",Conservative,37,Conservative,Con,t,1967,f,2
+8,1896-06-23,QC,206,STANSTEAD,3231,"MOORE, Alvin Head",Conservative,37,Conservative,Con,t,2018,f,1
+8,1896-06-23,QC,206,STANSTEAD,3232,"RIDER, Timothy Byron",Liberal,75,Liberal,Lib,t,1583,f,2
+8,1896-06-23,QC,207,TERREBONNE,3233,"CHAUVIN, L.A.",Conservative,37,Conservative,Con,t,1862,f,1
+8,1896-06-23,QC,207,TERREBONNE,3234,"PETIT, P.F.C.",Liberal,75,Liberal,Lib,t,1734,f,2
+8,1896-06-23,QC,208,THREE RIVERS AND ST. MAURICE,3235,"CARON, Sir A.P.",Conservative,37,Conservative,Con,t,1691,f,1
+8,1896-06-23,QC,208,THREE RIVERS AND ST. MAURICE,3236,"FISET, Dr. L.P.",Liberal,75,Liberal,Lib,t,1422,f,2
+8,1896-06-23,QC,209,TWO MOUNTAINS,3237,"ÉTHIER, Joseph A.C.",Liberal,75,Liberal,Lib,t,1227,f,1
+8,1896-06-23,QC,209,TWO MOUNTAINS,3238,"GIROUARD, Jos.",Conservative,37,Conservative,Con,t,1210,f,2
+8,1896-06-23,QC,210,TÉMISCOUATA,3239,"POULIOT, Charles-Eugène",Liberal,75,Liberal,Lib,t,2171,f,1
+8,1896-06-23,QC,210,TÉMISCOUATA,3240,"GRANDBOIS, Paul-Étienne",Conservative,37,Conservative,Con,t,1604,f,2
+8,1896-06-23,QC,211,VAUDREUIL,3241,"HARWOOD, H.S.",Liberal,75,Liberal,Lib,t,1296,f,1
+8,1896-06-23,QC,211,VAUDREUIL,3242,"SÉGUIN, Aldéric",Conservative,37,Conservative,Con,t,801,f,2
+8,1896-06-23,QC,212,WRIGHT,3243,"DEVLIN, C.R.",Liberal,75,Liberal,Lib,t,2975,f,1
+8,1896-06-23,QC,212,WRIGHT,3244,"MCDOUGALL, J.M.",Conservative,37,Conservative,Con,t,2593,f,2
+8,1896-06-23,QC,213,YAMASKA,3245,"MIGNAULT, Roch. M.S.",Liberal,75,Liberal,Lib,t,1342,f,1
+8,1896-06-23,QC,213,YAMASKA,3246,"VANASSE, F.",Conservative,37,Conservative,Con,t,1324,f,2

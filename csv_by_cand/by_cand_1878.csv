@@ -1,0 +1,420 @@
+election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_party_name,party_id,party_name,party_short_name,mainstream,votes,acclaimed,place
+4,1878-09-17,BC,1,CARIBOO,1071,"THOMPSON, Joshua Spencer",Liberal-Conservative,124,Progressive Conservative Party,PC,t,,t,1
+4,1878-09-17,BC,2,NEW WESTMINSTER,1072,"MCINNES, Thomas Robert",Independent,52,Independent,Ind,f,388,f,1
+4,1878-09-17,BC,2,NEW WESTMINSTER,1073,"ROBINSON, J.",Unknown,166,Unknown,Unknown,f,299,f,2
+4,1878-09-17,BC,3,VANCOUVER,1074,"BUNSTER, Arthur",Liberal,75,Liberal,Lib,t,336,f,1
+4,1878-09-17,BC,3,VANCOUVER,1077,"GORDON, D.W.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,267,f,2
+4,1878-09-17,BC,3,VANCOUVER,1075,"MCLELLAN, A.J.",Unknown,166,Unknown,Unknown,f,74,f,3
+4,1878-09-17,BC,3,VANCOUVER,1076,"JESSOP, John",Unknown,166,Unknown,Unknown,f,40,f,4
+4,1878-09-17,BC,4,VICTORIA-1,1079,"MACDONALD, Right Hon. Sir John A.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,896,f,1
+4,1878-09-17,BC,5,VICTORIA-2,1078,"DE COSMOS, A.",Liberal,75,Liberal,Lib,t,538,f,1
+4,1878-09-17,BC,5,VICTORIA-2,1080,"DAVIES, J.P.",Unknown,166,Unknown,Unknown,f,480,f,2
+4,1878-09-17,BC,6,YALE,1081,"DEWDNEY, Edgar",Conservative,37,Conservative,Con,t,,t,1
+4,1878-09-17,MB,7,LISGAR,1082,"SCHULTZ, John Christian",Conservative,37,Conservative,Con,t,,t,1
+4,1878-09-17,MB,8,MARQUETTE,1083,"Macdonald, Rt. Hon. Sir John A",Liberal-Conservative,124,Progressive Conservative Party,PC,t,,t,1
+4,1878-09-17,MB,9,PROVENCHER,1084,"DUBUC, Joseph",Conservative,37,Conservative,Con,t,,t,1
+4,1878-09-17,MB,10,SELKIRK,1085,"SMITH, Donald Alexander",Independent Conservative,56,Independent Conservative,IndCon,f,555,f,1
+4,1878-09-17,MB,10,SELKIRK,1086,"MORRIS, Hon. A.",Conservative,37,Conservative,Con,t,546,f,2
+4,1878-09-17,NB,11,ALBERT,1087,"ROGERS, Alex.",Liberal,75,Liberal,Lib,t,684,f,1
+4,1878-09-17,NB,11,ALBERT,1088,"WALLACE, John",Liberal,75,Liberal,Lib,t,596,f,2
+4,1878-09-17,NB,11,ALBERT,1089,"DOMVILLE, J.W.",Unknown,166,Unknown,Unknown,f,558,f,3
+4,1878-09-17,NB,12,CARLETON,1090,"CONNELL, George H.",Independent,52,Independent,Ind,f,1766,f,1
+4,1878-09-17,NB,12,CARLETON,1091,"APPLEBY, S.B.",Liberal,75,Liberal,Lib,t,1447,f,2
+4,1878-09-17,NB,13,CHARLOTTE,1092,"GILLMOR, Arthur H., jun.",Liberal,75,Liberal,Lib,t,1522,f,1
+4,1878-09-17,NB,13,CHARLOTTE,1093,"MCADAM, J.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1284,f,2
+4,1878-09-17,NB,14,CITY AND COUNTY OF ST. JOHN-1,1095,"BURPEE, Isaac",Liberal,75,Liberal,Lib,t,2686,f,1
+4,1878-09-17,NB,14,CITY AND COUNTY OF ST. JOHN-1,1097,"PALMER, A.L.",Liberal,75,Liberal,Lib,t,1981,f,2
+4,1878-09-17,NB,15,CITY AND COUNTY OF ST. JOHN-2,1094,"WELDON, Chas. W.",Liberal,75,Liberal,Lib,t,2449,f,1
+4,1878-09-17,NB,15,CITY AND COUNTY OF ST. JOHN-2,1096,"KING, G.E.",Unknown,166,Unknown,Unknown,f,2180,f,2
+4,1878-09-17,NB,16,CITY OF ST. JOHN,1098,"TILLEY, Hon. S.L.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1475,f,1
+4,1878-09-17,NB,16,CITY OF ST. JOHN,1099,"DEVEBER, J.S.B.",Liberal,75,Liberal,Lib,t,1466,f,2
+4,1878-09-17,NB,17,GLOUCESTER,1100,"ANGLIN, Hon. Timothy Warren",Liberal,75,Liberal,Lib,t,,t,1
+4,1878-09-17,NB,18,KENT,1101,"GIROUARD, Gilbert A.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,810,f,1
+4,1878-09-17,NB,18,KENT,1104,"CUTLER, R.B.",Liberal,75,Liberal,Lib,t,726,f,2
+4,1878-09-17,NB,18,KENT,1103,"MCLEOD, Geo.",Independent,52,Independent,Ind,f,510,f,3
+4,1878-09-17,NB,18,KENT,1105,"O'LEARY, H.",Unknown,166,Unknown,Unknown,f,382,f,4
+4,1878-09-17,NB,18,KENT,1102,"MCINERNEY, G.",Liberal,75,Liberal,Lib,t,280,f,5
+4,1878-09-17,NB,19,KING'S,1106,"DOMVILLE, James",Conservative,37,Conservative,Con,t,1786,f,1
+4,1878-09-17,NB,19,KING'S,1107,"SHARP, L.N.",Independent,52,Independent,Ind,f,1452,f,2
+4,1878-09-17,NB,20,NORTHUMBERLAND,1108,"SNOWBALL, Jabez B.",Liberal,75,Liberal,Lib,t,1585,f,1
+4,1878-09-17,NB,20,NORTHUMBERLAND,1109,"MITCHELL, P.",Independent,52,Independent,Ind,f,1384,f,2
+4,1878-09-17,NB,21,QUEEN'S,1110,"KING, George G.",Liberal,75,Liberal,Lib,t,1143,f,1
+4,1878-09-17,NB,21,QUEEN'S,1111,"WIGGINS, E.S.",Unknown,166,Unknown,Unknown,f,630,f,2
+4,1878-09-17,NB,22,RESTIGOUCHE,1112,"HADDOW, George",Independent,52,Independent,Ind,f,,t,1
+4,1878-09-17,NB,23,SUNBURY,1113,"BURPEE, Charles",Liberal,75,Liberal,Lib,t,558,f,1
+4,1878-09-17,NB,23,SUNBURY,1114,"PERLEY, W.D.",Conservative,37,Conservative,Con,t,517,f,2
+4,1878-09-17,NB,24,VICTORIA,1115,"COSTIGAN, John",Liberal-Conservative,124,Progressive Conservative Party,PC,t,831,f,1
+4,1878-09-17,NB,24,VICTORIA,1116,"BERNIER, F.-X.",Unknown,166,Unknown,Unknown,f,368,f,2
+4,1878-09-17,NB,25,WESTMORLAND,1117,"SMITH, Sir Albert J.",Liberal,75,Liberal,Lib,t,2572,f,1
+4,1878-09-17,NB,25,WESTMORLAND,1118,"CHAPMAN, R.A.",Unknown,166,Unknown,Unknown,f,1928,f,2
+4,1878-09-17,NB,26,YORK,1119,"PICKARD, John",Independent Liberal,58,Independent Liberal,IndLib,f,1490,f,1
+4,1878-09-17,NB,26,YORK,1120,"FISHER, C.H.B.",Unknown,166,Unknown,Unknown,f,834,f,2
+4,1878-09-17,NS,27,ANNAPOLIS,1121,"LONGLEY, Avard",Conservative,37,Conservative,Con,t,1301,f,1
+4,1878-09-17,NS,27,ANNAPOLIS,1122,"RAY, Wm. H.",Liberal,75,Liberal,Lib,t,1298,f,2
+4,1878-09-17,NS,28,ANTIGONISH,1123,"MCISAAC, Angus",Liberal,75,Liberal,Lib,t,833,f,1
+4,1878-09-17,NS,28,ANTIGONISH,1125,"WHIDDEN, Charles B.",Unknown,166,Unknown,Unknown,f,702,f,2
+4,1878-09-17,NS,28,ANTIGONISH,1124,"MCKINNON, John J.",Unknown,166,Unknown,Unknown,f,315,f,3
+4,1878-09-17,NS,29,CAPE BRETON-1,1127,"MCDONALD, William M.",Conservative,37,Conservative,Con,t,2051,f,1
+4,1878-09-17,NS,29,CAPE BRETON-1,1129,"MCKAY, N.L.",Liberal,75,Liberal,Lib,t,1153,f,2
+4,1878-09-17,NS,30,CAPE BRETON-2,1126,"MCLEOD, Hugh",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2056,f,1
+4,1878-09-17,NS,30,CAPE BRETON-2,1128,"YOUNG, Walter",Unknown,166,Unknown,Unknown,f,696,f,2
+4,1878-09-17,NS,31,COLCHESTER,1130,"MCKAY, Thomas",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1829,f,1
+4,1878-09-17,NS,31,COLCHESTER,1131,"PAGE, Alex C.",Unknown,166,Unknown,Unknown,f,1453,f,2
+4,1878-09-17,NS,32,CUMBERLAND,1132,"TUPPER, Hon. Charles",Conservative,37,Conservative,Con,t,2030,f,1
+4,1878-09-17,NS,32,CUMBERLAND,1133,"PIPES, Wm. Thos.",Unknown,166,Unknown,Unknown,f,1468,f,2
+4,1878-09-17,NS,33,DIGBY,1134,"WADE, John Chipman",Conservative,37,Conservative,Con,t,1019,f,1
+4,1878-09-17,NS,33,DIGBY,1135,"SMITH, P.W.",Unknown,166,Unknown,Unknown,f,1001,f,2
+4,1878-09-17,NS,34,GUYSBOROUGH,1136,"OGDEN, Alfred",Conservative,37,Conservative,Con,t,936,f,1
+4,1878-09-17,NS,34,GUYSBOROUGH,1137,"KIRK, John A.",Liberal,75,Liberal,Lib,t,772,f,2
+4,1878-09-17,NS,35,HALIFAX-1,1139,"RICHEY, M.H.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,3532,f,1
+4,1878-09-17,NS,35,HALIFAX-1,1141,"POWER, P.",Independent Liberal,58,Independent Liberal,IndLib,f,2695,f,2
+4,1878-09-17,NS,36,HALIFAX-2,1138,"DALY, M.B.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,3466,f,1
+4,1878-09-17,NS,36,HALIFAX-2,1140,"JONES, A.G.",Independent,52,Independent,Ind,f,2863,f,2
+4,1878-09-17,NS,37,HANTS,1142,"ALLISON, W. Henry",Conservative,37,Conservative,Con,t,1662,f,1
+4,1878-09-17,NS,37,HANTS,1143,"GOUDGE, Monson H.",Liberal,75,Liberal,Lib,t,1381,f,2
+4,1878-09-17,NS,38,INVERNESS,1144,"MCDONNELL, Samuel",Liberal,75,Liberal,Lib,t,1284,f,1
+4,1878-09-17,NS,38,INVERNESS,1145,"CAMERON, Hugh",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1175,f,2
+4,1878-09-17,NS,38,INVERNESS,1146,"MCLENNAN, Angus",Unknown,166,Unknown,Unknown,f,739,f,3
+4,1878-09-17,NS,39,KINGS,1147,"BORDEN, F.W.",Liberal,75,Liberal,Lib,t,1639,f,1
+4,1878-09-17,NS,39,KINGS,1148,"WOODWORTH, D.B.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1374,f,2
+4,1878-09-17,NS,40,LUNENBURG,1149,"KAULBACH, Charles Edwin",Conservative,37,Conservative,Con,t,1899,f,1
+4,1878-09-17,NS,40,LUNENBURG,1150,"CHURCH, Charles Edward",Liberal,75,Liberal,Lib,t,1173,f,2
+4,1878-09-17,NS,41,PICTOU-1,1152,"MCDONALD, Hon. James",Conservative,37,Conservative,Con,t,2747,f,1
+4,1878-09-17,NS,41,PICTOU-1,1154,"Dawson,",Liberal,75,Liberal,Lib,t,2378,f,2
+4,1878-09-17,NS,42,PICTOU-2,1151,"DOULL, Robert",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2681,f,1
+4,1878-09-17,NS,42,PICTOU-2,1153,"CARMICHAEL,",Liberal,75,Liberal,Lib,t,2433,f,2
+4,1878-09-17,NS,43,QUEENS,1155,"BILL, S.T.R.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,670,f,1
+4,1878-09-17,NS,43,QUEENS,1156,"FORBES, J.F.",Liberal,75,Liberal,Lib,t,637,f,2
+4,1878-09-17,NS,44,RICHMOND,1157,"FLYNN, Edward P.",Liberal,75,Liberal,Lib,t,666,f,1
+4,1878-09-17,NS,44,RICHMOND,1158,"BENOIT, Renée",Unknown,166,Unknown,Unknown,f,552,f,2
+4,1878-09-17,NS,45,SHELBURNE,1159,"ROBERTSON, Thomas",Liberal,75,Liberal,Lib,t,966,f,1
+4,1878-09-17,NS,45,SHELBURNE,1160,"FREEMAN, Robert W.",Unknown,166,Unknown,Unknown,f,899,f,2
+4,1878-09-17,NS,45,SHELBURNE,1161,"COFFIN, Thomas",Liberal,75,Liberal,Lib,t,198,f,3
+4,1878-09-17,NS,46,VICTORIA,1162,"MCDONALD, Duncan",Liberal,75,Liberal,Lib,t,748,f,1
+4,1878-09-17,NS,46,VICTORIA,1163,"CAMPBELL, Charles",Conservative,37,Conservative,Con,t,645,f,2
+4,1878-09-17,NS,47,YARMOUTH,1164,"KILLAM, Frank",Liberal,75,Liberal,Lib,t,1343,f,1
+4,1878-09-17,NS,47,YARMOUTH,1165,"FLINT, Thomas B.",Liberal,75,Liberal,Lib,t,802,f,2
+4,1878-09-17,ON,48,ADDINGTON,1166,"MCRORY, John",Conservative,37,Conservative,Con,t,1656,f,1
+4,1878-09-17,ON,48,ADDINGTON,1167,"SHIBLEY,",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1244,f,2
+4,1878-09-17,ON,49,ALGOMA,1168,"Dawson, Simon James",Conservative,37,Conservative,Con,t,885,f,1
+4,1878-09-17,ON,49,ALGOMA,1169,"RANKIN,",Unknown,166,Unknown,Unknown,f,480,f,2
+4,1878-09-17,ON,50,BOTHWELL,1170,"MILLS, Hon. David",Liberal,75,Liberal,Lib,t,1852,f,1
+4,1878-09-17,ON,50,BOTHWELL,1171,"HAWKINS,",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1567,f,2
+4,1878-09-17,ON,51,BRANT NORTH,1172,"FLEMING, Gavin",Liberal,75,Liberal,Lib,t,931,f,1
+4,1878-09-17,ON,51,BRANT NORTH,1173,"CRAWFORD,",Unknown,166,Unknown,Unknown,f,734,f,2
+4,1878-09-17,ON,52,BRANT SOUTH,1174,"PATERSON, William",Liberal,75,Liberal,Lib,t,1496,f,1
+4,1878-09-17,ON,52,BRANT SOUTH,1175,"WATTS,",Unknown,166,Unknown,Unknown,f,1298,f,2
+4,1878-09-17,ON,53,BROCKVILLE,1176,"FITZSIMMONS, William",Conservative,37,Conservative,Con,t,1033,f,1
+4,1878-09-17,ON,53,BROCKVILLE,1177,"BUELL, J.D.",Liberal,75,Liberal,Lib,t,906,f,2
+4,1878-09-17,ON,54,BRUCE NORTH,1178,"GILLIES, John",Liberal,75,Liberal,Lib,t,1705,f,1
+4,1878-09-17,ON,54,BRUCE NORTH,1179,"SPROAT, Alex",Conservative,37,Conservative,Con,t,1549,f,2
+4,1878-09-17,ON,55,BRUCE SOUTH,1180,"SHAW, Alexander",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2673,f,1
+4,1878-09-17,ON,55,BRUCE SOUTH,1181,"BLAKE, Hon. E.",Liberal,75,Liberal,Lib,t,2598,f,2
+4,1878-09-17,ON,56,CARDWELL,1182,"WHITE, Thomas",Conservative,37,Conservative,Con,t,1218,f,1
+4,1878-09-17,ON,56,CARDWELL,1183,"PATTULO, Jos.",Unknown,166,Unknown,Unknown,f,961,f,2
+4,1878-09-17,ON,57,CARLETON,1184,"ROCHESTER,",Conservative,37,Conservative,Con,t,1282,f,1
+4,1878-09-17,ON,57,CARLETON,1186,"MAY, John",Unknown,166,Unknown,Unknown,f,1196,f,2
+4,1878-09-17,ON,57,CARLETON,1187,"GRANT, J.A.",Unknown,166,Unknown,Unknown,f,86,f,3
+4,1878-09-17,ON,57,CARLETON,1185,"SPARKS, Nic.",Unknown,166,Unknown,Unknown,f,14,f,4
+4,1878-09-17,ON,58,CORNWALL,1188,"BERGIN, Darby",Liberal-Conservative,124,Progressive Conservative Party,PC,t,575,f,1
+4,1878-09-17,ON,58,CORNWALL,1189,"MCLENNAN, D.B.",Liberal,75,Liberal,Lib,t,537,f,2
+4,1878-09-17,ON,59,DUNDAS,1190,"ROSS, John Sylvester",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1727,f,1
+4,1878-09-17,ON,59,DUNDAS,1191,"LAFLAMME, A.J.",Unknown,166,Unknown,Unknown,f,1548,f,2
+4,1878-09-17,ON,60,DURHAM EAST,1192,"WILLIAMS, A.T.H.",Conservative,37,Conservative,Con,t,1717,f,1
+4,1878-09-17,ON,60,DURHAM EAST,1193,"ROSS, Lewis",Liberal,75,Liberal,Lib,t,1317,f,2
+4,1878-09-17,ON,61,DURHAM WEST,1194,"BURK, Harvey William",Liberal,75,Liberal,Lib,t,11214,f,1
+4,1878-09-17,ON,61,DURHAM WEST,1195,"CUBITT, F.",Unknown,166,Unknown,Unknown,f,1172,f,2
+4,1878-09-17,ON,62,ELGIN EAST,1196,"ARKILL, Thomas",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2168,f,1
+4,1878-09-17,ON,62,ELGIN EAST,1197,"MACDOUGALL, C.",Liberal,75,Liberal,Lib,t,2128,f,2
+4,1878-09-17,ON,63,ELGIN WEST,1198,"CASEY, George Elliott",Liberal,75,Liberal,Lib,t,1319,f,1
+4,1878-09-17,ON,63,ELGIN WEST,1199,"MUNRO, M.G.",Unknown,166,Unknown,Unknown,f,1207,f,2
+4,1878-09-17,ON,64,ESSEX,1200,"PATTERSON, J.C.",Conservative,37,Conservative,Con,t,2596,f,1
+4,1878-09-17,ON,64,ESSEX,1201,"MCGREGOR, William",Liberal,75,Liberal,Lib,t,2318,f,2
+4,1878-09-17,ON,64,ESSEX,1202,"MORGAN, J.H.",Unknown,166,Unknown,Unknown,f,27,f,3
+4,1878-09-17,ON,65,FRONTENAC,1203,"KIRKPATRICK, G.A.",Conservative,37,Conservative,Con,t,958,f,1
+4,1878-09-17,ON,65,FRONTENAC,1204,"FERRIS, J.V.",Unknown,166,Unknown,Unknown,f,145,f,2
+4,1878-09-17,ON,66,GLENGARRY,1205,"MCLENNAN, John",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1330,f,1
+4,1878-09-17,ON,66,GLENGARRY,1206,"MCNAB, A.",Unknown,166,Unknown,Unknown,f,1269,f,2
+4,1878-09-17,ON,67,GRENVILLE SOUTH,1207,"WISER, John Philip",Liberal,75,Liberal,Lib,t,1152,f,1
+4,1878-09-17,ON,67,GRENVILLE SOUTH,1208,"DUMBRILLE, J.",Unknown,166,Unknown,Unknown,f,1127,f,2
+4,1878-09-17,ON,68,GREY EAST,1209,"SPRAULE, Thomas Simpson",Conservative,37,Conservative,Con,t,1664,f,1
+4,1878-09-17,ON,68,GREY EAST,1210,"GIFFORD, A.",Unknown,166,Unknown,Unknown,f,1133,f,2
+4,1878-09-17,ON,69,GREY NORTH,1211,"LANE, Samuel J.",Conservative,37,Conservative,Con,t,1607,f,1
+4,1878-09-17,ON,69,GREY NORTH,1212,"SNIDER, Geo.",Liberal,75,Liberal,Lib,t,1394,f,2
+4,1878-09-17,ON,70,GREY SOUTH,1213,"JACKSON, George",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1163,f,1
+4,1878-09-17,ON,70,GREY SOUTH,1214,"LANDERKIN, George",Liberal,75,Liberal,Lib,t,1082,f,2
+4,1878-09-17,ON,71,HALDIMAND,1215,"THOMPSON, David",Liberal,75,Liberal,Lib,t,1566,f,1
+4,1878-09-17,ON,71,HALDIMAND,1216,"DAVIN,",Conservative,37,Conservative,Con,t,1400,f,2
+4,1878-09-17,ON,71,HALDIMAND,1217,"LESTER,",Unknown,166,Unknown,Unknown,f,30,f,3
+4,1878-09-17,ON,72,HALTON,1218,"MCDOUGALL, William",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1708,f,1
+4,1878-09-17,ON,72,HALTON,1219,"MCCRANEY, W.",Unknown,166,Unknown,Unknown,f,1690,f,2
+4,1878-09-17,ON,73,HAMILTON-1,1221,"ROBERTSON, Thos.",Liberal,75,Liberal,Lib,t,2214,f,1
+4,1878-09-17,ON,73,HAMILTON-1,1223,"WOOD,",Liberal,75,Liberal,Lib,t,1981,f,2
+4,1878-09-17,ON,74,HAMILTON-2,1220,"KILVERT, F.E.",Conservative,37,Conservative,Con,t,2252,f,1
+4,1878-09-17,ON,74,HAMILTON-2,1222,"IRVING,",Liberal,75,Liberal,Lib,t,2005,f,2
+4,1878-09-17,ON,75,HASTINGS EAST,1224,"WHITE, John",Conservative,37,Conservative,Con,t,1060,f,1
+4,1878-09-17,ON,75,HASTINGS EAST,1225,"AYLSWORTH, W.R.",Unknown,166,Unknown,Unknown,f,1040,f,2
+4,1878-09-17,ON,76,HASTINGS NORTH,1226,"BOWELL, Mackenzie",Conservative,37,Conservative,Con,t,1249,f,1
+4,1878-09-17,ON,76,HASTINGS NORTH,1227,"O'FLYNN, E.D.",Unknown,166,Unknown,Unknown,f,1008,f,2
+4,1878-09-17,ON,77,HASTINGS WEST,1228,"BROWN, James",Conservative,37,Conservative,Con,t,1306,f,1
+4,1878-09-17,ON,77,HASTINGS WEST,1229,"WALLBRIDGE,",Liberal,75,Liberal,Lib,t,1055,f,2
+4,1878-09-17,ON,78,HURON CENTRE,1230,"HORTON, Horace",Liberal,75,Liberal,Lib,t,1732,f,1
+4,1878-09-17,ON,78,HURON CENTRE,1231,"PLATT, S.",Unknown,166,Unknown,Unknown,f,1361,f,2
+4,1878-09-17,ON,79,HURON NORTH,1232,"FARROW, Thomas",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1933,f,1
+4,1878-09-17,ON,79,HURON NORTH,1233,"SLOAN,",Unknown,166,Unknown,Unknown,f,1849,f,2
+4,1878-09-17,ON,80,HURON SOUTH,1234,"CAMERON, M.C.",Liberal,75,Liberal,Lib,t,1874,f,1
+4,1878-09-17,ON,80,HURON SOUTH,1235,"PORTER,",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1709,f,2
+4,1878-09-17,ON,81,KENT,1236,"STEPHENSON, Rufus",Conservative,37,Conservative,Con,t,2502,f,1
+4,1878-09-17,ON,81,KENT,1237,"MCMAHON, H.",Unknown,166,Unknown,Unknown,f,1969,f,2
+4,1878-09-17,ON,82,KINGSTON,1238,"GUNN, Alexander",Liberal,75,Liberal,Lib,t,991,f,1
+4,1878-09-17,ON,82,KINGSTON,1240,"MACDONALD, Sir J.A.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,847,f,2
+4,1878-09-17,ON,82,KINGSTON,1239,"STEWART, J.",Unknown,166,Unknown,Unknown,f,6,f,3
+4,1878-09-17,ON,83,LAMBTON,1241,"MACKENZIE, Hon. Alexander",Liberal,75,Liberal,Lib,t,2707,f,1
+4,1878-09-17,ON,83,LAMBTON,1242,"MACKENZIE, J.A.",Unknown,166,Unknown,Unknown,f,2561,f,2
+4,1878-09-17,ON,84,LANARK NORTH,1243,"GALBRAITH, Daniel",Liberal,75,Liberal,Lib,t,992,f,1
+4,1878-09-17,ON,84,LANARK NORTH,1244,"JAMIESON,",Conservative,37,Conservative,Con,t,949,f,2
+4,1878-09-17,ON,85,LANARK SOUTH,1245,"HAGGART, J. H.",Conservative,37,Conservative,Con,t,1585,f,1
+4,1878-09-17,ON,85,LANARK SOUTH,1246,"FROST,",Unknown,166,Unknown,Unknown,f,1261,f,2
+4,1878-09-17,ON,86,LEEDS NORTH AND GRENVILLE NORTH,1247,"FERGUSON, Charles Frederick",Liberal-Conservative,124,Progressive Conservative Party,PC,t,859,f,1
+4,1878-09-17,ON,86,LEEDS NORTH AND GRENVILLE NORTH,1248,"JONES, F.",Conservative,37,Conservative,Con,t,823,f,2
+4,1878-09-17,ON,87,LEEDS SOUTH,1249,"JONES, D.F.",Conservative,37,Conservative,Con,t,1904,f,1
+4,1878-09-17,ON,87,LEEDS SOUTH,1250,"FREDENBURGH, W.H.",Unknown,166,Unknown,Unknown,f,1783,f,2
+4,1878-09-17,ON,88,LENNOX,1251,"HOOPER, Edmund",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1358,f,1
+4,1878-09-17,ON,88,LENNOX,1252,"CARTWRIGHT, Hon. R.J.",Liberal,75,Liberal,Lib,t,1299,f,2
+4,1878-09-17,ON,89,LINCOLN,1253,"RYKERT, John C.",Conservative,37,Conservative,Con,t,1893,f,1
+4,1878-09-17,ON,89,LINCOLN,1254,"NORRIS, J.",Liberal,75,Liberal,Lib,t,1799,f,2
+4,1878-09-17,ON,90,LONDON,1255,"CARLING, Hon. John",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1407,f,1
+4,1878-09-17,ON,90,LONDON,1256,"WALKER, J.",Liberal,75,Liberal,Lib,t,1343,f,2
+4,1878-09-17,ON,91,MIDDLESEX EAST,1257,"MACMILLAN, Duncan",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2428,f,1
+4,1878-09-17,ON,91,MIDDLESEX EAST,1258,"GLASS, D.",Conservative,37,Conservative,Con,t,2332,f,2
+4,1878-09-17,ON,92,MIDDLESEX NORTH,1259,"COUGHLIN, Timothy",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1629,f,1
+4,1878-09-17,ON,92,MIDDLESEX NORTH,1260,"SCATCHERD, R.C.",Liberal,75,Liberal,Lib,t,1621,f,2
+4,1878-09-17,ON,93,MIDDLESEX WEST,1261,"ROSS, George William",Liberal,75,Liberal,Lib,t,1635,f,1
+4,1878-09-17,ON,93,MIDDLESEX WEST,1262,"CURRIE, N.",Unknown,166,Unknown,Unknown,f,1587,f,2
+4,1878-09-17,ON,94,MONCK,1263,"MCCALLUM, Lachlin",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1459,f,1
+4,1878-09-17,ON,94,MONCK,1264,"EDGAR, J.D.",Liberal,75,Liberal,Lib,t,1431,f,2
+4,1878-09-17,ON,95,MUSKOKA,1265,"COCKBURN, A.P.",Liberal,75,Liberal,Lib,t,1259,f,1
+4,1878-09-17,ON,95,MUSKOKA,1266,"O'BRIEN, W.E.",Unknown,166,Unknown,Unknown,f,1196,f,2
+4,1878-09-17,ON,96,NIAGARA,1267,"HUGHES, Patrick",Liberal,75,Liberal,Lib,t,312,f,1
+4,1878-09-17,ON,96,NIAGARA,1268,"PLUMB, Josiah Burr",Conservative,37,Conservative,Con,t,310,f,2
+4,1878-09-17,ON,97,NORFOLK NORTH,1269,"CHARLTON, John",Liberal,75,Liberal,Lib,t,1492,f,1
+4,1878-09-17,ON,97,NORFOLK NORTH,1270,"WALSH, Ag.",Conservative,37,Conservative,Con,t,1348,f,2
+4,1878-09-17,ON,98,NORFOLK SOUTH,1271,"WALLACE, William",Conservative,37,Conservative,Con,t,1327,f,1
+4,1878-09-17,ON,98,NORFOLK SOUTH,1272,"ALLAN, H.W.",Unknown,166,Unknown,Unknown,f,1310,f,2
+4,1878-09-17,ON,99,NORTHUMBERLAND EAST,1273,"KEELER, Joseph",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1799,f,1
+4,1878-09-17,ON,99,NORTHUMBERLAND EAST,1274,"BIGGAR, J.L.",Independent Liberal,58,Independent Liberal,IndLib,f,1736,f,2
+4,1878-09-17,ON,100,NORTHUMBERLAND WEST,1275,"COCKBURN, Hon. James",Conservative,37,Conservative,Con,t,1315,f,1
+4,1878-09-17,ON,100,NORTHUMBERLAND WEST,1276,"KERR, W.",Liberal,75,Liberal,Lib,t,1227,f,2
+4,1878-09-17,ON,101,ONTARIO NORTH,1277,"WHELER, George",Liberal,75,Liberal,Lib,t,2215,f,1
+4,1878-09-17,ON,101,ONTARIO NORTH,1278,"GIBBS, W.H.",Conservative,37,Conservative,Con,t,2161,f,2
+4,1878-09-17,ON,102,ONTARIO SOUTH,1279,"GLEN, F.W.",Liberal,75,Liberal,Lib,t,1867,f,1
+4,1878-09-17,ON,102,ONTARIO SOUTH,1280,"GIBBS, Hon. T.H.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1661,f,2
+4,1878-09-17,ON,103,OTTAWA (CITY OF)-1,1282,"CURRIER, Jos. Merrill",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1854,f,1
+4,1878-09-17,ON,103,OTTAWA (CITY OF)-1,1284,"BANGS, C.W.",Unknown,166,Unknown,Unknown,f,1239,f,2
+4,1878-09-17,ON,104,OTTAWA (CITY OF)-2,1281,"TASSÉ, Joseph",Conservative,37,Conservative,Con,t,1748,f,1
+4,1878-09-17,ON,104,OTTAWA (CITY OF)-2,1283,"ST. JEAN, Pierre",Liberal,75,Liberal,Lib,t,1353,f,2
+4,1878-09-17,ON,105,OXFORD NORTH,1285,"OLIVER, Thomas",Liberal,75,Liberal,Lib,t,1706,f,1
+4,1878-09-17,ON,105,OXFORD NORTH,1286,"WOOD,",Unknown,166,Unknown,Unknown,f,803,f,2
+4,1878-09-17,ON,106,OXFORD SOUTH,1287,"SKINNER, James A.",Liberal,75,Liberal,Lib,t,1915,f,1
+4,1878-09-17,ON,106,OXFORD SOUTH,1288,"GIBSON, Jos.",Unknown,166,Unknown,Unknown,f,1554,f,2
+4,1878-09-17,ON,107,PEEL,1289,"ELLIOTT, Wm.",Conservative,37,Conservative,Con,t,1414,f,1
+4,1878-09-17,ON,107,PEEL,1290,"SMITH, R.",Liberal,75,Liberal,Lib,t,1325,f,2
+4,1878-09-17,ON,108,PERTH NORTH,1291,"HESSON, Samuel Rollin",Conservative,37,Conservative,Con,t,2533,f,1
+4,1878-09-17,ON,108,PERTH NORTH,1292,"FISHER, J.",Independent,52,Independent,Ind,f,2450,f,2
+4,1878-09-17,ON,109,PERTH SOUTH,1293,"TROW, James",Liberal,75,Liberal,Lib,t,1796,f,1
+4,1878-09-17,ON,109,PERTH SOUTH,1294,"HORNIBROOK, E.",Unknown,166,Unknown,Unknown,f,1719,f,2
+4,1878-09-17,ON,110,PETERBOROUGH EAST,1295,"BURNHAM, J.",Conservative,37,Conservative,Con,t,1262,f,1
+4,1878-09-17,ON,110,PETERBOROUGH EAST,1296,"BUCK, T.",Unknown,166,Unknown,Unknown,f,1236,f,2
+4,1878-09-17,ON,111,PETERBOROUGH WEST,1297,"HILLIARD, George",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1071,f,1
+4,1878-09-17,ON,111,PETERBOROUGH WEST,1298,"BERTRAM, J.",Liberal,75,Liberal,Lib,t,874,f,2
+4,1878-09-17,ON,112,PRESCOTT,1299,"ROUTHIER, Félix",Conservative,37,Conservative,Con,t,875,f,1
+4,1878-09-17,ON,112,PRESCOTT,1301,"HAGAR, Albert",Liberal,75,Liberal,Lib,t,870,f,2
+4,1878-09-17,ON,112,PRESCOTT,1300,"URQUHART, Angus",Unknown,166,Unknown,Unknown,f,661,f,3
+4,1878-09-17,ON,113,PRINCE EDWARD,1302,"MCCUAIG, James Simeon",Conservative,37,Conservative,Con,t,1991,f,1
+4,1878-09-17,ON,113,PRINCE EDWARD,1303,"PLATT,",Liberal,75,Liberal,Lib,t,1701,f,2
+4,1878-09-17,ON,114,RENFREW NORTH,1304,"WHITE, Peter",Conservative,37,Conservative,Con,t,1273,f,1
+4,1878-09-17,ON,114,RENFREW NORTH,1305,"FINDLAY, James",Unknown,166,Unknown,Unknown,f,920,f,2
+4,1878-09-17,ON,115,RENFREW SOUTH,1306,"BANNERMAN, William",Conservative,37,Conservative,Con,t,962,f,1
+4,1878-09-17,ON,115,RENFREW SOUTH,1307,"CAMPBELL, R.",Unknown,166,Unknown,Unknown,f,738,f,2
+4,1878-09-17,ON,116,RUSSELL,1308,"O'CONNOR, Hon. John",Conservative,37,Conservative,Con,t,1612,f,1
+4,1878-09-17,ON,116,RUSSELL,1309,"MORGAN, Ira",Unknown,166,Unknown,Unknown,f,1097,f,2
+4,1878-09-17,ON,117,SIMCOE NORTH,1310,"MCCARTHY, Dalton",Conservative,37,Conservative,Con,t,2943,f,1
+4,1878-09-17,ON,117,SIMCOE NORTH,1311,"COOK, H.",Liberal,75,Liberal,Lib,t,2893,f,2
+4,1878-09-17,ON,118,SIMCOE SOUTH,1312,"LITTLE, William Carruthers",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1137,f,1
+4,1878-09-17,ON,118,SIMCOE SOUTH,1313,"FLETCHER, Geo.",Unknown,166,Unknown,Unknown,f,694,f,2
+4,1878-09-17,ON,119,STORMONT,1314,"FULTON, Oscar",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1082,f,1
+4,1878-09-17,ON,119,STORMONT,1315,"ARCHIBALD, C.",Liberal,75,Liberal,Lib,t,885,f,2
+4,1878-09-17,ON,120,TORONTO CENTRE,1316,"HAY, Robert",Liberal,75,Liberal,Lib,t,1631,f,1
+4,1878-09-17,ON,120,TORONTO CENTRE,1317,"MACDONALD, J.",Independent Liberal,58,Independent Liberal,IndLib,f,1141,f,2
+4,1878-09-17,ON,121,TORONTO EAST,1318,"PLATT, Samuel",Independent,52,Independent,Ind,f,1743,f,1
+4,1878-09-17,ON,121,TORONTO EAST,1319,"GALLEY, Ed",Unknown,166,Unknown,Unknown,f,1052,f,2
+4,1878-09-17,ON,122,VICTORIA NORTH,1320,"CAMERON, Hector",Conservative,37,Conservative,Con,t,917,f,1
+4,1878-09-17,ON,122,VICTORIA NORTH,1321,"MCLENNAN, J.",Liberal,75,Liberal,Lib,t,741,f,2
+4,1878-09-17,ON,123,VICTORIA SOUTH,1322,"MCQUADE, Arthur",Conservative,37,Conservative,Con,t,1705,f,1
+4,1878-09-17,ON,123,VICTORIA SOUTH,1323,"CONNOLLY, J.",Unknown,166,Unknown,Unknown,f,1281,f,2
+4,1878-09-17,ON,124,WATERLOO NORTH,1324,"KRANZ, Hugo",Conservative,37,Conservative,Con,t,1412,f,1
+4,1878-09-17,ON,124,WATERLOO NORTH,1325,"BOWMAN, I.E.",Liberal,75,Liberal,Lib,t,1279,f,2
+4,1878-09-17,ON,125,WATERLOO SOUTH,1326,"MERNER, Samuel",Conservative,37,Conservative,Con,t,1468,f,1
+4,1878-09-17,ON,125,WATERLOO SOUTH,1327,"YOUNG, Jas.",Liberal,75,Liberal,Lib,t,1424,f,2
+4,1878-09-17,ON,126,WELLAND,1328,"BUNTING, Christopher William",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1926,f,1
+4,1878-09-17,ON,126,WELLAND,1329,"EDWIN, H.",Unknown,166,Unknown,Unknown,f,1810,f,2
+4,1878-09-17,ON,127,WELLINGTON CENTRE,1330,"ORTON, George Turner",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1683,f,1
+4,1878-09-17,ON,127,WELLINGTON CENTRE,1331,"ROBINSON, J.",Unknown,166,Unknown,Unknown,f,1677,f,2
+4,1878-09-17,ON,128,WELLINGTON NORTH,1332,"DREW, Geo. A.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1713,f,1
+4,1878-09-17,ON,128,WELLINGTON NORTH,1333,"HIGINBOTHAM, N.",Liberal,75,Liberal,Lib,t,1605,f,2
+4,1878-09-17,ON,129,WELLINGTON SOUTH,1334,"GUTHRIE, Donald",Liberal,75,Liberal,Lib,t,1832,f,1
+4,1878-09-17,ON,129,WELLINGTON SOUTH,1335,"GOLDIE, J.",Unknown,166,Unknown,Unknown,f,1529,f,2
+4,1878-09-17,ON,130,WENTWORTH NORTH,1336,"BAIN, Thomas",Liberal,75,Liberal,Lib,t,1343,f,1
+4,1878-09-17,ON,130,WENTWORTH NORTH,1337,"STOCK, Thos.",Unknown,166,Unknown,Unknown,f,1237,f,2
+4,1878-09-17,ON,131,WENTWORTH SOUTH,1338,"RYMAL, Joseph",Liberal,75,Liberal,Lib,t,1169,f,1
+4,1878-09-17,ON,131,WENTWORTH SOUTH,1339,"Carpenter, F.M.",Unknown,166,Unknown,Unknown,f,1095,f,2
+4,1878-09-17,ON,132,WEST TORONTO,1340,"ROBINSON, Hon. John B.",Conservative,37,Conservative,Con,t,2165,f,1
+4,1878-09-17,ON,132,WEST TORONTO,1341,"HODGINS, J.",Unknown,166,Unknown,Unknown,f,1528,f,2
+4,1878-09-17,ON,133,YORK EAST,1342,"BOULTBEE, Alfred",Conservative,37,Conservative,Con,t,1526,f,1
+4,1878-09-17,ON,133,YORK EAST,1343,"METCALFE,",Liberal,75,Liberal,Lib,t,1460,f,2
+4,1878-09-17,ON,134,YORK NORTH,1344,"STRANGE, F.W.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1792,f,1
+4,1878-09-17,ON,134,YORK NORTH,1345,"DYMOND,",Liberal,75,Liberal,Lib,t,1778,f,2
+4,1878-09-17,ON,135,YORK WEST,1346,"WALLACE, Nathaniel C.",Conservative,37,Conservative,Con,t,1326,f,1
+4,1878-09-17,ON,135,YORK WEST,1347,"BLAIN, D.",Liberal,75,Liberal,Lib,t,1124,f,2
+4,1878-09-17,PE,136,KING'S COUNTY-1,1349,"MUTTART, Ephraim B.",Conservative,37,Conservative,Con,t,2077,f,1
+4,1878-09-17,PE,136,KING'S COUNTY-1,1351,"MCFAYDEN, M.",Unknown,166,Unknown,Unknown,f,1251,f,2
+4,1878-09-17,PE,137,KING'S COUNTY-2,1348,"MACDONALD, Augustine C.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2264,f,1
+4,1878-09-17,PE,137,KING'S COUNTY-2,1350,"MCINTYRE, P.A.",Liberal,75,Liberal,Lib,t,1499,f,2
+4,1878-09-17,PE,138,PRINCE COUNTY-1,1353,"YEO, James",Liberal,75,Liberal,Lib,t,1716,f,1
+4,1878-09-17,PE,138,PRINCE COUNTY-1,1355,"HOWATT, C.",Unknown,166,Unknown,Unknown,f,1605,f,2
+4,1878-09-17,PE,139,PRINCE COUNTY-2,1352,"HACKETT, Ed.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1655,f,1
+4,1878-09-17,PE,139,PRINCE COUNTY-2,1354,"PERRY, S.F.",Liberal,75,Liberal,Lib,t,1491,f,2
+4,1878-09-17,PE,140,QUEEN'S COUNTY-1,1357,"BRECKEN, Frederick de Sainte-Croix",Conservative,37,Conservative,Con,t,3102,f,1
+4,1878-09-17,PE,140,QUEEN'S COUNTY-1,1359,"MCGILL,",Unknown,166,Unknown,Unknown,f,2272,f,2
+4,1878-09-17,PE,141,QUEEN'S COUNTY-2,1356,"POPE, James Colledge",Conservative,37,Conservative,Con,t,3275,f,1
+4,1878-09-17,PE,141,QUEEN'S COUNTY-2,1358,"SINCLAIR,",Liberal,75,Liberal,Lib,t,2392,f,2
+4,1878-09-17,QC,142,ARGENTEUIL,1360,"CHRISTIE, Thomas",Liberal,75,Liberal,Lib,t,919,f,1
+4,1878-09-17,QC,142,ARGENTEUIL,1361,"ABBOTT, Hon. J.C.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,830,f,2
+4,1878-09-17,QC,143,BAGOT,1362,"MOUSSEAU, J.A.",Conservative,37,Conservative,Con,t,1387,f,1
+4,1878-09-17,QC,143,BAGOT,1363,"CHAGNON,",Independent,52,Independent,Ind,f,1226,f,2
+4,1878-09-17,QC,144,BEAUCE,1364,"BOLDUC, Joseph",Conservative,37,Conservative,Con,t,1523,f,1
+4,1878-09-17,QC,144,BEAUCE,1365,"LESARD, Geo.",Unknown,166,Unknown,Unknown,f,401,f,2
+4,1878-09-17,QC,145,BEAUHARNOIS,1366,"CAYLEY, Michael",Conservative,37,Conservative,Con,t,879,f,1
+4,1878-09-17,QC,145,BEAUHARNOIS,1367,"VALOIS, M.F.W.",Unknown,166,Unknown,Unknown,f,107,f,2
+4,1878-09-17,QC,146,BELLECHASSE,1368,"LARUE, Achille",Liberal,75,Liberal,Lib,t,1042,f,1
+4,1878-09-17,QC,146,BELLECHASSE,1369,"AMYOT, G.",Conservative,37,Conservative,Con,t,990,f,2
+4,1878-09-17,QC,147,BERTHIER,1370,"CUTHBERT, E.O.",Conservative,37,Conservative,Con,t,1134,f,1
+4,1878-09-17,QC,147,BERTHIER,1371,"BELIVEAU, P.",Unknown,166,Unknown,Unknown,f,915,f,2
+4,1878-09-17,QC,148,BONAVENTURE,1372,"ROBITAILLE, Hon. T.",Conservative,37,Conservative,Con,t,1014,f,1
+4,1878-09-17,QC,148,BONAVENTURE,1373,"CLAPPERTON, W.H.",Unknown,166,Unknown,Unknown,f,825,f,2
+4,1878-09-17,QC,149,BROME,1374,"CHANDLER, E.L.",Liberal,75,Liberal,Lib,t,1272,f,1
+4,1878-09-17,QC,149,BROME,1375,"FOSTER, S.L.",Unknown,166,Unknown,Unknown,f,991,f,2
+4,1878-09-17,QC,150,CHAMBLY,1376,"BENOIT, P.B.",Conservative,37,Conservative,Con,t,887,f,1
+4,1878-09-17,QC,150,CHAMBLY,1377,"WILLETT, L.T.",Unknown,166,Unknown,Unknown,f,843,f,2
+4,1878-09-17,QC,151,CHAMPLAIN,1378,"MONTPLAISIR, Hippolyte",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1673,f,1
+4,1878-09-17,QC,151,CHAMPLAIN,1379,"FUGERE, N.",Unknown,166,Unknown,Unknown,f,527,f,2
+4,1878-09-17,QC,152,CHARLEVOIX,1380,"TREMBLAY, P.A.",Liberal,75,Liberal,Lib,t,1052,f,1
+4,1878-09-17,QC,152,CHARLEVOIX,1381,"PERRAULT, J.S.",Unknown,166,Unknown,Unknown,f,936,f,2
+4,1878-09-17,QC,153,CHICOUTIMI--SAGUENAY,1382,"CIMON, Ernest",Conservative,37,Conservative,Con,t,1453,f,1
+4,1878-09-17,QC,153,CHICOUTIMI--SAGUENAY,1383,"GAGNÉ, J.A.",Conservative,37,Conservative,Con,t,1158,f,2
+4,1878-09-17,QC,154,CHÂTEAUGUAY,1384,"HOLTON, Hon. L.H.",Liberal,75,Liberal,Lib,t,936,f,1
+4,1878-09-17,QC,154,CHÂTEAUGUAY,1385,"SEERS, L.A.",Unknown,166,Unknown,Unknown,f,757,f,2
+4,1878-09-17,QC,155,COMPTON,1386,"POPE, Hon. J.H.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1464,f,1
+4,1878-09-17,QC,155,COMPTON,1387,"LEONARD, H.",Unknown,166,Unknown,Unknown,f,796,f,2
+4,1878-09-17,QC,156,DORCHESTER,1388,"ROULEAU, Fortunat",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1081,f,1
+4,1878-09-17,QC,156,DORCHESTER,1389,"MARCEAU, H.",Unknown,166,Unknown,Unknown,f,362,f,2
+4,1878-09-17,QC,157,DRUMMOND--ARTHABASKA,1390,"BOURBEAU, Desiré Olivier",Conservative,37,Conservative,Con,t,2143,f,1
+4,1878-09-17,QC,157,DRUMMOND--ARTHABASKA,1391,"RAINVILLE, L.",Unknown,166,Unknown,Unknown,f,1981,f,2
+4,1878-09-17,QC,158,GASPÉ,1392,"FORTIN, Hon. Pierre",Conservative,37,Conservative,Con,t,913,f,1
+4,1878-09-17,QC,158,GASPÉ,1393,"LEBOUTHILLIER, B.",Unknown,166,Unknown,Unknown,f,116,f,2
+4,1878-09-17,QC,159,HOCHELAGA,1394,"DESJARDINS, Alphonse",Conservative,37,Conservative,Con,t,3039,f,1
+4,1878-09-17,QC,159,HOCHELAGA,1395,"DAVID, L.O.",Unknown,166,Unknown,Unknown,f,2342,f,2
+4,1878-09-17,QC,160,HUNTINGDON,1396,"SCRIVER, Julius",Liberal,75,Liberal,Lib,t,,t,1
+4,1878-09-17,QC,161,IBERVILLE,1397,"BÉCHARD, François",Liberal,75,Liberal,Lib,t,929,f,1
+4,1878-09-17,QC,161,IBERVILLE,1398,"THIBEAULT, Ch.",Unknown,166,Unknown,Unknown,f,700,f,2
+4,1878-09-17,QC,162,JACQUES CARTIER,1399,"GIROUARD, D.",Conservative,37,Conservative,Con,t,1010,f,1
+4,1878-09-17,QC,162,JACQUES CARTIER,1400,"LAFLAMME, R.",Liberal,75,Liberal,Lib,t,1008,f,2
+4,1878-09-17,QC,163,JOLIETTE,1401,"BABY, Louis François George",Conservative,37,Conservative,Con,t,1264,f,1
+4,1878-09-17,QC,163,JOLIETTE,1402,"GODIN, F.B.",Liberal,75,Liberal,Lib,t,905,f,2
+4,1878-09-17,QC,164,KAMOURASKA,1403,"DUMONT, Joseph",Liberal,75,Liberal,Lib,t,1254,f,1
+4,1878-09-17,QC,164,KAMOURASKA,1404,"ROY, C.F.",Conservative,37,Conservative,Con,t,1245,f,2
+4,1878-09-17,QC,165,L'ASSOMPTION,1405,"HURTEAU, H.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1021,f,1
+4,1878-09-17,QC,165,L'ASSOMPTION,1406,"FOREST, L.",Unknown,166,Unknown,Unknown,f,852,f,2
+4,1878-09-17,QC,166,L'ISLET,1407,"CASGRAIN, P.B.",Liberal,75,Liberal,Lib,t,687,f,1
+4,1878-09-17,QC,166,L'ISLET,1408,"FOURNIER,",Unknown,166,Unknown,Unknown,f,628,f,2
+4,1878-09-17,QC,167,LAPRAIRIE,1409,"PINSONNEAULT, Alfred",Conservative,37,Conservative,Con,t,661,f,1
+4,1878-09-17,QC,167,LAPRAIRIE,1410,"LONGTIN, T.A.",Unknown,166,Unknown,Unknown,f,601,f,2
+4,1878-09-17,QC,168,LAVAL,1411,"Ouimet, Joseph-Aldéric",Liberal-Conservative,124,Progressive Conservative Party,PC,t,,t,1
+4,1878-09-17,QC,169,LOTBINIÈRE,1412,"RINFRET, Côme-Isaïe",Liberal,75,Liberal,Lib,t,1083,f,1
+4,1878-09-17,QC,169,LOTBINIÈRE,1413,"COTÉ, L.A.",Unknown,166,Unknown,Unknown,f,972,f,2
+4,1878-09-17,QC,170,LÉVIS,1414,"BLANCHET, Hon. J.G.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2144,f,1
+4,1878-09-17,QC,170,LÉVIS,1415,"FRÉCHETTE, L.",Liberal,75,Liberal,Lib,t,2026,f,2
+4,1878-09-17,QC,171,MASKINONGÉ,1416,"HOUDE, Frédéric",Nationalist Conservative,96,Nationalist Conservative,NationalistCon,f,838,f,1
+4,1878-09-17,QC,171,MASKINONGÉ,1418,"DÉSAULNIERS,",Conservative,37,Conservative,Con,t,296,f,2
+4,1878-09-17,QC,171,MASKINONGÉ,1417,"YALE,",Unknown,166,Unknown,Unknown,f,279,f,3
+4,1878-09-17,QC,172,MISSISQUOI,1419,"BAKER, George B.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1355,f,1
+4,1878-09-17,QC,172,MISSISQUOI,1420,"CLAYES, Geo.",Liberal,75,Liberal,Lib,t,1209,f,2
+4,1878-09-17,QC,173,MONTCALM,1421,"DUGAS, Firmin",Conservative,37,Conservative,Con,t,698,f,1
+4,1878-09-17,QC,173,MONTCALM,1422,"FOREST, N.",Unknown,166,Unknown,Unknown,f,374,f,2
+4,1878-09-17,QC,173,MONTCALM,1423,"DESLONGCHAMP, I.B.",Unknown,166,Unknown,Unknown,f,240,f,3
+4,1878-09-17,QC,173,MONTCALM,1424,"BROUILLET, V.J.E.",Unknown,166,Unknown,Unknown,f,86,f,4
+4,1878-09-17,QC,174,MONTMAGNY,1425,"LANDRY, Auguste-C.P.R.",Conservative,37,Conservative,Con,t,784,f,1
+4,1878-09-17,QC,174,MONTMAGNY,1426,"CARBONNEAU, O.",Unknown,166,Unknown,Unknown,f,746,f,2
+4,1878-09-17,QC,175,MONTMORENCY,1427,"VALIN, Pierre-Vincent",Conservative,37,Conservative,Con,t,831,f,1
+4,1878-09-17,QC,175,MONTMORENCY,1428,"Langelier, J.",Unknown,166,Unknown,Unknown,f,605,f,2
+4,1878-09-17,QC,176,MONTREAL CENTRE,1429,"RYAN, M.P.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2624,f,1
+4,1878-09-17,QC,176,MONTREAL CENTRE,1430,"DEVLIN, B.",Liberal,75,Liberal,Lib,t,1845,f,2
+4,1878-09-17,QC,177,MONTREAL EAST,1431,"COURSOL, Hon. Charles Joseph",Conservative,37,Conservative,Con,t,4626,f,1
+4,1878-09-17,QC,177,MONTREAL EAST,1432,"ARCHAMBEAULT, F.X.",Unknown,166,Unknown,Unknown,f,3234,f,2
+4,1878-09-17,QC,178,MONTREAL WEST,1433,"GAULT, Matthew Hamilton",Conservative,37,Conservative,Con,t,3334,f,1
+4,1878-09-17,QC,178,MONTREAL WEST,1434,"DARLING, Wm.",Unknown,166,Unknown,Unknown,f,1627,f,2
+4,1878-09-17,QC,179,MÉGANTIC,1435,"OLIVIER, Louis-Éphrem",Liberal,75,Liberal,Lib,t,1191,f,1
+4,1878-09-17,QC,179,MÉGANTIC,1436,"TURGEON, Jos E.",Unknown,166,Unknown,Unknown,f,881,f,2
+4,1878-09-17,QC,180,NAPIERVILLE,1437,"COUPAL, dit LA REINE, Sixte",Liberal,75,Liberal,Lib,t,749,f,1
+4,1878-09-17,QC,180,NAPIERVILLE,1438,"BUREAU, J.E.",Unknown,166,Unknown,Unknown,f,617,f,2
+4,1878-09-17,QC,181,NICOLET,1439,"MÉTHOT, François Xavier Ovide",Independent Conservative,56,Independent Conservative,IndCon,f,1759,f,1
+4,1878-09-17,QC,181,NICOLET,1440,"TURCOTTE, G.A.",Liberal,75,Liberal,Lib,t,1018,f,2
+4,1878-09-17,QC,182,OTTAWA (COUNTY OF),1441,"WRIGHT, Alonzo",Liberal-Conservative,124,Progressive Conservative Party,PC,t,3025,f,1
+4,1878-09-17,QC,182,OTTAWA (COUNTY OF),1442,"CAMERON, J.A.",Unknown,166,Unknown,Unknown,f,1385,f,2
+4,1878-09-17,QC,183,PONTIAC,1443,"POUPORE, John",Conservative,37,Conservative,Con,t,1381,f,1
+4,1878-09-17,QC,183,PONTIAC,1444,"MURRAY, Thos.",Unknown,166,Unknown,Unknown,f,1174,f,2
+4,1878-09-17,QC,184,PORTNEUF,1445,"VALLÉE, Roch-Pamphile",Conservative,37,Conservative,Con,t,1605,f,1
+4,1878-09-17,QC,184,PORTNEUF,1446,"ST-GEORGES, Esdras Alfred de",Liberal,75,Liberal,Lib,t,1572,f,2
+4,1878-09-17,QC,185,QUEBEC COUNTY,1447,"CARON, A.P.",Conservative,37,Conservative,Con,t,1702,f,1
+4,1878-09-17,QC,185,QUEBEC COUNTY,1448,"THIBODEAU, J.",Unknown,166,Unknown,Unknown,f,1073,f,2
+4,1878-09-17,QC,186,QUEBEC EAST,1449,"LAURIER, Hon. W.",Liberal,75,Liberal,Lib,t,1946,f,1
+4,1878-09-17,QC,186,QUEBEC EAST,1450,"VALLIÈRES, Phi.",Unknown,166,Unknown,Unknown,f,1168,f,2
+4,1878-09-17,QC,187,QUEBEC WEST,1451,"MCGREEVY, Hon. Thomas",Liberal-Conservative,124,Progressive Conservative Party,PC,t,,t,1
+4,1878-09-17,QC,188,QUEBEC-CENTRE,1452,"MALOUIN, Jacques",Independent,52,Independent,Ind,f,1001,f,1
+4,1878-09-17,QC,188,QUEBEC-CENTRE,1453,"ROSS, J.G.",Unknown,166,Unknown,Unknown,f,782,f,2
+4,1878-09-17,QC,189,RICHELIEU,1454,"MASSUE, Louis Huet",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1227,f,1
+4,1878-09-17,QC,189,RICHELIEU,1455,"BARTHE, G.I.",Independent Conservative,56,Independent Conservative,IndCon,f,1117,f,2
+4,1878-09-17,QC,190,RICHMOND--WOLFE,1456,"IVES, William Bullock",Conservative,37,Conservative,Con,t,1684,f,1
+4,1878-09-17,QC,190,RICHMOND--WOLFE,1457,"AYLMER, Hon. H.",Liberal,75,Liberal,Lib,t,1069,f,2
+4,1878-09-17,QC,191,RIMOUSKI,1458,"FISET, J.B.R.",Liberal,75,Liberal,Lib,t,2003,f,1
+4,1878-09-17,QC,191,RIMOUSKI,1459,"LANGEVIN, Hon. H.L.",Conservative,37,Conservative,Con,t,1554,f,2
+4,1878-09-17,QC,192,ROUVILLE,1460,"GIGAULT, George Auguste",Conservative,37,Conservative,Con,t,1073,f,1
+4,1878-09-17,QC,192,ROUVILLE,1461,"CHEVAL, G.",Liberal,75,Liberal,Lib,t,1038,f,2
+4,1878-09-17,QC,193,SAINT MAURICE,1462,"DÉSAULNIERS, Louis-Léon Lesieur",Conservative,37,Conservative,Con,t,811,f,1
+4,1878-09-17,QC,193,SAINT MAURICE,1463,"REMINGTON, S.J.",Unknown,166,Unknown,Unknown,f,731,f,2
+4,1878-09-17,QC,194,SHEFFORD,1464,"HUNTINGTON, Hon. Lucius Seth",Liberal,75,Liberal,Lib,t,1414,f,1
+4,1878-09-17,QC,194,SHEFFORD,1465,"NICOL, R.",Unknown,166,Unknown,Unknown,f,1186,f,2
+4,1878-09-17,QC,194,SHEFFORD,1466,"AUGER, M.",Unknown,166,Unknown,Unknown,f,272,f,3
+4,1878-09-17,QC,195,SHERBROOKE (TOWN OF),1467,"BROOKS, Edward T.",Conservative,37,Conservative,Con,t,,t,1
+4,1878-09-17,QC,196,SOULANGES,1468,"LANTHIER, Jacques-Philippe",Conservative,37,Conservative,Con,t,852,f,1
+4,1878-09-17,QC,196,SOULANGES,1469,"MASSON, L.H.",Unknown,166,Unknown,Unknown,f,325,f,2
+4,1878-09-17,QC,197,ST. HYACINTHE,1470,"TELLIER, Louis",Conservative,37,Conservative,Con,t,1181,f,1
+4,1878-09-17,QC,197,ST. HYACINTHE,1471,"MERCIER, H.",Unknown,166,Unknown,Unknown,f,1175,f,2
+4,1878-09-17,QC,198,ST. JOHN'S,1472,"BOURASSA, François",Liberal,75,Liberal,Lib,t,780,f,1
+4,1878-09-17,QC,198,ST. JOHN'S,1473,"LOUPRET, Chs.",Unknown,166,Unknown,Unknown,f,583,f,2
+4,1878-09-17,QC,199,STANSTEAD,1474,"COLBY, Charles C.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1492,f,1
+4,1878-09-17,QC,199,STANSTEAD,1475,"JOHNSON, E.R.",Unknown,166,Unknown,Unknown,f,738,f,2
+4,1878-09-17,QC,200,TERREBONNE,1476,"MASSON, Hon. L.F.R.",Conservative,37,Conservative,Con,t,1194,f,1
+4,1878-09-17,QC,200,TERREBONNE,1477,"LONGPRÉ, A.-B.",Unknown,166,Unknown,Unknown,f,181,f,2
+4,1878-09-17,QC,201,THREE RIVERS,1478,"MCDOUGALL, William",Conservative,37,Conservative,Con,t,584,f,1
+4,1878-09-17,QC,201,THREE RIVERS,1479,"MALHIOT, H.G.",Unknown,166,Unknown,Unknown,f,436,f,2
+4,1878-09-17,QC,202,TWO MOUNTAINS,1480,"DAOUST, J.B.",Conservative,37,Conservative,Con,t,797,f,1
+4,1878-09-17,QC,202,TWO MOUNTAINS,1481,"CHAGNON, J.A.",Unknown,166,Unknown,Unknown,f,11,f,2
+4,1878-09-17,QC,203,TÉMISCOUATA,1482,"GRANDBOIS, Paul-Étienne",Conservative,37,Conservative,Con,t,1079,f,1
+4,1878-09-17,QC,203,TÉMISCOUATA,1483,"POULIOT, A.",Unknown,166,Unknown,Unknown,f,952,f,2
+4,1878-09-17,QC,204,VAUDREUIL,1484,"MONGENAIS, Jean Bt.",Conservative,37,Conservative,Con,t,764,f,1
+4,1878-09-17,QC,204,VAUDREUIL,1485,"HARWOOD, Robert",Liberal-Conservative,124,Progressive Conservative Party,PC,t,702,f,2
+4,1878-09-17,QC,205,VERCHÈRES,1486,"GEOFFRION, Hon. Félix",Liberal,75,Liberal,Lib,t,935,f,1
+4,1878-09-17,QC,205,VERCHÈRES,1487,"DUCHARME, M.E.",Unknown,166,Unknown,Unknown,f,880,f,2
+4,1878-09-17,QC,206,YAMASKA,1488,"GILL, Charles",Conservative,37,Conservative,Con,t,1029,f,1
+4,1878-09-17,QC,206,YAMASKA,1489,"GOUIN, F.",Unknown,166,Unknown,Unknown,f,706,f,2

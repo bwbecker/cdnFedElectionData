@@ -1,0 +1,1450 @@
+election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_party_name,party_id,party_name,party_short_name,mainstream,votes,acclaimed,place
+33,1984-09-04,AB,1,ATHABASCA,23035,"SHIELDS, Jack",Progressive Conservative,124,Progressive Conservative Party,PC,t,23997,f,1
+33,1984-09-04,AB,1,ATHABASCA,23036,"DORT--MACLEAN, Ann",New Democratic Party,100,New Democratic Party,NDP,t,6001,f,2
+33,1984-09-04,AB,1,ATHABASCA,23037,"WOODWARD, Mike",Liberal,75,Liberal,Lib,t,4222,f,3
+33,1984-09-04,AB,1,ATHABASCA,23038,"BORGER, Fred W.",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,578,f,4
+33,1984-09-04,AB,1,ATHABASCA,23039,"MICHETTI, Rudolph",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,332,f,5
+33,1984-09-04,AB,2,BOW RIVER,23040,"TAYLOR, Gordon E.",Progressive Conservative,124,Progressive Conservative Party,PC,t,43033,f,1
+33,1984-09-04,AB,2,BOW RIVER,23041,"MCCUTCHEON, William",New Democratic Party,100,New Democratic Party,NDP,t,5258,f,2
+33,1984-09-04,AB,2,BOW RIVER,23042,"TANNER, B.C.",Liberal,75,Liberal,Lib,t,4066,f,3
+33,1984-09-04,AB,2,BOW RIVER,23043,"TAYLOR, Gordon D.",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,2349,f,4
+33,1984-09-04,AB,2,BOW RIVER,23044,"OSEEN, Dean",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,1443,f,5
+33,1984-09-04,AB,2,BOW RIVER,23045,"ERHART, Tom",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,326,f,6
+33,1984-09-04,AB,3,CALGARY CENTRE,23046,"ANDRE, Harvie",Progressive Conservative,124,Progressive Conservative Party,PC,t,24924,f,1
+33,1984-09-04,AB,3,CALGARY CENTRE,23047,"GAINER, Karen",Liberal,75,Liberal,Lib,t,5955,f,2
+33,1984-09-04,AB,3,CALGARY CENTRE,23048,"KEELEY, Susan",New Democratic Party,100,New Democratic Party,NDP,t,5138,f,3
+33,1984-09-04,AB,3,CALGARY CENTRE,23049,"STAPLES, Glen",Green Party of Canada,50,Green Party,Grn,t,761,f,4
+33,1984-09-04,AB,3,CALGARY CENTRE,23050,"FERGUSON, Jean",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,604,f,5
+33,1984-09-04,AB,3,CALGARY CENTRE,23051,"KYRIAKAKIS, Joseph",Libertarian Party of Canada,81,Libertarian Party,Liber,f,180,f,6
+33,1984-09-04,AB,4,CALGARY EAST,23052,"KINDY, Alex",Progressive Conservative,124,Progressive Conservative Party,PC,t,36825,f,1
+33,1984-09-04,AB,4,CALGARY EAST,23053,"SYKES, Rod",Liberal,75,Liberal,Lib,t,14749,f,2
+33,1984-09-04,AB,4,CALGARY EAST,23054,"PASHAK, Barry",New Democratic Party,100,New Democratic Party,NDP,t,8558,f,3
+33,1984-09-04,AB,4,CALGARY EAST,23055,"WERESCHUK, Dave G.",Independent,52,Independent,Ind,f,993,f,4
+33,1984-09-04,AB,4,CALGARY EAST,23056,"GALENZOSKI, Nora",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,658,f,5
+33,1984-09-04,AB,4,CALGARY EAST,23057,"OTHEN, Jim",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,343,f,6
+33,1984-09-04,AB,4,CALGARY EAST,23058,"KOLLINGER, Wayne",Libertarian Party of Canada,81,Libertarian Party,Liber,f,324,f,7
+33,1984-09-04,AB,4,CALGARY EAST,23059,"POTTER, Bruce",Communist Party of Canada,31,Communist Party,Com,f,122,f,8
+33,1984-09-04,AB,5,CALGARY NORTH,23060,"GAGNON, Paul",Progressive Conservative,124,Progressive Conservative Party,PC,t,39207,f,1
+33,1984-09-04,AB,5,CALGARY NORTH,23061,"APPLETON, Pam",New Democratic Party,100,New Democratic Party,NDP,t,7027,f,2
+33,1984-09-04,AB,5,CALGARY NORTH,23062,"RAYMAKER, Darryl",Liberal,75,Liberal,Lib,t,6864,f,3
+33,1984-09-04,AB,5,CALGARY NORTH,23063,"HOPE, Peter E.",Independent,52,Independent,Ind,f,765,f,4
+33,1984-09-04,AB,6,CALGARY SOUTH,23064,"Sparrow, Bobbie",Progressive Conservative,124,Progressive Conservative Party,PC,t,55590,f,1
+33,1984-09-04,AB,6,CALGARY SOUTH,23066,"MILLICAN, Harold",Liberal,75,Liberal,Lib,t,7827,f,2
+33,1984-09-04,AB,6,CALGARY SOUTH,23065,"QUIGLEY, Brendan",New Democratic Party,100,New Democratic Party,NDP,t,6135,f,3
+33,1984-09-04,AB,6,CALGARY SOUTH,23067,"KOBLEY, Phyllis",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,866,f,4
+33,1984-09-04,AB,6,CALGARY SOUTH,23068,"HEATHER, Larry",Independent,52,Independent,Ind,f,800,f,5
+33,1984-09-04,AB,6,CALGARY SOUTH,23069,"BOHDAN, Bill",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,136,f,6
+33,1984-09-04,AB,7,CALGARY WEST,23070,"HAWKES, Jim",Progressive Conservative,124,Progressive Conservative Party,PC,t,37565,f,1
+33,1984-09-04,AB,7,CALGARY WEST,23071,"CODE, Bill",Liberal,75,Liberal,Lib,t,5749,f,2
+33,1984-09-04,AB,7,CALGARY WEST,23072,"SMITH, Ed",New Democratic Party,100,New Democratic Party,NDP,t,5409,f,3
+33,1984-09-04,AB,7,CALGARY WEST,23073,"MCDONALD, Martin--John",Green Party of Canada,50,Green Party,Grn,t,605,f,4
+33,1984-09-04,AB,7,CALGARY WEST,23074,"GINN, Cliff",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,523,f,5
+33,1984-09-04,AB,7,CALGARY WEST,23075,"CERI, Frank",Libertarian Party of Canada,81,Libertarian Party,Liber,f,233,f,6
+33,1984-09-04,AB,7,CALGARY WEST,23076,"WILLIAMS, Doug",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,201,f,7
+33,1984-09-04,AB,8,CROWFOOT,23077,"MALONE, Arnold",Progressive Conservative,124,Progressive Conservative Party,PC,t,26291,f,1
+33,1984-09-04,AB,8,CROWFOOT,23078,"CREASY, L. Gladys",New Democratic Party,100,New Democratic Party,NDP,t,3153,f,2
+33,1984-09-04,AB,8,CROWFOOT,23079,"MACNAUGHTON, Vange",Liberal,75,Liberal,Lib,t,2483,f,3
+33,1984-09-04,AB,8,CROWFOOT,23080,"DOMANSKI, Joe",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,1559,f,4
+33,1984-09-04,AB,8,CROWFOOT,23081,"ROBINSON, Arthur E.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,294,f,5
+33,1984-09-04,AB,9,EDMONTON EAST,23082,"LESICK, Bill",Progressive Conservative,124,Progressive Conservative Party,PC,t,16119,f,1
+33,1984-09-04,AB,9,EDMONTON EAST,23083,"STANLEY--VENNE, Muriel",New Democratic Party,100,New Democratic Party,NDP,t,7668,f,2
+33,1984-09-04,AB,9,EDMONTON EAST,23084,"IAFOLLA, Al",Liberal,75,Liberal,Lib,t,6002,f,3
+33,1984-09-04,AB,9,EDMONTON EAST,23085,"YURKO, Bill",Independent,52,Independent,Ind,f,2857,f,4
+33,1984-09-04,AB,9,EDMONTON EAST,23086,"MAJOR, Clifford",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,241,f,5
+33,1984-09-04,AB,9,EDMONTON EAST,23087,"SILVESTER, Reg",Green Party of Canada,50,Green Party,Grn,t,233,f,6
+33,1984-09-04,AB,9,EDMONTON EAST,23088,"WALLIS, David",Communist Party of Canada,31,Communist Party,Com,f,128,f,7
+33,1984-09-04,AB,10,EDMONTON NORTH,23089,"PAPROSKI, Steve",Progressive Conservative,124,Progressive Conservative Party,PC,t,29074,f,1
+33,1984-09-04,AB,10,EDMONTON NORTH,23090,"STEVENSON, Garth",New Democratic Party,100,New Democratic Party,NDP,t,12305,f,2
+33,1984-09-04,AB,10,EDMONTON NORTH,23091,"STEWART, Dave",Liberal,75,Liberal,Lib,t,8311,f,3
+33,1984-09-04,AB,10,EDMONTON NORTH,23092,"DRAGINDA, Dave",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,520,f,4
+33,1984-09-04,AB,10,EDMONTON NORTH,23093,"CERMINARA, Frank",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,345,f,5
+33,1984-09-04,AB,10,EDMONTON NORTH,23094,"Rankin, Naomi",Communist Party of Canada,31,Communist Party,Com,f,194,f,6
+33,1984-09-04,AB,11,EDMONTON SOUTH,23095,"Edwards, Jim",Progressive Conservative,124,Progressive Conservative Party,PC,t,32510,f,1
+33,1984-09-04,AB,11,EDMONTON SOUTH,23096,"MIAZGA, Joanna L.H.",New Democratic Party,100,New Democratic Party,NDP,t,9407,f,2
+33,1984-09-04,AB,11,EDMONTON SOUTH,23097,"MUNRO, Ken",Liberal,75,Liberal,Lib,t,8259,f,3
+33,1984-09-04,AB,11,EDMONTON SOUTH,23098,"GUIDERA, Erika",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,579,f,4
+33,1984-09-04,AB,11,EDMONTON SOUTH,23099,"HUBER, David W.",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,536,f,5
+33,1984-09-04,AB,11,EDMONTON SOUTH,23100,"GARFINKLE, Harry",Green Party of Canada,50,Green Party,Grn,t,503,f,6
+33,1984-09-04,AB,11,EDMONTON SOUTH,23101,"MUELLER, Reinhard G.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,252,f,7
+33,1984-09-04,AB,12,EDMONTON WEST,23102,"DORIN, Murray",Progressive Conservative,124,Progressive Conservative Party,PC,t,25764,f,1
+33,1984-09-04,AB,12,EDMONTON WEST,23103,"MACDONALD, Mike",Liberal,75,Liberal,Lib,t,9673,f,2
+33,1984-09-04,AB,12,EDMONTON WEST,23104,"MOROZ, Michael",New Democratic Party,100,New Democratic Party,NDP,t,7339,f,3
+33,1984-09-04,AB,12,EDMONTON WEST,23105,"RICHARDSON, Kenneth",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,697,f,4
+33,1984-09-04,AB,12,EDMONTON WEST,23106,"YANDA, Chris",Green Party of Canada,50,Green Party,Grn,t,326,f,5
+33,1984-09-04,AB,13,EDMONTON--STRATHCONA,23107,"KILGOUR, David",Progressive Conservative,124,Progressive Conservative Party,PC,t,33712,f,1
+33,1984-09-04,AB,13,EDMONTON--STRATHCONA,23108,"BURGHARDT, Doris S.",New Democratic Party,100,New Democratic Party,NDP,t,11095,f,2
+33,1984-09-04,AB,13,EDMONTON--STRATHCONA,23109,"DOUGLAS--TUBB, Sandra",Liberal,75,Liberal,Lib,t,8500,f,3
+33,1984-09-04,AB,13,EDMONTON--STRATHCONA,23110,"CASS, Lorne",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,749,f,4
+33,1984-09-04,AB,13,EDMONTON--STRATHCONA,23111,"MULVEY, Russell John",Green Party of Canada,50,Green Party,Grn,t,466,f,5
+33,1984-09-04,AB,13,EDMONTON--STRATHCONA,23112,"UTZ, Norman",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,218,f,6
+33,1984-09-04,AB,13,EDMONTON--STRATHCONA,23113,"MCGRATH, Anne",Communist Party of Canada,31,Communist Party,Com,f,137,f,7
+33,1984-09-04,AB,14,LETHBRIDGE--FOOTHILLS,23114,"THACKER, Blaine",Progressive Conservative,124,Progressive Conservative Party,PC,t,31316,f,1
+33,1984-09-04,AB,14,LETHBRIDGE--FOOTHILLS,23115,"CREDICO, Connie",New Democratic Party,100,New Democratic Party,NDP,t,6822,f,2
+33,1984-09-04,AB,14,LETHBRIDGE--FOOTHILLS,23116,"WARD, Shaun",Liberal,75,Liberal,Lib,t,5315,f,3
+33,1984-09-04,AB,14,LETHBRIDGE--FOOTHILLS,23117,"PINCHAK, Steven V.",No affiliation to a recognised party,52,Independent,Ind,f,2145,f,4
+33,1984-09-04,AB,14,LETHBRIDGE--FOOTHILLS,23118,"START, Rod W.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,456,f,5
+33,1984-09-04,AB,14,LETHBRIDGE--FOOTHILLS,23119,"BARANOSKY, Cyril",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,426,f,6
+33,1984-09-04,AB,15,MEDICINE HAT,23120,"PORTER, Bob",Progressive Conservative,124,Progressive Conservative Party,PC,t,33978,f,1
+33,1984-09-04,AB,15,MEDICINE HAT,23121,"REGEHR, Wally",New Democratic Party,100,New Democratic Party,NDP,t,4652,f,2
+33,1984-09-04,AB,15,MEDICINE HAT,23122,"HANSEN, Peter",Liberal,75,Liberal,Lib,t,4025,f,3
+33,1984-09-04,AB,15,MEDICINE HAT,23123,"MCARTHUR, Peter",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,1427,f,4
+33,1984-09-04,AB,15,MEDICINE HAT,23124,"HOPKINS, Jack",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,772,f,5
+33,1984-09-04,AB,16,PEACE RIVER,23125,"COOPER, Albert",Progressive Conservative,124,Progressive Conservative Party,PC,t,25648,f,1
+33,1984-09-04,AB,16,PEACE RIVER,23126,"DEIMENT, Elroy",New Democratic Party,100,New Democratic Party,NDP,t,6333,f,2
+33,1984-09-04,AB,16,PEACE RIVER,23127,"MARCEAU, Richard",Liberal,75,Liberal,Lib,t,5419,f,3
+33,1984-09-04,AB,16,PEACE RIVER,23128,"KRAUSE, Ted",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,2877,f,4
+33,1984-09-04,AB,16,PEACE RIVER,23129,"LORING, Marion",Green Party of Canada,50,Green Party,Grn,t,578,f,5
+33,1984-09-04,AB,16,PEACE RIVER,23130,"SWEIGARD, Rob",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,354,f,6
+33,1984-09-04,AB,17,PEMBINA,23131,"ELZINGA, Peter",Progressive Conservative,124,Progressive Conservative Party,PC,t,44026,f,1
+33,1984-09-04,AB,17,PEMBINA,23132,"DARUDA, Greg",New Democratic Party,100,New Democratic Party,NDP,t,9792,f,2
+33,1984-09-04,AB,17,PEMBINA,23133,"RUSSELL, Bob",Liberal,75,Liberal,Lib,t,7228,f,3
+33,1984-09-04,AB,17,PEMBINA,23134,"HAUCH, Adam",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,1215,f,4
+33,1984-09-04,AB,17,PEMBINA,23135,"ST. DENIS, Laurent A.",Communist Party of Canada,31,Communist Party,Com,f,127,f,5
+33,1984-09-04,AB,18,RED DEER,23136,"TOWERS, Gordon",Progressive Conservative,124,Progressive Conservative Party,PC,t,41695,f,1
+33,1984-09-04,AB,18,RED DEER,23137,"LACOMBE, Clarence",New Democratic Party,100,New Democratic Party,NDP,t,5201,f,2
+33,1984-09-04,AB,18,RED DEER,23138,"MOFFAT, Dennis",Liberal,75,Liberal,Lib,t,5195,f,3
+33,1984-09-04,AB,18,RED DEER,23139,"LANGRICK, Roger",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,2494,f,4
+33,1984-09-04,AB,18,RED DEER,23140,"KEEGSTRA, Jim",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,691,f,5
+33,1984-09-04,AB,19,VEGREVILLE,23141,"MAZANKOWSKI, Don",Progressive Conservative,124,Progressive Conservative Party,PC,t,32480,f,1
+33,1984-09-04,AB,19,VEGREVILLE,23142,"OLEKSIUK, George",New Democratic Party,100,New Democratic Party,NDP,t,3793,f,2
+33,1984-09-04,AB,19,VEGREVILLE,23143,"FORCIER, Evangéline",Liberal,75,Liberal,Lib,t,2775,f,3
+33,1984-09-04,AB,19,VEGREVILLE,23144,"SCHLAMP, Lawrence",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,537,f,4
+33,1984-09-04,AB,19,VEGREVILLE,23145,"KOSTIUK, Steve",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,372,f,5
+33,1984-09-04,AB,19,VEGREVILLE,23146,"BRUSO, Bobby",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,347,f,6
+33,1984-09-04,AB,19,VEGREVILLE,23147,"FIRTH, Tim",Communist Party of Canada,31,Communist Party,Com,f,194,f,7
+33,1984-09-04,AB,20,WETASKIWIN,23148,"SCHELLENBERGER, Stan",Progressive Conservative,124,Progressive Conservative Party,PC,t,30128,f,1
+33,1984-09-04,AB,20,WETASKIWIN,23149,"MJOLSNESS, Judy",New Democratic Party,100,New Democratic Party,NDP,t,5596,f,2
+33,1984-09-04,AB,20,WETASKIWIN,23150,"BUFFALO, Mel Harrison",Liberal,75,Liberal,Lib,t,3231,f,3
+33,1984-09-04,AB,20,WETASKIWIN,23151,"MATHESON, Bob",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,3063,f,4
+33,1984-09-04,AB,20,WETASKIWIN,23152,"GREEN, Jim",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,456,f,5
+33,1984-09-04,AB,21,YELLOWHEAD,23153,"CLARK, Joe",Progressive Conservative,124,Progressive Conservative Party,PC,t,37462,f,1
+33,1984-09-04,AB,21,YELLOWHEAD,23154,"HARDY, Rick",New Democratic Party,100,New Democratic Party,NDP,t,6906,f,2
+33,1984-09-04,AB,21,YELLOWHEAD,23155,"JOY, Louis H.",Liberal,75,Liberal,Lib,t,4097,f,3
+33,1984-09-04,AB,21,YELLOWHEAD,23156,"SNOW, G.R.",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,829,f,4
+33,1984-09-04,AB,21,YELLOWHEAD,23157,"BUSH, Douglas Alan",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,773,f,5
+33,1984-09-04,AB,21,YELLOWHEAD,23158,"SWEIGARD, Audrey",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,553,f,6
+33,1984-09-04,BC,22,BURNABY,23159,"Robinson, Svend J.",New Democratic Party,100,New Democratic Party,NDP,t,28318,f,1
+33,1984-09-04,BC,22,BURNABY,23160,"Langas, Bill",Progressive Conservative,124,Progressive Conservative Party,PC,t,20697,f,2
+33,1984-09-04,BC,22,BURNABY,23161,"Hillman, Mike",Liberal,75,Liberal,Lib,t,9612,f,3
+33,1984-09-04,BC,22,BURNABY,23162,"Longley, Blair T.",Green Party of Canada,50,Green Party,Grn,t,364,f,4
+33,1984-09-04,BC,23,CAPILANO,23163,"collins, Mary",Progressive Conservative,124,Progressive Conservative Party,PC,t,28616,f,1
+33,1984-09-04,BC,23,CAPILANO,23168,"Brousson, David",Liberal,75,Liberal,Lib,t,13575,f,2
+33,1984-09-04,BC,23,CAPILANO,23164,"Whaley, Larry",New Democratic Party,100,New Democratic Party,NDP,t,6310,f,3
+33,1984-09-04,BC,23,CAPILANO,23165,"Thomas, Wally",Green Party of Canada,50,Green Party,Grn,t,747,f,4
+33,1984-09-04,BC,23,CAPILANO,23166,"Wall, Barrie",Independent,52,Independent,Ind,f,653,f,5
+33,1984-09-04,BC,23,CAPILANO,23167,"Schaller, Richard the Troll",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,603,f,6
+33,1984-09-04,BC,23,CAPILANO,23169,"Tomlinson, Bill",Libertarian Party of Canada,81,Libertarian Party,Liber,f,190,f,7
+33,1984-09-04,BC,24,CARIBOO--CHILCOTIN,23170,"Greenaway, Lorne",Progressive Conservative,124,Progressive Conservative Party,PC,t,20553,f,1
+33,1984-09-04,BC,24,CARIBOO--CHILCOTIN,23171,"Slater, Christine",New Democratic Party,100,New Democratic Party,NDP,t,11544,f,2
+33,1984-09-04,BC,24,CARIBOO--CHILCOTIN,23172,"Angus, Mark",Liberal,75,Liberal,Lib,t,4881,f,3
+33,1984-09-04,BC,24,CARIBOO--CHILCOTIN,23173,"Enquist, Lisa",Green Party of Canada,50,Green Party,Grn,t,392,f,4
+33,1984-09-04,BC,24,CARIBOO--CHILCOTIN,23174,"Janzen, George H.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,335,f,5
+33,1984-09-04,BC,25,COMOX--POWELL RIVER,23175,"SKELLY, Raymond",New Democratic Party,100,New Democratic Party,NDP,t,27288,f,1
+33,1984-09-04,BC,25,COMOX--POWELL RIVER,23176,"Hicks, Mike",Progressive Conservative,124,Progressive Conservative Party,PC,t,26566,f,2
+33,1984-09-04,BC,25,COMOX--POWELL RIVER,23177,"Nesbitt, Wayne",Liberal,75,Liberal,Lib,t,5790,f,3
+33,1984-09-04,BC,25,COMOX--POWELL RIVER,23178,"White, Wayne D.",Green Party of Canada,50,Green Party,Grn,t,505,f,4
+33,1984-09-04,BC,25,COMOX--POWELL RIVER,23179,"Griffiths, Allan W.",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,452,f,5
+33,1984-09-04,BC,25,COMOX--POWELL RIVER,23180,"Higgin, Rob",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,357,f,6
+33,1984-09-04,BC,25,COMOX--POWELL RIVER,23181,"Pederson, Sy",Communist Party of Canada,31,Communist Party,Com,f,215,f,7
+33,1984-09-04,BC,26,COWICHAN--MALAHAT--THE ISLANDS,23182,"Manly, Jim",New Democratic Party,100,New Democratic Party,NDP,t,24555,f,1
+33,1984-09-04,BC,26,COWICHAN--MALAHAT--THE ISLANDS,23184,"Taylor, Don L.",Progressive Conservative,124,Progressive Conservative Party,PC,t,22964,f,2
+33,1984-09-04,BC,26,COWICHAN--MALAHAT--THE ISLANDS,23185,"Coleman, Michael G.",Liberal,75,Liberal,Lib,t,5899,f,3
+33,1984-09-04,BC,26,COWICHAN--MALAHAT--THE ISLANDS,23186,"Armstrong, Lindsay",Green Party of Canada,50,Green Party,Grn,t,387,f,4
+33,1984-09-04,BC,26,COWICHAN--MALAHAT--THE ISLANDS,23187,"Taylor, James",Libertarian Party of Canada,81,Libertarian Party,Liber,f,313,f,5
+33,1984-09-04,BC,26,COWICHAN--MALAHAT--THE ISLANDS,23183,"Snell, R.L.",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,257,f,6
+33,1984-09-04,BC,26,COWICHAN--MALAHAT--THE ISLANDS,23188,"Currie, John",Independent,52,Independent,Ind,f,62,f,7
+33,1984-09-04,BC,26,COWICHAN--MALAHAT--THE ISLANDS,23189,"Jackson, Ronald W.",Independent,52,Independent,Ind,f,61,f,8
+33,1984-09-04,BC,27,ESQUIMALT--SAANICH,23190,"Crofton, Patrick",Progressive Conservative,124,Progressive Conservative Party,PC,t,31766,f,1
+33,1984-09-04,BC,27,ESQUIMALT--SAANICH,23197,"Cameron, Bob",New Democratic Party,100,New Democratic Party,NDP,t,23094,f,2
+33,1984-09-04,BC,27,ESQUIMALT--SAANICH,23191,"Kristianson, Gerry",Liberal,75,Liberal,Lib,t,9516,f,3
+33,1984-09-04,BC,27,ESQUIMALT--SAANICH,23192,"Montgomery, Peter",Green Party of Canada,50,Green Party,Grn,t,547,f,4
+33,1984-09-04,BC,27,ESQUIMALT--SAANICH,23193,"Baker, Robert C.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,306,f,5
+33,1984-09-04,BC,27,ESQUIMALT--SAANICH,23194,"Paterson, Pat",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,304,f,6
+33,1984-09-04,BC,27,ESQUIMALT--SAANICH,23195,"Nilsen, Kjell",Libertarian Party of Canada,81,Libertarian Party,Liber,f,163,f,7
+33,1984-09-04,BC,27,ESQUIMALT--SAANICH,23196,"Knott, Ernie",Communist Party of Canada,31,Communist Party,Com,f,94,f,8
+33,1984-09-04,BC,28,FRASER VALLEY EAST,23198,"Belsher, Ross",Progressive Conservative,124,Progressive Conservative Party,PC,t,32073,f,1
+33,1984-09-04,BC,28,FRASER VALLEY EAST,23200,"Menzies, David C.",New Democratic Party,100,New Democratic Party,NDP,t,12779,f,2
+33,1984-09-04,BC,28,FRASER VALLEY EAST,23199,"Vollebregt, John H.",Liberal,75,Liberal,Lib,t,7942,f,3
+33,1984-09-04,BC,28,FRASER VALLEY EAST,23201,"Marsden, J. Wayne",Libertarian Party of Canada,81,Libertarian Party,Liber,f,735,f,4
+33,1984-09-04,BC,29,FRASER VALLEY WEST,23202,"Wenman, Robert Lloyd",Progressive Conservative,124,Progressive Conservative Party,PC,t,35984,f,1
+33,1984-09-04,BC,29,FRASER VALLEY WEST,23203,"Leclair, Joe",New Democratic Party,100,New Democratic Party,NDP,t,19878,f,2
+33,1984-09-04,BC,29,FRASER VALLEY WEST,23204,"McKinnon, Don",Liberal,75,Liberal,Lib,t,8349,f,3
+33,1984-09-04,BC,29,FRASER VALLEY WEST,23205,"Slick, Earl",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,474,f,4
+33,1984-09-04,BC,29,FRASER VALLEY WEST,23206,"MacDonald, Martin",Libertarian Party of Canada,81,Libertarian Party,Liber,f,420,f,5
+33,1984-09-04,BC,29,FRASER VALLEY WEST,23209,"Hurd, Allan",Green Party of Canada,50,Green Party,Grn,t,277,f,6
+33,1984-09-04,BC,29,FRASER VALLEY WEST,23207,"Smith, Lenard M.",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,180,f,7
+33,1984-09-04,BC,29,FRASER VALLEY WEST,23208,"Swann, Viola M.",Communist Party of Canada,31,Communist Party,Com,f,103,f,8
+33,1984-09-04,BC,29,FRASER VALLEY WEST,23210,"Knight, Donald I.",No affiliation to a recognised party,52,Independent,Ind,f,94,f,9
+33,1984-09-04,BC,30,KAMLOOPS--SHUSWAP,23211,"Riis, Nelson A.",New Democratic Party,100,New Democratic Party,NDP,t,30512,f,1
+33,1984-09-04,BC,30,KAMLOOPS--SHUSWAP,23212,"Latta, Robert Michael",Progressive Conservative,124,Progressive Conservative Party,PC,t,20500,f,2
+33,1984-09-04,BC,30,KAMLOOPS--SHUSWAP,23213,"Wallace, Patricia Anne",Liberal,75,Liberal,Lib,t,4675,f,3
+33,1984-09-04,BC,30,KAMLOOPS--SHUSWAP,23214,"Purych, A. Dean",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,353,f,4
+33,1984-09-04,BC,30,KAMLOOPS--SHUSWAP,23215,"Harris, Connie",Green Party of Canada,50,Green Party,Grn,t,216,f,5
+33,1984-09-04,BC,30,KAMLOOPS--SHUSWAP,23216,"Houghton, E. Neville",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,102,f,6
+33,1984-09-04,BC,30,KAMLOOPS--SHUSWAP,23217,"Mikulin, Leon",Independent,52,Independent,Ind,f,65,f,7
+33,1984-09-04,BC,31,KOOTENAY EAST--REVELSTOKE,23218,"GRAHAM, Stan",Progressive Conservative,124,Progressive Conservative Party,PC,t,18129,f,1
+33,1984-09-04,BC,31,KOOTENAY EAST--REVELSTOKE,23219,"PARKER, Sid",New Democratic Party,100,New Democratic Party,NDP,t,15908,f,2
+33,1984-09-04,BC,31,KOOTENAY EAST--REVELSTOKE,23220,"FONGER, Richard",Liberal,75,Liberal,Lib,t,4477,f,3
+33,1984-09-04,BC,31,KOOTENAY EAST--REVELSTOKE,23221,"GILDEA, David R.",Independent,52,Independent,Ind,f,479,f,4
+33,1984-09-04,BC,32,KOOTENAY WEST,23222,"Brisco, Bob",Progressive Conservative,124,Progressive Conservative Party,PC,t,15804,f,1
+33,1984-09-04,BC,32,KOOTENAY WEST,23223,"KRISTIANSEN, Lyle",New Democratic Party,100,New Democratic Party,NDP,t,15060,f,2
+33,1984-09-04,BC,32,KOOTENAY WEST,23224,"TURNBULL, Jean",Liberal,75,Liberal,Lib,t,2460,f,3
+33,1984-09-04,BC,33,MISSION--PORT MOODY,23225,"ST. GERMAIN, Gerry",Progressive Conservative,124,Progressive Conservative Party,PC,t,30678,f,1
+33,1984-09-04,BC,33,MISSION--PORT MOODY,23226,"BEARDSLEY, Tom",New Democratic Party,100,New Democratic Party,NDP,t,25925,f,2
+33,1984-09-04,BC,33,MISSION--PORT MOODY,23227,"CABOTT, Mae",Liberal,75,Liberal,Lib,t,7071,f,3
+33,1984-09-04,BC,33,MISSION--PORT MOODY,23228,"HENNICK, Richard",Green Party of Canada,50,Green Party,Grn,t,540,f,4
+33,1984-09-04,BC,33,MISSION--PORT MOODY,23229,"BROWN, Peggy",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,327,f,5
+33,1984-09-04,BC,34,NANAIMO--ALBERNI,23230,"SCHELLENBERG, Ted",Progressive Conservative,124,Progressive Conservative Party,PC,t,27410,f,1
+33,1984-09-04,BC,34,NANAIMO--ALBERNI,23231,"MILLER, Ted",New Democratic Party,100,New Democratic Party,NDP,t,25659,f,2
+33,1984-09-04,BC,34,NANAIMO--ALBERNI,23232,"MARTIN, Joe",Liberal,75,Liberal,Lib,t,5922,f,3
+33,1984-09-04,BC,34,NANAIMO--ALBERNI,23233,"FLETCHER, Aileen",Green Party of Canada,50,Green Party,Grn,t,529,f,4
+33,1984-09-04,BC,34,NANAIMO--ALBERNI,23234,"MOSHER, Mark F.",Communist Party of Canada,31,Communist Party,Com,f,231,f,5
+33,1984-09-04,BC,34,NANAIMO--ALBERNI,23235,"LESOSKY, Louis J.",No affiliation to a recognised party,52,Independent,Ind,f,83,f,6
+33,1984-09-04,BC,35,NEW WESTMINSTER--COQUITLAM,23236,"JEWETT, Pauline",New Democratic Party,100,New Democratic Party,NDP,t,21134,f,1
+33,1984-09-04,BC,35,NEW WESTMINSTER--COQUITLAM,23237,"GRANT, Bill",Progressive Conservative,124,Progressive Conservative Party,PC,t,18291,f,2
+33,1984-09-04,BC,35,NEW WESTMINSTER--COQUITLAM,23238,"JULIAN, Terry",Liberal,75,Liberal,Lib,t,5816,f,3
+33,1984-09-04,BC,35,NEW WESTMINSTER--COQUITLAM,23239,"CRAWLEY, Keath Bur-head",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,395,f,4
+33,1984-09-04,BC,35,NEW WESTMINSTER--COQUITLAM,23240,"DORAN, Rod",Communist Party of Canada,31,Communist Party,Com,f,133,f,5
+33,1984-09-04,BC,36,NORTH VANCOUVER--BURNABY,23241,"Cook, Chuck",Progressive Conservative,124,Progressive Conservative Party,PC,t,21750,f,1
+33,1984-09-04,BC,36,NORTH VANCOUVER--BURNABY,23242,"Campagnolo, Iona",Liberal,75,Liberal,Lib,t,14321,f,2
+33,1984-09-04,BC,36,NORTH VANCOUVER--BURNABY,23243,"Schreck, David D.",New Democratic Party,100,New Democratic Party,NDP,t,12812,f,3
+33,1984-09-04,BC,36,NORTH VANCOUVER--BURNABY,23244,"Marsh, Phil Swamp Man",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,383,f,4
+33,1984-09-04,BC,36,NORTH VANCOUVER--BURNABY,23245,"Nickerson, Betty",Green Party of Canada,50,Green Party,Grn,t,217,f,5
+33,1984-09-04,BC,36,NORTH VANCOUVER--BURNABY,23246,"Clarke, John",Libertarian Party of Canada,81,Libertarian Party,Liber,f,174,f,6
+33,1984-09-04,BC,36,NORTH VANCOUVER--BURNABY,23247,"Walters, Reg",Communist Party of Canada,31,Communist Party,Com,f,89,f,7
+33,1984-09-04,BC,36,NORTH VANCOUVER--BURNABY,23248,"Beyer, Heinz",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,60,f,8
+33,1984-09-04,BC,36,NORTH VANCOUVER--BURNABY,23249,"Ritchie, Albert A.",Independent,52,Independent,Ind,f,48,f,9
+33,1984-09-04,BC,37,OKANAGAN NORTH,23250,"Dantzer, Vincent M.",Progressive Conservative,124,Progressive Conservative Party,PC,t,35904,f,1
+33,1984-09-04,BC,37,OKANAGAN NORTH,23251,"Robinson, Eileen",New Democratic Party,100,New Democratic Party,NDP,t,17168,f,2
+33,1984-09-04,BC,37,OKANAGAN NORTH,23252,"Willson, Peta J.",Liberal,75,Liberal,Lib,t,9935,f,3
+33,1984-09-04,BC,37,OKANAGAN NORTH,23253,"Bissett, Ben S.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1025,f,4
+33,1984-09-04,BC,38,OKANAGAN--SIMILKAMEEN,23254,"KING, Fred",Progressive Conservative,124,Progressive Conservative Party,PC,t,27071,f,1
+33,1984-09-04,BC,38,OKANAGAN--SIMILKAMEEN,23255,"MERRY,  Peter J.",New Democratic Party,100,New Democratic Party,NDP,t,15181,f,2
+33,1984-09-04,BC,38,OKANAGAN--SIMILKAMEEN,23256,"RUTHERFORD, Wilson",Liberal,75,Liberal,Lib,t,8106,f,3
+33,1984-09-04,BC,38,OKANAGAN--SIMILKAMEEN,23257,"DAVIDSON, Sam",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,672,f,4
+33,1984-09-04,BC,38,OKANAGAN--SIMILKAMEEN,23258,"DOMER, Russ",Green Party of Canada,50,Green Party,Grn,t,417,f,5
+33,1984-09-04,BC,38,OKANAGAN--SIMILKAMEEN,23259,"HAMERSLEY, Bob",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,402,f,6
+33,1984-09-04,BC,39,PRINCE GEORGE--BULKLEY VALLEY,23260,"MCCUISH, Lorne",Progressive Conservative,124,Progressive Conservative Party,PC,t,18897,f,1
+33,1984-09-04,BC,39,PRINCE GEORGE--BULKLEY VALLEY,23261,"GARDINER, Brian",New Democratic Party,100,New Democratic Party,NDP,t,13274,f,2
+33,1984-09-04,BC,39,PRINCE GEORGE--BULKLEY VALLEY,23262,"O'BEIRNE, Noel Patrick",Liberal,75,Liberal,Lib,t,5121,f,3
+33,1984-09-04,BC,39,PRINCE GEORGE--BULKLEY VALLEY,23263,"GOOD, Ron",Libertarian Party of Canada,81,Libertarian Party,Liber,f,478,f,4
+33,1984-09-04,BC,39,PRINCE GEORGE--BULKLEY VALLEY,23264,"VAN  DRIMMELEN, Ben The Newt",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,401,f,5
+33,1984-09-04,BC,39,PRINCE GEORGE--BULKLEY VALLEY,23265,"SWANSON, James L.",Independent,52,Independent,Ind,f,168,f,6
+33,1984-09-04,BC,40,PRINCE GEORGE--PEACE RIVER,23266,"OBERLE, Frank",Progressive Conservative,124,Progressive Conservative Party,PC,t,21154,f,1
+33,1984-09-04,BC,40,PRINCE GEORGE--PEACE RIVER,23267,"BEST, Jim",New Democratic Party,100,New Democratic Party,NDP,t,8168,f,2
+33,1984-09-04,BC,40,PRINCE GEORGE--PEACE RIVER,23268,"BOUEY, Paul",Liberal,75,Liberal,Lib,t,3368,f,3
+33,1984-09-04,BC,40,PRINCE GEORGE--PEACE RIVER,23269,"EKERING, J. Paul",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,385,f,4
+33,1984-09-04,BC,40,PRINCE GEORGE--PEACE RIVER,23270,"LAWRENCE, Richard J.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,342,f,5
+33,1984-09-04,BC,40,PRINCE GEORGE--PEACE RIVER,23271,"LIGHT, John F.",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,335,f,6
+33,1984-09-04,BC,40,PRINCE GEORGE--PEACE RIVER,23272,"SCHNEIDER, Sid",Libertarian Party of Canada,81,Libertarian Party,Liber,f,127,f,7
+33,1984-09-04,BC,41,RICHMOND--SOUTH DELTA,23273,"SIDDON, Tom",Progressive Conservative,124,Progressive Conservative Party,PC,t,38168,f,1
+33,1984-09-04,BC,41,RICHMOND--SOUTH DELTA,23274,"DICKSON, Ron",New Democratic Party,100,New Democratic Party,NDP,t,16377,f,2
+33,1984-09-04,BC,41,RICHMOND--SOUTH DELTA,23275,"DRENNAN, Rod",Liberal,75,Liberal,Lib,t,13340,f,3
+33,1984-09-04,BC,41,RICHMOND--SOUTH DELTA,23276,"STEVENS, Geraldine",Green Party of Canada,50,Green Party,Grn,t,433,f,4
+33,1984-09-04,BC,41,RICHMOND--SOUTH DELTA,23277,"GRAF, Ursula",Independent,52,Independent,Ind,f,301,f,5
+33,1984-09-04,BC,41,RICHMOND--SOUTH DELTA,23278,"SINCLAIRE, Rob",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,273,f,6
+33,1984-09-04,BC,42,SKEENA,23279,"FULTON, Jim",New Democratic Party,100,New Democratic Party,NDP,t,14174,f,1
+33,1984-09-04,BC,42,SKEENA,23280,"WEEBER, Pete",Progressive Conservative,124,Progressive Conservative Party,PC,t,11209,f,2
+33,1984-09-04,BC,42,SKEENA,23281,"DERRICK, Elmer",Liberal,75,Liberal,Lib,t,5130,f,3
+33,1984-09-04,BC,42,SKEENA,23282,"CRAIG, Douglas Boss Hogg",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,443,f,4
+33,1984-09-04,BC,43,SURREY--WHITE ROCK--NORTH DELTA,23283,"FRIESEN, Benno",Progressive Conservative,124,Progressive Conservative Party,PC,t,39544,f,1
+33,1984-09-04,BC,43,SURREY--WHITE ROCK--NORTH DELTA,23284,"VILLENEUVE, Mike",New Democratic Party,100,New Democratic Party,NDP,t,22555,f,2
+33,1984-09-04,BC,43,SURREY--WHITE ROCK--NORTH DELTA,23285,"MASI, Reni",Liberal,75,Liberal,Lib,t,10747,f,3
+33,1984-09-04,BC,43,SURREY--WHITE ROCK--NORTH DELTA,23286,"ZULINIAK, Monty",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,481,f,4
+33,1984-09-04,BC,43,SURREY--WHITE ROCK--NORTH DELTA,23287,"HARTL, Dietmar",Green Party of Canada,50,Green Party,Grn,t,315,f,5
+33,1984-09-04,BC,43,SURREY--WHITE ROCK--NORTH DELTA,23288,"VIAUD, Ray",Communist Party of Canada,31,Communist Party,Com,f,155,f,6
+33,1984-09-04,BC,44,VANCOUVER CENTRE,23289,"CARNEY, Pat",Progressive Conservative,124,Progressive Conservative Party,PC,t,21704,f,1
+33,1984-09-04,BC,44,VANCOUVER CENTRE,23290,"DEN HERTOG, Johanna",New Democratic Party,100,New Democratic Party,NDP,t,16283,f,2
+33,1984-09-04,BC,44,VANCOUVER CENTRE,23291,"MANNING, Paul E.",Liberal,75,Liberal,Lib,t,10654,f,3
+33,1984-09-04,BC,44,VANCOUVER CENTRE,23292,"WATSON, Paul",Green Party of Canada,50,Green Party,Grn,t,533,f,4
+33,1984-09-04,BC,44,VANCOUVER CENTRE,23293,"PARRO, Danny Tripper",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,487,f,5
+33,1984-09-04,BC,44,VANCOUVER CENTRE,23294,"GEDDES, Paul A.",Libertarian Party of Canada,81,Libertarian Party,Liber,f,316,f,6
+33,1984-09-04,BC,44,VANCOUVER CENTRE,23295,"RUSH, Maurice",Communist Party of Canada,31,Communist Party,Com,f,135,f,7
+33,1984-09-04,BC,44,VANCOUVER CENTRE,23296,"MEINDL, Poldi",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,98,f,8
+33,1984-09-04,BC,45,VANCOUVER EAST,23297,"MITCHELL, Margaret",New Democratic Party,100,New Democratic Party,NDP,t,18464,f,1
+33,1984-09-04,BC,45,VANCOUVER EAST,23298,"WONG, Shirley Maple",Liberal,75,Liberal,Lib,t,9044,f,2
+33,1984-09-04,BC,45,VANCOUVER EAST,23299,"VOLRICH, Jack J.",Progressive Conservative,124,Progressive Conservative Party,PC,t,7210,f,3
+33,1984-09-04,BC,45,VANCOUVER EAST,23300,"MCCABE, Cameron H.",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,342,f,4
+33,1984-09-04,BC,45,VANCOUVER EAST,23301,"MACDONALD, Sandy",Libertarian Party of Canada,81,Libertarian Party,Liber,f,330,f,5
+33,1984-09-04,BC,45,VANCOUVER EAST,23302,"FIGUEROA, Miguel",Communist Party of Canada,31,Communist Party,Com,f,259,f,6
+33,1984-09-04,BC,46,VANCOUVER KINGSWAY,23303,"WADDELL, Ian",New Democratic Party,100,New Democratic Party,NDP,t,20179,f,1
+33,1984-09-04,BC,46,VANCOUVER KINGSWAY,23304,"MORRISON, Nancy",Liberal,75,Liberal,Lib,t,11640,f,2
+33,1984-09-04,BC,46,VANCOUVER KINGSWAY,23305,"WONG, Collin",Progressive Conservative,124,Progressive Conservative Party,PC,t,7152,f,3
+33,1984-09-04,BC,46,VANCOUVER KINGSWAY,23306,"MOUSSEAU, Ted",Green Party of Canada,50,Green Party,Grn,t,305,f,4
+33,1984-09-04,BC,46,VANCOUVER KINGSWAY,23307,"OGDEN, Bert",Communist Party of Canada,31,Communist Party,Com,f,214,f,5
+33,1984-09-04,BC,47,VANCOUVER QUADRA,23308,"TURNER, John N.",Liberal,75,Liberal,Lib,t,21794,f,1
+33,1984-09-04,BC,47,VANCOUVER QUADRA,23311,"CLARKE, Bill",Progressive Conservative,124,Progressive Conservative Party,PC,t,18581,f,2
+33,1984-09-04,BC,47,VANCOUVER QUADRA,23309,"CANTILLON, Ray",New Democratic Party,100,New Democratic Party,NDP,t,8343,f,3
+33,1984-09-04,BC,47,VANCOUVER QUADRA,23310,"BOHLEN, Jim",Green Party of Canada,50,Green Party,Grn,t,389,f,4
+33,1984-09-04,BC,47,VANCOUVER QUADRA,23312,"MCCONKEY, Ian",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,219,f,5
+33,1984-09-04,BC,47,VANCOUVER QUADRA,23313,"JONES, Diane",Independent,52,Independent,Ind,f,111,f,6
+33,1984-09-04,BC,47,VANCOUVER QUADRA,23314,"DEN OUDEN, Marco",Libertarian Party of Canada,81,Libertarian Party,Liber,f,87,f,7
+33,1984-09-04,BC,47,VANCOUVER QUADRA,23315,"BURGESS, Bill",No affiliation to a recognised party,52,Independent,Ind,f,28,f,8
+33,1984-09-04,BC,47,VANCOUVER QUADRA,23316,"SHEBIB, David Michael",Independent,52,Independent,Ind,f,20,f,9
+33,1984-09-04,BC,47,VANCOUVER QUADRA,23317,"WALL, T. Gaetan Feuille D'érable",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,20,f,9
+33,1984-09-04,BC,47,VANCOUVER QUADRA,23318,"JACKMAN, J.G. Joseph",Independent,52,Independent,Ind,f,12,f,11
+33,1984-09-04,BC,48,VANCOUVER SOUTH,23319,"FRASER, John A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,25469,f,1
+33,1984-09-04,BC,48,VANCOUVER SOUTH,23320,"EMERY, Brian Ernest",New Democratic Party,100,New Democratic Party,NDP,t,10909,f,2
+33,1984-09-04,BC,48,VANCOUVER SOUTH,23321,"SARA, Harkirpal S.",Liberal,75,Liberal,Lib,t,9507,f,3
+33,1984-09-04,BC,48,VANCOUVER SOUTH,23322,"SMARDON, Don",Green Party of Canada,50,Green Party,Grn,t,529,f,4
+33,1984-09-04,BC,49,VICTORIA,23323,"MCKINNON, Allan",Progressive Conservative,124,Progressive Conservative Party,PC,t,24588,f,1
+33,1984-09-04,BC,49,VICTORIA,23324,"BREWIN, John",New Democratic Party,100,New Democratic Party,NDP,t,20480,f,2
+33,1984-09-04,BC,49,VICTORIA,23325,"HEFFELFINGER, Jane",Liberal,75,Liberal,Lib,t,6702,f,3
+33,1984-09-04,BC,49,VICTORIA,23326,"KNIGHT, John F.",Green Party of Canada,50,Green Party,Grn,t,575,f,4
+33,1984-09-04,BC,49,VICTORIA,23327,"LINDSAY, Dapper Dan",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,262,f,5
+33,1984-09-04,BC,49,VICTORIA,23328,"MCELWAYN, Bill J.",Libertarian Party of Canada,81,Libertarian Party,Liber,f,187,f,6
+33,1984-09-04,BC,49,VICTORIA,23329,"JAMES, Elizabeth",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,162,f,7
+33,1984-09-04,BC,49,VICTORIA,23330,"JENSEN-BALTHER, Johannes",Independent,52,Independent,Ind,f,104,f,8
+33,1984-09-04,MB,50,BRANDON--SOURIS,23331,"Clark, Lee",Progressive Conservative,124,Progressive Conservative Party,PC,t,18813,f,1
+33,1984-09-04,MB,50,BRANDON--SOURIS,23332,"Heeney, Dennis",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,6322,f,2
+33,1984-09-04,MB,50,BRANDON--SOURIS,23333,"Janzen, Jake",New Democratic Party,100,New Democratic Party,NDP,t,5631,f,3
+33,1984-09-04,MB,50,BRANDON--SOURIS,23334,"Campbell, David",Liberal,75,Liberal,Lib,t,5278,f,4
+33,1984-09-04,MB,51,CHURCHILL,23335,"MURPHY, Rod",New Democratic Party,100,New Democratic Party,NDP,t,10829,f,1
+33,1984-09-04,MB,51,CHURCHILL,23336,"HANSON, Harvey",Progressive Conservative,124,Progressive Conservative Party,PC,t,8010,f,2
+33,1984-09-04,MB,51,CHURCHILL,23337,"KENNEDY, Jack",Liberal,75,Liberal,Lib,t,4272,f,3
+33,1984-09-04,MB,51,CHURCHILL,23338,"KIRKNESS, Andrew",Independent,52,Independent,Ind,f,377,f,4
+33,1984-09-04,MB,51,CHURCHILL,23339,"MUIRHEAD, Ketih B.P.",Libertarian Party of Canada,81,Libertarian Party,Liber,f,281,f,5
+33,1984-09-04,MB,52,DAUPHIN--SWAN RIVER,23340,"White, Brian",Progressive Conservative,124,Progressive Conservative Party,PC,t,11973,f,1
+33,1984-09-04,MB,52,DAUPHIN--SWAN RIVER,23341,"Lewycky, Laverne",New Democratic Party,100,New Democratic Party,NDP,t,10219,f,2
+33,1984-09-04,MB,52,DAUPHIN--SWAN RIVER,23342,"Cowling, Doug",Liberal,75,Liberal,Lib,t,4352,f,3
+33,1984-09-04,MB,52,DAUPHIN--SWAN RIVER,23343,"Switzer, Douglas",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,1589,f,4
+33,1984-09-04,MB,53,LISGAR,23344,"MURTA, Jack",Progressive Conservative,124,Progressive Conservative Party,PC,t,15557,f,1
+33,1984-09-04,MB,53,LISGAR,23345,"Fallis, James S.",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,8976,f,2
+33,1984-09-04,MB,53,LISGAR,23346,"McEarchern, Anne-Marie",Liberal,75,Liberal,Lib,t,4423,f,3
+33,1984-09-04,MB,53,LISGAR,23347,"Hiebert, Peter",New Democratic Party,100,New Democratic Party,NDP,t,2052,f,4
+33,1984-09-04,MB,53,LISGAR,23348,"Harrison, Uncle Bill",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,437,f,5
+33,1984-09-04,MB,54,PORTAGE--MARQUETTE,23349,"Mayer, Charles",Progressive Conservative,124,Progressive Conservative Party,PC,t,15378,f,1
+33,1984-09-04,MB,54,PORTAGE--MARQUETTE,23350,"Edmondson, Doug",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,6957,f,2
+33,1984-09-04,MB,54,PORTAGE--MARQUETTE,23351,"Grant, Garry",New Democratic Party,100,New Democratic Party,NDP,t,4447,f,3
+33,1984-09-04,MB,54,PORTAGE--MARQUETTE,23352,"Suderman, Abe",Liberal,75,Liberal,Lib,t,4161,f,4
+33,1984-09-04,MB,54,PORTAGE--MARQUETTE,23353,"Owens, Dennis",Libertarian Party of Canada,81,Libertarian Party,Liber,f,204,f,5
+33,1984-09-04,MB,55,PROVENCHER,23354,"EPP, Jake",Progressive Conservative,124,Progressive Conservative Party,PC,t,20077,f,1
+33,1984-09-04,MB,55,PROVENCHER,23356,"Buzahora, Ron",New Democratic Party,100,New Democratic Party,NDP,t,6941,f,2
+33,1984-09-04,MB,55,PROVENCHER,23357,"Rempel, Wally",Liberal,75,Liberal,Lib,t,4859,f,3
+33,1984-09-04,MB,55,PROVENCHER,23355,"Bowers, Ron",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,2347,f,4
+33,1984-09-04,MB,55,PROVENCHER,23358,"Ives, Donald",Libertarian Party of Canada,81,Libertarian Party,Liber,f,232,f,5
+33,1984-09-04,MB,56,SELKIRK--INTERLAKE,23359,"Holtmann, Felix",Progressive Conservative,124,Progressive Conservative Party,PC,t,13750,f,1
+33,1984-09-04,MB,56,SELKIRK--INTERLAKE,23360,"Sargeant, Terry",New Democratic Party,100,New Democratic Party,NDP,t,13088,f,2
+33,1984-09-04,MB,56,SELKIRK--INTERLAKE,23361,"Anderson, Ed",Liberal,75,Liberal,Lib,t,3510,f,3
+33,1984-09-04,MB,56,SELKIRK--INTERLAKE,23362,"Stefanson, Doug",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,3301,f,4
+33,1984-09-04,MB,56,SELKIRK--INTERLAKE,23363,"Quenett, Bob",Libertarian Party of Canada,81,Libertarian Party,Liber,f,163,f,5
+33,1984-09-04,MB,57,ST. BONIFACE,23364,"Duguay, Léo",Progressive Conservative,124,Progressive Conservative Party,PC,t,19548,f,1
+33,1984-09-04,MB,57,ST. BONIFACE,23365,"BOCKSTAEL, Robert",Liberal,75,Liberal,Lib,t,16763,f,2
+33,1984-09-04,MB,57,ST. BONIFACE,23366,"Bédard, Armand T.",New Democratic Party,100,New Democratic Party,NDP,t,11279,f,3
+33,1984-09-04,MB,57,ST. BONIFACE,23367,"Epps, Dennis A.",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,1649,f,4
+33,1984-09-04,MB,58,WINNIPEG NORTH,23368,"Orlikow, David",New Democratic Party,100,New Democratic Party,NDP,t,18209,f,1
+33,1984-09-04,MB,58,WINNIPEG NORTH,23369,"Fedorkiw, Luba",Progressive Conservative,124,Progressive Conservative Party,PC,t,12705,f,2
+33,1984-09-04,MB,58,WINNIPEG NORTH,23370,"Lorenc, Chris",Liberal,75,Liberal,Lib,t,10421,f,3
+33,1984-09-04,MB,58,WINNIPEG NORTH,23371,"Fletcher, Paula",Communist Party of Canada,31,Communist Party,Com,f,283,f,4
+33,1984-09-04,MB,58,WINNIPEG NORTH,23372,"HAWRYLUK, William",Independent,52,Independent,Ind,f,243,f,5
+33,1984-09-04,MB,58,WINNIPEG NORTH,23373,"Dolski, E.T.",Independent,52,Independent,Ind,f,180,f,6
+33,1984-09-04,MB,59,WINNIPEG NORTH CENTRE,23374,"Keeper, Cyril",New Democratic Party,100,New Democratic Party,NDP,t,10559,f,1
+33,1984-09-04,MB,59,WINNIPEG NORTH CENTRE,23375,"Du, Joe",Progressive Conservative,124,Progressive Conservative Party,PC,t,6470,f,2
+33,1984-09-04,MB,59,WINNIPEG NORTH CENTRE,23376,"Bueti, Frank",Liberal,75,Liberal,Lib,t,5144,f,3
+33,1984-09-04,MB,59,WINNIPEG NORTH CENTRE,23377,"McDonald, Monty A.",Independent,52,Independent,Ind,f,484,f,4
+33,1984-09-04,MB,59,WINNIPEG NORTH CENTRE,23378,"Hogan, Don",Independent,52,Independent,Ind,f,234,f,5
+33,1984-09-04,MB,60,WINNIPEG--ASSINIBOINE,23379,"McKenzie, Dan",Progressive Conservative,124,Progressive Conservative Party,PC,t,27567,f,1
+33,1984-09-04,MB,60,WINNIPEG--ASSINIBOINE,23381,"MATAS, David",Liberal,75,Liberal,Lib,t,16200,f,2
+33,1984-09-04,MB,60,WINNIPEG--ASSINIBOINE,23382,"Johannson, Robert",New Democratic Party,100,New Democratic Party,NDP,t,7067,f,3
+33,1984-09-04,MB,60,WINNIPEG--ASSINIBOINE,23380,"Stevens, Lillian",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,1344,f,4
+33,1984-09-04,MB,60,WINNIPEG--ASSINIBOINE,23383,"Kenzie, Stephen",Libertarian Party of Canada,81,Libertarian Party,Liber,f,472,f,5
+33,1984-09-04,MB,61,WINNIPEG--BIRDS HILL,23384,"BLAIKIE, Bill",New Democratic Party,100,New Democratic Party,NDP,t,23903,f,1
+33,1984-09-04,MB,61,WINNIPEG--BIRDS HILL,23387,"Hare, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,20644,f,2
+33,1984-09-04,MB,61,WINNIPEG--BIRDS HILL,23385,"Johnson, Lil",Liberal,75,Liberal,Lib,t,5447,f,3
+33,1984-09-04,MB,61,WINNIPEG--BIRDS HILL,23386,"Macdonald, Al",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,1069,f,4
+33,1984-09-04,MB,61,WINNIPEG--BIRDS HILL,23388,"BERGEN, Honest Don",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,569,f,5
+33,1984-09-04,MB,61,WINNIPEG--BIRDS HILL,23389,"Price, Edward G.",Independent,52,Independent,Ind,f,549,f,6
+33,1984-09-04,MB,62,WINNIPEG--FORT GARRY,23390,"Axworthy, Lloyd",Liberal,75,Liberal,Lib,t,21286,f,1
+33,1984-09-04,MB,62,WINNIPEG--FORT GARRY,23392,"SHERMAN, Bud",Progressive Conservative,124,Progressive Conservative Party,PC,t,18932,f,2
+33,1984-09-04,MB,62,WINNIPEG--FORT GARRY,23393,"Coyston, Gail",New Democratic Party,100,New Democratic Party,NDP,t,5932,f,3
+33,1984-09-04,MB,62,WINNIPEG--FORT GARRY,23394,"Smith, Clangy",Libertarian Party of Canada,81,Libertarian Party,Liber,f,308,f,4
+33,1984-09-04,MB,62,WINNIPEG--FORT GARRY,23391,"Goldspink, Frank",Communist Party of Canada,31,Communist Party,Com,f,115,f,5
+33,1984-09-04,MB,63,WINNIPEG--ST. JAMES,23395,"Minaker, George",Progressive Conservative,124,Progressive Conservative Party,PC,t,12523,f,1
+33,1984-09-04,MB,63,WINNIPEG--ST. JAMES,23396,"Donner, Lissa",New Democratic Party,100,New Democratic Party,NDP,t,9843,f,2
+33,1984-09-04,MB,63,WINNIPEG--ST. JAMES,23397,"Ryback, Diana",Liberal,75,Liberal,Lib,t,6007,f,3
+33,1984-09-04,MB,63,WINNIPEG--ST. JAMES,23398,"Debrecen, Fred",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,830,f,4
+33,1984-09-04,MB,63,WINNIPEG--ST. JAMES,23399,"Talarico, John R.",Libertarian Party of Canada,81,Libertarian Party,Liber,f,164,f,5
+33,1984-09-04,MB,63,WINNIPEG--ST. JAMES,23400,"PUGH, Paul",Communist Party of Canada,31,Communist Party,Com,f,86,f,6
+33,1984-09-04,NB,64,CARLETON--CHARLOTTE,23401,"MCCAIN, Fred",Progressive Conservative,124,Progressive Conservative Party,PC,t,19984,f,1
+33,1984-09-04,NB,64,CARLETON--CHARLOTTE,23403,"Daly, Gerard",Liberal,75,Liberal,Lib,t,7752,f,2
+33,1984-09-04,NB,64,CARLETON--CHARLOTTE,23402,"Kilfoil, Ben",New Democratic Party,100,New Democratic Party,NDP,t,4608,f,3
+33,1984-09-04,NB,65,FUNDY--ROYAL,23404,"Corbett, Robert A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,26021,f,1
+33,1984-09-04,NB,65,FUNDY--ROYAL,23406,"Spalding, Donna",Liberal,75,Liberal,Lib,t,11482,f,2
+33,1984-09-04,NB,65,FUNDY--ROYAL,23405,"Bedell, Kay",New Democratic Party,100,New Democratic Party,NDP,t,8487,f,3
+33,1984-09-04,NB,66,GLOUCESTER,23407,"Clinch, Roger",Progressive Conservative,124,Progressive Conservative Party,PC,t,23524,f,1
+33,1984-09-04,NB,66,GLOUCESTER,23409,"BREAU, Herb",Liberal,75,Liberal,Lib,t,16378,f,2
+33,1984-09-04,NB,66,GLOUCESTER,23408,"Ward, Valentine",New Democratic Party,100,New Democratic Party,NDP,t,2188,f,3
+33,1984-09-04,NB,66,GLOUCESTER,23410,"Losier, Fernand",Independent,52,Independent,Ind,f,584,f,4
+33,1984-09-04,NB,67,MADAWASKA--VICTORIA,23411,"Valcourt, Bernard",Progressive Conservative,124,Progressive Conservative Party,PC,t,16411,f,1
+33,1984-09-04,NB,67,MADAWASKA--VICTORIA,23412,"Clavette, Gérald",Liberal,75,Liberal,Lib,t,13245,f,2
+33,1984-09-04,NB,67,MADAWASKA--VICTORIA,23413,"McLaughlin-St-Amand, Floranne",New Democratic Party,100,New Democratic Party,NDP,t,1968,f,3
+33,1984-09-04,NB,68,MONCTON,23414,"Cochrane, Dennis",Progressive Conservative,124,Progressive Conservative Party,PC,t,29936,f,1
+33,1984-09-04,NB,68,MONCTON,23415,"McCauley, Gary",Liberal,75,Liberal,Lib,t,14557,f,2
+33,1984-09-04,NB,68,MONCTON,23416,"Murphy, Gregory",New Democratic Party,100,New Democratic Party,NDP,t,7629,f,3
+33,1984-09-04,NB,68,MONCTON,23417,"KIRK, Robert Bob",Independent,52,Independent,Ind,f,243,f,4
+33,1984-09-04,NB,69,NORTHUMBERLAND--MIRAMICHI,23418,"Jardine, W.R. Bud",Progressive Conservative,124,Progressive Conservative Party,PC,t,17134,f,1
+33,1984-09-04,NB,69,NORTHUMBERLAND--MIRAMICHI,23419,"DIONNE, Maurice A.",Liberal,75,Liberal,Lib,t,11971,f,2
+33,1984-09-04,NB,69,NORTHUMBERLAND--MIRAMICHI,23420,"Carter, Terrance",New Democratic Party,100,New Democratic Party,NDP,t,2660,f,3
+33,1984-09-04,NB,70,RESTIGOUCHE,23421,"Girard, Al",Progressive Conservative,124,Progressive Conservative Party,PC,t,14089,f,1
+33,1984-09-04,NB,70,RESTIGOUCHE,23422,"Harquail, Maurice",Liberal,75,Liberal,Lib,t,12250,f,2
+33,1984-09-04,NB,70,RESTIGOUCHE,23423,"Halley, Gilles",New Democratic Party,100,New Democratic Party,NDP,t,4526,f,3
+33,1984-09-04,NB,71,SAINT JOHN,23424,"MERRITHEW, G. S. Gerry",Progressive Conservative,124,Progressive Conservative Party,PC,t,16604,f,1
+33,1984-09-04,NB,71,SAINT JOHN,23425,"Warner, Cliff",Liberal,75,Liberal,Lib,t,8109,f,2
+33,1984-09-04,NB,71,SAINT JOHN,23426,"Palmer, Mary",New Democratic Party,100,New Democratic Party,NDP,t,6752,f,3
+33,1984-09-04,NB,71,SAINT JOHN,23427,"JONES, Peter A.",Libertarian Party of Canada,81,Libertarian Party,Liber,f,242,f,4
+33,1984-09-04,NB,71,SAINT JOHN,23428,"Simons, Gordon",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,102,f,5
+33,1984-09-04,NB,72,WESTMORLAND--KENT,23429,"Robichaud, Fernand",Liberal,75,Liberal,Lib,t,14709,f,1
+33,1984-09-04,NB,72,WESTMORLAND--KENT,23430,"Leblanc, Louis-Félix",Progressive Conservative,124,Progressive Conservative Party,PC,t,13371,f,2
+33,1984-09-04,NB,72,WESTMORLAND--KENT,23431,"Doiron, Claire",New Democratic Party,100,New Democratic Party,NDP,t,7148,f,3
+33,1984-09-04,NB,73,YORK--SUNBURY,23432,"Howie, J. Robert",Progressive Conservative,124,Progressive Conservative Party,PC,t,25190,f,1
+33,1984-09-04,NB,73,YORK--SUNBURY,23433,"Washburn, Loretta",Liberal,75,Liberal,Lib,t,9873,f,2
+33,1984-09-04,NB,73,YORK--SUNBURY,23434,"Sharp, Allan",New Democratic Party,100,New Democratic Party,NDP,t,7366,f,3
+33,1984-09-04,NB,73,YORK--SUNBURY,23435,"Marshall, Harry",Independent,52,Independent,Ind,f,377,f,4
+33,1984-09-04,NL,74,BONAVISTA--TRINITY--CONCEPTION,23436,"Johnson, Morrissey",Progressive Conservative,124,Progressive Conservative Party,PC,t,19015,f,1
+33,1984-09-04,NL,74,BONAVISTA--TRINITY--CONCEPTION,23437,"Rooney, Dave",Liberal,75,Liberal,Lib,t,14103,f,2
+33,1984-09-04,NL,74,BONAVISTA--TRINITY--CONCEPTION,23438,"Maher, Susan",New Democratic Party,100,New Democratic Party,NDP,t,1432,f,3
+33,1984-09-04,NL,75,BURIN--ST. GEORGE'S,23439,"Price, Joe",Progressive Conservative,124,Progressive Conservative Party,PC,t,13184,f,1
+33,1984-09-04,NL,75,BURIN--ST. GEORGE'S,23440,"Simmons, Roger",Liberal,75,Liberal,Lib,t,12885,f,2
+33,1984-09-04,NL,75,BURIN--ST. GEORGE'S,23441,"Edwards, L. Joseph",New Democratic Party,100,New Democratic Party,NDP,t,1767,f,3
+33,1984-09-04,NL,76,GANDER--TWILLINGATE,23442,"Baker, George",Liberal,75,Liberal,Lib,t,16100,f,1
+33,1984-09-04,NL,76,GANDER--TWILLINGATE,23444,"Burt, Eugene",Progressive Conservative,124,Progressive Conservative Party,PC,t,13076,f,2
+33,1984-09-04,NL,76,GANDER--TWILLINGATE,23443,"Panting, Gerry",New Democratic Party,100,New Democratic Party,NDP,t,1138,f,3
+33,1984-09-04,NL,77,GRAND FALLS--WHITE BAY--LABRADOR,23445,"ROMPKEY, Bill",Liberal,75,Liberal,Lib,t,12938,f,1
+33,1984-09-04,NL,77,GRAND FALLS--WHITE BAY--LABRADOR,23447,"Walsh, Peter",Progressive Conservative,124,Progressive Conservative Party,PC,t,12114,f,2
+33,1984-09-04,NL,77,GRAND FALLS--WHITE BAY--LABRADOR,23446,"Condon, Ern",New Democratic Party,100,New Democratic Party,NDP,t,3616,f,3
+33,1984-09-04,NL,78,HUMBER--PORT AU PORT--ST. BARBE,23448,"Tobin, Brian",Liberal,75,Liberal,Lib,t,17409,f,1
+33,1984-09-04,NL,78,HUMBER--PORT AU PORT--ST. BARBE,23450,"Monaghan, Mike",Progressive Conservative,124,Progressive Conservative Party,PC,t,16916,f,2
+33,1984-09-04,NL,78,HUMBER--PORT AU PORT--ST. BARBE,23451,"Gould, Ken",New Democratic Party,100,New Democratic Party,NDP,t,1530,f,3
+33,1984-09-04,NL,78,HUMBER--PORT AU PORT--ST. BARBE,23449,"Woodman, Derek",Independent,52,Independent,Ind,f,196,f,4
+33,1984-09-04,NL,79,ST. JOHN'S EAST,23452,"MCGRATH, James A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,30866,f,1
+33,1984-09-04,NL,79,ST. JOHN'S EAST,23453,"Reynolds, Elizabeth",Liberal,75,Liberal,Lib,t,5644,f,2
+33,1984-09-04,NL,79,ST. JOHN'S EAST,23454,"Oliver, Christine",New Democratic Party,100,New Democratic Party,NDP,t,2584,f,3
+33,1984-09-04,NL,79,ST. JOHN'S EAST,23455,"Paquet, Paul",Libertarian Party of Canada,81,Libertarian Party,Liber,f,325,f,4
+33,1984-09-04,NL,80,ST. JOHN'S WEST,23456,"CROSBIE, John C.",Progressive Conservative,124,Progressive Conservative Party,PC,t,33696,f,1
+33,1984-09-04,NL,80,ST. JOHN'S WEST,23458,"Carter, Walter",Liberal,75,Liberal,Lib,t,8699,f,2
+33,1984-09-04,NL,80,ST. JOHN'S WEST,23457,"Patey, Nina",New Democratic Party,100,New Democratic Party,NDP,t,1926,f,3
+33,1984-09-04,NS,81,ANNAPOLIS VALLEY--HANTS,23459,"Nowlan, Pat",Progressive Conservative,124,Progressive Conservative Party,PC,t,23580,f,1
+33,1984-09-04,NS,81,ANNAPOLIS VALLEY--HANTS,23461,"Fuller, Howard",Liberal,75,Liberal,Lib,t,12463,f,2
+33,1984-09-04,NS,81,ANNAPOLIS VALLEY--HANTS,23460,"Hope-Simpson, Peggy",New Democratic Party,100,New Democratic Party,NDP,t,6987,f,3
+33,1984-09-04,NS,81,ANNAPOLIS VALLEY--HANTS,23462,"MacDermott, Graham",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,762,f,4
+33,1984-09-04,NS,82,CAPE BRETON HIGHLANDS--CANSO,23463,"O'Neil, Lawrence",Progressive Conservative,124,Progressive Conservative Party,PC,t,19371,f,1
+33,1984-09-04,NS,82,CAPE BRETON HIGHLANDS--CANSO,23465,"MacKinnon, Kenzie",Liberal,75,Liberal,Lib,t,15026,f,2
+33,1984-09-04,NS,82,CAPE BRETON HIGHLANDS--CANSO,23464,"MacInnes, Daniel",New Democratic Party,100,New Democratic Party,NDP,t,4308,f,3
+33,1984-09-04,NS,83,CAPE BRETON--EAST RICHMOND,23466,"Dingwall, Dave",Liberal,75,Liberal,Lib,t,20270,f,1
+33,1984-09-04,NS,83,CAPE BRETON--EAST RICHMOND,23467,"Marsh, Bill",Progressive Conservative,124,Progressive Conservative Party,PC,t,11896,f,2
+33,1984-09-04,NS,83,CAPE BRETON--EAST RICHMOND,23469,"Grant, Douglass",New Democratic Party,100,New Democratic Party,NDP,t,3709,f,3
+33,1984-09-04,NS,83,CAPE BRETON--EAST RICHMOND,23468,"MacIntyre, Connie",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,444,f,4
+33,1984-09-04,NS,84,CAPE BRETON--THE SYDNEYS,23470,"MacLellan, Russell",Liberal,75,Liberal,Lib,t,16051,f,1
+33,1984-09-04,NS,84,CAPE BRETON--THE SYDNEYS,23472,"Salter, Joe",Progressive Conservative,124,Progressive Conservative Party,PC,t,13658,f,2
+33,1984-09-04,NS,84,CAPE BRETON--THE SYDNEYS,23471,"Murphy, Ed",New Democratic Party,100,New Democratic Party,NDP,t,6673,f,3
+33,1984-09-04,NS,85,CENTRAL NOVA,23473,"MACKAY, Elmer M.",Progressive Conservative,124,Progressive Conservative Party,PC,t,21462,f,1
+33,1984-09-04,NS,85,CENTRAL NOVA,23474,"LOMAS, Al",Liberal,75,Liberal,Lib,t,9148,f,2
+33,1984-09-04,NS,85,CENTRAL NOVA,23475,"Murphy, Gloria",New Democratic Party,100,New Democratic Party,NDP,t,4572,f,3
+33,1984-09-04,NS,86,CUMBERLAND--COLCHESTER,23476,"COATES, Robert C.",Progressive Conservative,124,Progressive Conservative Party,PC,t,24180,f,1
+33,1984-09-04,NS,86,CUMBERLAND--COLCHESTER,23477,"Creighton, Ron",Liberal,75,Liberal,Lib,t,12489,f,2
+33,1984-09-04,NS,86,CUMBERLAND--COLCHESTER,23478,"McCarron, Jessie",New Democratic Party,100,New Democratic Party,NDP,t,5527,f,3
+33,1984-09-04,NS,87,DARTMOUTH--HALIFAX EAST,23479,"Forrestall, Mike",Progressive Conservative,124,Progressive Conservative Party,PC,t,27549,f,1
+33,1984-09-04,NS,87,DARTMOUTH--HALIFAX EAST,23480,"Austin, Rae",Liberal,75,Liberal,Lib,t,13084,f,2
+33,1984-09-04,NS,87,DARTMOUTH--HALIFAX EAST,23481,"Hale, Ken",New Democratic Party,100,New Democratic Party,NDP,t,9503,f,3
+33,1984-09-04,NS,88,HALIFAX,23482,"McInnes, Stewart",Progressive Conservative,124,Progressive Conservative Party,PC,t,18779,f,1
+33,1984-09-04,NS,88,HALIFAX,23485,"Regan, Gerald",Liberal,75,Liberal,Lib,t,14411,f,2
+33,1984-09-04,NS,88,HALIFAX,23483,"Hebb, Tessa",New Democratic Party,100,New Democratic Party,NDP,t,8576,f,3
+33,1984-09-04,NS,88,HALIFAX,23484,"Kennedy, Ignatius",Independent,52,Independent,Ind,f,174,f,4
+33,1984-09-04,NS,89,HALIFAX WEST,23486,"Crosby, Howard",Progressive Conservative,124,Progressive Conservative Party,PC,t,30287,f,1
+33,1984-09-04,NS,89,HALIFAX WEST,23487,"Prossin, Ben",Liberal,75,Liberal,Lib,t,13529,f,2
+33,1984-09-04,NS,89,HALIFAX WEST,23489,"THEMAN, Dennis",New Democratic Party,100,New Democratic Party,NDP,t,11626,f,3
+33,1984-09-04,NS,89,HALIFAX WEST,23488,"CANNING, Arthur R.",Independent,52,Independent,Ind,f,355,f,4
+33,1984-09-04,NS,90,SOUTH SHORE,23490,"CROUSE, Lloyd R.",Progressive Conservative,124,Progressive Conservative Party,PC,t,22347,f,1
+33,1984-09-04,NS,90,SOUTH SHORE,23492,"Blades, Paul",Liberal,75,Liberal,Lib,t,11439,f,2
+33,1984-09-04,NS,90,SOUTH SHORE,23491,"Zimmerman, Bill",New Democratic Party,100,New Democratic Party,NDP,t,5633,f,3
+33,1984-09-04,NS,91,SOUTH WEST NOVA,23493,"Comeau, Gerald",Progressive Conservative,124,Progressive Conservative Party,PC,t,20604,f,1
+33,1984-09-04,NS,91,SOUTH WEST NOVA,23495,"Campbell, Coline",Liberal,75,Liberal,Lib,t,17044,f,2
+33,1984-09-04,NS,91,SOUTH WEST NOVA,23494,"Ritchie, Bob",New Democratic Party,100,New Democratic Party,NDP,t,3076,f,3
+33,1984-09-04,NT,92,NUNATSIAQ,23496,"Suluk, Thomas",Progressive Conservative,124,Progressive Conservative Party,PC,t,2237,f,1
+33,1984-09-04,NT,92,NUNATSIAQ,23499,"Kuptana, Robert",Liberal,75,Liberal,Lib,t,1990,f,2
+33,1984-09-04,NT,92,NUNATSIAQ,23498,"Innuksuk, Rhoda",New Democratic Party,100,New Democratic Party,NDP,t,1973,f,3
+33,1984-09-04,NT,92,NUNATSIAQ,23497,"Ittinuar, Peter F.K.",Independent,52,Independent,Ind,f,686,f,4
+33,1984-09-04,NT,93,WESTERN ARCTIC,23500,"Nickerson, Dave",Progressive Conservative,124,Progressive Conservative Party,PC,t,5822,f,1
+33,1984-09-04,NT,93,WESTERN ARCTIC,23501,"Allen, Bertha",New Democratic Party,100,New Democratic Party,NDP,t,3538,f,2
+33,1984-09-04,NT,93,WESTERN ARCTIC,23502,"Sorenson, Lynda",Liberal,75,Liberal,Lib,t,3264,f,3
+33,1984-09-04,ON,94,ALGOMA,23503,"FOSTER, Maurice",Liberal,75,Liberal,Lib,t,14113,f,1
+33,1984-09-04,ON,94,ALGOMA,23504,"REED, Jim",Progressive Conservative,124,Progressive Conservative Party,PC,t,12811,f,2
+33,1984-09-04,ON,94,ALGOMA,23505,"FRANGIONE, Rocco",New Democratic Party,100,New Democratic Party,NDP,t,9499,f,3
+33,1984-09-04,ON,94,ALGOMA,23506,"BRUZAS, Harold",No affiliation to a recognised party,52,Independent,Ind,f,462,f,4
+33,1984-09-04,ON,95,BEACHES,23507,"YOUNG, Neil",New Democratic Party,100,New Democratic Party,NDP,t,14914,f,1
+33,1984-09-04,ON,95,BEACHES,23509,"JONES, Jack",Progressive Conservative,124,Progressive Conservative Party,PC,t,12443,f,2
+33,1984-09-04,ON,95,BEACHES,23510,"KELLY, Terry",Liberal,75,Liberal,Lib,t,8155,f,3
+33,1984-09-04,ON,95,BEACHES,23511,"HANCOCK, Trevor",Green Party of Canada,50,Green Party,Grn,t,581,f,4
+33,1984-09-04,ON,95,BEACHES,23512,"CORRIGAN, Dennis",Libertarian Party of Canada,81,Libertarian Party,Liber,f,353,f,5
+33,1984-09-04,ON,95,BEACHES,23513,"KENNEDY, Terrence",Independent,52,Independent,Ind,f,132,f,6
+33,1984-09-04,ON,95,BEACHES,23514,"Turmel, John C.",Independent,52,Independent,Ind,f,112,f,7
+33,1984-09-04,ON,95,BEACHES,23508,"THORSEN, Ron",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,27,f,8
+33,1984-09-04,ON,96,BRAMPTON--GEORGETOWN,23515,"MCDERMID, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,47743,f,1
+33,1984-09-04,ON,96,BRAMPTON--GEORGETOWN,23519,"MILNE, Ross",Liberal,75,Liberal,Lib,t,23325,f,2
+33,1984-09-04,ON,96,BRAMPTON--GEORGETOWN,23516,"DEAMER, John",New Democratic Party,100,New Democratic Party,NDP,t,13356,f,3
+33,1984-09-04,ON,96,BRAMPTON--GEORGETOWN,23517,"KAASGAARD, Steven",Green Party of Canada,50,Green Party,Grn,t,458,f,4
+33,1984-09-04,ON,96,BRAMPTON--GEORGETOWN,23518,"BRIDGEWOOD, Jim",Communist Party of Canada,31,Communist Party,Com,f,153,f,5
+33,1984-09-04,ON,97,BRANT,23520,"BLACKBURN, Derek",New Democratic Party,100,New Democratic Party,NDP,t,23103,f,1
+33,1984-09-04,ON,97,BRANT,23522,"STERNE, Rick",Progressive Conservative,124,Progressive Conservative Party,PC,t,21679,f,2
+33,1984-09-04,ON,97,BRANT,23523,"HEXAMER, Peter",Liberal,75,Liberal,Lib,t,7286,f,3
+33,1984-09-04,ON,97,BRANT,23521,"HARRIS, Charley",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,207,f,4
+33,1984-09-04,ON,98,BROADVIEW--GREENWOOD,23524,"MCDONALD, Lynn",New Democratic Party,100,New Democratic Party,NDP,t,15066,f,1
+33,1984-09-04,ON,98,BROADVIEW--GREENWOOD,23528,"WORTHINGTON, Peter",Progressive Conservative,124,Progressive Conservative Party,PC,t,11455,f,2
+33,1984-09-04,ON,98,BROADVIEW--GREENWOOD,23527,"PAIGE, Ken",Liberal,75,Liberal,Lib,t,6060,f,3
+33,1984-09-04,ON,98,BROADVIEW--GREENWOOD,23526,"TEGTMEYER, Rolf",Green Party of Canada,50,Green Party,Grn,t,239,f,4
+33,1984-09-04,ON,98,BROADVIEW--GREENWOOD,23525,"RODDEN, Nora",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,224,f,5
+33,1984-09-04,ON,99,BRUCE--GREY,23529,"GURBIN, Gary M.",Progressive Conservative,124,Progressive Conservative Party,PC,t,27611,f,1
+33,1984-09-04,ON,99,BRUCE--GREY,23531,"OSWALD, Ron",Liberal,75,Liberal,Lib,t,9931,f,2
+33,1984-09-04,ON,99,BRUCE--GREY,23530,"PETERSON, Norma",New Democratic Party,100,New Democratic Party,NDP,t,5112,f,3
+33,1984-09-04,ON,100,BURLINGTON,23532,"KEMPLING, Bill",Progressive Conservative,124,Progressive Conservative Party,PC,t,37577,f,1
+33,1984-09-04,ON,100,BURLINGTON,23534,"MULKEWICH, Walter",New Democratic Party,100,New Democratic Party,NDP,t,11687,f,2
+33,1984-09-04,ON,100,BURLINGTON,23533,"SCHWENGER, Fred",Liberal,75,Liberal,Lib,t,11406,f,3
+33,1984-09-04,ON,101,CAMBRIDGE,23535,"SPEYER, Chris",Progressive Conservative,124,Progressive Conservative Party,PC,t,22963,f,1
+33,1984-09-04,ON,101,CAMBRIDGE,23536,"MCBAIN, Bill",New Democratic Party,100,New Democratic Party,NDP,t,9171,f,2
+33,1984-09-04,ON,101,CAMBRIDGE,23537,"JOHNSTON, Lyn",Liberal,75,Liberal,Lib,t,5545,f,3
+33,1984-09-04,ON,101,CAMBRIDGE,23539,"JAGIELLOWICZ, John",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,343,f,4
+33,1984-09-04,ON,101,CAMBRIDGE,23538,"HARZ, Peter",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,112,f,5
+33,1984-09-04,ON,102,COCHRANE--SUPERIOR,23540,"PENNER, Keith",Liberal,75,Liberal,Lib,t,12359,f,1
+33,1984-09-04,ON,102,COCHRANE--SUPERIOR,23542,"DESJARDINS, Guy",Progressive Conservative,124,Progressive Conservative Party,PC,t,9590,f,2
+33,1984-09-04,ON,102,COCHRANE--SUPERIOR,23541,"BRUNET, Ray",New Democratic Party,100,New Democratic Party,NDP,t,7672,f,3
+33,1984-09-04,ON,103,DAVENPORT,23543,"CACCIA, Charles",Liberal,75,Liberal,Lib,t,13248,f,1
+33,1984-09-04,ON,103,DAVENPORT,23544,"NETZEL, Manfred",New Democratic Party,100,New Democratic Party,NDP,t,5548,f,2
+33,1984-09-04,ON,103,DAVENPORT,23545,"ROCCA, Giovanni",Progressive Conservative,124,Progressive Conservative Party,PC,t,5217,f,3
+33,1984-09-04,ON,103,DAVENPORT,23546,"BLAIR, Elgin",Green Party of Canada,50,Green Party,Grn,t,256,f,4
+33,1984-09-04,ON,103,DAVENPORT,23547,"HAYES, John Scott",Libertarian Party of Canada,81,Libertarian Party,Liber,f,252,f,5
+33,1984-09-04,ON,103,DAVENPORT,23548,"MASSIE, Gordon",Communist Party of Canada,31,Communist Party,Com,f,165,f,6
+33,1984-09-04,ON,104,DON VALLEY EAST,23549,"ATTEWELL, Bill",Progressive Conservative,124,Progressive Conservative Party,PC,t,29706,f,1
+33,1984-09-04,ON,104,DON VALLEY EAST,23552,"SMITH, David",Liberal,75,Liberal,Lib,t,18578,f,2
+33,1984-09-04,ON,104,DON VALLEY EAST,23553,"MACDONALD, Joe",New Democratic Party,100,New Democratic Party,NDP,t,5842,f,3
+33,1984-09-04,ON,104,DON VALLEY EAST,23551,"CHAMPLAIN, Robert",Libertarian Party of Canada,81,Libertarian Party,Liber,f,356,f,4
+33,1984-09-04,ON,104,DON VALLEY EAST,23550,"WRIGHT, Arthur V.",Independent,52,Independent,Ind,f,162,f,5
+33,1984-09-04,ON,105,DON VALLEY WEST,23554,"Bosley, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,29905,f,1
+33,1984-09-04,ON,105,DON VALLEY WEST,23557,"WISHART, David",Liberal,75,Liberal,Lib,t,12855,f,2
+33,1984-09-04,ON,105,DON VALLEY WEST,23556,"CAMERON, Ian",New Democratic Party,100,New Democratic Party,NDP,t,6570,f,3
+33,1984-09-04,ON,105,DON VALLEY WEST,23555,"BEECH, Michael",Libertarian Party of Canada,81,Libertarian Party,Liber,f,577,f,4
+33,1984-09-04,ON,106,DURHAM--NORTHUMBERLAND,23558,"LAWRENCE, Allan",Progressive Conservative,124,Progressive Conservative Party,PC,t,24968,f,1
+33,1984-09-04,ON,106,DURHAM--NORTHUMBERLAND,23559,"CAMPBELL, Darce",Liberal,75,Liberal,Lib,t,8740,f,2
+33,1984-09-04,ON,106,DURHAM--NORTHUMBERLAND,23561,"GRIERSON, Roy",New Democratic Party,100,New Democratic Party,NDP,t,7805,f,3
+33,1984-09-04,ON,106,DURHAM--NORTHUMBERLAND,23560,"FLYNN, Brian",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,353,f,4
+33,1984-09-04,ON,106,DURHAM--NORTHUMBERLAND,23562,"PAGE, Gordon W.",Libertarian Party of Canada,81,Libertarian Party,Liber,f,211,f,5
+33,1984-09-04,ON,107,EGLINTON--LAWRENCE,23563,"DE CORNEILLE, Roland",Liberal,75,Liberal,Lib,t,18645,f,1
+33,1984-09-04,ON,107,EGLINTON--LAWRENCE,23564,"LA CAPRARA, Dan",Progressive Conservative,124,Progressive Conservative Party,PC,t,17476,f,2
+33,1984-09-04,ON,107,EGLINTON--LAWRENCE,23566,"MILLER, Marlene",New Democratic Party,100,New Democratic Party,NDP,t,6458,f,3
+33,1984-09-04,ON,107,EGLINTON--LAWRENCE,23567,"CAIN, Linda",Libertarian Party of Canada,81,Libertarian Party,Liber,f,362,f,4
+33,1984-09-04,ON,107,EGLINTON--LAWRENCE,23565,"MCDONALD, Nan",Communist Party of Canada,31,Communist Party,Com,f,219,f,5
+33,1984-09-04,ON,107,EGLINTON--LAWRENCE,23568,"KIRK, Ken",Independent,52,Independent,Ind,f,219,f,5
+33,1984-09-04,ON,108,ELGIN,23569,"WISE, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,23302,f,1
+33,1984-09-04,ON,108,ELGIN,23570,"JOHNSON, Gary",Liberal,75,Liberal,Lib,t,6797,f,2
+33,1984-09-04,ON,108,ELGIN,23571,"HABKIRK, Bob",New Democratic Party,100,New Democratic Party,NDP,t,4646,f,3
+33,1984-09-04,ON,109,ERIE,23572,"FRETZ, Girve",Progressive Conservative,124,Progressive Conservative Party,PC,t,19197,f,1
+33,1984-09-04,ON,109,ERIE,23573,"LAFONTAINE, Pierre",Liberal,75,Liberal,Lib,t,9316,f,2
+33,1984-09-04,ON,109,ERIE,23574,"HAVLIN, Elaine",New Democratic Party,100,New Democratic Party,NDP,t,5868,f,3
+33,1984-09-04,ON,110,ESSEX--KENT,23575,"CALDWELL, Jim",Progressive Conservative,124,Progressive Conservative Party,PC,t,18661,f,1
+33,1984-09-04,ON,110,ESSEX--KENT,23576,"TIESSEN, Hugo",Liberal,75,Liberal,Lib,t,9268,f,2
+33,1984-09-04,ON,110,ESSEX--KENT,23577,"TOYE, Peter",New Democratic Party,100,New Democratic Party,NDP,t,4234,f,3
+33,1984-09-04,ON,111,ESSEX--WINDSOR,23578,"LANGDON, Steven",New Democratic Party,100,New Democratic Party,NDP,t,18746,f,1
+33,1984-09-04,ON,111,ESSEX--WINDSOR,23579,"MARTEL, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,15073,f,2
+33,1984-09-04,ON,111,ESSEX--WINDSOR,23580,"DUCHARME, Brian",Liberal,75,Liberal,Lib,t,13866,f,3
+33,1984-09-04,ON,112,ETOBICOKE CENTRE,23581,"WILSON, Michael",Progressive Conservative,124,Progressive Conservative Party,PC,t,34026,f,1
+33,1984-09-04,ON,112,ETOBICOKE CENTRE,23582,"BROWN, Jim",Liberal,75,Liberal,Lib,t,17853,f,2
+33,1984-09-04,ON,112,ETOBICOKE CENTRE,23584,"JONES, Phil",New Democratic Party,100,New Democratic Party,NDP,t,7657,f,3
+33,1984-09-04,ON,112,ETOBICOKE CENTRE,23583,"YAMADA, Shirley",Libertarian Party of Canada,81,Libertarian Party,Liber,f,339,f,4
+33,1984-09-04,ON,113,ETOBICOKE NORTH,23585,"PENNOCK, Bob",Progressive Conservative,124,Progressive Conservative Party,PC,t,22713,f,1
+33,1984-09-04,ON,113,ETOBICOKE NORTH,23588,"MacLaren, Roy",Liberal,75,Liberal,Lib,t,21840,f,2
+33,1984-09-04,ON,113,ETOBICOKE NORTH,23587,"ROBERTSON, David",New Democratic Party,100,New Democratic Party,NDP,t,11136,f,3
+33,1984-09-04,ON,113,ETOBICOKE NORTH,23586,"HEMSLEY, Roger",Libertarian Party of Canada,81,Libertarian Party,Liber,f,417,f,4
+33,1984-09-04,ON,114,ETOBICOKE--LAKESHORE,23589,"BOYER, Patrick",Progressive Conservative,124,Progressive Conservative Party,PC,t,19902,f,1
+33,1984-09-04,ON,114,ETOBICOKE--LAKESHORE,23590,"ROBINSON, Ken",Liberal,75,Liberal,Lib,t,13455,f,2
+33,1984-09-04,ON,114,ETOBICOKE--LAKESHORE,23591,"LAWLOR, Pat",New Democratic Party,100,New Democratic Party,NDP,t,10549,f,3
+33,1984-09-04,ON,114,ETOBICOKE--LAKESHORE,23593,"CAIN, Monica",Libertarian Party of Canada,81,Libertarian Party,Liber,f,317,f,4
+33,1984-09-04,ON,114,ETOBICOKE--LAKESHORE,23592,"BOYCHUCK, Peter",Communist Party of Canada,31,Communist Party,Com,f,216,f,5
+33,1984-09-04,ON,115,GLENGARRY--PRESCOTT--RUSSELL,23594,"BOUDRIA, Don",Liberal,75,Liberal,Lib,t,26057,f,1
+33,1984-09-04,ON,115,GLENGARRY--PRESCOTT--RUSSELL,23595,"STANTE, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,16170,f,2
+33,1984-09-04,ON,115,GLENGARRY--PRESCOTT--RUSSELL,23596,"COLLARD, Annemarie",New Democratic Party,100,New Democratic Party,NDP,t,6838,f,3
+33,1984-09-04,ON,116,GREY--SIMCOE,23597,"MITGES, Gus",Progressive Conservative,124,Progressive Conservative Party,PC,t,23342,f,1
+33,1984-09-04,ON,116,GREY--SIMCOE,23599,"SHEFFER, Joe",Liberal,75,Liberal,Lib,t,9369,f,2
+33,1984-09-04,ON,116,GREY--SIMCOE,23600,"STONE, Joan",New Democratic Party,100,New Democratic Party,NDP,t,6001,f,3
+33,1984-09-04,ON,116,GREY--SIMCOE,23598,"BIGGINS, Eric",Libertarian Party of Canada,81,Libertarian Party,Liber,f,337,f,4
+33,1984-09-04,ON,117,GUELPH,23601,"WINEGARD, William C.",Progressive Conservative,124,Progressive Conservative Party,PC,t,23484,f,1
+33,1984-09-04,ON,117,GUELPH,23603,"SCHRODER, Jim",Liberal,75,Liberal,Lib,t,13757,f,2
+33,1984-09-04,ON,117,GUELPH,23604,"ROBINSON, Jim",New Democratic Party,100,New Democratic Party,NDP,t,9153,f,3
+33,1984-09-04,ON,117,GUELPH,23602,"CATTY, Susie Mew",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,343,f,4
+33,1984-09-04,ON,117,GUELPH,23605,"TUCKER, Walter A.",Libertarian Party of Canada,81,Libertarian Party,Liber,f,314,f,5
+33,1984-09-04,ON,118,HALDIMAND--NORFOLK,23606,"BRADLEY, Bud",Progressive Conservative,124,Progressive Conservative Party,PC,t,27296,f,1
+33,1984-09-04,ON,118,HALDIMAND--NORFOLK,23607,"FULLER, Edith",Liberal,75,Liberal,Lib,t,12161,f,2
+33,1984-09-04,ON,118,HALDIMAND--NORFOLK,23608,"JEFFERIES, Bill",New Democratic Party,100,New Democratic Party,NDP,t,6138,f,3
+33,1984-09-04,ON,118,HALDIMAND--NORFOLK,23609,"WEBER, Martin J.",Independent,52,Independent,Ind,f,656,f,4
+33,1984-09-04,ON,119,HALTON,23610,"JELINEK, Otto",Progressive Conservative,124,Progressive Conservative Party,PC,t,38076,f,1
+33,1984-09-04,ON,119,HALTON,23613,"CURRIE, Oriena R.M.",Liberal,75,Liberal,Lib,t,14125,f,2
+33,1984-09-04,ON,119,HALTON,23612,"FLYNN, Kevin",New Democratic Party,100,New Democratic Party,NDP,t,9164,f,3
+33,1984-09-04,ON,119,HALTON,23611,"KOWALCHUK, Chris",Green Party of Canada,50,Green Party,Grn,t,1494,f,4
+33,1984-09-04,ON,120,HAMILTON EAST,23614,"Copps, Sheila",Liberal,75,Liberal,Lib,t,14533,f,1
+33,1984-09-04,ON,120,HAMILTON EAST,23616,"CHRISTOPHERSON, David",New Democratic Party,100,New Democratic Party,NDP,t,11872,f,2
+33,1984-09-04,ON,120,HAMILTON EAST,23617,"MACDONALD, Jack",Progressive Conservative,124,Progressive Conservative Party,PC,t,11711,f,3
+33,1984-09-04,ON,120,HAMILTON EAST,23615,"VOSTREZ, Vince G.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,102,f,4
+33,1984-09-04,ON,120,HAMILTON EAST,23619,"ROWLEY, Elizabeth",Communist Party of Canada,31,Communist Party,Com,f,87,f,5
+33,1984-09-04,ON,120,HAMILTON EAST,23618,"PERRY, Ken",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,59,f,6
+33,1984-09-04,ON,121,HAMILTON MOUNTAIN,23620,"DEANS, Ian",New Democratic Party,100,New Democratic Party,NDP,t,25789,f,1
+33,1984-09-04,ON,121,HAMILTON MOUNTAIN,23621,"BEATTIE, Duncan",Progressive Conservative,124,Progressive Conservative Party,PC,t,17004,f,2
+33,1984-09-04,ON,121,HAMILTON MOUNTAIN,23622,"MCCULLOUGH, Jerry",Liberal,75,Liberal,Lib,t,9514,f,3
+33,1984-09-04,ON,121,HAMILTON MOUNTAIN,23623,"MCGEE, Mike",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,133,f,4
+33,1984-09-04,ON,122,HAMILTON WEST,23624,"PETERSON, Peter",Progressive Conservative,124,Progressive Conservative Party,PC,t,16573,f,1
+33,1984-09-04,ON,122,HAMILTON WEST,23628,"HUDECKI, Stan",Liberal,75,Liberal,Lib,t,12379,f,2
+33,1984-09-04,ON,122,HAMILTON WEST,23629,"NEWELL, Philip",New Democratic Party,100,New Democratic Party,NDP,t,11508,f,3
+33,1984-09-04,ON,122,HAMILTON WEST,23625,"BALDASARO, Michael A.J.",Libertarian Party of Canada,81,Libertarian Party,Liber,f,300,f,4
+33,1984-09-04,ON,122,HAMILTON WEST,23626,"MANN, Bob",Communist Party of Canada,31,Communist Party,Com,f,157,f,5
+33,1984-09-04,ON,122,HAMILTON WEST,23627,"Haché, Val",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,135,f,6
+33,1984-09-04,ON,123,HAMILTON--WENTWORTH,23630,"SCOTT, Geoff",Progressive Conservative,124,Progressive Conservative Party,PC,t,25595,f,1
+33,1984-09-04,ON,123,HAMILTON--WENTWORTH,23632,"CUNNINGHAM, Eric Gordon",Liberal,75,Liberal,Lib,t,14193,f,2
+33,1984-09-04,ON,123,HAMILTON--WENTWORTH,23634,"HITCHCOCK, David",New Democratic Party,100,New Democratic Party,NDP,t,8836,f,3
+33,1984-09-04,ON,123,HAMILTON--WENTWORTH,23631,"SANTOR, Bill",Green Party of Canada,50,Green Party,Grn,t,333,f,4
+33,1984-09-04,ON,123,HAMILTON--WENTWORTH,23635,"HUGHES, Edward B.",Libertarian Party of Canada,81,Libertarian Party,Liber,f,172,f,5
+33,1984-09-04,ON,123,HAMILTON--WENTWORTH,23633,"GARDNER, Ed",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,88,f,6
+33,1984-09-04,ON,124,HASTINGS--FRONTENAC--LENNOX AND ADDINGTON,23636,"VANKOUGHNET, Bill",Progressive Conservative,124,Progressive Conservative Party,PC,t,19996,f,1
+33,1984-09-04,ON,124,HASTINGS--FRONTENAC--LENNOX AND ADDINGTON,23639,"VASTOKAS, Ron",Liberal,75,Liberal,Lib,t,9757,f,2
+33,1984-09-04,ON,124,HASTINGS--FRONTENAC--LENNOX AND ADDINGTON,23637,"FORTH, Donna",New Democratic Party,100,New Democratic Party,NDP,t,5349,f,3
+33,1984-09-04,ON,124,HASTINGS--FRONTENAC--LENNOX AND ADDINGTON,23638,"BAKER, Ross",Independent,52,Independent,Ind,f,441,f,4
+33,1984-09-04,ON,125,HURON--BRUCE,23640,"Cardiff, Murray",Progressive Conservative,124,Progressive Conservative Party,PC,t,23969,f,1
+33,1984-09-04,ON,125,HURON--BRUCE,23641,"MCDONALD, Bruce",Liberal,75,Liberal,Lib,t,8802,f,2
+33,1984-09-04,ON,125,HURON--BRUCE,23643,"BOLTON, Valerie",New Democratic Party,100,New Democratic Party,NDP,t,4075,f,3
+33,1984-09-04,ON,125,HURON--BRUCE,23642,"YUNDT, Joe",Libertarian Party of Canada,81,Libertarian Party,Liber,f,158,f,4
+33,1984-09-04,ON,126,KENORA--RAINY RIVER,23644,"PARRY, John",New Democratic Party,100,New Democratic Party,NDP,t,13319,f,1
+33,1984-09-04,ON,126,KENORA--RAINY RIVER,23645,"LUGLI, Al",Progressive Conservative,124,Progressive Conservative Party,PC,t,12699,f,2
+33,1984-09-04,ON,126,KENORA--RAINY RIVER,23646,"REID, John M.",Liberal,75,Liberal,Lib,t,9928,f,3
+33,1984-09-04,ON,127,KINGSTON AND THE ISLANDS,23647,"MACDONALD, Flora",Progressive Conservative,124,Progressive Conservative Party,PC,t,25997,f,1
+33,1984-09-04,ON,127,KINGSTON AND THE ISLANDS,23649,"SPEAL, George N.",Liberal,75,Liberal,Lib,t,13087,f,2
+33,1984-09-04,ON,127,KINGSTON AND THE ISLANDS,23650,"CURRIE, Andrew",New Democratic Party,100,New Democratic Party,NDP,t,5950,f,3
+33,1984-09-04,ON,127,KINGSTON AND THE ISLANDS,23652,"EARDLEY, Daniel",No affiliation to a recognised party,52,Independent,Ind,f,1410,f,4
+33,1984-09-04,ON,127,KINGSTON AND THE ISLANDS,23651,"BOND, E.J. Ted",Green Party of Canada,50,Green Party,Grn,t,478,f,5
+33,1984-09-04,ON,127,KINGSTON AND THE ISLANDS,23648,"MURRAY, Ian",Libertarian Party of Canada,81,Libertarian Party,Liber,f,258,f,6
+33,1984-09-04,ON,128,KITCHENER,23653,"REIMER, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,26710,f,1
+33,1984-09-04,ON,128,KITCHENER,23654,"LANG, Peter",Liberal,75,Liberal,Lib,t,16130,f,2
+33,1984-09-04,ON,128,KITCHENER,23655,"FERGUSON, Will",New Democratic Party,100,New Democratic Party,NDP,t,13873,f,3
+33,1984-09-04,ON,128,KITCHENER,23656,"MYSZKOWIEC, Gerald",Libertarian Party of Canada,81,Libertarian Party,Liber,f,306,f,4
+33,1984-09-04,ON,129,Kent,23657,"HARDEY, Elliott",Progressive Conservative,124,Progressive Conservative Party,PC,t,18279,f,1
+33,1984-09-04,ON,129,Kent,23659,"BOSSY, Maurice",Liberal,75,Liberal,Lib,t,13027,f,2
+33,1984-09-04,ON,129,Kent,23658,"MCKEEVER, Derry",New Democratic Party,100,New Democratic Party,NDP,t,6138,f,3
+33,1984-09-04,ON,130,LAMBTON--MIDDLESEX,23660,"FRALEIGH, Sid",Progressive Conservative,124,Progressive Conservative Party,PC,t,22501,f,1
+33,1984-09-04,ON,130,LAMBTON--MIDDLESEX,23662,"FERGUSON, Ralph",Liberal,75,Liberal,Lib,t,13888,f,2
+33,1984-09-04,ON,130,LAMBTON--MIDDLESEX,23661,"WILFORD, Allen",New Democratic Party,100,New Democratic Party,NDP,t,4826,f,3
+33,1984-09-04,ON,131,LANARK--RENFREW--CARLETON,23663,"Dick, Paul",Progressive Conservative,124,Progressive Conservative Party,PC,t,24395,f,1
+33,1984-09-04,ON,131,LANARK--RENFREW--CARLETON,23665,"MCNABB, Brooke",Liberal,75,Liberal,Lib,t,15528,f,2
+33,1984-09-04,ON,131,LANARK--RENFREW--CARLETON,23666,"PAGE, Don",New Democratic Party,100,New Democratic Party,NDP,t,5310,f,3
+33,1984-09-04,ON,131,LANARK--RENFREW--CARLETON,23664,"CRAIG, Floyd J.",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,139,f,4
+33,1984-09-04,ON,132,LEEDS--GRENVILLE,23667,"COSSITT, Jennifer",Progressive Conservative,124,Progressive Conservative Party,PC,t,26961,f,1
+33,1984-09-04,ON,132,LEEDS--GRENVILLE,23668,"ANDERSON, Chuck",Liberal,75,Liberal,Lib,t,10222,f,2
+33,1984-09-04,ON,132,LEEDS--GRENVILLE,23669,"ALLEN, Jan",New Democratic Party,100,New Democratic Party,NDP,t,6121,f,3
+33,1984-09-04,ON,132,LEEDS--GRENVILLE,23670,"NICKERSON, Mike",Green Party of Canada,50,Green Party,Grn,t,348,f,4
+33,1984-09-04,ON,132,LEEDS--GRENVILLE,23671,"WIENHOLD, Hans",Libertarian Party of Canada,81,Libertarian Party,Liber,f,190,f,5
+33,1984-09-04,ON,133,LINCOLN,23672,"MARTIN, Shirley",Progressive Conservative,124,Progressive Conservative Party,PC,t,26318,f,1
+33,1984-09-04,ON,133,LINCOLN,23673,"MACALUSO, Joseph",Liberal,75,Liberal,Lib,t,14646,f,2
+33,1984-09-04,ON,133,LINCOLN,23676,"MAYER, John",New Democratic Party,100,New Democratic Party,NDP,t,11888,f,3
+33,1984-09-04,ON,133,LINCOLN,23677,"KEDDY, Robert A.",Green Party of Canada,50,Green Party,Grn,t,345,f,4
+33,1984-09-04,ON,133,LINCOLN,23678,"JOHNSTON, Larry E.",No affiliation to a recognised party,52,Independent,Ind,f,171,f,5
+33,1984-09-04,ON,133,LINCOLN,23674,"STASIUK, Ann",Independent,52,Independent,Ind,f,121,f,6
+33,1984-09-04,ON,133,LINCOLN,23675,"HAMELIN, A. J. Sid",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,120,f,7
+33,1984-09-04,ON,134,LONDON EAST,23679,"JEPSON, Jim",Progressive Conservative,124,Progressive Conservative Party,PC,t,18154,f,1
+33,1984-09-04,ON,134,LONDON EAST,23681,"BARTH, Joe",New Democratic Party,100,New Democratic Party,NDP,t,10324,f,2
+33,1984-09-04,ON,134,LONDON EAST,23680,"GLEESON, Al",Liberal,75,Liberal,Lib,t,9948,f,3
+33,1984-09-04,ON,135,LONDON WEST,23682,"HOCKIN, Tom",Progressive Conservative,124,Progressive Conservative Party,PC,t,34517,f,1
+33,1984-09-04,ON,135,LONDON WEST,23684,"BURGHARDT, Jack",Liberal,75,Liberal,Lib,t,21701,f,2
+33,1984-09-04,ON,135,LONDON WEST,23683,"LUNDGREN, Bruce",New Democratic Party,100,New Democratic Party,NDP,t,10911,f,3
+33,1984-09-04,ON,136,LONDON--MIDDLESEX,23685,"CLIFFORD, Terry",Progressive Conservative,124,Progressive Conservative Party,PC,t,18586,f,1
+33,1984-09-04,ON,136,LONDON--MIDDLESEX,23687,"BLOOMFIELD, Garnet M.",Liberal,75,Liberal,Lib,t,11202,f,2
+33,1984-09-04,ON,136,LONDON--MIDDLESEX,23686,"CUNNINGHAM, David N.",New Democratic Party,100,New Democratic Party,NDP,t,9753,f,3
+33,1984-09-04,ON,137,MISSISSAUGA NORTH,23688,"HORNER, Bob",Progressive Conservative,124,Progressive Conservative Party,PC,t,47124,f,1
+33,1984-09-04,ON,137,MISSISSAUGA NORTH,23692,"FISHER, Douglas",Liberal,75,Liberal,Lib,t,33203,f,2
+33,1984-09-04,ON,137,MISSISSAUGA NORTH,23689,"PATRICK, Bill",New Democratic Party,100,New Democratic Party,NDP,t,13823,f,3
+33,1984-09-04,ON,137,MISSISSAUGA NORTH,23690,"PATE, Ronald W.",Green Party of Canada,50,Green Party,Grn,t,609,f,4
+33,1984-09-04,ON,137,MISSISSAUGA NORTH,23691,"VON HARTEN, Karl",Libertarian Party of Canada,81,Libertarian Party,Liber,f,435,f,5
+33,1984-09-04,ON,138,MISSISSAUGA SOUTH,23693,"BLENKARN, Don",Progressive Conservative,124,Progressive Conservative Party,PC,t,32946,f,1
+33,1984-09-04,ON,138,MISSISSAUGA SOUTH,23695,"Szabo, Paul",Liberal,75,Liberal,Lib,t,16874,f,2
+33,1984-09-04,ON,138,MISSISSAUGA SOUTH,23694,"JONES, Norm",New Democratic Party,100,New Democratic Party,NDP,t,8584,f,3
+33,1984-09-04,ON,139,NEPEAN--CARLETON,23696,"TUPPER, Bill",Progressive Conservative,124,Progressive Conservative Party,PC,t,41663,f,1
+33,1984-09-04,ON,139,NEPEAN--CARLETON,23699,"HUNTER, Gord",Liberal,75,Liberal,Lib,t,20852,f,2
+33,1984-09-04,ON,139,NEPEAN--CARLETON,23700,"MURRAY, Bea",New Democratic Party,100,New Democratic Party,NDP,t,11035,f,3
+33,1984-09-04,ON,139,NEPEAN--CARLETON,23698,"VEZINA, Gregory H.",Green Party of Canada,50,Green Party,Grn,t,737,f,4
+33,1984-09-04,ON,139,NEPEAN--CARLETON,23697,"TURMEL, Ray",Independent,52,Independent,Ind,f,204,f,5
+33,1984-09-04,ON,140,NIAGARA FALLS,23701,"NICHOLSON, Rob",Progressive Conservative,124,Progressive Conservative Party,PC,t,22852,f,1
+33,1984-09-04,ON,140,NIAGARA FALLS,23702,"HARRINGTON, Richard",New Democratic Party,100,New Democratic Party,NDP,t,9863,f,2
+33,1984-09-04,ON,140,NIAGARA FALLS,23703,"MACBAIN, Al",Liberal,75,Liberal,Lib,t,8219,f,3
+33,1984-09-04,ON,140,NIAGARA FALLS,23704,"SCOTT, Robert G.",Green Party of Canada,50,Green Party,Grn,t,352,f,4
+33,1984-09-04,ON,140,NIAGARA FALLS,23705,"ERB, Earl G.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,177,f,5
+33,1984-09-04,ON,141,NICKEL BELT,23706,"RODRIGUEZ, John R.",New Democratic Party,100,New Democratic Party,NDP,t,17141,f,1
+33,1984-09-04,ON,141,NICKEL BELT,23708,"SLADE, Gord",Progressive Conservative,124,Progressive Conservative Party,PC,t,13857,f,2
+33,1984-09-04,ON,141,NICKEL BELT,23709,"EROLA, Judy",Liberal,75,Liberal,Lib,t,13124,f,3
+33,1984-09-04,ON,141,NICKEL BELT,23707,"ORFORD, Derek Aardvark",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,288,f,4
+33,1984-09-04,ON,142,NIPISSING,23710,"MANTHA, Moe",Progressive Conservative,124,Progressive Conservative Party,PC,t,17247,f,1
+33,1984-09-04,ON,142,NIPISSING,23712,"BLAIS, Jean-Jacques",Liberal,75,Liberal,Lib,t,14558,f,2
+33,1984-09-04,ON,142,NIPISSING,23711,"BENNETT, Lynne",New Democratic Party,100,New Democratic Party,NDP,t,4735,f,3
+33,1984-09-04,ON,143,NORTHUMBERLAND,23713,"HEES, George",Progressive Conservative,124,Progressive Conservative Party,PC,t,24060,f,1
+33,1984-09-04,ON,143,NORTHUMBERLAND,23714,"HILL, John L.",Liberal,75,Liberal,Lib,t,9534,f,2
+33,1984-09-04,ON,143,NORTHUMBERLAND,23715,"CASSELLS, Bill",New Democratic Party,100,New Democratic Party,NDP,t,4633,f,3
+33,1984-09-04,ON,143,NORTHUMBERLAND,23717,"O'CONNELL, Adrian",Green Party of Canada,50,Green Party,Grn,t,262,f,4
+33,1984-09-04,ON,143,NORTHUMBERLAND,23716,"LANTZ, Mike",Libertarian Party of Canada,81,Libertarian Party,Liber,f,138,f,5
+33,1984-09-04,ON,144,ONTARIO,23718,"FENNELL, Scott",Progressive Conservative,124,Progressive Conservative Party,PC,t,35163,f,1
+33,1984-09-04,ON,144,ONTARIO,23719,"HERREMA, Gary",Liberal,75,Liberal,Lib,t,14519,f,2
+33,1984-09-04,ON,144,ONTARIO,23720,"RISON, Geoff",New Democratic Party,100,New Democratic Party,NDP,t,12995,f,3
+33,1984-09-04,ON,145,OSHAWA,23721,"BROADBENT, Ed",New Democratic Party,100,New Democratic Party,NDP,t,25092,f,1
+33,1984-09-04,ON,145,OSHAWA,23723,"SOSNA, Alex",Progressive Conservative,124,Progressive Conservative Party,PC,t,23028,f,2
+33,1984-09-04,ON,145,OSHAWA,23724,"Kelly, Terry",Liberal,75,Liberal,Lib,t,10719,f,3
+33,1984-09-04,ON,145,OSHAWA,23722,"POSMA, Rolf",Libertarian Party of Canada,81,Libertarian Party,Liber,f,335,f,4
+33,1984-09-04,ON,145,OSHAWA,23725,"Boikoff, Lucille",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,74,f,5
+33,1984-09-04,ON,145,OSHAWA,23726,"RAK, Russell Z.",Communist Party of Canada,31,Communist Party,Com,f,72,f,6
+33,1984-09-04,ON,146,OTTAWA CENTRE,23727,"CASSIDY, Mike",New Democratic Party,100,New Democratic Party,NDP,t,17844,f,1
+33,1984-09-04,ON,146,OTTAWA CENTRE,23733,"CHILCOTT, Dan",Progressive Conservative,124,Progressive Conservative Party,PC,t,17790,f,2
+33,1984-09-04,ON,146,OTTAWA CENTRE,23730,"EVANS, John",Liberal,75,Liberal,Lib,t,15380,f,3
+33,1984-09-04,ON,146,OTTAWA CENTRE,23732,"HEIDT, Barry J.",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,382,f,4
+33,1984-09-04,ON,146,OTTAWA CENTRE,23734,"MCLEOD, Gordon Scott",Green Party of Canada,50,Green Party,Grn,t,285,f,5
+33,1984-09-04,ON,146,OTTAWA CENTRE,23735,"GLASS, Marvin",Communist Party of Canada,31,Communist Party,Com,f,93,f,6
+33,1984-09-04,ON,146,OTTAWA CENTRE,23731,"CORMIER, Ray Joseph",Independent,52,Independent,Ind,f,71,f,7
+33,1984-09-04,ON,146,OTTAWA CENTRE,23728,"JAMES, Rodger L.",Independent,52,Independent,Ind,f,45,f,8
+33,1984-09-04,ON,146,OTTAWA CENTRE,23729,"GAUVIN, Marc",Independent,52,Independent,Ind,f,29,f,9
+33,1984-09-04,ON,147,OTTAWA WEST,23736,"DAUBNEY, David",Progressive Conservative,124,Progressive Conservative Party,PC,t,26591,f,1
+33,1984-09-04,ON,147,OTTAWA WEST,23737,"FRANCIS, Lloyd",Liberal,75,Liberal,Lib,t,19314,f,2
+33,1984-09-04,ON,147,OTTAWA WEST,23739,"CHAPMAN, Ross",New Democratic Party,100,New Democratic Party,NDP,t,8304,f,3
+33,1984-09-04,ON,147,OTTAWA WEST,23738,"Turmel, Thérèse",Independent,52,Independent,Ind,f,285,f,4
+33,1984-09-04,ON,148,OTTAWA--CARLETON,23740,"TURNER, Barry",Progressive Conservative,124,Progressive Conservative Party,PC,t,34693,f,1
+33,1984-09-04,ON,148,OTTAWA--CARLETON,23741,"ROY, Albert J.",Liberal,75,Liberal,Lib,t,30747,f,2
+33,1984-09-04,ON,148,OTTAWA--CARLETON,23746,"LANG, Vernon",New Democratic Party,100,New Democratic Party,NDP,t,10760,f,3
+33,1984-09-04,ON,148,OTTAWA--CARLETON,23743,"HICKS, J.C. Reverent",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,648,f,4
+33,1984-09-04,ON,148,OTTAWA--CARLETON,23742,"DODSON, John W.",Green Party of Canada,50,Green Party,Grn,t,341,f,5
+33,1984-09-04,ON,148,OTTAWA--CARLETON,23744,"LANDRY-KENNEDY, Mireille",Independent,52,Independent,Ind,f,281,f,6
+33,1984-09-04,ON,148,OTTAWA--CARLETON,23745,"LABELLE, Sylvain",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,69,f,7
+33,1984-09-04,ON,149,OTTAWA--VANIER,23747,"GAUTHIER, Jean-Robert",Liberal,75,Liberal,Lib,t,21401,f,1
+33,1984-09-04,ON,149,OTTAWA--VANIER,23748,"LAMOUREUX, Michel",Progressive Conservative,124,Progressive Conservative Party,PC,t,12571,f,2
+33,1984-09-04,ON,149,OTTAWA--VANIER,23749,"BARNARD, Kathryn",New Democratic Party,100,New Democratic Party,NDP,t,9364,f,3
+33,1984-09-04,ON,149,OTTAWA--VANIER,23750,"GIRARD, Serge",Independent,52,Independent,Ind,f,265,f,4
+33,1984-09-04,ON,150,OXFORD,23751,"HALLIDAY, Bruce",Progressive Conservative,124,Progressive Conservative Party,PC,t,25642,f,1
+33,1984-09-04,ON,150,OXFORD,23752,"APPS, Alfred",Liberal,75,Liberal,Lib,t,12884,f,2
+33,1984-09-04,ON,150,OXFORD,23753,"COLBRAN, Wayne",New Democratic Party,100,New Democratic Party,NDP,t,6077,f,3
+33,1984-09-04,ON,150,OXFORD,23754,"SARGENT, Kaye",Libertarian Party of Canada,81,Libertarian Party,Liber,f,322,f,4
+33,1984-09-04,ON,151,PARKDALE--HIGH PARK,23755,"WITER, Andrew",Progressive Conservative,124,Progressive Conservative Party,PC,t,15879,f,1
+33,1984-09-04,ON,151,PARKDALE--HIGH PARK,23756,"FLIS, Jesse",Liberal,75,Liberal,Lib,t,14419,f,2
+33,1984-09-04,ON,151,PARKDALE--HIGH PARK,23757,"FRIESEN, John",New Democratic Party,100,New Democratic Party,NDP,t,8232,f,3
+33,1984-09-04,ON,151,PARKDALE--HIGH PARK,23758,"HEINRICH, Dieter",Green Party of Canada,50,Green Party,Grn,t,592,f,4
+33,1984-09-04,ON,151,PARKDALE--HIGH PARK,23759,"OLIN, Wilf",Libertarian Party of Canada,81,Libertarian Party,Liber,f,223,f,5
+33,1984-09-04,ON,151,PARKDALE--HIGH PARK,23760,"LARSEN, Anna",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,130,f,6
+33,1984-09-04,ON,152,PARRY SOUND--MUSKOKA,23761,"DARLING, Stan",Progressive Conservative,124,Progressive Conservative Party,PC,t,22739,f,1
+33,1984-09-04,ON,152,PARRY SOUND--MUSKOKA,23762,"FISHER, Ed",Liberal,75,Liberal,Lib,t,9555,f,2
+33,1984-09-04,ON,152,PARRY SOUND--MUSKOKA,23763,"HAY, Dennis",New Democratic Party,100,New Democratic Party,NDP,t,7113,f,3
+33,1984-09-04,ON,152,PARRY SOUND--MUSKOKA,23764,"KELLOCK, John",Independent,52,Independent,Ind,f,316,f,4
+33,1984-09-04,ON,153,PERTH,23765,"BRIGHTWELL, A.H. Harry",Progressive Conservative,124,Progressive Conservative Party,PC,t,19186,f,1
+33,1984-09-04,ON,153,PERTH,23766,"INNES, Brian",Liberal,75,Liberal,Lib,t,10155,f,2
+33,1984-09-04,ON,153,PERTH,23767,"MUNRO, Ian",New Democratic Party,100,New Democratic Party,NDP,t,5599,f,3
+33,1984-09-04,ON,154,PETERBOROUGH,23768,"Domm, Bill",Progressive Conservative,124,Progressive Conservative Party,PC,t,27121,f,1
+33,1984-09-04,ON,154,PETERBOROUGH,23769,"MACDOUGALL, Barry",Liberal,75,Liberal,Lib,t,11737,f,2
+33,1984-09-04,ON,154,PETERBOROUGH,23770,"SLAVIN, Linda",New Democratic Party,100,New Democratic Party,NDP,t,10648,f,3
+33,1984-09-04,ON,154,PETERBOROUGH,23771,"HAYES, John",Libertarian Party of Canada,81,Libertarian Party,Liber,f,1479,f,4
+33,1984-09-04,ON,154,PETERBOROUGH,23772,"FISHER, Washboard Hank",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,309,f,5
+33,1984-09-04,ON,154,PETERBOROUGH,23773,"SHIELDS, Simon",Green Party of Canada,50,Green Party,Grn,t,175,f,6
+33,1984-09-04,ON,155,PRINCE EDWARD--HASTINGS,23774,"ELLIS, Jack",Progressive Conservative,124,Progressive Conservative Party,PC,t,21034,f,1
+33,1984-09-04,ON,155,PRINCE EDWARD--HASTINGS,23775,"SCOTT, Robert",Liberal,75,Liberal,Lib,t,10321,f,2
+33,1984-09-04,ON,155,PRINCE EDWARD--HASTINGS,23776,"WILSON, Don",New Democratic Party,100,New Democratic Party,NDP,t,7162,f,3
+33,1984-09-04,ON,155,PRINCE EDWARD--HASTINGS,23777,"CASEY, George Nip",Independent,52,Independent,Ind,f,197,f,4
+33,1984-09-04,ON,156,RENFREW--NIPISSING--PEMBROKE,23778,"Hopkins, Len",Liberal,75,Liberal,Lib,t,19502,f,1
+33,1984-09-04,ON,156,RENFREW--NIPISSING--PEMBROKE,23779,"WHILLANS, Don",Progressive Conservative,124,Progressive Conservative Party,PC,t,19464,f,2
+33,1984-09-04,ON,156,RENFREW--NIPISSING--PEMBROKE,23780,"MURPHY, Gavin",New Democratic Party,100,New Democratic Party,NDP,t,4253,f,3
+33,1984-09-04,ON,157,ROSEDALE,23781,"CROMBIE, David",Progressive Conservative,124,Progressive Conservative Party,PC,t,23211,f,1
+33,1984-09-04,ON,157,ROSEDALE,23782,"GRAHAM, Bill",Liberal,75,Liberal,Lib,t,11488,f,2
+33,1984-09-04,ON,157,ROSEDALE,23783,"WOLFSON, Dell",New Democratic Party,100,New Democratic Party,NDP,t,7836,f,3
+33,1984-09-04,ON,157,ROSEDALE,23784,"FARLINGER, Shirley Ruth",Green Party of Canada,50,Green Party,Grn,t,821,f,4
+33,1984-09-04,ON,157,ROSEDALE,23785,"SLEMON, Clarke",Libertarian Party of Canada,81,Libertarian Party,Liber,f,291,f,5
+33,1984-09-04,ON,157,ROSEDALE,23786,"BAILLARGEON, Sylvie",Communist Party of Canada,31,Communist Party,Com,f,172,f,6
+33,1984-09-04,ON,157,ROSEDALE,23787,"DUBE, David",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,144,f,7
+33,1984-09-04,ON,158,SARNIA--LAMBTON,23788,"JAMES, Ken",Progressive Conservative,124,Progressive Conservative Party,PC,t,24066,f,1
+33,1984-09-04,ON,158,SARNIA--LAMBTON,23789,"BRADLEY, Michael",Liberal,75,Liberal,Lib,t,11313,f,2
+33,1984-09-04,ON,158,SARNIA--LAMBTON,23792,"FOLEY, Julie",New Democratic Party,100,New Democratic Party,NDP,t,8538,f,3
+33,1984-09-04,ON,158,SARNIA--LAMBTON,23790,"O'DELL, Douglas",Independent,52,Independent,Ind,f,90,f,4
+33,1984-09-04,ON,158,SARNIA--LAMBTON,23791,"KAHANEK, Fred",Independent,52,Independent,Ind,f,51,f,5
+33,1984-09-04,ON,159,SAULT STE. MARIE,23793,"KELLEHER, Jim",Progressive Conservative,124,Progressive Conservative Party,PC,t,13135,f,1
+33,1984-09-04,ON,159,SAULT STE. MARIE,23795,"MORIN-STROM, Karl",New Democratic Party,100,New Democratic Party,NDP,t,10726,f,2
+33,1984-09-04,ON,159,SAULT STE. MARIE,23796,"Irwin, Ron",Liberal,75,Liberal,Lib,t,9972,f,3
+33,1984-09-04,ON,159,SAULT STE. MARIE,23794,"ROONEY, Charles L.",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,198,f,4
+33,1984-09-04,ON,160,SCARBOROUGH CENTRE,23797,"Browes, Pauline",Progressive Conservative,124,Progressive Conservative Party,PC,t,19968,f,1
+33,1984-09-04,ON,160,SCARBOROUGH CENTRE,23798,"KELLY, Norm",Liberal,75,Liberal,Lib,t,14229,f,2
+33,1984-09-04,ON,160,SCARBOROUGH CENTRE,23799,"PRUE, Michael",New Democratic Party,100,New Democratic Party,NDP,t,8240,f,3
+33,1984-09-04,ON,160,SCARBOROUGH CENTRE,23800,"BLECKER, Mathias",Libertarian Party of Canada,81,Libertarian Party,Liber,f,345,f,4
+33,1984-09-04,ON,161,SCARBOROUGH EAST,23801,"HICKS, Bob",Progressive Conservative,124,Progressive Conservative Party,PC,t,26349,f,1
+33,1984-09-04,ON,161,SCARBOROUGH EAST,23802,"FEVREAU, Betty",Liberal,75,Liberal,Lib,t,13325,f,2
+33,1984-09-04,ON,161,SCARBOROUGH EAST,23803,"MOHIDEEN, Alawi",New Democratic Party,100,New Democratic Party,NDP,t,6422,f,3
+33,1984-09-04,ON,161,SCARBOROUGH EAST,23804,"JAMES, Lois Jean",Green Party of Canada,50,Green Party,Grn,t,553,f,4
+33,1984-09-04,ON,161,SCARBOROUGH EAST,23805,"MCINTOSH, Jim",Libertarian Party of Canada,81,Libertarian Party,Liber,f,512,f,5
+33,1984-09-04,ON,161,SCARBOROUGH EAST,23806,"BRUDY, Norman",Communist Party of Canada,31,Communist Party,Com,f,142,f,6
+33,1984-09-04,ON,161,SCARBOROUGH EAST,23807,"BROWNE, James",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,87,f,7
+33,1984-09-04,ON,162,SCARBOROUGH WEST,23808,"STACKHOUSE, Reg",Progressive Conservative,124,Progressive Conservative Party,PC,t,17028,f,1
+33,1984-09-04,ON,162,SCARBOROUGH WEST,23809,"WEATHERHEAD, David",Liberal,75,Liberal,Lib,t,12230,f,2
+33,1984-09-04,ON,162,SCARBOROUGH WEST,23810,"GRACEY, David",New Democratic Party,100,New Democratic Party,NDP,t,11436,f,3
+33,1984-09-04,ON,162,SCARBOROUGH WEST,23811,"GOURLAY, Laurie",Green Party of Canada,50,Green Party,Grn,t,364,f,4
+33,1984-09-04,ON,162,SCARBOROUGH WEST,23812,"CAIN, D'Arcy",Libertarian Party of Canada,81,Libertarian Party,Liber,f,330,f,5
+33,1984-09-04,ON,162,SCARBOROUGH WEST,23813,"HARRIS, David",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,129,f,6
+33,1984-09-04,ON,162,SCARBOROUGH WEST,23814,"MCCUAIG, Kerry",Communist Party of Canada,31,Communist Party,Com,f,99,f,7
+33,1984-09-04,ON,163,SIMCOE NORTH,23815,"LEWIS, Doug",Progressive Conservative,124,Progressive Conservative Party,PC,t,24887,f,1
+33,1984-09-04,ON,163,SIMCOE NORTH,23816,"MARTIN, Alan",Liberal,75,Liberal,Lib,t,12062,f,2
+33,1984-09-04,ON,163,SIMCOE NORTH,23817,"TYNAN, Tim",New Democratic Party,100,New Democratic Party,NDP,t,7742,f,3
+33,1984-09-04,ON,163,SIMCOE NORTH,23818,"LETTS, John",Green Party of Canada,50,Green Party,Grn,t,362,f,4
+33,1984-09-04,ON,163,SIMCOE NORTH,23819,"MCTEER, Ian",Libertarian Party of Canada,81,Libertarian Party,Liber,f,229,f,5
+33,1984-09-04,ON,164,SIMCOE SOUTH,23820,"STEWART, Ronald A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,30702,f,1
+33,1984-09-04,ON,164,SIMCOE SOUTH,23821,"OWEN, Bruce",Liberal,75,Liberal,Lib,t,13906,f,2
+33,1984-09-04,ON,164,SIMCOE SOUTH,23822,"BERRY, Frank",New Democratic Party,100,New Democratic Party,NDP,t,8283,f,3
+33,1984-09-04,ON,165,SPADINA,23823,"HEAP, Dan",New Democratic Party,100,New Democratic Party,NDP,t,13241,f,1
+33,1984-09-04,ON,165,SPADINA,23824,"COUTTS, Jim",Liberal,75,Liberal,Lib,t,11880,f,2
+33,1984-09-04,ON,165,SPADINA,23825,"HOPE, Ying",Progressive Conservative,124,Progressive Conservative Party,PC,t,8061,f,3
+33,1984-09-04,ON,165,SPADINA,23826,"BURT, William E.",Libertarian Party of Canada,81,Libertarian Party,Liber,f,358,f,4
+33,1984-09-04,ON,165,SPADINA,23827,"PROUSSAEFS, Mara Maria",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,289,f,5
+33,1984-09-04,ON,165,SPADINA,23828,"GUHA, Sam",Independent,52,Independent,Ind,f,98,f,6
+33,1984-09-04,ON,166,ST. CATHARINES,23829,"REID, Joe",Progressive Conservative,124,Progressive Conservative Party,PC,t,26621,f,1
+33,1984-09-04,ON,166,ST. CATHARINES,23830,"MICHAUD, Gerry",New Democratic Party,100,New Democratic Party,NDP,t,16397,f,2
+33,1984-09-04,ON,166,ST. CATHARINES,23831,"HAND, Linus",Liberal,75,Liberal,Lib,t,9890,f,3
+33,1984-09-04,ON,166,ST. CATHARINES,23832,"FERGUSON, Tom",Green Party of Canada,50,Green Party,Grn,t,365,f,4
+33,1984-09-04,ON,166,ST. CATHARINES,23833,"HODGINS, Glen",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,108,f,5
+33,1984-09-04,ON,166,ST. CATHARINES,23834,"DOIG, Mel",Communist Party of Canada,31,Communist Party,Com,f,93,f,6
+33,1984-09-04,ON,166,ST. CATHARINES,23835,"MOTTLEY, Lancelot",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,56,f,7
+33,1984-09-04,ON,167,ST. PAUL'S,23836,"MCDOUGALL, Barbara",Progressive Conservative,124,Progressive Conservative Party,PC,t,20914,f,1
+33,1984-09-04,ON,167,ST. PAUL'S,23837,"ROBERTS, John",Liberal,75,Liberal,Lib,t,16659,f,2
+33,1984-09-04,ON,167,ST. PAUL'S,23838,"WEBB, John",New Democratic Party,100,New Democratic Party,NDP,t,5545,f,3
+33,1984-09-04,ON,167,ST. PAUL'S,23839,"VANDERWAGEN, Joell",Green Party of Canada,50,Green Party,Grn,t,514,f,4
+33,1984-09-04,ON,167,ST. PAUL'S,23840,"DEMERS, Jocelyne",Libertarian Party of Canada,81,Libertarian Party,Liber,f,210,f,5
+33,1984-09-04,ON,167,ST. PAUL'S,23841,"VAN HOUTEN, Gerry",Communist Party of Canada,31,Communist Party,Com,f,99,f,6
+33,1984-09-04,ON,167,ST. PAUL'S,23842,"GERBY, William",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,36,f,7
+33,1984-09-04,ON,168,STORMONT--DUNDAS,23843,"WARNER, Norm",Progressive Conservative,124,Progressive Conservative Party,PC,t,21043,f,1
+33,1984-09-04,ON,168,STORMONT--DUNDAS,23844,"LUMLEY, Ed",Liberal,75,Liberal,Lib,t,18821,f,2
+33,1984-09-04,ON,168,STORMONT--DUNDAS,23845,"LEFEBVRE, Raymond",New Democratic Party,100,New Democratic Party,NDP,t,5869,f,3
+33,1984-09-04,ON,169,SUDBURY,23846,"FRITH, Doug",Liberal,75,Liberal,Lib,t,18012,f,1
+33,1984-09-04,ON,169,SUDBURY,23847,"DEDIANA, John A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,14100,f,2
+33,1984-09-04,ON,169,SUDBURY,23848,"CONROY, Harriet",New Democratic Party,100,New Democratic Party,NDP,t,11185,f,3
+33,1984-09-04,ON,169,SUDBURY,23849,"POPOVICH, Phil Moon",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,241,f,4
+33,1984-09-04,ON,169,SUDBURY,23850,"MAGNUSON, Bruce",Communist Party of Canada,31,Communist Party,Com,f,75,f,5
+33,1984-09-04,ON,170,THUNDER BAY--ATIKOKAN,23851,"ANGUS, Iain",New Democratic Party,100,New Democratic Party,NDP,t,14715,f,1
+33,1984-09-04,ON,170,THUNDER BAY--ATIKOKAN,23852,"BOSHCOFF, Ken",Progressive Conservative,124,Progressive Conservative Party,PC,t,12040,f,2
+33,1984-09-04,ON,170,THUNDER BAY--ATIKOKAN,23853,"WILLOUGHBY, Dale",Liberal,75,Liberal,Lib,t,8704,f,3
+33,1984-09-04,ON,171,THUNDER BAY--NIPIGON,23854,"EPP, Ernie",New Democratic Party,100,New Democratic Party,NDP,t,13901,f,1
+33,1984-09-04,ON,171,THUNDER BAY--NIPIGON,23855,"MASTERS, Jack G.",Liberal,75,Liberal,Lib,t,12736,f,2
+33,1984-09-04,ON,171,THUNDER BAY--NIPIGON,23856,"SIMPSON, Jim",Progressive Conservative,124,Progressive Conservative Party,PC,t,10601,f,3
+33,1984-09-04,ON,171,THUNDER BAY--NIPIGON,23857,"HAYES, Sally",Libertarian Party of Canada,81,Libertarian Party,Liber,f,180,f,4
+33,1984-09-04,ON,172,TIMISKAMING,23858,"MACDOUGALL, John A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,15359,f,1
+33,1984-09-04,ON,172,TIMISKAMING,23859,"MORRISON, Jim",New Democratic Party,100,New Democratic Party,NDP,t,6685,f,2
+33,1984-09-04,ON,172,TIMISKAMING,23860,"ROBAZZA, Lorraine",Liberal,75,Liberal,Lib,t,6308,f,3
+33,1984-09-04,ON,172,TIMISKAMING,23861,"SWEIGARD, Ken",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,151,f,4
+33,1984-09-04,ON,173,TIMMINS--CHAPLEAU,23862,"GERVAIS, Aurèle",Progressive Conservative,124,Progressive Conservative Party,PC,t,11944,f,1
+33,1984-09-04,ON,173,TIMMINS--CHAPLEAU,23863,"CHARTRAND, Marcel",Liberal,75,Liberal,Lib,t,10273,f,2
+33,1984-09-04,ON,173,TIMMINS--CHAPLEAU,23864,"SAMSON, Cid",New Democratic Party,100,New Democratic Party,NDP,t,9543,f,3
+33,1984-09-04,ON,173,TIMMINS--CHAPLEAU,23865,"BRUCE, Peter Nastasiuk",No affiliation to a recognised party,52,Independent,Ind,f,127,f,4
+33,1984-09-04,ON,174,TRINITY,23866,"NICHOLSON, Aideen",Liberal,75,Liberal,Lib,t,9811,f,1
+33,1984-09-04,ON,174,TRINITY,23867,"ENGLISH, David",New Democratic Party,100,New Democratic Party,NDP,t,6712,f,2
+33,1984-09-04,ON,174,TRINITY,23868,"REKAI, Peter",Progressive Conservative,124,Progressive Conservative Party,PC,t,5120,f,3
+33,1984-09-04,ON,174,TRINITY,23869,"BERLIN, Susan",Green Party of Canada,50,Green Party,Grn,t,341,f,4
+33,1984-09-04,ON,174,TRINITY,23870,"RING, Peter W.",Libertarian Party of Canada,81,Libertarian Party,Liber,f,255,f,5
+33,1984-09-04,ON,174,TRINITY,23871,"KASHTAN, William",Communist Party of Canada,31,Communist Party,Com,f,195,f,6
+33,1984-09-04,ON,174,TRINITY,23872,"MA, Ted",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,73,f,7
+33,1984-09-04,ON,175,VICTORIA--HALIBURTON,23873,"SCOTT, Bill",Progressive Conservative,124,Progressive Conservative Party,PC,t,30229,f,1
+33,1984-09-04,ON,175,VICTORIA--HALIBURTON,23874,"GLASS, Bruce",Liberal,75,Liberal,Lib,t,10032,f,2
+33,1984-09-04,ON,175,VICTORIA--HALIBURTON,23875,"DANIEL, Patrick",New Democratic Party,100,New Democratic Party,NDP,t,8682,f,3
+33,1984-09-04,ON,175,VICTORIA--HALIBURTON,23876,"KERR, George K.",Green Party of Canada,50,Green Party,Grn,t,339,f,4
+33,1984-09-04,ON,175,VICTORIA--HALIBURTON,23877,"DURNIN, Robert A.",Libertarian Party of Canada,81,Libertarian Party,Liber,f,324,f,5
+33,1984-09-04,ON,176,WATERLOO,23878,"MCLEAN, Walter",Progressive Conservative,124,Progressive Conservative Party,PC,t,31898,f,1
+33,1984-09-04,ON,176,WATERLOO,23879,"MYERS, Lynn",Liberal,75,Liberal,Lib,t,13911,f,2
+33,1984-09-04,ON,176,WATERLOO,23880,"NEEDHAM, Bob",New Democratic Party,100,New Democratic Party,NDP,t,10275,f,3
+33,1984-09-04,ON,176,WATERLOO,23881,"KULCHECKI, Layne E.",Libertarian Party of Canada,81,Libertarian Party,Liber,f,525,f,4
+33,1984-09-04,ON,177,WELLAND,23882,"PIETZ, Allan",Progressive Conservative,124,Progressive Conservative Party,PC,t,18418,f,1
+33,1984-09-04,ON,177,WELLAND,23883,"PARENT, Gib",Liberal,75,Liberal,Lib,t,14481,f,2
+33,1984-09-04,ON,177,WELLAND,23884,"DOBRUCKI, Rob",New Democratic Party,100,New Democratic Party,NDP,t,10508,f,3
+33,1984-09-04,ON,177,WELLAND,23885,"RIVETT, Andrew",Green Party of Canada,50,Green Party,Grn,t,284,f,4
+33,1984-09-04,ON,177,WELLAND,23886,"MACLENNAN, John",Communist Party of Canada,31,Communist Party,Com,f,145,f,5
+33,1984-09-04,ON,178,WELLINGTON--DUFFERIN--SIMCOE,23887,"Beatty, Perrin",Progressive Conservative,124,Progressive Conservative Party,PC,t,29983,f,1
+33,1984-09-04,ON,178,WELLINGTON--DUFFERIN--SIMCOE,23888,"GREEN, John",Liberal,75,Liberal,Lib,t,7303,f,2
+33,1984-09-04,ON,178,WELLINGTON--DUFFERIN--SIMCOE,23889,"YOUNG, Sandy W.A.",New Democratic Party,100,New Democratic Party,NDP,t,6468,f,3
+33,1984-09-04,ON,179,WILLOWDALE,23890,"OOSTROM, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,22425,f,1
+33,1984-09-04,ON,179,WILLOWDALE,23891,"PETERSON, Jim",Liberal,75,Liberal,Lib,t,22063,f,2
+33,1984-09-04,ON,179,WILLOWDALE,23892,"FAGAN, John",New Democratic Party,100,New Democratic Party,NDP,t,6711,f,3
+33,1984-09-04,ON,179,WILLOWDALE,23893,"GRAHAM, George",Libertarian Party of Canada,81,Libertarian Party,Liber,f,329,f,4
+33,1984-09-04,ON,180,WINDSOR WEST,23894,"Gray, Herb",Liberal,75,Liberal,Lib,t,13624,f,1
+33,1984-09-04,ON,180,WINDSOR WEST,23895,"FORDER, Paul",New Democratic Party,100,New Democratic Party,NDP,t,11503,f,2
+33,1984-09-04,ON,180,WINDSOR WEST,23896,"GOLDBERG, Marty",Progressive Conservative,124,Progressive Conservative Party,PC,t,8158,f,3
+33,1984-09-04,ON,180,WINDSOR WEST,23897,"DECK, Martin X.",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,232,f,4
+33,1984-09-04,ON,180,WINDSOR WEST,23898,"LONGMOORE, Mike",Communist Party of Canada,31,Communist Party,Com,f,84,f,5
+33,1984-09-04,ON,181,WINDSOR--WALKERVILLE,23899,"MCCURDY, Howard",New Democratic Party,100,New Democratic Party,NDP,t,14604,f,1
+33,1984-09-04,ON,181,WINDSOR--WALKERVILLE,23900,"Porter, Tom",Progressive Conservative,124,Progressive Conservative Party,PC,t,13546,f,2
+33,1984-09-04,ON,181,WINDSOR--WALKERVILLE,23901,"PATTERSON, Terrance",Liberal,75,Liberal,Lib,t,11574,f,3
+33,1984-09-04,ON,182,YORK CENTRE,23902,"KAPLAN, Bob",Liberal,75,Liberal,Lib,t,20810,f,1
+33,1984-09-04,ON,182,YORK CENTRE,23903,"COHEN, Mike",Progressive Conservative,124,Progressive Conservative Party,PC,t,11138,f,2
+33,1984-09-04,ON,182,YORK CENTRE,23904,"NEWELL, Van",New Democratic Party,100,New Democratic Party,NDP,t,8037,f,3
+33,1984-09-04,ON,182,YORK CENTRE,23905,"SRDAREV, Simon",Libertarian Party of Canada,81,Libertarian Party,Liber,f,244,f,4
+33,1984-09-04,ON,182,YORK CENTRE,23906,"ROTER, Sol",No affiliation to a recognised party,52,Independent,Ind,f,226,f,5
+33,1984-09-04,ON,182,YORK CENTRE,23907,"GEDDES, Bonnie J.",No affiliation to a recognised party,52,Independent,Ind,f,203,f,6
+33,1984-09-04,ON,183,YORK EAST,23908,"Redway, Alan",Progressive Conservative,124,Progressive Conservative Party,PC,t,21978,f,1
+33,1984-09-04,ON,183,YORK EAST,23909,"COLLENETTE, David",Liberal,75,Liberal,Lib,t,16519,f,2
+33,1984-09-04,ON,183,YORK EAST,23910,"GORELLE, Bill",New Democratic Party,100,New Democratic Party,NDP,t,7581,f,3
+33,1984-09-04,ON,183,YORK EAST,23911,"SORENSEN, Chris",Libertarian Party of Canada,81,Libertarian Party,Liber,f,243,f,4
+33,1984-09-04,ON,183,YORK EAST,23912,"STATHOPOULOS, Stathis",Communist Party of Canada,31,Communist Party,Com,f,171,f,5
+33,1984-09-04,ON,184,YORK NORTH,23913,"ROMAN, Tony",No affiliation to a recognised party,52,Independent,Ind,f,32200,f,1
+33,1984-09-04,ON,184,YORK NORTH,23914,"GAMBLE, John A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,27955,f,2
+33,1984-09-04,ON,184,YORK NORTH,23915,"TOLLIS, Aldo",Liberal,75,Liberal,Lib,t,18034,f,3
+33,1984-09-04,ON,184,YORK NORTH,23916,"SCHWAR, Doris",New Democratic Party,100,New Democratic Party,NDP,t,10077,f,4
+33,1984-09-04,ON,185,YORK SOUTH--WESTON,23917,"NUNZIATA, John V.",Liberal,75,Liberal,Lib,t,14217,f,1
+33,1984-09-04,ON,185,YORK SOUTH--WESTON,23918,"KRASHINSKY, Steve",New Democratic Party,100,New Democratic Party,NDP,t,11679,f,2
+33,1984-09-04,ON,185,YORK SOUTH--WESTON,23919,"TESTA, Carlo",Progressive Conservative,124,Progressive Conservative Party,PC,t,10789,f,3
+33,1984-09-04,ON,185,YORK SOUTH--WESTON,23920,"LUCZKIW, Mike",No affiliation to a recognised party,52,Independent,Ind,f,526,f,4
+33,1984-09-04,ON,185,YORK SOUTH--WESTON,23921,"PETRIW, Myron",Libertarian Party of Canada,81,Libertarian Party,Liber,f,281,f,5
+33,1984-09-04,ON,185,YORK SOUTH--WESTON,23922,"PHILLIPS, Mike",Communist Party of Canada,31,Communist Party,Com,f,174,f,6
+33,1984-09-04,ON,186,YORK WEST,23923,"MARCHI, Sergio",Liberal,75,Liberal,Lib,t,17629,f,1
+33,1984-09-04,ON,186,YORK WEST,23924,"DI GIORGIO, Frank",Progressive Conservative,124,Progressive Conservative Party,PC,t,12218,f,2
+33,1984-09-04,ON,186,YORK WEST,23925,"PASQUANTONIO, Bruno",New Democratic Party,100,New Democratic Party,NDP,t,8718,f,3
+33,1984-09-04,ON,186,YORK WEST,23926,"KUBIAS, Dusan",Libertarian Party of Canada,81,Libertarian Party,Liber,f,335,f,4
+33,1984-09-04,ON,186,YORK WEST,23927,"ESPOSITO, Anna",Independent,52,Independent,Ind,f,279,f,5
+33,1984-09-04,ON,186,YORK WEST,23928,"KEYLWERTH, Jutta I.",Green Party of Canada,50,Green Party,Grn,t,238,f,6
+33,1984-09-04,ON,186,YORK WEST,23929,"SWEET, Jack C.",Communist Party of Canada,31,Communist Party,Com,f,147,f,7
+33,1984-09-04,ON,187,YORK--PEEL,23930,"STEVENS, Sinclair",Progressive Conservative,124,Progressive Conservative Party,PC,t,37493,f,1
+33,1984-09-04,ON,187,YORK--PEEL,23931,"MCPHERSON, Pam",Liberal,75,Liberal,Lib,t,12538,f,2
+33,1984-09-04,ON,187,YORK--PEEL,23932,"HALL, John",New Democratic Party,100,New Democratic Party,NDP,t,9353,f,3
+33,1984-09-04,ON,187,YORK--PEEL,23933,"PRITCHARD, Ray",Independent,52,Independent,Ind,f,480,f,4
+33,1984-09-04,ON,187,YORK--PEEL,23934,"DREESEN, Thomas",Libertarian Party of Canada,81,Libertarian Party,Liber,f,437,f,5
+33,1984-09-04,ON,188,YORK--SCARBOROUGH,23935,"MCCROSSAN, W. Paul",Progressive Conservative,124,Progressive Conservative Party,PC,t,48809,f,1
+33,1984-09-04,ON,188,YORK--SCARBOROUGH,23936,"ROWLANDS, June",Liberal,75,Liberal,Lib,t,35869,f,2
+33,1984-09-04,ON,188,YORK--SCARBOROUGH,23937,"BONDARCHUK, Yvonnne",New Democratic Party,100,New Democratic Party,NDP,t,13260,f,3
+33,1984-09-04,ON,188,YORK--SCARBOROUGH,23938,"DANCE, George",Libertarian Party of Canada,81,Libertarian Party,Liber,f,1067,f,4
+33,1984-09-04,ON,188,YORK--SCARBOROUGH,23939,"MCBRIDE, Anne C.",Independent,52,Independent,Ind,f,704,f,5
+33,1984-09-04,ON,188,YORK--SCARBOROUGH,23940,"CAUCHON, Dona",Independent,52,Independent,Ind,f,666,f,6
+33,1984-09-04,PE,189,CARDIGAN,23941,"Binns, Pat",Progressive Conservative,124,Progressive Conservative Party,PC,t,10566,f,1
+33,1984-09-04,PE,189,CARDIGAN,23942,"CAMPBELL, W. Bennett",Liberal,75,Liberal,Lib,t,8344,f,2
+33,1984-09-04,PE,189,CARDIGAN,23943,"Cudmore, Lorne",New Democratic Party,100,New Democratic Party,NDP,t,891,f,3
+33,1984-09-04,PE,190,EGMONT,23944,"HENDERSON, George",Liberal,75,Liberal,Lib,t,8777,f,1
+33,1984-09-04,PE,190,EGMONT,23945,"Dewar, George",Progressive Conservative,124,Progressive Conservative Party,PC,t,7859,f,2
+33,1984-09-04,PE,190,EGMONT,23946,"Munro, Wain",New Democratic Party,100,New Democratic Party,NDP,t,994,f,3
+33,1984-09-04,PE,191,HILLSBOROUGH,23947,"McMillan, Tom",Progressive Conservative,124,Progressive Conservative Party,PC,t,9158,f,1
+33,1984-09-04,PE,191,HILLSBOROUGH,23948,"Birt, Jerry",Liberal,75,Liberal,Lib,t,6768,f,2
+33,1984-09-04,PE,191,HILLSBOROUGH,23949,"Burke, David",New Democratic Party,100,New Democratic Party,NDP,t,846,f,3
+33,1984-09-04,PE,191,HILLSBOROUGH,23950,"Muise, Big John",No affiliation to a recognised party,52,Independent,Ind,f,323,f,4
+33,1984-09-04,PE,191,HILLSBOROUGH,23951,"McFadden, Izzurd Goat",Independent,52,Independent,Ind,f,82,f,5
+33,1984-09-04,PE,191,HILLSBOROUGH,23952,"Daughton, David",Green Party of Canada,50,Green Party,Grn,t,37,f,6
+33,1984-09-04,PE,192,MALPEQUE,23953,"Gass, Mel",Progressive Conservative,124,Progressive Conservative Party,PC,t,10577,f,1
+33,1984-09-04,PE,192,MALPEQUE,23954,"Schurman, Paul",Liberal,75,Liberal,Lib,t,6186,f,2
+33,1984-09-04,PE,192,MALPEQUE,23955,"Norgrove, Janet",New Democratic Party,100,New Democratic Party,NDP,t,2006,f,3
+33,1984-09-04,QC,193,ABITIBI,23956,"St-Julien, Guy",Progressive Conservative,124,Progressive Conservative Party,PC,t,23230,f,1
+33,1984-09-04,QC,193,ABITIBI,23957,"Gingras, René",Liberal,75,Liberal,Lib,t,12525,f,2
+33,1984-09-04,QC,193,ABITIBI,23958,"Tremblay, Royal",New Democratic Party,100,New Democratic Party,NDP,t,3583,f,3
+33,1984-09-04,QC,193,ABITIBI,23959,"Hamelin, Robert",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,2264,f,4
+33,1984-09-04,QC,193,ABITIBI,23960,"Caron, Georges",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,1925,f,5
+33,1984-09-04,QC,193,ABITIBI,23961,"Leduc, Alphonse",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1179,f,6
+33,1984-09-04,QC,194,ARGENTEUIL--PAPINEAU,23962,"Bourgault, Lise",Progressive Conservative,124,Progressive Conservative Party,PC,t,21105,f,1
+33,1984-09-04,QC,194,ARGENTEUIL--PAPINEAU,23963,"GOURD, Robert",Liberal,75,Liberal,Lib,t,12096,f,2
+33,1984-09-04,QC,194,ARGENTEUIL--PAPINEAU,23964,"JOHANSSON, Bjorn L.",New Democratic Party,100,New Democratic Party,NDP,t,2671,f,3
+33,1984-09-04,QC,194,ARGENTEUIL--PAPINEAU,23965,"SABOURIN, Claude Sam",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,946,f,4
+33,1984-09-04,QC,194,ARGENTEUIL--PAPINEAU,23966,"GRANGER, François",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,566,f,5
+33,1984-09-04,QC,194,ARGENTEUIL--PAPINEAU,23967,"BÉLEC, Alphonse J.",Independent,52,Independent,Ind,f,350,f,6
+33,1984-09-04,QC,195,BEAUCE,23968,"BERNIER, Gilles",Progressive Conservative,124,Progressive Conservative Party,PC,t,25028,f,1
+33,1984-09-04,QC,195,BEAUCE,23969,"LAPOINTE, Normand",Liberal,75,Liberal,Lib,t,20323,f,2
+33,1984-09-04,QC,195,BEAUCE,23970,"L'ITALIEN, Serge",New Democratic Party,100,New Democratic Party,NDP,t,1217,f,3
+33,1984-09-04,QC,195,BEAUCE,23971,"GRONDIN, Paul-Emile",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,569,f,4
+33,1984-09-04,QC,196,BEAUHARNOIS--SALABERRY,23972,"HUDON, Jean-Guy",Progressive Conservative,124,Progressive Conservative Party,PC,t,27614,f,1
+33,1984-09-04,QC,196,BEAUHARNOIS--SALABERRY,23973,"GAUDREAU, Jean-Guy",Liberal,75,Liberal,Lib,t,11395,f,2
+33,1984-09-04,QC,196,BEAUHARNOIS--SALABERRY,23974,"CALLAGHAN, Gus",New Democratic Party,100,New Democratic Party,NDP,t,2720,f,3
+33,1984-09-04,QC,196,BEAUHARNOIS--SALABERRY,23975,"GINGRAS, Réal Le Parfait",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1216,f,4
+33,1984-09-04,QC,196,BEAUHARNOIS--SALABERRY,23976,"VAUDRIN, Maurice",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,798,f,5
+33,1984-09-04,QC,197,BELLECHASSE,23977,"Blais, Pierre",Progressive Conservative,124,Progressive Conservative Party,PC,t,24357,f,1
+33,1984-09-04,QC,197,BELLECHASSE,23978,"GARANT, Alain",Liberal,75,Liberal,Lib,t,14500,f,2
+33,1984-09-04,QC,197,BELLECHASSE,23979,"LEMOINE, Roger",New Democratic Party,100,New Democratic Party,NDP,t,1666,f,3
+33,1984-09-04,QC,197,BELLECHASSE,23980,"CHABOT, Serge Au-Boutte",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1070,f,4
+33,1984-09-04,QC,197,BELLECHASSE,23981,"LIZOTTE, André",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,518,f,5
+33,1984-09-04,QC,198,BERTHIER--MASKINONGÉ--LANAUDIÈRE,23982,"DE COTRET, Robert",Progressive Conservative,124,Progressive Conservative Party,PC,t,31189,f,1
+33,1984-09-04,QC,198,BERTHIER--MASKINONGÉ--LANAUDIÈRE,23983,"YANAKIS, Antonio",Liberal,75,Liberal,Lib,t,11736,f,2
+33,1984-09-04,QC,198,BERTHIER--MASKINONGÉ--LANAUDIÈRE,23984,"PENNER, Jean Philip",New Democratic Party,100,New Democratic Party,NDP,t,1200,f,3
+33,1984-09-04,QC,198,BERTHIER--MASKINONGÉ--LANAUDIÈRE,23985,"ROCHELEAU, Marcel",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,608,f,4
+33,1984-09-04,QC,198,BERTHIER--MASKINONGÉ--LANAUDIÈRE,23986,"ROUZIOUX, Germain",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,68,f,5
+33,1984-09-04,QC,199,BLAINVILLE--DEUX-MONTAGNES,23987,"LANDRY, Monique",Progressive Conservative,124,Progressive Conservative Party,PC,t,28863,f,1
+33,1984-09-04,QC,199,BLAINVILLE--DEUX-MONTAGNES,23990,"FOX, Francis",Liberal,75,Liberal,Lib,t,23732,f,2
+33,1984-09-04,QC,199,BLAINVILLE--DEUX-MONTAGNES,23991,"LABRIE, Normand J.",New Democratic Party,100,New Democratic Party,NDP,t,5609,f,3
+33,1984-09-04,QC,199,BLAINVILLE--DEUX-MONTAGNES,23988,"LAFRENIÈRE, Réjean O.",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1558,f,4
+33,1984-09-04,QC,199,BLAINVILLE--DEUX-MONTAGNES,23989,"EPINAT, Daniel",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,1032,f,5
+33,1984-09-04,QC,199,BLAINVILLE--DEUX-MONTAGNES,23992,"HOULE, Sylvie",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,255,f,6
+33,1984-09-04,QC,199,BLAINVILLE--DEUX-MONTAGNES,23993,"CHIASSON, Charles C.",No affiliation to a recognised party,52,Independent,Ind,f,113,f,7
+33,1984-09-04,QC,199,BLAINVILLE--DEUX-MONTAGNES,23994,"PELCHAT, Sylvain G.",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,58,f,8
+33,1984-09-04,QC,199,BLAINVILLE--DEUX-MONTAGNES,23995,"LE ROUGETEL, Katy S.",Independent,52,Independent,Ind,f,26,f,9
+33,1984-09-04,QC,200,BONAVENTURE--ÎLES-DE-LA-MADELEINE,23996,"GRAY, Darryl L.",Progressive Conservative,124,Progressive Conservative Party,PC,t,15502,f,1
+33,1984-09-04,QC,200,BONAVENTURE--ÎLES-DE-LA-MADELEINE,23997,"BUJOLD, Rémi",Liberal,75,Liberal,Lib,t,13689,f,2
+33,1984-09-04,QC,200,BONAVENTURE--ÎLES-DE-LA-MADELEINE,23999,"CAUVIER, Martin",New Democratic Party,100,New Democratic Party,NDP,t,1040,f,3
+33,1984-09-04,QC,200,BONAVENTURE--ÎLES-DE-LA-MADELEINE,24000,"SAUVÉ, Sylvain",No affiliation to a recognised party,52,Independent,Ind,f,440,f,4
+33,1984-09-04,QC,200,BONAVENTURE--ÎLES-DE-LA-MADELEINE,23998,"BERNIER, Jacques",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,280,f,5
+33,1984-09-04,QC,201,BOURASSA,24001,"ROSSI, Carlo",Liberal,75,Liberal,Lib,t,20221,f,1
+33,1984-09-04,QC,201,BOURASSA,24006,"ROCHON, Raymond-J.",Progressive Conservative,124,Progressive Conservative Party,PC,t,18703,f,2
+33,1984-09-04,QC,201,BOURASSA,24007,"CHARTERS, Roderick",New Democratic Party,100,New Democratic Party,NDP,t,3741,f,3
+33,1984-09-04,QC,201,BOURASSA,24008,"MALOUIN, Dominique Pique-Nique",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1618,f,4
+33,1984-09-04,QC,201,BOURASSA,24002,"PEREY, J. André",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,1169,f,5
+33,1984-09-04,QC,201,BOURASSA,24005,"BOUDREAU, Roland",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,236,f,6
+33,1984-09-04,QC,201,BOURASSA,24009,"PARADIS, Carl",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,125,f,7
+33,1984-09-04,QC,201,BOURASSA,24003,"DUGRÉ, Michel",No affiliation to a recognised party,52,Independent,Ind,f,103,f,8
+33,1984-09-04,QC,201,BOURASSA,24004,"LEDOUX, Gérard",No affiliation to a recognised party,52,Independent,Ind,f,101,f,9
+33,1984-09-04,QC,202,BROME--MISSISQUOI,24010,"BERTRAND, Gabrielle",Progressive Conservative,124,Progressive Conservative Party,PC,t,21678,f,1
+33,1984-09-04,QC,202,BROME--MISSISQUOI,24012,"BACHAND, André",Liberal,75,Liberal,Lib,t,15693,f,2
+33,1984-09-04,QC,202,BROME--MISSISQUOI,24013,"HAMILTON, Gordon J.",New Democratic Party,100,New Democratic Party,NDP,t,2271,f,3
+33,1984-09-04,QC,202,BROME--MISSISQUOI,24014,"BÉLAIR, Yvon",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,997,f,4
+33,1984-09-04,QC,202,BROME--MISSISQUOI,24015,"CHAMBERLAIN, David",Libertarian Party of Canada,81,Libertarian Party,Liber,f,116,f,5
+33,1984-09-04,QC,202,BROME--MISSISQUOI,24011,"BOISSONNAULT, Michel",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,96,f,6
+33,1984-09-04,QC,203,CHAMBLY,24016,"GRISÉ, Richard",Progressive Conservative,124,Progressive Conservative Party,PC,t,31535,f,1
+33,1984-09-04,QC,203,CHAMBLY,24019,"DUPONT, Raymond",Liberal,75,Liberal,Lib,t,18078,f,2
+33,1984-09-04,QC,203,CHAMBLY,24017,"HASTINGS, Clifford D.",New Democratic Party,100,New Democratic Party,NDP,t,6783,f,3
+33,1984-09-04,QC,203,CHAMBLY,24018,"LOISELLE, Bertrand Plastic",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,2328,f,4
+33,1984-09-04,QC,203,CHAMBLY,24020,"HOSSON, Claude J.A.",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,1942,f,5
+33,1984-09-04,QC,203,CHAMBLY,24021,"DESERRES, Louis A.",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,189,f,6
+33,1984-09-04,QC,204,CHAMPLAIN,24022,"CHAMPAGNE, Michel",Progressive Conservative,124,Progressive Conservative Party,PC,t,27467,f,1
+33,1984-09-04,QC,204,CHAMPLAIN,24025,"VEILLETTE, Michel",Liberal,75,Liberal,Lib,t,14459,f,2
+33,1984-09-04,QC,204,CHAMPLAIN,24023,"CLOUTIER, Louise",New Democratic Party,100,New Democratic Party,NDP,t,3124,f,3
+33,1984-09-04,QC,204,CHAMPLAIN,24024,"PERRON, Jean",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,723,f,4
+33,1984-09-04,QC,205,CHARLESBOURG,24026,"TARDIF, Monique B.",Progressive Conservative,124,Progressive Conservative Party,PC,t,37592,f,1
+33,1984-09-04,QC,205,CHARLESBOURG,24029,"BUSSIERES, Pierre",Liberal,75,Liberal,Lib,t,22637,f,2
+33,1984-09-04,QC,205,CHARLESBOURG,24030,"TREMBLAY, Etienne",New Democratic Party,100,New Democratic Party,NDP,t,7301,f,3
+33,1984-09-04,QC,205,CHARLESBOURG,24031,"FRENETTE, Jean Vadrouille",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,2557,f,4
+33,1984-09-04,QC,205,CHARLESBOURG,24032,"JEAN, Jean-Nil",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,1088,f,5
+33,1984-09-04,QC,205,CHARLESBOURG,24027,"ROBICHAUD, Robert",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,469,f,6
+33,1984-09-04,QC,205,CHARLESBOURG,24028,"ST-LOUIS, Daniel",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,84,f,7
+33,1984-09-04,QC,206,CHARLEVOIX,24033,"HAMELIN, Charles",Progressive Conservative,124,Progressive Conservative Party,PC,t,23661,f,1
+33,1984-09-04,QC,206,CHARLEVOIX,24036,"LAPOINTE, Charles",Liberal,75,Liberal,Lib,t,11906,f,2
+33,1984-09-04,QC,206,CHARLEVOIX,24034,"TOULOUSE, Jocelyn",New Democratic Party,100,New Democratic Party,NDP,t,1022,f,3
+33,1984-09-04,QC,206,CHARLEVOIX,24035,"PILOTE, Victorien",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,610,f,4
+33,1984-09-04,QC,207,CHICOUTIMI,24037,"HARVEY, André",Progressive Conservative,124,Progressive Conservative Party,PC,t,22304,f,1
+33,1984-09-04,QC,207,CHICOUTIMI,24041,"DIONNE, Marcel",Liberal,75,Liberal,Lib,t,10736,f,2
+33,1984-09-04,QC,207,CHICOUTIMI,24040,"COTÉ, Denise",New Democratic Party,100,New Democratic Party,NDP,t,2211,f,3
+33,1984-09-04,QC,207,CHICOUTIMI,24038,"FOURNIER, Réjean Fou",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,801,f,4
+33,1984-09-04,QC,207,CHICOUTIMI,24039,"DESLOGES, Marie-Claude",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,626,f,5
+33,1984-09-04,QC,208,CHÂTEAUGUAY,24042,"LOPEZ, Ricardo",Progressive Conservative,124,Progressive Conservative Party,PC,t,21318,f,1
+33,1984-09-04,QC,208,CHÂTEAUGUAY,24043,"WATSON, Ian",Liberal,75,Liberal,Lib,t,17313,f,2
+33,1984-09-04,QC,208,CHÂTEAUGUAY,24045,"VIGNEAULT, Robert",New Democratic Party,100,New Democratic Party,NDP,t,5083,f,3
+33,1984-09-04,QC,208,CHÂTEAUGUAY,24046,"LAFRENAYE, Jean-Guy",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,1630,f,4
+33,1984-09-04,QC,208,CHÂTEAUGUAY,24044,"PELLETIER, Guy",Libertarian Party of Canada,81,Libertarian Party,Liber,f,284,f,5
+33,1984-09-04,QC,208,CHÂTEAUGUAY,24047,"GRISÉ, Gilles A.",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,124,f,6
+33,1984-09-04,QC,209,DOLLARD,24048,"Weiner, Gerry",Progressive Conservative,124,Progressive Conservative Party,PC,t,26076,f,1
+33,1984-09-04,QC,209,DOLLARD,24049,"DESMARAIS, Louis R.",Liberal,75,Liberal,Lib,t,21451,f,2
+33,1984-09-04,QC,209,DOLLARD,24050,"INGERMAN, Sid",New Democratic Party,100,New Democratic Party,NDP,t,6619,f,3
+33,1984-09-04,QC,209,DOLLARD,24051,"CONSTANTIN-TRUBA, Rita",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1247,f,4
+33,1984-09-04,QC,209,DOLLARD,24052,"HURTUBISE, Gisèle",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,978,f,5
+33,1984-09-04,QC,209,DOLLARD,24053,"ROWE, Hugh",Libertarian Party of Canada,81,Libertarian Party,Liber,f,381,f,6
+33,1984-09-04,QC,209,DOLLARD,24054,"GALASSO, Pascal",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,104,f,7
+33,1984-09-04,QC,210,DRUMMOND,24055,"GUILBAULT, Jean-Guy",Progressive Conservative,124,Progressive Conservative Party,PC,t,23693,f,1
+33,1984-09-04,QC,210,DRUMMOND,24056,"YIP, Michel",Liberal,75,Liberal,Lib,t,14137,f,2
+33,1984-09-04,QC,210,DRUMMOND,24057,"GARREAU, Louis G.",New Democratic Party,100,New Democratic Party,NDP,t,2610,f,3
+33,1984-09-04,QC,210,DRUMMOND,24058,"BELHUMEUR, Camillien",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,1057,f,4
+33,1984-09-04,QC,210,DRUMMOND,24059,"MILLER, Joseph Richard",No affiliation to a recognised party,52,Independent,Ind,f,338,f,5
+33,1984-09-04,QC,210,DRUMMOND,24060,"MARTINEAU, René",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,301,f,6
+33,1984-09-04,QC,211,DUVERNAY,24061,"DELLA NOCE, Vincent",Progressive Conservative,124,Progressive Conservative Party,PC,t,29877,f,1
+33,1984-09-04,QC,211,DUVERNAY,24062,"DEMERS, Yves",Liberal,75,Liberal,Lib,t,18465,f,2
+33,1984-09-04,QC,211,DUVERNAY,24063,"SHATILLA, John",New Democratic Party,100,New Democratic Party,NDP,t,5013,f,3
+33,1984-09-04,QC,211,DUVERNAY,24064,"MONIÈRE, Denis",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,3195,f,4
+33,1984-09-04,QC,211,DUVERNAY,24065,"ST-ONGE, Patrice Charlot",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,2088,f,5
+33,1984-09-04,QC,211,DUVERNAY,24066,"LAROCQUE, A. Léo",Independent,52,Independent,Ind,f,453,f,6
+33,1984-09-04,QC,211,DUVERNAY,24067,"MARTEL, Émilien",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,174,f,7
+33,1984-09-04,QC,211,DUVERNAY,24068,"LEHEURTEUX, Pierre",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,66,f,8
+33,1984-09-04,QC,212,FRONTENAC,24069,"MASSE, Marcel",Progressive Conservative,124,Progressive Conservative Party,PC,t,28246,f,1
+33,1984-09-04,QC,212,FRONTENAC,24070,"CORRIVEAU, Léopold",Liberal,75,Liberal,Lib,t,9154,f,2
+33,1984-09-04,QC,212,FRONTENAC,24071,"BOUCHARD, Rita",New Democratic Party,100,New Democratic Party,NDP,t,1081,f,3
+33,1984-09-04,QC,212,FRONTENAC,24072,"FOURNIER, Pierre",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,823,f,4
+33,1984-09-04,QC,212,FRONTENAC,24073,"HOULE, Richard",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,386,f,5
+33,1984-09-04,QC,213,GAMELIN,24074,"GRAVEL, Michel",Progressive Conservative,124,Progressive Conservative Party,PC,t,20870,f,1
+33,1984-09-04,QC,213,GAMELIN,24080,"THIBAULT, Lise",Liberal,75,Liberal,Lib,t,17491,f,2
+33,1984-09-04,QC,213,GAMELIN,24075,"CYR, Carl",New Democratic Party,100,New Democratic Party,NDP,t,4730,f,3
+33,1984-09-04,QC,213,GAMELIN,24076,"GOUIN, Jean-Claude Stardust",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1659,f,4
+33,1984-09-04,QC,213,GAMELIN,24077,"MARTIN, Henriette",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,1313,f,5
+33,1984-09-04,QC,213,GAMELIN,24078,"BRAMANN, Rolf",Green Party of Canada,50,Green Party,Grn,t,720,f,6
+33,1984-09-04,QC,213,GAMELIN,24079,"LECLERC, Roger",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,96,f,7
+33,1984-09-04,QC,214,GASPÉ,24081,"MARIN, Charles-Eugène",Progressive Conservative,124,Progressive Conservative Party,PC,t,19128,f,1
+33,1984-09-04,QC,214,GASPÉ,24083,"CYR, Alexandre",Liberal,75,Liberal,Lib,t,10215,f,2
+33,1984-09-04,QC,214,GASPÉ,24082,"PIPON, Yvon",New Democratic Party,100,New Democratic Party,NDP,t,1065,f,3
+33,1984-09-04,QC,214,GASPÉ,24084,"DUBREUIL, Marie-Christine",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,697,f,4
+33,1984-09-04,QC,214,GASPÉ,24085,"LÉVESQUE, Joseph-Marie",Independent,52,Independent,Ind,f,317,f,5
+33,1984-09-04,QC,215,GATINEAU,24086,"MAILLY, Claudy",Progressive Conservative,124,Progressive Conservative Party,PC,t,25873,f,1
+33,1984-09-04,QC,215,GATINEAU,24088,"COUSINEAU, René",Liberal,75,Liberal,Lib,t,17496,f,2
+33,1984-09-04,QC,215,GATINEAU,24089,"ROSSIGNOL, Sylvie",New Democratic Party,100,New Democratic Party,NDP,t,6543,f,3
+33,1984-09-04,QC,215,GATINEAU,24090,"SCUVÉE, Jean",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,766,f,4
+33,1984-09-04,QC,215,GATINEAU,24087,"MÉTHOT, Jean-Guy",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,142,f,5
+33,1984-09-04,QC,216,HOCHELAGA--MAISONNEUVE,24091,"DESROSIERS, Édouard",Progressive Conservative,124,Progressive Conservative Party,PC,t,13244,f,1
+33,1984-09-04,QC,216,HOCHELAGA--MAISONNEUVE,24092,"JOYAL, Serge",Liberal,75,Liberal,Lib,t,12201,f,2
+33,1984-09-04,QC,216,HOCHELAGA--MAISONNEUVE,24097,"GAGNON-SIROIS, Marie-Ange",New Democratic Party,100,New Democratic Party,NDP,t,3596,f,3
+33,1984-09-04,QC,216,HOCHELAGA--MAISONNEUVE,24096,"SIROIS, Richard A.",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1847,f,4
+33,1984-09-04,QC,216,HOCHELAGA--MAISONNEUVE,24095,"MÉNARD, Réal",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,1089,f,5
+33,1984-09-04,QC,216,HOCHELAGA--MAISONNEUVE,24094,"TRUDEL, Gaetan",Communist Party of Canada,31,Communist Party,Com,f,99,f,6
+33,1984-09-04,QC,216,HOCHELAGA--MAISONNEUVE,24093,"GONZALES, Daniel",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,63,f,7
+33,1984-09-04,QC,217,HULL--AYLMER,24098,"ISABELLE, Gaston",Liberal,75,Liberal,Lib,t,17058,f,1
+33,1984-09-04,QC,217,HULL--AYLMER,24100,"MÉNARD, Pierre",Progressive Conservative,124,Progressive Conservative Party,PC,t,15563,f,2
+33,1984-09-04,QC,217,HULL--AYLMER,24099,"AUDETTE, Jacques",New Democratic Party,100,New Democratic Party,NDP,t,8247,f,3
+33,1984-09-04,QC,217,HULL--AYLMER,24102,"ANCTIL, Carol",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,1015,f,4
+33,1984-09-04,QC,217,HULL--AYLMER,24101,"CHARTRAND, Émile",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,156,f,5
+33,1984-09-04,QC,218,JOLIETTE,24103,"LA SALLE, Roch",Progressive Conservative,124,Progressive Conservative Party,PC,t,38839,f,1
+33,1984-09-04,QC,218,JOLIETTE,24106,"MEAGHER, Hélène",Liberal,75,Liberal,Lib,t,9006,f,2
+33,1984-09-04,QC,218,JOLIETTE,24107,"VAILLANCOURT, Martin",New Democratic Party,100,New Democratic Party,NDP,t,2186,f,3
+33,1984-09-04,QC,218,JOLIETTE,24108,"MONDOR, Henri Dicule",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1515,f,4
+33,1984-09-04,QC,218,JOLIETTE,24105,"ARGERIS, Marc",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,654,f,5
+33,1984-09-04,QC,218,JOLIETTE,24109,"BLOUIN, Alfred",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,200,f,6
+33,1984-09-04,QC,218,JOLIETTE,24110,"ESCOLA, Montserrat",Communist Party of Canada,31,Communist Party,Com,f,103,f,7
+33,1984-09-04,QC,218,JOLIETTE,24104,"MOMO, Isaylovic",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,44,f,8
+33,1984-09-04,QC,219,JONQUIÈRE,24111,"BLACKBURN, Jean-Pierre",Progressive Conservative,124,Progressive Conservative Party,PC,t,18217,f,1
+33,1984-09-04,QC,219,JONQUIÈRE,24113,"MARCEAU, Gilles",Liberal,75,Liberal,Lib,t,14088,f,2
+33,1984-09-04,QC,219,JONQUIÈRE,24114,"MALAISON, Jean",New Democratic Party,100,New Democratic Party,NDP,t,1870,f,3
+33,1984-09-04,QC,219,JONQUIÈRE,24115,"ARCHIBALD, Magella",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,1620,f,4
+33,1984-09-04,QC,219,JONQUIÈRE,24112,"BOUCHARD, Richard Boudrias",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,905,f,5
+33,1984-09-04,QC,220,KAMOURASKA--RIVIÈRE-DU-LOUP,24116,"PLOURDE, André",Progressive Conservative,124,Progressive Conservative Party,PC,t,19651,f,1
+33,1984-09-04,QC,220,KAMOURASKA--RIVIÈRE-DU-LOUP,24118,"PETTIGREW, Pierre",Liberal,75,Liberal,Lib,t,12922,f,2
+33,1984-09-04,QC,220,KAMOURASKA--RIVIÈRE-DU-LOUP,24119,"BEAULIEU, Gaston La Poule",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1989,f,3
+33,1984-09-04,QC,220,KAMOURASKA--RIVIÈRE-DU-LOUP,24117,"BIBAUD, Victor",New Democratic Party,100,New Democratic Party,NDP,t,1550,f,4
+33,1984-09-04,QC,220,KAMOURASKA--RIVIÈRE-DU-LOUP,24120,"POIRIER, Charles-Aimé",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,584,f,5
+33,1984-09-04,QC,220,KAMOURASKA--RIVIÈRE-DU-LOUP,24121,"LAGACÉ, Jean-Noël",Independent,52,Independent,Ind,f,233,f,6
+33,1984-09-04,QC,221,LA PRAIRIE,24122,"JOURDENAIS, Fernand",Progressive Conservative,124,Progressive Conservative Party,PC,t,26506,f,1
+33,1984-09-04,QC,221,LA PRAIRIE,24124,"DENIGER, Pierre",Liberal,75,Liberal,Lib,t,25182,f,2
+33,1984-09-04,QC,221,LA PRAIRIE,24123,"CHEVALIER-GRÉGOIRE, Lyse",New Democratic Party,100,New Democratic Party,NDP,t,8602,f,3
+33,1984-09-04,QC,221,LA PRAIRIE,24127,"FISICARO, Monique Spazzola",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1851,f,4
+33,1984-09-04,QC,221,LA PRAIRIE,24125,"WECOWSKI, Marian",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,1373,f,5
+33,1984-09-04,QC,221,LA PRAIRIE,24126,"GÉLINEAU, Jean-Pierre",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,157,f,6
+33,1984-09-04,QC,222,LABELLE,24128,"LADOUCEUR, Fernand",Progressive Conservative,124,Progressive Conservative Party,PC,t,28286,f,1
+33,1984-09-04,QC,222,LABELLE,24130,"HOTTE, Claude",Liberal,75,Liberal,Lib,t,14465,f,2
+33,1984-09-04,QC,222,LABELLE,24131,"PÉCLET, Marc",New Democratic Party,100,New Democratic Party,NDP,t,4670,f,3
+33,1984-09-04,QC,222,LABELLE,24129,"MIRON, Jacques Coco",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1567,f,4
+33,1984-09-04,QC,222,LABELLE,24132,"GRÉGOIRE, Adrien",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,1546,f,5
+33,1984-09-04,QC,222,LABELLE,24133,"POULIOT, Albert",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,274,f,6
+33,1984-09-04,QC,222,LABELLE,24134,"TREMBLAY, Denis",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,84,f,7
+33,1984-09-04,QC,223,LAC-SAINT-JEAN,24135,"COTÉ, Clément M.",Progressive Conservative,124,Progressive Conservative Party,PC,t,25270,f,1
+33,1984-09-04,QC,223,LAC-SAINT-JEAN,24138,"GIMA-EL, Pierre",Liberal,75,Liberal,Lib,t,12683,f,2
+33,1984-09-04,QC,223,LAC-SAINT-JEAN,24137,"GAGNON, Claude",New Democratic Party,100,New Democratic Party,NDP,t,2132,f,3
+33,1984-09-04,QC,223,LAC-SAINT-JEAN,24136,"COURVILLE, Yves",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,813,f,4
+33,1984-09-04,QC,224,LACHINE,24139,"LAYTON, Bob",Progressive Conservative,124,Progressive Conservative Party,PC,t,24301,f,1
+33,1984-09-04,QC,224,LACHINE,24142,"ROBERTS, Stanley C.",Liberal,75,Liberal,Lib,t,15156,f,2
+33,1984-09-04,QC,224,LACHINE,24140,"TERAUDS, John J.P.",New Democratic Party,100,New Democratic Party,NDP,t,5628,f,3
+33,1984-09-04,QC,224,LACHINE,24141,"HOWARTH, Scott",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,966,f,4
+33,1984-09-04,QC,224,LACHINE,24143,"MÉNARD, Yves",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,503,f,5
+33,1984-09-04,QC,224,LACHINE,24144,"KENDALL, Richard K.",Libertarian Party of Canada,81,Libertarian Party,Liber,f,245,f,6
+33,1984-09-04,QC,224,LACHINE,24145,"FILLMORE, David C.",Independent,52,Independent,Ind,f,134,f,7
+33,1984-09-04,QC,224,LACHINE,24146,"MACLELLAN, Stuart",Independent,52,Independent,Ind,f,116,f,8
+33,1984-09-04,QC,225,LANGELIER,24147,"COTÉ, Michel",Progressive Conservative,124,Progressive Conservative Party,PC,t,16872,f,1
+33,1984-09-04,QC,225,LANGELIER,24148,"IEVERS, Florence",Liberal,75,Liberal,Lib,t,14004,f,2
+33,1984-09-04,QC,225,LANGELIER,24149,"DESMEULES, Majella",New Democratic Party,100,New Democratic Party,NDP,t,4597,f,3
+33,1984-09-04,QC,225,LANGELIER,24150,"LEFEBVRE, Jean Obélix",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,2576,f,4
+33,1984-09-04,QC,225,LANGELIER,24151,"BINETTE, André",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,919,f,5
+33,1984-09-04,QC,225,LANGELIER,24152,"LANDRY, Christian",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,189,f,6
+33,1984-09-04,QC,226,LASALLE,24153,"LANTHIER, Claude",Progressive Conservative,124,Progressive Conservative Party,PC,t,23238,f,1
+33,1984-09-04,QC,226,LASALLE,24154,"CAMPBELL, John",Liberal,75,Liberal,Lib,t,19418,f,2
+33,1984-09-04,QC,226,LASALLE,24155,"ARELLA, Pietro",New Democratic Party,100,New Democratic Party,NDP,t,4755,f,3
+33,1984-09-04,QC,226,LASALLE,24156,"GAUTHIER, Danielle Plymouth",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1331,f,4
+33,1984-09-04,QC,226,LASALLE,24157,"MASSÉ, Mireille",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,861,f,5
+33,1984-09-04,QC,226,LASALLE,24158,"BOYLE, Andy",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,122,f,6
+33,1984-09-04,QC,227,LAURIER,24159,"BERGER, David",Liberal,75,Liberal,Lib,t,9302,f,1
+33,1984-09-04,QC,227,LAURIER,24160,"GAGNÉ, Roland",Progressive Conservative,124,Progressive Conservative Party,PC,t,7720,f,2
+33,1984-09-04,QC,227,LAURIER,24161,"JUNEAU, Jean-Pierre",New Democratic Party,100,New Democratic Party,NDP,t,4595,f,3
+33,1984-09-04,QC,227,LAURIER,24162,"GOURD, François Yo",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,3247,f,4
+33,1984-09-04,QC,227,LAURIER,24163,"SAINT-AMOUR, Jean",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,906,f,5
+33,1984-09-04,QC,227,LAURIER,24164,"SILVERMAN, Robert",Green Party of Canada,50,Green Party,Grn,t,751,f,6
+33,1984-09-04,QC,227,LAURIER,24165,"COTÉ, Gilles",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,194,f,7
+33,1984-09-04,QC,227,LAURIER,24166,"O'KEEFE, Brian",Communist Party of Canada,31,Communist Party,Com,f,130,f,8
+33,1984-09-04,QC,227,LAURIER,24167,"LANGEVIN, Jean",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,53,f,9
+33,1984-09-04,QC,228,LAVAL,24168,"Ricard, Guy",Progressive Conservative,124,Progressive Conservative Party,PC,t,30696,f,1
+33,1984-09-04,QC,228,LAVAL,24169,"ROY, Marcel C.",Liberal,75,Liberal,Lib,t,23002,f,2
+33,1984-09-04,QC,228,LAVAL,24170,"FASCIANO, John",New Democratic Party,100,New Democratic Party,NDP,t,8158,f,3
+33,1984-09-04,QC,228,LAVAL,24171,"MONIÈRE, Conrad",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,2331,f,4
+33,1984-09-04,QC,228,LAVAL,24172,"SOUVRAY, Jean-Claude",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,299,f,5
+33,1984-09-04,QC,229,LAVAL-DES-RAPIDES,24173,"GARNEAU, Raymond",Liberal,75,Liberal,Lib,t,22789,f,1
+33,1984-09-04,QC,229,LAVAL-DES-RAPIDES,24174,"HANIGAN, Lawrence",Progressive Conservative,124,Progressive Conservative Party,PC,t,20420,f,2
+33,1984-09-04,QC,229,LAVAL-DES-RAPIDES,24175,"ST-LOUIS, Léo",New Democratic Party,100,New Democratic Party,NDP,t,5215,f,3
+33,1984-09-04,QC,229,LAVAL-DES-RAPIDES,24176,"LAFORTUNE, Serge",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1910,f,4
+33,1984-09-04,QC,229,LAVAL-DES-RAPIDES,24177,"BERTRAND, Denis",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,1492,f,5
+33,1984-09-04,QC,229,LAVAL-DES-RAPIDES,24178,"LÉPINE, François",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,90,f,6
+33,1984-09-04,QC,230,LONGUEUIL,24179,"LEBLANC, Nic",Progressive Conservative,124,Progressive Conservative Party,PC,t,28956,f,1
+33,1984-09-04,QC,230,LONGUEUIL,24184,"OLIVIER, Jacques",Liberal,75,Liberal,Lib,t,19654,f,2
+33,1984-09-04,QC,230,LONGUEUIL,24183,"GAGNON, Claire",New Democratic Party,100,New Democratic Party,NDP,t,6401,f,3
+33,1984-09-04,QC,230,LONGUEUIL,24182,"IMBEAU, Denise",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,3054,f,4
+33,1984-09-04,QC,230,LONGUEUIL,24181,"MILLET-LYNCH dit BAGNO, Robert",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,2523,f,5
+33,1984-09-04,QC,230,LONGUEUIL,24180,"ROUILLARD, André",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,73,f,6
+33,1984-09-04,QC,231,LOTBINIÈRE,24185,"Tremblay, Maurice",Progressive Conservative,124,Progressive Conservative Party,PC,t,22584,f,1
+33,1984-09-04,QC,231,LOTBINIÈRE,24186,"DUBOIS, Jean-Guy",Liberal,75,Liberal,Lib,t,20202,f,2
+33,1984-09-04,QC,231,LOTBINIÈRE,24187,"COTÉ, Gaston",New Democratic Party,100,New Democratic Party,NDP,t,1963,f,3
+33,1984-09-04,QC,231,LOTBINIÈRE,24188,"SÉVIGNY, André",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,909,f,4
+33,1984-09-04,QC,231,LOTBINIÈRE,24189,"BOUFFARD, Nelson",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,881,f,5
+33,1984-09-04,QC,232,LOUIS-HÉBERT,24190,"DUPLESSIS, Suzanne",Progressive Conservative,124,Progressive Conservative Party,PC,t,29420,f,1
+33,1984-09-04,QC,232,LOUIS-HÉBERT,24196,"Dawson, Dennis",Liberal,75,Liberal,Lib,t,22592,f,2
+33,1984-09-04,QC,232,LOUIS-HÉBERT,24193,"FISET, Gilles",New Democratic Party,100,New Democratic Party,NDP,t,7548,f,3
+33,1984-09-04,QC,232,LOUIS-HÉBERT,24194,"BERNIER, Hélène La folle alliée",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,2003,f,4
+33,1984-09-04,QC,232,LOUIS-HÉBERT,24195,"BOISVERT, Raymond",Independent,52,Independent,Ind,f,1153,f,5
+33,1984-09-04,QC,232,LOUIS-HÉBERT,24191,"GIROUX, Jean-Baptiste",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,1106,f,6
+33,1984-09-04,QC,232,LOUIS-HÉBERT,24192,"DESBIENS, Sylvain",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,184,f,7
+33,1984-09-04,QC,233,LÉVIS,24197,"FONTAINE, Gabriel",Progressive Conservative,124,Progressive Conservative Party,PC,t,32338,f,1
+33,1984-09-04,QC,233,LÉVIS,24202,"GOURDE, Gaston",Liberal,75,Liberal,Lib,t,17283,f,2
+33,1984-09-04,QC,233,LÉVIS,24199,"HARNEY, Jean-Paul",New Democratic Party,100,New Democratic Party,NDP,t,12076,f,3
+33,1984-09-04,QC,233,LÉVIS,24198,"DUBÉ, Antoine",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,1649,f,4
+33,1984-09-04,QC,233,LÉVIS,24200,"MARQUIS, Raymond Emiliano",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1630,f,5
+33,1984-09-04,QC,233,LÉVIS,24201,"RHÉAUME, Jean-Paul",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,216,f,6
+33,1984-09-04,QC,234,MANICOUAGAN,24203,"MULRONEY, Brian",Progressive Conservative,124,Progressive Conservative Party,PC,t,28208,f,1
+33,1984-09-04,QC,234,MANICOUAGAN,24204,"MALTAIS, André",Liberal,75,Liberal,Lib,t,9640,f,2
+33,1984-09-04,QC,234,MANICOUAGAN,24205,"FAUBERT, Denis",New Democratic Party,100,New Democratic Party,NDP,t,939,f,3
+33,1984-09-04,QC,234,MANICOUAGAN,24206,"DUPONT, Laurian",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,536,f,4
+33,1984-09-04,QC,234,MANICOUAGAN,24207,"ROULEAU, Raynald",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,101,f,5
+33,1984-09-04,QC,235,MATAPÉDIA--MATANE,24208,"JONCAS, Jean-Luc",Progressive Conservative,124,Progressive Conservative Party,PC,t,15994,f,1
+33,1984-09-04,QC,235,MATAPÉDIA--MATANE,24210,"LÉVESQUE, Jocelyne",Liberal,75,Liberal,Lib,t,9929,f,2
+33,1984-09-04,QC,235,MATAPÉDIA--MATANE,24209,"DUFORT, Pierre",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,3523,f,3
+33,1984-09-04,QC,235,MATAPÉDIA--MATANE,24211,"D'ASTOUS, Frédéric",New Democratic Party,100,New Democratic Party,NDP,t,909,f,4
+33,1984-09-04,QC,236,MONTMORENCY--ORLÉANS,24212,"BLOUIN, Anne",Progressive Conservative,124,Progressive Conservative Party,PC,t,22753,f,1
+33,1984-09-04,QC,236,MONTMORENCY--ORLÉANS,24213,"DUCLOS, Louis",Liberal,75,Liberal,Lib,t,19226,f,2
+33,1984-09-04,QC,236,MONTMORENCY--ORLÉANS,24215,"BÉRUBÉ, Jacques",New Democratic Party,100,New Democratic Party,NDP,t,3931,f,3
+33,1984-09-04,QC,236,MONTMORENCY--ORLÉANS,24216,"DEMERS, Jean-Claude Pon Pon",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1599,f,4
+33,1984-09-04,QC,236,MONTMORENCY--ORLÉANS,24214,"GAGNON, Jules",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,586,f,5
+33,1984-09-04,QC,236,MONTMORENCY--ORLÉANS,24217,"RAICHE-BOULAY, Winifred",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,288,f,6
+33,1984-09-04,QC,237,MONTREAL--MERCIER,24218,"JACQUES, Carole",Progressive Conservative,124,Progressive Conservative Party,PC,t,25071,f,1
+33,1984-09-04,QC,237,MONTREAL--MERCIER,24223,"Hervieux-Payette, Céline",Liberal,75,Liberal,Lib,t,19335,f,2
+33,1984-09-04,QC,237,MONTREAL--MERCIER,24222,"FERLAND, Robert",New Democratic Party,100,New Democratic Party,NDP,t,4925,f,3
+33,1984-09-04,QC,237,MONTREAL--MERCIER,24219,"GIGUÈRE, Gérald",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,2557,f,4
+33,1984-09-04,QC,237,MONTREAL--MERCIER,24221,"POLLENDER, Raymond les oreilles",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,2038,f,5
+33,1984-09-04,QC,237,MONTREAL--MERCIER,24220,"DESTROISMAISONS, Michel",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,154,f,6
+33,1984-09-04,QC,238,MONTREAL--SAINTE MARIE,24224,"MALÉPART, Jean-Claude",Liberal,75,Liberal,Lib,t,13668,f,1
+33,1984-09-04,QC,238,MONTREAL--SAINTE MARIE,24225,"RICHARD, François",Progressive Conservative,124,Progressive Conservative Party,PC,t,10919,f,2
+33,1984-09-04,QC,238,MONTREAL--SAINTE MARIE,24229,"VAILLANCOURT, Lauraine",New Democratic Party,100,New Democratic Party,NDP,t,3525,f,3
+33,1984-09-04,QC,238,MONTREAL--SAINTE MARIE,24226,"LANGEVIN, Dominique Whipette",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,2338,f,4
+33,1984-09-04,QC,238,MONTREAL--SAINTE MARIE,24227,"VAILLANCOURT, André",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,990,f,5
+33,1984-09-04,QC,238,MONTREAL--SAINTE MARIE,24228,"COTÉ, Ghislain",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,69,f,6
+33,1984-09-04,QC,239,MOUNT ROYAL,24230,"Finestone, Sheila",Liberal,75,Liberal,Lib,t,22716,f,1
+33,1984-09-04,QC,239,MOUNT ROYAL,24232,"Wolfe, Sharon",Progressive Conservative,124,Progressive Conservative Party,PC,t,18707,f,2
+33,1984-09-04,QC,239,MOUNT ROYAL,24233,"Pearson, Nancy",New Democratic Party,100,New Democratic Party,NDP,t,4735,f,3
+33,1984-09-04,QC,239,MOUNT ROYAL,24234,"Racine, Claude Parachute",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,776,f,4
+33,1984-09-04,QC,239,MOUNT ROYAL,24235,"Daoust, André",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,392,f,5
+33,1984-09-04,QC,239,MOUNT ROYAL,24236,"Lévis, Victor",Libertarian Party of Canada,81,Libertarian Party,Liber,f,338,f,6
+33,1984-09-04,QC,239,MOUNT ROYAL,24231,"Sholzberg, Mark",Independent,52,Independent,Ind,f,110,f,7
+33,1984-09-04,QC,239,MOUNT ROYAL,24237,"Huard, Guy R.",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,80,f,8
+33,1984-09-04,QC,240,MÉGANTIC--COMPTON--STANSTEAD,24238,"GÉRIN, François",Progressive Conservative,124,Progressive Conservative Party,PC,t,25679,f,1
+33,1984-09-04,QC,240,MÉGANTIC--COMPTON--STANSTEAD,24241,"TESSIER, Claude",Liberal,75,Liberal,Lib,t,13123,f,2
+33,1984-09-04,QC,240,MÉGANTIC--COMPTON--STANSTEAD,24240,"WALSH, Jean-Pierre",New Democratic Party,100,New Democratic Party,NDP,t,2690,f,3
+33,1984-09-04,QC,240,MÉGANTIC--COMPTON--STANSTEAD,24244,"McCAMMON, Andrew",Green Party of Canada,50,Green Party,Grn,t,454,f,4
+33,1984-09-04,QC,240,MÉGANTIC--COMPTON--STANSTEAD,24239,"HOUDE, Michel",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,427,f,5
+33,1984-09-04,QC,240,MÉGANTIC--COMPTON--STANSTEAD,24242,"BÉLANGER, Robert",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,399,f,6
+33,1984-09-04,QC,240,MÉGANTIC--COMPTON--STANSTEAD,24243,"JAVITCH, Ronald A.",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,51,f,7
+33,1984-09-04,QC,241,NOTRE-DAME-DE-GRÂCE--LACHINE EAST,24245,"Allmand, Warren",Liberal,75,Liberal,Lib,t,17910,f,1
+33,1984-09-04,QC,241,NOTRE-DAME-DE-GRÂCE--LACHINE EAST,24247,"AUF DER MAUR, Nick",Progressive Conservative,124,Progressive Conservative Party,PC,t,15845,f,2
+33,1984-09-04,QC,241,NOTRE-DAME-DE-GRÂCE--LACHINE EAST,24248,"HAINES, Grendon",New Democratic Party,100,New Democratic Party,NDP,t,5772,f,3
+33,1984-09-04,QC,241,NOTRE-DAME-DE-GRÂCE--LACHINE EAST,24246,"MAC TAGGART, Don Blended 46 Years",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1007,f,4
+33,1984-09-04,QC,241,NOTRE-DAME-DE-GRÂCE--LACHINE EAST,24249,"CUSSON, René",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,564,f,5
+33,1984-09-04,QC,241,NOTRE-DAME-DE-GRÂCE--LACHINE EAST,24250,"CORRIVEAU, Michel",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,140,f,6
+33,1984-09-04,QC,242,OUTREMONT,24251,"PÉPIN, Lucie",Liberal,75,Liberal,Lib,t,14508,f,1
+33,1984-09-04,QC,242,OUTREMONT,24252,"SYLVESTRE, Anne-Marie",Progressive Conservative,124,Progressive Conservative Party,PC,t,10383,f,2
+33,1984-09-04,QC,242,OUTREMONT,24253,"BEAUDIN, Johanne",New Democratic Party,100,New Democratic Party,NDP,t,6687,f,3
+33,1984-09-04,QC,242,OUTREMONT,24257,"HAMEL, Claude V.U.",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1484,f,4
+33,1984-09-04,QC,242,OUTREMONT,24254,"LEBEUF, Roger",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,1185,f,5
+33,1984-09-04,QC,242,OUTREMONT,24255,"LUBRINA, François",Green Party of Canada,50,Green Party,Grn,t,890,f,6
+33,1984-09-04,QC,242,OUTREMONT,24256,"RIOUX, Jocelyne",Communist Party of Canada,31,Communist Party,Com,f,182,f,7
+33,1984-09-04,QC,242,OUTREMONT,24258,"DELAND-GERVAIS, Christiane",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,139,f,8
+33,1984-09-04,QC,243,PAPINEAU,24259,"Ouellet, André",Liberal,75,Liberal,Lib,t,12754,f,1
+33,1984-09-04,QC,243,PAPINEAU,24260,"IACOBACCIO, Tony",Progressive Conservative,124,Progressive Conservative Party,PC,t,12053,f,2
+33,1984-09-04,QC,243,PAPINEAU,24261,"COMTOIS, Paul",New Democratic Party,100,New Democratic Party,NDP,t,4295,f,3
+33,1984-09-04,QC,243,PAPINEAU,24262,"JOLICOEUR, Christian",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1925,f,4
+33,1984-09-04,QC,243,PAPINEAU,24263,"MAILLÉ, Gilles",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,1169,f,5
+33,1984-09-04,QC,243,PAPINEAU,24264,"DAGENAIS, Suzanne",Communist Party of Canada,31,Communist Party,Com,f,147,f,6
+33,1984-09-04,QC,243,PAPINEAU,24265,"MIREAULT, Roland",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,147,f,6
+33,1984-09-04,QC,243,PAPINEAU,24266,"GERVAIS, Gilles",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,113,f,8
+33,1984-09-04,QC,243,PAPINEAU,24267,"LACROIX, Doris",No affiliation to a recognised party,52,Independent,Ind,f,104,f,9
+33,1984-09-04,QC,244,PONTIAC--GATINEAU--LABELLE,24268,"MOORE, Barry",Progressive Conservative,124,Progressive Conservative Party,PC,t,21754,f,1
+33,1984-09-04,QC,244,PONTIAC--GATINEAU--LABELLE,24269,"DICKSON, Elizabeth",Liberal,75,Liberal,Lib,t,10025,f,2
+33,1984-09-04,QC,244,PONTIAC--GATINEAU--LABELLE,24270,"ROWLAND, Paul",New Democratic Party,100,New Democratic Party,NDP,t,2667,f,3
+33,1984-09-04,QC,244,PONTIAC--GATINEAU--LABELLE,24271,"DEALBUQUERQUE, Dominique",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,524,f,4
+33,1984-09-04,QC,244,PONTIAC--GATINEAU--LABELLE,24272,"CRAIG-MÉTHOT, Donna",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,141,f,5
+33,1984-09-04,QC,245,PORTNEUF,24273,"Ferland, Marc",Progressive Conservative,124,Progressive Conservative Party,PC,t,23797,f,1
+33,1984-09-04,QC,245,PORTNEUF,24278,"DION, Rolland",Liberal,75,Liberal,Lib,t,17687,f,2
+33,1984-09-04,QC,245,PORTNEUF,24277,"PELCHAT, Jacques",New Democratic Party,100,New Democratic Party,NDP,t,3012,f,3
+33,1984-09-04,QC,245,PORTNEUF,24276,"PARADIS, Jean",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1222,f,4
+33,1984-09-04,QC,245,PORTNEUF,24275,"MARCOTTE, Georges-H.",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,638,f,5
+33,1984-09-04,QC,245,PORTNEUF,24274,"ROBERGE-PETITCLERC, Renée",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,248,f,6
+33,1984-09-04,QC,246,QUÉBEC-EST,24279,"TREMBLAY, Marcel R.",Progressive Conservative,124,Progressive Conservative Party,PC,t,19782,f,1
+33,1984-09-04,QC,246,QUÉBEC-EST,24282,"DUQUET, Gérard",Liberal,75,Liberal,Lib,t,14332,f,2
+33,1984-09-04,QC,246,QUÉBEC-EST,24283,"LEBLANC, Michel",New Democratic Party,100,New Democratic Party,NDP,t,4189,f,3
+33,1984-09-04,QC,246,QUÉBEC-EST,24284,"FAFARD, Michel",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1683,f,4
+33,1984-09-04,QC,246,QUÉBEC-EST,24285,"BOURQUE, Jean-Louis",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,790,f,5
+33,1984-09-04,QC,246,QUÉBEC-EST,24281,"BÉRUBÉ, Serge",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,239,f,6
+33,1984-09-04,QC,246,QUÉBEC-EST,24280,"ANGERS, Pierre",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,96,f,7
+33,1984-09-04,QC,247,RICHELIEU,24286,"PLAMONDON, Louis",Progressive Conservative,124,Progressive Conservative Party,PC,t,28747,f,1
+33,1984-09-04,QC,247,RICHELIEU,24287,"Leduc, Jean-Louis",Liberal,75,Liberal,Lib,t,14933,f,2
+33,1984-09-04,QC,247,RICHELIEU,24288,"DUPUIS, Gaston",New Democratic Party,100,New Democratic Party,NDP,t,2174,f,3
+33,1984-09-04,QC,247,RICHELIEU,24289,"VACHON, Guy",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,1463,f,4
+33,1984-09-04,QC,247,RICHELIEU,24290,"BANVILLE, Pi-oui",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,945,f,5
+33,1984-09-04,QC,247,RICHELIEU,24291,"BIBEAU, Rénald",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,202,f,6
+33,1984-09-04,QC,247,RICHELIEU,24292,"JULIEN, Yves",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,76,f,7
+33,1984-09-04,QC,248,RICHMOND--WOLFE,24293,"TARDIF, Alain",Liberal,75,Liberal,Lib,t,18069,f,1
+33,1984-09-04,QC,248,RICHMOND--WOLFE,24294,"CROTEAU, Jean-Jacques",Progressive Conservative,124,Progressive Conservative Party,PC,t,13835,f,2
+33,1984-09-04,QC,248,RICHMOND--WOLFE,24295,"SCHLEIFER, Harriet J.",New Democratic Party,100,New Democratic Party,NDP,t,1638,f,3
+33,1984-09-04,QC,248,RICHMOND--WOLFE,24296,"HÉBERT-CROTEAU, Ivan",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,1339,f,4
+33,1984-09-04,QC,248,RICHMOND--WOLFE,24297,"DION, Léo",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,273,f,5
+33,1984-09-04,QC,249,RIMOUSKI--TÉMISCOUATA,24298,"VÉZINA, Monique",Progressive Conservative,124,Progressive Conservative Party,PC,t,25516,f,1
+33,1984-09-04,QC,249,RIMOUSKI--TÉMISCOUATA,24299,"COTÉ, Eva",Liberal,75,Liberal,Lib,t,14234,f,2
+33,1984-09-04,QC,249,RIMOUSKI--TÉMISCOUATA,24300,"POULIN, Guy",New Democratic Party,100,New Democratic Party,NDP,t,1250,f,3
+33,1984-09-04,QC,249,RIMOUSKI--TÉMISCOUATA,24301,"BOUCHARD, Pierre",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,840,f,4
+33,1984-09-04,QC,249,RIMOUSKI--TÉMISCOUATA,24302,"ST-ONGE, Jacques",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,752,f,5
+33,1984-09-04,QC,249,RIMOUSKI--TÉMISCOUATA,24303,"CARRIER, Marc",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,64,f,6
+33,1984-09-04,QC,250,ROBERVAL,24304,"BOUCHARD, Benoît",Progressive Conservative,124,Progressive Conservative Party,PC,t,22981,f,1
+33,1984-09-04,QC,250,ROBERVAL,24305,"BEAUCHAMP-NIQUET, Suzanne",Liberal,75,Liberal,Lib,t,12917,f,2
+33,1984-09-04,QC,250,ROBERVAL,24306,"TREMBLAY, Marius",New Democratic Party,100,New Democratic Party,NDP,t,837,f,3
+33,1984-09-04,QC,250,ROBERVAL,24307,"SIMARD, Candide",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,422,f,4
+33,1984-09-04,QC,251,ROSEMONT,24308,"BLAIS-GRENIER, Suzanne",Progressive Conservative,124,Progressive Conservative Party,PC,t,15782,f,1
+33,1984-09-04,QC,251,ROSEMONT,24309,"SCIASCIA, Antonio",Liberal,75,Liberal,Lib,t,14477,f,2
+33,1984-09-04,QC,251,ROSEMONT,24310,"LAMARRE, Roger J.W.D.",New Democratic Party,100,New Democratic Party,NDP,t,4054,f,3
+33,1984-09-04,QC,251,ROSEMONT,24311,"LACASSE, Francine Rose Lime",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1587,f,4
+33,1984-09-04,QC,251,ROSEMONT,24312,"CASTONGUAY, Denis",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,1008,f,5
+33,1984-09-04,QC,251,ROSEMONT,24313,"DEMERS, Claude",Communist Party of Canada,31,Communist Party,Com,f,161,f,6
+33,1984-09-04,QC,251,ROSEMONT,24314,"LAPOINTE, Lucien",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,143,f,7
+33,1984-09-04,QC,251,ROSEMONT,24315,"DESJARDINS, Dollard",No affiliation to a recognised party,52,Independent,Ind,f,101,f,8
+33,1984-09-04,QC,251,ROSEMONT,24316,"MALBOEUF, André",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,64,f,9
+33,1984-09-04,QC,252,SAINT-DENIS,24317,"PRUD'HOMME, Marcel",Liberal,75,Liberal,Lib,t,18750,f,1
+33,1984-09-04,QC,252,SAINT-DENIS,24318,"GEORGAKAKOS, Peter",Progressive Conservative,124,Progressive Conservative Party,PC,t,12122,f,2
+33,1984-09-04,QC,252,SAINT-DENIS,24319,"MCKAY, Scott",New Democratic Party,100,New Democratic Party,NDP,t,4581,f,3
+33,1984-09-04,QC,252,SAINT-DENIS,24320,"BENOIT, Ben Rhino 97 Michel",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1588,f,4
+33,1984-09-04,QC,252,SAINT-DENIS,24321,"GAUDET, Clovis",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,981,f,5
+33,1984-09-04,QC,252,SAINT-DENIS,24322,"LAMOUREUX, Claude",Independent,52,Independent,Ind,f,297,f,6
+33,1984-09-04,QC,252,SAINT-DENIS,24323,"WALSH, Samuel",Communist Party of Canada,31,Communist Party,Com,f,266,f,7
+33,1984-09-04,QC,252,SAINT-DENIS,24324,"BUCHET, Serge",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,125,f,8
+33,1984-09-04,QC,253,SAINT-HENRI--WESTMOUNT,24325,"JOHNSTON, Donald J.",Liberal,75,Liberal,Lib,t,18244,f,1
+33,1984-09-04,QC,253,SAINT-HENRI--WESTMOUNT,24326,"LAFORTE, Bertrand",Progressive Conservative,124,Progressive Conservative Party,PC,t,14168,f,2
+33,1984-09-04,QC,253,SAINT-HENRI--WESTMOUNT,24327,"THOMPSON, John H.",New Democratic Party,100,New Democratic Party,NDP,t,5889,f,3
+33,1984-09-04,QC,253,SAINT-HENRI--WESTMOUNT,24328,"ALIE, Laurent Arthur",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1289,f,4
+33,1984-09-04,QC,253,SAINT-HENRI--WESTMOUNT,24329,"RICHARD, Luc",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,653,f,5
+33,1984-09-04,QC,253,SAINT-HENRI--WESTMOUNT,24330,"QUESNEL, Harold",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,38,f,6
+33,1984-09-04,QC,254,SAINT-HYACINTHE--BAGOT,24331,"CHAMPAGNE, Andrée P.",Progressive Conservative,124,Progressive Conservative Party,PC,t,22984,f,1
+33,1984-09-04,QC,254,SAINT-HYACINTHE--BAGOT,24332,"OSTIGUY, Marcel",Liberal,75,Liberal,Lib,t,21394,f,2
+33,1984-09-04,QC,254,SAINT-HYACINTHE--BAGOT,24333,"GAGNON, Claude R.",New Democratic Party,100,New Democratic Party,NDP,t,2196,f,3
+33,1984-09-04,QC,254,SAINT-HYACINTHE--BAGOT,24334,"LEMOYNE, Serge Alexis",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,998,f,4
+33,1984-09-04,QC,254,SAINT-HYACINTHE--BAGOT,24335,"DESROSIERS, Bertrand",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,940,f,5
+33,1984-09-04,QC,254,SAINT-HYACINTHE--BAGOT,24336,"GAUTHIER, Laurent",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,33,f,6
+33,1984-09-04,QC,255,SAINT-JACQUES,24337,"GUILBAULT, Jacques",Liberal,75,Liberal,Lib,t,10875,f,1
+33,1984-09-04,QC,255,SAINT-JACQUES,24338,"DUGUAY, Lorraine",Progressive Conservative,124,Progressive Conservative Party,PC,t,10291,f,2
+33,1984-09-04,QC,255,SAINT-JACQUES,24339,"MOLTER, Mike",New Democratic Party,100,New Democratic Party,NDP,t,4057,f,3
+33,1984-09-04,QC,255,SAINT-JACQUES,24340,"CORBEIL, Pierre dit Lagaffe",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1204,f,4
+33,1984-09-04,QC,255,SAINT-JACQUES,24341,"LAROCHE, Denise",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,738,f,5
+33,1984-09-04,QC,255,SAINT-JACQUES,24342,"ROY, Marianne",Communist Party of Canada,31,Communist Party,Com,f,152,f,6
+33,1984-09-04,QC,255,SAINT-JACQUES,24343,"LANGEVIN, Robert",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,116,f,7
+33,1984-09-04,QC,256,SAINT-JEAN,24344,"BISSONNETTE, André",Progressive Conservative,124,Progressive Conservative Party,PC,t,30769,f,1
+33,1984-09-04,QC,256,SAINT-JEAN,24345,"MASSÉ, Paul-André",Liberal,75,Liberal,Lib,t,14823,f,2
+33,1984-09-04,QC,256,SAINT-JEAN,24346,"SLOAN, Todd",New Democratic Party,100,New Democratic Party,NDP,t,3642,f,3
+33,1984-09-04,QC,256,SAINT-JEAN,24347,"PELLETIER, Gaëtan dit Paco",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1209,f,4
+33,1984-09-04,QC,256,SAINT-JEAN,24348,"CHOINIÈRE, Luc",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,1002,f,5
+33,1984-09-04,QC,256,SAINT-JEAN,24349,"TALBOT, Pierre",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,45,f,6
+33,1984-09-04,QC,257,SAINT-LÉONARD--ANJOU,24350,"GAGLIANO, Alfonso",Liberal,75,Liberal,Lib,t,24520,f,1
+33,1984-09-04,QC,257,SAINT-LÉONARD--ANJOU,24351,"CANNAVINO, Agostino",Progressive Conservative,124,Progressive Conservative Party,PC,t,23275,f,2
+33,1984-09-04,QC,257,SAINT-LÉONARD--ANJOU,24352,"TRUDEAU, Terrence",New Democratic Party,100,New Democratic Party,NDP,t,7506,f,3
+33,1984-09-04,QC,257,SAINT-LÉONARD--ANJOU,24353,"OUELLET, Denis La Miuf",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,2152,f,4
+33,1984-09-04,QC,257,SAINT-LÉONARD--ANJOU,24354,"COTNOIR, Pierre-Alain",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,1634,f,5
+33,1984-09-04,QC,257,SAINT-LÉONARD--ANJOU,24355,"VIGNEAULT, Jean",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,145,f,6
+33,1984-09-04,QC,258,SAINT-MAURICE,24356,"CHRÉTIEN, Jean",Liberal,75,Liberal,Lib,t,24050,f,1
+33,1984-09-04,QC,258,SAINT-MAURICE,24357,"CHARBONNEAU, Roger Armand",Progressive Conservative,124,Progressive Conservative Party,PC,t,14468,f,2
+33,1984-09-04,QC,258,SAINT-MAURICE,24358,"DELBECQUE, Danielle",New Democratic Party,100,New Democratic Party,NDP,t,1433,f,3
+33,1984-09-04,QC,258,SAINT-MAURICE,24359,"DÉRY, Alain",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,892,f,4
+33,1984-09-04,QC,259,SAINT-MICHEL--AHUNTSIC,24360,"KILLENS, Thérèse",Liberal,75,Liberal,Lib,t,17269,f,1
+33,1984-09-04,QC,259,SAINT-MICHEL--AHUNTSIC,24361,"PARADIS, René",Progressive Conservative,124,Progressive Conservative Party,PC,t,15444,f,2
+33,1984-09-04,QC,259,SAINT-MICHEL--AHUNTSIC,24362,"MONGEAU, Hélène",New Democratic Party,100,New Democratic Party,NDP,t,4875,f,3
+33,1984-09-04,QC,259,SAINT-MICHEL--AHUNTSIC,24363,"DUMONT, Le Sénateur Luc",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1543,f,4
+33,1984-09-04,QC,259,SAINT-MICHEL--AHUNTSIC,24364,"DE KINDER, Louis",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,1243,f,5
+33,1984-09-04,QC,259,SAINT-MICHEL--AHUNTSIC,24365,"CHABOT, Line",Communist Party of Canada,31,Communist Party,Com,f,190,f,6
+33,1984-09-04,QC,259,SAINT-MICHEL--AHUNTSIC,24366,"EL-SAYED, Joseph A.",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,88,f,7
+33,1984-09-04,QC,260,SHEFFORD,24367,"LAPIERRE, Jean",Liberal,75,Liberal,Lib,t,25483,f,1
+33,1984-09-04,QC,260,SHEFFORD,24368,"Loubier, Denis",Progressive Conservative,124,Progressive Conservative Party,PC,t,23028,f,2
+33,1984-09-04,QC,260,SHEFFORD,24369,"BOISSÉ, Denis",New Democratic Party,100,New Democratic Party,NDP,t,3569,f,3
+33,1984-09-04,QC,260,SHEFFORD,24370,"BOIVIN, Pierre C.",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,1552,f,4
+33,1984-09-04,QC,261,SHERBROOKE,24371,"CHAREST, Jean J.",Progressive Conservative,124,Progressive Conservative Party,PC,t,22232,f,1
+33,1984-09-04,QC,261,SHERBROOKE,24372,"PELLETIER, Irénée",Liberal,75,Liberal,Lib,t,14607,f,2
+33,1984-09-04,QC,261,SHERBROOKE,24373,"BERTHOLD, Daniel",New Democratic Party,100,New Democratic Party,NDP,t,4230,f,3
+33,1984-09-04,QC,261,SHERBROOKE,24374,"ASH, Gilbert Peupa",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1054,f,4
+33,1984-09-04,QC,261,SHERBROOKE,24375,"DÉRY, Lorraine",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,687,f,5
+33,1984-09-04,QC,261,SHERBROOKE,24376,"BOURRET, Fernand",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,197,f,6
+33,1984-09-04,QC,261,SHERBROOKE,24377,"LAWLER, Yves",Communist Party of Canada,31,Communist Party,Com,f,92,f,7
+33,1984-09-04,QC,261,SHERBROOKE,24378,"CHANTEAU, Françoise",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,72,f,8
+33,1984-09-04,QC,262,TERREBONNE,24379,"TOUPIN, Robert",Progressive Conservative,124,Progressive Conservative Party,PC,t,43822,f,1
+33,1984-09-04,QC,262,TERREBONNE,24382,"COMTOIS, J. Roland",Liberal,75,Liberal,Lib,t,19040,f,2
+33,1984-09-04,QC,262,TERREBONNE,24383,"UMANSKY, Brian",New Democratic Party,100,New Democratic Party,NDP,t,6454,f,3
+33,1984-09-04,QC,262,TERREBONNE,24381,"BONIN, Jean A.",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,3060,f,4
+33,1984-09-04,QC,262,TERREBONNE,24380,"BROSSEAU, Claude",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,292,f,5
+33,1984-09-04,QC,263,TROIS-RIVIÈRES,24384,"Vincent, Pierre H.",Progressive Conservative,124,Progressive Conservative Party,PC,t,26843,f,1
+33,1984-09-04,QC,263,TROIS-RIVIÈRES,24385,"DROLET, Françoise C.",Liberal,75,Liberal,Lib,t,10217,f,2
+33,1984-09-04,QC,263,TROIS-RIVIÈRES,24386,"PRATT, John A.",New Democratic Party,100,New Democratic Party,NDP,t,1947,f,3
+33,1984-09-04,QC,263,TROIS-RIVIÈRES,24387,"ROCHELEAU, Yves",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,1847,f,4
+33,1984-09-04,QC,263,TROIS-RIVIÈRES,24388,"LEMOINE, Houblon-oubedon",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1018,f,5
+33,1984-09-04,QC,263,TROIS-RIVIÈRES,24389,"GAGNÉ, Paul",Communist Party of Canada,31,Communist Party,Com,f,110,f,6
+33,1984-09-04,QC,264,TÉMISCAMINGUE,24390,"DESJARDINS, Gabriel",Progressive Conservative,124,Progressive Conservative Party,PC,t,20347,f,1
+33,1984-09-04,QC,264,TÉMISCAMINGUE,24395,"TOUSIGNANT, Henri",Liberal,75,Liberal,Lib,t,13756,f,2
+33,1984-09-04,QC,264,TÉMISCAMINGUE,24393,"VERVILLE, Guy",New Democratic Party,100,New Democratic Party,NDP,t,2189,f,3
+33,1984-09-04,QC,264,TÉMISCAMINGUE,24392,"PARENT, Roberte",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,2126,f,4
+33,1984-09-04,QC,264,TÉMISCAMINGUE,24394,"BÉGIN, Marcel Yves",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1457,f,5
+33,1984-09-04,QC,264,TÉMISCAMINGUE,24391,"LORD, Rachel",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,626,f,6
+33,1984-09-04,QC,265,VAUDREUIL,24396,"CADIEUX, Pierre H.",Progressive Conservative,124,Progressive Conservative Party,PC,t,37499,f,1
+33,1984-09-04,QC,265,VAUDREUIL,24397,"HERBERT, Hal",Liberal,75,Liberal,Lib,t,20362,f,2
+33,1984-09-04,QC,265,VAUDREUIL,24398,"ERSKINE, Anne",New Democratic Party,100,New Democratic Party,NDP,t,7993,f,3
+33,1984-09-04,QC,265,VAUDREUIL,24399,"PANS, Nicole B.D.",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1470,f,4
+33,1984-09-04,QC,265,VAUDREUIL,24400,"DUCHESNE, Benoît",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,1017,f,5
+33,1984-09-04,QC,265,VAUDREUIL,24401,"GOULDSON, Gordon",Libertarian Party of Canada,81,Libertarian Party,Liber,f,345,f,6
+33,1984-09-04,QC,265,VAUDREUIL,24402,"CARTIER, Jacques",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,139,f,7
+33,1984-09-04,QC,266,VERCHÈRES,24403,"DANIS, Marcel",Progressive Conservative,124,Progressive Conservative Party,PC,t,38690,f,1
+33,1984-09-04,QC,266,VERCHÈRES,24406,"LOISELLE, Bernard P.",Liberal,75,Liberal,Lib,t,19365,f,2
+33,1984-09-04,QC,266,VERCHÈRES,24407,"CHRISTIE, James Taylor",New Democratic Party,100,New Democratic Party,NDP,t,6534,f,3
+33,1984-09-04,QC,266,VERCHÈRES,24404,"MAILLOT, Miko",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,2216,f,4
+33,1984-09-04,QC,266,VERCHÈRES,24405,"LEPAGE, Michel",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,2153,f,5
+33,1984-09-04,QC,266,VERCHÈRES,24408,"LEMIRE, Michel A.",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,109,f,6
+33,1984-09-04,QC,267,VERDUN--SAINT-PAUL,24409,"CHARTRAND, Gilbert",Progressive Conservative,124,Progressive Conservative Party,PC,t,17378,f,1
+33,1984-09-04,QC,267,VERDUN--SAINT-PAUL,24410,"SAVARD, Raymond",Liberal,75,Liberal,Lib,t,16431,f,2
+33,1984-09-04,QC,267,VERDUN--SAINT-PAUL,24411,"GIGUÈRE, Alain",New Democratic Party,100,New Democratic Party,NDP,t,3912,f,3
+33,1984-09-04,QC,267,VERDUN--SAINT-PAUL,24412,"COTÉ, Philippe Hooligan",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1309,f,4
+33,1984-09-04,QC,267,VERDUN--SAINT-PAUL,24413,"PAQUETTE, Serge",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,798,f,5
+33,1984-09-04,QC,267,VERDUN--SAINT-PAUL,24414,"BOYLE, Steve",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,99,f,6
+33,1984-09-04,SK,268,ASSINIBOIA,24415,"GUSTAFSON, Len",Progressive Conservative,124,Progressive Conservative Party,PC,t,16026,f,1
+33,1984-09-04,SK,268,ASSINIBOIA,24416,"Adamack, Bill",New Democratic Party,100,New Democratic Party,NDP,t,10853,f,2
+33,1984-09-04,SK,268,ASSINIBOIA,24417,"McKague, Lonny",Liberal,75,Liberal,Lib,t,6472,f,3
+33,1984-09-04,SK,268,ASSINIBOIA,24418,"Coffey, Ted",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,595,f,4
+33,1984-09-04,SK,269,HUMBOLDT--LAKE CENTRE,24419,"ALTHOUSE, Vic",New Democratic Party,100,New Democratic Party,NDP,t,15087,f,1
+33,1984-09-04,SK,269,HUMBOLDT--LAKE CENTRE,24420,"Meiklejohn, Ray",Progressive Conservative,124,Progressive Conservative Party,PC,t,13166,f,2
+33,1984-09-04,SK,269,HUMBOLDT--LAKE CENTRE,24421,"Dosman, James",Liberal,75,Liberal,Lib,t,6005,f,3
+33,1984-09-04,SK,269,HUMBOLDT--LAKE CENTRE,24422,"Holtorf, Gary D.",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,429,f,4
+33,1984-09-04,SK,270,KINDERSLEY--LLOYDMINSTER,24423,"MCKNIGHT, Bill",Progressive Conservative,124,Progressive Conservative Party,PC,t,20436,f,1
+33,1984-09-04,SK,270,KINDERSLEY--LLOYDMINSTER,24424,"Atkinson, Roy",New Democratic Party,100,New Democratic Party,NDP,t,10229,f,2
+33,1984-09-04,SK,270,KINDERSLEY--LLOYDMINSTER,24425,"Fox, Lyal",Liberal,75,Liberal,Lib,t,3979,f,3
+33,1984-09-04,SK,270,KINDERSLEY--LLOYDMINSTER,24426,"Guillaume, Henry G.",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,419,f,4
+33,1984-09-04,SK,271,MACKENZIE,24427,"Scowen, Jack",Progressive Conservative,124,Progressive Conservative Party,PC,t,11403,f,1
+33,1984-09-04,SK,271,MACKENZIE,24428,"McCorriston, Mel",New Democratic Party,100,New Democratic Party,NDP,t,10848,f,2
+33,1984-09-04,SK,271,MACKENZIE,24429,"Lutz, Garfield",Liberal,75,Liberal,Lib,t,4961,f,3
+33,1984-09-04,SK,271,MACKENZIE,24430,"Schultz, Harold E.",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,1269,f,4
+33,1984-09-04,SK,272,MOOSE JAW,24431,"Gottselig, William Andrew",Progressive Conservative,124,Progressive Conservative Party,PC,t,15803,f,1
+33,1984-09-04,SK,272,MOOSE JAW,24433,"Kindrachuk, Glenn",New Democratic Party,100,New Democratic Party,NDP,t,13338,f,2
+33,1984-09-04,SK,272,MOOSE JAW,24434,"Hart, Larry",Liberal,75,Liberal,Lib,t,4762,f,3
+33,1984-09-04,SK,272,MOOSE JAW,24432,"Boechler, Brant",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,446,f,4
+33,1984-09-04,SK,273,PRINCE ALBERT,24435,"HOVDEBO, Stan",New Democratic Party,100,New Democratic Party,NDP,t,13359,f,1
+33,1984-09-04,SK,273,PRINCE ALBERT,24436,"Dobrowolsky, Gordon",Progressive Conservative,124,Progressive Conservative Party,PC,t,13062,f,2
+33,1984-09-04,SK,273,PRINCE ALBERT,24437,"HARRADENCE, J.H. Clyne",Liberal,75,Liberal,Lib,t,10886,f,3
+33,1984-09-04,SK,273,PRINCE ALBERT,24438,"Panas, Tony",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,262,f,4
+33,1984-09-04,SK,274,QU'APPELLE--MOOSE MOUNTAIN,24439,"HAMILTON, Alvin",Progressive Conservative,124,Progressive Conservative Party,PC,t,14470,f,1
+33,1984-09-04,SK,274,QU'APPELLE--MOOSE MOUNTAIN,24440,"Sauter, Bill",New Democratic Party,100,New Democratic Party,NDP,t,8414,f,2
+33,1984-09-04,SK,274,QU'APPELLE--MOOSE MOUNTAIN,24441,"Bauche, Mike",Liberal,75,Liberal,Lib,t,4898,f,3
+33,1984-09-04,SK,274,QU'APPELLE--MOOSE MOUNTAIN,24442,"Mossing, Allan W. Al",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,655,f,4
+33,1984-09-04,SK,274,QU'APPELLE--MOOSE MOUNTAIN,24443,"Bailey, Ray L.",Independent,52,Independent,Ind,f,602,f,5
+33,1984-09-04,SK,275,REGINA EAST,24444,"DE JONG, Simon",New Democratic Party,100,New Democratic Party,NDP,t,20474,f,1
+33,1984-09-04,SK,275,REGINA EAST,24445,"Keple, Brian",Progressive Conservative,124,Progressive Conservative Party,PC,t,15185,f,2
+33,1984-09-04,SK,275,REGINA EAST,24446,"Bouchard, Dave",Liberal,75,Liberal,Lib,t,9554,f,3
+33,1984-09-04,SK,275,REGINA EAST,24447,"Fahlman, Emanuel",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,408,f,4
+33,1984-09-04,SK,276,REGINA WEST,24448,"BENJAMIN, Les",New Democratic Party,100,New Democratic Party,NDP,t,23865,f,1
+33,1984-09-04,SK,276,REGINA WEST,24449,"Stephens, Dan",Progressive Conservative,124,Progressive Conservative Party,PC,t,16066,f,2
+33,1984-09-04,SK,276,REGINA WEST,24450,"Mazurak, Steve",Liberal,75,Liberal,Lib,t,10405,f,3
+33,1984-09-04,SK,276,REGINA WEST,24451,"La Rose, Stephen the Hoser",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,313,f,4
+33,1984-09-04,SK,276,REGINA WEST,24452,"King, Frederick B.",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,247,f,5
+33,1984-09-04,SK,276,REGINA WEST,24453,"Cariou, Kimball",Communist Party of Canada,31,Communist Party,Com,f,75,f,6
+33,1984-09-04,SK,277,SASKATOON EAST,24454,"Ravis, Don",Progressive Conservative,124,Progressive Conservative Party,PC,t,17087,f,1
+33,1984-09-04,SK,277,SASKATOON EAST,24455,"Clay, Colin",New Democratic Party,100,New Democratic Party,NDP,t,16670,f,2
+33,1984-09-04,SK,277,SASKATOON EAST,24456,"RICHARDSON, Doug",Liberal,75,Liberal,Lib,t,11901,f,3
+33,1984-09-04,SK,277,SASKATOON EAST,24457,"Arscott, Hugh",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,340,f,4
+33,1984-09-04,SK,277,SASKATOON EAST,24458,"Rogala, Roy",Green Party of Canada,50,Green Party,Grn,t,164,f,5
+33,1984-09-04,SK,277,SASKATOON EAST,24459,"Neefs, Germaine",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,123,f,6
+33,1984-09-04,SK,278,SASKATOON WEST,24460,"HNATYSHYN, Ray",Progressive Conservative,124,Progressive Conservative Party,PC,t,26012,f,1
+33,1984-09-04,SK,278,SASKATOON WEST,24461,"Fisher, Ron",New Democratic Party,100,New Democratic Party,NDP,t,18910,f,2
+33,1984-09-04,SK,278,SASKATOON WEST,24462,"Darling, Maureen",Liberal,75,Liberal,Lib,t,6355,f,3
+33,1984-09-04,SK,278,SASKATOON WEST,24463,"Adilman, George",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,495,f,4
+33,1984-09-04,SK,278,SASKATOON WEST,24464,"Goodine, Dayle",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,337,f,5
+33,1984-09-04,SK,278,SASKATOON WEST,24465,"Morvick, Keith A.",Green Party of Canada,50,Green Party,Grn,t,150,f,6
+33,1984-09-04,SK,278,SASKATOON WEST,24466,"Bonsor, Robert J.",Independent,52,Independent,Ind,f,109,f,7
+33,1984-09-04,SK,279,SWIFT CURRENT--MAPLE CREEK,24467,"Wilson, Geoff",Progressive Conservative,124,Progressive Conservative Party,PC,t,14590,f,1
+33,1984-09-04,SK,279,SWIFT CURRENT--MAPLE CREEK,24468,"Beveridge, Don",New Democratic Party,100,New Democratic Party,NDP,t,8196,f,2
+33,1984-09-04,SK,279,SWIFT CURRENT--MAPLE CREEK,24469,"Wiebe, Jack",Liberal,75,Liberal,Lib,t,5967,f,3
+33,1984-09-04,SK,279,SWIFT CURRENT--MAPLE CREEK,24470,"Larson, Lorne",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,582,f,4
+33,1984-09-04,SK,280,THE BATTLEFORDS--MEADOW LAKE,24471,"Gormley, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,12895,f,1
+33,1984-09-04,SK,280,THE BATTLEFORDS--MEADOW LAKE,24472,"Anguish, Doug",New Democratic Party,100,New Democratic Party,NDP,t,12559,f,2
+33,1984-09-04,SK,280,THE BATTLEFORDS--MEADOW LAKE,24473,"Durocher, Jim",Liberal,75,Liberal,Lib,t,4002,f,3
+33,1984-09-04,SK,280,THE BATTLEFORDS--MEADOW LAKE,24474,"Langley, Connie",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,319,f,4
+33,1984-09-04,SK,281,YORKTON--MELVILLE,24475,"Nystrom, Lorne",New Democratic Party,100,New Democratic Party,NDP,t,18116,f,1
+33,1984-09-04,SK,281,YORKTON--MELVILLE,24476,"Wasylysen, Ken",Progressive Conservative,124,Progressive Conservative Party,PC,t,11800,f,2
+33,1984-09-04,SK,281,YORKTON--MELVILLE,24477,"Dellow, Arliss",Liberal,75,Liberal,Lib,t,4996,f,3
+33,1984-09-04,SK,281,YORKTON--MELVILLE,24478,"Kruczko, Bill",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,400,f,4
+33,1984-09-04,YK,282,YUKON,24479,"Nielsen, Erik",Progressive Conservative,124,Progressive Conservative Party,PC,t,6648,f,1
+33,1984-09-04,YK,282,YUKON,24480,"Veale, Ron",Liberal,75,Liberal,Lib,t,2535,f,2
+33,1984-09-04,YK,282,YUKON,24481,"Frei, Sibyl A.",New Democratic Party,100,New Democratic Party,NDP,t,1884,f,3
+33,1984-09-04,YK,282,YUKON,24482,"Dye, Keith",Libertarian Party of Canada,81,Libertarian Party,Liber,f,511,f,4
+33,1984-09-04,YK,282,YUKON,24483,"Gibb, Douglas R.",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,126,f,5

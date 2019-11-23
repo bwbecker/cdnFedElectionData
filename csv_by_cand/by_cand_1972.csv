@@ -1,0 +1,1118 @@
+election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_party_name,party_id,party_name,party_short_name,mainstream,votes,acclaimed,place
+29,1972-10-30,AB,1,ATHABASCA,17788,"YEWCHUK, Paul",Progressive Conservative,124,Progressive Conservative Party,PC,t,12936,f,1
+29,1972-10-30,AB,1,ATHABASCA,17789,"DUCHARME, Jim",Liberal,75,Liberal,Lib,t,4871,f,2
+29,1972-10-30,AB,1,ATHABASCA,17790,"OPRYSHKO, Peter Eugene",New Democratic Party,100,New Democratic Party,NDP,t,2677,f,3
+29,1972-10-30,AB,1,ATHABASCA,17791,"BOURCIER, Albert V.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,989,f,4
+29,1972-10-30,AB,2,BATTLE RIVER,17792,"KUNTZ, Harry",Progressive Conservative,124,Progressive Conservative Party,PC,t,16268,f,1
+29,1972-10-30,AB,2,BATTLE RIVER,17793,"ERIKSSON, Vincent",New Democratic Party,100,New Democratic Party,NDP,t,3427,f,2
+29,1972-10-30,AB,2,BATTLE RIVER,17794,"KNAUT, Rod",Liberal,75,Liberal,Lib,t,3277,f,3
+29,1972-10-30,AB,2,BATTLE RIVER,17795,"MUNRO, Douglas H.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2613,f,4
+29,1972-10-30,AB,3,CALGARY CENTRE,17796,"ANDRE, Harvie",Progressive Conservative,124,Progressive Conservative Party,PC,t,22669,f,1
+29,1972-10-30,AB,3,CALGARY CENTRE,17801,"TAYLOR, Nick",Liberal,75,Liberal,Lib,t,13110,f,2
+29,1972-10-30,AB,3,CALGARY CENTRE,17797,"JONES, David",New Democratic Party,100,New Democratic Party,NDP,t,5538,f,3
+29,1972-10-30,AB,3,CALGARY CENTRE,17799,"WILLMOTT, Clifford M.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1081,f,4
+29,1972-10-30,AB,3,CALGARY CENTRE,17800,"COTTINGHAM, Frank F.",No affiliation to a recognised party,52,Independent,Ind,f,80,f,5
+29,1972-10-30,AB,3,CALGARY CENTRE,17798,"CONSTANT, Colin",No affiliation to a recognised party,52,Independent,Ind,f,53,f,6
+29,1972-10-30,AB,4,CALGARY NORTH,17802,"WOOLLIAMS, Eldon",Progressive Conservative,124,Progressive Conservative Party,PC,t,30973,f,1
+29,1972-10-30,AB,4,CALGARY NORTH,17804,"LAMBERT, Roland-Aimé",Liberal,75,Liberal,Lib,t,12647,f,2
+29,1972-10-30,AB,4,CALGARY NORTH,17805,"PASHAK, Leonard Barry",New Democratic Party,100,New Democratic Party,NDP,t,6630,f,3
+29,1972-10-30,AB,4,CALGARY NORTH,17806,"DAWRANT, A. Geoffrey",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1851,f,4
+29,1972-10-30,AB,4,CALGARY NORTH,17803,"JASIENCZYK, John J.",Independent,52,Independent,Ind,f,192,f,5
+29,1972-10-30,AB,5,CALGARY SOUTH,17807,"BAWDEN, Peter",Progressive Conservative,124,Progressive Conservative Party,PC,t,34925,f,1
+29,1972-10-30,AB,5,CALGARY SOUTH,17808,"MAHONEY, Pat",Liberal,75,Liberal,Lib,t,18437,f,2
+29,1972-10-30,AB,5,CALGARY SOUTH,17809,"YANCHULA, Joseph",New Democratic Party,100,New Democratic Party,NDP,t,5386,f,3
+29,1972-10-30,AB,5,CALGARY SOUTH,17811,"CAMERON, Ralph Wilson",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1233,f,4
+29,1972-10-30,AB,5,CALGARY SOUTH,17810,"MASON, E. John",Independent,52,Independent,Ind,f,110,f,5
+29,1972-10-30,AB,6,CROWFOOT,17812,"HORNER, Jack",Progressive Conservative,124,Progressive Conservative Party,PC,t,18667,f,1
+29,1972-10-30,AB,6,CROWFOOT,17814,"MCALISTER, Andy",Liberal,75,Liberal,Lib,t,2591,f,2
+29,1972-10-30,AB,6,CROWFOOT,17813,"GREEN, Jim",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1768,f,3
+29,1972-10-30,AB,6,CROWFOOT,17815,"MCGOWAN, Gloria Jean Ann",New Democratic Party,100,New Democratic Party,NDP,t,1686,f,4
+29,1972-10-30,AB,7,EDMONTON CENTRE,17816,"PAPROSKI, Steven Eugene",Progressive Conservative,124,Progressive Conservative Party,PC,t,21443,f,1
+29,1972-10-30,AB,7,EDMONTON CENTRE,17819,"SCHEPANOVICH, Branny",Liberal,75,Liberal,Lib,t,11165,f,2
+29,1972-10-30,AB,7,EDMONTON CENTRE,17817,"LABERCANE, George D.",New Democratic Party,100,New Democratic Party,NDP,t,6166,f,3
+29,1972-10-30,AB,7,EDMONTON CENTRE,17820,"HATTERSLEY, J. Martin",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1006,f,4
+29,1972-10-30,AB,7,EDMONTON CENTRE,17818,"PYLYPA, Glenn P.G.",No affiliation to a recognised party,52,Independent,Ind,f,134,f,5
+29,1972-10-30,AB,7,EDMONTON CENTRE,17821,"ROBICHAUD, Diane E.",No affiliation to a recognised party,52,Independent,Ind,f,106,f,6
+29,1972-10-30,AB,8,EDMONTON EAST,17822,"SKOREYKO, William M.",Progressive Conservative,124,Progressive Conservative Party,PC,t,21137,f,1
+29,1972-10-30,AB,8,EDMONTON EAST,17823,"MACLEAN-EVANS, Una",Liberal,75,Liberal,Lib,t,11997,f,2
+29,1972-10-30,AB,8,EDMONTON EAST,17824,"PACHAL, Ashley",New Democratic Party,100,New Democratic Party,NDP,t,6493,f,3
+29,1972-10-30,AB,8,EDMONTON EAST,17825,"SENYK, Nick D.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1139,f,4
+29,1972-10-30,AB,8,EDMONTON EAST,17826,"TUOMI, Bill",No affiliation to a recognised party,52,Independent,Ind,f,217,f,5
+29,1972-10-30,AB,9,EDMONTON WEST,17827,"LAMBERT, Marcel",Progressive Conservative,124,Progressive Conservative Party,PC,t,29876,f,1
+29,1972-10-30,AB,9,EDMONTON WEST,17829,"HURTIG, Mel",Liberal,75,Liberal,Lib,t,21040,f,2
+29,1972-10-30,AB,9,EDMONTON WEST,17830,"PACKER, John",New Democratic Party,100,New Democratic Party,NDP,t,6770,f,3
+29,1972-10-30,AB,9,EDMONTON WEST,17828,"MCLEOD, Donald H.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1419,f,4
+29,1972-10-30,AB,10,EDMONTON--STRATHCONA,17831,"ROCHE, Doug",Progressive Conservative,124,Progressive Conservative Party,PC,t,26908,f,1
+29,1972-10-30,AB,10,EDMONTON--STRATHCONA,17832,"HARRIES, Hu",Liberal,75,Liberal,Lib,t,16625,f,2
+29,1972-10-30,AB,10,EDMONTON--STRATHCONA,17836,"LEESON, Howard Alfred",New Democratic Party,100,New Democratic Party,NDP,t,9098,f,3
+29,1972-10-30,AB,10,EDMONTON--STRATHCONA,17833,"PELCH, Bill",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1272,f,4
+29,1972-10-30,AB,10,EDMONTON--STRATHCONA,17834,"ROWLEY, Elizabeth",No affiliation to a recognised party,52,Independent,Ind,f,152,f,5
+29,1972-10-30,AB,10,EDMONTON--STRATHCONA,17835,"MORTON, Peggy",No affiliation to a recognised party,52,Independent,Ind,f,63,f,6
+29,1972-10-30,AB,11,LETHBRIDGE,17837,"HURLBURT, Ken",Progressive Conservative,124,Progressive Conservative Party,PC,t,18845,f,1
+29,1972-10-30,AB,11,LETHBRIDGE,17840,"RUSSELL, Andy",Liberal,75,Liberal,Lib,t,7601,f,2
+29,1972-10-30,AB,11,LETHBRIDGE,17838,"HOFFMAN, Hal",New Democratic Party,100,New Democratic Party,NDP,t,3941,f,3
+29,1972-10-30,AB,11,LETHBRIDGE,17839,"HANCOCK, Keith L.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2219,f,4
+29,1972-10-30,AB,12,MEDICINE HAT,17841,"HARGRAVE, Bert",Progressive Conservative,124,Progressive Conservative Party,PC,t,15027,f,1
+29,1972-10-30,AB,12,MEDICINE HAT,17843,"OLSON, H.A. Bud",Liberal,75,Liberal,Lib,t,9403,f,2
+29,1972-10-30,AB,12,MEDICINE HAT,17844,"TOOLE, Lewis E.",New Democratic Party,100,New Democratic Party,NDP,t,2033,f,3
+29,1972-10-30,AB,12,MEDICINE HAT,17842,"PAXMAN, D. Willard",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1519,f,4
+29,1972-10-30,AB,13,PALLISER,17845,"SCHUMACHER, Stan",Progressive Conservative,124,Progressive Conservative Party,PC,t,29284,f,1
+29,1972-10-30,AB,13,PALLISER,17848,"GUICHON, Mary",Liberal,75,Liberal,Lib,t,8854,f,2
+29,1972-10-30,AB,13,PALLISER,17847,"MCCUTCHEON, Bill",New Democratic Party,100,New Democratic Party,NDP,t,5000,f,3
+29,1972-10-30,AB,13,PALLISER,17846,"ENS, Edwin Ed",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2563,f,4
+29,1972-10-30,AB,14,PEACE RIVER,17849,"BALDWIN, Ged",Progressive Conservative,124,Progressive Conservative Party,PC,t,14255,f,1
+29,1972-10-30,AB,14,PEACE RIVER,17854,"VAN VOORST, Jake",New Democratic Party,100,New Democratic Party,NDP,t,5678,f,2
+29,1972-10-30,AB,14,PEACE RIVER,17853,"KIMPE, Ed",Liberal,75,Liberal,Lib,t,3324,f,3
+29,1972-10-30,AB,14,PEACE RIVER,17855,"ROSS, J. Donovan",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1904,f,4
+29,1972-10-30,AB,14,PEACE RIVER,17850,"BRYAN, Gertrude",No affiliation to a recognised party,52,Independent,Ind,f,119,f,5
+29,1972-10-30,AB,14,PEACE RIVER,17851,"ZUK, Michael",No affiliation to a recognised party,52,Independent,Ind,f,74,f,6
+29,1972-10-30,AB,14,PEACE RIVER,17852,"LOVELY, Wayne",No affiliation to a recognised party,52,Independent,Ind,f,67,f,7
+29,1972-10-30,AB,15,PEMBINA,17856,"HOLLANDS, Dan",Progressive Conservative,124,Progressive Conservative Party,PC,t,23864,f,1
+29,1972-10-30,AB,15,PEMBINA,17857,"BORGER, John P.",Liberal,75,Liberal,Lib,t,9879,f,2
+29,1972-10-30,AB,15,PEMBINA,17860,"HENNESSEY, Thomas",New Democratic Party,100,New Democratic Party,NDP,t,5710,f,3
+29,1972-10-30,AB,15,PEMBINA,17858,"WIWCHAR, Norman M.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1184,f,4
+29,1972-10-30,AB,15,PEMBINA,17859,"DAVIDSON, Sam",No affiliation to a recognised party,52,Independent,Ind,f,421,f,5
+29,1972-10-30,AB,16,RED DEER,17861,"TOWERS, T. Gordon",Progressive Conservative,124,Progressive Conservative Party,PC,t,20943,f,1
+29,1972-10-30,AB,16,RED DEER,17863,"MOFFAT, Dennis",Liberal,75,Liberal,Lib,t,5762,f,2
+29,1972-10-30,AB,16,RED DEER,17864,"FINN, Bill",New Democratic Party,100,New Democratic Party,NDP,t,3852,f,3
+29,1972-10-30,AB,16,RED DEER,17862,"KEEGSTRA, Jim",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,3631,f,4
+29,1972-10-30,AB,17,ROCKY MOUNTAIN,17865,"CLARK, Joe",Progressive Conservative,124,Progressive Conservative Party,PC,t,12984,f,1
+29,1972-10-30,AB,17,ROCKY MOUNTAIN,17866,"SULATYCKY, Allen B.",Liberal,75,Liberal,Lib,t,7973,f,2
+29,1972-10-30,AB,17,ROCKY MOUNTAIN,17867,"CHENEY, Al",New Democratic Party,100,New Democratic Party,NDP,t,3112,f,3
+29,1972-10-30,AB,17,ROCKY MOUNTAIN,17868,"GANSKE, Brian",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1080,f,4
+29,1972-10-30,AB,18,VEGREVILLE,17869,"MAZANKOWSKI, Don",Progressive Conservative,124,Progressive Conservative Party,PC,t,19500,f,1
+29,1972-10-30,AB,18,VEGREVILLE,17871,"MOSHANSKY, Virgil",Liberal,75,Liberal,Lib,t,3747,f,2
+29,1972-10-30,AB,18,VEGREVILLE,17870,"JONSON, Einar Arnold",New Democratic Party,100,New Democratic Party,NDP,t,2639,f,3
+29,1972-10-30,AB,18,VEGREVILLE,17872,"GOERZEN, Abram",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,642,f,4
+29,1972-10-30,AB,18,VEGREVILLE,17873,"STENBERG, Neil",No affiliation to a recognised party,52,Independent,Ind,f,208,f,5
+29,1972-10-30,AB,19,WETASKIWIN,17874,"SCHELLENBERGER, Stan",Progressive Conservative,124,Progressive Conservative Party,PC,t,19353,f,1
+29,1972-10-30,AB,19,WETASKIWIN,17875,"BARNHILL, Al",Liberal,75,Liberal,Lib,t,5296,f,2
+29,1972-10-30,AB,19,WETASKIWIN,17876,"UDENBERG, Lionel",New Democratic Party,100,New Democratic Party,NDP,t,3975,f,3
+29,1972-10-30,AB,19,WETASKIWIN,17877,"GOETZ, Alvin",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2576,f,4
+29,1972-10-30,BC,20,BURNABY--RICHMOND--DELTA,17878,"REYNOLDS, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,19798,f,1
+29,1972-10-30,BC,20,BURNABY--RICHMOND--DELTA,17879,"NOVAKOWSKI, Ken",New Democratic Party,100,New Democratic Party,NDP,t,18358,f,2
+29,1972-10-30,BC,20,BURNABY--RICHMOND--DELTA,17880,"GOODE, Tom",Liberal,75,Liberal,Lib,t,16441,f,3
+29,1972-10-30,BC,20,BURNABY--RICHMOND--DELTA,17881,"DEWHIRST, Gayle",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,906,f,4
+29,1972-10-30,BC,21,BURNABY--SEYMOUR,17882,"NELSON, Ed",New Democratic Party,100,New Democratic Party,NDP,t,18274,f,1
+29,1972-10-30,BC,21,BURNABY--SEYMOUR,17883,"PERRAULT, Ray",Liberal,75,Liberal,Lib,t,17985,f,2
+29,1972-10-30,BC,21,BURNABY--SEYMOUR,17884,"RATEL, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,11119,f,3
+29,1972-10-30,BC,21,BURNABY--SEYMOUR,17885,"MACDONALD, John B.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,694,f,4
+29,1972-10-30,BC,21,BURNABY--SEYMOUR,17886,"THOMPSON, Bob",Independent,52,Independent,Ind,f,133,f,5
+29,1972-10-30,BC,21,BURNABY--SEYMOUR,17887,"WAUGH, Eric",No affiliation to a recognised party,52,Independent,Ind,f,120,f,6
+29,1972-10-30,BC,21,BURNABY--SEYMOUR,17888,"GLASHEEN, Lorette",No affiliation to a recognised party,52,Independent,Ind,f,36,f,7
+29,1972-10-30,BC,22,CAPILANO,17889,"DAVIS, Jack",Liberal,75,Liberal,Lib,t,24489,f,1
+29,1972-10-30,BC,22,CAPILANO,17891,"HUNTINGTON, A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,17873,f,2
+29,1972-10-30,BC,22,CAPILANO,17892,"MCKENZIE, Jim",New Democratic Party,100,New Democratic Party,NDP,t,8731,f,3
+29,1972-10-30,BC,22,CAPILANO,17890,"KRISTENSEN, Thor",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,517,f,4
+29,1972-10-30,BC,23,COAST CHILCOTIN,17893,"OLAUSSEN, Harry",New Democratic Party,100,New Democratic Party,NDP,t,8868,f,1
+29,1972-10-30,BC,23,COAST CHILCOTIN,17895,"ST-PIERRE, Paul",Liberal,75,Liberal,Lib,t,8508,f,2
+29,1972-10-30,BC,23,COAST CHILCOTIN,17896,"PANKRATZ, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,7601,f,3
+29,1972-10-30,BC,23,COAST CHILCOTIN,17894,"KING, Lew",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,749,f,4
+29,1972-10-30,BC,24,COMOX--ALBERNI,17897,"BARNETT, Tom",New Democratic Party,100,New Democratic Party,NDP,t,17477,f,1
+29,1972-10-30,BC,24,COMOX--ALBERNI,17898,"CHOWN, Bob",Liberal,75,Liberal,Lib,t,9501,f,2
+29,1972-10-30,BC,24,COMOX--ALBERNI,17899,"SINNOTT, Jerry",Progressive Conservative,124,Progressive Conservative Party,PC,t,6440,f,3
+29,1972-10-30,BC,24,COMOX--ALBERNI,17900,"DOLL, Delbert Keith",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1276,f,4
+29,1972-10-30,BC,24,COMOX--ALBERNI,17901,"MOSHER, Mark F.",Independent,52,Independent,Ind,f,483,f,5
+29,1972-10-30,BC,25,ESQUIMALT--SAANICH,17902,"MUNRO, Donald",Progressive Conservative,124,Progressive Conservative Party,PC,t,20542,f,1
+29,1972-10-30,BC,25,ESQUIMALT--SAANICH,17903,"SMITH, Roger",New Democratic Party,100,New Democratic Party,NDP,t,15824,f,2
+29,1972-10-30,BC,25,ESQUIMALT--SAANICH,17904,"LINDHOLM, Louis F.",Liberal,75,Liberal,Lib,t,12097,f,3
+29,1972-10-30,BC,25,ESQUIMALT--SAANICH,17905,"TISDALLE, John D.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1689,f,4
+29,1972-10-30,BC,26,FRASER VALLEY EAST,17906,"PATTERSON, Alex B.",Progressive Conservative,124,Progressive Conservative Party,PC,t,12302,f,1
+29,1972-10-30,BC,26,FRASER VALLEY EAST,17907,"PRINGLE, Jerry",Liberal,75,Liberal,Lib,t,10297,f,2
+29,1972-10-30,BC,26,FRASER VALLEY EAST,17908,"HEINRICH, Walt",New Democratic Party,100,New Democratic Party,NDP,t,8390,f,3
+29,1972-10-30,BC,26,FRASER VALLEY EAST,17909,"SHELFORD, Cyril",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4426,f,4
+29,1972-10-30,BC,27,FRASER VALLEY WEST,17910,"ROSE, Mark",New Democratic Party,100,New Democratic Party,NDP,t,22612,f,1
+29,1972-10-30,BC,27,FRASER VALLEY WEST,17911,"ARMSTRONG, Trevor",Progressive Conservative,124,Progressive Conservative Party,PC,t,14863,f,2
+29,1972-10-30,BC,27,FRASER VALLEY WEST,17912,"AUSTRING, Oscar",Liberal,75,Liberal,Lib,t,9870,f,3
+29,1972-10-30,BC,27,FRASER VALLEY WEST,17913,"KANE, Dave Charles",Independent,52,Independent,Ind,f,275,f,4
+29,1972-10-30,BC,28,KAMLOOPS--CARIBOO,17914,"MARCHAND, Leonard S.",Liberal,75,Liberal,Lib,t,14707,f,1
+29,1972-10-30,BC,28,KAMLOOPS--CARIBOO,17916,"HEWSON, Roy",Progressive Conservative,124,Progressive Conservative Party,PC,t,13993,f,2
+29,1972-10-30,BC,28,KAMLOOPS--CARIBOO,17915,"FARR, John",New Democratic Party,100,New Democratic Party,NDP,t,11002,f,3
+29,1972-10-30,BC,28,KAMLOOPS--CARIBOO,17917,"GOOK, Peter R.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2089,f,4
+29,1972-10-30,BC,29,KOOTENAY WEST,17918,"HARDING, Randolph",New Democratic Party,100,New Democratic Party,NDP,t,15633,f,1
+29,1972-10-30,BC,29,KOOTENAY WEST,17919,"BRISCO, Bob",Progressive Conservative,124,Progressive Conservative Party,PC,t,9210,f,2
+29,1972-10-30,BC,29,KOOTENAY WEST,17920,"MOROSO, Paul G.",Liberal,75,Liberal,Lib,t,4341,f,3
+29,1972-10-30,BC,30,NANAIMO--COWICHAN--THE ISLANDS,17921,"DOUGLAS, T.C. Tommy",New Democratic Party,100,New Democratic Party,NDP,t,25483,f,1
+29,1972-10-30,BC,30,NANAIMO--COWICHAN--THE ISLANDS,17922,"MACPHERSON, George",Progressive Conservative,124,Progressive Conservative Party,PC,t,10179,f,2
+29,1972-10-30,BC,30,NANAIMO--COWICHAN--THE ISLANDS,17923,"MATTHEWS, Bill",Liberal,75,Liberal,Lib,t,7107,f,3
+29,1972-10-30,BC,30,NANAIMO--COWICHAN--THE ISLANDS,17924,"DAY, Stockwell",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1868,f,4
+29,1972-10-30,BC,30,NANAIMO--COWICHAN--THE ISLANDS,17925,"HASANEN, Ken",No affiliation to a recognised party,52,Independent,Ind,f,125,f,5
+29,1972-10-30,BC,31,NEW WESTMINSTER,17926,"LEGGATT, Stuart Malcolm",New Democratic Party,100,New Democratic Party,NDP,t,19181,f,1
+29,1972-10-30,BC,31,NEW WESTMINSTER,17927,"MULLIGAN, Maurice",Progressive Conservative,124,Progressive Conservative Party,PC,t,14739,f,2
+29,1972-10-30,BC,31,NEW WESTMINSTER,17928,"BASHAM, Greg",Liberal,75,Liberal,Lib,t,10992,f,3
+29,1972-10-30,BC,31,NEW WESTMINSTER,17929,"ADLEM, Ted",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,971,f,4
+29,1972-10-30,BC,31,NEW WESTMINSTER,17930,"DORAN, Rod",No affiliation to a recognised party,52,Independent,Ind,f,192,f,5
+29,1972-10-30,BC,31,NEW WESTMINSTER,17931,"REID, Victor",No affiliation to a recognised party,52,Independent,Ind,f,36,f,6
+29,1972-10-30,BC,32,OKANAGAN BOUNDARY,17932,"WHITTAKER, George H.",Progressive Conservative,124,Progressive Conservative Party,PC,t,20468,f,1
+29,1972-10-30,BC,32,OKANAGAN BOUNDARY,17933,"HOWARD, Bruce",Liberal,75,Liberal,Lib,t,14213,f,2
+29,1972-10-30,BC,32,OKANAGAN BOUNDARY,17934,"MCIVER, Bryan",New Democratic Party,100,New Democratic Party,NDP,t,13487,f,3
+29,1972-10-30,BC,33,OKANAGAN--KOOTENAY,17935,"STEWART, Doug",Liberal,75,Liberal,Lib,t,12416,f,1
+29,1972-10-30,BC,33,OKANAGAN--KOOTENAY,17936,"JOHNSTON, Howard E.",Progressive Conservative,124,Progressive Conservative Party,PC,t,12258,f,2
+29,1972-10-30,BC,33,OKANAGAN--KOOTENAY,17937,"MAKSYLEWICH, Peter",New Democratic Party,100,New Democratic Party,NDP,t,11400,f,3
+29,1972-10-30,BC,33,OKANAGAN--KOOTENAY,17938,"JENSEN, Agner Dahl",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1855,f,4
+29,1972-10-30,BC,34,PRINCE GEORGE--PEACE RIVER,17939,"OBERLE, Frank",Progressive Conservative,124,Progressive Conservative Party,PC,t,14648,f,1
+29,1972-10-30,BC,34,PRINCE GEORGE--PEACE RIVER,17941,"BORRIE, Bob",Liberal,75,Liberal,Lib,t,11766,f,2
+29,1972-10-30,BC,34,PRINCE GEORGE--PEACE RIVER,17942,"CLOSE, Bill",New Democratic Party,100,New Democratic Party,NDP,t,8076,f,3
+29,1972-10-30,BC,34,PRINCE GEORGE--PEACE RIVER,17940,"KRUEGAR, Al",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2726,f,4
+29,1972-10-30,BC,35,SKEENA,17943,"HOWARD, Frank",New Democratic Party,100,New Democratic Party,NDP,t,13100,f,1
+29,1972-10-30,BC,35,SKEENA,17944,"STEVENS, Everett",Progressive Conservative,124,Progressive Conservative Party,PC,t,8234,f,2
+29,1972-10-30,BC,35,SKEENA,17945,"MITCHELL, John E.",Liberal,75,Liberal,Lib,t,6091,f,3
+29,1972-10-30,BC,36,SURREY--WHITE ROCK,17946,"MATHER, Barry",New Democratic Party,100,New Democratic Party,NDP,t,21598,f,1
+29,1972-10-30,BC,36,SURREY--WHITE ROCK,17947,"THOMPSON, Robert N.",Progressive Conservative,124,Progressive Conservative Party,PC,t,15123,f,2
+29,1972-10-30,BC,36,SURREY--WHITE ROCK,17948,"CARLIN, Ed",Liberal,75,Liberal,Lib,t,7819,f,3
+29,1972-10-30,BC,36,SURREY--WHITE ROCK,17949,"SCHROEDER, Ben",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1030,f,4
+29,1972-10-30,BC,37,VANCOUVER CENTRE,17950,"BASFORD, Ron",Liberal,75,Liberal,Lib,t,19341,f,1
+29,1972-10-30,BC,37,VANCOUVER CENTRE,17952,"MCDONALD, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,14156,f,2
+29,1972-10-30,BC,37,VANCOUVER CENTRE,17953,"JOHNSON, Ron K.",New Democratic Party,100,New Democratic Party,NDP,t,12470,f,3
+29,1972-10-30,BC,37,VANCOUVER CENTRE,17951,"ZAMBUS, Nicholas",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,632,f,4
+29,1972-10-30,BC,37,VANCOUVER CENTRE,17954,"AUGUST, Arnold",No affiliation to a recognised party,52,Independent,Ind,f,77,f,5
+29,1972-10-30,BC,37,VANCOUVER CENTRE,17955,"DODGE, Ray",Independent,52,Independent,Ind,f,55,f,6
+29,1972-10-30,BC,37,VANCOUVER CENTRE,17956,"FEDORUK, Daniel Ivan",No affiliation to a recognised party,52,Independent,Ind,f,46,f,7
+29,1972-10-30,BC,38,VANCOUVER EAST,17957,"NEALE, C. Paddy",New Democratic Party,100,New Democratic Party,NDP,t,13525,f,1
+29,1972-10-30,BC,38,VANCOUVER EAST,17958,"MINICHIELLO, John",Liberal,75,Liberal,Lib,t,8687,f,2
+29,1972-10-30,BC,38,VANCOUVER EAST,17959,"BALAN, John G.",Progressive Conservative,124,Progressive Conservative Party,PC,t,4584,f,3
+29,1972-10-30,BC,38,VANCOUVER EAST,17960,"STUNDER, Walter",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,613,f,4
+29,1972-10-30,BC,38,VANCOUVER EAST,17961,"RUSH, Maurice",No affiliation to a recognised party,52,Independent,Ind,f,206,f,5
+29,1972-10-30,BC,38,VANCOUVER EAST,17962,"HYMAN, Ian R.",No affiliation to a recognised party,52,Independent,Ind,f,92,f,6
+29,1972-10-30,BC,39,VANCOUVER KINGSWAY,17963,"MACINNIS, Grace",New Democratic Party,100,New Democratic Party,NDP,t,18108,f,1
+29,1972-10-30,BC,39,VANCOUVER KINGSWAY,17965,"CHERRINGTON, John A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,6752,f,2
+29,1972-10-30,BC,39,VANCOUVER KINGSWAY,17966,"BODNARCHUK, Ed",Liberal,75,Liberal,Lib,t,5986,f,3
+29,1972-10-30,BC,39,VANCOUVER KINGSWAY,17967,"GARNER, Faren",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,750,f,4
+29,1972-10-30,BC,39,VANCOUVER KINGSWAY,17964,"TURNER, William John",No affiliation to a recognised party,52,Independent,Ind,f,211,f,5
+29,1972-10-30,BC,39,VANCOUVER KINGSWAY,17968,"ALSTON, Claire",No affiliation to a recognised party,52,Independent,Ind,f,66,f,6
+29,1972-10-30,BC,40,VANCOUVER QUADRA,17969,"CLARKE, Bill",Progressive Conservative,124,Progressive Conservative Party,PC,t,17767,f,1
+29,1972-10-30,BC,40,VANCOUVER QUADRA,17970,"DEACHMAN, Grant",Liberal,75,Liberal,Lib,t,15001,f,2
+29,1972-10-30,BC,40,VANCOUVER QUADRA,17971,"NIXON, Nigel",New Democratic Party,100,New Democratic Party,NDP,t,8411,f,3
+29,1972-10-30,BC,40,VANCOUVER QUADRA,17972,"GARNER, Edith",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,378,f,4
+29,1972-10-30,BC,40,VANCOUVER QUADRA,17973,"BEEBE, Rupert",Independent,52,Independent,Ind,f,180,f,5
+29,1972-10-30,BC,41,VANCOUVER SOUTH,17974,"FRASER, John A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,17762,f,1
+29,1972-10-30,BC,41,VANCOUVER SOUTH,17975,"GIBSON, Gordon",Liberal,75,Liberal,Lib,t,14549,f,2
+29,1972-10-30,BC,41,VANCOUVER SOUTH,17976,"HOWARD, Roger",New Democratic Party,100,New Democratic Party,NDP,t,11145,f,3
+29,1972-10-30,BC,41,VANCOUVER SOUTH,17977,"JEFFERSON, Tony",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,765,f,4
+29,1972-10-30,BC,41,VANCOUVER SOUTH,17978,"GRIFFIN, Sean",No affiliation to a recognised party,52,Independent,Ind,f,102,f,5
+29,1972-10-30,BC,41,VANCOUVER SOUTH,17979,"HUNDAL, Rick",No affiliation to a recognised party,52,Independent,Ind,f,44,f,6
+29,1972-10-30,BC,42,VICTORIA,17980,"MCKINNON, Allan B.",Progressive Conservative,124,Progressive Conservative Party,PC,t,22842,f,1
+29,1972-10-30,BC,42,VICTORIA,17981,"GROOS, David",Liberal,75,Liberal,Lib,t,12264,f,2
+29,1972-10-30,BC,42,VICTORIA,17982,"HANSEN, Flemming",New Democratic Party,100,New Democratic Party,NDP,t,11192,f,3
+29,1972-10-30,BC,42,VICTORIA,17983,"STRETCH, Clifford E.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1173,f,4
+29,1972-10-30,BC,42,VICTORIA,17984,"HEFFERNAN, Daniel Lewis",Independent,52,Independent,Ind,f,357,f,5
+29,1972-10-30,BC,42,VICTORIA,17985,"HALL-PATCH, Michael Charles",No affiliation to a recognised party,52,Independent,Ind,f,280,f,6
+29,1972-10-30,MB,43,BRANDON--SOURIS,17986,"DINSDALE, Walter",Progressive Conservative,124,Progressive Conservative Party,PC,t,17923,f,1
+29,1972-10-30,MB,43,BRANDON--SOURIS,17987,"BELECKI, Gary",Liberal,75,Liberal,Lib,t,5968,f,2
+29,1972-10-30,MB,43,BRANDON--SOURIS,17988,"SINGLETON, Kenneth John",New Democratic Party,100,New Democratic Party,NDP,t,5501,f,3
+29,1972-10-30,MB,43,BRANDON--SOURIS,17989,"LEA, William",Independent,52,Independent,Ind,f,190,f,4
+29,1972-10-30,MB,44,CHURCHILL,17990,"TAYLOR, Keith",Progressive Conservative,124,Progressive Conservative Party,PC,t,9462,f,1
+29,1972-10-30,MB,44,CHURCHILL,17991,"DUFF, Don",New Democratic Party,100,New Democratic Party,NDP,t,9059,f,2
+29,1972-10-30,MB,44,CHURCHILL,17992,"DUNLOP, Bruce",Liberal,75,Liberal,Lib,t,8536,f,3
+29,1972-10-30,MB,44,CHURCHILL,17993,"HENRY, R. Jim",Independent,52,Independent,Ind,f,327,f,4
+29,1972-10-30,MB,45,DAUPHIN,17994,"RITCHIE, Gordon",Progressive Conservative,124,Progressive Conservative Party,PC,t,12584,f,1
+29,1972-10-30,MB,45,DAUPHIN,17995,"DIRAUF, Bernhard",New Democratic Party,100,New Democratic Party,NDP,t,6234,f,2
+29,1972-10-30,MB,45,DAUPHIN,17996,"GUIBOCHE, Ferdinand A.",Liberal,75,Liberal,Lib,t,4305,f,3
+29,1972-10-30,MB,46,LISGAR,17997,"MURTA, Jack B.",Progressive Conservative,124,Progressive Conservative Party,PC,t,17253,f,1
+29,1972-10-30,MB,46,LISGAR,17998,"BOWLES, Richard S.",Liberal,75,Liberal,Lib,t,4469,f,2
+29,1972-10-30,MB,46,LISGAR,17999,"BUCKLASCHUK, John M.",New Democratic Party,100,New Democratic Party,NDP,t,1627,f,3
+29,1972-10-30,MB,46,LISGAR,18000,"HARMS, John L.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,943,f,4
+29,1972-10-30,MB,47,MARQUETTE,18001,"STEWART, Craig",Progressive Conservative,124,Progressive Conservative Party,PC,t,16155,f,1
+29,1972-10-30,MB,47,MARQUETTE,18002,"HOUSTON, Ken",New Democratic Party,100,New Democratic Party,NDP,t,4917,f,2
+29,1972-10-30,MB,47,MARQUETTE,18003,"LACHTER, Sidney N.",Liberal,75,Liberal,Lib,t,4572,f,3
+29,1972-10-30,MB,48,PORTAGE,18004,"MASNIUK, Peter P.",Progressive Conservative,124,Progressive Conservative Party,PC,t,9781,f,1
+29,1972-10-30,MB,48,PORTAGE,18005,"COBBE, Gerry",Liberal,75,Liberal,Lib,t,7474,f,2
+29,1972-10-30,MB,48,PORTAGE,18006,"MANCHUR, Nick",New Democratic Party,100,New Democratic Party,NDP,t,4036,f,3
+29,1972-10-30,MB,48,PORTAGE,18007,"FITCH, Travis I.",No affiliation to a recognised party,52,Independent,Ind,f,199,f,4
+29,1972-10-30,MB,49,PROVENCHER,18008,"EPP, Jake",Progressive Conservative,124,Progressive Conservative Party,PC,t,11262,f,1
+29,1972-10-30,MB,49,PROVENCHER,18009,"SMERCHANSKI, Mark",Liberal,75,Liberal,Lib,t,6489,f,2
+29,1972-10-30,MB,49,PROVENCHER,18010,"CHORNEY, Alf",New Democratic Party,100,New Democratic Party,NDP,t,6304,f,3
+29,1972-10-30,MB,49,PROVENCHER,18011,"WALL, Jake",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,784,f,4
+29,1972-10-30,MB,50,SELKIRK,18012,"ROWLAND, Doug",New Democratic Party,100,New Democratic Party,NDP,t,17872,f,1
+29,1972-10-30,MB,50,SELKIRK,18013,"WHITEWAY, Dean",Progressive Conservative,124,Progressive Conservative Party,PC,t,17842,f,2
+29,1972-10-30,MB,50,SELKIRK,18014,"SIGFUSSON, Svein",Liberal,75,Liberal,Lib,t,8709,f,3
+29,1972-10-30,MB,50,SELKIRK,18015,"LUINING, Robert",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,418,f,4
+29,1972-10-30,MB,51,ST. BONIFACE,18016,"GUAY, Joseph-P.",Liberal,75,Liberal,Lib,t,22200,f,1
+29,1972-10-30,MB,51,ST. BONIFACE,18017,"SHERWOOD, Joseph F.",New Democratic Party,100,New Democratic Party,NDP,t,13857,f,2
+29,1972-10-30,MB,51,ST. BONIFACE,18018,"HILLCOFF, Peter",Progressive Conservative,124,Progressive Conservative Party,PC,t,13033,f,3
+29,1972-10-30,MB,51,ST. BONIFACE,18019,"OUELLET, Gilles J.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,643,f,4
+29,1972-10-30,MB,51,ST. BONIFACE,18020,"MALEY, Russ",No affiliation to a recognised party,52,Independent,Ind,f,241,f,5
+29,1972-10-30,MB,52,WINNIPEG NORTH,18021,"ORLIKOW, David",New Democratic Party,100,New Democratic Party,NDP,t,15931,f,1
+29,1972-10-30,MB,52,WINNIPEG NORTH,18022,"RADCHUK, Serge",Liberal,75,Liberal,Lib,t,11150,f,2
+29,1972-10-30,MB,52,WINNIPEG NORTH,18023,"STEEN, Anne",Progressive Conservative,124,Progressive Conservative Party,PC,t,9446,f,3
+29,1972-10-30,MB,52,WINNIPEG NORTH,18024,"ROSS, W.C.",No affiliation to a recognised party,52,Independent,Ind,f,587,f,4
+29,1972-10-30,MB,52,WINNIPEG NORTH,18025,"WALDMAN, C. Aili",No affiliation to a recognised party,52,Independent,Ind,f,114,f,5
+29,1972-10-30,MB,53,WINNIPEG NORTH CENTRE,18026,"KNOWLES, Stanley H.",New Democratic Party,100,New Democratic Party,NDP,t,13263,f,1
+29,1972-10-30,MB,53,WINNIPEG NORTH CENTRE,18027,"CROCKETT, Frank W.",Progressive Conservative,124,Progressive Conservative Party,PC,t,7050,f,2
+29,1972-10-30,MB,53,WINNIPEG NORTH CENTRE,18028,"TURNER, Norman Frederick",Liberal,75,Liberal,Lib,t,6984,f,3
+29,1972-10-30,MB,53,WINNIPEG NORTH CENTRE,18029,"HAWRYLUK, Don",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,440,f,4
+29,1972-10-30,MB,53,WINNIPEG NORTH CENTRE,18030,"CURRIE, Don",No affiliation to a recognised party,52,Independent,Ind,f,186,f,5
+29,1972-10-30,MB,53,WINNIPEG NORTH CENTRE,18031,"CARLSON, Barry John",No affiliation to a recognised party,52,Independent,Ind,f,134,f,6
+29,1972-10-30,MB,54,WINNIPEG SOUTH,18032,"RICHARDSON, James",Liberal,75,Liberal,Lib,t,25534,f,1
+29,1972-10-30,MB,54,WINNIPEG SOUTH,18033,"ROBERTSON, Boyd",Progressive Conservative,124,Progressive Conservative Party,PC,t,17022,f,2
+29,1972-10-30,MB,54,WINNIPEG SOUTH,18034,"BURROWS, James Gilbert",New Democratic Party,100,New Democratic Party,NDP,t,7413,f,3
+29,1972-10-30,MB,54,WINNIPEG SOUTH,18035,"WALDMAN, Diane Lynne",No affiliation to a recognised party,52,Independent,Ind,f,205,f,4
+29,1972-10-30,MB,55,WINNIPEG SOUTH CENTRE,18036,"MCKENZIE, Dan",Progressive Conservative,124,Progressive Conservative Party,PC,t,25550,f,1
+29,1972-10-30,MB,55,WINNIPEG SOUTH CENTRE,18037,"OSLER, E.B.",Liberal,75,Liberal,Lib,t,20516,f,2
+29,1972-10-30,MB,55,WINNIPEG SOUTH CENTRE,18038,"MOATS, Harvey H.",New Democratic Party,100,New Democratic Party,NDP,t,10460,f,3
+29,1972-10-30,NB,56,CARLETON--CHARLOTTE,18039,"MCCAIN, Fred A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,14431,f,1
+29,1972-10-30,NB,56,CARLETON--CHARLOTTE,18041,"HINTON, Donald",Liberal,75,Liberal,Lib,t,7715,f,2
+29,1972-10-30,NB,56,CARLETON--CHARLOTTE,18040,"BRIGHT, R. Lawrence",New Democratic Party,100,New Democratic Party,NDP,t,1831,f,3
+29,1972-10-30,NB,57,FUNDY--ROYAL,18042,"FAIRWEATHER, Gordon",Progressive Conservative,124,Progressive Conservative Party,PC,t,19107,f,1
+29,1972-10-30,NB,57,FUNDY--ROYAL,18043,"PHIPPEN, Gordon L.",Liberal,75,Liberal,Lib,t,9343,f,2
+29,1972-10-30,NB,57,FUNDY--ROYAL,18044,"HALPIN, Bruce E.",New Democratic Party,100,New Democratic Party,NDP,t,2186,f,3
+29,1972-10-30,NB,57,FUNDY--ROYAL,18045,"GOWLETT, Ernest",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,937,f,4
+29,1972-10-30,NB,58,GLOUCESTER,18046,"BREAU, Herb",Liberal,75,Liberal,Lib,t,14212,f,1
+29,1972-10-30,NB,58,GLOUCESTER,18048,"DUVAL, Paul",Progressive Conservative,124,Progressive Conservative Party,PC,t,6914,f,2
+29,1972-10-30,NB,58,GLOUCESTER,18049,"BASQUE, Lomer",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4487,f,3
+29,1972-10-30,NB,58,GLOUCESTER,18050,"CORMIER, Percy W.",No affiliation to a recognised party,52,Independent,Ind,f,1109,f,4
+29,1972-10-30,NB,58,GLOUCESTER,18051,"BLANCHARD, Mathilda",Independent,52,Independent,Ind,f,839,f,5
+29,1972-10-30,NB,58,GLOUCESTER,18047,"CORBIN, Joe",New Democratic Party,100,New Democratic Party,NDP,t,521,f,6
+29,1972-10-30,NB,59,MADAWASKA--VICTORIA,18052,"CORBIN, Eymard",Liberal,75,Liberal,Lib,t,13104,f,1
+29,1972-10-30,NB,59,MADAWASKA--VICTORIA,18053,"FYFE, Lawrence",Progressive Conservative,124,Progressive Conservative Party,PC,t,8822,f,2
+29,1972-10-30,NB,59,MADAWASKA--VICTORIA,18054,"AUDET, Conrad",New Democratic Party,100,New Democratic Party,NDP,t,1763,f,3
+29,1972-10-30,NB,60,MONCTON,18055,"THOMAS, Charles H.",Progressive Conservative,124,Progressive Conservative Party,PC,t,22657,f,1
+29,1972-10-30,NB,60,MONCTON,18056,"MITTON, Myron",Liberal,75,Liberal,Lib,t,17124,f,2
+29,1972-10-30,NB,60,MONCTON,18057,"BAUM, Morrie",New Democratic Party,100,New Democratic Party,NDP,t,2003,f,3
+29,1972-10-30,NB,60,MONCTON,18058,"TAYLOR, Robert M. Bob",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1273,f,4
+29,1972-10-30,NB,61,NORTHUMBERLAND--MIRAMICHI,18059,"SMITH, G.A. Percy",Liberal,75,Liberal,Lib,t,10922,f,1
+29,1972-10-30,NB,61,NORTHUMBERLAND--MIRAMICHI,18060,"MCALLISTER, Robert",Progressive Conservative,124,Progressive Conservative Party,PC,t,9007,f,2
+29,1972-10-30,NB,61,NORTHUMBERLAND--MIRAMICHI,18061,"LEBRETON, Ray-J.-A.",New Democratic Party,100,New Democratic Party,NDP,t,2419,f,3
+29,1972-10-30,NB,61,NORTHUMBERLAND--MIRAMICHI,18062,"GOGUEN, Joseph",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,765,f,4
+29,1972-10-30,NB,62,RESTIGOUCHE,18063,"DUBÉ, Jean-Eudes",Liberal,75,Liberal,Lib,t,11650,f,1
+29,1972-10-30,NB,62,RESTIGOUCHE,18064,"MACLEAN, Alexander Sandy",Progressive Conservative,124,Progressive Conservative Party,PC,t,5698,f,2
+29,1972-10-30,NB,62,RESTIGOUCHE,18065,"LAVIOLETTE, Guy",Progressive Conservative,124,Progressive Conservative Party,PC,t,5450,f,3
+29,1972-10-30,NB,62,RESTIGOUCHE,18066,"DUGAS, Edgar-J.",New Democratic Party,100,New Democratic Party,NDP,t,1110,f,4
+29,1972-10-30,NB,63,SAINT JOHN--LANCASTER,18067,"BELL, Tom",Progressive Conservative,124,Progressive Conservative Party,PC,t,16350,f,1
+29,1972-10-30,NB,63,SAINT JOHN--LANCASTER,18068,"GOULD, Arthur L.",Liberal,75,Liberal,Lib,t,12783,f,2
+29,1972-10-30,NB,63,SAINT JOHN--LANCASTER,18069,"DRUMMOND, Joe S.",New Democratic Party,100,New Democratic Party,NDP,t,788,f,3
+29,1972-10-30,NB,63,SAINT JOHN--LANCASTER,18070,"ENRIGHT, Tom",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,394,f,4
+29,1972-10-30,NB,64,WESTMORLAND--KENT,18071,"LEBLANC, Roméo-Adrien",Liberal,75,Liberal,Lib,t,14747,f,1
+29,1972-10-30,NB,64,WESTMORLAND--KENT,18072,"LEGER, Michel-C.",Progressive Conservative,124,Progressive Conservative Party,PC,t,8107,f,2
+29,1972-10-30,NB,64,WESTMORLAND--KENT,18073,"LA BOSSIÈRE, John",New Democratic Party,100,New Democratic Party,NDP,t,2104,f,3
+29,1972-10-30,NB,64,WESTMORLAND--KENT,18074,"LANDRY, Henry L.J.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1381,f,4
+29,1972-10-30,NB,65,YORK--SUNBURY,18075,"HOWIE, J. Robert",Progressive Conservative,124,Progressive Conservative Party,PC,t,20362,f,1
+29,1972-10-30,NB,65,YORK--SUNBURY,18077,"DIXON, Ray",Liberal,75,Liberal,Lib,t,14335,f,2
+29,1972-10-30,NB,65,YORK--SUNBURY,18076,"WALLACE, Beverley",New Democratic Party,100,New Democratic Party,NDP,t,3741,f,3
+29,1972-10-30,NL,66,BONAVISTA--TRINITY--CONCEPTION,18078,"ROONEY, Dave",Liberal,75,Liberal,Lib,t,12635,f,1
+29,1972-10-30,NL,66,BONAVISTA--TRINITY--CONCEPTION,18082,"WOODMAN, Fred",Progressive Conservative,124,Progressive Conservative Party,PC,t,8799,f,2
+29,1972-10-30,NL,66,BONAVISTA--TRINITY--CONCEPTION,18080,"RUSSELL, Edgar Alexander",New Democratic Party,100,New Democratic Party,NDP,t,832,f,3
+29,1972-10-30,NL,66,BONAVISTA--TRINITY--CONCEPTION,18081,"DROVER, Samuel",Independent,52,Independent,Ind,f,616,f,4
+29,1972-10-30,NL,66,BONAVISTA--TRINITY--CONCEPTION,18079,"SKINNER, S. Carey",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,127,f,5
+29,1972-10-30,NL,67,BURIN--BURGEO,18083,"JAMIESON, Don",Liberal,75,Liberal,Lib,t,13883,f,1
+29,1972-10-30,NL,67,BURIN--BURGEO,18084,"KEEPING, Max",Progressive Conservative,124,Progressive Conservative Party,PC,t,4746,f,2
+29,1972-10-30,NL,67,BURIN--BURGEO,18085,"PAULSON, Lowell",New Democratic Party,100,New Democratic Party,NDP,t,336,f,3
+29,1972-10-30,NL,68,GANDER--TWILLINGATE,18086,"LUNDRIGAN, John Howard",Progressive Conservative,124,Progressive Conservative Party,PC,t,12420,f,1
+29,1972-10-30,NL,68,GANDER--TWILLINGATE,18088,"BAKER, George S.",Liberal,75,Liberal,Lib,t,10396,f,2
+29,1972-10-30,NL,68,GANDER--TWILLINGATE,18087,"BLACKMORE, Walwin",New Democratic Party,100,New Democratic Party,NDP,t,577,f,3
+29,1972-10-30,NL,69,GRAND FALLS--WHITE BAY--LABRADOR,18089,"ROMPKEY, Bill",Liberal,75,Liberal,Lib,t,14274,f,1
+29,1972-10-30,NL,69,GRAND FALLS--WHITE BAY--LABRADOR,18090,"PEDDLE, Ambrose",Progressive Conservative,124,Progressive Conservative Party,PC,t,8968,f,2
+29,1972-10-30,NL,69,GRAND FALLS--WHITE BAY--LABRADOR,18091,"BOONE, Earle R.",New Democratic Party,100,New Democratic Party,NDP,t,1523,f,3
+29,1972-10-30,NL,70,HUMBER--ST. GEORGE'S--ST. BARBE,18092,"MARSHALL, Jack",Progressive Conservative,124,Progressive Conservative Party,PC,t,16378,f,1
+29,1972-10-30,NL,70,HUMBER--ST. GEORGE'S--ST. BARBE,18094,"MATTHEWS, G.C. Meech",Liberal,75,Liberal,Lib,t,10200,f,2
+29,1972-10-30,NL,70,HUMBER--ST. GEORGE'S--ST. BARBE,18093,"HILLYARD, Calvin Morris",New Democratic Party,100,New Democratic Party,NDP,t,1666,f,3
+29,1972-10-30,NL,71,ST. JOHN'S EAST,18095,"MCGRATH, James A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,17728,f,1
+29,1972-10-30,NL,71,ST. JOHN'S EAST,18096,"DUNN, Margaret",Liberal,75,Liberal,Lib,t,9887,f,2
+29,1972-10-30,NL,71,ST. JOHN'S EAST,18097,"KELLY, R. Graham",New Democratic Party,100,New Democratic Party,NDP,t,1563,f,3
+29,1972-10-30,NL,71,ST. JOHN'S EAST,18098,"KING, Norman W.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,139,f,4
+29,1972-10-30,NL,72,ST. JOHN'S WEST,18099,"CARTER, Walter",Progressive Conservative,124,Progressive Conservative Party,PC,t,16818,f,1
+29,1972-10-30,NL,72,ST. JOHN'S WEST,18100,"PORTER, David Bruce",Liberal,75,Liberal,Lib,t,7230,f,2
+29,1972-10-30,NL,72,ST. JOHN'S WEST,18101,"INGRAM, Moses L.",New Democratic Party,100,New Democratic Party,NDP,t,1668,f,3
+29,1972-10-30,NL,72,ST. JOHN'S WEST,18102,"SHEA, Hugh J.",No affiliation to a recognised party,52,Independent,Ind,f,1637,f,4
+29,1972-10-30,NS,73,ANNAPOLIS VALLEY,18103,"NOWLAN, Pat",Progressive Conservative,124,Progressive Conservative Party,PC,t,20962,f,1
+29,1972-10-30,NS,73,ANNAPOLIS VALLEY,18106,"CALKIN, Tom",Liberal,75,Liberal,Lib,t,12800,f,2
+29,1972-10-30,NS,73,ANNAPOLIS VALLEY,18105,"PICKETT, Virginia",New Democratic Party,100,New Democratic Party,NDP,t,1788,f,3
+29,1972-10-30,NS,73,ANNAPOLIS VALLEY,18104,"HATT, W. Lincoln",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,299,f,4
+29,1972-10-30,NS,74,CAPE BRETON HIGHLANDS--CANSO,18107,"MACEACHEN, Allan Joseph",Liberal,75,Liberal,Lib,t,16929,f,1
+29,1972-10-30,NS,74,CAPE BRETON HIGHLANDS--CANSO,18109,"MACISAAC, Angus",Progressive Conservative,124,Progressive Conservative Party,PC,t,14463,f,2
+29,1972-10-30,NS,74,CAPE BRETON HIGHLANDS--CANSO,18108,"SCHWAB, Robert",New Democratic Party,100,New Democratic Party,NDP,t,1929,f,3
+29,1972-10-30,NS,75,CAPE BRETON--EAST RICHMOND,18110,"MACINNIS, Donald",Progressive Conservative,124,Progressive Conservative Party,PC,t,12071,f,1
+29,1972-10-30,NS,75,CAPE BRETON--EAST RICHMOND,18112,"CURRIE, John Jake",New Democratic Party,100,New Democratic Party,NDP,t,10064,f,2
+29,1972-10-30,NS,75,CAPE BRETON--EAST RICHMOND,18111,"ROACH, William M.",Liberal,75,Liberal,Lib,t,9066,f,3
+29,1972-10-30,NS,76,CAPE BRETON--THE SYDNEYS,18113,"MUIR, Robert",Progressive Conservative,124,Progressive Conservative Party,PC,t,15394,f,1
+29,1972-10-30,NS,76,CAPE BRETON--THE SYDNEYS,18114,"JOHNSTONE, Mark",Liberal,75,Liberal,Lib,t,9529,f,2
+29,1972-10-30,NS,76,CAPE BRETON--THE SYDNEYS,18115,"MOZVIK, Bill",New Democratic Party,100,New Democratic Party,NDP,t,7314,f,3
+29,1972-10-30,NS,77,CENTRAL NOVA,18116,"MACKAY, Elmer M.",Progressive Conservative,124,Progressive Conservative Party,PC,t,18259,f,1
+29,1972-10-30,NS,77,CENTRAL NOVA,18118,"MAWHINNEY, D. Laurence",Liberal,75,Liberal,Lib,t,9288,f,2
+29,1972-10-30,NS,77,CENTRAL NOVA,18119,"BROWN, John Rod",New Democratic Party,100,New Democratic Party,NDP,t,4117,f,3
+29,1972-10-30,NS,77,CENTRAL NOVA,18117,"HENDERSON, John J.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,397,f,4
+29,1972-10-30,NS,78,CUMBERLAND--COLCHESTER NORTH,18120,"COATES, Robert C.",Progressive Conservative,124,Progressive Conservative Party,PC,t,19455,f,1
+29,1972-10-30,NS,78,CUMBERLAND--COLCHESTER NORTH,18123,"VAN SNICK, R.M. Dick",Liberal,75,Liberal,Lib,t,10163,f,2
+29,1972-10-30,NS,78,CUMBERLAND--COLCHESTER NORTH,18121,"MARCHBANK, Allan McLean",New Democratic Party,100,New Democratic Party,NDP,t,3635,f,3
+29,1972-10-30,NS,78,CUMBERLAND--COLCHESTER NORTH,18122,"KIRK, Robert",No affiliation to a recognised party,52,Independent,Ind,f,245,f,4
+29,1972-10-30,NS,79,DARTMOUTH--HALIFAX EAST,18124,"FORRESTALL, Mike",Progressive Conservative,124,Progressive Conservative Party,PC,t,24553,f,1
+29,1972-10-30,NS,79,DARTMOUTH--HALIFAX EAST,18127,"SAVAGE, John P.",Liberal,75,Liberal,Lib,t,13543,f,2
+29,1972-10-30,NS,79,DARTMOUTH--HALIFAX EAST,18126,"DARES, Norman Harris",New Democratic Party,100,New Democratic Party,NDP,t,4358,f,3
+29,1972-10-30,NS,79,DARTMOUTH--HALIFAX EAST,18125,"PITCAIRN, Brian",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,261,f,4
+29,1972-10-30,NS,80,HALIFAX,18128,"STANFIELD, Robert Lorne",Progressive Conservative,124,Progressive Conservative Party,PC,t,17966,f,1
+29,1972-10-30,NS,80,HALIFAX,18131,"MCGRATH, Terry",Liberal,75,Liberal,Lib,t,10039,f,2
+29,1972-10-30,NS,80,HALIFAX,18130,"DOLIN, Marty",New Democratic Party,100,New Democratic Party,NDP,t,3936,f,3
+29,1972-10-30,NS,80,HALIFAX,18129,"SEED, Tony",No affiliation to a recognised party,52,Independent,Ind,f,121,f,4
+29,1972-10-30,NS,81,HALIFAX--EAST HANTS,18132,"MCCLEAVE, Bob",Progressive Conservative,124,Progressive Conservative Party,PC,t,27645,f,1
+29,1972-10-30,NS,81,HALIFAX--EAST HANTS,18135,"CASEY, Mary M.",Liberal,75,Liberal,Lib,t,14308,f,2
+29,1972-10-30,NS,81,HALIFAX--EAST HANTS,18133,"AUBE, Donald",New Democratic Party,100,New Democratic Party,NDP,t,5530,f,3
+29,1972-10-30,NS,81,HALIFAX--EAST HANTS,18134,"BILEY, Barbara Joan",No affiliation to a recognised party,52,Independent,Ind,f,135,f,4
+29,1972-10-30,NS,82,SOUTH SHORE,18136,"CROUSE, Lloyd R.",Progressive Conservative,124,Progressive Conservative Party,PC,t,18653,f,1
+29,1972-10-30,NS,82,SOUTH SHORE,18138,"KINLEY, John James",Liberal,75,Liberal,Lib,t,11602,f,2
+29,1972-10-30,NS,82,SOUTH SHORE,18137,"STUART, Richard N.",New Democratic Party,100,New Democratic Party,NDP,t,2297,f,3
+29,1972-10-30,NS,83,SOUTH WESTERN NOVA,18139,"HALIBURTON, Charles E.",Progressive Conservative,124,Progressive Conservative Party,PC,t,15039,f,1
+29,1972-10-30,NS,83,SOUTH WESTERN NOVA,18141,"LOGAN, Fulton J.",Liberal,75,Liberal,Lib,t,12471,f,2
+29,1972-10-30,NS,83,SOUTH WESTERN NOVA,18142,"MEUSE, Lawrence",New Democratic Party,100,New Democratic Party,NDP,t,2104,f,3
+29,1972-10-30,NS,83,SOUTH WESTERN NOVA,18140,"PADDOCK, Charles P.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,359,f,4
+29,1972-10-30,NT,84,NORTHWEST TERRITORIES,18143,"FIRTH, Wally",New Democratic Party,100,New Democratic Party,NDP,t,5597,f,1
+29,1972-10-30,NT,84,NORTHWEST TERRITORIES,18144,"WARD, Bob",Progressive Conservative,124,Progressive Conservative Party,PC,t,4339,f,2
+29,1972-10-30,NT,84,NORTHWEST TERRITORIES,18145,"HILL, Dick",Liberal,75,Liberal,Lib,t,4121,f,3
+29,1972-10-30,ON,85,ALGOMA,18146,"FOSTER, Maurice",Liberal,75,Liberal,Lib,t,10160,f,1
+29,1972-10-30,ON,85,ALGOMA,18148,"BURLEY, Dale",Progressive Conservative,124,Progressive Conservative Party,PC,t,6721,f,2
+29,1972-10-30,ON,85,ALGOMA,18147,"SWEENEY, Kelly",New Democratic Party,100,New Democratic Party,NDP,t,4599,f,3
+29,1972-10-30,ON,85,ALGOMA,18149,"COTE, Nil F.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,508,f,4
+29,1972-10-30,ON,85,ALGOMA,18150,"STRAIN, George Washington",Independent,52,Independent,Ind,f,150,f,5
+29,1972-10-30,ON,86,BRANT,18151,"BLACKBURN, Derek",New Democratic Party,100,New Democratic Party,NDP,t,20002,f,1
+29,1972-10-30,ON,86,BRANT,18152,"MUNDY, Dick",Liberal,75,Liberal,Lib,t,14730,f,2
+29,1972-10-30,ON,86,BRANT,18153,"KERESTURI, Alex",Progressive Conservative,124,Progressive Conservative Party,PC,t,11711,f,3
+29,1972-10-30,ON,87,BROADVIEW,18154,"GILBERT, John",New Democratic Party,100,New Democratic Party,NDP,t,11063,f,1
+29,1972-10-30,ON,87,BROADVIEW,18155,"CLIFFORD, Tom",Progressive Conservative,124,Progressive Conservative Party,PC,t,7903,f,2
+29,1972-10-30,ON,87,BROADVIEW,18156,"MURPHY, Peter",Liberal,75,Liberal,Lib,t,7465,f,3
+29,1972-10-30,ON,87,BROADVIEW,18157,"DEWHURST, Alfred",No affiliation to a recognised party,52,Independent,Ind,f,123,f,4
+29,1972-10-30,ON,87,BROADVIEW,18158,"HALL, Ron",No affiliation to a recognised party,52,Independent,Ind,f,54,f,5
+29,1972-10-30,ON,88,BRUCE,18159,"WHICHER, Ross",Liberal,75,Liberal,Lib,t,14974,f,1
+29,1972-10-30,ON,88,BRUCE,18161,"LONEY, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,14297,f,2
+29,1972-10-30,ON,88,BRUCE,18160,"THOMPSON, Thomas",New Democratic Party,100,New Democratic Party,NDP,t,3772,f,3
+29,1972-10-30,ON,89,COCHRANE,18162,"STEWART, Ralph W.",Liberal,75,Liberal,Lib,t,10405,f,1
+29,1972-10-30,ON,89,COCHRANE,18163,"CONSTANTINE, Bud",New Democratic Party,100,New Democratic Party,NDP,t,5405,f,2
+29,1972-10-30,ON,89,COCHRANE,18164,"BROWN, Blair",Progressive Conservative,124,Progressive Conservative Party,PC,t,4626,f,3
+29,1972-10-30,ON,89,COCHRANE,18165,"PETRIN, Emmanuel",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1477,f,4
+29,1972-10-30,ON,89,COCHRANE,18166,"MULLINS, Richard B.",Independent,52,Independent,Ind,f,204,f,5
+29,1972-10-30,ON,90,DAVENPORT,18167,"CACCIA, Charles L.",Liberal,75,Liberal,Lib,t,9366,f,1
+29,1972-10-30,ON,90,DAVENPORT,18168,"GILLESPIE, John A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,6442,f,2
+29,1972-10-30,ON,90,DAVENPORT,18169,"PRINCIPE, Angelo",New Democratic Party,100,New Democratic Party,NDP,t,5272,f,3
+29,1972-10-30,ON,90,DAVENPORT,18170,"KASHTAN, William",No affiliation to a recognised party,52,Independent,Ind,f,190,f,4
+29,1972-10-30,ON,90,DAVENPORT,18171,"DALY, Richard",No affiliation to a recognised party,52,Independent,Ind,f,160,f,5
+29,1972-10-30,ON,91,DON VALLEY,18172,"GILLIES, Jim",Progressive Conservative,124,Progressive Conservative Party,PC,t,30764,f,1
+29,1972-10-30,ON,91,DON VALLEY,18173,"KAPLAN, Robert P.",Liberal,75,Liberal,Lib,t,24629,f,2
+29,1972-10-30,ON,91,DON VALLEY,18174,"SMITH, Jean",New Democratic Party,100,New Democratic Party,NDP,t,5110,f,3
+29,1972-10-30,ON,92,EGLINTON,18175,"SHARP, Mitchell",Liberal,75,Liberal,Lib,t,19389,f,1
+29,1972-10-30,ON,92,EGLINTON,18176,"MAYNARD, Murray R.",Progressive Conservative,124,Progressive Conservative Party,PC,t,17819,f,2
+29,1972-10-30,ON,92,EGLINTON,18177,"PELRINE, Eleanor",New Democratic Party,100,New Democratic Party,NDP,t,5245,f,3
+29,1972-10-30,ON,92,EGLINTON,18178,"BAINS, Hardial",No affiliation to a recognised party,52,Independent,Ind,f,132,f,4
+29,1972-10-30,ON,93,ELGIN,18179,"WISE, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,17281,f,1
+29,1972-10-30,ON,93,ELGIN,18180,"STAFFORD, Harold E.",Liberal,75,Liberal,Lib,t,13289,f,2
+29,1972-10-30,ON,93,ELGIN,18181,"WRIGHT, Leroy B.",New Democratic Party,100,New Democratic Party,NDP,t,3345,f,3
+29,1972-10-30,ON,94,ESSEX--WINDSOR,18182,"WHELAN, Eugene",Liberal,75,Liberal,Lib,t,19793,f,1
+29,1972-10-30,ON,94,ESSEX--WINDSOR,18183,"WENSLEY, Ralph N.",New Democratic Party,100,New Democratic Party,NDP,t,16503,f,2
+29,1972-10-30,ON,94,ESSEX--WINDSOR,18184,"MICHAEL, Edmund A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,4929,f,3
+29,1972-10-30,ON,95,ETOBICOKE,18185,"GILLESPIE, Alastair",Liberal,75,Liberal,Lib,t,32008,f,1
+29,1972-10-30,ON,95,ETOBICOKE,18188,"VAN DEN HEUVEL, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,28896,f,2
+29,1972-10-30,ON,95,ETOBICOKE,18186,"HAMMOND, Dave H.",New Democratic Party,100,New Democratic Party,NDP,t,10299,f,3
+29,1972-10-30,ON,95,ETOBICOKE,18187,"RAMSON, Howard",No affiliation to a recognised party,52,Independent,Ind,f,214,f,4
+29,1972-10-30,ON,96,FORT WILLIAM,18189,"MCRAE, Paul",Liberal,75,Liberal,Lib,t,11545,f,1
+29,1972-10-30,ON,96,FORT WILLIAM,18190,"HASTINGS, Lionel",Progressive Conservative,124,Progressive Conservative Party,PC,t,10263,f,2
+29,1972-10-30,ON,96,FORT WILLIAM,18191,"STEWART, Ian",New Democratic Party,100,New Democratic Party,NDP,t,7497,f,3
+29,1972-10-30,ON,97,FRONTENAC--LENNOX AND ADDINGTON,18192,"ALKENBRACK, Douglas",Progressive Conservative,124,Progressive Conservative Party,PC,t,16563,f,1
+29,1972-10-30,ON,97,FRONTENAC--LENNOX AND ADDINGTON,18193,"MACKINNON, Peter",Liberal,75,Liberal,Lib,t,9206,f,2
+29,1972-10-30,ON,97,FRONTENAC--LENNOX AND ADDINGTON,18194,"LLOYD-JONES, Mary",New Democratic Party,100,New Democratic Party,NDP,t,3283,f,3
+29,1972-10-30,ON,98,GLENGARRY--PRESCOTT--RUSSELL,18195,"ETHIER, Denis",Liberal,75,Liberal,Lib,t,14780,f,1
+29,1972-10-30,ON,98,GLENGARRY--PRESCOTT--RUSSELL,18197,"MONTREUIL, J.-L.",Progressive Conservative,124,Progressive Conservative Party,PC,t,6924,f,2
+29,1972-10-30,ON,98,GLENGARRY--PRESCOTT--RUSSELL,18196,"BOYER, Jacques",New Democratic Party,100,New Democratic Party,NDP,t,2495,f,3
+29,1972-10-30,ON,98,GLENGARRY--PRESCOTT--RUSSELL,18198,"PELOT, Bernard",Independent,52,Independent,Ind,f,2479,f,4
+29,1972-10-30,ON,98,GLENGARRY--PRESCOTT--RUSSELL,18199,"MARIN, W.-R.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1710,f,5
+29,1972-10-30,ON,99,GREENWOOD,18200,"BREWIN, Andrew F.",New Democratic Party,100,New Democratic Party,NDP,t,14261,f,1
+29,1972-10-30,ON,99,GREENWOOD,18201,"TAYLOR, William E.",Progressive Conservative,124,Progressive Conservative Party,PC,t,11190,f,2
+29,1972-10-30,ON,99,GREENWOOD,18202,"GLASS, Larry",Liberal,75,Liberal,Lib,t,7722,f,3
+29,1972-10-30,ON,99,GREENWOOD,18203,"LESLIE, George Alexander",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,117,f,4
+29,1972-10-30,ON,99,GREENWOOD,18204,"BLASHILL, Carl",No affiliation to a recognised party,52,Independent,Ind,f,79,f,5
+29,1972-10-30,ON,100,GRENVILLE--CARLETON,18205,"BAKER, Walter",Progressive Conservative,124,Progressive Conservative Party,PC,t,32689,f,1
+29,1972-10-30,ON,100,GRENVILLE--CARLETON,18206,"BLAIR, Gordon",Liberal,75,Liberal,Lib,t,22026,f,2
+29,1972-10-30,ON,100,GRENVILLE--CARLETON,18207,"KABAYAMA, Joan",New Democratic Party,100,New Democratic Party,NDP,t,6405,f,3
+29,1972-10-30,ON,101,GREY--SIMCOE,18208,"MITGES, Gus",Progressive Conservative,124,Progressive Conservative Party,PC,t,17092,f,1
+29,1972-10-30,ON,101,GREY--SIMCOE,18209,"INGLIS, Lindsay",Liberal,75,Liberal,Lib,t,11198,f,2
+29,1972-10-30,ON,101,GREY--SIMCOE,18210,"MANN, Dennis",New Democratic Party,100,New Democratic Party,NDP,t,5093,f,3
+29,1972-10-30,ON,101,GREY--SIMCOE,18211,"McGillivray, James W.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1004,f,4
+29,1972-10-30,ON,102,HALTON,18212,"O'CONNOR, Terry",Progressive Conservative,124,Progressive Conservative Party,PC,t,22640,f,1
+29,1972-10-30,ON,102,HALTON,18213,"WHITING, Rud L.",Liberal,75,Liberal,Lib,t,20419,f,2
+29,1972-10-30,ON,102,HALTON,18214,"HOLSTEIN, Carolyn",New Democratic Party,100,New Democratic Party,NDP,t,8725,f,3
+29,1972-10-30,ON,103,HALTON--WENTWORTH,18215,"KEMPLING, Bill",Progressive Conservative,124,Progressive Conservative Party,PC,t,31150,f,1
+29,1972-10-30,ON,103,HALTON--WENTWORTH,18216,"MCGUINNESS, Norm",Liberal,75,Liberal,Lib,t,21450,f,2
+29,1972-10-30,ON,103,HALTON--WENTWORTH,18217,"BAILEY, Dickson",New Democratic Party,100,New Democratic Party,NDP,t,10630,f,3
+29,1972-10-30,ON,104,HAMILTON EAST,18218,"MUNRO, John Carr",Liberal,75,Liberal,Lib,t,13053,f,1
+29,1972-10-30,ON,104,HAMILTON EAST,18219,"BREWER, Ron",Progressive Conservative,124,Progressive Conservative Party,PC,t,8601,f,2
+29,1972-10-30,ON,104,HAMILTON EAST,18220,"BOTHEN, Joe",New Democratic Party,100,New Democratic Party,NDP,t,8351,f,3
+29,1972-10-30,ON,104,HAMILTON EAST,18221,"STEWART, Donald A.",No affiliation to a recognised party,52,Independent,Ind,f,151,f,4
+29,1972-10-30,ON,104,HAMILTON EAST,18222,"HAMELIN, Charles",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,108,f,5
+29,1972-10-30,ON,104,HAMILTON EAST,18223,"WALKER, Ian G.",No affiliation to a recognised party,52,Independent,Ind,f,39,f,6
+29,1972-10-30,ON,105,HAMILTON MOUNTAIN,18224,"BEATTIE, Duncan M.",Progressive Conservative,124,Progressive Conservative Party,PC,t,21713,f,1
+29,1972-10-30,ON,105,HAMILTON MOUNTAIN,18225,"LANCTOT, Harvey",Liberal,75,Liberal,Lib,t,17477,f,2
+29,1972-10-30,ON,105,HAMILTON MOUNTAIN,18226,"NICHOLS, Bill",New Democratic Party,100,New Democratic Party,NDP,t,13604,f,3
+29,1972-10-30,ON,105,HAMILTON MOUNTAIN,18227,"HAMELIN, Roger",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,183,f,4
+29,1972-10-30,ON,106,HAMILTON WEST,18228,"ALEXANDER, Lincoln M.",Progressive Conservative,124,Progressive Conservative Party,PC,t,19837,f,1
+29,1972-10-30,ON,106,HAMILTON WEST,18229,"BURGHARDT, Jack",Liberal,75,Liberal,Lib,t,12204,f,2
+29,1972-10-30,ON,106,HAMILTON WEST,18230,"LEPPERT, Peggy",New Democratic Party,100,New Democratic Party,NDP,t,5420,f,3
+29,1972-10-30,ON,106,HAMILTON WEST,18231,"JAGGARD, Bob",No affiliation to a recognised party,52,Independent,Ind,f,218,f,4
+29,1972-10-30,ON,107,HAMILTON--WENTWORTH,18232,"O'SULLIVAN, Sean",Progressive Conservative,124,Progressive Conservative Party,PC,t,18611,f,1
+29,1972-10-30,ON,107,HAMILTON--WENTWORTH,18234,"GIBSON, Colin David",Liberal,75,Liberal,Lib,t,14755,f,2
+29,1972-10-30,ON,107,HAMILTON--WENTWORTH,18233,"MACKENZIE, Bob",New Democratic Party,100,New Democratic Party,NDP,t,14520,f,3
+29,1972-10-30,ON,107,HAMILTON--WENTWORTH,18235,"MCCANN, Ron",Independent,52,Independent,Ind,f,294,f,4
+29,1972-10-30,ON,107,HAMILTON--WENTWORTH,18236,"HAMELIN, A.J. Sid",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,143,f,5
+29,1972-10-30,ON,108,HASTINGS,18237,"ELLIS, Jack",Progressive Conservative,124,Progressive Conservative Party,PC,t,16591,f,1
+29,1972-10-30,ON,108,HASTINGS,18239,"FOLLWELL, Frank",Liberal,75,Liberal,Lib,t,11391,f,2
+29,1972-10-30,ON,108,HASTINGS,18238,"BRETHOUR, Elridge G.",New Democratic Party,100,New Democratic Party,NDP,t,3378,f,3
+29,1972-10-30,ON,109,HIGH PARK--HUMBER VALLEY,18240,"JELINEK, Otto",Progressive Conservative,124,Progressive Conservative Party,PC,t,18329,f,1
+29,1972-10-30,ON,109,HIGH PARK--HUMBER VALLEY,18242,"DEAKON, Walter",Liberal,75,Liberal,Lib,t,16426,f,2
+29,1972-10-30,ON,109,HIGH PARK--HUMBER VALLEY,18243,"CHMIELEWSKI, Edward J.",New Democratic Party,100,New Democratic Party,NDP,t,8197,f,3
+29,1972-10-30,ON,109,HIGH PARK--HUMBER VALLEY,18241,"WEIR, John",No affiliation to a recognised party,52,Independent,Ind,f,194,f,4
+29,1972-10-30,ON,109,HIGH PARK--HUMBER VALLEY,18244,"KALTURNYK, Kenneth",No affiliation to a recognised party,52,Independent,Ind,f,133,f,5
+29,1972-10-30,ON,110,HURON,18245,"MCKINLEY, Robert E.",Progressive Conservative,124,Progressive Conservative Party,PC,t,18921,f,1
+29,1972-10-30,ON,110,HURON,18246,"THOMAS, Charles H.",Liberal,75,Liberal,Lib,t,8570,f,2
+29,1972-10-30,ON,110,HURON,18247,"WEARY, Shirley",New Democratic Party,100,New Democratic Party,NDP,t,1852,f,3
+29,1972-10-30,ON,110,HURON,18248,"BAIN, T. Edward",Independent,52,Independent,Ind,f,85,f,4
+29,1972-10-30,ON,111,KENORA--RAINY RIVER,18249,"REID, John M.",Liberal,75,Liberal,Lib,t,9241,f,1
+29,1972-10-30,ON,111,KENORA--RAINY RIVER,18250,"BEEBE, Arnold",Progressive Conservative,124,Progressive Conservative Party,PC,t,8238,f,2
+29,1972-10-30,ON,111,KENORA--RAINY RIVER,18251,"WATKINS, Bill",New Democratic Party,100,New Democratic Party,NDP,t,5263,f,3
+29,1972-10-30,ON,111,KENORA--RAINY RIVER,18252,"BROWN, Bill",Independent,52,Independent,Ind,f,272,f,4
+29,1972-10-30,ON,112,KENT--ESSEX,18253,"DANFORTH, Harold W.",Progressive Conservative,124,Progressive Conservative Party,PC,t,18837,f,1
+29,1972-10-30,ON,112,KENT--ESSEX,18255,"HINNEGAN, T. Brady",Liberal,75,Liberal,Lib,t,11981,f,2
+29,1972-10-30,ON,112,KENT--ESSEX,18254,"VELLINGA, Jacob",New Democratic Party,100,New Democratic Party,NDP,t,4559,f,3
+29,1972-10-30,ON,113,KINGSTON AND THE ISLANDS,18256,"MACDONALD, Flora",Progressive Conservative,124,Progressive Conservative Party,PC,t,22824,f,1
+29,1972-10-30,ON,113,KINGSTON AND THE ISLANDS,18257,"HAZLETT, John",Liberal,75,Liberal,Lib,t,14079,f,2
+29,1972-10-30,ON,113,KINGSTON AND THE ISLANDS,18258,"THOMPSON, Lars",New Democratic Party,100,New Democratic Party,NDP,t,5807,f,3
+29,1972-10-30,ON,114,KITCHENER,18259,"HYMMEN, Keith R.",Liberal,75,Liberal,Lib,t,18351,f,1
+29,1972-10-30,ON,114,KITCHENER,18260,"LAWRENCE, Barney",Progressive Conservative,124,Progressive Conservative Party,PC,t,18104,f,2
+29,1972-10-30,ON,114,KITCHENER,18261,"SHEPPARD, Mike",New Democratic Party,100,New Democratic Party,NDP,t,11272,f,3
+29,1972-10-30,ON,115,LAMBTON--KENT,18262,"HOLMES, J.R. Bob",Progressive Conservative,124,Progressive Conservative Party,PC,t,16306,f,1
+29,1972-10-30,ON,115,LAMBTON--KENT,18263,"SONNEVELD, Gus",Liberal,75,Liberal,Lib,t,11187,f,2
+29,1972-10-30,ON,115,LAMBTON--KENT,18264,"MUXLOW, Mel",New Democratic Party,100,New Democratic Party,NDP,t,2970,f,3
+29,1972-10-30,ON,116,LANARK--RENFREW--CARLETON,18265,"Dick, Paul",Progressive Conservative,124,Progressive Conservative Party,PC,t,17893,f,1
+29,1972-10-30,ON,116,LANARK--RENFREW--CARLETON,18267,"MCBRIDE, Murray",Liberal,75,Liberal,Lib,t,13283,f,2
+29,1972-10-30,ON,116,LANARK--RENFREW--CARLETON,18266,"MELLEMA, Henry",New Democratic Party,100,New Democratic Party,NDP,t,1819,f,3
+29,1972-10-30,ON,117,LEEDS,18268,"COSSITT, Tom",Progressive Conservative,124,Progressive Conservative Party,PC,t,18130,f,1
+29,1972-10-30,ON,117,LEEDS,18269,"BLACK, Gervis",Liberal,75,Liberal,Lib,t,10650,f,2
+29,1972-10-30,ON,117,LEEDS,18270,"SUTCLIFFE, Keith",New Democratic Party,100,New Democratic Party,NDP,t,4850,f,3
+29,1972-10-30,ON,118,LINCOLN,18271,"HIGSON, Ken",Progressive Conservative,124,Progressive Conservative Party,PC,t,16840,f,1
+29,1972-10-30,ON,118,LINCOLN,18273,"BARRETT, H. Gordon",Liberal,75,Liberal,Lib,t,13562,f,2
+29,1972-10-30,ON,118,LINCOLN,18272,"LEAVENS, Ron",New Democratic Party,100,New Democratic Party,NDP,t,6714,f,3
+29,1972-10-30,ON,118,LINCOLN,18274,"WALTERS, Jim",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,612,f,4
+29,1972-10-30,ON,119,LONDON EAST,18275,"TURNER, Charles R.",Liberal,75,Liberal,Lib,t,14022,f,1
+29,1972-10-30,ON,119,LONDON EAST,18276,"MATTHEWS, Don",Progressive Conservative,124,Progressive Conservative Party,PC,t,12957,f,2
+29,1972-10-30,ON,119,LONDON EAST,18277,"BOLTON, Kenneth C.",New Democratic Party,100,New Democratic Party,NDP,t,10355,f,3
+29,1972-10-30,ON,120,LONDON WEST,18278,"BUCHANAN, Judd",Liberal,75,Liberal,Lib,t,29474,f,1
+29,1972-10-30,ON,120,LONDON WEST,18279,"BENNETT, John F.",Progressive Conservative,124,Progressive Conservative Party,PC,t,20611,f,2
+29,1972-10-30,ON,120,LONDON WEST,18280,"BOLTON, Jim",New Democratic Party,100,New Democratic Party,NDP,t,8914,f,3
+29,1972-10-30,ON,121,MIDDLESEX,18281,"FRANK, Bill",Progressive Conservative,124,Progressive Conservative Party,PC,t,20615,f,1
+29,1972-10-30,ON,121,MIDDLESEX,18282,"RECKER, Marvin",Liberal,75,Liberal,Lib,t,17244,f,2
+29,1972-10-30,ON,121,MIDDLESEX,18283,"FUNK, Ray",New Democratic Party,100,New Democratic Party,NDP,t,6643,f,3
+29,1972-10-30,ON,122,NIAGARA FALLS,18284,"HUEGLIN, Joe",Progressive Conservative,124,Progressive Conservative Party,PC,t,15701,f,1
+29,1972-10-30,ON,122,NIAGARA FALLS,18287,"JAMIESON, Tom",Liberal,75,Liberal,Lib,t,14978,f,2
+29,1972-10-30,ON,122,NIAGARA FALLS,18285,"WILSON, Ray",New Democratic Party,100,New Democratic Party,NDP,t,7705,f,3
+29,1972-10-30,ON,122,NIAGARA FALLS,18286,"OLESEVICH, George",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,270,f,4
+29,1972-10-30,ON,123,NICKEL BELT,18288,"RODRIGUEZ, John",New Democratic Party,100,New Democratic Party,NDP,t,14033,f,1
+29,1972-10-30,ON,123,NICKEL BELT,18289,"SERRE, Gaetan",Liberal,75,Liberal,Lib,t,12101,f,2
+29,1972-10-30,ON,123,NICKEL BELT,18291,"WHITE, Bernie",Progressive Conservative,124,Progressive Conservative Party,PC,t,3817,f,3
+29,1972-10-30,ON,123,NICKEL BELT,18290,"BREAULT, Donat",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,534,f,4
+29,1972-10-30,ON,124,NIPISSING,18292,"BLAIS, J.-J.",Liberal,75,Liberal,Lib,t,12451,f,1
+29,1972-10-30,ON,124,NIPISSING,18293,"SMYLIE, Jack",Progressive Conservative,124,Progressive Conservative Party,PC,t,10812,f,2
+29,1972-10-30,ON,124,NIPISSING,18294,"WYNTER, Jack",New Democratic Party,100,New Democratic Party,NDP,t,6276,f,3
+29,1972-10-30,ON,124,NIPISSING,18295,"LAROCHELLE, Clem",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,457,f,4
+29,1972-10-30,ON,125,NORFOLK--HALDIMAND,18296,"KNOWLES, Bill",Progressive Conservative,124,Progressive Conservative Party,PC,t,21214,f,1
+29,1972-10-30,ON,125,NORFOLK--HALDIMAND,18297,"MARSHALL, David",Liberal,75,Liberal,Lib,t,14106,f,2
+29,1972-10-30,ON,125,NORFOLK--HALDIMAND,18298,"POS, Ede",New Democratic Party,100,New Democratic Party,NDP,t,3116,f,3
+29,1972-10-30,ON,125,NORFOLK--HALDIMAND,18299,"MALLORY, Dave",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,339,f,4
+29,1972-10-30,ON,126,NORTHUMBERLAND--DURHAM,18300,"LAWRENCE, Allan",Progressive Conservative,124,Progressive Conservative Party,PC,t,17385,f,1
+29,1972-10-30,ON,126,NORTHUMBERLAND--DURHAM,18301,"HONEY, Russell C.",Liberal,75,Liberal,Lib,t,14594,f,2
+29,1972-10-30,ON,126,NORTHUMBERLAND--DURHAM,18302,"HILL, Wilmer",New Democratic Party,100,New Democratic Party,NDP,t,6504,f,3
+29,1972-10-30,ON,127,ONTARIO,18303,"CAFIK, Norman A.",Liberal,75,Liberal,Lib,t,16328,f,1
+29,1972-10-30,ON,127,ONTARIO,18304,"MCGEE, Frank",Progressive Conservative,124,Progressive Conservative Party,PC,t,16324,f,2
+29,1972-10-30,ON,127,ONTARIO,18305,"WARD, Alban C.",New Democratic Party,100,New Democratic Party,NDP,t,9498,f,3
+29,1972-10-30,ON,128,OSHAWA--WHITBY,18306,"BROADBENT, Edward",New Democratic Party,100,New Democratic Party,NDP,t,23757,f,1
+29,1972-10-30,ON,128,OSHAWA--WHITBY,18308,"STARR, Michael",Progressive Conservative,124,Progressive Conservative Party,PC,t,22933,f,2
+29,1972-10-30,ON,128,OSHAWA--WHITBY,18307,"CONNOLLY, Peter",Liberal,75,Liberal,Lib,t,10027,f,3
+29,1972-10-30,ON,128,OSHAWA--WHITBY,18309,"RAK, Russell",No affiliation to a recognised party,52,Independent,Ind,f,98,f,4
+29,1972-10-30,ON,129,OTTAWA CENTRE,18310,"POULIN, Hugh",Liberal,75,Liberal,Lib,t,14101,f,1
+29,1972-10-30,ON,129,OTTAWA CENTRE,18311,"SEGAL, Hugh",Progressive Conservative,124,Progressive Conservative Party,PC,t,12899,f,2
+29,1972-10-30,ON,129,OTTAWA CENTRE,18312,"GREENBERG, Irving",New Democratic Party,100,New Democratic Party,NDP,t,9195,f,3
+29,1972-10-30,ON,129,OTTAWA CENTRE,18313,"ZAVARELLA, Rocco",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,237,f,4
+29,1972-10-30,ON,129,OTTAWA CENTRE,18314,"HERMAN, Paul",No affiliation to a recognised party,52,Independent,Ind,f,177,f,5
+29,1972-10-30,ON,130,OTTAWA EAST,18315,"GAUTHIER, Jean-Robert",Liberal,75,Liberal,Lib,t,20446,f,1
+29,1972-10-30,ON,130,OTTAWA EAST,18316,"VALIQUETTE, Gerry",Progressive Conservative,124,Progressive Conservative Party,PC,t,6029,f,2
+29,1972-10-30,ON,130,OTTAWA EAST,18317,"BEAULNE, François",New Democratic Party,100,New Democratic Party,NDP,t,4672,f,3
+29,1972-10-30,ON,130,OTTAWA EAST,18318,"GAUTHIER, Cyril",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1229,f,4
+29,1972-10-30,ON,130,OTTAWA EAST,18319,"WHITE, David S.",Independent,52,Independent,Ind,f,208,f,5
+29,1972-10-30,ON,131,OTTAWA WEST,18320,"REILLY, Peter",Progressive Conservative,124,Progressive Conservative Party,PC,t,22169,f,1
+29,1972-10-30,ON,131,OTTAWA WEST,18321,"FRANCIS, Lloyd",Liberal,75,Liberal,Lib,t,18423,f,2
+29,1972-10-30,ON,131,OTTAWA WEST,18322,"JEWETT, Pauline",New Democratic Party,100,New Democratic Party,NDP,t,13498,f,3
+29,1972-10-30,ON,131,OTTAWA WEST,18323,"HAMELIN, Priscilla",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,245,f,4
+29,1972-10-30,ON,132,OTTAWA--CARLETON,18324,"TURNER, John",Liberal,75,Liberal,Lib,t,31316,f,1
+29,1972-10-30,ON,132,OTTAWA--CARLETON,18325,"GALLOWAY, Strome",Progressive Conservative,124,Progressive Conservative Party,PC,t,22641,f,2
+29,1972-10-30,ON,132,OTTAWA--CARLETON,18326,"SHACKLETON, Doris",New Democratic Party,100,New Democratic Party,NDP,t,11225,f,3
+29,1972-10-30,ON,132,OTTAWA--CARLETON,18327,"MORSE, David",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,839,f,4
+29,1972-10-30,ON,133,OXFORD,18328,"NESBITT, Wally",Progressive Conservative,124,Progressive Conservative Party,PC,t,25438,f,1
+29,1972-10-30,ON,133,OXFORD,18329,"TATHAM, Charlie",Liberal,75,Liberal,Lib,t,12540,f,2
+29,1972-10-30,ON,133,OXFORD,18330,"WETTLAUFER, Ron",New Democratic Party,100,New Democratic Party,NDP,t,2703,f,3
+29,1972-10-30,ON,134,PARKDALE,18331,"HAIDASZ, Stanley",Liberal,75,Liberal,Lib,t,12214,f,1
+29,1972-10-30,ON,134,PARKDALE,18332,"ZINK, Lubor",Progressive Conservative,124,Progressive Conservative Party,PC,t,8990,f,2
+29,1972-10-30,ON,134,PARKDALE,18333,"GURSTEIN, Mike",New Democratic Party,100,New Democratic Party,NDP,t,6478,f,3
+29,1972-10-30,ON,134,PARKDALE,18334,"DEVEAU, Dennis",No affiliation to a recognised party,52,Independent,Ind,f,201,f,4
+29,1972-10-30,ON,135,PARRY SOUND--MUSKOKA,18335,"DARLING, Stan",Progressive Conservative,124,Progressive Conservative Party,PC,t,14297,f,1
+29,1972-10-30,ON,135,PARRY SOUND--MUSKOKA,18336,"KNAPP, Al",Liberal,75,Liberal,Lib,t,8828,f,2
+29,1972-10-30,ON,135,PARRY SOUND--MUSKOKA,18337,"MALTON, Anne",New Democratic Party,100,New Democratic Party,NDP,t,6983,f,3
+29,1972-10-30,ON,136,PEEL SOUTH,18338,"BLENKARN, Don",Progressive Conservative,124,Progressive Conservative Party,PC,t,31981,f,1
+29,1972-10-30,ON,136,PEEL SOUTH,18340,"KENT, Bill",Liberal,75,Liberal,Lib,t,30305,f,2
+29,1972-10-30,ON,136,PEEL SOUTH,18339,"BUSBY, David",New Democratic Party,100,New Democratic Party,NDP,t,18553,f,3
+29,1972-10-30,ON,136,PEEL SOUTH,18341,"HOULTON, Michael",Independent,52,Independent,Ind,f,461,f,4
+29,1972-10-30,ON,137,PEEL--DUFFERIN--SIMCOE,18342,"MADILL, Ellwood",Progressive Conservative,124,Progressive Conservative Party,PC,t,25663,f,1
+29,1972-10-30,ON,137,PEEL--DUFFERIN--SIMCOE,18344,"MILNE, William Ross",Liberal,75,Liberal,Lib,t,20759,f,2
+29,1972-10-30,ON,137,PEEL--DUFFERIN--SIMCOE,18345,"SMITH, Stewart",New Democratic Party,100,New Democratic Party,NDP,t,9061,f,3
+29,1972-10-30,ON,137,PEEL--DUFFERIN--SIMCOE,18346,"SWACKHAMMER, Douglas Ross",Independent,52,Independent,Ind,f,482,f,4
+29,1972-10-30,ON,137,PEEL--DUFFERIN--SIMCOE,18343,"CLAPPISON, Peter",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,205,f,5
+29,1972-10-30,ON,138,PERTH--WILMOT,18347,"JARVIS, Bill",Progressive Conservative,124,Progressive Conservative Party,PC,t,19859,f,1
+29,1972-10-30,ON,138,PERTH--WILMOT,18348,"CLINE, C. Cy",Liberal,75,Liberal,Lib,t,11684,f,2
+29,1972-10-30,ON,138,PERTH--WILMOT,18349,"GARDINER, Gary",New Democratic Party,100,New Democratic Party,NDP,t,4069,f,3
+29,1972-10-30,ON,139,PETERBOROUGH,18350,"FAULKNER, Hugh",Liberal,75,Liberal,Lib,t,20282,f,1
+29,1972-10-30,ON,139,PETERBOROUGH,18351,"DORIS, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,17885,f,2
+29,1972-10-30,ON,139,PETERBOROUGH,18352,"PETERS, Ray",New Democratic Party,100,New Democratic Party,NDP,t,6422,f,3
+29,1972-10-30,ON,140,PORT ARTHUR,18353,"ANDRAS, Bob",Liberal,75,Liberal,Lib,t,14351,f,1
+29,1972-10-30,ON,140,PORT ARTHUR,18354,"FERGUSON, Chris",New Democratic Party,100,New Democratic Party,NDP,t,6756,f,2
+29,1972-10-30,ON,140,PORT ARTHUR,18355,"ERICKSON, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,6027,f,3
+29,1972-10-30,ON,140,PORT ARTHUR,18356,"WAHL, Clifford",No affiliation to a recognised party,52,Independent,Ind,f,274,f,4
+29,1972-10-30,ON,141,PRINCE EDWARD--HASTINGS,18357,"HEES, George",Progressive Conservative,124,Progressive Conservative Party,PC,t,19842,f,1
+29,1972-10-30,ON,141,PRINCE EDWARD--HASTINGS,18358,"CUNNINGHAM, George W.",Liberal,75,Liberal,Lib,t,10353,f,2
+29,1972-10-30,ON,141,PRINCE EDWARD--HASTINGS,18359,"LUNN, Richard",New Democratic Party,100,New Democratic Party,NDP,t,3168,f,3
+29,1972-10-30,ON,142,RENFREW NORTH--NIPISSING EAST,18360,"HOPKINS, Leonard D.",Liberal,75,Liberal,Lib,t,13553,f,1
+29,1972-10-30,ON,142,RENFREW NORTH--NIPISSING EAST,18361,"KINNEY, George A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,8440,f,2
+29,1972-10-30,ON,142,RENFREW NORTH--NIPISSING EAST,18362,"PAYNE, Maurice R.",New Democratic Party,100,New Democratic Party,NDP,t,3177,f,3
+29,1972-10-30,ON,143,ROSEDALE,18363,"MACDONALD, Donald S.",Liberal,75,Liberal,Lib,t,16073,f,1
+29,1972-10-30,ON,143,ROSEDALE,18364,"BEAMISH, Warren",Progressive Conservative,124,Progressive Conservative Party,PC,t,14856,f,2
+29,1972-10-30,ON,143,ROSEDALE,18365,"SABOURIN, Ron",New Democratic Party,100,New Democratic Party,NDP,t,4598,f,3
+29,1972-10-30,ON,143,ROSEDALE,18366,"GREGORY, Aline",Independent,52,Independent,Ind,f,892,f,4
+29,1972-10-30,ON,143,ROSEDALE,18367,"STARBUCK, David",No affiliation to a recognised party,52,Independent,Ind,f,95,f,5
+29,1972-10-30,ON,144,SARNIA--LAMBTON,18368,"CULLEN, Bud",Liberal,75,Liberal,Lib,t,16112,f,1
+29,1972-10-30,ON,144,SARNIA--LAMBTON,18369,"BRANDT, Andy",Progressive Conservative,124,Progressive Conservative Party,PC,t,14647,f,2
+29,1972-10-30,ON,144,SARNIA--LAMBTON,18370,"BELL, David",New Democratic Party,100,New Democratic Party,NDP,t,6901,f,3
+29,1972-10-30,ON,145,SAULT STE. MARIE,18371,"SYMES, Cyril",New Democratic Party,100,New Democratic Party,NDP,t,12903,f,1
+29,1972-10-30,ON,145,SAULT STE. MARIE,18372,"MURPHY, C. Terrence",Liberal,75,Liberal,Lib,t,12639,f,2
+29,1972-10-30,ON,145,SAULT STE. MARIE,18373,"LUKENDA, L.B. Lou",Progressive Conservative,124,Progressive Conservative Party,PC,t,9603,f,3
+29,1972-10-30,ON,146,SCARBOROUGH EAST,18374,"STACKHOUSE, Reg",Progressive Conservative,124,Progressive Conservative Party,PC,t,27301,f,1
+29,1972-10-30,ON,146,SCARBOROUGH EAST,18375,"O'CONNELL, Martin",Liberal,75,Liberal,Lib,t,25837,f,2
+29,1972-10-30,ON,146,SCARBOROUGH EAST,18376,"MCMAHON, John",New Democratic Party,100,New Democratic Party,NDP,t,14731,f,3
+29,1972-10-30,ON,146,SCARBOROUGH EAST,18377,"MCLENON, George",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,227,f,4
+29,1972-10-30,ON,146,SCARBOROUGH EAST,18378,"MACEROLLO, Don",No affiliation to a recognised party,52,Independent,Ind,f,77,f,5
+29,1972-10-30,ON,147,SCARBOROUGH WEST,18379,"HARNEY, John",New Democratic Party,100,New Democratic Party,NDP,t,15028,f,1
+29,1972-10-30,ON,147,SCARBOROUGH WEST,18381,"WEATHERHEAD, David",Liberal,75,Liberal,Lib,t,13635,f,2
+29,1972-10-30,ON,147,SCARBOROUGH WEST,18380,"CLARK, Basil",Progressive Conservative,124,Progressive Conservative Party,PC,t,12539,f,3
+29,1972-10-30,ON,147,SCARBOROUGH WEST,18382,"TENTREY, Roger",No affiliation to a recognised party,52,Independent,Ind,f,103,f,4
+29,1972-10-30,ON,148,SIMCOE NORTH,18383,"RYNARD, P.B.",Progressive Conservative,124,Progressive Conservative Party,PC,t,22145,f,1
+29,1972-10-30,ON,148,SIMCOE NORTH,18384,"OWEN, Bruce",Liberal,75,Liberal,Lib,t,15038,f,2
+29,1972-10-30,ON,148,SIMCOE NORTH,18385,"PARTRIDGE, Rich",New Democratic Party,100,New Democratic Party,NDP,t,9016,f,3
+29,1972-10-30,ON,149,SPADINA,18386,"STOLLERY, Peter",Liberal,75,Liberal,Lib,t,8334,f,1
+29,1972-10-30,ON,149,SPADINA,18387,"BEARDSLEY, Bob",New Democratic Party,100,New Democratic Party,NDP,t,5622,f,2
+29,1972-10-30,ON,149,SPADINA,18388,"RYAN, Perry",Progressive Conservative,124,Progressive Conservative Party,PC,t,5616,f,3
+29,1972-10-30,ON,149,SPADINA,18389,"BIZZELL, Maggie",No affiliation to a recognised party,52,Independent,Ind,f,226,f,4
+29,1972-10-30,ON,149,SPADINA,18390,"STERN, Syd",No affiliation to a recognised party,52,Independent,Ind,f,145,f,5
+29,1972-10-30,ON,149,SPADINA,18391,"BORNSTEIN, Mitchell",No affiliation to a recognised party,52,Independent,Ind,f,114,f,6
+29,1972-10-30,ON,150,ST. CATHARINES,18392,"MORGAN, Trevor",Progressive Conservative,124,Progressive Conservative Party,PC,t,19257,f,1
+29,1972-10-30,ON,150,ST. CATHARINES,18393,"MCNULTY, James C.",Liberal,75,Liberal,Lib,t,18442,f,2
+29,1972-10-30,ON,150,ST. CATHARINES,18394,"INNEQ, Michael",New Democratic Party,100,New Democratic Party,NDP,t,9683,f,3
+29,1972-10-30,ON,150,ST. CATHARINES,18395,"JAMES, R.H.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,538,f,4
+29,1972-10-30,ON,150,ST. CATHARINES,18396,"CLOUT, John Donald",No affiliation to a recognised party,52,Independent,Ind,f,250,f,5
+29,1972-10-30,ON,151,ST. PAUL'S,18397,"ATKEY, Ronald",Progressive Conservative,124,Progressive Conservative Party,PC,t,15676,f,1
+29,1972-10-30,ON,151,ST. PAUL'S,18398,"WAHN, Ian",Liberal,75,Liberal,Lib,t,14484,f,2
+29,1972-10-30,ON,151,ST. PAUL'S,18399,"BOYCE, Mary",New Democratic Party,100,New Democratic Party,NDP,t,4376,f,3
+29,1972-10-30,ON,151,ST. PAUL'S,18400,"MACPHERSON, Kay",Independent,52,Independent,Ind,f,2044,f,4
+29,1972-10-30,ON,151,ST. PAUL'S,18401,"HILL, Elizabeth",No affiliation to a recognised party,52,Independent,Ind,f,133,f,5
+29,1972-10-30,ON,151,ST. PAUL'S,18402,"BILAN, John",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,87,f,6
+29,1972-10-30,ON,151,ST. PAUL'S,18403,"MCNAIR, Crawford",No affiliation to a recognised party,52,Independent,Ind,f,48,f,7
+29,1972-10-30,ON,152,STORMONT--DUNDAS,18404,"LAMOUREUX, Lucien",No affiliation to a recognised party,52,Independent,Ind,f,17347,f,1
+29,1972-10-30,ON,152,STORMONT--DUNDAS,18405,"CAMPBELL, Grant",Progressive Conservative,124,Progressive Conservative Party,PC,t,12364,f,2
+29,1972-10-30,ON,152,STORMONT--DUNDAS,18406,"FORSYTH, Murray",New Democratic Party,100,New Democratic Party,NDP,t,3108,f,3
+29,1972-10-30,ON,152,STORMONT--DUNDAS,18407,"BENOIT, René",Independent,52,Independent,Ind,f,138,f,4
+29,1972-10-30,ON,153,SUDBURY,18408,"JEROME, Jim",Liberal,75,Liberal,Lib,t,24091,f,1
+29,1972-10-30,ON,153,SUDBURY,18409,"CLARKE, Garry",New Democratic Party,100,New Democratic Party,NDP,t,13748,f,2
+29,1972-10-30,ON,153,SUDBURY,18410,"BOROVICH, Adam",Progressive Conservative,124,Progressive Conservative Party,PC,t,5913,f,3
+29,1972-10-30,ON,154,THUNDER BAY,18411,"PENNER, Keith",Liberal,75,Liberal,Lib,t,11048,f,1
+29,1972-10-30,ON,154,THUNDER BAY,18412,"MUTCH, Ike",New Democratic Party,100,New Democratic Party,NDP,t,6309,f,2
+29,1972-10-30,ON,154,THUNDER BAY,18413,"SMITH, Harvey",Progressive Conservative,124,Progressive Conservative Party,PC,t,5095,f,3
+29,1972-10-30,ON,155,TIMISKAMING,18414,"PETERS, Arnold",New Democratic Party,100,New Democratic Party,NDP,t,11327,f,1
+29,1972-10-30,ON,155,TIMISKAMING,18415,"DUFF, Dick",Liberal,75,Liberal,Lib,t,7768,f,2
+29,1972-10-30,ON,155,TIMISKAMING,18416,"GUPPY, Alf",Progressive Conservative,124,Progressive Conservative Party,PC,t,3317,f,3
+29,1972-10-30,ON,155,TIMISKAMING,18417,"BRETON, Albert",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,718,f,4
+29,1972-10-30,ON,156,TIMMINS,18418,"ROY, Jean",Liberal,75,Liberal,Lib,t,10804,f,1
+29,1972-10-30,ON,156,TIMMINS,18419,"MARTIN, Murdo",New Democratic Party,100,New Democratic Party,NDP,t,9819,f,2
+29,1972-10-30,ON,156,TIMMINS,18420,"HICKEY, Bill",Progressive Conservative,124,Progressive Conservative Party,PC,t,2997,f,3
+29,1972-10-30,ON,156,TIMMINS,18421,"CORNELSEN, John",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,770,f,4
+29,1972-10-30,ON,157,TORONTO--LAKESHORE,18422,"GRIER, Terry",New Democratic Party,100,New Democratic Party,NDP,t,14722,f,1
+29,1972-10-30,ON,157,TORONTO--LAKESHORE,18423,"ROBINSON, Ken",Liberal,75,Liberal,Lib,t,13393,f,2
+29,1972-10-30,ON,157,TORONTO--LAKESHORE,18424,"KUPIAK, Dmytro",Progressive Conservative,124,Progressive Conservative Party,PC,t,9004,f,3
+29,1972-10-30,ON,157,TORONTO--LAKESHORE,18425,"MASSIE, Gordon",No affiliation to a recognised party,52,Independent,Ind,f,124,f,4
+29,1972-10-30,ON,157,TORONTO--LAKESHORE,18426,"BEDARD, George",No affiliation to a recognised party,52,Independent,Ind,f,102,f,5
+29,1972-10-30,ON,158,TRINITY,18427,"HELLYER, Paul",Progressive Conservative,124,Progressive Conservative Party,PC,t,8518,f,1
+29,1972-10-30,ON,158,TRINITY,18429,"NICHOLSON, A.",Liberal,75,Liberal,Lib,t,8334,f,2
+29,1972-10-30,ON,158,TRINITY,18430,"Boucher, Edward",New Democratic Party,100,New Democratic Party,NDP,t,3725,f,3
+29,1972-10-30,ON,158,TRINITY,18428,"FREED, Norman",No affiliation to a recognised party,52,Independent,Ind,f,330,f,4
+29,1972-10-30,ON,158,TRINITY,18431,"GREIG, Rae",No affiliation to a recognised party,52,Independent,Ind,f,134,f,5
+29,1972-10-30,ON,159,VICTORIA--HALIBURTON,18432,"SCOTT, Bill",Progressive Conservative,124,Progressive Conservative Party,PC,t,18450,f,1
+29,1972-10-30,ON,159,VICTORIA--HALIBURTON,18433,"WALLING, David R.",Liberal,75,Liberal,Lib,t,9711,f,2
+29,1972-10-30,ON,159,VICTORIA--HALIBURTON,18434,"WINDATT, Maurice",New Democratic Party,100,New Democratic Party,NDP,t,3826,f,3
+29,1972-10-30,ON,160,WATERLOO,18435,"SALTSMAN, Max",New Democratic Party,100,New Democratic Party,NDP,t,24197,f,1
+29,1972-10-30,ON,160,WATERLOO,18436,"CARROLL, Glenn E.",Progressive Conservative,124,Progressive Conservative Party,PC,t,19817,f,2
+29,1972-10-30,ON,160,WATERLOO,18438,"BREITHAUPT, Lou",Liberal,75,Liberal,Lib,t,15570,f,3
+29,1972-10-30,ON,160,WATERLOO,18439,"GERVAIS, Regent G.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,143,f,4
+29,1972-10-30,ON,160,WATERLOO,18437,"GRAJOWER, Jules W.P.",No affiliation to a recognised party,52,Independent,Ind,f,55,f,5
+29,1972-10-30,ON,161,WELLAND,18440,"RAILTON, Victor",Liberal,75,Liberal,Lib,t,18693,f,1
+29,1972-10-30,ON,161,WELLAND,18441,"HODGSON, Kent",Progressive Conservative,124,Progressive Conservative Party,PC,t,11977,f,2
+29,1972-10-30,ON,161,WELLAND,18442,"COOK, Ronald",New Democratic Party,100,New Democratic Party,NDP,t,7256,f,3
+29,1972-10-30,ON,162,WELLINGTON,18443,"HALES, Alfred Dryden",Progressive Conservative,124,Progressive Conservative Party,PC,t,20730,f,1
+29,1972-10-30,ON,162,WELLINGTON,18444,"SLINGER, Jake",Liberal,75,Liberal,Lib,t,11022,f,2
+29,1972-10-30,ON,162,WELLINGTON,18445,"MCCREADY, Margaret",New Democratic Party,100,New Democratic Party,NDP,t,7050,f,3
+29,1972-10-30,ON,162,WELLINGTON,18446,"BLYTHE, Gareth",No affiliation to a recognised party,52,Independent,Ind,f,174,f,4
+29,1972-10-30,ON,162,WELLINGTON,18447,"THERIAULT, Terry",No affiliation to a recognised party,52,Independent,Ind,f,67,f,5
+29,1972-10-30,ON,163,WELLINGTON--GREY--DUFFERIN--WATERLOO,18448,"Beatty, Perrin",Progressive Conservative,124,Progressive Conservative Party,PC,t,17080,f,1
+29,1972-10-30,ON,163,WELLINGTON--GREY--DUFFERIN--WATERLOO,18449,"ROSS, Allan F.",Liberal,75,Liberal,Lib,t,11640,f,2
+29,1972-10-30,ON,163,WELLINGTON--GREY--DUFFERIN--WATERLOO,18450,"FRANCIS, Don",New Democratic Party,100,New Democratic Party,NDP,t,4846,f,3
+29,1972-10-30,ON,164,WINDSOR WEST,18451,"Gray, Herb",Liberal,75,Liberal,Lib,t,17966,f,1
+29,1972-10-30,ON,164,WINDSOR WEST,18452,"FORDER, Paul",New Democratic Party,100,New Democratic Party,NDP,t,13110,f,2
+29,1972-10-30,ON,164,WINDSOR WEST,18453,"GUNNING, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,5441,f,3
+29,1972-10-30,ON,165,WINDSOR--WALKERVILLE,18454,"MACGUIGAN, Mark",Liberal,75,Liberal,Lib,t,17298,f,1
+29,1972-10-30,ON,165,WINDSOR--WALKERVILLE,18455,"ALEXANDER, Fred",New Democratic Party,100,New Democratic Party,NDP,t,14662,f,2
+29,1972-10-30,ON,165,WINDSOR--WALKERVILLE,18456,"QUITTENTON, Richard C.",Progressive Conservative,124,Progressive Conservative Party,PC,t,7208,f,3
+29,1972-10-30,ON,165,WINDSOR--WALKERVILLE,18457,"MCDONALD, Edward",No affiliation to a recognised party,52,Independent,Ind,f,317,f,4
+29,1972-10-30,ON,166,YORK CENTRE,18458,"WALKER, James E.",Liberal,75,Liberal,Lib,t,26912,f,1
+29,1972-10-30,ON,166,YORK CENTRE,18459,"SWADRON, Barry",Progressive Conservative,124,Progressive Conservative Party,PC,t,19097,f,2
+29,1972-10-30,ON,166,YORK CENTRE,18460,"COPELAND, Michael",New Democratic Party,100,New Democratic Party,NDP,t,17837,f,3
+29,1972-10-30,ON,166,YORK CENTRE,18461,"SPARKS, Harold",Independent,52,Independent,Ind,f,189,f,4
+29,1972-10-30,ON,166,YORK CENTRE,18462,"PAXTON, George",No affiliation to a recognised party,52,Independent,Ind,f,153,f,5
+29,1972-10-30,ON,167,YORK EAST,18463,"ARROL, Ian",Progressive Conservative,124,Progressive Conservative Party,PC,t,18729,f,1
+29,1972-10-30,ON,167,YORK EAST,18464,"OTTO, Steve",Liberal,75,Liberal,Lib,t,18039,f,2
+29,1972-10-30,ON,167,YORK EAST,18465,"BECKETT, W. Thomas",New Democratic Party,100,New Democratic Party,NDP,t,10876,f,3
+29,1972-10-30,ON,167,YORK EAST,18466,"KLEE, Janina",No affiliation to a recognised party,52,Independent,Ind,f,113,f,4
+29,1972-10-30,ON,167,YORK EAST,18467,"ROWBOTTOM, Harold",No affiliation to a recognised party,52,Independent,Ind,f,104,f,5
+29,1972-10-30,ON,168,YORK NORTH,18468,"DANSON, Barnett J.",Liberal,75,Liberal,Lib,t,28123,f,1
+29,1972-10-30,ON,168,YORK NORTH,18469,"ROMAN, Stephen B.",Progressive Conservative,124,Progressive Conservative Party,PC,t,25844,f,2
+29,1972-10-30,ON,168,YORK NORTH,18470,"REID, Jim",New Democratic Party,100,New Democratic Party,NDP,t,11065,f,3
+29,1972-10-30,ON,169,YORK SOUTH,18471,"LEWIS, David",New Democratic Party,100,New Democratic Party,NDP,t,14225,f,1
+29,1972-10-30,ON,169,YORK SOUTH,18472,"APPOLLONI, Lucio",Liberal,75,Liberal,Lib,t,9551,f,2
+29,1972-10-30,ON,169,YORK SOUTH,18473,"OOSTROM, John M.",Progressive Conservative,124,Progressive Conservative Party,PC,t,6401,f,3
+29,1972-10-30,ON,169,YORK SOUTH,18474,"CORKHILL, Keith",No affiliation to a recognised party,52,Independent,Ind,f,172,f,4
+29,1972-10-30,ON,170,YORK WEST,18475,"FLEMING, Jim",Liberal,75,Liberal,Lib,t,22270,f,1
+29,1972-10-30,ON,170,YORK WEST,18477,"SCOTT, Val",New Democratic Party,100,New Democratic Party,NDP,t,18639,f,2
+29,1972-10-30,ON,170,YORK WEST,18478,"NUSCA, Clem",Progressive Conservative,124,Progressive Conservative Party,PC,t,14997,f,3
+29,1972-10-30,ON,170,YORK WEST,18479,"HORWOOD, David",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,237,f,4
+29,1972-10-30,ON,170,YORK WEST,18476,"BIZZELL, John",No affiliation to a recognised party,52,Independent,Ind,f,167,f,5
+29,1972-10-30,ON,170,YORK WEST,18480,"DALY, Sean",No affiliation to a recognised party,52,Independent,Ind,f,84,f,6
+29,1972-10-30,ON,171,YORK--SCARBOROUGH,18481,"STANBURY, Robert",Liberal,75,Liberal,Lib,t,39219,f,1
+29,1972-10-30,ON,171,YORK--SCARBOROUGH,18482,"BOYD, Winnett",Progressive Conservative,124,Progressive Conservative Party,PC,t,37368,f,2
+29,1972-10-30,ON,171,YORK--SCARBOROUGH,18483,"WARNER, Dave",New Democratic Party,100,New Democratic Party,NDP,t,16584,f,3
+29,1972-10-30,ON,172,YORK--SIMCOE,18484,"STEVENS, Sinclair",Progressive Conservative,124,Progressive Conservative Party,PC,t,22957,f,1
+29,1972-10-30,ON,172,YORK--SIMCOE,18485,"ROBERTS, John M.",Liberal,75,Liberal,Lib,t,19178,f,2
+29,1972-10-30,ON,172,YORK--SIMCOE,18486,"GUSTAR, Wally",New Democratic Party,100,New Democratic Party,NDP,t,8046,f,3
+29,1972-10-30,PE,173,CARDIGAN,18487,"MACDONALD, Daniel J.",Liberal,75,Liberal,Lib,t,5528,f,1
+29,1972-10-30,PE,173,CARDIGAN,18488,"FRASER, Alfred Kenneth",Progressive Conservative,124,Progressive Conservative Party,PC,t,5111,f,2
+29,1972-10-30,PE,173,CARDIGAN,18489,"RYAN, S.T. Aquinas",New Democratic Party,100,New Democratic Party,NDP,t,1771,f,3
+29,1972-10-30,PE,174,EGMONT,18490,"MACDONALD, David",Progressive Conservative,124,Progressive Conservative Party,PC,t,7868,f,1
+29,1972-10-30,PE,174,EGMONT,18492,"OLSCAMP, George W.",Liberal,75,Liberal,Lib,t,5681,f,2
+29,1972-10-30,PE,174,EGMONT,18491,"KADEY, Carroll L.",New Democratic Party,100,New Democratic Party,NDP,t,501,f,3
+29,1972-10-30,PE,174,EGMONT,18493,"RYAN, Hugh G.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,55,f,4
+29,1972-10-30,PE,175,HILLSBOROUGH,18494,"MACQUARRIE, Heath",Progressive Conservative,124,Progressive Conservative Party,PC,t,10605,f,1
+29,1972-10-30,PE,175,HILLSBOROUGH,18495,"GLASS, Ian C.",Liberal,75,Liberal,Lib,t,7168,f,2
+29,1972-10-30,PE,175,HILLSBOROUGH,18496,"ROSS, Etsel",New Democratic Party,100,New Democratic Party,NDP,t,1464,f,3
+29,1972-10-30,PE,176,MALPEQUE,18497,"MACLEAN, J. Angus",Progressive Conservative,124,Progressive Conservative Party,PC,t,5835,f,1
+29,1972-10-30,PE,176,MALPEQUE,18498,"CUTCLIFFE, J. Sinclair",Liberal,75,Liberal,Lib,t,4573,f,2
+29,1972-10-30,PE,176,MALPEQUE,18499,"DARTE, Maurice J.",New Democratic Party,100,New Democratic Party,NDP,t,493,f,3
+29,1972-10-30,QC,177,ABITIBI,18500,"LAPRISE, Gérard",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,12482,f,1
+29,1972-10-30,QC,177,ABITIBI,18501,"BERGERON, Marcel",Liberal,75,Liberal,Lib,t,8203,f,2
+29,1972-10-30,QC,177,ABITIBI,18502,"GELINAS, Paul-Emile",Progressive Conservative,124,Progressive Conservative Party,PC,t,1739,f,3
+29,1972-10-30,QC,178,AHUNTSIC,18503,"SAUVE, Jeanne",Liberal,75,Liberal,Lib,t,21741,f,1
+29,1972-10-30,QC,178,AHUNTSIC,18506,"DE BELLEFEUILLE, Pierre",New Democratic Party,100,New Democratic Party,NDP,t,6706,f,2
+29,1972-10-30,QC,178,AHUNTSIC,18507,"DUVAL, Normand",Progressive Conservative,124,Progressive Conservative Party,PC,t,6429,f,3
+29,1972-10-30,QC,178,AHUNTSIC,18504,"LANTHIER, Aldéï",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4467,f,4
+29,1972-10-30,QC,178,AHUNTSIC,18505,"L'HOSTIE, Monique",No affiliation to a recognised party,52,Independent,Ind,f,734,f,5
+29,1972-10-30,QC,179,ARGENTEUIL--DEUX-MONTAGNES,18508,"FOX, Francis",Liberal,75,Liberal,Lib,t,18749,f,1
+29,1972-10-30,QC,179,ARGENTEUIL--DEUX-MONTAGNES,18511,"FONTAINE, Jean-Marc",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,8199,f,2
+29,1972-10-30,QC,179,ARGENTEUIL--DEUX-MONTAGNES,18510,"CHEVALIER, Michel",Progressive Conservative,124,Progressive Conservative Party,PC,t,7987,f,3
+29,1972-10-30,QC,179,ARGENTEUIL--DEUX-MONTAGNES,18512,"DUFAULT, Ronald-L.",New Democratic Party,100,New Democratic Party,NDP,t,1929,f,4
+29,1972-10-30,QC,179,ARGENTEUIL--DEUX-MONTAGNES,18509,"TRUDEAU, Michel-E.",No affiliation to a recognised party,52,Independent,Ind,f,1036,f,5
+29,1972-10-30,QC,180,BEAUCE,18513,"CARON, Yves",Liberal,75,Liberal,Lib,t,13170,f,1
+29,1972-10-30,QC,180,BEAUCE,18514,"RODRIGUE, Romuald",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,12686,f,2
+29,1972-10-30,QC,180,BEAUCE,18516,"BUSQUE, Paul-André",Progressive Conservative,124,Progressive Conservative Party,PC,t,5551,f,3
+29,1972-10-30,QC,180,BEAUCE,18515,"GOSSELIN, Bertrand",New Democratic Party,100,New Democratic Party,NDP,t,632,f,4
+29,1972-10-30,QC,181,BEAUHARNOIS--SALABERRY,18517,"LANIEL, Gérald",Liberal,75,Liberal,Lib,t,16745,f,1
+29,1972-10-30,QC,181,BEAUHARNOIS--SALABERRY,18519,"Leduc, Jean-Paul",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,8061,f,2
+29,1972-10-30,QC,181,BEAUHARNOIS--SALABERRY,18520,"MIRON, Armand",Progressive Conservative,124,Progressive Conservative Party,PC,t,7040,f,3
+29,1972-10-30,QC,181,BEAUHARNOIS--SALABERRY,18518,"ST-CYR, André",New Democratic Party,100,New Democratic Party,NDP,t,2727,f,4
+29,1972-10-30,QC,182,BELLECHASSE,18521,"LAMBERT, Adrien",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,12999,f,1
+29,1972-10-30,QC,182,BELLECHASSE,18523,"MERCIER, Pierre",Liberal,75,Liberal,Lib,t,11714,f,2
+29,1972-10-30,QC,182,BELLECHASSE,18522,"ROY, Germain",Progressive Conservative,124,Progressive Conservative Party,PC,t,3533,f,3
+29,1972-10-30,QC,182,BELLECHASSE,18524,"MARCEAU, Aurèle",New Democratic Party,100,New Democratic Party,NDP,t,776,f,4
+29,1972-10-30,QC,183,BERTHIER,18525,"YANAKIS, Antonio",Liberal,75,Liberal,Lib,t,14035,f,1
+29,1972-10-30,QC,183,BERTHIER,18527,"VACHON, Jacques",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,9809,f,2
+29,1972-10-30,QC,183,BERTHIER,18528,"LESSARD, Marcellin",Progressive Conservative,124,Progressive Conservative Party,PC,t,4481,f,3
+29,1972-10-30,QC,183,BERTHIER,18526,"LALONDE, Mariette",New Democratic Party,100,New Democratic Party,NDP,t,589,f,4
+29,1972-10-30,QC,184,BONAVENTURE--ÎLES-DE-LA-MADELEINE,18529,"BECHARD, Albert",Liberal,75,Liberal,Lib,t,12213,f,1
+29,1972-10-30,QC,184,BONAVENTURE--ÎLES-DE-LA-MADELEINE,18531,"BLAIS, Gérard-Raymond",Progressive Conservative,124,Progressive Conservative Party,PC,t,5108,f,2
+29,1972-10-30,QC,184,BONAVENTURE--ÎLES-DE-LA-MADELEINE,18530,"AUDET, Gérard",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4842,f,3
+29,1972-10-30,QC,184,BONAVENTURE--ÎLES-DE-LA-MADELEINE,18532,"GAUTHIER, Huguette-L.",New Democratic Party,100,New Democratic Party,NDP,t,480,f,4
+29,1972-10-30,QC,185,BROME--MISSISQUOI,18533,"GRAFFTEY, Heward",Progressive Conservative,124,Progressive Conservative Party,PC,t,15593,f,1
+29,1972-10-30,QC,185,BROME--MISSISQUOI,18535,"FOREST, Yves",Liberal,75,Liberal,Lib,t,12165,f,2
+29,1972-10-30,QC,185,BROME--MISSISQUOI,18536,"LASNIER, Jean-Paul",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,9038,f,3
+29,1972-10-30,QC,185,BROME--MISSISQUOI,18534,"LEWIS, Jean-Guy",New Democratic Party,100,New Democratic Party,NDP,t,795,f,4
+29,1972-10-30,QC,186,CHAMBLY,18537,"L'HEUREUX, Yvon",Liberal,75,Liberal,Lib,t,26532,f,1
+29,1972-10-30,QC,186,CHAMBLY,18540,"BRUNEAU, Anaclet",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,8728,f,2
+29,1972-10-30,QC,186,CHAMBLY,18538,"DUROCHER, Claude",Progressive Conservative,124,Progressive Conservative Party,PC,t,8151,f,3
+29,1972-10-30,QC,186,CHAMBLY,18541,"BOUDREAU, Emile",New Democratic Party,100,New Democratic Party,NDP,t,5532,f,4
+29,1972-10-30,QC,186,CHAMBLY,18542,"LONGTIN, Claude",Independent,52,Independent,Ind,f,474,f,5
+29,1972-10-30,QC,186,CHAMBLY,18539,"RIVARD, Lucien",No affiliation to a recognised party,52,Independent,Ind,f,435,f,6
+29,1972-10-30,QC,187,CHAMPLAIN,18543,"MATTE, René",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,14882,f,1
+29,1972-10-30,QC,187,CHAMPLAIN,18544,"TROTTIER, Laurier",Liberal,75,Liberal,Lib,t,11403,f,2
+29,1972-10-30,QC,187,CHAMPLAIN,18546,"GINGRAS, Henriot",Progressive Conservative,124,Progressive Conservative Party,PC,t,2770,f,3
+29,1972-10-30,QC,187,CHAMPLAIN,18545,"LANDRY, Jean-Guy",New Democratic Party,100,New Democratic Party,NDP,t,505,f,4
+29,1972-10-30,QC,188,CHARLEVOIX,18547,"CAOUETTE, Gilles",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,10264,f,1
+29,1972-10-30,QC,188,CHARLEVOIX,18548,"ALAIN, Jean-Guy",Liberal,75,Liberal,Lib,t,10105,f,2
+29,1972-10-30,QC,188,CHARLEVOIX,18549,"SAVARD, Pierre-Paul",Progressive Conservative,124,Progressive Conservative Party,PC,t,5747,f,3
+29,1972-10-30,QC,189,CHICOUTIMI,18550,"LANGLOIS, Paul",Liberal,75,Liberal,Lib,t,15655,f,1
+29,1972-10-30,QC,189,CHICOUTIMI,18551,"LAVOIE, Jean-Marc",Progressive Conservative,124,Progressive Conservative Party,PC,t,12712,f,2
+29,1972-10-30,QC,189,CHICOUTIMI,18552,"COTE, Maurice",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,6572,f,3
+29,1972-10-30,QC,189,CHICOUTIMI,18553,"MORIN, Serge",New Democratic Party,100,New Democratic Party,NDP,t,935,f,4
+29,1972-10-30,QC,190,COMPTON,18554,"LATULIPPE, Henry",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,11636,f,1
+29,1972-10-30,QC,190,COMPTON,18555,"GRAHAM, Duncan J.M.",New Democratic Party,100,New Democratic Party,NDP,t,10982,f,2
+29,1972-10-30,QC,190,COMPTON,18556,"TESSIER, Claude",Liberal,75,Liberal,Lib,t,10656,f,3
+29,1972-10-30,QC,190,COMPTON,18557,"GAUVIN, Guy-C.",Progressive Conservative,124,Progressive Conservative Party,PC,t,4142,f,4
+29,1972-10-30,QC,190,COMPTON,18558,"DESCOTEAUX, Conrad",Independent,52,Independent,Ind,f,182,f,5
+29,1972-10-30,QC,191,DOLLARD,18559,"GOYER, Jean-Pierre",Liberal,75,Liberal,Lib,t,38984,f,1
+29,1972-10-30,QC,191,DOLLARD,18561,"JACKSON, Barry",Progressive Conservative,124,Progressive Conservative Party,PC,t,9511,f,2
+29,1972-10-30,QC,191,DOLLARD,18562,"LEVITT, Kari",New Democratic Party,100,New Democratic Party,NDP,t,8111,f,3
+29,1972-10-30,QC,191,DOLLARD,18560,"WATERLOT, Daniel",No affiliation to a recognised party,52,Independent,Ind,f,1053,f,4
+29,1972-10-30,QC,192,DRUMMOND,18563,"BOISVERT, Jean-Marie",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,15923,f,1
+29,1972-10-30,QC,192,DRUMMOND,18566,"PEPIN, Jean-Luc",Liberal,75,Liberal,Lib,t,15853,f,2
+29,1972-10-30,QC,192,DRUMMOND,18564,"ROUSSEAU, Roger",Progressive Conservative,124,Progressive Conservative Party,PC,t,5351,f,3
+29,1972-10-30,QC,192,DRUMMOND,18565,"DEWITT, Ann",New Democratic Party,100,New Democratic Party,NDP,t,590,f,4
+29,1972-10-30,QC,193,DUVERNAY,18567,"DEMERS, Yves",Liberal,75,Liberal,Lib,t,23050,f,1
+29,1972-10-30,QC,193,DUVERNAY,18568,"MARTEL, Émilien",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,9659,f,2
+29,1972-10-30,QC,193,DUVERNAY,18569,"ROY, Bernard",Progressive Conservative,124,Progressive Conservative Party,PC,t,7950,f,3
+29,1972-10-30,QC,193,DUVERNAY,18570,"MCKENTY, Gaston",New Democratic Party,100,New Democratic Party,NDP,t,5669,f,4
+29,1972-10-30,QC,194,FRONTENAC,18571,"CORRIVEAU, Léopold",Liberal,75,Liberal,Lib,t,12014,f,1
+29,1972-10-30,QC,194,FRONTENAC,18572,"LESSARD, Nelson-O.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,11950,f,2
+29,1972-10-30,QC,194,FRONTENAC,18573,"CYR, Benoît",Progressive Conservative,124,Progressive Conservative Party,PC,t,5635,f,3
+29,1972-10-30,QC,195,GAMELIN,18574,"PORTELANCE, Arthur",Liberal,75,Liberal,Lib,t,20860,f,1
+29,1972-10-30,QC,195,GAMELIN,18577,"BERNARD, André",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,7135,f,2
+29,1972-10-30,QC,195,GAMELIN,18576,"DURAND, Jacques",Progressive Conservative,124,Progressive Conservative Party,PC,t,7066,f,3
+29,1972-10-30,QC,195,GAMELIN,18575,"MINIER, Marius",New Democratic Party,100,New Democratic Party,NDP,t,5119,f,4
+29,1972-10-30,QC,196,GASPÉ,18578,"CYR, Alexandre",Liberal,75,Liberal,Lib,t,12422,f,1
+29,1972-10-30,QC,196,GASPÉ,18579,"SAVAGE, J.-Bernard",Progressive Conservative,124,Progressive Conservative Party,PC,t,7059,f,2
+29,1972-10-30,QC,196,GASPÉ,18581,"SASSEVILLE, Claude",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2970,f,3
+29,1972-10-30,QC,196,GASPÉ,18580,"JAUNIAULT, Jean-Jacques",New Democratic Party,100,New Democratic Party,NDP,t,643,f,4
+29,1972-10-30,QC,197,GATINEAU,18582,"CLERMONT, Gaston",Liberal,75,Liberal,Lib,t,15894,f,1
+29,1972-10-30,QC,197,GATINEAU,18584,"DESCOEURS, Jean-Paul",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,9469,f,2
+29,1972-10-30,QC,197,GATINEAU,18583,"LAFORTUNE, Guy",Progressive Conservative,124,Progressive Conservative Party,PC,t,4163,f,3
+29,1972-10-30,QC,197,GATINEAU,18585,"ST-LOUIS, Mychèle",New Democratic Party,100,New Democratic Party,NDP,t,2047,f,4
+29,1972-10-30,QC,198,HOCHELAGA,18586,"PELLETIER, Gérard",Liberal,75,Liberal,Lib,t,11235,f,1
+29,1972-10-30,QC,198,HOCHELAGA,18589,"LAVOIE, Jacques",Progressive Conservative,124,Progressive Conservative Party,PC,t,6199,f,2
+29,1972-10-30,QC,198,HOCHELAGA,18590,"LALIBERTÉ, Raymond-Gérard",New Democratic Party,100,New Democratic Party,NDP,t,4515,f,3
+29,1972-10-30,QC,198,HOCHELAGA,18587,"CONTANT, Gérard",Independent,52,Independent,Ind,f,2171,f,4
+29,1972-10-30,QC,198,HOCHELAGA,18591,"FERRON, Jacques",No affiliation to a recognised party,52,Independent,Ind,f,879,f,5
+29,1972-10-30,QC,198,HOCHELAGA,18588,"LÉVESQUE, Françoise",No affiliation to a recognised party,52,Independent,Ind,f,338,f,6
+29,1972-10-30,QC,199,HULL,18592,"ISABELLE, Gaston",Liberal,75,Liberal,Lib,t,24630,f,1
+29,1972-10-30,QC,199,HULL,18593,"BOISCLAIR, Yvon",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4874,f,2
+29,1972-10-30,QC,199,HULL,18594,"LACROIX, André",Progressive Conservative,124,Progressive Conservative Party,PC,t,4173,f,3
+29,1972-10-30,QC,199,HULL,18596,"FORTIN, Carole",New Democratic Party,100,New Democratic Party,NDP,t,3796,f,4
+29,1972-10-30,QC,199,HULL,18595,"GENDRON, Raoul",Independent,52,Independent,Ind,f,453,f,5
+29,1972-10-30,QC,200,JOLIETTE,18597,"LASALLE, Roch",Independent,52,Independent,Ind,f,18074,f,1
+29,1972-10-30,QC,200,JOLIETTE,18599,"LIVERNOCHE, Claude",Liberal,75,Liberal,Lib,t,12819,f,2
+29,1972-10-30,QC,200,JOLIETTE,18600,"COMTOIS, Louis",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,5652,f,3
+29,1972-10-30,QC,200,JOLIETTE,18598,"RICARD, Sylvio",Progressive Conservative,124,Progressive Conservative Party,PC,t,1770,f,4
+29,1972-10-30,QC,200,JOLIETTE,18601,"RIVERIN, Constance",New Democratic Party,100,New Democratic Party,NDP,t,361,f,5
+29,1972-10-30,QC,201,KAMOURASKA,18602,"DIONNE, Charles-Eugène",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,14195,f,1
+29,1972-10-30,QC,201,KAMOURASKA,18604,"DESSUREAUX, Lionel",Liberal,75,Liberal,Lib,t,9053,f,2
+29,1972-10-30,QC,201,KAMOURASKA,18603,"LECLERC, Marthe",Progressive Conservative,124,Progressive Conservative Party,PC,t,2842,f,3
+29,1972-10-30,QC,201,KAMOURASKA,18605,"HARVEY, Yvon",New Democratic Party,100,New Democratic Party,NDP,t,495,f,4
+29,1972-10-30,QC,202,LABELLE,18606,"DUPRAS, Maurice",Liberal,75,Liberal,Lib,t,15807,f,1
+29,1972-10-30,QC,202,LABELLE,18607,"PERRON, Gérard",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,12247,f,2
+29,1972-10-30,QC,202,LABELLE,18608,"GÉLINAS, Paul",Progressive Conservative,124,Progressive Conservative Party,PC,t,6439,f,3
+29,1972-10-30,QC,202,LABELLE,18611,"TRUDEL, Irène",New Democratic Party,100,New Democratic Party,NDP,t,1645,f,4
+29,1972-10-30,QC,202,LABELLE,18609,"MILLETTE, Rolland",Independent,52,Independent,Ind,f,371,f,5
+29,1972-10-30,QC,202,LABELLE,18610,"DEMERS, Claude",No affiliation to a recognised party,52,Independent,Ind,f,368,f,6
+29,1972-10-30,QC,203,LAC-SAINT-JEAN,18612,"LESSARD, Marcel",Liberal,75,Liberal,Lib,t,11165,f,1
+29,1972-10-30,QC,203,LAC-SAINT-JEAN,18614,"GUAY, Gilles",Progressive Conservative,124,Progressive Conservative Party,PC,t,7074,f,2
+29,1972-10-30,QC,203,LAC-SAINT-JEAN,18615,"GAUTHIER, Claude",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,5203,f,3
+29,1972-10-30,QC,203,LAC-SAINT-JEAN,18613,"GAGNON, Claude",Independent,52,Independent,Ind,f,362,f,4
+29,1972-10-30,QC,204,LACHINE,18616,"BLAKER, Rod",Liberal,75,Liberal,Lib,t,26680,f,1
+29,1972-10-30,QC,204,LACHINE,18618,"ROCK, Raymond",Progressive Conservative,124,Progressive Conservative Party,PC,t,11344,f,2
+29,1972-10-30,QC,204,LACHINE,18619,"WOOD, Lloyd",New Democratic Party,100,New Democratic Party,NDP,t,4221,f,3
+29,1972-10-30,QC,204,LACHINE,18617,"DI BATTISTA, Victor",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,3597,f,4
+29,1972-10-30,QC,205,LAFONTAINE,18620,"LACHANCE, Georges.-C.",Liberal,75,Liberal,Lib,t,13508,f,1
+29,1972-10-30,QC,205,LAFONTAINE,18622,"BOUCHARD, Pierre",Progressive Conservative,124,Progressive Conservative Party,PC,t,6134,f,2
+29,1972-10-30,QC,205,LAFONTAINE,18623,"GROSARIU, Octave",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,5078,f,3
+29,1972-10-30,QC,205,LAFONTAINE,18621,"GAGNON, Gabriel",New Democratic Party,100,New Democratic Party,NDP,t,3350,f,4
+29,1972-10-30,QC,205,LAFONTAINE,18624,"BEINER, Alain",No affiliation to a recognised party,52,Independent,Ind,f,228,f,5
+29,1972-10-30,QC,206,LANGELIER,18625,"MARCHAND, Jean",Liberal,75,Liberal,Lib,t,14725,f,1
+29,1972-10-30,QC,206,LANGELIER,18627,"DUFRESNE, J.-Wilfrid",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,6101,f,2
+29,1972-10-30,QC,206,LANGELIER,18628,"LEMOINE, Albert",Progressive Conservative,124,Progressive Conservative Party,PC,t,3206,f,3
+29,1972-10-30,QC,206,LANGELIER,18626,"JEAN, Guy",Independent,52,Independent,Ind,f,1313,f,4
+29,1972-10-30,QC,206,LANGELIER,18629,"PARAYRE, Michel",No affiliation to a recognised party,52,Independent,Ind,f,349,f,5
+29,1972-10-30,QC,207,LAPOINTE,18630,"MARCEAU, Gilles",Liberal,75,Liberal,Lib,t,16423,f,1
+29,1972-10-30,QC,207,LAPOINTE,18632,"LANGLOIS, Raymond",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,6934,f,2
+29,1972-10-30,QC,207,LAPOINTE,18633,"BERGERON, Léopold",Progressive Conservative,124,Progressive Conservative Party,PC,t,4042,f,3
+29,1972-10-30,QC,207,LAPOINTE,18631,"RICHARD, Pierre-Hugues",Independent,52,Independent,Ind,f,1084,f,4
+29,1972-10-30,QC,208,LAPRAIRIE,18634,"WATSON, Ian",Liberal,75,Liberal,Lib,t,34557,f,1
+29,1972-10-30,QC,208,LAPRAIRIE,18636,"NELSON, Robert-F.",Progressive Conservative,124,Progressive Conservative Party,PC,t,9147,f,2
+29,1972-10-30,QC,208,LAPRAIRIE,18635,"GAGNON, Marcellin",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,7315,f,3
+29,1972-10-30,QC,208,LAPRAIRIE,18637,"BOULANGER, Bernard",New Democratic Party,100,New Democratic Party,NDP,t,5261,f,4
+29,1972-10-30,QC,209,LASALLE,18638,"CAMPBELL, John",Liberal,75,Liberal,Lib,t,30816,f,1
+29,1972-10-30,QC,209,LASALLE,18640,"LAPOINTE, Adolphe",Progressive Conservative,124,Progressive Conservative Party,PC,t,7652,f,2
+29,1972-10-30,QC,209,LASALLE,18639,"HOLMES, John",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,6339,f,3
+29,1972-10-30,QC,209,LASALLE,18641,"COTÉ, Gaston",New Democratic Party,100,New Democratic Party,NDP,t,5195,f,4
+29,1972-10-30,QC,210,LAURIER,18642,"LEBLANC, Fernand-E.",Liberal,75,Liberal,Lib,t,10936,f,1
+29,1972-10-30,QC,210,LAURIER,18646,"LÉVESQUE, J.-A.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,3789,f,2
+29,1972-10-30,QC,210,LAURIER,18647,"TROTTIER, Raymond",Progressive Conservative,124,Progressive Conservative Party,PC,t,3320,f,3
+29,1972-10-30,QC,210,LAURIER,18645,"GUAY, Jean-Paul",New Democratic Party,100,New Democratic Party,NDP,t,2290,f,4
+29,1972-10-30,QC,210,LAURIER,18644,"WALSH, Jeannette",No affiliation to a recognised party,52,Independent,Ind,f,155,f,5
+29,1972-10-30,QC,210,LAURIER,18643,"ORTON, David Keith",No affiliation to a recognised party,52,Independent,Ind,f,132,f,6
+29,1972-10-30,QC,211,LAVAL,18648,"ROY, Marcel",Liberal,75,Liberal,Lib,t,28121,f,1
+29,1972-10-30,QC,211,LAVAL,18651,"GOUROFF, Pierre",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,6921,f,2
+29,1972-10-30,QC,211,LAVAL,18652,"MASSICOTTE, Georges",Progressive Conservative,124,Progressive Conservative Party,PC,t,6219,f,3
+29,1972-10-30,QC,211,LAVAL,18650,"BOYLE, D.A.",New Democratic Party,100,New Democratic Party,NDP,t,5868,f,4
+29,1972-10-30,QC,211,LAVAL,18649,"FINE, Robert",Independent,52,Independent,Ind,f,669,f,5
+29,1972-10-30,QC,212,LONGUEUIL,18653,"OLIVIER, Jacques",Liberal,75,Liberal,Lib,t,22129,f,1
+29,1972-10-30,QC,212,LONGUEUIL,18654,"VADEBONCOEUR, Emile-A.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,12091,f,2
+29,1972-10-30,QC,212,LONGUEUIL,18655,"ROBIDAS, Marcel",Progressive Conservative,124,Progressive Conservative Party,PC,t,7015,f,3
+29,1972-10-30,QC,212,LONGUEUIL,18656,"MANSOUR, Robert",New Democratic Party,100,New Democratic Party,NDP,t,4548,f,4
+29,1972-10-30,QC,212,LONGUEUIL,18657,"GENDRON, Jacques",Independent,52,Independent,Ind,f,2020,f,5
+29,1972-10-30,QC,212,LONGUEUIL,18658,"DUGUAY, Raoul Wéziwézô",No affiliation to a recognised party,52,Independent,Ind,f,1625,f,6
+29,1972-10-30,QC,212,LONGUEUIL,18659,"PESANT, André",No affiliation to a recognised party,52,Independent,Ind,f,170,f,7
+29,1972-10-30,QC,213,LOTBINIÈRE,18660,"FORTIN, André",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,21366,f,1
+29,1972-10-30,QC,213,LOTBINIÈRE,18662,"BRUNELLE, Henri",Liberal,75,Liberal,Lib,t,9836,f,2
+29,1972-10-30,QC,213,LOTBINIÈRE,18661,"BEAUDET, Pierre",Progressive Conservative,124,Progressive Conservative Party,PC,t,4258,f,3
+29,1972-10-30,QC,214,LOUIS-HÉBERT,18663,"MORIN, Albanie",Liberal,75,Liberal,Lib,t,30928,f,1
+29,1972-10-30,QC,214,LOUIS-HÉBERT,18665,"STANTON, Françoise",New Democratic Party,100,New Democratic Party,NDP,t,7750,f,2
+29,1972-10-30,QC,214,LOUIS-HÉBERT,18666,"BERGERON, Cécile",Progressive Conservative,124,Progressive Conservative Party,PC,t,7566,f,3
+29,1972-10-30,QC,214,LOUIS-HÉBERT,18667,"CLAVET, Ghislaine",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4672,f,4
+29,1972-10-30,QC,214,LOUIS-HÉBERT,18664,"POULIOT, Lisette",No affiliation to a recognised party,52,Independent,Ind,f,1490,f,5
+29,1972-10-30,QC,214,LOUIS-HÉBERT,18668,"TREMBLAY, Henri",Independent,52,Independent,Ind,f,1085,f,6
+29,1972-10-30,QC,215,LÉVIS,18669,"GUAY, Raynald",Liberal,75,Liberal,Lib,t,17588,f,1
+29,1972-10-30,QC,215,LÉVIS,18671,"RICARD, Jean",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,10256,f,2
+29,1972-10-30,QC,215,LÉVIS,18670,"DUBÉ, Paul-Émile",Progressive Conservative,124,Progressive Conservative Party,PC,t,9848,f,3
+29,1972-10-30,QC,215,LÉVIS,18672,"THERRIEN, André",New Democratic Party,100,New Democratic Party,NDP,t,1593,f,4
+29,1972-10-30,QC,215,LÉVIS,18673,"DE BEAUMONT, Serge",No affiliation to a recognised party,52,Independent,Ind,f,519,f,5
+29,1972-10-30,QC,216,MAISONNEUVE--ROSEMONT,18674,"THOMAS, J.-Antonio",Liberal,75,Liberal,Lib,t,13607,f,1
+29,1972-10-30,QC,216,MAISONNEUVE--ROSEMONT,18678,"TRUDEAU, Paul-André",Progressive Conservative,124,Progressive Conservative Party,PC,t,6551,f,2
+29,1972-10-30,QC,216,MAISONNEUVE--ROSEMONT,18675,"MORISSETTE, Gilles",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,5877,f,3
+29,1972-10-30,QC,216,MAISONNEUVE--ROSEMONT,18677,"DUFOUR, Gaétan",New Democratic Party,100,New Democratic Party,NDP,t,3786,f,4
+29,1972-10-30,QC,216,MAISONNEUVE--ROSEMONT,18676,"BUREAU, Robert",No affiliation to a recognised party,52,Independent,Ind,f,294,f,5
+29,1972-10-30,QC,217,MANICOUAGAN,18679,"BLOUIN, Gustave",Liberal,75,Liberal,Lib,t,16780,f,1
+29,1972-10-30,QC,217,MANICOUAGAN,18681,"DESJARDINS, Lionel-Joseph",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,6136,f,2
+29,1972-10-30,QC,217,MANICOUAGAN,18680,"GILES, Jerry",Progressive Conservative,124,Progressive Conservative Party,PC,t,4625,f,3
+29,1972-10-30,QC,217,MANICOUAGAN,18682,"PINEL, Jean-Maurice",New Democratic Party,100,New Democratic Party,NDP,t,2156,f,4
+29,1972-10-30,QC,218,MATANE,18683,"DE BANÉ, Pierre",Liberal,75,Liberal,Lib,t,10038,f,1
+29,1972-10-30,QC,218,MATANE,18685,"BOULAY, Léonard",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,5968,f,2
+29,1972-10-30,QC,218,MATANE,18684,"SIROIS, Yvon",Progressive Conservative,124,Progressive Conservative Party,PC,t,2999,f,3
+29,1972-10-30,QC,219,MERCIER,18686,"BOULANGER, Prosper",Liberal,75,Liberal,Lib,t,22207,f,1
+29,1972-10-30,QC,219,MERCIER,18689,"DION, Cyprien",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,11468,f,2
+29,1972-10-30,QC,219,MERCIER,18687,"ST-ONGE, André",Progressive Conservative,124,Progressive Conservative Party,PC,t,9010,f,3
+29,1972-10-30,QC,219,MERCIER,18688,"HART, Mario",New Democratic Party,100,New Democratic Party,NDP,t,4921,f,4
+29,1972-10-30,QC,220,MONTMORENCY,18690,"LAFLAMME, Ovide",Liberal,75,Liberal,Lib,t,24250,f,1
+29,1972-10-30,QC,220,MONTMORENCY,18693,"LINDSAY, René",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,15126,f,2
+29,1972-10-30,QC,220,MONTMORENCY,18694,"LAPOINTE, Bernard",Progressive Conservative,124,Progressive Conservative Party,PC,t,5904,f,3
+29,1972-10-30,QC,220,MONTMORENCY,18691,"LAVOIE, Raymond",Independent,52,Independent,Ind,f,4845,f,4
+29,1972-10-30,QC,220,MONTMORENCY,18692,"TREMBLAY, Étienne",New Democratic Party,100,New Democratic Party,NDP,t,2215,f,5
+29,1972-10-30,QC,221,MONTREAL--BOURASSA,18695,"TRUDEL, Jacques-L.",Liberal,75,Liberal,Lib,t,25728,f,1
+29,1972-10-30,QC,221,MONTREAL--BOURASSA,18698,"LEDOUX, Gérard",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,10418,f,2
+29,1972-10-30,QC,221,MONTREAL--BOURASSA,18697,"SAUVÉ, Rodolphe",Progressive Conservative,124,Progressive Conservative Party,PC,t,9054,f,3
+29,1972-10-30,QC,221,MONTREAL--BOURASSA,18696,"ZITOUNI, Sid-A.",New Democratic Party,100,New Democratic Party,NDP,t,4601,f,4
+29,1972-10-30,QC,222,MOUNT ROYAL,18699,"TRUDEAU, Pierre-Elliott",Liberal,75,Liberal,Lib,t,36875,f,1
+29,1972-10-30,QC,222,MOUNT ROYAL,18700,"BRICHANT, Andrew Albert",Progressive Conservative,124,Progressive Conservative Party,PC,t,4446,f,2
+29,1972-10-30,QC,222,MOUNT ROYAL,18701,"YUDIN, Harold",New Democratic Party,100,New Democratic Party,NDP,t,3274,f,3
+29,1972-10-30,QC,222,MOUNT ROYAL,18702,"BRONSTEIN, Alexander O.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,625,f,4
+29,1972-10-30,QC,222,MOUNT ROYAL,18704,"MIRON, Gaston",No affiliation to a recognised party,52,Independent,Ind,f,433,f,5
+29,1972-10-30,QC,222,MOUNT ROYAL,18703,"CRUISE, Robert A.",No affiliation to a recognised party,52,Independent,Ind,f,80,f,6
+29,1972-10-30,QC,223,NOTRE-DAME-DE-GRÂCE,18705,"ALLMAND, Warren",Liberal,75,Liberal,Lib,t,24126,f,1
+29,1972-10-30,QC,223,NOTRE-DAME-DE-GRÂCE,18707,"ROUSTAN, Walter",Progressive Conservative,124,Progressive Conservative Party,PC,t,6991,f,2
+29,1972-10-30,QC,223,NOTRE-DAME-DE-GRÂCE,18708,"MORIN, Roland",New Democratic Party,100,New Democratic Party,NDP,t,3957,f,3
+29,1972-10-30,QC,223,NOTRE-DAME-DE-GRÂCE,18706,"MAGUIRE, Peter David",Independent,52,Independent,Ind,f,391,f,4
+29,1972-10-30,QC,224,OUTREMONT,18709,"LALONDE, Marc",Liberal,75,Liberal,Lib,t,21399,f,1
+29,1972-10-30,QC,224,OUTREMONT,18711,"GAUTRIN, Henri-François",New Democratic Party,100,New Democratic Party,NDP,t,5223,f,2
+29,1972-10-30,QC,224,OUTREMONT,18712,"POITRAS, André",Progressive Conservative,124,Progressive Conservative Party,PC,t,2811,f,3
+29,1972-10-30,QC,224,OUTREMONT,18710,"MARTEL, Réginald",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1565,f,4
+29,1972-10-30,QC,224,OUTREMONT,18714,"BENOIT, Maurice",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1404,f,5
+29,1972-10-30,QC,224,OUTREMONT,18715,"GLICK, Harold J.",No affiliation to a recognised party,52,Independent,Ind,f,168,f,6
+29,1972-10-30,QC,224,OUTREMONT,18713,"GRENIER, H.-Georges",No affiliation to a recognised party,52,Independent,Ind,f,109,f,7
+29,1972-10-30,QC,225,PAPINEAU,18716,"OUELLET, André",Liberal,75,Liberal,Lib,t,15347,f,1
+29,1972-10-30,QC,225,PAPINEAU,18718,"PAIEMENT, Albert",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,5802,f,2
+29,1972-10-30,QC,225,PAPINEAU,18719,"TIVERON, Angelo",Progressive Conservative,124,Progressive Conservative Party,PC,t,4205,f,3
+29,1972-10-30,QC,225,PAPINEAU,18717,"MARSAN, Paul",New Democratic Party,100,New Democratic Party,NDP,t,3118,f,4
+29,1972-10-30,QC,225,PAPINEAU,18720,"WALLACE, Robert",No affiliation to a recognised party,52,Independent,Ind,f,254,f,5
+29,1972-10-30,QC,226,PONTIAC,18721,"LEFEBVRE, Tom",Liberal,75,Liberal,Lib,t,11780,f,1
+29,1972-10-30,QC,226,PONTIAC,18722,"LAROCQUE, L.-P.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,6519,f,2
+29,1972-10-30,QC,226,PONTIAC,18723,"VALLÉE, Octave",Progressive Conservative,124,Progressive Conservative Party,PC,t,3993,f,3
+29,1972-10-30,QC,226,PONTIAC,18724,"SYNNOTT, André",New Democratic Party,100,New Democratic Party,NDP,t,913,f,4
+29,1972-10-30,QC,227,PORTNEUF,18725,"GODIN, Roland",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,23626,f,1
+29,1972-10-30,QC,227,PORTNEUF,18728,"BERNARD, Claude",Liberal,75,Liberal,Lib,t,23113,f,2
+29,1972-10-30,QC,227,PORTNEUF,18727,"GODIN, Jean-Luc",Progressive Conservative,124,Progressive Conservative Party,PC,t,4664,f,3
+29,1972-10-30,QC,227,PORTNEUF,18726,"MORISSETTE, Rémi",New Democratic Party,100,New Democratic Party,NDP,t,2430,f,4
+29,1972-10-30,QC,228,QUÉBEC-EST,18729,"DUQUET, Gérard",Liberal,75,Liberal,Lib,t,19382,f,1
+29,1972-10-30,QC,228,QUÉBEC-EST,18731,"ROBICHAUD, Robert",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,10926,f,2
+29,1972-10-30,QC,228,QUÉBEC-EST,18730,"GENEST, Théo",Progressive Conservative,124,Progressive Conservative Party,PC,t,6152,f,3
+29,1972-10-30,QC,229,RICHELIEU,18732,"COTÉ, Florian",Liberal,75,Liberal,Lib,t,18087,f,1
+29,1972-10-30,QC,229,RICHELIEU,18734,"MÉNARD, Yvon",Progressive Conservative,124,Progressive Conservative Party,PC,t,9487,f,2
+29,1972-10-30,QC,229,RICHELIEU,18735,"DUFOUR, Guy",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,8340,f,3
+29,1972-10-30,QC,229,RICHELIEU,18733,"BÉLANGER, René",New Democratic Party,100,New Democratic Party,NDP,t,1209,f,4
+29,1972-10-30,QC,229,RICHELIEU,18736,"MANDEVILLE, Guy",No affiliation to a recognised party,52,Independent,Ind,f,292,f,5
+29,1972-10-30,QC,230,RICHMOND,18737,"BEAUDOIN, Léonel",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,14133,f,1
+29,1972-10-30,QC,230,RICHMOND,18738,"THIBEAULT, Léo-Paul",Liberal,75,Liberal,Lib,t,8657,f,2
+29,1972-10-30,QC,230,RICHMOND,18740,"BACHAND, Lucien",Progressive Conservative,124,Progressive Conservative Party,PC,t,3887,f,3
+29,1972-10-30,QC,230,RICHMOND,18739,"MAILLOUX, Francine",New Democratic Party,100,New Democratic Party,NDP,t,624,f,4
+29,1972-10-30,QC,231,RIMOUSKI,18741,"ALLARD, Eudore",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,13241,f,1
+29,1972-10-30,QC,231,RIMOUSKI,18743,"LEBLANC, Guy",Liberal,75,Liberal,Lib,t,11097,f,2
+29,1972-10-30,QC,231,RIMOUSKI,18742,"LAPLANTE, Blondin",Progressive Conservative,124,Progressive Conservative Party,PC,t,5657,f,3
+29,1972-10-30,QC,231,RIMOUSKI,18744,"BEAULIEU, J.-Adalbert",New Democratic Party,100,New Democratic Party,NDP,t,732,f,4
+29,1972-10-30,QC,232,RIVIÈRE-DU-LOUP--TÉMISCOUATA,18745,"GENDRON, Rosaire",Liberal,75,Liberal,Lib,t,10004,f,1
+29,1972-10-30,QC,232,RIVIÈRE-DU-LOUP--TÉMISCOUATA,18747,"GAGNON, Philippe",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,9659,f,2
+29,1972-10-30,QC,232,RIVIÈRE-DU-LOUP--TÉMISCOUATA,18746,"DUFOUR, Marcel",Progressive Conservative,124,Progressive Conservative Party,PC,t,5263,f,3
+29,1972-10-30,QC,233,ROBERVAL,18748,"GAUTHIER, C.-A.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,11316,f,1
+29,1972-10-30,QC,233,ROBERVAL,18749,"MONGEON, Julien",Liberal,75,Liberal,Lib,t,8472,f,2
+29,1972-10-30,QC,233,ROBERVAL,18750,"VALLÉE, Marcel",Progressive Conservative,124,Progressive Conservative Party,PC,t,2347,f,3
+29,1972-10-30,QC,234,SAINT-DENIS,18751,"PRUD'HOMME, Marcel",Liberal,75,Liberal,Lib,t,16991,f,1
+29,1972-10-30,QC,234,SAINT-DENIS,18752,"POITRAS, André",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,3968,f,2
+29,1972-10-30,QC,234,SAINT-DENIS,18753,"BEAUDIN, Symone",Progressive Conservative,124,Progressive Conservative Party,PC,t,3695,f,3
+29,1972-10-30,QC,234,SAINT-DENIS,18755,"MORGENTALER, Henry",Independent,52,Independent,Ind,f,1509,f,4
+29,1972-10-30,QC,234,SAINT-DENIS,18754,"TSAKANIKAS, Polyvios",No affiliation to a recognised party,52,Independent,Ind,f,302,f,5
+29,1972-10-30,QC,235,SAINT-HENRI,18756,"LOISELLE, Gérard",Liberal,75,Liberal,Lib,t,7191,f,1
+29,1972-10-30,QC,235,SAINT-HENRI,18758,"HANLEY, Frank",No affiliation to a recognised party,52,Independent,Ind,f,5743,f,2
+29,1972-10-30,QC,235,SAINT-HENRI,18757,"FOURNIER, Eugène",Progressive Conservative,124,Progressive Conservative Party,PC,t,2802,f,3
+29,1972-10-30,QC,235,SAINT-HENRI,18759,"TRÉPANIER, Wilbrod",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,2082,f,4
+29,1972-10-30,QC,235,SAINT-HENRI,18760,"GINGRAS, Michel",New Democratic Party,100,New Democratic Party,NDP,t,1161,f,5
+29,1972-10-30,QC,235,SAINT-HENRI,18761,"BÉRUBÉ, Francine",No affiliation to a recognised party,52,Independent,Ind,f,126,f,6
+29,1972-10-30,QC,236,SAINT-HYACINTHE,18762,"WAGNER, Claude",Progressive Conservative,124,Progressive Conservative Party,PC,t,16680,f,1
+29,1972-10-30,QC,236,SAINT-HYACINTHE,18767,"FOSTER, Paul",Liberal,75,Liberal,Lib,t,15982,f,2
+29,1972-10-30,QC,236,SAINT-HYACINTHE,18766,"DESCOTEAUX, Yvon",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,8716,f,3
+29,1972-10-30,QC,236,SAINT-HYACINTHE,18765,"MONS, Henri",New Democratic Party,100,New Democratic Party,NDP,t,814,f,4
+29,1972-10-30,QC,236,SAINT-HYACINTHE,18764,"ADAMS, Martha",Independent,52,Independent,Ind,f,540,f,5
+29,1972-10-30,QC,236,SAINT-HYACINTHE,18763,"VACHON, Arthur",No affiliation to a recognised party,52,Independent,Ind,f,106,f,6
+29,1972-10-30,QC,237,SAINT-JACQUES,18768,"GUILBAULT, Jacques",Liberal,75,Liberal,Lib,t,8682,f,1
+29,1972-10-30,QC,237,SAINT-JACQUES,18771,"LEFEBVRE, Armand",Progressive Conservative,124,Progressive Conservative Party,PC,t,3213,f,2
+29,1972-10-30,QC,237,SAINT-JACQUES,18772,"MÉTIVIER, Patricia",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1696,f,3
+29,1972-10-30,QC,237,SAINT-JACQUES,18769,"RYAN, Pierre",New Democratic Party,100,New Democratic Party,NDP,t,1598,f,4
+29,1972-10-30,QC,237,SAINT-JACQUES,18773,"CLERMONT, Jean-Baptiste Bulldog",Independent,52,Independent,Ind,f,208,f,5
+29,1972-10-30,QC,237,SAINT-JACQUES,18774,"DEMERS, Claire",No affiliation to a recognised party,52,Independent,Ind,f,151,f,6
+29,1972-10-30,QC,237,SAINT-JACQUES,18770,"DAVIGNON, André",No affiliation to a recognised party,52,Independent,Ind,f,97,f,7
+29,1972-10-30,QC,237,SAINT-JACQUES,18775,"NOLET, G.-Paul",No affiliation to a recognised party,52,Independent,Ind,f,41,f,8
+29,1972-10-30,QC,238,SAINT-JEAN,18776,"SMITH, Walter",Liberal,75,Liberal,Lib,t,16459,f,1
+29,1972-10-30,QC,238,SAINT-JEAN,18780,"AVERY, André",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,9304,f,2
+29,1972-10-30,QC,238,SAINT-JEAN,18779,"ROY, Lucien",Progressive Conservative,124,Progressive Conservative Party,PC,t,8462,f,3
+29,1972-10-30,QC,238,SAINT-JEAN,18778,"LEBEAU, Jean-Marc",New Democratic Party,100,New Democratic Party,NDP,t,2165,f,4
+29,1972-10-30,QC,238,SAINT-JEAN,18781,"GIBEAU, Maurice",No affiliation to a recognised party,52,Independent,Ind,f,600,f,5
+29,1972-10-30,QC,238,SAINT-JEAN,18777,"LAUZON, Denis",Independent,52,Independent,Ind,f,347,f,6
+29,1972-10-30,QC,238,SAINT-JEAN,18782,"DAVIGNON, Gilles",No affiliation to a recognised party,52,Independent,Ind,f,137,f,7
+29,1972-10-30,QC,239,SAINT-MAURICE,18783,"CHRÉTIEN, Jean",Liberal,75,Liberal,Lib,t,19840,f,1
+29,1972-10-30,QC,239,SAINT-MAURICE,18787,"GERMAIN, Guy",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,11363,f,2
+29,1972-10-30,QC,239,SAINT-MAURICE,18784,"GENEST, Antonio",Progressive Conservative,124,Progressive Conservative Party,PC,t,2227,f,3
+29,1972-10-30,QC,239,SAINT-MAURICE,18786,"MCLEOD, Robert",New Democratic Party,100,New Democratic Party,NDP,t,1032,f,4
+29,1972-10-30,QC,239,SAINT-MAURICE,18785,"DROLET, Pierre",No affiliation to a recognised party,52,Independent,Ind,f,552,f,5
+29,1972-10-30,QC,240,SAINT-MICHEL,18788,"BÉGIN, Monique",Liberal,75,Liberal,Lib,t,23850,f,1
+29,1972-10-30,QC,240,SAINT-MICHEL,18792,"LANDRY, Charles-Eugène",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,8591,f,2
+29,1972-10-30,QC,240,SAINT-MICHEL,18790,"BERGERON, J.-Maurice",Progressive Conservative,124,Progressive Conservative Party,PC,t,7158,f,3
+29,1972-10-30,QC,240,SAINT-MICHEL,18789,"BEALE, Robert G.",Independent,52,Independent,Ind,f,4758,f,4
+29,1972-10-30,QC,240,SAINT-MICHEL,18791,"LEWIS, Hélène",New Democratic Party,100,New Democratic Party,NDP,t,4551,f,5
+29,1972-10-30,QC,241,SAINTE-MARIE,18793,"DUPONT, Raymond",Liberal,75,Liberal,Lib,t,7945,f,1
+29,1972-10-30,QC,241,SAINTE-MARIE,18795,"VALADE, Georges",Progressive Conservative,124,Progressive Conservative Party,PC,t,7826,f,2
+29,1972-10-30,QC,241,SAINTE-MARIE,18794,"BERGERON, André",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,3662,f,3
+29,1972-10-30,QC,241,SAINTE-MARIE,18796,"RICHER, Roméo",New Democratic Party,100,New Democratic Party,NDP,t,1482,f,4
+29,1972-10-30,QC,241,SAINTE-MARIE,18797,"DUSSAULT, Louisette",No affiliation to a recognised party,52,Independent,Ind,f,713,f,5
+29,1972-10-30,QC,241,SAINTE-MARIE,18798,"CHARTRAND, Réginald (Reggie)",Independent,52,Independent,Ind,f,696,f,6
+29,1972-10-30,QC,241,SAINTE-MARIE,18799,"BOISJOLI, Jean-Paul",Independent,52,Independent,Ind,f,161,f,7
+29,1972-10-30,QC,242,SHEFFORD,18800,"RONDEAU, Gilbert",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,18803,f,1
+29,1972-10-30,QC,242,SHEFFORD,18801,"NEVEU, Louis-Paul",Liberal,75,Liberal,Lib,t,12928,f,2
+29,1972-10-30,QC,242,SHEFFORD,18803,"ARSENEAULT, Guy",Progressive Conservative,124,Progressive Conservative Party,PC,t,6228,f,3
+29,1972-10-30,QC,242,SHEFFORD,18802,"PENNER, John Philip",New Democratic Party,100,New Democratic Party,NDP,t,786,f,4
+29,1972-10-30,QC,243,SHERBROOKE,18804,"PELLETIER, Irénée",Liberal,75,Liberal,Lib,t,20569,f,1
+29,1972-10-30,QC,243,SHERBROOKE,18805,"COUTURE, Maurice",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,16072,f,2
+29,1972-10-30,QC,243,SHERBROOKE,18806,"KINDY, Alexandre",Progressive Conservative,124,Progressive Conservative Party,PC,t,6700,f,3
+29,1972-10-30,QC,243,SHERBROOKE,18807,"AUGENFELD, Rebecca",New Democratic Party,100,New Democratic Party,NDP,t,1713,f,4
+29,1972-10-30,QC,243,SHERBROOKE,18808,"GOSSELIN, Gérard",Independent,52,Independent,Ind,f,1423,f,5
+29,1972-10-30,QC,243,SHERBROOKE,18810,"SIMONEAU, Jean",No affiliation to a recognised party,52,Independent,Ind,f,911,f,6
+29,1972-10-30,QC,243,SHERBROOKE,18809,"TEASDALE, J. Johnny",Independent,52,Independent,Ind,f,259,f,7
+29,1972-10-30,QC,244,TERREBONNE,18811,"COMTOIS, J.-Roland",Liberal,75,Liberal,Lib,t,24928,f,1
+29,1972-10-30,QC,244,TERREBONNE,18814,"MEUNIER, Guy",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,13136,f,2
+29,1972-10-30,QC,244,TERREBONNE,18813,"COTÉ, Michel",Progressive Conservative,124,Progressive Conservative Party,PC,t,10885,f,3
+29,1972-10-30,QC,244,TERREBONNE,18812,"DEMERS, Pierre",New Democratic Party,100,New Democratic Party,NDP,t,4022,f,4
+29,1972-10-30,QC,245,TROIS-RIVIÈRES MÉTROPOLITAIN,18815,"LAJOIE, Claude-G.",Liberal,75,Liberal,Lib,t,19892,f,1
+29,1972-10-30,QC,245,TROIS-RIVIÈRES MÉTROPOLITAIN,18817,"LEMAY, Réal",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,17250,f,2
+29,1972-10-30,QC,245,TROIS-RIVIÈRES MÉTROPOLITAIN,18818,"LESIEUR, Edgar",Progressive Conservative,124,Progressive Conservative Party,PC,t,5662,f,3
+29,1972-10-30,QC,245,TROIS-RIVIÈRES MÉTROPOLITAIN,18816,"HÉBERT, Jacques",New Democratic Party,100,New Democratic Party,NDP,t,2022,f,4
+29,1972-10-30,QC,246,TÉMISCAMINGUE,18819,"CAOUETTE, Réal",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,15660,f,1
+29,1972-10-30,QC,246,TÉMISCAMINGUE,18821,"BERGERON, Jacquelin",Liberal,75,Liberal,Lib,t,6731,f,2
+29,1972-10-30,QC,246,TÉMISCAMINGUE,18823,"BANVILLE, Claude",Independent,52,Independent,Ind,f,854,f,3
+29,1972-10-30,QC,246,TÉMISCAMINGUE,18822,"Carpenter, Charles",New Democratic Party,100,New Democratic Party,NDP,t,774,f,4
+29,1972-10-30,QC,246,TÉMISCAMINGUE,18820,"RIOUX, Roger",Progressive Conservative,124,Progressive Conservative Party,PC,t,752,f,5
+29,1972-10-30,QC,247,VAUDREUIL,18824,"HERBERT, Harold T.",Liberal,75,Liberal,Lib,t,27372,f,1
+29,1972-10-30,QC,247,VAUDREUIL,18826,"BURLEY, Jeannette-T.",Progressive Conservative,124,Progressive Conservative Party,PC,t,11477,f,2
+29,1972-10-30,QC,247,VAUDREUIL,18828,"DE CSAVOSSY, Joseph-Endré",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,4526,f,3
+29,1972-10-30,QC,247,VAUDREUIL,18827,"BEAUSÉJOUR, Michel",New Democratic Party,100,New Democratic Party,NDP,t,3573,f,4
+29,1972-10-30,QC,247,VAUDREUIL,18829,"THÉORET, André",No affiliation to a recognised party,52,Independent,Ind,f,3066,f,5
+29,1972-10-30,QC,247,VAUDREUIL,18825,"WILLIAMS, Walter J.",Independent,52,Independent,Ind,f,330,f,6
+29,1972-10-30,QC,248,VERDUN,18830,"MACKASEY, Bryce",Liberal,75,Liberal,Lib,t,20943,f,1
+29,1972-10-30,QC,248,VERDUN,18833,"VIGNEAU, Eddy",Progressive Conservative,124,Progressive Conservative Party,PC,t,7626,f,2
+29,1972-10-30,QC,248,VERDUN,18834,"LÉPINE, Eugène",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,3323,f,3
+29,1972-10-30,QC,248,VERDUN,18832,"CALLAGHAN, Gus",New Democratic Party,100,New Democratic Party,NDP,t,2518,f,4
+29,1972-10-30,QC,248,VERDUN,18831,"LÉVESQUE, Paul",No affiliation to a recognised party,52,Independent,Ind,f,239,f,5
+29,1972-10-30,QC,249,VILLENEUVE,18835,"TÉTRAULT, Oza",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,12070,f,1
+29,1972-10-30,QC,249,VILLENEUVE,18836,"CHAREST, Gaston",Liberal,75,Liberal,Lib,t,10719,f,2
+29,1972-10-30,QC,249,VILLENEUVE,18837,"LAROCQUE, Guy",Progressive Conservative,124,Progressive Conservative Party,PC,t,1462,f,3
+29,1972-10-30,QC,249,VILLENEUVE,18838,"TURGEON, Fernand",New Democratic Party,100,New Democratic Party,NDP,t,1042,f,4
+29,1972-10-30,QC,250,WESTMOUNT,18839,"DRURY, C.M.",Liberal,75,Liberal,Lib,t,24049,f,1
+29,1972-10-30,QC,250,WESTMOUNT,18841,"MEIGHEN, Michael",Progressive Conservative,124,Progressive Conservative Party,PC,t,10551,f,2
+29,1972-10-30,QC,250,WESTMOUNT,18840,"KEATON, Bob",New Democratic Party,100,New Democratic Party,NDP,t,5171,f,3
+29,1972-10-30,QC,250,WESTMOUNT,18842,"FOSTER, Peter",No affiliation to a recognised party,52,Independent,Ind,f,293,f,4
+29,1972-10-30,SK,251,ASSINIBOIA,18843,"KNIGHT, Bill",New Democratic Party,100,New Democratic Party,NDP,t,9936,f,1
+29,1972-10-30,SK,251,ASSINIBOIA,18846,"ANDERSON, Boyd",Progressive Conservative,124,Progressive Conservative Party,PC,t,8843,f,2
+29,1972-10-30,SK,251,ASSINIBOIA,18845,"FLATEN, Norm",Liberal,75,Liberal,Lib,t,7799,f,3
+29,1972-10-30,SK,251,ASSINIBOIA,18844,"THAUBERGER, Joseph A.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,839,f,4
+29,1972-10-30,SK,252,BATTLEFORD--KINDERSLEY,18847,"HORNER, Norval",Progressive Conservative,124,Progressive Conservative Party,PC,t,10373,f,1
+29,1972-10-30,SK,252,BATTLEFORD--KINDERSLEY,18848,"THOMSON, Rod",New Democratic Party,100,New Democratic Party,NDP,t,10122,f,2
+29,1972-10-30,SK,252,BATTLEFORD--KINDERSLEY,18849,"KELLER, Edward C.",Liberal,75,Liberal,Lib,t,8286,f,3
+29,1972-10-30,SK,252,BATTLEFORD--KINDERSLEY,18850,"LEESON, Madge",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,498,f,4
+29,1972-10-30,SK,253,MACKENZIE,18851,"KORCHINSKI, Stanley James",Progressive Conservative,124,Progressive Conservative Party,PC,t,8164,f,1
+29,1972-10-30,SK,253,MACKENZIE,18853,"BRACKEN, Lars E.",New Democratic Party,100,New Democratic Party,NDP,t,7675,f,2
+29,1972-10-30,SK,253,MACKENZIE,18852,"MCHUGH, William John",Liberal,75,Liberal,Lib,t,3311,f,3
+29,1972-10-30,SK,253,MACKENZIE,18854,"DASHCHUK, John",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,513,f,4
+29,1972-10-30,SK,254,MEADOW LAKE,18855,"NESDOLY, Eli",New Democratic Party,100,New Democratic Party,NDP,t,7194,f,1
+29,1972-10-30,SK,254,MEADOW LAKE,18857,"CADIEU, Bert",Progressive Conservative,124,Progressive Conservative Party,PC,t,7171,f,2
+29,1972-10-30,SK,254,MEADOW LAKE,18858,"FALLE, Frank",Liberal,75,Liberal,Lib,t,4948,f,3
+29,1972-10-30,SK,254,MEADOW LAKE,18856,"HOBACK, Ivar M.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,619,f,4
+29,1972-10-30,SK,255,MOOSE JAW,18859,"NEIL, Doug",Progressive Conservative,124,Progressive Conservative Party,PC,t,11967,f,1
+29,1972-10-30,SK,255,MOOSE JAW,18862,"SKOBERG, John L.",New Democratic Party,100,New Democratic Party,NDP,t,11685,f,2
+29,1972-10-30,SK,255,MOOSE JAW,18860,"KALLIO, Willard",Liberal,75,Liberal,Lib,t,5767,f,3
+29,1972-10-30,SK,255,MOOSE JAW,18861,"GUILLAUME, Henry G.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,526,f,4
+29,1972-10-30,SK,256,PRINCE ALBERT,18863,"DIEFENBAKER, John George",Progressive Conservative,124,Progressive Conservative Party,PC,t,19410,f,1
+29,1972-10-30,SK,256,PRINCE ALBERT,18866,"BEREZOWSKY, W.J.",New Democratic Party,100,New Democratic Party,NDP,t,9115,f,2
+29,1972-10-30,SK,256,PRINCE ALBERT,18867,"PINEL, Leo F.",Liberal,75,Liberal,Lib,t,3613,f,3
+29,1972-10-30,SK,256,PRINCE ALBERT,18864,"CAMPAGNA, Claude",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,421,f,4
+29,1972-10-30,SK,256,PRINCE ALBERT,18865,"FAIR, Bill",Independent,52,Independent,Ind,f,61,f,5
+29,1972-10-30,SK,257,QU'APPELLE--MOOSE MOUNTAIN,18868,"HAMILTON, Alvin",Progressive Conservative,124,Progressive Conservative Party,PC,t,14707,f,1
+29,1972-10-30,SK,257,QU'APPELLE--MOOSE MOUNTAIN,18871,"BUCK, Frank",New Democratic Party,100,New Democratic Party,NDP,t,6834,f,2
+29,1972-10-30,SK,257,QU'APPELLE--MOOSE MOUNTAIN,18870,"BRECKENRIDGE, Gary",Liberal,75,Liberal,Lib,t,6184,f,3
+29,1972-10-30,SK,257,QU'APPELLE--MOOSE MOUNTAIN,18869,"EDDY, Walton",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,392,f,4
+29,1972-10-30,SK,258,REGINA EAST,18872,"BALFOUR, Jim",Progressive Conservative,124,Progressive Conservative Party,PC,t,17781,f,1
+29,1972-10-30,SK,258,REGINA EAST,18876,"BURTON, John",New Democratic Party,100,New Democratic Party,NDP,t,15175,f,2
+29,1972-10-30,SK,258,REGINA EAST,18875,"THATCHER, Peggie",Liberal,75,Liberal,Lib,t,7892,f,3
+29,1972-10-30,SK,258,REGINA EAST,18873,"Fahlman, Emanuel",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,774,f,4
+29,1972-10-30,SK,258,REGINA EAST,18877,"BEECHING, W.C.",No affiliation to a recognised party,52,Independent,Ind,f,148,f,5
+29,1972-10-30,SK,258,REGINA EAST,18874,"CONWAY, Jeff",No affiliation to a recognised party,52,Independent,Ind,f,83,f,6
+29,1972-10-30,SK,259,REGINA--LAKE CENTRE,18878,"BENJAMIN, Les",New Democratic Party,100,New Democratic Party,NDP,t,18983,f,1
+29,1972-10-30,SK,259,REGINA--LAKE CENTRE,18880,"RICHARDSON, George",Progressive Conservative,124,Progressive Conservative Party,PC,t,16392,f,2
+29,1972-10-30,SK,259,REGINA--LAKE CENTRE,18879,"HOWLAND, Tom",Liberal,75,Liberal,Lib,t,11429,f,3
+29,1972-10-30,SK,259,REGINA--LAKE CENTRE,18881,"ADAM, Dal",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1134,f,4
+29,1972-10-30,SK,260,SASKATOON--BIGGAR,18882,"GLEAVE, Alf A.P.",New Democratic Party,100,New Democratic Party,NDP,t,16777,f,1
+29,1972-10-30,SK,260,SASKATOON--BIGGAR,18883,"LENNON, Tommy",Progressive Conservative,124,Progressive Conservative Party,PC,t,13246,f,2
+29,1972-10-30,SK,260,SASKATOON--BIGGAR,18884,"PATRICK, Bill",Liberal,75,Liberal,Lib,t,8641,f,3
+29,1972-10-30,SK,260,SASKATOON--BIGGAR,18885,"SADLER, Douglas",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,529,f,4
+29,1972-10-30,SK,261,SASKATOON--HUMBOLDT,18886,"LANG, Otto",Liberal,75,Liberal,Lib,t,24733,f,1
+29,1972-10-30,SK,261,SASKATOON--HUMBOLDT,18890,"TAYLOR, George",New Democratic Party,100,New Democratic Party,NDP,t,16426,f,2
+29,1972-10-30,SK,261,SASKATOON--HUMBOLDT,18891,"BRAND, Lewis",Progressive Conservative,124,Progressive Conservative Party,PC,t,12533,f,3
+29,1972-10-30,SK,261,SASKATOON--HUMBOLDT,18889,"BLACK, Gerald G.",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,463,f,4
+29,1972-10-30,SK,261,SASKATOON--HUMBOLDT,18888,"REID, James",No affiliation to a recognised party,52,Independent,Ind,f,102,f,5
+29,1972-10-30,SK,261,SASKATOON--HUMBOLDT,18887,"ZAMULINSKI, Brian",No affiliation to a recognised party,52,Independent,Ind,f,89,f,6
+29,1972-10-30,SK,262,SWIFT CURRENT--MAPLE CREEK,18892,"HAMILTON, Frank",Progressive Conservative,124,Progressive Conservative Party,PC,t,11500,f,1
+29,1972-10-30,SK,262,SWIFT CURRENT--MAPLE CREEK,18895,"JOHNSON, Merv",New Democratic Party,100,New Democratic Party,NDP,t,9275,f,2
+29,1972-10-30,SK,262,SWIFT CURRENT--MAPLE CREEK,18893,"LEITH, George",Liberal,75,Liberal,Lib,t,7165,f,3
+29,1972-10-30,SK,262,SWIFT CURRENT--MAPLE CREEK,18894,"KOURI, Ted",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,584,f,4
+29,1972-10-30,SK,262,SWIFT CURRENT--MAPLE CREEK,18896,"KIELING, Charles",Independent,52,Independent,Ind,f,138,f,5
+29,1972-10-30,SK,263,YORKTON--MELVILLE,18897,"Nystrom, Lorne",New Democratic Party,100,New Democratic Party,NDP,t,15998,f,1
+29,1972-10-30,SK,263,YORKTON--MELVILLE,18899,"POTOSKI, Stephanie",Liberal,75,Liberal,Lib,t,9574,f,2
+29,1972-10-30,SK,263,YORKTON--MELVILLE,18898,"ARMOUR, Don",Progressive Conservative,124,Progressive Conservative Party,PC,t,7542,f,3
+29,1972-10-30,SK,263,YORKTON--MELVILLE,18900,"HOEDEL, Harry",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,425,f,4
+29,1972-10-30,YK,264,YUKON,18901,"NIELSEN, Erik",Progressive Conservative,124,Progressive Conservative Party,PC,t,4332,f,1
+29,1972-10-30,YK,264,YUKON,18903,"BRANIGAN, Donald William",Liberal,75,Liberal,Lib,t,2633,f,2
+29,1972-10-30,YK,264,YUKON,18902,"KENT, Wm. Harvey",New Democratic Party,100,New Democratic Party,NDP,t,951,f,3
+29,1972-10-30,YK,264,YUKON,18904,"GIANNELIA, Rainer",Independent,52,Independent,Ind,f,252,f,4

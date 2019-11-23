@@ -20,7 +20,8 @@
        recents AS (
            SELECT election_id, count(*) AS raw_count
              FROM (
-                      SELECT DISTINCT election_id, ed_id, cand_raw_party_name, cand_last
+                      SELECT DISTINCT election_id, ed_id, cand_raw_party_name, 
+                      trim(cand_last || ', ' || cand_first || ' ' || cand_middle) AS cand_name
                         FROM _work.recent
                        WHERE NOT poll_void     -- all void polls have 0 votes
                          AND NOT poll_not_held -- all 0 votes

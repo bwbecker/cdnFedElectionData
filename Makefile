@@ -13,7 +13,7 @@ preliminary = rawData/preliminary_43.csv
 
 election_nums := 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 \
 	21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43
-csvs = $(foreach e,${election_nums},csv/election_${e}.csv) \
+csvs = $(foreach e,${election_nums},csv/by_riding_${e}.csv) \
 		csv/elections.csv \
 		csv/parties.csv \
 		csv/provinces.csv
@@ -21,7 +21,7 @@ csvs = $(foreach e,${election_nums},csv/election_${e}.csv) \
 jsons = $(foreach e,${election_nums},json/candidates-${e}.json) \
 		$(foreach e,${election_nums},json/ridings-${e}.json) \
 
-all:	csv_by_cand/election_2019.csv csv_by_riding/election_2019.csv json/candidates_2019.json \
+all:	csv_by_cand/election-2019.csv csv_by_riding/election-2019.csv json/candidates-2019.json \
 		csv_other/party_summary.csv csv_other/all_elections.csv
 
 #
@@ -94,14 +94,14 @@ work/preliminary.csv: ${preliminary}
 	touch .buildElections
 
 # Makes all the other by-candidate CSVs, too
-csv_by_cand/election_2019.csv: sql/export_csv.sql .buildElections .rawDataLoaded
+csv_by_cand/election-2019.csv: sql/export_csv.sql .buildElections .rawDataLoaded
 	- mkdir csv_by_cand
 	${PSQL} -f sql/export_csv.sql
 	echo "Exporting by candidate CSV files"
 	${PSQL} -c "SELECT _elections.write_csv_by_candidate()"
 
 # Makes all the other by-riding CSVs, too
-csv_by_riding/election_2019.csv: sql/export_csv.sql .buildElections .rawDataLoaded
+csv_by_riding/election-2019.csv: sql/export_csv.sql .buildElections .rawDataLoaded
 	- mkdir csv_by_riding
 	${PSQL} -f sql/export_csv.sql
 	echo "Exporting by riding CSV files"
@@ -115,7 +115,7 @@ csv_other/party_summary.csv: sql/export_csv.sql .buildElections .rawDataLoaded
 	${PSQL} -c "\copy (SELECT * FROM _elections.party_summary()) to csv_other/party_summary.csv (FORMAT CSV, HEADER)"
 	${PSQL} -c "\copy (SELECT * FROM _elections.csv_by_election()) to csv_other/all_elections.csv (FORMAT TEXT)"
 
-json/candidates_2019.json: sql/export_json.sql .buildElections .rawDataLoaded
+json/candidates-2019.json: sql/export_json.sql .buildElections .rawDataLoaded
 	- mkdir json json_work
 	${PSQL} -f sql/export_json.sql
 	echo "Exporting by JSON files"
@@ -146,6 +146,6 @@ clean:
 	-rm work/*
 	-rm .rawDataLoaded
 	-rm csv*/*
-	-rm json/*
+	-rm json/* json_work/*
 
 # $(filter-out clean_combine_polls.sh,$+)
