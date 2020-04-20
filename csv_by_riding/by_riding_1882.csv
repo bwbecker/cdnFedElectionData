@@ -2,8 +2,8 @@ election_id,prov_code,ed_id,ed_name,Con,Lib,Other,PC,1st,2nd,3rd
 5,BC,1,"CARIBOO",,,,,Other,Con,Lib
 5,BC,2,"NEW WESTMINSTER",,,,,Other,Con,Lib
 5,BC,3,"VANCOUVER",,,300,455,PC,Other,Con
-5,BC,4,"VICTORIA-1",400,307,149,,Con,Lib,Other
-5,BC,5,"VICTORIA-2",441,,380,,Con,Other,Lib
+5,BC,4,"VICTORIA-1",400,,380,,Con,Other,Lib
+5,BC,5,"VICTORIA-2",441,307,149,,Con,Lib,Other
 5,BC,6,"YALE",266,,187,,Con,Other,Lib
 5,MB,7,"LISGAR",,,720,760,PC,Other,Con
 5,MB,8,"MARQUETTE",886,1074,,,Lib,Con,Other
@@ -143,8 +143,8 @@ election_id,prov_code,ed_id,ed_name,Con,Lib,Other,PC,1st,2nd,3rd
 5,PE,142,"KING'S COUNTY-2",,2124,,1941,Lib,PC,Other
 5,PE,143,"PRINCE COUNTY-1",,,2134,2325,PC,Other,Con
 5,PE,144,"PRINCE COUNTY-2",,4566,,,Lib,Other,Con
-5,PE,145,"QUEEN'S COUNTY-1",,3164,2759,,Lib,Other,Con
-5,PE,146,"QUEEN'S COUNTY-2",3120,,,3122,PC,Con,Other
+5,PE,145,"QUEEN'S COUNTY-1",,,2759,3122,PC,Other,Con
+5,PE,146,"QUEEN'S COUNTY-2",3120,3164,,,Lib,Con,Other
 5,QC,147,"ARGENTEUIL",,,,,Other,Con,Lib
 5,QC,148,"BAGOT",,,,,Other,Con,Lib
 5,QC,149,"BEAUCE",2153,,889,,Con,Other,Lib

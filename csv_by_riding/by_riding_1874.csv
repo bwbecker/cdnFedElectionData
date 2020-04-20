@@ -2,8 +2,8 @@ election_id,prov_code,ed_id,ed_name,Con,Lib,Other,PC,1st,2nd,3rd
 3,BC,1,"CARIBOO",,,40,192,PC,Other,Con
 3,BC,2,"NEW WESTMINSTER",,162,,142,Lib,PC,Other
 3,BC,3,"VANCOUVER",,209,121,,Lib,Other,Con
-3,BC,4,"VICTORIA-1",,,603,,Other,Con,Lib
-3,BC,5,"VICTORIA-2",,308,97,,Lib,Other,Con
+3,BC,4,"VICTORIA-1",,,401,,Other,Con,Lib
+3,BC,5,"VICTORIA-2",,308,299,,Lib,Other,Con
 3,BC,6,"YALE",89,,20,,Con,Other,Lib
 3,MB,7,"LISGAR",285,,216,,Con,Other,Lib
 3,MB,8,"MARQUETTE",,744,,,Lib,Other,Con
@@ -71,8 +71,8 @@ election_id,prov_code,ed_id,ed_name,Con,Lib,Other,PC,1st,2nd,3rd
 3,ON,70,"GREY SOUTH",,1248,863,,Lib,Other,Con
 3,ON,71,"HALDIMAND",,,,,Other,Con,Lib
 3,ON,72,"HALTON",,1441,,1464,PC,Lib,Other
-3,ON,73,"HAMILTON-1",,2086,1515,,Lib,Other,Con
-3,ON,74,"HAMILTON-2",,2083,1518,,Lib,Other,Con
+3,ON,73,"HAMILTON-1",,2083,1515,,Lib,Other,Con
+3,ON,74,"HAMILTON-2",,2086,1518,,Lib,Other,Con
 3,ON,75,"HASTINGS EAST",1049,,978,,Con,Other,Lib
 3,ON,76,"HASTINGS NORTH",847,,752,,Con,Other,Lib
 3,ON,77,"HASTINGS WEST",414,,49,,Con,Other,Lib

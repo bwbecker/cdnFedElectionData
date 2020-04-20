@@ -120,10 +120,10 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 16,1926-09-14,NB,52,RESTIGOUCHE--MADAWASKA,6860,"CULLIGAN, Arthur",Conservative,37,Conservative,Con,t,6850,f,2
 16,1926-09-14,NB,53,ROYAL,6861,"JONES, Hon. George B.",Conservative,37,Conservative,Con,t,7266,f,1
 16,1926-09-14,NB,53,ROYAL,6862,"MCALISTER, Duncan H.",Liberal,75,Liberal,Lib,t,5973,f,2
-16,1926-09-14,NB,54,ST. JOHN--ALBERT-1,6864,"BELL, Thomas",Conservative,37,Conservative,Con,t,12310,f,1
-16,1926-09-14,NB,54,ST. JOHN--ALBERT-1,6866,"HAYES, Robert Thomas",Liberal,75,Liberal,Lib,t,7356,f,2
-16,1926-09-14,NB,55,ST. JOHN--ALBERT-2,6863,"MACLAREN, Murray",Conservative,37,Conservative,Con,t,12441,f,1
-16,1926-09-14,NB,55,ST. JOHN--ALBERT-2,6865,"RYAN, William Michael",Liberal,75,Liberal,Lib,t,8007,f,2
+16,1926-09-14,NB,54,ST. JOHN--ALBERT-1,6863,"BELL, Thomas",Conservative,37,Conservative,Con,t,12310,f,1
+16,1926-09-14,NB,54,ST. JOHN--ALBERT-1,6864,"HAYES, Robert Thomas",Liberal,75,Liberal,Lib,t,7356,f,2
+16,1926-09-14,NB,55,ST. JOHN--ALBERT-2,6865,"MACLAREN, Murray",Conservative,37,Conservative,Con,t,12441,f,1
+16,1926-09-14,NB,55,ST. JOHN--ALBERT-2,6866,"RYAN, William Michael",Liberal,75,Liberal,Lib,t,8007,f,2
 16,1926-09-14,NB,56,VICTORIA--CARLETON,6867,"FLEMMING, James Kidd",Conservative,37,Conservative,Con,t,7865,f,1
 16,1926-09-14,NB,56,VICTORIA--CARLETON,6868,"FOSTER, Albion Roudolph",Liberal,75,Liberal,Lib,t,6764,f,2
 16,1926-09-14,NB,57,WESTMORLAND,6869,"PRICE, Otto Baird",Conservative,37,Conservative,Con,t,10737,f,1
@@ -142,10 +142,10 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 16,1926-09-14,NS,63,CUMBERLAND,6882,"HANWAY, James Albert",Liberal,75,Liberal,Lib,t,6609,f,2
 16,1926-09-14,NS,64,DIGBY--ANNAPOLIS,6883,"SHORT, Harry Bernard",Conservative,37,Conservative,Con,t,8159,f,1
 16,1926-09-14,NS,64,DIGBY--ANNAPOLIS,6884,"LOVETT, Lewis Johnstone",Liberal,75,Liberal,Lib,t,7851,f,2
-16,1926-09-14,NS,65,HALIFAX-1,6886,"QUINN, Felix Patrick",Conservative,37,Conservative,Con,t,17171,f,1
-16,1926-09-14,NS,65,HALIFAX-1,6888,"MURPHY, John",Liberal,75,Liberal,Lib,t,14007,f,2
-16,1926-09-14,NS,66,HALIFAX-2,6885,"BLACK, Hon. William Anderson",Conservative,37,Conservative,Con,t,17911,f,1
-16,1926-09-14,NS,66,HALIFAX-2,6887,"RALSTON, James Layton",Liberal,75,Liberal,Lib,t,14139,f,2
+16,1926-09-14,NS,65,HALIFAX-1,6885,"QUINN, Felix Patrick",Conservative,37,Conservative,Con,t,17171,f,1
+16,1926-09-14,NS,65,HALIFAX-1,6886,"MURPHY, John",Liberal,75,Liberal,Lib,t,14007,f,2
+16,1926-09-14,NS,66,HALIFAX-2,6887,"BLACK, Hon. William Anderson",Conservative,37,Conservative,Con,t,17911,f,1
+16,1926-09-14,NS,66,HALIFAX-2,6888,"RALSTON, James Layton",Liberal,75,Liberal,Lib,t,14139,f,2
 16,1926-09-14,NS,67,HANTS--KINGS,6889,"ILSLEY, James Lorimer",Liberal,75,Liberal,Lib,t,10261,f,1
 16,1926-09-14,NS,67,HANTS--KINGS,6890,"FOSTER, Arthur de Witt",Conservative,37,Conservative,Con,t,10181,f,2
 16,1926-09-14,NS,68,INVERNESS,6891,"MACDOUGALL, Isaac Duncan",Conservative,37,Conservative,Con,t,4946,f,1
@@ -247,10 +247,10 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 16,1926-09-14,ON,114,NORTHUMBERLAND,6987,"FRASER, William Alexander",Liberal,75,Liberal,Lib,t,7727,f,2
 16,1926-09-14,ON,115,ONTARIO,6988,"KAISER, Thomas Erlin",Conservative,37,Conservative,Con,t,8567,f,1
 16,1926-09-14,ON,115,ONTARIO,6989,"MOORE, William Henry",Liberal,75,Liberal,Lib,t,7689,f,2
-16,1926-09-14,ON,116,OTTAWA (CITY OF)-1,6991,"EDWARDS, Gordon Cameron",Liberal,75,Liberal,Lib,t,22950,f,1
-16,1926-09-14,ON,116,OTTAWA (CITY OF)-1,6993,"CHABOT, Hon. John Léo",Conservative,37,Conservative,Con,t,21614,f,2
-16,1926-09-14,ON,117,OTTAWA (CITY OF)-2,6990,"CHEVRIER, Edgar Rodolphe Eugène",Liberal,75,Liberal,Lib,t,23012,f,1
-16,1926-09-14,ON,117,OTTAWA (CITY OF)-2,6992,"MCCLENAGHAN, Stewart",Conservative,37,Conservative,Con,t,21917,f,2
+16,1926-09-14,ON,116,OTTAWA (CITY OF)-1,6990,"EDWARDS, Gordon Cameron",Liberal,75,Liberal,Lib,t,22950,f,1
+16,1926-09-14,ON,116,OTTAWA (CITY OF)-1,6991,"CHABOT, Hon. John Léo",Conservative,37,Conservative,Con,t,21614,f,2
+16,1926-09-14,ON,117,OTTAWA (CITY OF)-2,6992,"CHEVRIER, Edgar Rodolphe Eugène",Liberal,75,Liberal,Lib,t,23012,f,1
+16,1926-09-14,ON,117,OTTAWA (CITY OF)-2,6993,"MCCLENAGHAN, Stewart",Conservative,37,Conservative,Con,t,21917,f,2
 16,1926-09-14,ON,118,OXFORD NORTH,6994,"ALLAN, Hugh",Liberal,75,Liberal,Lib,t,6565,f,1
 16,1926-09-14,ON,118,OXFORD NORTH,6995,"SUTHERLAND, Donald Matheson",Conservative,37,Conservative,Con,t,6193,f,2
 16,1926-09-14,ON,119,OXFORD SOUTH,6996,"CAYLEY, Thomas Merritt",Liberal,75,Liberal,Lib,t,6064,f,1
@@ -338,10 +338,10 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 16,1926-09-14,PE,155,KING'S,7078,"JOHNSTON, James J.",Liberal,75,Liberal,Lib,t,4229,f,2
 16,1926-09-14,PE,156,PRINCE,7079,"MACLEAN, Alfred E.",Liberal,75,Liberal,Lib,t,7362,f,1
 16,1926-09-14,PE,156,PRINCE,7080,"WYATT, J. Edward",Conservative,37,Conservative,Con,t,5641,f,2
-16,1926-09-14,PE,157,QUEEN'S-1,7082,"JENKINS, Robert Harold",Liberal,75,Liberal,Lib,t,9006,f,1
-16,1926-09-14,PE,157,QUEEN'S-1,7084,"MYERS, John Howard",Conservative,37,Conservative,Con,t,8123,f,2
-16,1926-09-14,PE,158,QUEEN'S-2,7081,"SINCLAIR, Hon. John Ewen",Liberal,75,Liberal,Lib,t,8625,f,1
-16,1926-09-14,PE,158,QUEEN'S-2,7083,"MESSERVY, John Albert",Conservative,37,Conservative,Con,t,8124,f,2
+16,1926-09-14,PE,157,QUEEN'S-1,7081,"JENKINS, Robert Harold",Liberal,75,Liberal,Lib,t,9006,f,1
+16,1926-09-14,PE,157,QUEEN'S-1,7082,"MESSERVY, John Albert",Conservative,37,Conservative,Con,t,8124,f,2
+16,1926-09-14,PE,158,QUEEN'S-2,7083,"SINCLAIR, Hon. John Ewen",Liberal,75,Liberal,Lib,t,8625,f,1
+16,1926-09-14,PE,158,QUEEN'S-2,7084,"MYERS, John Howard",Conservative,37,Conservative,Con,t,8123,f,2
 16,1926-09-14,QC,159,ARGENTEUIL,7085,"PERLEY, Sir George H.",Conservative,37,Conservative,Con,t,4094,f,1
 16,1926-09-14,QC,159,ARGENTEUIL,7086,"LEGAULT, Joseph-Louis-Lorenzo",Liberal,75,Liberal,Lib,t,3854,f,2
 16,1926-09-14,QC,160,BAGOT,7087,"MORIN, Georges-Dorèze",Liberal,75,Liberal,Lib,t,3787,f,1
@@ -382,8 +382,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 16,1926-09-14,QC,176,GASPÉ,7122,"LEMIEUX, Hon. Rodolphe",Liberal,75,Liberal,Lib,t,8769,f,1
 16,1926-09-14,QC,176,GASPÉ,7123,"FLYNN, William Albert Edward",Conservative,37,Conservative,Con,t,4820,f,2
 16,1926-09-14,QC,177,HOCHELAGA,7124,"ST-PÈRE, Édouard Charles",Liberal,75,Liberal,Lib,t,16339,f,1
-16,1926-09-14,QC,177,HOCHELAGA,7126,"SIMARD, Joseph-Thomas-Ulric",Conservative,37,Conservative,Con,t,2530,f,2
-16,1926-09-14,QC,177,HOCHELAGA,7125,"CARDINAL, Jean-Marie-Mastaï-Georges",Independent Liberal,58,Independent Liberal,IndLib,f,502,f,3
+16,1926-09-14,QC,177,HOCHELAGA,7125,"SIMARD, Joseph-Thomas-Ulric",Conservative,37,Conservative,Con,t,2530,f,2
+16,1926-09-14,QC,177,HOCHELAGA,7126,"CARDINAL, Jean-Marie-Mastaï-Georges",Independent Liberal,58,Independent Liberal,IndLib,f,502,f,3
 16,1926-09-14,QC,178,HULL,7127,"FONTAINE, Joseph-Éloi",Liberal,75,Liberal,Lib,t,10899,f,1
 16,1926-09-14,QC,178,HULL,7128,"DUMAS, François-Albert",Conservative,37,Conservative,Con,t,2185,f,2
 16,1926-09-14,QC,179,JACQUES CARTIER,7129,"RHÉAUME, J. Théodule",Liberal,75,Liberal,Lib,t,18755,f,1
@@ -441,8 +441,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 16,1926-09-14,QC,204,RICHMOND--WOLFE,7181,"TOBIN, Edmund William",Liberal,75,Liberal,Lib,t,8788,f,1
 16,1926-09-14,QC,204,RICHMOND--WOLFE,7182,"HAYES, John",Conservative,37,Conservative,Con,t,5100,f,2
 16,1926-09-14,QC,205,RIMOUSKI,7183,"FISET, Sir Eugène",Liberal,75,Liberal,Lib,t,5623,f,1
-16,1926-09-14,QC,205,RIMOUSKI,7185,"GARON, Alphonse",Conservative,37,Conservative,Con,t,2926,f,2
-16,1926-09-14,QC,205,RIMOUSKI,7184,"AUBIN, Alphonse",Independent,52,Independent,Ind,f,417,f,3
+16,1926-09-14,QC,205,RIMOUSKI,7184,"GARON, Alphonse",Conservative,37,Conservative,Con,t,2926,f,2
+16,1926-09-14,QC,205,RIMOUSKI,7185,"AUBIN, Alphonse",Independent,52,Independent,Ind,f,417,f,3
 16,1926-09-14,QC,206,SHEFFORD,7186,"BOIVIN, Pierre-Ernest",Liberal,75,Liberal,Lib,t,6374,f,1
 16,1926-09-14,QC,206,SHEFFORD,7187,"GAUTHIER, Louis-Joseph",Conservative,37,Conservative,Con,t,3605,f,2
 16,1926-09-14,QC,207,SHERBROOKE,7188,"HOWARD, Charles B.",Liberal,75,Liberal,Lib,t,7582,f,1
@@ -460,8 +460,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 16,1926-09-14,QC,213,ST. JAMES,7200,"RINFRET, Louis-Édouard-Fernand",Liberal,75,Liberal,Lib,t,12740,f,1
 16,1926-09-14,QC,213,ST. JAMES,7201,"MARSAN, Georges-Avila",Conservative,37,Conservative,Con,t,2192,f,2
 16,1926-09-14,QC,214,ST. JOHNS--IBERVILLE,7202,"BENOIT, Aldéric-Joseph",Liberal,75,Liberal,Lib,t,4802,f,1
-16,1926-09-14,QC,214,ST. JOHNS--IBERVILLE,7204,"RHÉAUME, Martial",Independent,52,Independent,Ind,f,4006,f,2
-16,1926-09-14,QC,214,ST. JOHNS--IBERVILLE,7203,"JULIEN, Herman",Conservative,37,Conservative,Con,t,328,f,3
+16,1926-09-14,QC,214,ST. JOHNS--IBERVILLE,7203,"RHÉAUME, Martial",Independent,52,Independent,Ind,f,4006,f,2
+16,1926-09-14,QC,214,ST. JOHNS--IBERVILLE,7204,"JULIEN, Herman",Conservative,37,Conservative,Con,t,328,f,3
 16,1926-09-14,QC,215,ST. LAWRENCE--ST. GEORGE,7205,"CAHAN, Charles Hazlitt",Conservative,37,Conservative,Con,t,5725,f,1
 16,1926-09-14,QC,215,ST. LAWRENCE--ST. GEORGE,7206,"MUNN, William Clement",Liberal,75,Liberal,Lib,t,3826,f,2
 16,1926-09-14,QC,216,ST. MARY,7207,"DESLAURIERS, Hermas",Liberal,75,Liberal,Lib,t,14793,f,1
@@ -481,8 +481,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 16,1926-09-14,QC,223,YAMASKA,7221,"Boucher, Aimé",Liberal,75,Liberal,Lib,t,3500,f,1
 16,1926-09-14,QC,223,YAMASKA,7222,"BOULAIS, Joseph-Félix-Frédéric",Conservative,37,Conservative,Con,t,3082,f,2
 16,1926-09-14,SK,224,ASSINIBOIA,7223,"MCKENZIE, Robert",Liberal,75,Liberal,Lib,t,6066,f,1
-16,1926-09-14,SK,224,ASSINIBOIA,7225,"HILL, Joseph",Conservative,37,Conservative,Con,t,3845,f,2
-16,1926-09-14,SK,224,ASSINIBOIA,7224,"BURCHILL, Samuel",Progressive,121,Progressive,Progressive,t,3137,f,3
+16,1926-09-14,SK,224,ASSINIBOIA,7224,"HILL, Joseph",Conservative,37,Conservative,Con,t,3845,f,2
+16,1926-09-14,SK,224,ASSINIBOIA,7225,"BURCHILL, Samuel",Progressive,121,Progressive,Progressive,t,3137,f,3
 16,1926-09-14,SK,225,HUMBOLDT,7226,"TOTZKE, Albert Frederick",Liberal,75,Liberal,Lib,t,6264,f,1
 16,1926-09-14,SK,225,HUMBOLDT,7227,"WILSON, Edward Sexton",Conservative,37,Conservative,Con,t,2447,f,2
 16,1926-09-14,SK,226,KINDERSLEY,7228,"CARMICHAEL, Archibald M.",Progressive,121,Progressive,Progressive,t,5540,f,1
@@ -500,8 +500,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 16,1926-09-14,SK,232,MELVILLE,7240,"MOTHERWELL, Hon. William Richard",Liberal,75,Liberal,Lib,t,7946,f,1
 16,1926-09-14,SK,232,MELVILLE,7241,"PATRICK, John A.M.",Conservative,37,Conservative,Con,t,3796,f,2
 16,1926-09-14,SK,233,MOOSE JAW,7242,"ROSS, John Gordon",Liberal,75,Liberal,Lib,t,8487,f,1
-16,1926-09-14,SK,233,MOOSE JAW,7244,"WHITE, Wellington",Conservative,37,Conservative,Con,t,6060,f,2
-16,1926-09-14,SK,233,MOOSE JAW,7243,"JOHNSON, Robert Milton",Progressive,121,Progressive,Progressive,t,1798,f,3
+16,1926-09-14,SK,233,MOOSE JAW,7243,"WHITE, Wellington",Conservative,37,Conservative,Con,t,6060,f,2
+16,1926-09-14,SK,233,MOOSE JAW,7244,"JOHNSON, Robert Milton",Progressive,121,Progressive,Progressive,t,1798,f,3
 16,1926-09-14,SK,234,NORTH BATTLEFORD,7245,"MCINTOSH, Cameron Ross",Liberal,75,Liberal,Lib,t,6147,f,1
 16,1926-09-14,SK,234,NORTH BATTLEFORD,7246,"LONG, Charles Edwin",Conservative,37,Conservative,Con,t,2950,f,2
 16,1926-09-14,SK,235,PRINCE ALBERT,7247,"KING, Rt. Hon. William Lyon Mackenzie",Liberal,75,Liberal,Lib,t,8933,f,1
@@ -515,8 +515,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 16,1926-09-14,SK,239,SASKATOON,7255,"Young, Alexander",Liberal,75,Liberal,Lib,t,8058,f,1
 16,1926-09-14,SK,239,SASKATOON,7256,"MACMILLAN, Frank Roland",Conservative,37,Conservative,Con,t,5706,f,2
 16,1926-09-14,SK,240,SOUTH BATTLEFORD,7257,"VALLANCE, John",Liberal,75,Liberal,Lib,t,5607,f,1
-16,1926-09-14,SK,240,SOUTH BATTLEFORD,7259,"LE RUEZ, Alfred Luce",Progressive,121,Progressive,Progressive,t,4237,f,2
-16,1926-09-14,SK,240,SOUTH BATTLEFORD,7258,"HAGERMAN, James Arnold",Conservative,37,Conservative,Con,t,3106,f,3
+16,1926-09-14,SK,240,SOUTH BATTLEFORD,7258,"LE RUEZ, Alfred Luce",Progressive,121,Progressive,Progressive,t,4237,f,2
+16,1926-09-14,SK,240,SOUTH BATTLEFORD,7259,"HAGERMAN, James Arnold",Conservative,37,Conservative,Con,t,3106,f,3
 16,1926-09-14,SK,241,SWIFT CURRENT,7260,"BOTHWELL, Charles Edward",Liberal,75,Liberal,Lib,t,5788,f,1
 16,1926-09-14,SK,241,SWIFT CURRENT,7261,"LEWIS, Arthur John",Progressive,121,Progressive,Progressive,t,3094,f,2
 16,1926-09-14,SK,241,SWIFT CURRENT,7262,"LIVINGSTON, Archibald",Conservative,37,Conservative,Con,t,2097,f,3

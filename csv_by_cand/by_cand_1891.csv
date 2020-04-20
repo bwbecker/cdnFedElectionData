@@ -4,10 +4,10 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 7,1891-03-05,BC,2,NEW WESTMINSTER,2343,"CORBOULD, G.E.",Conservative,37,Conservative,Con,t,1694,f,1
 7,1891-03-05,BC,2,NEW WESTMINSTER,2344,"SCOULLOR, E.S.",Liberal,75,Liberal,Lib,t,532,f,2
 7,1891-03-05,BC,3,VANCOUVER,2345,"GORDON, David W.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,,t,1
-7,1891-03-05,BC,4,VICTORIA-1,2347,"PRIOR, E.G.",Conservative,37,Conservative,Con,t,1031,f,1
-7,1891-03-05,BC,4,VICTORIA-1,2349,"MARCHANT, William",Liberal,75,Liberal,Lib,t,417,f,2
-7,1891-03-05,BC,5,VICTORIA-2,2346,"EARLE, Thomas",Conservative,37,Conservative,Con,t,1061,f,1
-7,1891-03-05,BC,5,VICTORIA-2,2348,"TEMPLEMAN, William",Liberal,75,Liberal,Lib,t,449,f,2
+7,1891-03-05,BC,4,VICTORIA-1,2346,"PRIOR, E.G.",Conservative,37,Conservative,Con,t,1031,f,1
+7,1891-03-05,BC,4,VICTORIA-1,2347,"MARCHANT, William",Liberal,75,Liberal,Lib,t,417,f,2
+7,1891-03-05,BC,5,VICTORIA-2,2348,"EARLE, Thomas",Conservative,37,Conservative,Con,t,1061,f,1
+7,1891-03-05,BC,5,VICTORIA-2,2349,"TEMPLEMAN, William",Liberal,75,Liberal,Lib,t,449,f,2
 7,1891-03-05,BC,6,YALE,2350,"MARA, John Andrew",Conservative,37,Conservative,Con,t,,t,1
 7,1891-03-05,MB,7,LISGAR,2351,"ROSS, Arthur W.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1359,f,1
 7,1891-03-05,MB,7,LISGAR,2352,"TAYLOR, John",Liberal,75,Liberal,Lib,t,1169,f,2
@@ -24,10 +24,10 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 7,1891-03-05,NB,13,CARLETON,2363,"VINCE, D. McL.",Conservative,37,Conservative,Con,t,1908,f,2
 7,1891-03-05,NB,14,CHARLOTTE,2364,"GILLMOR, A.H.",Liberal,75,Liberal,Lib,t,1934,f,1
 7,1891-03-05,NB,14,CHARLOTTE,2365,"CLARKE, G.J.",Conservative,37,Conservative,Con,t,1686,f,2
-7,1891-03-05,NB,15,CITY AND COUNTY OF ST. JOHN-1,2367,"SKINNER, C.N.",Liberal,75,Liberal,Lib,t,4448,f,1
-7,1891-03-05,NB,15,CITY AND COUNTY OF ST. JOHN-1,2369,"RANKINE, T.A.",Unknown,166,Unknown,Unknown,f,3503,f,2
-7,1891-03-05,NB,16,CITY AND COUNTY OF ST. JOHN-2,2366,"HAZEN, J.D.",Conservative,37,Conservative,Con,t,4824,f,1
-7,1891-03-05,NB,16,CITY AND COUNTY OF ST. JOHN-2,2368,"WELDON, C.W.",Liberal,75,Liberal,Lib,t,3832,f,2
+7,1891-03-05,NB,15,CITY AND COUNTY OF ST. JOHN-1,2366,"SKINNER, C.N.",Liberal,75,Liberal,Lib,t,4448,f,1
+7,1891-03-05,NB,15,CITY AND COUNTY OF ST. JOHN-1,2367,"RANKINE, T.A.",Unknown,166,Unknown,Unknown,f,3503,f,2
+7,1891-03-05,NB,16,CITY AND COUNTY OF ST. JOHN-2,2368,"HAZEN, J.D.",Conservative,37,Conservative,Con,t,4824,f,1
+7,1891-03-05,NB,16,CITY AND COUNTY OF ST. JOHN-2,2369,"WELDON, C.W.",Liberal,75,Liberal,Lib,t,3832,f,2
 7,1891-03-05,NB,17,CITY OF ST. JOHN,2370,"MCLEOD, Ezekiel",Conservative,37,Conservative,Con,t,2649,f,1
 7,1891-03-05,NB,17,CITY OF ST. JOHN,2371,"ELLIS, John V.",Liberal,75,Liberal,Lib,t,2063,f,2
 7,1891-03-05,NB,18,GLOUCESTER,2372,"BURNS, K.F.",Conservative,37,Conservative,Con,t,1943,f,1
@@ -54,24 +54,24 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 7,1891-03-05,NS,28,ANNAPOLIS,2393,"CHIPMAN, Wm. A.",Unknown,166,Unknown,Unknown,f,1662,f,2
 7,1891-03-05,NS,29,ANTIGONISH,2394,"THOMPSON, Hon. Sir John S.D.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1346,f,1
 7,1891-03-05,NS,29,ANTIGONISH,2395,"MCGILLIVRAY, Angus",Unknown,166,Unknown,Unknown,f,1119,f,2
-7,1891-03-05,NS,30,CAPE BRETON-1,2397,"MACKEEN, David",Conservative,37,Conservative,Con,t,2889,f,1
-7,1891-03-05,NS,30,CAPE BRETON-1,2399,"MURRAY, Geo. H.",Liberal,75,Liberal,Lib,t,2161,f,2
-7,1891-03-05,NS,31,CAPE BRETON-2,2396,"MCDOUGALL, H.F.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2681,f,1
-7,1891-03-05,NS,31,CAPE BRETON-2,2398,"MCPHERSON, Joseph",Liberal,75,Liberal,Lib,t,2078,f,2
+7,1891-03-05,NS,30,CAPE BRETON-1,2396,"MACKEEN, David",Conservative,37,Conservative,Con,t,2889,f,1
+7,1891-03-05,NS,30,CAPE BRETON-1,2397,"MCPHERSON, Joseph",Liberal,75,Liberal,Lib,t,2078,f,2
+7,1891-03-05,NS,31,CAPE BRETON-2,2398,"MCDOUGALL, H.F.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2681,f,1
+7,1891-03-05,NS,31,CAPE BRETON-2,2399,"MURRAY, Geo. H.",Liberal,75,Liberal,Lib,t,2161,f,2
 7,1891-03-05,NS,32,COLCHESTER,2400,"PATTERSON, W.A.",Conservative,37,Conservative,Con,t,2588,f,1
 7,1891-03-05,NS,32,COLCHESTER,2401,"ARCHIBALD, P. McG.",Liberal,75,Liberal,Lib,t,1785,f,2
 7,1891-03-05,NS,32,COLCHESTER,2402,"FLETCHER, A.B.",Progressive,121,Progressive,Progressive,t,165,f,3
 7,1891-03-05,NS,33,CUMBERLAND,2403,"DICKEY, A.R.",Conservative,37,Conservative,Con,t,2935,f,1
-7,1891-03-05,NS,33,CUMBERLAND,2405,"HOWARD, D.S.",Liberal,75,Liberal,Lib,t,2095,f,2
-7,1891-03-05,NS,33,CUMBERLAND,2404,"CASEY, C.R.",Progressive,121,Progressive,Progressive,t,303,f,3
+7,1891-03-05,NS,33,CUMBERLAND,2404,"HOWARD, D.S.",Liberal,75,Liberal,Lib,t,2095,f,2
+7,1891-03-05,NS,33,CUMBERLAND,2405,"CASEY, C.R.",Progressive,121,Progressive,Progressive,t,303,f,3
 7,1891-03-05,NS,34,DIGBY,2406,"BOWERS, E.C.",Liberal,75,Liberal,Lib,t,1503,f,1
 7,1891-03-05,NS,34,DIGBY,2407,"JONES, H.L.",Conservative,37,Conservative,Con,t,1430,f,2
 7,1891-03-05,NS,35,GUYSBOROUGH,2408,"FRASER, D.C.",Liberal,75,Liberal,Lib,t,1145,f,1
 7,1891-03-05,NS,35,GUYSBOROUGH,2409,"OGDEN, Alfred",Conservative,37,Conservative,Con,t,1059,f,2
-7,1891-03-05,NS,36,HALIFAX-1,2411,"STAIRS, John F.",Conservative,37,Conservative,Con,t,5262,f,1
-7,1891-03-05,NS,36,HALIFAX-1,2413,"FARRELL, Edward",Liberal,75,Liberal,Lib,t,4174,f,2
-7,1891-03-05,NS,37,HALIFAX-2,2410,"KENNY, Thos. E.",Conservative,37,Conservative,Con,t,5274,f,1
-7,1891-03-05,NS,37,HALIFAX-2,2412,"JONES, Hon. A.G.",Liberal,75,Liberal,Lib,t,4335,f,2
+7,1891-03-05,NS,36,HALIFAX-1,2410,"STAIRS, John F.",Conservative,37,Conservative,Con,t,5262,f,1
+7,1891-03-05,NS,36,HALIFAX-1,2411,"FARRELL, Edward",Liberal,75,Liberal,Lib,t,4174,f,2
+7,1891-03-05,NS,37,HALIFAX-2,2412,"KENNY, Thos. E.",Conservative,37,Conservative,Con,t,5274,f,1
+7,1891-03-05,NS,37,HALIFAX-2,2413,"JONES, Hon. A.G.",Liberal,75,Liberal,Lib,t,4335,f,2
 7,1891-03-05,NS,38,HANTS,2414,"PUTNAM, Alfred",Conservative,37,Conservative,Con,t,1705,f,1
 7,1891-03-05,NS,38,HANTS,2415,"HALEY, Allen",Liberal,75,Liberal,Lib,t,1604,f,2
 7,1891-03-05,NS,39,INVERNESS,2416,"CAMERON, Hugh",Conservative,37,Conservative,Con,t,1877,f,1
@@ -80,15 +80,15 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 7,1891-03-05,NS,40,KINGS,2419,"BILL, C.R.",Conservative,37,Conservative,Con,t,1654,f,2
 7,1891-03-05,NS,41,LUNENBURG,2420,"KAULBACH, C.E.",Conservative,37,Conservative,Con,t,2592,f,1
 7,1891-03-05,NS,41,LUNENBURG,2421,"EISENHAUER, J.D.",Liberal,75,Liberal,Lib,t,2402,f,2
-7,1891-03-05,NS,42,PICTOU-1,2423,"MCDOUGALD, John",Liberal-Conservative,124,Progressive Conservative Party,PC,t,3384,f,1
-7,1891-03-05,NS,42,PICTOU-1,2425,"FRASER, Jas. A.",Liberal,75,Liberal,Lib,t,2708,f,2
-7,1891-03-05,NS,43,PICTOU-2,2422,"TUPPER, Charles H.",Conservative,37,Conservative,Con,t,3433,f,1
-7,1891-03-05,NS,43,PICTOU-2,2424,"YORSTON, John",Liberal,75,Liberal,Lib,t,2594,f,2
+7,1891-03-05,NS,42,PICTOU-1,2422,"MCDOUGALD, John",Liberal-Conservative,124,Progressive Conservative Party,PC,t,3384,f,1
+7,1891-03-05,NS,42,PICTOU-1,2423,"YORSTON, John",Liberal,75,Liberal,Lib,t,2594,f,2
+7,1891-03-05,NS,43,PICTOU-2,2424,"TUPPER, Charles H.",Conservative,37,Conservative,Con,t,3433,f,1
+7,1891-03-05,NS,43,PICTOU-2,2425,"FRASER, Jas. A.",Liberal,75,Liberal,Lib,t,2708,f,2
 7,1891-03-05,NS,44,QUEENS,2426,"FORBES, F.G.",Liberal,75,Liberal,Lib,t,867,f,1
 7,1891-03-05,NS,44,QUEENS,2427,"FREEMAN, J.N.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,766,f,2
 7,1891-03-05,NS,45,RICHMOND,2428,"GILLIES, J.A.",Conservative,37,Conservative,Con,t,857,f,1
-7,1891-03-05,NS,45,RICHMOND,2430,"PAINT, H.N.",Conservative,37,Conservative,Con,t,755,f,2
-7,1891-03-05,NS,45,RICHMOND,2429,"FLYNN, E.P.",Liberal,75,Liberal,Lib,t,670,f,3
+7,1891-03-05,NS,45,RICHMOND,2429,"PAINT, H.N.",Conservative,37,Conservative,Con,t,755,f,2
+7,1891-03-05,NS,45,RICHMOND,2430,"FLYNN, E.P.",Liberal,75,Liberal,Lib,t,670,f,3
 7,1891-03-05,NS,46,SHELBURNE,2431,"WHITE, N.W.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1388,f,1
 7,1891-03-05,NS,46,SHELBURNE,2432,"ROBERTSON, Thos.",Liberal,75,Liberal,Lib,t,1369,f,2
 7,1891-03-05,NS,47,VICTORIA,2433,"MCDONALD, John A.",Conservative,37,Conservative,Con,t,822,f,1
@@ -158,10 +158,10 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 7,1891-03-05,ON,78,HALDIMAND,2497,"COULTER, C.W.",Liberal,75,Liberal,Lib,t,1818,f,2
 7,1891-03-05,ON,79,HALTON,2498,"HENDERSON, David",Conservative,37,Conservative,Con,t,2441,f,1
 7,1891-03-05,ON,79,HALTON,2499,"WALDIE, John",Liberal,75,Liberal,Lib,t,2337,f,2
-7,1891-03-05,ON,80,HAMILTON-1,2501,"MCKAY, Alex",Conservative,37,Conservative,Con,t,4186,f,1
-7,1891-03-05,ON,80,HAMILTON-1,2503,"LAIDLAW, Adam",Liberal,75,Liberal,Lib,t,3474,f,2
-7,1891-03-05,ON,81,HAMILTON-2,2500,"RYCKMAN, Samuel S.",Conservative,37,Conservative,Con,t,4156,f,1
-7,1891-03-05,ON,81,HAMILTON-2,2502,"DORAN, Wm.",Liberal,75,Liberal,Lib,t,3532,f,2
+7,1891-03-05,ON,80,HAMILTON-1,2500,"MCKAY, Alex",Conservative,37,Conservative,Con,t,4186,f,1
+7,1891-03-05,ON,80,HAMILTON-1,2501,"DORAN, Wm.",Liberal,75,Liberal,Lib,t,3532,f,2
+7,1891-03-05,ON,81,HAMILTON-2,2502,"RYCKMAN, Samuel S.",Conservative,37,Conservative,Con,t,4156,f,1
+7,1891-03-05,ON,81,HAMILTON-2,2503,"LAIDLAW, Adam",Liberal,75,Liberal,Lib,t,3474,f,2
 7,1891-03-05,ON,82,HASTINGS EAST,2504,"BURDETT, S.B.",Liberal,75,Liberal,Lib,t,1951,f,1
 7,1891-03-05,ON,82,HASTINGS EAST,2505,"NORTHRUP, W.B.",Conservative,37,Conservative,Con,t,1897,f,2
 7,1891-03-05,ON,83,HASTINGS NORTH,2506,"BOWELL, Hon. Mackenzie",Conservative,37,Conservative,Con,t,1686,f,1
@@ -205,8 +205,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 7,1891-03-05,ON,101,MIDDLESEX SOUTH,2544,"ARMSTRONG, James",Liberal,75,Liberal,Lib,t,1906,f,1
 7,1891-03-05,ON,101,MIDDLESEX SOUTH,2545,"CHISHOLM, Andrew G.",Conservative,37,Conservative,Con,t,1282,f,2
 7,1891-03-05,ON,102,MIDDLESEX WEST,2546,"ROOME, Wm. F.",Conservative,37,Conservative,Con,t,1529,f,1
-7,1891-03-05,ON,102,MIDDLESEX WEST,2548,"MCFARLANE, Hector",Liberal,75,Liberal,Lib,t,1119,f,2
-7,1891-03-05,ON,102,MIDDLESEX WEST,2547,"BROCK, William",Conservative,37,Conservative,Con,t,1110,f,3
+7,1891-03-05,ON,102,MIDDLESEX WEST,2547,"MCFARLANE, Hector",Liberal,75,Liberal,Lib,t,1119,f,2
+7,1891-03-05,ON,102,MIDDLESEX WEST,2548,"BROCK, William",Conservative,37,Conservative,Con,t,1110,f,3
 7,1891-03-05,ON,103,MONCK,2549,"BROWN, John",Liberal,75,Liberal,Lib,t,1874,f,1
 7,1891-03-05,ON,103,MONCK,2550,"BOYLE, Arthur",Conservative,37,Conservative,Con,t,1614,f,2
 7,1891-03-05,ON,104,MUSKOKA AND PARRY SOUND,2551,"O'BRIEN, W.E.",Conservative,37,Conservative,Con,t,1916,f,1
@@ -225,12 +225,12 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 7,1891-03-05,ON,110,ONTARIO SOUTH,2564,"SMITH, Wm.",Conservative,37,Conservative,Con,t,2009,f,2
 7,1891-03-05,ON,111,ONTARIO WEST,2565,"EDGAR, Jas. D.",Liberal,75,Liberal,Lib,t,1867,f,1
 7,1891-03-05,ON,111,ONTARIO WEST,2566,"WHITE, F.P.",Conservative,37,Conservative,Con,t,868,f,2
-7,1891-03-05,ON,112,OTTAWA (CITY OF)-1,2568,"MACKINTOSH, C.H.",Conservative,37,Conservative,Con,t,3029,f,1
-7,1891-03-05,ON,112,OTTAWA (CITY OF)-1,2572,"PATTERSON, J.W.",Liberal,75,Liberal,Lib,t,1287,f,2
-7,1891-03-05,ON,112,OTTAWA (CITY OF)-1,2570,"NAGLE, R.",Liberal,75,Liberal,Lib,t,55,f,3
-7,1891-03-05,ON,113,OTTAWA (CITY OF)-2,2567,"ROBILLARD, Honoré",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2363,f,1
+7,1891-03-05,ON,112,OTTAWA (CITY OF)-1,2567,"MACKINTOSH, C.H.",Conservative,37,Conservative,Con,t,3029,f,1
+7,1891-03-05,ON,112,OTTAWA (CITY OF)-1,2568,"PATTERSON, J.W.",Liberal,75,Liberal,Lib,t,1287,f,2
+7,1891-03-05,ON,112,OTTAWA (CITY OF)-1,2569,"NAGLE, R.",Liberal,75,Liberal,Lib,t,55,f,3
+7,1891-03-05,ON,113,OTTAWA (CITY OF)-2,2570,"ROBILLARD, Honoré",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2363,f,1
 7,1891-03-05,ON,113,OTTAWA (CITY OF)-2,2571,"BELCOURT, N.A.",Liberal,75,Liberal,Lib,t,1946,f,2
-7,1891-03-05,ON,113,OTTAWA (CITY OF)-2,2569,"LEWIS, W.H.",Equal Rights,43,Equal Rights,EqRights,f,770,f,3
+7,1891-03-05,ON,113,OTTAWA (CITY OF)-2,2572,"LEWIS, W.H.",Equal Rights,43,Equal Rights,EqRights,f,770,f,3
 7,1891-03-05,ON,114,OXFORD NORTH,2573,"SUTHERLAND, James",Liberal,75,Liberal,Lib,t,2544,f,1
 7,1891-03-05,ON,114,OXFORD NORTH,2574,"KARN, D.W.",Conservative,37,Conservative,Con,t,1010,f,2
 7,1891-03-05,ON,115,OXFORD SOUTH,2575,"CARTWRIGHT, Sir Richard J.",Liberal,75,Liberal,Lib,t,2021,f,1
@@ -246,9 +246,9 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 7,1891-03-05,ON,120,PETERBOROUGH WEST,2585,"STEVENSON, James",Conservative,37,Conservative,Con,t,1447,f,1
 7,1891-03-05,ON,120,PETERBOROUGH WEST,2586,"HALL, Richard",Liberal,75,Liberal,Lib,t,1215,f,2
 7,1891-03-05,ON,121,PRESCOTT,2587,"PROULX, Isidore",Liberal,75,Liberal,Lib,t,1269,f,1
-7,1891-03-05,ON,121,PRESCOTT,2590,"ROUTHIER, Félix",Conservative,37,Conservative,Con,t,608,f,2
-7,1891-03-05,ON,121,PRESCOTT,2588,"JOHNSON, E.A.",Unknown,166,Unknown,Unknown,f,532,f,3
-7,1891-03-05,ON,121,PRESCOTT,2589,"BERTRAND, David",Unknown,166,Unknown,Unknown,f,335,f,4
+7,1891-03-05,ON,121,PRESCOTT,2588,"ROUTHIER, Félix",Conservative,37,Conservative,Con,t,608,f,2
+7,1891-03-05,ON,121,PRESCOTT,2589,"JOHNSON, E.A.",Unknown,166,Unknown,Unknown,f,532,f,3
+7,1891-03-05,ON,121,PRESCOTT,2590,"BERTRAND, David",Unknown,166,Unknown,Unknown,f,335,f,4
 7,1891-03-05,ON,122,PRINCE EDWARD,2591,"MILLER, Archibald Campbell",Conservative,37,Conservative,Con,t,2264,f,1
 7,1891-03-05,ON,122,PRINCE EDWARD,2592,"PLATT, J.M.",Liberal,75,Liberal,Lib,t,2225,f,2
 7,1891-03-05,ON,123,RENFREW NORTH,2593,"WHITE, Peter",Conservative,37,Conservative,Con,t,1497,f,1
@@ -294,18 +294,18 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 7,1891-03-05,ON,143,YORK NORTH,2633,"PEGG, W.W.",Conservative,37,Conservative,Con,t,1968,f,2
 7,1891-03-05,ON,144,YORK WEST,2634,"WALLACE, N.C.",Conservative,37,Conservative,Con,t,3434,f,1
 7,1891-03-05,ON,144,YORK WEST,2635,"CLEMENT, W.H.P.",Liberal,75,Liberal,Lib,t,2628,f,2
-7,1891-03-05,PE,145,KING'S COUNTY-1,2637,"MACDONALD, A.C.",Conservative,37,Conservative,Con,t,2514,f,1
-7,1891-03-05,PE,145,KING'S COUNTY-1,2639,"ROBERTSON, J.E.",Liberal,75,Liberal,Lib,t,2276,f,2
-7,1891-03-05,PE,146,KING'S COUNTY-2,2636,"MCLEAN, John",Conservative,37,Conservative,Con,t,2624,f,1
-7,1891-03-05,PE,146,KING'S COUNTY-2,2638,"MCINTYRE, P.A.",Liberal,75,Liberal,Lib,t,2369,f,2
-7,1891-03-05,PE,147,PRINCE COUNTY-1,2641,"YEO, John",Liberal,75,Liberal,Lib,t,3279,f,1
-7,1891-03-05,PE,147,PRINCE COUNTY-1,2643,"HUNT, Richard",Conservative,37,Conservative,Con,t,2661,f,2
-7,1891-03-05,PE,148,PRINCE COUNTY-2,2640,"PERRY, S.F.",Liberal,75,Liberal,Lib,t,3182,f,1
-7,1891-03-05,PE,148,PRINCE COUNTY-2,2642,"HOWLAN, Geo. W.",Conservative,37,Conservative,Con,t,2903,f,2
-7,1891-03-05,PE,149,QUEEN'S COUNTY-1,2645,"DAVIES, L.H.",Liberal,75,Liberal,Lib,t,4006,f,1
-7,1891-03-05,PE,149,QUEEN'S COUNTY-1,2647,"BLAKE, Patrick",Conservative,37,Conservative,Con,t,3669,f,2
-7,1891-03-05,PE,150,QUEEN'S COUNTY-2,2644,"WELSH, William",Independent Liberal,58,Independent Liberal,IndLib,f,3854,f,1
-7,1891-03-05,PE,150,QUEEN'S COUNTY-2,2646,"FERGUSON, Donald",Conservative,37,Conservative,Con,t,3521,f,2
+7,1891-03-05,PE,145,KING'S COUNTY-1,2636,"MACDONALD, A.C.",Conservative,37,Conservative,Con,t,2514,f,1
+7,1891-03-05,PE,145,KING'S COUNTY-1,2637,"ROBERTSON, J.E.",Liberal,75,Liberal,Lib,t,2276,f,2
+7,1891-03-05,PE,146,KING'S COUNTY-2,2638,"MCLEAN, John",Conservative,37,Conservative,Con,t,2624,f,1
+7,1891-03-05,PE,146,KING'S COUNTY-2,2639,"MCINTYRE, P.A.",Liberal,75,Liberal,Lib,t,2369,f,2
+7,1891-03-05,PE,147,PRINCE COUNTY-1,2640,"PERRY, S.F.",Liberal,75,Liberal,Lib,t,3182,f,1
+7,1891-03-05,PE,147,PRINCE COUNTY-1,2641,"HOWLAN, Geo. W.",Conservative,37,Conservative,Con,t,2903,f,2
+7,1891-03-05,PE,148,PRINCE COUNTY-2,2642,"YEO, John",Liberal,75,Liberal,Lib,t,3279,f,1
+7,1891-03-05,PE,148,PRINCE COUNTY-2,2643,"HUNT, Richard",Conservative,37,Conservative,Con,t,2661,f,2
+7,1891-03-05,PE,149,QUEEN'S COUNTY-1,2644,"WELSH, William",Independent Liberal,58,Independent Liberal,IndLib,f,3854,f,1
+7,1891-03-05,PE,149,QUEEN'S COUNTY-1,2645,"FERGUSON, Donald",Conservative,37,Conservative,Con,t,3521,f,2
+7,1891-03-05,PE,150,QUEEN'S COUNTY-2,2646,"DAVIES, L.H.",Liberal,75,Liberal,Lib,t,4006,f,1
+7,1891-03-05,PE,150,QUEEN'S COUNTY-2,2647,"BLAKE, Patrick",Conservative,37,Conservative,Con,t,3669,f,2
 7,1891-03-05,QC,151,ARGENTEUIL,2648,"CHRISTIE, Thomas",Liberal,75,Liberal,Lib,t,1050,f,1
 7,1891-03-05,QC,151,ARGENTEUIL,2649,"OWENS, William",Conservative,37,Conservative,Con,t,848,f,2
 7,1891-03-05,QC,152,BAGOT,2650,"DUPONT, F.",Conservative,37,Conservative,Con,t,1582,f,1
@@ -371,8 +371,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 7,1891-03-05,QC,183,MONTMAGNY,2710,"CHOQUETTE, P.A.",Liberal,75,Liberal,Lib,t,1172,f,1
 7,1891-03-05,QC,183,MONTMAGNY,2711,"BENDER, E.P.",Conservative,37,Conservative,Con,t,739,f,2
 7,1891-03-05,QC,184,MONTMORENCY,2712,"TARTE, J.I.",Conservative,37,Conservative,Con,t,975,f,1
-7,1891-03-05,QC,184,MONTMORENCY,2714,"TURCOTTE, A.J.",Conservative,37,Conservative,Con,t,868,f,2
-7,1891-03-05,QC,184,MONTMORENCY,2713,"VALIN, P.V.",Conservative,37,Conservative,Con,t,92,f,3
+7,1891-03-05,QC,184,MONTMORENCY,2713,"TURCOTTE, A.J.",Conservative,37,Conservative,Con,t,868,f,2
+7,1891-03-05,QC,184,MONTMORENCY,2714,"VALIN, P.V.",Conservative,37,Conservative,Con,t,92,f,3
 7,1891-03-05,QC,185,MONTREAL CENTRE,2715,"CURRAN, J.J.",Conservative,37,Conservative,Con,t,3450,f,1
 7,1891-03-05,QC,185,MONTREAL CENTRE,2716,"GUÉRIN, E.W.P.",Unknown,166,Unknown,Unknown,f,2236,f,2
 7,1891-03-05,QC,186,MONTREAL EAST,2717,"LÉPINE, A.T.",Independent Conservative,56,Independent Conservative,IndCon,f,5840,f,1
@@ -384,13 +384,13 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 7,1891-03-05,QC,189,NAPIERVILLE,2723,"MONET, Dominique",Liberal,75,Liberal,Lib,t,817,f,1
 7,1891-03-05,QC,189,NAPIERVILLE,2724,"PARADIS, F.X.",Conservative,37,Conservative,Con,t,799,f,2
 7,1891-03-05,QC,190,NICOLET,2725,"Leduc, Joseph Hector",Liberal,75,Liberal,Lib,t,1538,f,1
-7,1891-03-05,QC,190,NICOLET,2727,"PRINCE, E.C.",Conservative,37,Conservative,Con,t,1533,f,2
-7,1891-03-05,QC,190,NICOLET,2726,"HOUDE, C.E.",Liberal,75,Liberal,Lib,t,327,f,3
+7,1891-03-05,QC,190,NICOLET,2726,"PRINCE, E.C.",Conservative,37,Conservative,Con,t,1533,f,2
+7,1891-03-05,QC,190,NICOLET,2727,"HOUDE, C.E.",Liberal,75,Liberal,Lib,t,327,f,3
 7,1891-03-05,QC,191,OTTAWA (COUNTY OF),2728,"DEVLIN, C.R.",Liberal,75,Liberal,Lib,t,2993,f,1
 7,1891-03-05,QC,191,OTTAWA (COUNTY OF),2729,"MCDOUGALL, J.M.",Conservative,37,Conservative,Con,t,2579,f,2
 7,1891-03-05,QC,192,PONTIAC,2730,"MURRAY, Thomas",Liberal,75,Liberal,Lib,t,1100,f,1
-7,1891-03-05,QC,192,PONTIAC,2732,"MCLEAN, H.M.",Unknown,166,Unknown,Unknown,f,795,f,2
-7,1891-03-05,QC,192,PONTIAC,2731,"BRYSON, John",Conservative,37,Conservative,Con,t,787,f,3
+7,1891-03-05,QC,192,PONTIAC,2731,"MCLEAN, H.M.",Unknown,166,Unknown,Unknown,f,795,f,2
+7,1891-03-05,QC,192,PONTIAC,2732,"BRYSON, John",Conservative,37,Conservative,Con,t,787,f,3
 7,1891-03-05,QC,193,PORTNEUF,2733,"DELISLE, Arthur",Liberal,75,Liberal,Lib,t,1906,f,1
 7,1891-03-05,QC,193,PORTNEUF,2734,"VALLÉE, R.P.",Conservative,37,Conservative,Con,t,1756,f,2
 7,1891-03-05,QC,194,QUEBEC COUNTY,2735,"FRÉMONT, J.J.T.",Liberal,75,Liberal,Lib,t,1692,f,1

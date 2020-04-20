@@ -229,12 +229,21 @@ winner is assigned to each; similarly for losing candidates.
 If you'd like to clone the project and hack on it yourself...
 
 ### Prerequisites
-1. Basic *nix command line tools:  Gnu Make, bash, sed
+1. Basic *nix command line tools:  Gnu Make, bash, Gnu sed
 2. A Postgresql database
 
 ### Workflow
 The overall process is controlled by the makefile.  It proceeds in
 several steps:
+
+####
+Create a database in postgres.
+* `psql service=????`  # log in to an existing database
+* `CREATE DATABASE esim;`
+* logout
+* Log in to the newly created database
+* `CREATE SCHEMA _elections;`
+
 
 1. Create a `_work` schema in the database.  Load the raw downloaded
 data into appropriate tables, no modifications to the data.

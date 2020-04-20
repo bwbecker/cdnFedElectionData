@@ -2,8 +2,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 2,1872-07-20,BC,1,CARIBOO,341,"THOMPSON, Joshua Spencer",Liberal-Conservative,124,Progressive Conservative Party,PC,t,,t,1
 2,1872-07-20,BC,2,NEW WESTMINSTER,342,"NELSON, Hugh",Liberal-Conservative,124,Progressive Conservative Party,PC,t,,t,1
 2,1872-07-20,BC,3,VANCOUVER,343,"HINCKS, Francis",Liberal-Conservative,124,Progressive Conservative Party,PC,t,,t,1
-2,1872-07-20,BC,4,VICTORIA-1,345,"DE COSMOS, Amor",Liberal,75,Liberal,Lib,t,398,f,1
-2,1872-07-20,BC,5,VICTORIA-2,344,"NATHAN, Henry Jr.",Liberal,75,Liberal,Lib,t,402,f,1
+2,1872-07-20,BC,4,VICTORIA-1,344,"DE COSMOS, Amor",Liberal,75,Liberal,Lib,t,398,f,1
+2,1872-07-20,BC,5,VICTORIA-2,345,"NATHAN, Henry Jr.",Liberal,75,Liberal,Lib,t,402,f,1
 2,1872-07-20,BC,5,VICTORIA-2,346,"BEAVEN, R.",Unknown,166,Unknown,Unknown,f,94,f,2
 2,1872-07-20,BC,6,YALE,347,"DEWDNEY, Edgar",Conservative,37,Conservative,Con,t,43,f,1
 2,1872-07-20,BC,6,YALE,348,"SMITH, Robt.",Unknown,166,Unknown,Unknown,f,19,f,2
@@ -16,17 +16,17 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 2,1872-07-20,MB,9,PROVENCHER,355,"CARTIER, Hon. Sir George Étienne",Liberal-Conservative,124,Progressive Conservative Party,PC,t,,t,1
 2,1872-07-20,MB,10,SELKIRK,356,"SMITH, Donald A.",Independent Conservative,56,Independent Conservative,IndCon,f,258,f,1
 2,1872-07-20,MB,10,SELKIRK,357,"WILSON, A.E.",Unknown,166,Unknown,Unknown,f,62,f,2
-2,1872-07-20,MB,10,SELKIRK,359,"MULVEY, S.",Unknown,166,Unknown,Unknown,f,0,f,3
 2,1872-07-20,MB,10,SELKIRK,358,"SUTHERLAND, J.",Unknown,166,Unknown,Unknown,f,0,f,3
+2,1872-07-20,MB,10,SELKIRK,359,"MULVEY, S.",Unknown,166,Unknown,Unknown,f,0,f,3
 2,1872-07-20,NB,11,ALBERT,360,"WALLACE, John",Liberal,75,Liberal,Lib,t,847,f,1
 2,1872-07-20,NB,11,ALBERT,361,"CALHOUN,",Unknown,166,Unknown,Unknown,f,748,f,2
 2,1872-07-20,NB,12,CARLETON,362,"CONNELL, Hon. Charles",Liberal,75,Liberal,Lib,t,,t,1
 2,1872-07-20,NB,13,CHARLOTTE,363,"MCADAM, John",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1551,f,1
 2,1872-07-20,NB,13,CHARLOTTE,364,"GILLMOR,",Liberal,75,Liberal,Lib,t,1329,f,2
-2,1872-07-20,NB,14,CITY AND COUNTY OF ST. JOHN-1,366,"PALMER, Acalus Lockwood",Liberal,75,Liberal,Lib,t,2204,f,1
-2,1872-07-20,NB,14,CITY AND COUNTY OF ST. JOHN-1,368,"KERR, D.S.",Unknown,166,Unknown,Unknown,f,486,f,2
-2,1872-07-20,NB,15,CITY AND COUNTY OF ST. JOHN-2,365,"BURPEE, Isaac",Liberal,75,Liberal,Lib,t,3249,f,1
-2,1872-07-20,NB,15,CITY AND COUNTY OF ST. JOHN-2,367,"ELDER, Wm.",Unknown,166,Unknown,Unknown,f,1771,f,2
+2,1872-07-20,NB,14,CITY AND COUNTY OF ST. JOHN-1,365,"PALMER, Acalus Lockwood",Liberal,75,Liberal,Lib,t,2204,f,1
+2,1872-07-20,NB,14,CITY AND COUNTY OF ST. JOHN-1,366,"KERR, D.S.",Unknown,166,Unknown,Unknown,f,486,f,2
+2,1872-07-20,NB,15,CITY AND COUNTY OF ST. JOHN-2,367,"BURPEE, Isaac",Liberal,75,Liberal,Lib,t,3249,f,1
+2,1872-07-20,NB,15,CITY AND COUNTY OF ST. JOHN-2,368,"ELDER, Wm.",Unknown,166,Unknown,Unknown,f,1771,f,2
 2,1872-07-20,NB,16,CITY OF ST. JOHN,369,"TILLEY, Hon. Samuel Leonard",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1765,f,1
 2,1872-07-20,NB,16,CITY OF ST. JOHN,370,"DE VEBER, J.S.B.",Unknown,166,Unknown,Unknown,f,1225,f,2
 2,1872-07-20,NB,17,GLOUCESTER,371,"ANGLIN, Timothy Warren",Liberal,75,Liberal,Lib,t,1436,f,1
@@ -50,20 +50,20 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 2,1872-07-20,NS,27,ANNAPOLIS,389,"RAY, William Hallett",Liberal,75,Liberal,Lib,t,1129,f,1
 2,1872-07-20,NS,27,ANNAPOLIS,390,"LONGLEY, A.",Conservative,37,Conservative,Con,t,1019,f,2
 2,1872-07-20,NS,28,ANTIGONISH,391,"MCDONALD, Hugh",Liberal-Conservative,124,Progressive Conservative Party,PC,t,,t,1
-2,1872-07-20,NS,29,CAPE BRETON-1,393,"MCDONALD, William",Conservative,37,Conservative,Con,t,1038,f,1
-2,1872-07-20,NS,29,CAPE BRETON-1,395,"MCKEAGNEY, James",Liberal-Conservative,124,Progressive Conservative Party,PC,t,882,f,2
-2,1872-07-20,NS,30,CAPE BRETON-2,392,"MACKAY, Newton L.",Conservative,37,Conservative,Con,t,1240,f,1
-2,1872-07-20,NS,30,CAPE BRETON-2,394,"MCLEOD, H.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,932,f,2
+2,1872-07-20,NS,29,CAPE BRETON-1,392,"MCDONALD, William",Conservative,37,Conservative,Con,t,1038,f,1
+2,1872-07-20,NS,29,CAPE BRETON-1,393,"MCKEAGNEY, James",Liberal-Conservative,124,Progressive Conservative Party,PC,t,882,f,2
+2,1872-07-20,NS,30,CAPE BRETON-2,394,"MACKAY, Newton L.",Conservative,37,Conservative,Con,t,1240,f,1
+2,1872-07-20,NS,30,CAPE BRETON-2,395,"MCLEOD, H.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,932,f,2
 2,1872-07-20,NS,31,COLCHESTER,396,"PEARSON, Frederick M.",Liberal,75,Liberal,Lib,t,1634,f,1
 2,1872-07-20,NS,31,COLCHESTER,397,"BLANCHARD, J.F.",Unknown,166,Unknown,Unknown,f,1209,f,2
 2,1872-07-20,NS,32,CUMBERLAND,398,"TUPPER, Hon. Charles",Conservative,37,Conservative,Con,t,1911,f,1
 2,1872-07-20,NS,32,CUMBERLAND,399,"MORSE, W.A.D.",Unknown,166,Unknown,Unknown,f,650,f,2
 2,1872-07-20,NS,33,DIGBY,400,"SAVARY, Alfred William",Conservative,37,Conservative,Con,t,,t,1
 2,1872-07-20,NS,34,GUYSBOROUGH,401,"CAMPBELL, Stewart",Liberal-Conservative,124,Progressive Conservative Party,PC,t,,t,1
-2,1872-07-20,NS,35,HALIFAX-1,403,"ALMON, William Johnston",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2528,f,1
-2,1872-07-20,NS,35,HALIFAX-1,405,"JONES,",Independent,52,Independent,Ind,f,2430,f,2
-2,1872-07-20,NS,36,HALIFAX-2,402,"TOBIN, Stephen",Liberal,75,Liberal,Lib,t,2486,f,1
-2,1872-07-20,NS,36,HALIFAX-2,404,"POWER,",Independent Liberal,58,Independent Liberal,IndLib,f,2452,f,2
+2,1872-07-20,NS,35,HALIFAX-1,402,"TOBIN, Stephen",Liberal,75,Liberal,Lib,t,2486,f,1
+2,1872-07-20,NS,35,HALIFAX-1,403,"JONES,",Independent,52,Independent,Ind,f,2430,f,2
+2,1872-07-20,NS,36,HALIFAX-2,404,"ALMON, William Johnston",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2528,f,1
+2,1872-07-20,NS,36,HALIFAX-2,405,"POWER,",Independent Liberal,58,Independent Liberal,IndLib,f,2452,f,2
 2,1872-07-20,NS,37,HANTS,406,"HOWE, Hon. Joseph",Liberal-Conservative,124,Progressive Conservative Party,PC,t,,t,1
 2,1872-07-20,NS,38,INVERNESS,407,"McDonnell, Samuel",Conservative,37,Conservative,Con,t,1293,f,1
 2,1872-07-20,NS,38,INVERNESS,408,"CAMERON, Dr.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1232,f,2
@@ -71,10 +71,10 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 2,1872-07-20,NS,39,KINGS,410,"WICKWIRE, J.L.",Unknown,166,Unknown,Unknown,f,713,f,2
 2,1872-07-20,NS,40,LUNENBURG,411,"CHURCH, Charles Edward",Liberal,75,Liberal,Lib,t,1338,f,1
 2,1872-07-20,NS,40,LUNENBURG,412,"OWENS, W.H.",Unknown,166,Unknown,Unknown,f,1205,f,2
-2,1872-07-20,NS,41,PICTOU-1,414,"MCDONALD, Hon. James",Conservative,37,Conservative,Con,t,2327,f,1
-2,1872-07-20,NS,41,PICTOU-1,416,"KITCHEN, J.",Unknown,166,Unknown,Unknown,f,2011,f,2
-2,1872-07-20,NS,42,PICTOU-2,413,"DOULL, Robert",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2328,f,1
-2,1872-07-20,NS,42,PICTOU-2,415,"CARMICHAEL, J.W.",Liberal,75,Liberal,Lib,t,2122,f,2
+2,1872-07-20,NS,41,PICTOU-1,413,"MCDONALD, Hon. James",Conservative,37,Conservative,Con,t,2327,f,1
+2,1872-07-20,NS,41,PICTOU-1,414,"KITCHEN, J.",Unknown,166,Unknown,Unknown,f,2011,f,2
+2,1872-07-20,NS,42,PICTOU-2,415,"DOULL, Robert",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2328,f,1
+2,1872-07-20,NS,42,PICTOU-2,416,"CARMICHAEL, J.W.",Liberal,75,Liberal,Lib,t,2122,f,2
 2,1872-07-20,NS,43,QUEENS,417,"FORBES, James F.",Liberal,75,Liberal,Lib,t,,t,1
 2,1872-07-20,NS,44,RICHMOND,418,"LE VESCONTE, Isaac",Conservative,37,Conservative,Con,t,571,f,1
 2,1872-07-20,NS,44,RICHMOND,419,"KAVANAGH,",Unknown,166,Unknown,Unknown,f,300,f,2
@@ -130,10 +130,10 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 2,1872-07-20,ON,71,HALDIMAND,469,"THOMSON, David",Liberal,75,Liberal,Lib,t,,t,1
 2,1872-07-20,ON,72,HALTON,470,"WHITE, John",Liberal,75,Liberal,Lib,t,1414,f,1
 2,1872-07-20,ON,72,HALTON,471,"MCKINDSEY, G.C.",Unknown,166,Unknown,Unknown,f,1278,f,2
-2,1872-07-20,ON,73,HAMILTON-1,473,"WITTON, Henry B.",Conservative-Labour,65,Labour,Labour,f,1422,f,1
-2,1872-07-20,ON,73,HAMILTON-1,475,"MAGILL,",Liberal,75,Liberal,Lib,t,1324,f,2
-2,1872-07-20,ON,74,HAMILTON-2,472,"CHISHOLM, Daniel B.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1443,f,1
-2,1872-07-20,ON,74,HAMILTON-2,474,"IRVING,",Liberal,75,Liberal,Lib,t,1346,f,2
+2,1872-07-20,ON,73,HAMILTON-1,472,"WITTON, Henry B.",Conservative-Labour,65,Labour,Labour,f,1422,f,1
+2,1872-07-20,ON,73,HAMILTON-1,473,"MAGILL,",Liberal,75,Liberal,Lib,t,1324,f,2
+2,1872-07-20,ON,74,HAMILTON-2,474,"CHISHOLM, Daniel B.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1443,f,1
+2,1872-07-20,ON,74,HAMILTON-2,475,"IRVING,",Liberal,75,Liberal,Lib,t,1346,f,2
 2,1872-07-20,ON,75,HASTINGS EAST,476,"WHITE, John",Conservative,37,Conservative,Con,t,818,f,1
 2,1872-07-20,ON,75,HASTINGS EAST,477,"FRIZZELL, W.",Unknown,166,Unknown,Unknown,f,774,f,2
 2,1872-07-20,ON,75,HASTINGS EAST,478,"HOLDEN, Ths.",Unknown,166,Unknown,Unknown,f,229,f,3
@@ -189,11 +189,11 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 2,1872-07-20,ON,100,NORTHUMBERLAND WEST,528,"COCKBURN, Hon. James",Conservative,37,Conservative,Con,t,,t,1
 2,1872-07-20,ON,101,ONTARIO NORTH,529,"GIBBS, William Henry",Conservative,37,Conservative,Con,t,1835,f,1
 2,1872-07-20,ON,101,ONTARIO NORTH,530,"THOMPSON, T.H.",Liberal,75,Liberal,Lib,t,1620,f,2
-2,1872-07-20,ON,102,ONTARIO SOUTH,533,"WHITE,",Unknown,166,Unknown,Unknown,f,,,1
-2,1872-07-20,ON,102,ONTARIO SOUTH,531,"GIBBS, Thomas Nicholson",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1466,f,2
-2,1872-07-20,ON,102,ONTARIO SOUTH,532,"TRUEMAN, P. White",Unknown,166,Unknown,Unknown,f,1373,f,3
-2,1872-07-20,ON,103,OTTAWA (CITY OF)-1,535,"CURRIER, Joseph Merrill",Liberal-Conservative,124,Progressive Conservative Party,PC,t,,t,1
-2,1872-07-20,ON,104,OTTAWA (CITY OF)-2,534,"LEWIS, John Bower",Conservative,37,Conservative,Con,t,,t,1
+2,1872-07-20,ON,102,ONTARIO SOUTH,531,"WHITE,",Unknown,166,Unknown,Unknown,f,,,1
+2,1872-07-20,ON,102,ONTARIO SOUTH,532,"GIBBS, Thomas Nicholson",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1466,f,2
+2,1872-07-20,ON,102,ONTARIO SOUTH,533,"TRUEMAN, P. White",Unknown,166,Unknown,Unknown,f,1373,f,3
+2,1872-07-20,ON,103,OTTAWA (CITY OF)-1,534,"CURRIER, Joseph Merrill",Liberal-Conservative,124,Progressive Conservative Party,PC,t,,t,1
+2,1872-07-20,ON,104,OTTAWA (CITY OF)-2,535,"LEWIS, John Bower",Conservative,37,Conservative,Con,t,,t,1
 2,1872-07-20,ON,105,OXFORD NORTH,536,"OLIVER, Thomas",Liberal,75,Liberal,Lib,t,,t,1
 2,1872-07-20,ON,106,OXFORD SOUTH,537,"BODWELL, Ebenezer Vining",Liberal,75,Liberal,Lib,t,,t,1
 2,1872-07-20,ON,107,PEEL,538,"SMITH, Robert",Liberal,75,Liberal,Lib,t,1261,f,1
@@ -242,8 +242,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 2,1872-07-20,ON,131,WENTWORTH SOUTH,581,"RYMAL, Joseph",Liberal,75,Liberal,Lib,t,1203,f,1
 2,1872-07-20,ON,131,WENTWORTH SOUTH,582,"BETHUNE, A.",Unknown,166,Unknown,Unknown,f,995,f,2
 2,1872-07-20,ON,132,WEST TORONTO,583,"CRAWFORD, John",Conservative,37,Conservative,Con,t,1043,f,1
-2,1872-07-20,ON,132,WEST TORONTO,585,"MCLELLAN,",Unknown,166,Unknown,Unknown,f,574,f,2
-2,1872-07-20,ON,132,WEST TORONTO,584,"CAPREOL,",Unknown,166,Unknown,Unknown,f,0,f,3
+2,1872-07-20,ON,132,WEST TORONTO,584,"MCLELLAN,",Unknown,166,Unknown,Unknown,f,574,f,2
+2,1872-07-20,ON,132,WEST TORONTO,585,"CAPREOL,",Unknown,166,Unknown,Unknown,f,0,f,3
 2,1872-07-20,ON,133,YORK EAST,586,"METCALFE, James",Liberal,75,Liberal,Lib,t,,t,1
 2,1872-07-20,ON,134,YORK NORTH,587,"DODGE, Anson Green Phelps",Conservative,37,Conservative,Con,t,1769,f,1
 2,1872-07-20,ON,134,YORK NORTH,588,"PARNHAM, J.",Unknown,166,Unknown,Unknown,f,1490,f,2
@@ -280,8 +280,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 2,1872-07-20,QC,150,DORCHESTER,619,"LANGEVIN, Hon. Hector Louis",Conservative,37,Conservative,Con,t,1044,f,1
 2,1872-07-20,QC,150,DORCHESTER,620,"MARCEAU, E.H.",Unknown,166,Unknown,Unknown,f,724,f,2
 2,1872-07-20,QC,151,DRUMMOND--ARTHABASKA,621,"DORION, Pierre-Nérée",Liberal,75,Liberal,Lib,t,1251,f,1
-2,1872-07-20,QC,151,DRUMMOND--ARTHABASKA,623,"TESSIER,",Unknown,166,Unknown,Unknown,f,1197,f,2
-2,1872-07-20,QC,151,DRUMMOND--ARTHABASKA,622,"GRIFFIN,",Unknown,166,Unknown,Unknown,f,95,f,3
+2,1872-07-20,QC,151,DRUMMOND--ARTHABASKA,622,"TESSIER,",Unknown,166,Unknown,Unknown,f,1197,f,2
+2,1872-07-20,QC,151,DRUMMOND--ARTHABASKA,623,"GRIFFIN,",Unknown,166,Unknown,Unknown,f,95,f,3
 2,1872-07-20,QC,152,GASPÉ,624,"FORTIN, Peter",Conservative,37,Conservative,Con,t,,t,1
 2,1872-07-20,QC,153,HOCHELAGA,625,"BEAUBIEN, Louis",Conservative,37,Conservative,Con,t,1800,f,1
 2,1872-07-20,QC,153,HOCHELAGA,626,"HUDON, V.",Unknown,166,Unknown,Unknown,f,1282,f,2
@@ -358,8 +358,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 2,1872-07-20,QC,195,THREE RIVERS,697,"MCDOUGALL, William",Conservative,37,Conservative,Con,t,,t,1
 2,1872-07-20,QC,196,TWO MOUNTAINS,698,"PRÉVOST, Wilfred",Liberal,75,Liberal,Lib,t,,t,1
 2,1872-07-20,QC,197,TÉMISCOUATA,699,"MAILLOUX, Élie",Conservative,37,Conservative,Con,t,1125,f,1
-2,1872-07-20,QC,197,TÉMISCOUATA,701,"BERTRAND, Charles",Unknown,166,Unknown,Unknown,f,17,f,2
-2,1872-07-20,QC,197,TÉMISCOUATA,700,"POULIOT, J.B.",Liberal,75,Liberal,Lib,t,2,f,3
+2,1872-07-20,QC,197,TÉMISCOUATA,700,"BERTRAND, Charles",Unknown,166,Unknown,Unknown,f,17,f,2
+2,1872-07-20,QC,197,TÉMISCOUATA,701,"POULIOT, J.B.",Liberal,75,Liberal,Lib,t,2,f,3
 2,1872-07-20,QC,198,VAUDREUIL,702,"HARWOOD, Robert",Liberal-Conservative,124,Progressive Conservative Party,PC,t,962,f,1
 2,1872-07-20,QC,198,VAUDREUIL,703,"GODARD,",Unknown,166,Unknown,Unknown,f,727,f,2
 2,1872-07-20,QC,199,VERCHÈRES,704,"GEOFFRION, Félix",Liberal,75,Liberal,Lib,t,963,f,1

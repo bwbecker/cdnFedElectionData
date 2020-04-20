@@ -142,8 +142,8 @@ election_id,prov_code,ed_id,ed_name,Con,Lib,Other,PC,1st,2nd,3rd
 11,ON,141,"YORK SOUTH",,,,,Other,Con,Lib
 11,PE,142,"KING'S",2672,2490,,,Con,Lib,Other
 11,PE,143,"PRINCE",3356,3520,,,Lib,Con,Other
-11,PE,144,"QUEEN'S-1",4113,4196,,,Lib,Con,Other
-11,PE,145,"QUEEN'S-2",4145,4290,,,Lib,Con,Other
+11,PE,144,"QUEEN'S-1",4113,4290,,,Lib,Con,Other
+11,PE,145,"QUEEN'S-2",4145,4196,,,Lib,Con,Other
 11,QC,146,"ARGENTEUIL",1587,1328,,,Con,Lib,Other
 11,QC,147,"BAGOT",1551,1884,,,Lib,Con,Other
 11,QC,148,"BEAUCE",183,4082,,,Lib,Con,Other

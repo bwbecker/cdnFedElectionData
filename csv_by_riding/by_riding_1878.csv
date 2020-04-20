@@ -2,8 +2,8 @@ election_id,prov_code,ed_id,ed_name,Con,Lib,Other,PC,1st,2nd,3rd
 4,BC,1,"CARIBOO",,,,,Other,Con,Lib
 4,BC,2,"NEW WESTMINSTER",,,687,,Other,Con,Lib
 4,BC,3,"VANCOUVER",,336,114,267,Lib,PC,Other
-4,BC,4,"VICTORIA-1",,,,896,PC,Other,Con
-4,BC,5,"VICTORIA-2",,538,480,,Lib,Other,Con
+4,BC,4,"VICTORIA-1",,538,,,Lib,Other,Con
+4,BC,5,"VICTORIA-2",,,480,896,PC,Other,Con
 4,BC,6,"YALE",,,,,Other,Con,Lib
 4,MB,7,"LISGAR",,,,,Other,Con,Lib
 4,MB,8,"MARQUETTE",,,,,Other,Con,Lib
@@ -12,8 +12,8 @@ election_id,prov_code,ed_id,ed_name,Con,Lib,Other,PC,1st,2nd,3rd
 4,NB,11,"ALBERT",,1280,558,,Lib,Other,Con
 4,NB,12,"CARLETON",,1447,1766,,Other,Lib,Con
 4,NB,13,"CHARLOTTE",,1522,,1284,Lib,PC,Other
-4,NB,14,"CITY AND COUNTY OF ST. JOHN-1",,4667,,,Lib,Other,Con
-4,NB,15,"CITY AND COUNTY OF ST. JOHN-2",,2449,2180,,Lib,Other,Con
+4,NB,14,"CITY AND COUNTY OF ST. JOHN-1",,2449,2180,,Lib,Other,Con
+4,NB,15,"CITY AND COUNTY OF ST. JOHN-2",,4667,,,Lib,Other,Con
 4,NB,16,"CITY OF ST. JOHN",,1466,,1475,PC,Lib,Other
 4,NB,17,"GLOUCESTER",,,,,Other,Con,Lib
 4,NB,18,"KENT",,1006,892,810,Lib,Other,PC
@@ -27,8 +27,8 @@ election_id,prov_code,ed_id,ed_name,Con,Lib,Other,PC,1st,2nd,3rd
 4,NB,26,"YORK",,,2324,,Other,Con,Lib
 4,NS,27,"ANNAPOLIS",1301,1298,,,Con,Lib,Other
 4,NS,28,"ANTIGONISH",,833,1017,,Other,Lib,Con
-4,NS,29,"CAPE BRETON-1",2051,1153,,,Con,Lib,Other
-4,NS,30,"CAPE BRETON-2",,,696,2056,PC,Other,Con
+4,NS,29,"CAPE BRETON-1",,1153,,2056,PC,Lib,Other
+4,NS,30,"CAPE BRETON-2",2051,,696,,Con,Other,Lib
 4,NS,31,"COLCHESTER",,,1453,1829,PC,Other,Con
 4,NS,32,"CUMBERLAND",2030,,1468,,Con,Other,Lib
 4,NS,33,"DIGBY",1019,,1001,,Con,Other,Lib
@@ -39,8 +39,8 @@ election_id,prov_code,ed_id,ed_name,Con,Lib,Other,PC,1st,2nd,3rd
 4,NS,38,"INVERNESS",,1284,739,1175,Lib,PC,Other
 4,NS,39,"KINGS",,1639,,1374,Lib,PC,Other
 4,NS,40,"LUNENBURG",1899,1173,,,Con,Lib,Other
-4,NS,41,"PICTOU-1",2747,2378,,,Con,Lib,Other
-4,NS,42,"PICTOU-2",,2433,,2681,PC,Lib,Other
+4,NS,41,"PICTOU-1",,2433,,2681,PC,Lib,Other
+4,NS,42,"PICTOU-2",2747,2378,,,Con,Lib,Other
 4,NS,43,"QUEENS",,637,,670,PC,Lib,Other
 4,NS,44,"RICHMOND",,666,552,,Lib,Other,Con
 4,NS,45,"SHELBURNE",,1164,899,,Lib,Other,Con
@@ -71,8 +71,8 @@ election_id,prov_code,ed_id,ed_name,Con,Lib,Other,PC,1st,2nd,3rd
 4,ON,70,"GREY SOUTH",,1082,,1163,PC,Lib,Other
 4,ON,71,"HALDIMAND",1400,1566,30,,Lib,Con,Other
 4,ON,72,"HALTON",,,1690,1708,PC,Other,Con
-4,ON,73,"HAMILTON-1",,4195,,,Lib,Other,Con
-4,ON,74,"HAMILTON-2",2252,2005,,,Con,Lib,Other
+4,ON,73,"HAMILTON-1",,4219,,,Lib,Other,Con
+4,ON,74,"HAMILTON-2",2252,1981,,,Con,Lib,Other
 4,ON,75,"HASTINGS EAST",1060,,1040,,Con,Other,Lib
 4,ON,76,"HASTINGS NORTH",1249,,1008,,Con,Other,Lib
 4,ON,77,"HASTINGS WEST",1306,1055,,,Con,Lib,Other
@@ -136,10 +136,10 @@ election_id,prov_code,ed_id,ed_name,Con,Lib,Other,PC,1st,2nd,3rd
 4,ON,135,"YORK WEST",1326,1124,,,Con,Lib,Other
 4,PE,136,"KING'S COUNTY-1",2077,,1251,,Con,Other,Lib
 4,PE,137,"KING'S COUNTY-2",,1499,,2264,PC,Lib,Other
-4,PE,138,"PRINCE COUNTY-1",,1716,1605,,Lib,Other,Con
-4,PE,139,"PRINCE COUNTY-2",,1491,,1655,PC,Lib,Other
-4,PE,140,"QUEEN'S COUNTY-1",3102,,2272,,Con,Other,Lib
-4,PE,141,"QUEEN'S COUNTY-2",3275,2392,,,Con,Lib,Other
+4,PE,138,"PRINCE COUNTY-1",,3207,,,Lib,Other,Con
+4,PE,139,"PRINCE COUNTY-2",,,1605,1655,PC,Other,Con
+4,PE,140,"QUEEN'S COUNTY-1",3102,2392,,,Con,Lib,Other
+4,PE,141,"QUEEN'S COUNTY-2",3275,,2272,,Con,Other,Lib
 4,QC,142,"ARGENTEUIL",,919,,830,Lib,PC,Other
 4,QC,143,"BAGOT",1387,,1226,,Con,Other,Lib
 4,QC,144,"BEAUCE",1523,,401,,Con,Other,Lib

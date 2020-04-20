@@ -19,11 +19,11 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 14,1921-12-06,AB,6,EDMONTON WEST,5545,"CAMPBELL, Robert Eldon",Conservative,37,Conservative,Con,t,4441,f,3
 14,1921-12-06,AB,7,LETHBRIDGE,5546,"JELLIFF, Lincoln Henry",Progressive,121,Progressive,Progressive,t,4961,f,1
 14,1921-12-06,AB,7,LETHBRIDGE,5547,"FINN, Martin Francis",Labour,65,Labour,Labour,f,3170,f,2
-14,1921-12-06,AB,7,LETHBRIDGE,5549,"BALL, William Sargent",Conservative,37,Conservative,Con,t,1328,f,3
-14,1921-12-06,AB,7,LETHBRIDGE,5548,"LOVERING, James Edward",Liberal,75,Liberal,Lib,t,615,f,4
+14,1921-12-06,AB,7,LETHBRIDGE,5548,"BALL, William Sargent",Conservative,37,Conservative,Con,t,1328,f,3
+14,1921-12-06,AB,7,LETHBRIDGE,5549,"LOVERING, James Edward",Liberal,75,Liberal,Lib,t,615,f,4
 14,1921-12-06,AB,8,MACLEOD,5550,"COOTE, George Gibson",Progressive,121,Progressive,Progressive,t,6086,f,1
-14,1921-12-06,AB,8,MACLEOD,5552,"SHAW, Hugh Murray",Conservative,37,Conservative,Con,t,1767,f,2
-14,1921-12-06,AB,8,MACLEOD,5551,"FAIRHURST, James",Labour,65,Labour,Labour,f,1407,f,3
+14,1921-12-06,AB,8,MACLEOD,5551,"SHAW, Hugh Murray",Conservative,37,Conservative,Con,t,1767,f,2
+14,1921-12-06,AB,8,MACLEOD,5552,"FAIRHURST, James",Labour,65,Labour,Labour,f,1407,f,3
 14,1921-12-06,AB,8,MACLEOD,5553,"GILLIS, Joseph E.",Liberal,75,Liberal,Lib,t,922,f,4
 14,1921-12-06,AB,9,MEDICINE HAT,5554,"GARDINER, Robert",Progressive,121,Progressive,Progressive,t,10295,f,1
 14,1921-12-06,AB,9,MEDICINE HAT,5555,"GERSHAW, Frederick",Liberal,75,Liberal,Lib,t,2698,f,2
@@ -132,12 +132,12 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 14,1921-12-06,NB,46,ROYAL,5658,"JONES, George B.",Conservative,37,Conservative,Con,t,5551,f,1
 14,1921-12-06,NB,46,ROYAL,5659,"MCALISTER, Duncan Hamilton",Liberal,75,Liberal,Lib,t,5434,f,2
 14,1921-12-06,NB,46,ROYAL,5660,"PERKINS, G. Harold",Independent,52,Independent,Ind,f,2663,f,3
-14,1921-12-06,NB,47,ST. JOHN--ALBERT-1,5662,"MACLAREN, Murray",Conservative,37,Conservative,Con,t,10901,f,1
-14,1921-12-06,NB,47,ST. JOHN--ALBERT-1,5664,"BRODERICK, William Patrick",Liberal,75,Liberal,Lib,t,9546,f,2
-14,1921-12-06,NB,47,ST. JOHN--ALBERT-1,5666,"CALHOUN, William Mayhew",Progressive,121,Progressive,Progressive,t,985,f,3
-14,1921-12-06,NB,48,ST. JOHN--ALBERT-2,5661,"BAXTER, Hon. John Babington",Conservative,37,Conservative,Con,t,11646,f,1
-14,1921-12-06,NB,48,ST. JOHN--ALBERT-2,5663,"MCLELLAN, Harry Richards",Liberal,75,Liberal,Lib,t,10531,f,2
-14,1921-12-06,NB,48,ST. JOHN--ALBERT-2,5665,"CAMPBELL, Frederick Alexander",Labour,65,Labour,Labour,f,1224,f,3
+14,1921-12-06,NB,47,ST. JOHN--ALBERT-1,5661,"MACLAREN, Murray",Conservative,37,Conservative,Con,t,10901,f,1
+14,1921-12-06,NB,47,ST. JOHN--ALBERT-1,5662,"BRODERICK, William Patrick",Liberal,75,Liberal,Lib,t,9546,f,2
+14,1921-12-06,NB,47,ST. JOHN--ALBERT-1,5663,"CALHOUN, William Mayhew",Progressive,121,Progressive,Progressive,t,985,f,3
+14,1921-12-06,NB,48,ST. JOHN--ALBERT-2,5664,"BAXTER, Hon. John Babington",Conservative,37,Conservative,Con,t,11646,f,1
+14,1921-12-06,NB,48,ST. JOHN--ALBERT-2,5665,"MCLELLAN, Harry Richards",Liberal,75,Liberal,Lib,t,10531,f,2
+14,1921-12-06,NB,48,ST. JOHN--ALBERT-2,5666,"CAMPBELL, Frederick Alexander",Labour,65,Labour,Labour,f,1224,f,3
 14,1921-12-06,NB,49,VICTORIA--CARLETON,5667,"CALDWELL, Thomas Wakem",Progressive,121,Progressive,Progressive,t,6413,f,1
 14,1921-12-06,NB,49,VICTORIA--CARLETON,5668,"SMITH, Benjamin Franklin",Conservative,37,Conservative,Con,t,5361,f,2
 14,1921-12-06,NB,50,WESTMORLAND,5669,"COPP, Arthur Bliss",Liberal,75,Liberal,Lib,t,12646,f,1
@@ -148,12 +148,12 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 14,1921-12-06,NS,52,ANTIGONISH--GUYSBOROUGH,5674,"MCISAAC, Colin F.",Liberal,75,Liberal,Lib,t,6752,f,1
 14,1921-12-06,NS,52,ANTIGONISH--GUYSBOROUGH,5675,"MCNEIL, Walter",Conservative,37,Conservative,Con,t,3356,f,2
 14,1921-12-06,NS,52,ANTIGONISH--GUYSBOROUGH,5676,"MCISAAC, Daniel Alphonsus",Progressive,121,Progressive,Progressive,t,1553,f,3
-14,1921-12-06,NS,53,CAPE BRETON SOUTH AND RICHMOND-1,5678,"KYTE, George William",Liberal,75,Liberal,Lib,t,10387,f,1
-14,1921-12-06,NS,53,CAPE BRETON SOUTH AND RICHMOND-1,5680,"DOYLE, Edward Charles",Progressive,121,Progressive,Progressive,t,7884,f,2
-14,1921-12-06,NS,53,CAPE BRETON SOUTH AND RICHMOND-1,5682,"MCLELLAN, Robert S.",Conservative,37,Conservative,Con,t,6075,f,3
-14,1921-12-06,NS,54,CAPE BRETON SOUTH AND RICHMOND-2,5677,"CARROLL, William F.",Liberal,75,Liberal,Lib,t,10524,f,1
-14,1921-12-06,NS,54,CAPE BRETON SOUTH AND RICHMOND-2,5679,"MACLACHLAN, James Bryson",Progressive,121,Progressive,Progressive,t,8914,f,2
-14,1921-12-06,NS,54,CAPE BRETON SOUTH AND RICHMOND-2,5681,"DOUGLAS, John Carey",Conservative,37,Conservative,Con,t,7694,f,3
+14,1921-12-06,NS,53,CAPE BRETON SOUTH AND RICHMOND-1,5677,"KYTE, George William",Liberal,75,Liberal,Lib,t,10387,f,1
+14,1921-12-06,NS,53,CAPE BRETON SOUTH AND RICHMOND-1,5678,"DOYLE, Edward Charles",Progressive,121,Progressive,Progressive,t,7884,f,2
+14,1921-12-06,NS,53,CAPE BRETON SOUTH AND RICHMOND-1,5679,"MCLELLAN, Robert S.",Conservative,37,Conservative,Con,t,6075,f,3
+14,1921-12-06,NS,54,CAPE BRETON SOUTH AND RICHMOND-2,5680,"CARROLL, William F.",Liberal,75,Liberal,Lib,t,10524,f,1
+14,1921-12-06,NS,54,CAPE BRETON SOUTH AND RICHMOND-2,5681,"MACLACHLAN, James Bryson",Progressive,121,Progressive,Progressive,t,8914,f,2
+14,1921-12-06,NS,54,CAPE BRETON SOUTH AND RICHMOND-2,5682,"DOUGLAS, John Carey",Conservative,37,Conservative,Con,t,7694,f,3
 14,1921-12-06,NS,55,COLCHESTER,5683,"PUTNAM, Harold",Liberal,75,Liberal,Lib,t,5888,f,1
 14,1921-12-06,NS,55,COLCHESTER,5684,"MCCURDY, Hon. Fleming Blanchard",Conservative,37,Conservative,Con,t,5562,f,2
 14,1921-12-06,NS,56,CUMBERLAND,5685,"LOGAN, Hance James",Liberal,75,Liberal,Lib,t,9762,f,1
@@ -161,12 +161,12 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 14,1921-12-06,NS,56,CUMBERLAND,5687,"MACKINNON, James Anderson",Progressive,121,Progressive,Progressive,t,3094,f,3
 14,1921-12-06,NS,57,DIGBY AND ANNAPOLIS,5688,"LOVETT, Lewis Johnstone",Liberal,75,Liberal,Lib,t,7388,f,1
 14,1921-12-06,NS,57,DIGBY AND ANNAPOLIS,5689,"DAVIDSON, Avard Longley",Conservative,37,Conservative,Con,t,5153,f,2
-14,1921-12-06,NS,58,HALIFAX-1,5691,"MACLEAN, Alexander Kenneth",Liberal,75,Liberal,Lib,t,15892,f,1
-14,1921-12-06,NS,58,HALIFAX-1,5693,"DOYLE, James Wilfred",Conservative,37,Conservative,Con,t,9537,f,2
-14,1921-12-06,NS,58,HALIFAX-1,5695,"WALLACE, Joseph Sylvester",Labour,65,Labour,Labour,f,3763,f,3
-14,1921-12-06,NS,59,HALIFAX-2,5690,"BLACKADDER, Edward",Liberal,75,Liberal,Lib,t,16157,f,1
-14,1921-12-06,NS,59,HALIFAX-2,5692,"MCINNES, Hector",Conservative,37,Conservative,Con,t,11016,f,2
-14,1921-12-06,NS,59,HALIFAX-2,5694,"HAWKINS, Arthur Charles",Labour,65,Labour,Labour,f,4141,f,3
+14,1921-12-06,NS,58,HALIFAX-1,5690,"MACLEAN, Alexander Kenneth",Liberal,75,Liberal,Lib,t,15892,f,1
+14,1921-12-06,NS,58,HALIFAX-1,5691,"DOYLE, James Wilfred",Conservative,37,Conservative,Con,t,9537,f,2
+14,1921-12-06,NS,58,HALIFAX-1,5692,"WALLACE, Joseph Sylvester",Labour,65,Labour,Labour,f,3763,f,3
+14,1921-12-06,NS,59,HALIFAX-2,5693,"BLACKADDER, Edward",Liberal,75,Liberal,Lib,t,16157,f,1
+14,1921-12-06,NS,59,HALIFAX-2,5694,"MCINNES, Hector",Conservative,37,Conservative,Con,t,11016,f,2
+14,1921-12-06,NS,59,HALIFAX-2,5695,"HAWKINS, Arthur Charles",Labour,65,Labour,Labour,f,4141,f,3
 14,1921-12-06,NS,60,HANTS,5696,"MARTELL, Lewis Herbert",Liberal,75,Liberal,Lib,t,4027,f,1
 14,1921-12-06,NS,60,HANTS,5697,"PARSONS, Albert",Conservative,37,Conservative,Con,t,3795,f,2
 14,1921-12-06,NS,60,HANTS,5698,"KENDALL, Henry Ernest",Progressive,121,Progressive,Progressive,t,993,f,3
@@ -310,30 +310,30 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 14,1921-12-06,ON,112,ONTARIO SOUTH,5836,"CLIFFORD, Lawson Omar",Liberal,75,Liberal,Lib,t,5102,f,1
 14,1921-12-06,ON,112,ONTARIO SOUTH,5837,"SMITH, Hon. William",Conservative,37,Conservative,Con,t,4923,f,2
 14,1921-12-06,ON,112,ONTARIO SOUTH,5838,"CHAPMAN, Frank Mackenzie",Progressive,121,Progressive,Progressive,t,3102,f,3
-14,1921-12-06,ON,113,OTTAWA (CITY OF)-1,5840,"CHEVRIER, Edgar Rodolphe Eugèn",Liberal,75,Liberal,Lib,t,21107,f,1
-14,1921-12-06,ON,113,OTTAWA (CITY OF)-1,5842,"CHAMPAGNE, Napoléon",Conservative,37,Conservative,Con,t,15450,f,2
-14,1921-12-06,ON,113,OTTAWA (CITY OF)-1,5844,"BOURQUE, Edmond",Progressive,121,Progressive,Progressive,t,4444,f,3
-14,1921-12-06,ON,114,OTTAWA (CITY OF)-2,5839,"MCGIVERIN, Harold Buchanan",Liberal,75,Liberal,Lib,t,22087,f,1
-14,1921-12-06,ON,114,OTTAWA (CITY OF)-2,5841,"FRIPP, Alfred Ernest",Conservative,37,Conservative,Con,t,15829,f,2
-14,1921-12-06,ON,114,OTTAWA (CITY OF)-2,5843,"LOUGHNAN, David",Progressive,121,Progressive,Progressive,t,5302,f,3
+14,1921-12-06,ON,113,OTTAWA (CITY OF)-1,5839,"CHEVRIER, Edgar Rodolphe Eugèn",Liberal,75,Liberal,Lib,t,21107,f,1
+14,1921-12-06,ON,113,OTTAWA (CITY OF)-1,5840,"CHAMPAGNE, Napoléon",Conservative,37,Conservative,Con,t,15450,f,2
+14,1921-12-06,ON,113,OTTAWA (CITY OF)-1,5841,"BOURQUE, Edmond",Progressive,121,Progressive,Progressive,t,4444,f,3
+14,1921-12-06,ON,114,OTTAWA (CITY OF)-2,5842,"MCGIVERIN, Harold Buchanan",Liberal,75,Liberal,Lib,t,22087,f,1
+14,1921-12-06,ON,114,OTTAWA (CITY OF)-2,5843,"FRIPP, Alfred Ernest",Conservative,37,Conservative,Con,t,15829,f,2
+14,1921-12-06,ON,114,OTTAWA (CITY OF)-2,5844,"LOUGHNAN, David",Progressive,121,Progressive,Progressive,t,5302,f,3
 14,1921-12-06,ON,115,OXFORD NORTH,5845,"SINCLAIR, Duncan James",Liberal,75,Liberal,Lib,t,4213,f,1
 14,1921-12-06,ON,115,OXFORD NORTH,5846,"NESBITT, Edward Walter",Conservative,37,Conservative,Con,t,4053,f,2
 14,1921-12-06,ON,115,OXFORD NORTH,5847,"LILLICO, John Hugh",Progressive,121,Progressive,Progressive,t,3857,f,3
 14,1921-12-06,ON,116,OXFORD SOUTH,5848,"SUTHERLAND, Donald",Conservative,37,Conservative,Con,t,4476,f,1
-14,1921-12-06,ON,116,OXFORD SOUTH,5850,"HALEY, Martin Lee",Progressive,121,Progressive,Progressive,t,3597,f,2
-14,1921-12-06,ON,116,OXFORD SOUTH,5849,"DEAN, Matthew",Liberal,75,Liberal,Lib,t,3135,f,3
+14,1921-12-06,ON,116,OXFORD SOUTH,5849,"HALEY, Martin Lee",Progressive,121,Progressive,Progressive,t,3597,f,2
+14,1921-12-06,ON,116,OXFORD SOUTH,5850,"DEAN, Matthew",Liberal,75,Liberal,Lib,t,3135,f,3
 14,1921-12-06,ON,117,PARKDALE,5851,"SPENCE, David",Conservative,37,Conservative,Con,t,10705,f,1
 14,1921-12-06,ON,117,PARKDALE,5852,"DOUGLAS, William",Liberal,75,Liberal,Lib,t,5487,f,2
 14,1921-12-06,ON,117,PARKDALE,5853,"SIMPSON, James",Labour,65,Labour,Labour,f,2723,f,3
 14,1921-12-06,ON,118,PARRY SOUND,5854,"ARTHURS, James",Conservative,37,Conservative,Con,t,3229,f,1
-14,1921-12-06,ON,118,PARRY SOUND,5856,"MASON, William Robert",Independent,52,Independent,Ind,f,3157,f,2
-14,1921-12-06,ON,118,PARRY SOUND,5855,"PARTRIDGE, Augustus Wellington",Progressive,121,Progressive,Progressive,t,2784,f,3
+14,1921-12-06,ON,118,PARRY SOUND,5855,"MASON, William Robert",Independent,52,Independent,Ind,f,3157,f,2
+14,1921-12-06,ON,118,PARRY SOUND,5856,"PARTRIDGE, Augustus Wellington",Progressive,121,Progressive,Progressive,t,2784,f,3
 14,1921-12-06,ON,119,PEEL,5857,"CHARTERS, Samuel",Conservative,37,Conservative,Con,t,4892,f,1
 14,1921-12-06,ON,119,PEEL,5858,"LOWE, William James",Liberal,75,Liberal,Lib,t,3732,f,2
 14,1921-12-06,ON,119,PEEL,5859,"TAYLOR, Herbert J.W.",Progressive,121,Progressive,Progressive,t,3350,f,3
 14,1921-12-06,ON,120,PERTH NORTH,5860,"RANKIN, James Palmer",Liberal,75,Liberal,Lib,t,6030,f,1
-14,1921-12-06,ON,120,PERTH NORTH,5862,"MORPHY, Hugh Boulton",Conservative,37,Conservative,Con,t,5274,f,2
-14,1921-12-06,ON,120,PERTH NORTH,5861,"AMOS, William Andrew",Progressive,121,Progressive,Progressive,t,3425,f,3
+14,1921-12-06,ON,120,PERTH NORTH,5861,"MORPHY, Hugh Boulton",Conservative,37,Conservative,Con,t,5274,f,2
+14,1921-12-06,ON,120,PERTH NORTH,5862,"AMOS, William Andrew",Progressive,121,Progressive,Progressive,t,3425,f,3
 14,1921-12-06,ON,121,PERTH SOUTH,5863,"FORRESTER, William",Liberal,75,Liberal,Lib,t,3209,f,1
 14,1921-12-06,ON,121,PERTH SOUTH,5864,"STEELE, Michael",Conservative,37,Conservative,Con,t,2948,f,2
 14,1921-12-06,ON,121,PERTH SOUTH,5865,"BERRY, Robert",Progressive,121,Progressive,Progressive,t,2908,f,3
@@ -369,9 +369,9 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 14,1921-12-06,ON,132,SIMCOE SOUTH,5895,"BOYS, William Alves",Conservative,37,Conservative,Con,t,6509,f,1
 14,1921-12-06,ON,132,SIMCOE SOUTH,5896,"JEFFS, Compton Barker",Progressive,121,Progressive,Progressive,t,4758,f,2
 14,1921-12-06,ON,133,TIMISKAMING,5897,"MCDONALD, Angus",Independent,52,Independent,Ind,f,5797,f,1
-14,1921-12-06,ON,133,TIMISKAMING,5899,"MCEACHREN, Donald",Liberal,75,Liberal,Lib,t,5703,f,2
-14,1921-12-06,ON,133,TIMISKAMING,5900,"KENNEDY, Angus John",Conservative,37,Conservative,Con,t,5130,f,3
-14,1921-12-06,ON,133,TIMISKAMING,5898,"BERTRAND, David",Independent,52,Independent,Ind,f,197,f,4
+14,1921-12-06,ON,133,TIMISKAMING,5898,"MCEACHREN, Donald",Liberal,75,Liberal,Lib,t,5703,f,2
+14,1921-12-06,ON,133,TIMISKAMING,5899,"KENNEDY, Angus John",Conservative,37,Conservative,Con,t,5130,f,3
+14,1921-12-06,ON,133,TIMISKAMING,5900,"BERTRAND, David",Independent,52,Independent,Ind,f,197,f,4
 14,1921-12-06,ON,134,TORONTO CENTRE,5901,"BRISTOL, Edmund",Conservative,37,Conservative,Con,t,5985,f,1
 14,1921-12-06,ON,134,TORONTO CENTRE,5902,"MCEACHREN, Norman Charles",Liberal,75,Liberal,Lib,t,5123,f,2
 14,1921-12-06,ON,135,TORONTO EAST,5903,"RYCKMAN, Edmond Baird",Conservative,37,Conservative,Con,t,5392,f,1
@@ -422,12 +422,12 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 14,1921-12-06,PE,151,PRINCE,5948,"MACLEAN, Alfred E.",Liberal,75,Liberal,Lib,t,5930,f,1
 14,1921-12-06,PE,151,PRINCE,5949,"MCNEIL, James A.",Conservative,37,Conservative,Con,t,4671,f,2
 14,1921-12-06,PE,151,PRINCE,5950,"WRIGHT, Horace",Progressive,121,Progressive,Progressive,t,2693,f,3
-14,1921-12-06,PE,152,QUEEN'S-1,5952,"MACKINNON, Duncan Alexander",Liberal,75,Liberal,Lib,t,6824,f,1
-14,1921-12-06,PE,152,QUEEN'S-1,5954,"MCKINNON, Donald",Conservative,37,Conservative,Con,t,5808,f,2
-14,1921-12-06,PE,152,QUEEN'S-1,5956,"JONES, John Walter",Progressive,121,Progressive,Progressive,t,1883,f,3
-14,1921-12-06,PE,153,QUEEN'S-2,5951,"SINCLAIR, John Ewen",Liberal,75,Liberal,Lib,t,7367,f,1
-14,1921-12-06,PE,153,QUEEN'S-2,5953,"MYERS, John Howard",Conservative,37,Conservative,Con,t,6017,f,2
-14,1921-12-06,PE,153,QUEEN'S-2,5955,"BROWN, Picton Simons",Labour,65,Labour,Labour,f,2537,f,3
+14,1921-12-06,PE,152,QUEEN'S-1,5951,"MACKINNON, Duncan Alexander",Liberal,75,Liberal,Lib,t,6824,f,1
+14,1921-12-06,PE,152,QUEEN'S-1,5952,"MCKINNON, Donald",Conservative,37,Conservative,Con,t,5808,f,2
+14,1921-12-06,PE,152,QUEEN'S-1,5953,"JONES, John Walter",Progressive,121,Progressive,Progressive,t,1883,f,3
+14,1921-12-06,PE,153,QUEEN'S-2,5954,"SINCLAIR, John Ewen",Liberal,75,Liberal,Lib,t,7367,f,1
+14,1921-12-06,PE,153,QUEEN'S-2,5955,"MYERS, John Howard",Conservative,37,Conservative,Con,t,6017,f,2
+14,1921-12-06,PE,153,QUEEN'S-2,5956,"BROWN, Picton Simons",Labour,65,Labour,Labour,f,2537,f,3
 14,1921-12-06,QC,154,ARGENTEUIL,5957,"MCGIBBON, Peter Robert",Liberal,75,Liberal,Lib,t,3674,f,1
 14,1921-12-06,QC,154,ARGENTEUIL,5958,"CHRISTIE, Thomas",Conservative,37,Conservative,Con,t,2819,f,2
 14,1921-12-06,QC,154,ARGENTEUIL,5959,"ARNOLD, James Elijah",Progressive,121,Progressive,Progressive,t,755,f,3
@@ -457,8 +457,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 14,1921-12-06,QC,165,CHICOUTIMI--SAGUENAY,5983,"GIRARD, Joseph",Conservative,37,Conservative,Con,t,4728,f,2
 14,1921-12-06,QC,165,CHICOUTIMI--SAGUENAY,5984,"LAPOINTE, Simon",Independent,52,Independent,Ind,f,2975,f,3
 14,1921-12-06,QC,166,CHÂTEAUGUAY--HUNTINGDON,5985,"ROBB, James Alexander",Liberal,75,Liberal,Lib,t,5915,f,1
-14,1921-12-06,QC,166,CHÂTEAUGUAY--HUNTINGDON,5987,"MCARTHUR, Peter Daniel",Labour,65,Labour,Labour,f,4061,f,2
-14,1921-12-06,QC,166,CHÂTEAUGUAY--HUNTINGDON,5986,"BEGIN, Joseph",Progressive,121,Progressive,Progressive,t,548,f,3
+14,1921-12-06,QC,166,CHÂTEAUGUAY--HUNTINGDON,5986,"MCARTHUR, Peter Daniel",Labour,65,Labour,Labour,f,4061,f,2
+14,1921-12-06,QC,166,CHÂTEAUGUAY--HUNTINGDON,5987,"BEGIN, Joseph",Progressive,121,Progressive,Progressive,t,548,f,3
 14,1921-12-06,QC,167,COMPTON,5988,"HUNT, Aylmer Byron",Liberal,75,Liberal,Lib,t,7866,f,1
 14,1921-12-06,QC,167,COMPTON,5989,"CROMWELL, Frederick Robert",Conservative,37,Conservative,Con,t,3961,f,2
 14,1921-12-06,QC,168,DORCHESTER,5990,"CANNON, Lucien",Liberal,75,Liberal,Lib,t,5744,f,1
@@ -470,8 +470,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 14,1921-12-06,QC,170,GASPÉ,5996,"LEMIEUX, Hon. Rodolphe",Liberal,75,Liberal,Lib,t,9728,f,1
 14,1921-12-06,QC,170,GASPÉ,5997,"SIROIS, Joseph Ernest",Conservative,37,Conservative,Con,t,2267,f,2
 14,1921-12-06,QC,171,GEORGE-ÉTIENNE CARTIER,5998,"JACOBS, Samuel William",Liberal,75,Liberal,Lib,t,7790,f,1
-14,1921-12-06,QC,171,GEORGE-ÉTIENNE CARTIER,6000,"CARTIER, Joseph Ovila",Independent,52,Independent,Ind,f,3519,f,2
-14,1921-12-06,QC,171,GEORGE-ÉTIENNE CARTIER,5999,"BUHAY, Michael",Independent,52,Independent,Ind,f,1522,f,3
+14,1921-12-06,QC,171,GEORGE-ÉTIENNE CARTIER,5999,"CARTIER, Joseph Ovila",Independent,52,Independent,Ind,f,3519,f,2
+14,1921-12-06,QC,171,GEORGE-ÉTIENNE CARTIER,6000,"BUHAY, Michael",Independent,52,Independent,Ind,f,1522,f,3
 14,1921-12-06,QC,171,GEORGE-ÉTIENNE CARTIER,6001,"CHOLETTE, Henri Arthur",Conservative,37,Conservative,Con,t,854,f,4
 14,1921-12-06,QC,171,GEORGE-ÉTIENNE CARTIER,6002,"MAILLE, Louis Omnes",Independent,52,Independent,Ind,f,109,f,5
 14,1921-12-06,QC,172,HOCHELAGA,6003,"ST-PÈRE, Édouard Charles",Liberal,75,Liberal,Lib,t,20164,f,1
@@ -488,13 +488,13 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 14,1921-12-06,QC,176,KAMOURASKA,6014,"LANGLAIS, Joseph",Independent,52,Independent,Ind,f,2483,f,2
 14,1921-12-06,QC,177,L'ASSOMPTION--MONTCALM,6015,"SÉGUIN, Paul-Arthur",Liberal,75,Liberal,Lib,t,7408,f,1
 14,1921-12-06,QC,177,L'ASSOMPTION--MONTCALM,6016,"FOREST, Alfred",Conservative,37,Conservative,Con,t,1626,f,2
-14,1921-12-06,QC,177,L'ASSOMPTION--MONTCALM,6018,"THOUIN, Louis",Independent,52,Independent,Ind,f,600,f,3
-14,1921-12-06,QC,177,L'ASSOMPTION--MONTCALM,6017,"VIRONNEAU, Louis Henry",Unknown,166,Unknown,Unknown,f,114,f,4
+14,1921-12-06,QC,177,L'ASSOMPTION--MONTCALM,6017,"THOUIN, Louis",Independent,52,Independent,Ind,f,600,f,3
+14,1921-12-06,QC,177,L'ASSOMPTION--MONTCALM,6018,"VIRONNEAU, Louis Henry",Unknown,166,Unknown,Unknown,f,114,f,4
 14,1921-12-06,QC,178,L'ISLET,6019,"FAFARD, Joseph-Fernand",Liberal,75,Liberal,Lib,t,3720,f,1
 14,1921-12-06,QC,178,L'ISLET,6020,"PAQUET, Eugène",Conservative,37,Conservative,Con,t,2132,f,2
 14,1921-12-06,QC,179,LABELLE,6021,"FORTIER, Hyacinthe-Adélard",Liberal,75,Liberal,Lib,t,7391,f,1
-14,1921-12-06,QC,179,LABELLE,6023,"LACHANCE, Jean",Progressive,121,Progressive,Progressive,t,2893,f,2
-14,1921-12-06,QC,179,LABELLE,6022,"MÉNARD, Marc-Azarie",Independent,52,Independent,Ind,f,124,f,3
+14,1921-12-06,QC,179,LABELLE,6022,"LACHANCE, Jean",Progressive,121,Progressive,Progressive,t,2893,f,2
+14,1921-12-06,QC,179,LABELLE,6023,"MÉNARD, Marc-Azarie",Independent,52,Independent,Ind,f,124,f,3
 14,1921-12-06,QC,180,LAPRAIRIE--NAPIERVILLE,6024,"LANCTOT, Roch",Liberal,75,Liberal,Lib,t,4458,f,1
 14,1921-12-06,QC,180,LAPRAIRIE--NAPIERVILLE,6025,"CORNELLIER, Louis Moïse",Conservative,37,Conservative,Con,t,1213,f,2
 14,1921-12-06,QC,181,LAURIER--OUTREMONT,6026,"GOUIN, Sir Lomer",Liberal,75,Liberal,Lib,t,15341,f,1
@@ -524,11 +524,11 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 14,1921-12-06,QC,191,NICOLET,6050,"TRAHAN, Arthur",Liberal,75,Liberal,Lib,t,8298,f,1
 14,1921-12-06,QC,191,NICOLET,6051,"PROULX, Fortunat",Progressive,121,Progressive,Progressive,t,2271,f,2
 14,1921-12-06,QC,192,PONTIAC,6052,"CAHILL, Frank S.",Liberal,75,Liberal,Lib,t,11077,f,1
-14,1921-12-06,QC,192,PONTIAC,6054,"CAMPBELL, George Benjamin",Conservative,37,Conservative,Con,t,3800,f,2
-14,1921-12-06,QC,192,PONTIAC,6053,"LANDON, George A.",Progressive,121,Progressive,Progressive,t,1760,f,3
+14,1921-12-06,QC,192,PONTIAC,6053,"CAMPBELL, George Benjamin",Conservative,37,Conservative,Con,t,3800,f,2
+14,1921-12-06,QC,192,PONTIAC,6054,"LANDON, George A.",Progressive,121,Progressive,Progressive,t,1760,f,3
 14,1921-12-06,QC,193,PORTNEUF,6055,"DELISLE, Michel-Siméon",Liberal,75,Liberal,Lib,t,9021,f,1
-14,1921-12-06,QC,193,PORTNEUF,6057,"DUCHARME, C.-Romulus",Conservative,37,Conservative,Con,t,1475,f,2
-14,1921-12-06,QC,193,PORTNEUF,6056,"FAFARD, J. Quetton",Progressive,121,Progressive,Progressive,t,665,f,3
+14,1921-12-06,QC,193,PORTNEUF,6056,"DUCHARME, C.-Romulus",Conservative,37,Conservative,Con,t,1475,f,2
+14,1921-12-06,QC,193,PORTNEUF,6057,"FAFARD, J. Quetton",Progressive,121,Progressive,Progressive,t,665,f,3
 14,1921-12-06,QC,194,QUEBEC COUNTY,6058,"LAVIGUEUR, Henri Edgar",Liberal,75,Liberal,Lib,t,6843,f,1
 14,1921-12-06,QC,194,QUEBEC COUNTY,6059,"LAVERGNE, Armand",Independent,52,Independent,Ind,f,4547,f,2
 14,1921-12-06,QC,195,QUEBEC EAST,6060,"LAPOINTE, Ernest",Liberal,75,Liberal,Lib,t,9005,f,1
@@ -564,8 +564,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 14,1921-12-06,QC,208,ST. JOHNS--IBERVILLE,6090,"DEMERS, Marie-Joseph",Liberal,75,Liberal,Lib,t,6618,f,1
 14,1921-12-06,QC,208,ST. JOHNS--IBERVILLE,6091,"MAILLOUX, Victor",Conservative,37,Conservative,Con,t,460,f,2
 14,1921-12-06,QC,209,ST. LAWRENCE--ST. GEORGE,6092,"MARLER, Herbert",Liberal,75,Liberal,Lib,t,7836,f,1
-14,1921-12-06,QC,209,ST. LAWRENCE--ST. GEORGE,6094,"BALLANTYNE, Hon. Charles Colquhoun",Conservative,37,Conservative,Con,t,5275,f,2
-14,1921-12-06,QC,209,ST. LAWRENCE--ST. GEORGE,6093,"HENDERSON, Rose Mary Louise",Labour,65,Labour,Labour,f,510,f,3
+14,1921-12-06,QC,209,ST. LAWRENCE--ST. GEORGE,6093,"BALLANTYNE, Hon. Charles Colquhoun",Conservative,37,Conservative,Con,t,5275,f,2
+14,1921-12-06,QC,209,ST. LAWRENCE--ST. GEORGE,6094,"HENDERSON, Rose Mary Louise",Labour,65,Labour,Labour,f,510,f,3
 14,1921-12-06,QC,210,ST. MARY,6095,"DESLAURIERS, Hermas",Liberal,75,Liberal,Lib,t,15262,f,1
 14,1921-12-06,QC,210,ST. MARY,6096,"GERMAIN, Augustin",Independent,52,Independent,Ind,f,4505,f,2
 14,1921-12-06,QC,210,ST. MARY,6097,"JULIEN, Herman",Conservative,37,Conservative,Con,t,799,f,3
@@ -576,8 +576,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 14,1921-12-06,QC,213,THREE RIVERS AND ST. MAURICE,6102,"BUREAU, Hon. Jacques",Liberal,75,Liberal,Lib,t,13995,f,1
 14,1921-12-06,QC,213,THREE RIVERS AND ST. MAURICE,6103,"NORMAND, Hon. Louis-Philippe",Conservative,37,Conservative,Con,t,6688,f,2
 14,1921-12-06,QC,214,TÉMISCOUATA,6104,"GAUVREAU, Charles-Arthur",Liberal,75,Liberal,Lib,t,5625,f,1
-14,1921-12-06,QC,214,TÉMISCOUATA,6106,"POULIOT, Jean-François",Independent,52,Independent,Ind,f,4833,f,2
-14,1921-12-06,QC,214,TÉMISCOUATA,6105,"CARON, Nelson",Conservative,37,Conservative,Con,t,3336,f,3
+14,1921-12-06,QC,214,TÉMISCOUATA,6105,"POULIOT, Jean-François",Independent,52,Independent,Ind,f,4833,f,2
+14,1921-12-06,QC,214,TÉMISCOUATA,6106,"CARON, Nelson",Conservative,37,Conservative,Con,t,3336,f,3
 14,1921-12-06,QC,215,VAUDREUIL--SOULANGES,6107,"BOYER, Gustave",Liberal,75,Liberal,Lib,t,5366,f,1
 14,1921-12-06,QC,215,VAUDREUIL--SOULANGES,6108,"PHARAND, Adrien",Independent,52,Independent,Ind,f,2787,f,2
 14,1921-12-06,QC,215,VAUDREUIL--SOULANGES,6109,"CHARLEBOIS, Julien",Progressive,121,Progressive,Progressive,t,293,f,3
@@ -607,14 +607,14 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 14,1921-12-06,SK,225,MAPLE CREEK,6133,"MCTAGGART, Neil Hamon",Progressive,121,Progressive,Progressive,t,13344,f,1
 14,1921-12-06,SK,225,MAPLE CREEK,6134,"WYLIE, David James",Conservative,37,Conservative,Con,t,3672,f,2
 14,1921-12-06,SK,226,MOOSE JAW,6135,"JOHNSON, Robert Milton",Progressive,121,Progressive,Progressive,t,6744,f,1
-14,1921-12-06,SK,226,MOOSE JAW,6137,"KNOWLES, William Erskine",Liberal,75,Liberal,Lib,t,5815,f,2
-14,1921-12-06,SK,226,MOOSE JAW,6136,"HAMILTON, Samuel Alexander",Conservative,37,Conservative,Con,t,3857,f,3
+14,1921-12-06,SK,226,MOOSE JAW,6136,"KNOWLES, William Erskine",Liberal,75,Liberal,Lib,t,5815,f,2
+14,1921-12-06,SK,226,MOOSE JAW,6137,"HAMILTON, Samuel Alexander",Conservative,37,Conservative,Con,t,3857,f,3
 14,1921-12-06,SK,227,NORTH BATTLEFORD,6138,"DAVIES, Claudius Charles",Progressive,121,Progressive,Progressive,t,8786,f,1
-14,1921-12-06,SK,227,NORTH BATTLEFORD,6140,"LIVINGSTON, William Wellington",Unknown,166,Unknown,Unknown,f,4596,f,2
-14,1921-12-06,SK,227,NORTH BATTLEFORD,6139,"HERBERT, Harold",Unknown,166,Unknown,Unknown,f,744,f,3
+14,1921-12-06,SK,227,NORTH BATTLEFORD,6139,"LIVINGSTON, William Wellington",Unknown,166,Unknown,Unknown,f,4596,f,2
+14,1921-12-06,SK,227,NORTH BATTLEFORD,6140,"HERBERT, Harold",Unknown,166,Unknown,Unknown,f,744,f,3
 14,1921-12-06,SK,228,PRINCE ALBERT,6141,"KNOX, Andrew",Progressive,121,Progressive,Progressive,t,8525,f,1
-14,1921-12-06,SK,228,PRINCE ALBERT,6143,"BRIGHAM, Lorenzo William",Liberal,75,Liberal,Lib,t,4962,f,2
-14,1921-12-06,SK,228,PRINCE ALBERT,6142,"PAUL, David Wilson",Conservative,37,Conservative,Con,t,2417,f,3
+14,1921-12-06,SK,228,PRINCE ALBERT,6142,"BRIGHAM, Lorenzo William",Liberal,75,Liberal,Lib,t,4962,f,2
+14,1921-12-06,SK,228,PRINCE ALBERT,6143,"PAUL, David Wilson",Conservative,37,Conservative,Con,t,2417,f,3
 14,1921-12-06,SK,229,QU'APPELLE,6144,"MILLAR, John",Progressive,121,Progressive,Progressive,t,8350,f,1
 14,1921-12-06,SK,229,QU'APPELLE,6145,"PERLEY, Ernest Edward",Conservative,37,Conservative,Con,t,3705,f,2
 14,1921-12-06,SK,230,REGINA,6146,"MOTHERWELL, William Richard",Liberal,75,Liberal,Lib,t,7786,f,1
@@ -627,8 +627,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 14,1921-12-06,SK,232,SASKATOON,6153,"STEWART, Peter Donald",Liberal,75,Liberal,Lib,t,3943,f,2
 14,1921-12-06,SK,232,SASKATOON,6154,"WILSON, James Robert",Conservative,37,Conservative,Con,t,2909,f,3
 14,1921-12-06,SK,233,SWIFT CURRENT,6155,"LEWIS, Arthur John",Progressive,121,Progressive,Progressive,t,9848,f,1
-14,1921-12-06,SK,233,SWIFT CURRENT,6157,"MACLACHLAN, William P.",Liberal,75,Liberal,Lib,t,4223,f,2
-14,1921-12-06,SK,233,SWIFT CURRENT,6156,"ARGUE, Ira Eugene",Conservative,37,Conservative,Con,t,2158,f,3
+14,1921-12-06,SK,233,SWIFT CURRENT,6156,"MACLACHLAN, William P.",Liberal,75,Liberal,Lib,t,4223,f,2
+14,1921-12-06,SK,233,SWIFT CURRENT,6157,"ARGUE, Ira Eugene",Conservative,37,Conservative,Con,t,2158,f,3
 14,1921-12-06,SK,234,WEYBURN,6158,"MORRISON, John",Progressive,121,Progressive,Progressive,t,6635,f,1
 14,1921-12-06,SK,234,WEYBURN,6159,"THOMPSON, Richard Frederick",Conservative,37,Conservative,Con,t,2539,f,2
 14,1921-12-06,YK,235,YUKON,6160,"BLACK, George",Conservative,37,Conservative,Con,t,707,f,1

@@ -155,8 +155,8 @@ election_id,prov_code,ed_id,ed_name,Con,Lib,Other,Progressive,1st,2nd,3rd
 16,ON,154,"YORK WEST",16479,4681,,,Con,Lib,Other
 16,PE,155,"KING'S",4329,4229,,,Con,Lib,Other
 16,PE,156,"PRINCE",5641,7362,,,Lib,Con,Other
-16,PE,157,"QUEEN'S-1",8123,9006,,,Lib,Con,Other
-16,PE,158,"QUEEN'S-2",8124,8625,,,Lib,Con,Other
+16,PE,157,"QUEEN'S-1",8124,9006,,,Lib,Con,Other
+16,PE,158,"QUEEN'S-2",8123,8625,,,Lib,Con,Other
 16,QC,159,"ARGENTEUIL",4094,3854,,,Con,Lib,Other
 16,QC,160,"BAGOT",3211,3787,,,Lib,Con,Other
 16,QC,161,"BEAUCE",2551,11176,,,Lib,Con,Other

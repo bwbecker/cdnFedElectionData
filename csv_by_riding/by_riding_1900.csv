@@ -28,20 +28,20 @@ election_id,prov_code,ed_id,ed_name,Con,Lib,Other,PC,1st,2nd,3rd
 9,NB,27,"YORK",,2937,2861,,Lib,Other,Con
 9,NS,28,"ANNAPOLIS",1733,1883,,,Lib,Con,Other
 9,NS,29,"ANTIGONISH",1137,1403,,,Lib,Con,Other
-9,NS,30,"CAPE BRETON-1",3672,3922,,,Lib,Con,Other
-9,NS,31,"CAPE BRETON-2",,3890,,3604,Lib,PC,Other
+9,NS,30,"CAPE BRETON-1",3672,3890,,,Lib,Con,Other
+9,NS,31,"CAPE BRETON-2",,3922,,3604,Lib,PC,Other
 9,NS,32,"COLCHESTER",2449,2170,,,Con,Lib,Other
 9,NS,33,"CUMBERLAND",3345,3742,,,Lib,Con,Other
 9,NS,34,"DIGBY",1418,1923,,,Lib,Con,Other
 9,NS,35,"GUYSBOROUGH",1589,1928,,,Lib,Con,Other
-9,NS,36,"HALIFAX-1",5705,5380,,,Con,Lib,Other
-9,NS,37,"HALIFAX-2",5562,5577,,,Lib,Con,Other
+9,NS,36,"HALIFAX-1",,10957,,,Lib,Other,Con
+9,NS,37,"HALIFAX-2",11267,,,,Con,Other,Lib
 9,NS,38,"HANTS",1866,1882,,,Lib,Con,Other
 9,NS,39,"INVERNESS",1644,2702,,,Lib,Con,Other
 9,NS,40,"KINGS",1890,2233,,,Lib,Con,Other
 9,NS,41,"LUNENBURG",2896,2574,,,Con,Lib,Other
-9,NS,42,"PICTOU-1",3624,3438,,,Con,Lib,Other
-9,NS,43,"PICTOU-2",3615,3523,,,Con,Lib,Other
+9,NS,42,"PICTOU-1",3615,3523,,,Con,Lib,Other
+9,NS,43,"PICTOU-2",3624,3438,,,Con,Lib,Other
 9,NS,44,"RICHMOND",840,1092,,,Lib,Con,Other
 9,NS,45,"SHELBURNE AND QUEEN'S",1901,2294,,,Lib,Con,Other
 9,NS,46,"VICTORIA",785,1072,,,Lib,Con,Other
@@ -76,8 +76,8 @@ election_id,prov_code,ed_id,ed_name,Con,Lib,Other,PC,1st,2nd,3rd
 9,ON,75,"GREY SOUTH",,2231,,2375,PC,Lib,Other
 9,ON,76,"HALDIMAND AND MONCK",2102,2239,,,Lib,Con,Other
 9,ON,77,"HALTON",2379,2233,,,Con,Lib,Other
-9,ON,78,"HAMILTON-1",5462,4783,,,Con,Lib,Other
-9,ON,79,"HAMILTON-2",5466,4667,,,Con,Lib,Other
+9,ON,78,"HAMILTON-1",5466,4783,,,Con,Lib,Other
+9,ON,79,"HAMILTON-2",5462,4667,,,Con,Lib,Other
 9,ON,80,"HASTINGS EAST",1815,1744,,,Con,Lib,Other
 9,ON,81,"HASTINGS NORTH",2426,1771,,,Con,Lib,Other
 9,ON,82,"HASTINGS WEST",2094,1252,,,Con,Lib,Other
@@ -108,8 +108,8 @@ election_id,prov_code,ed_id,ed_name,Con,Lib,Other,PC,1st,2nd,3rd
 9,ON,107,"ONTARIO NORTH",,,1839,2357,PC,Other,Con
 9,ON,108,"ONTARIO SOUTH",1876,1970,,,Lib,Con,Other
 9,ON,109,"ONTARIO WEST",1231,1740,,,Lib,Con,Other
-9,ON,110,"OTTAWA (CITY OF)-1",,8943,,,Lib,Other,Con
-9,ON,111,"OTTAWA (CITY OF)-2",9404,,,,Con,Other,Lib
+9,ON,110,"OTTAWA (CITY OF)-1",9404,,,,Con,Other,Lib
+9,ON,111,"OTTAWA (CITY OF)-2",,8943,,,Lib,Other,Con
 9,ON,112,"OXFORD NORTH",1115,2717,,,Lib,Con,Other
 9,ON,113,"OXFORD SOUTH",1226,2042,,,Lib,Con,Other
 9,ON,114,"PEEL",1705,1592,,,Con,Lib,Other
@@ -137,8 +137,8 @@ election_id,prov_code,ed_id,ed_name,Con,Lib,Other,PC,1st,2nd,3rd
 9,ON,136,"WELLINGTON SOUTH",2649,2755,,,Lib,Con,Other
 9,ON,137,"WENTWORTH NORTH AND BRANT",961,2059,,,Lib,Con,Other
 9,ON,138,"WENTWORTH SOUTH",2584,2428,,,Con,Lib,Other
-9,ON,139,"WEST TORONTO-1",6530,4713,,,Con,Lib,Other
-9,ON,140,"WEST TORONTO-2",7024,4547,1657,,Con,Lib,Other
+9,ON,139,"WEST TORONTO-1",7024,4713,,,Con,Lib,Other
+9,ON,140,"WEST TORONTO-2",6530,4547,1657,,Con,Lib,Other
 9,ON,141,"YORK EAST",,3489,4131,,Other,Lib,Con
 9,ON,142,"YORK NORTH",1710,2007,,,Lib,Con,Other
 9,ON,143,"YORK WEST",5126,4306,,,Con,Lib,Other

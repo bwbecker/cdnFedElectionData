@@ -19,7 +19,7 @@ files=$@
 
 for f in ${files} 
 do
-	tail -n +2 ${f} | sed \
+	tail -n +2 ${f} | gsed \
 		-e '/^\r$/d' \
 		-e "s/^/${election},/" \
 		-e 's/\xe0/à/g' \

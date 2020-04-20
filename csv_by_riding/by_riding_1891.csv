@@ -28,8 +28,8 @@ election_id,prov_code,ed_id,ed_name,Con,Lib,Other,PC,Progressive,1st,2nd,3rd
 7,NB,27,"YORK",2048,1821,,,,Con,Lib,Other
 7,NS,28,"ANNAPOLIS",1835,,1662,,,Con,Other,Lib
 7,NS,29,"ANTIGONISH",,,1119,1346,,PC,Other,Con
-7,NS,30,"CAPE BRETON-1",2889,2161,,,,Con,Lib,Other
-7,NS,31,"CAPE BRETON-2",,2078,,2681,,PC,Lib,Other
+7,NS,30,"CAPE BRETON-1",2889,2078,,,,Con,Lib,Other
+7,NS,31,"CAPE BRETON-2",,2161,,2681,,PC,Lib,Other
 7,NS,32,"COLCHESTER",2588,1785,,,165,Con,Lib,Progressive
 7,NS,33,"CUMBERLAND",2935,2095,,,303,Con,Lib,Progressive
 7,NS,34,"DIGBY",1430,1503,,,,Lib,Con,Other
@@ -40,8 +40,8 @@ election_id,prov_code,ed_id,ed_name,Con,Lib,Other,PC,Progressive,1st,2nd,3rd
 7,NS,39,"INVERNESS",1877,1567,,,,Con,Lib,Other
 7,NS,40,"KINGS",1654,1815,,,,Lib,Con,Other
 7,NS,41,"LUNENBURG",2592,2402,,,,Con,Lib,Other
-7,NS,42,"PICTOU-1",,2708,,3384,,PC,Lib,Other
-7,NS,43,"PICTOU-2",3433,2594,,,,Con,Lib,Other
+7,NS,42,"PICTOU-1",,2594,,3384,,PC,Lib,Other
+7,NS,43,"PICTOU-2",3433,2708,,,,Con,Lib,Other
 7,NS,44,"QUEENS",,867,,766,,Lib,PC,Other
 7,NS,45,"RICHMOND",1612,670,,,,Con,Lib,Other
 7,NS,46,"SHELBURNE",,1369,,1388,,PC,Lib,Other
@@ -78,8 +78,8 @@ election_id,prov_code,ed_id,ed_name,Con,Lib,Other,PC,Progressive,1st,2nd,3rd
 7,ON,77,"GREY SOUTH",2255,2301,,,,Lib,Con,Other
 7,ON,78,"HALDIMAND",1896,1818,,,,Con,Lib,Other
 7,ON,79,"HALTON",2441,2337,,,,Con,Lib,Other
-7,ON,80,"HAMILTON-1",4186,3474,,,,Con,Lib,Other
-7,ON,81,"HAMILTON-2",4156,3532,,,,Con,Lib,Other
+7,ON,80,"HAMILTON-1",4186,3532,,,,Con,Lib,Other
+7,ON,81,"HAMILTON-2",4156,3474,,,,Con,Lib,Other
 7,ON,82,"HASTINGS EAST",1897,1951,,,,Lib,Con,Other
 7,ON,83,"HASTINGS NORTH",1686,1480,,,,Con,Lib,Other
 7,ON,84,"HASTINGS WEST",1955,1595,,,,Con,Lib,Other
@@ -145,10 +145,10 @@ election_id,prov_code,ed_id,ed_name,Con,Lib,Other,PC,Progressive,1st,2nd,3rd
 7,ON,144,"YORK WEST",3434,2628,,,,Con,Lib,Other
 7,PE,145,"KING'S COUNTY-1",2514,2276,,,,Con,Lib,Other
 7,PE,146,"KING'S COUNTY-2",2624,2369,,,,Con,Lib,Other
-7,PE,147,"PRINCE COUNTY-1",2661,3279,,,,Lib,Con,Other
-7,PE,148,"PRINCE COUNTY-2",2903,3182,,,,Lib,Con,Other
-7,PE,149,"QUEEN'S COUNTY-1",3669,4006,,,,Lib,Con,Other
-7,PE,150,"QUEEN'S COUNTY-2",3521,,3854,,,Other,Con,Lib
+7,PE,147,"PRINCE COUNTY-1",2903,3182,,,,Lib,Con,Other
+7,PE,148,"PRINCE COUNTY-2",2661,3279,,,,Lib,Con,Other
+7,PE,149,"QUEEN'S COUNTY-1",3521,,3854,,,Other,Con,Lib
+7,PE,150,"QUEEN'S COUNTY-2",3669,4006,,,,Lib,Con,Other
 7,QC,151,"ARGENTEUIL",848,1050,,,,Lib,Con,Other
 7,QC,152,"BAGOT",1582,1529,,,,Con,Lib,Other
 7,QC,153,"BEAUCE",1832,2313,,,,Lib,Con,Other

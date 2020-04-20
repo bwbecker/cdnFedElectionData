@@ -1,8 +1,8 @@
 election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_party_name,party_id,party_name,party_short_name,mainstream,votes,acclaimed,place
 17,1930-07-28,AB,1,ACADIA,7272,"GARDINER, Robert",United Farmers of Alberta,157,United Farmers,UnitedFarm,f,,t,1
 17,1930-07-28,AB,2,ATHABASKA,7273,"BUCKLEY, John Francis",Liberal,75,Liberal,Lib,t,5504,f,1
-17,1930-07-28,AB,2,ATHABASKA,7275,"KELLNER, Donald Ferdinand",United Farmers of Alberta,157,United Farmers,UnitedFarm,f,4190,f,2
-17,1930-07-28,AB,2,ATHABASKA,7274,"MICHAJLUK, Emanuel",Conservative,37,Conservative,Con,t,2218,f,3
+17,1930-07-28,AB,2,ATHABASKA,7274,"KELLNER, Donald Ferdinand",United Farmers of Alberta,157,United Farmers,UnitedFarm,f,4190,f,2
+17,1930-07-28,AB,2,ATHABASKA,7275,"MICHAJLUK, Emanuel",Conservative,37,Conservative,Con,t,2218,f,3
 17,1930-07-28,AB,3,BATTLE RIVER,7276,"SPENCER, Henry Elvins",United Farmers of Alberta,157,United Farmers,UnitedFarm,f,6874,f,1
 17,1930-07-28,AB,3,BATTLE RIVER,7277,"MORRISON, John William Geddie",Conservative,37,Conservative,Con,t,3927,f,2
 17,1930-07-28,AB,4,BOW RIVER,7278,"GARLAND, Edward Joseph",United Farmers of Alberta,157,United Farmers,UnitedFarm,f,5825,f,1
@@ -14,9 +14,9 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 17,1930-07-28,AB,7,CAMROSE,7284,"LUCAS, William Thomas Lougheed",United Farmers of Alberta,157,United Farmers,UnitedFarm,f,6462,f,1
 17,1930-07-28,AB,7,CAMROSE,7285,"MCIVOR, Donald Randolph",Liberal,75,Liberal,Lib,t,4432,f,2
 17,1930-07-28,AB,8,EDMONTON EAST,7286,"BURY, Ambrose Upton Gledstanes",Conservative,37,Conservative,Con,t,6662,f,1
-17,1930-07-28,AB,8,EDMONTON EAST,7289,"BLATCHFORD, Kenneth Alexander",Liberal,75,Liberal,Lib,t,4921,f,2
+17,1930-07-28,AB,8,EDMONTON EAST,7287,"BLATCHFORD, Kenneth Alexander",Liberal,75,Liberal,Lib,t,4921,f,2
 17,1930-07-28,AB,8,EDMONTON EAST,7288,"LATHAM, George",Labour Farmer,65,Labour,Labour,f,2767,f,3
-17,1930-07-28,AB,8,EDMONTON EAST,7287,"LAKEMAN, Jan",Labour Farmer,65,Labour,Labour,f,509,f,4
+17,1930-07-28,AB,8,EDMONTON EAST,7289,"LAKEMAN, Jan",Labour Farmer,65,Labour,Labour,f,509,f,4
 17,1930-07-28,AB,9,EDMONTON WEST,7290,"STEWART, Hon. Charles",Liberal,75,Liberal,Lib,t,9223,f,1
 17,1930-07-28,AB,9,EDMONTON WEST,7291,"JAMIESON, Frederick Charles",Conservative,37,Conservative,Con,t,8960,f,2
 17,1930-07-28,AB,10,LETHBRIDGE,7292,"STEWART, John Smith",Conservative,37,Conservative,Con,t,4863,f,1
@@ -44,8 +44,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 17,1930-07-28,BC,20,KOOTENAY EAST,7314,"MCLEAN, Michael Dalton",Conservative,37,Conservative,Con,t,4674,f,1
 17,1930-07-28,BC,20,KOOTENAY EAST,7315,"GUIMONT, Joseph-Francis",Liberal,75,Liberal,Lib,t,4468,f,2
 17,1930-07-28,BC,21,KOOTENAY WEST,7316,"ESLING, William Kemble",Conservative,37,Conservative,Con,t,7699,f,1
-17,1930-07-28,BC,21,KOOTENAY WEST,7318,"MCLEAN, Duncan Daniel",Liberal,75,Liberal,Lib,t,5938,f,2
-17,1930-07-28,BC,21,KOOTENAY WEST,7317,"WATTS, Alfred Edward",Franc Lib,48,Franc Lib,FrancLib,f,429,f,3
+17,1930-07-28,BC,21,KOOTENAY WEST,7317,"MCLEAN, Duncan Daniel",Liberal,75,Liberal,Lib,t,5938,f,2
+17,1930-07-28,BC,21,KOOTENAY WEST,7318,"WATTS, Alfred Edward",Franc Lib,48,Franc Lib,FrancLib,f,429,f,3
 17,1930-07-28,BC,22,NANAIMO,7319,"DICKIE, Charles Herbert",Conservative,37,Conservative,Con,t,11827,f,1
 17,1930-07-28,BC,22,NANAIMO,7320,"O'HALLORAN, Cornelius Hawkins",Liberal,75,Liberal,Lib,t,8596,f,2
 17,1930-07-28,BC,23,NEW WESTMINSTER,7321,"REID, Thomas",Liberal,75,Liberal,Lib,t,13293,f,1
@@ -68,8 +68,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 17,1930-07-28,BC,30,YALE,7338,"STIRLING, Grote",Conservative,37,Conservative,Con,t,8447,f,1
 17,1930-07-28,BC,30,YALE,7339,"WILKINS, Walter Gordon",Liberal,75,Liberal,Lib,t,4908,f,2
 17,1930-07-28,MB,31,BRANDON,7340,"BEAUBIER, David Wilson",Conservative,37,Conservative,Con,t,8512,f,1
-17,1930-07-28,MB,31,BRANDON,7342,"Crerar, Hon. Thomas Alexander",Liberal,75,Liberal,Lib,t,6457,f,2
-17,1930-07-28,MB,31,BRANDON,7341,"BRIGDEN, Beatrice Alice",Labour,65,Labour,Labour,f,1331,f,3
+17,1930-07-28,MB,31,BRANDON,7341,"Crerar, Hon. Thomas Alexander",Liberal,75,Liberal,Lib,t,6457,f,2
+17,1930-07-28,MB,31,BRANDON,7342,"BRIGDEN, Beatrice Alice",Labour,65,Labour,Labour,f,1331,f,3
 17,1930-07-28,MB,32,DAUPHIN,7343,"BOWMAN, James Langstaff",Conservative,37,Conservative,Con,t,7083,f,1
 17,1930-07-28,MB,32,DAUPHIN,7344,"WARD, William John",Liberal Progressive,79,Liberal Progressive,LibProgr,f,6399,f,2
 17,1930-07-28,MB,33,LISGAR,7345,"BROWN, John Livingstone",Liberal Progressive,79,Liberal Progressive,LibProgr,f,5162,f,1
@@ -86,18 +86,18 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 17,1930-07-28,MB,38,PORTAGE LA PRAIRIE,7356,"MCPHERSON, Ewen Alexander",Liberal,75,Liberal,Lib,t,6230,f,2
 17,1930-07-28,MB,39,PROVENCHER,7357,"BEAUBIEN, Arthur-Lucien",Liberal Progressive,79,Liberal Progressive,LibProgr,f,4562,f,1
 17,1930-07-28,MB,39,PROVENCHER,7358,"BELANGER, Joseph-Arthur",Conservative,37,Conservative,Con,t,2274,f,2
-17,1930-07-28,MB,39,PROVENCHER,7360,"KOBZAR, Wasyl",Independent Conservative,56,Independent Conservative,IndCon,f,715,f,3
-17,1930-07-28,MB,39,PROVENCHER,7359,"AYOTTE, Alexandre",Liberal,75,Liberal,Lib,t,321,f,4
+17,1930-07-28,MB,39,PROVENCHER,7359,"KOBZAR, Wasyl",Independent Conservative,56,Independent Conservative,IndCon,f,715,f,3
+17,1930-07-28,MB,39,PROVENCHER,7360,"AYOTTE, Alexandre",Liberal,75,Liberal,Lib,t,321,f,4
 17,1930-07-28,MB,40,SELKIRK,7361,"STITT, James Herbert",Conservative,37,Conservative,Con,t,6581,f,1
-17,1930-07-28,MB,40,SELKIRK,7363,"BANCROFT, Leland Payson",Liberal Progressive,79,Liberal Progressive,LibProgr,f,6098,f,2
-17,1930-07-28,MB,40,SELKIRK,7362,"NAWIZOWSKY, John",Communist Party of Canada,31,Communist Party,Com,f,1709,f,3
+17,1930-07-28,MB,40,SELKIRK,7362,"BANCROFT, Leland Payson",Liberal Progressive,79,Liberal Progressive,LibProgr,f,6098,f,2
+17,1930-07-28,MB,40,SELKIRK,7363,"NAWIZOWSKY, John",Communist Party of Canada,31,Communist Party,Com,f,1709,f,3
 17,1930-07-28,MB,41,SOURIS,7364,"WILLIS, Errick French",Conservative,37,Conservative,Con,t,6252,f,1
 17,1930-07-28,MB,41,SOURIS,7365,"STEEDSMAN, James",Progressive,121,Progressive,Progressive,t,5780,f,2
 17,1930-07-28,MB,42,SPRINGFIELD,7366,"HAY, Thomas",Conservative,37,Conservative,Con,t,5446,f,1
 17,1930-07-28,MB,42,SPRINGFIELD,7367,"BISSETT, Edgar Douglas Richmond",Liberal Progressive,79,Liberal Progressive,LibProgr,f,3617,f,2
 17,1930-07-28,MB,42,SPRINGFIELD,7368,"LANGE, Frederick William",Labour,65,Labour,Labour,f,1106,f,3
-17,1930-07-28,MB,42,SPRINGFIELD,7370,"ROSS, Donald Andrew",Independent Liberal,58,Independent Liberal,IndLib,f,511,f,4
-17,1930-07-28,MB,42,SPRINGFIELD,7369,"GRABOWSKI, Stanley",Independent Liberal,58,Independent Liberal,IndLib,f,307,f,5
+17,1930-07-28,MB,42,SPRINGFIELD,7369,"ROSS, Donald Andrew",Independent Liberal,58,Independent Liberal,IndLib,f,511,f,4
+17,1930-07-28,MB,42,SPRINGFIELD,7370,"GRABOWSKI, Stanley",Independent Liberal,58,Independent Liberal,IndLib,f,307,f,5
 17,1930-07-28,MB,43,ST. BONIFACE,7371,"HOWDEN, John Power",Liberal,75,Liberal,Lib,t,7045,f,1
 17,1930-07-28,MB,43,ST. BONIFACE,7372,"COOK, Edgar Honwell",Conservative,37,Conservative,Con,t,4630,f,2
 17,1930-07-28,MB,43,ST. BONIFACE,7373,"HANSFORD, Edwin Arnold",Labour,65,Labour,Labour,f,1943,f,3
@@ -105,8 +105,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 17,1930-07-28,MB,44,WINNIPEG NORTH,7375,"BLAKE, Matthew Robert",Conservative,37,Conservative,Con,t,5011,f,2
 17,1930-07-28,MB,44,WINNIPEG NORTH,7376,"MORRIS, Leslie",Liberal,75,Liberal,Lib,t,2164,f,3
 17,1930-07-28,MB,45,WINNIPEG NORTH CENTRE,7377,"WOODSWORTH, James Shaver",Labour,65,Labour,Labour,f,8265,f,1
-17,1930-07-28,MB,45,WINNIPEG NORTH CENTRE,7379,"GARGAN, Thomas",Independent Conservative,56,Independent Conservative,IndCon,f,2028,f,2
-17,1930-07-28,MB,45,WINNIPEG NORTH CENTRE,7378,"FORKIN, Martin Joseph",Communist Party of Canada,31,Communist Party,Com,f,492,f,3
+17,1930-07-28,MB,45,WINNIPEG NORTH CENTRE,7378,"GARGAN, Thomas",Independent Conservative,56,Independent Conservative,IndCon,f,2028,f,2
+17,1930-07-28,MB,45,WINNIPEG NORTH CENTRE,7379,"FORKIN, Martin Joseph",Communist Party of Canada,31,Communist Party,Com,f,492,f,3
 17,1930-07-28,MB,46,WINNIPEG SOUTH,7380,"ROGERS, Hon. Robert",Conservative,37,Conservative,Con,t,10117,f,1
 17,1930-07-28,MB,46,WINNIPEG SOUTH,7381,"MCDIARMID, John Stewart",Liberal,75,Liberal,Lib,t,9774,f,2
 17,1930-07-28,MB,46,WINNIPEG SOUTH,7382,"TANNER, Charles Albert",Independent Labor,57,Independent Labor,IndLab,f,256,f,3
@@ -124,10 +124,10 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 17,1930-07-28,NB,52,RESTIGOUCHE--MADAWASKA,7394,"MCEVOY, Thomas Henry",Liberal,75,Liberal,Lib,t,9489,f,2
 17,1930-07-28,NB,53,ROYAL,7395,"JONES, Hon. George Burpee",Conservative,37,Conservative,Con,t,8698,f,1
 17,1930-07-28,NB,53,ROYAL,7396,"WHITE, Donald V.",Liberal,75,Liberal,Lib,t,5774,f,2
-17,1930-07-28,NB,54,ST. JOHN--ALBERT-1,7398,"MACLAREN, Murray",Conservative,37,Conservative,Con,t,16454,f,1
-17,1930-07-28,NB,54,ST. JOHN--ALBERT-1,7400,"RYAN, William Mitchell",Liberal,75,Liberal,Lib,t,8371,f,2
-17,1930-07-28,NB,55,ST. JOHN--ALBERT-2,7397,"BELL, Thomas",Conservative,37,Conservative,Con,t,16395,f,1
-17,1930-07-28,NB,55,ST. JOHN--ALBERT-2,7399,"MCAVITY, Allan Getchell",Liberal,75,Liberal,Lib,t,8595,f,2
+17,1930-07-28,NB,54,ST. JOHN--ALBERT-1,7397,"BELL, Thomas",Conservative,37,Conservative,Con,t,16395,f,1
+17,1930-07-28,NB,54,ST. JOHN--ALBERT-1,7398,"MCAVITY, Allan Getchell",Liberal,75,Liberal,Lib,t,8595,f,2
+17,1930-07-28,NB,55,ST. JOHN--ALBERT-2,7399,"MACLAREN, Murray",Conservative,37,Conservative,Con,t,16454,f,1
+17,1930-07-28,NB,55,ST. JOHN--ALBERT-2,7400,"RYAN, William Mitchell",Liberal,75,Liberal,Lib,t,8371,f,2
 17,1930-07-28,NB,56,VICTORIA--CARLETON,7401,"SMITH, Benjamin Franklin",Conservative,37,Conservative,Con,t,8628,f,1
 17,1930-07-28,NB,56,VICTORIA--CARLETON,7402,"FOSTER, Albion Roudolph",Liberal,75,Liberal,Lib,t,5776,f,2
 17,1930-07-28,NB,57,WESTMORLAND,7403,"PRICE, Otto Baird",Conservative,37,Conservative,Con,t,13304,f,1
@@ -146,10 +146,10 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 17,1930-07-28,NS,63,CUMBERLAND,7416,"SMILEY, John Stanley",Liberal,75,Liberal,Lib,t,7401,f,2
 17,1930-07-28,NS,64,DIGBY--ANNAPOLIS,7417,"SHORT, Harry Bernard",Conservative,37,Conservative,Con,t,8357,f,1
 17,1930-07-28,NS,64,DIGBY--ANNAPOLIS,7418,"PICKUP, Samuel",Liberal,75,Liberal,Lib,t,8282,f,2
-17,1930-07-28,NS,65,HALIFAX-1,7420,"QUINN, Felix Patrick",Conservative,37,Conservative,Con,t,21280,f,1
-17,1930-07-28,NS,65,HALIFAX-1,7422,"CRAGG, Edward Joseph",Liberal,75,Liberal,Lib,t,19185,f,2
-17,1930-07-28,NS,66,HALIFAX-2,7419,"BLACK, Hon. William Anderson",Conservative,37,Conservative,Con,t,21611,f,1
-17,1930-07-28,NS,66,HALIFAX-2,7421,"JACK, Peter R.",Liberal,75,Liberal,Lib,t,19439,f,2
+17,1930-07-28,NS,65,HALIFAX-1,7419,"QUINN, Felix Patrick",Conservative,37,Conservative,Con,t,21280,f,1
+17,1930-07-28,NS,65,HALIFAX-1,7420,"CRAGG, Edward Joseph",Liberal,75,Liberal,Lib,t,19185,f,2
+17,1930-07-28,NS,66,HALIFAX-2,7421,"BLACK, Hon. William Anderson",Conservative,37,Conservative,Con,t,21611,f,1
+17,1930-07-28,NS,66,HALIFAX-2,7422,"JACK, Peter R.",Liberal,75,Liberal,Lib,t,19439,f,2
 17,1930-07-28,NS,67,HANTS--KINGS,7423,"ILSLEY, James Lorimer",Liberal,75,Liberal,Lib,t,11059,f,1
 17,1930-07-28,NS,67,HANTS--KINGS,7424,"FOSTER, Arthur de Witt",Conservative,37,Conservative,Con,t,9947,f,2
 17,1930-07-28,NS,68,INVERNESS,7425,"MACDOUGALL, Isaac Duncan",Conservative,37,Conservative,Con,t,4887,f,1
@@ -247,8 +247,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 17,1930-07-28,ON,111,MUSKOKA--ONTARIO,7517,"MCGIBBON, Peter",Conservative,37,Conservative,Con,t,8828,f,1
 17,1930-07-28,ON,111,MUSKOKA--ONTARIO,7518,"MACDONALD, James Dean",Liberal,75,Liberal,Lib,t,5880,f,2
 17,1930-07-28,ON,112,NIPISSING,7519,"HURTUBISE, Joseph Raoul",Liberal,75,Liberal,Lib,t,12588,f,1
-17,1930-07-28,ON,112,NIPISSING,7521,"MOREL, Henry",Conservative,37,Conservative,Con,t,10437,f,2
-17,1930-07-28,ON,112,NIPISSING,7520,"HILL, Amos Tobias",Communist Party of Canada,31,Communist Party,Com,f,531,f,3
+17,1930-07-28,ON,112,NIPISSING,7520,"MOREL, Henry",Conservative,37,Conservative,Con,t,10437,f,2
+17,1930-07-28,ON,112,NIPISSING,7521,"HILL, Amos Tobias",Communist Party of Canada,31,Communist Party,Com,f,531,f,3
 17,1930-07-28,ON,113,NORFOLK--ELGIN,7522,"TAYLOR, William H.",Liberal,75,Liberal,Lib,t,9424,f,1
 17,1930-07-28,ON,113,NORFOLK--ELGIN,7523,"STANSELL, John Lawrence",Conservative,37,Conservative,Con,t,9419,f,2
 17,1930-07-28,ON,114,NORTHUMBERLAND,7524,"FRASER, William Alexander",Liberal,75,Liberal,Lib,t,8436,f,1
@@ -256,10 +256,10 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 17,1930-07-28,ON,114,NORTHUMBERLAND,7526,"MACDONALD, Edith Kerr",Independent,52,Independent,Ind,f,180,f,3
 17,1930-07-28,ON,115,ONTARIO,7527,"MOORE, William Henry",Liberal,75,Liberal,Lib,t,10116,f,1
 17,1930-07-28,ON,115,ONTARIO,7528,"KAISER, Thomas Erlin",Conservative,37,Conservative,Con,t,9646,f,2
-17,1930-07-28,ON,116,OTTAWA (CITY OF)-1,7530,"CHEVRIER, Edgar Rodolphe Eugène",Liberal,75,Liberal,Lib,t,25721,f,1
-17,1930-07-28,ON,116,OTTAWA (CITY OF)-1,7532,"LAFORTUNE, Frank",Conservative,37,Conservative,Con,t,22579,f,2
-17,1930-07-28,ON,117,OTTAWA (CITY OF)-2,7529,"AHEARN, T. Frank",Liberal,75,Liberal,Lib,t,25632,f,1
-17,1930-07-28,ON,117,OTTAWA (CITY OF)-2,7531,"PLANT, Frank Henry",Conservative,37,Conservative,Con,t,23166,f,2
+17,1930-07-28,ON,116,OTTAWA (CITY OF)-1,7529,"CHEVRIER, Edgar Rodolphe Eugène",Liberal,75,Liberal,Lib,t,25721,f,1
+17,1930-07-28,ON,116,OTTAWA (CITY OF)-1,7530,"PLANT, Frank Henry",Conservative,37,Conservative,Con,t,23166,f,2
+17,1930-07-28,ON,117,OTTAWA (CITY OF)-2,7531,"AHEARN, T. Frank",Liberal,75,Liberal,Lib,t,25632,f,1
+17,1930-07-28,ON,117,OTTAWA (CITY OF)-2,7532,"LAFORTUNE, Frank",Conservative,37,Conservative,Con,t,22579,f,2
 17,1930-07-28,ON,118,OXFORD NORTH,7533,"SUTHERLAND, Donald Matheson",Conservative,37,Conservative,Con,t,7217,f,1
 17,1930-07-28,ON,118,OXFORD NORTH,7534,"ALLAN, Hugh",Liberal,75,Liberal,Lib,t,6180,f,2
 17,1930-07-28,ON,119,OXFORD SOUTH,7535,"CAYLEY, Thomas Merritt",Liberal,75,Liberal,Lib,t,5711,f,1
@@ -342,10 +342,10 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 17,1930-07-28,PE,155,KING'S,7612,"GRANT, Thomas V.",Liberal,75,Liberal,Lib,t,4391,f,2
 17,1930-07-28,PE,156,PRINCE,7613,"MACLEAN, Alfred E.",Liberal,75,Liberal,Lib,t,8058,f,1
 17,1930-07-28,PE,156,PRINCE,7614,"ARNETT, J. Frank",Conservative,37,Conservative,Con,t,6485,f,2
-17,1930-07-28,PE,157,QUEEN'S-1,7616,"MYERS, John H.",Conservative,37,Conservative,Con,t,9178,f,1
-17,1930-07-28,PE,157,QUEEN'S-1,7618,"JENKINS, R. Harold",Liberal,75,Liberal,Lib,t,8767,f,2
-17,1930-07-28,PE,158,QUEEN'S-2,7615,"MCLURE, W. Chester S.",Conservative,37,Conservative,Con,t,9310,f,1
-17,1930-07-28,PE,158,QUEEN'S-2,7617,"MACMILLAN, Hon. Cyrus",Liberal,75,Liberal,Lib,t,8482,f,2
+17,1930-07-28,PE,157,QUEEN'S-1,7615,"MCLURE, W. Chester S.",Conservative,37,Conservative,Con,t,9310,f,1
+17,1930-07-28,PE,157,QUEEN'S-1,7616,"MACMILLAN, Hon. Cyrus",Liberal,75,Liberal,Lib,t,8482,f,2
+17,1930-07-28,PE,158,QUEEN'S-2,7617,"MYERS, John H.",Conservative,37,Conservative,Con,t,9178,f,1
+17,1930-07-28,PE,158,QUEEN'S-2,7618,"JENKINS, R. Harold",Liberal,75,Liberal,Lib,t,8767,f,2
 17,1930-07-28,QC,159,ARGENTEUIL,7619,"PERLEY, Sir George Halsey",Conservative,37,Conservative,Con,t,4709,f,1
 17,1930-07-28,QC,159,ARGENTEUIL,7620,"LEGAULT, Joseph-Louis-Lorenzo",Liberal,75,Liberal,Lib,t,3940,f,2
 17,1930-07-28,QC,160,BAGOT,7621,"DUMAINE, Cyrille",Liberal,75,Liberal,Lib,t,3654,f,1
@@ -364,8 +364,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 17,1930-07-28,QC,166,BROME--MISSISQUOI,7634,"KAY, Hon. William Frederi",Liberal,75,Liberal,Lib,t,6584,f,2
 17,1930-07-28,QC,167,CARTIER,7635,"JACOBS, Samuel William",Liberal,75,Liberal,Lib,t,8231,f,1
 17,1930-07-28,QC,167,CARTIER,7636,"WOLFE, Louis",Conservative,37,Conservative,Con,t,1928,f,2
-17,1930-07-28,QC,167,CARTIER,7638,"MASSON, Médéric",Independent Progressive,61,Independent Progressive,IndProg,f,1294,f,3
-17,1930-07-28,QC,167,CARTIER,7637,"PARENT, Paul-E.",Independent Liberal,58,Independent Liberal,IndLib,f,540,f,4
+17,1930-07-28,QC,167,CARTIER,7637,"MASSON, Médéric",Independent Progressive,61,Independent Progressive,IndProg,f,1294,f,3
+17,1930-07-28,QC,167,CARTIER,7638,"PARENT, Paul-E.",Independent Liberal,58,Independent Liberal,IndLib,f,540,f,4
 17,1930-07-28,QC,168,CHAMBLY--VERCHÈRES,7639,"DURANLEAU, Alfred",Conservative,37,Conservative,Con,t,9024,f,1
 17,1930-07-28,QC,168,CHAMBLY--VERCHÈRES,7640,"GEOFFRION, Amédée",Liberal,75,Liberal,Lib,t,7827,f,2
 17,1930-07-28,QC,169,CHAMPLAIN,7641,"BARIBEAU, Jean-Louis",Conservative,37,Conservative,Con,t,9024,f,1
@@ -406,9 +406,9 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 17,1930-07-28,QC,186,LAPRAIRIE--NAPIERVILLE,7676,"DUPUIS, Vincent",Liberal,75,Liberal,Lib,t,4321,f,1
 17,1930-07-28,QC,186,LAPRAIRIE--NAPIERVILLE,7677,"MONETTE, Gustave",Conservative,37,Conservative,Con,t,3968,f,2
 17,1930-07-28,QC,187,LAURIER--OUTREMONT,7678,"MERCIER, Joseph-Alexandre",Liberal,75,Liberal,Lib,t,15259,f,1
-17,1930-07-28,QC,187,LAURIER--OUTREMONT,7681,"FORTIER, Hector-Frédéric",Conservative,37,Conservative,Con,t,7590,f,2
+17,1930-07-28,QC,187,LAURIER--OUTREMONT,7679,"FORTIER, Hector-Frédéric",Conservative,37,Conservative,Con,t,7590,f,2
 17,1930-07-28,QC,187,LAURIER--OUTREMONT,7680,"JACOBS, Lyon William",Liberal Protectionist,80,Liberal Protectionist,LibProtect,f,2723,f,3
-17,1930-07-28,QC,187,LAURIER--OUTREMONT,7679,"SHINNICK, John Alexander",Independent Conservative,56,Independent Conservative,IndCon,f,1236,f,4
+17,1930-07-28,QC,187,LAURIER--OUTREMONT,7681,"SHINNICK, John Alexander",Independent Conservative,56,Independent Conservative,IndCon,f,1236,f,4
 17,1930-07-28,QC,188,LAVAL--TWO MOUNTAINS,7682,"SAUVÉ, Arthur",Conservative,37,Conservative,Con,t,6601,f,1
 17,1930-07-28,QC,188,LAVAL--TWO MOUNTAINS,7683,"LACOMBE, Liguori",Liberal,75,Liberal,Lib,t,5634,f,2
 17,1930-07-28,QC,189,LOTBINIÈRE,7684,"VERVILLE, Joseph-Achille",Liberal,75,Liberal,Lib,t,5068,f,1
@@ -416,9 +416,9 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 17,1930-07-28,QC,190,LÉVIS,7686,"FORTIN, Émile",Conservative,37,Conservative,Con,t,7065,f,1
 17,1930-07-28,QC,190,LÉVIS,7687,"DUSSAULT, Joseph-Étienne",Liberal,75,Liberal,Lib,t,6880,f,2
 17,1930-07-28,QC,191,MAISONNEUVE,7688,"ROBITAILLE, Clément",Liberal,75,Liberal,Lib,t,18894,f,1
-17,1930-07-28,QC,191,MAISONNEUVE,7691,"DESJARDINS, Hubert",Conservative,37,Conservative,Con,t,13492,f,2
+17,1930-07-28,QC,191,MAISONNEUVE,7689,"DESJARDINS, Hubert",Conservative,37,Conservative,Con,t,13492,f,2
 17,1930-07-28,QC,191,MAISONNEUVE,7690,"COURCHESNE, Déus",Independent,52,Independent,Ind,f,1053,f,3
-17,1930-07-28,QC,191,MAISONNEUVE,7689,"SIMARD, Edmond",Conservative,37,Conservative,Con,t,313,f,4
+17,1930-07-28,QC,191,MAISONNEUVE,7691,"SIMARD, Edmond",Conservative,37,Conservative,Con,t,313,f,4
 17,1930-07-28,QC,192,MATANE,7692,"LARUE, Joseph-Ernest-Henri",Conservative,37,Conservative,Con,t,7710,f,1
 17,1930-07-28,QC,192,MATANE,7693,"DIONNE, Georges-Léonidas",Liberal,75,Liberal,Lib,t,6975,f,2
 17,1930-07-28,QC,193,MONTMAGNY,7694,"LAVERGNE, Armand",Conservative,37,Conservative,Con,t,3857,f,1
@@ -430,8 +430,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 17,1930-07-28,QC,196,NICOLET,7700,"DUBOIS, Lucien",Liberal,75,Liberal,Lib,t,6303,f,1
 17,1930-07-28,QC,196,NICOLET,7701,"GAUDET, Joseph-Alfred",Conservative,37,Conservative,Con,t,5102,f,2
 17,1930-07-28,QC,197,PONTIAC,7702,"BÉLEC, Charles",Conservative,37,Conservative,Con,t,8884,f,1
-17,1930-07-28,QC,197,PONTIAC,7704,"COTÉ, J.-Philippe",Independent Liberal,58,Independent Liberal,IndLib,f,6988,f,2
-17,1930-07-28,QC,197,PONTIAC,7703,"CAHILL, Frank S.",Liberal,75,Liberal,Lib,t,5891,f,3
+17,1930-07-28,QC,197,PONTIAC,7703,"COTÉ, J.-Philippe",Independent Liberal,58,Independent Liberal,IndLib,f,6988,f,2
+17,1930-07-28,QC,197,PONTIAC,7704,"CAHILL, Frank S.",Liberal,75,Liberal,Lib,t,5891,f,3
 17,1930-07-28,QC,198,PORTNEUF,7705,"DESROCHERS, Jules",Liberal,75,Liberal,Lib,t,7813,f,1
 17,1930-07-28,QC,198,PORTNEUF,7706,"FOLEY, J.-Alfred",Conservative,37,Conservative,Con,t,7262,f,2
 17,1930-07-28,QC,199,QUEBEC EAST,7707,"LAPOINTE, Hon. Ernest",Liberal,75,Liberal,Lib,t,11822,f,1
@@ -473,8 +473,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 17,1930-07-28,QC,216,ST. MARY,7743,"DESLAURIERS, Hermas",Liberal,75,Liberal,Lib,t,16540,f,1
 17,1930-07-28,QC,216,ST. MARY,7744,"LEFORT, Théodore",Conservative,37,Conservative,Con,t,6099,f,2
 17,1930-07-28,QC,217,STANSTEAD,7745,"HACKETT, John Thomas",Conservative,37,Conservative,Con,t,5804,f,1
-17,1930-07-28,QC,217,STANSTEAD,7747,"BROWN, Cecil Lorne",Liberal,75,Liberal,Lib,t,3900,f,2
-17,1930-07-28,QC,217,STANSTEAD,7746,"SAMSON, Jean-Charles",Independent Liberal,58,Independent Liberal,IndLib,f,1584,f,3
+17,1930-07-28,QC,217,STANSTEAD,7746,"BROWN, Cecil Lorne",Liberal,75,Liberal,Lib,t,3900,f,2
+17,1930-07-28,QC,217,STANSTEAD,7747,"SAMSON, Jean-Charles",Independent Liberal,58,Independent Liberal,IndLib,f,1584,f,3
 17,1930-07-28,QC,218,TERREBONNE,7748,"PARENT, Étienne",Liberal,75,Liberal,Lib,t,8609,f,1
 17,1930-07-28,QC,218,TERREBONNE,7749,"FAUTEUX, Hon. Guillaume-André",Conservative,37,Conservative,Con,t,6727,f,2
 17,1930-07-28,QC,219,THREE RIVERS--ST. MAURICE,7750,"BETTEZ, Arthur",Liberal,75,Liberal,Lib,t,14732,f,1
@@ -482,8 +482,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 17,1930-07-28,QC,220,TÉMISCOUATA,7752,"POULIOT, Jean-François",Liberal,75,Liberal,Lib,t,8761,f,1
 17,1930-07-28,QC,220,TÉMISCOUATA,7753,"DUBÉ, Charles-Eugène",Conservative,37,Conservative,Con,t,8644,f,2
 17,1930-07-28,QC,221,VAUDREUIL--SOULANGES,7754,"THAUVETTE, Joseph",Liberal,75,Liberal,Lib,t,4313,f,1
-17,1930-07-28,QC,221,VAUDREUIL--SOULANGES,7756,"GAGNÉ, Horace-Joseph",Conservative,37,Conservative,Con,t,2432,f,2
-17,1930-07-28,QC,221,VAUDREUIL--SOULANGES,7755,"MOUSSEAU, Roland-Gilles",Independent Liberal,58,Independent Liberal,IndLib,f,1718,f,3
+17,1930-07-28,QC,221,VAUDREUIL--SOULANGES,7755,"GAGNÉ, Horace-Joseph",Conservative,37,Conservative,Con,t,2432,f,2
+17,1930-07-28,QC,221,VAUDREUIL--SOULANGES,7756,"MOUSSEAU, Roland-Gilles",Independent Liberal,58,Independent Liberal,IndLib,f,1718,f,3
 17,1930-07-28,QC,222,WRIGHT,7757,"PERRAS, Fizalam-William",Liberal,75,Liberal,Lib,t,6015,f,1
 17,1930-07-28,QC,222,WRIGHT,7758,"COUSINEAU, Louis",Conservative,37,Conservative,Con,t,4932,f,2
 17,1930-07-28,QC,223,YAMASKA,7759,"Boucher, Aimé",Liberal,75,Liberal,Lib,t,3505,f,1
@@ -505,14 +505,14 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 17,1930-07-28,SK,229,MACKENZIE,7775,"MCLEAN, Allan Grant",Liberal,75,Liberal,Lib,t,3502,f,2
 17,1930-07-28,SK,229,MACKENZIE,7776,"SWYSTUN, Wasyl",Liberal,75,Liberal,Lib,t,3432,f,3
 17,1930-07-28,SK,230,MAPLE CREEK,7777,"SWANSTON, James Beck",Conservative,37,Conservative,Con,t,7772,f,1
-17,1930-07-28,SK,230,MAPLE CREEK,7779,"BOCK, William George",Liberal,75,Liberal,Lib,t,7215,f,2
-17,1930-07-28,SK,230,MAPLE CREEK,7778,"HOLLIS, Annie L.",Farmer,157,United Farmers,UnitedFarm,f,2388,f,3
+17,1930-07-28,SK,230,MAPLE CREEK,7778,"BOCK, William George",Liberal,75,Liberal,Lib,t,7215,f,2
+17,1930-07-28,SK,230,MAPLE CREEK,7779,"HOLLIS, Annie L.",Farmer,157,United Farmers,UnitedFarm,f,2388,f,3
 17,1930-07-28,SK,231,MELFORT,7780,"WEIR, Robert",Conservative,37,Conservative,Con,t,8689,f,1
-17,1930-07-28,SK,231,MELFORT,7782,"MCLEAN, Malcolm",Liberal,75,Liberal,Lib,t,7367,f,2
-17,1930-07-28,SK,231,MELFORT,7781,"DOYLE, Ferman E.",Farmer,157,United Farmers,UnitedFarm,f,1435,f,3
+17,1930-07-28,SK,231,MELFORT,7781,"MCLEAN, Malcolm",Liberal,75,Liberal,Lib,t,7367,f,2
+17,1930-07-28,SK,231,MELFORT,7782,"DOYLE, Ferman E.",Farmer,157,United Farmers,UnitedFarm,f,1435,f,3
 17,1930-07-28,SK,232,MELVILLE,7783,"MOTHERWELL, Hon. William Richard",Liberal,75,Liberal,Lib,t,6965,f,1
-17,1930-07-28,SK,232,MELVILLE,7785,"HART, George Nelson",Conservative,37,Conservative,Con,t,4041,f,2
-17,1930-07-28,SK,232,MELVILLE,7784,"THOMAS, John Morris",Farmer,157,United Farmers,UnitedFarm,f,3221,f,3
+17,1930-07-28,SK,232,MELVILLE,7784,"HART, George Nelson",Conservative,37,Conservative,Con,t,4041,f,2
+17,1930-07-28,SK,232,MELVILLE,7785,"THOMAS, John Morris",Farmer,157,United Farmers,UnitedFarm,f,3221,f,3
 17,1930-07-28,SK,233,MOOSE JAW,7786,"BEYNON, William Addison",Conservative,37,Conservative,Con,t,9290,f,1
 17,1930-07-28,SK,233,MOOSE JAW,7787,"ROSS, John Gordon",Liberal,75,Liberal,Lib,t,8351,f,2
 17,1930-07-28,SK,234,NORTH BATTLEFORD,7788,"MCINTOSH, Cameron Ross",Liberal,75,Liberal,Lib,t,7168,f,1
@@ -526,8 +526,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 17,1930-07-28,SK,237,REGINA,7796,"DUNNING, Hon. Charles Avery",Liberal,75,Liberal,Lib,t,10746,f,2
 17,1930-07-28,SK,237,REGINA,7797,"CARMAN, Lt. Col. R.A.",Independent,52,Independent,Ind,f,82,f,3
 17,1930-07-28,SK,238,ROSETOWN,7798,"LOUCKS, William John",Conservative,37,Conservative,Con,t,5310,f,1
-17,1930-07-28,SK,238,ROSETOWN,7800,"RICHARDSON, William",Liberal,75,Liberal,Lib,t,4237,f,2
-17,1930-07-28,SK,238,ROSETOWN,7799,"EVANS, John",Progressive,121,Progressive,Progressive,t,2879,f,3
+17,1930-07-28,SK,238,ROSETOWN,7799,"RICHARDSON, William",Liberal,75,Liberal,Lib,t,4237,f,2
+17,1930-07-28,SK,238,ROSETOWN,7800,"EVANS, John",Progressive,121,Progressive,Progressive,t,2879,f,3
 17,1930-07-28,SK,239,SASKATOON,7801,"MACMILLAN, Frank Roland",Conservative,37,Conservative,Con,t,11663,f,1
 17,1930-07-28,SK,239,SASKATOON,7802,"Young, Alexander",Liberal,75,Liberal,Lib,t,9799,f,2
 17,1930-07-28,SK,240,SOUTH BATTLEFORD,7803,"VALLANCE, John",Liberal,75,Liberal,Lib,t,6664,f,1
@@ -537,8 +537,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 17,1930-07-28,SK,241,SWIFT CURRENT,7807,"IRWIN, Oscar M.",Conservative,37,Conservative,Con,t,5456,f,2
 17,1930-07-28,SK,241,SWIFT CURRENT,7808,"LAYCOCK, Joseph Gilbert",Farmer Labour,65,Labour,Labour,f,2091,f,3
 17,1930-07-28,SK,242,WEYBURN,7809,"YOUNG, Edward James",Liberal,75,Liberal,Lib,t,7259,f,1
-17,1930-07-28,SK,242,WEYBURN,7811,"MORLEY, John Rennie",Conservative,37,Conservative,Con,t,5723,f,2
-17,1930-07-28,SK,242,WEYBURN,7810,"MCMANUS, James Hamilton",Progressive,121,Progressive,Progressive,t,1433,f,3
+17,1930-07-28,SK,242,WEYBURN,7810,"MORLEY, John Rennie",Conservative,37,Conservative,Con,t,5723,f,2
+17,1930-07-28,SK,242,WEYBURN,7811,"MCMANUS, James Hamilton",Progressive,121,Progressive,Progressive,t,1433,f,3
 17,1930-07-28,SK,243,WILLOW BUNCH,7812,"DONNELLY, Thomas F.",Liberal,75,Liberal,Lib,t,9730,f,1
 17,1930-07-28,SK,243,WILLOW BUNCH,7813,"HOATH, Robert Bingham",Conservative,37,Conservative,Con,t,8992,f,2
 17,1930-07-28,SK,244,YORKTON,7814,"MCPHEE, George Washington",Liberal,75,Liberal,Lib,t,6887,f,1

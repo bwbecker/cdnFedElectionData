@@ -1,87 +1,87 @@
 election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_party_name,party_id,party_name,party_short_name,mainstream,votes,acclaimed,place
 19,1940-03-26,AB,1,ACADIA,8710,"QUELCH, Victor",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,3767,f,1
-19,1940-03-26,AB,1,ACADIA,8712,"DAY, Arthur M.",Liberal,75,Liberal,Lib,t,3740,f,2
-19,1940-03-26,AB,1,ACADIA,8711,"SMITH, George B.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,802,f,3
+19,1940-03-26,AB,1,ACADIA,8711,"DAY, Arthur M.",Liberal,75,Liberal,Lib,t,3740,f,2
+19,1940-03-26,AB,1,ACADIA,8712,"SMITH, George B.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,802,f,3
 19,1940-03-26,AB,2,ATHABASKA,8713,"DECHENE, Joseph Miville",Liberal,75,Liberal,Lib,t,5961,f,1
 19,1940-03-26,AB,2,ATHABASKA,8714,"HAYHURST, William",New Democracy,143,Social Credit Party,SoCred,t,4817,f,2
 19,1940-03-26,AB,2,ATHABASKA,8715,"ROWE, Percy John",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2052,f,3
 19,1940-03-26,AB,3,BATTLE RIVER,8716,"FAIR, Robert",New Democracy,143,Social Credit Party,SoCred,t,5045,f,1
-19,1940-03-26,AB,3,BATTLE RIVER,8718,"PITMAN, Ernest Arthur",Liberal,75,Liberal,Lib,t,3808,f,2
-19,1940-03-26,AB,3,BATTLE RIVER,8717,"SPENCER, Henry Elvins",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,3401,f,3
+19,1940-03-26,AB,3,BATTLE RIVER,8717,"PITMAN, Ernest Arthur",Liberal,75,Liberal,Lib,t,3808,f,2
+19,1940-03-26,AB,3,BATTLE RIVER,8718,"SPENCER, Henry Elvins",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,3401,f,3
 19,1940-03-26,AB,4,BOW RIVER,8719,"JOHNSTON, Charles Edward",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,5410,f,1
-19,1940-03-26,AB,4,BOW RIVER,8722,"CLAYPOOL, A.B.",Liberal,75,Liberal,Lib,t,4050,f,2
-19,1940-03-26,AB,4,BOW RIVER,8723,"MANNING, M.E.",National Government,124,Progressive Conservative Party,PC,t,3248,f,3
-19,1940-03-26,AB,4,BOW RIVER,8721,"LIESMER, A.J.E.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2197,f,4
-19,1940-03-26,AB,4,BOW RIVER,8720,"ANDERSON, Lawrence",Communist Party of Canada,31,Communist Party,Com,f,847,f,5
+19,1940-03-26,AB,4,BOW RIVER,8720,"CLAYPOOL, A.B.",Liberal,75,Liberal,Lib,t,4050,f,2
+19,1940-03-26,AB,4,BOW RIVER,8721,"MANNING, M.E.",National Government,124,Progressive Conservative Party,PC,t,3248,f,3
+19,1940-03-26,AB,4,BOW RIVER,8722,"LIESMER, A.J.E.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2197,f,4
+19,1940-03-26,AB,4,BOW RIVER,8723,"ANDERSON, Lawrence",Communist Party of Canada,31,Communist Party,Com,f,847,f,5
 19,1940-03-26,AB,5,CALGARY EAST,8724,"ROSS, George Henry",Liberal,75,Liberal,Lib,t,5815,f,1
-19,1940-03-26,AB,5,CALGARY EAST,8727,"LANDERYOU, John Charles",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,5330,f,2
+19,1940-03-26,AB,5,CALGARY EAST,8725,"LANDERYOU, John Charles",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,5330,f,2
 19,1940-03-26,AB,5,CALGARY EAST,8726,"FARTHING, Hugh Cragg",National Government,124,Progressive Conservative Party,PC,t,4987,f,3
-19,1940-03-26,AB,5,CALGARY EAST,8725,"KELLOWAY, Warwick Freeman",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,4986,f,4
+19,1940-03-26,AB,5,CALGARY EAST,8727,"KELLOWAY, Warwick Freeman",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,4986,f,4
 19,1940-03-26,AB,6,CALGARY WEST,8728,"EDWARDS, Manley J.",Liberal,75,Liberal,Lib,t,7299,f,1
-19,1940-03-26,AB,6,CALGARY WEST,8730,"CUNNINGTON, Douglas G.L.",National Government,124,Progressive Conservative Party,PC,t,6896,f,2
-19,1940-03-26,AB,6,CALGARY WEST,8729,"WILKINSON, Rose",New Democracy,143,Social Credit Party,SoCred,t,4159,f,3
+19,1940-03-26,AB,6,CALGARY WEST,8729,"CUNNINGTON, Douglas G.L.",National Government,124,Progressive Conservative Party,PC,t,6896,f,2
+19,1940-03-26,AB,6,CALGARY WEST,8730,"WILKINSON, Rose",New Democracy,143,Social Credit Party,SoCred,t,4159,f,3
 19,1940-03-26,AB,6,CALGARY WEST,8731,"JOHNSON, J. Albert",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1444,f,4
 19,1940-03-26,AB,7,CAMROSE,8732,"MARSHALL, James Alexander",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,6359,f,1
-19,1940-03-26,AB,7,CAMROSE,8734,"CLAEYS, Charles",Liberal,75,Liberal,Lib,t,4443,f,2
-19,1940-03-26,AB,7,CAMROSE,8733,"LEFSRUD, Sigurd",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2065,f,3
+19,1940-03-26,AB,7,CAMROSE,8733,"CLAEYS, Charles",Liberal,75,Liberal,Lib,t,4443,f,2
+19,1940-03-26,AB,7,CAMROSE,8734,"LEFSRUD, Sigurd",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2065,f,3
 19,1940-03-26,AB,8,EDMONTON EAST,8735,"CASSELMAN, Frederick C.",Liberal,75,Liberal,Lib,t,8948,f,1
-19,1940-03-26,AB,8,EDMONTON EAST,8737,"KENNEDY, Orvis A.",New Democracy,143,Social Credit Party,SoCred,t,7279,f,2
-19,1940-03-26,AB,8,EDMONTON EAST,8736,"GEE, Sidney J.",National Government,124,Progressive Conservative Party,PC,t,2302,f,3
+19,1940-03-26,AB,8,EDMONTON EAST,8736,"KENNEDY, Orvis A.",New Democracy,143,Social Credit Party,SoCred,t,7279,f,2
+19,1940-03-26,AB,8,EDMONTON EAST,8737,"GEE, Sidney J.",National Government,124,Progressive Conservative Party,PC,t,2302,f,3
 19,1940-03-26,AB,8,EDMONTON EAST,8738,"LEE, Clifford E.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1962,f,4
 19,1940-03-26,AB,9,EDMONTON WEST,8739,"MACKINNON, Hon. James A.",Liberal,75,Liberal,Lib,t,12350,f,1
-19,1940-03-26,AB,9,EDMONTON WEST,8742,"OGILVIE, James H.",National Government,124,Progressive Conservative Party,PC,t,4054,f,2
-19,1940-03-26,AB,9,EDMONTON WEST,8740,"GILLIES, John B.",New Democracy,143,Social Credit Party,SoCred,t,3695,f,3
-19,1940-03-26,AB,9,EDMONTON WEST,8741,"CRAWFORD, Mary R.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1616,f,4
+19,1940-03-26,AB,9,EDMONTON WEST,8740,"OGILVIE, James H.",National Government,124,Progressive Conservative Party,PC,t,4054,f,2
+19,1940-03-26,AB,9,EDMONTON WEST,8741,"GILLIES, John B.",New Democracy,143,Social Credit Party,SoCred,t,3695,f,3
+19,1940-03-26,AB,9,EDMONTON WEST,8742,"CRAWFORD, Mary R.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1616,f,4
 19,1940-03-26,AB,10,JASPER--EDSON,8743,"KUHL, Walter Frederick",New Democracy,143,Social Credit Party,SoCred,t,6363,f,1
 19,1940-03-26,AB,10,JASPER--EDSON,8744,"KNIGHT, Arthur Allan",Liberal,75,Liberal,Lib,t,6283,f,2
 19,1940-03-26,AB,10,JASPER--EDSON,8745,"CRITCHLOW, Hugh",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2102,f,3
 19,1940-03-26,AB,10,JASPER--EDSON,8746,"BAMBER, Sydney",National Government,124,Progressive Conservative Party,PC,t,1835,f,4
 19,1940-03-26,AB,11,LETHBRIDGE,8747,"BLACKMORE, John Horne",New Democracy,143,Social Credit Party,SoCred,t,6362,f,1
-19,1940-03-26,AB,11,LETHBRIDGE,8749,"FAIRBAIRN, Lynden Eldon",Liberal,75,Liberal,Lib,t,5538,f,2
-19,1940-03-26,AB,11,LETHBRIDGE,8748,"STEWART, John Smith",National Government,124,Progressive Conservative Party,PC,t,3605,f,3
+19,1940-03-26,AB,11,LETHBRIDGE,8748,"FAIRBAIRN, Lynden Eldon",Liberal,75,Liberal,Lib,t,5538,f,2
+19,1940-03-26,AB,11,LETHBRIDGE,8749,"STEWART, John Smith",National Government,124,Progressive Conservative Party,PC,t,3605,f,3
 19,1940-03-26,AB,12,MACLEOD,8750,"HANSELL, Ernest George",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,6655,f,1
-19,1940-03-26,AB,12,MACLEOD,8752,"MCKENNA, Francis Olestes",Liberal,75,Liberal,Lib,t,4829,f,2
-19,1940-03-26,AB,12,MACLEOD,8753,"DAVIS, Grier Rider",National Government,124,Progressive Conservative Party,PC,t,3039,f,3
-19,1940-03-26,AB,12,MACLEOD,8751,"MCBRIDE, Ruth House",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2180,f,4
+19,1940-03-26,AB,12,MACLEOD,8751,"MCKENNA, Francis Olestes",Liberal,75,Liberal,Lib,t,4829,f,2
+19,1940-03-26,AB,12,MACLEOD,8752,"DAVIS, Grier Rider",National Government,124,Progressive Conservative Party,PC,t,3039,f,3
+19,1940-03-26,AB,12,MACLEOD,8753,"MCBRIDE, Ruth House",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2180,f,4
 19,1940-03-26,AB,13,MEDICINE HAT,8754,"GERSHAW, Frederick William",Liberal,75,Liberal,Lib,t,9439,f,1
 19,1940-03-26,AB,13,MEDICINE HAT,8755,"MITCHELL, Archibald Hugh",New Democracy,143,Social Credit Party,SoCred,t,5524,f,2
 19,1940-03-26,AB,14,PEACE RIVER,8756,"SISSONS, John Howard",Liberal,75,Liberal,Lib,t,6426,f,1
-19,1940-03-26,AB,14,PEACE RIVER,8759,"PELLETIER, René-Antoine",New Democracy,143,Social Credit Party,SoCred,t,5347,f,2
+19,1940-03-26,AB,14,PEACE RIVER,8757,"PELLETIER, René-Antoine",New Democracy,143,Social Credit Party,SoCred,t,5347,f,2
 19,1940-03-26,AB,14,PEACE RIVER,8758,"MACKLIN, Irwin Victor",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,3307,f,3
-19,1940-03-26,AB,14,PEACE RIVER,8757,"BRULOTTE, Louis-Napoléon",Independent,52,Independent,Ind,f,488,f,4
+19,1940-03-26,AB,14,PEACE RIVER,8759,"BRULOTTE, Louis-Napoléon",Independent,52,Independent,Ind,f,488,f,4
 19,1940-03-26,AB,15,RED DEER,8760,"SHAW, Frederick Davis",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,5583,f,1
-19,1940-03-26,AB,15,RED DEER,8762,"BURY, Absalom Clark",Liberal,75,Liberal,Lib,t,4134,f,2
-19,1940-03-26,AB,15,RED DEER,8761,"MORRISON, P.N.R.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2771,f,3
+19,1940-03-26,AB,15,RED DEER,8761,"BURY, Absalom Clark",Liberal,75,Liberal,Lib,t,4134,f,2
+19,1940-03-26,AB,15,RED DEER,8762,"MORRISON, P.N.R.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2771,f,3
 19,1940-03-26,AB,15,RED DEER,8763,"STONHOUSE, Arthur A.",National Government,124,Progressive Conservative Party,PC,t,2694,f,4
 19,1940-03-26,AB,16,VEGREVILLE,8764,"HLYNKA, Anthony",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,5083,f,1
 19,1940-03-26,AB,16,VEGREVILLE,8765,"ARCHER, A.E.",Liberal,75,Liberal,Lib,t,4605,f,2
 19,1940-03-26,AB,16,VEGREVILLE,8766,"HALINA, William",United Progressive,31,Communist Party,Com,f,2727,f,3
 19,1940-03-26,AB,16,VEGREVILLE,8767,"BOUTILLIER, Herbert R.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1658,f,4
 19,1940-03-26,AB,17,WETASKIWIN,8768,"JAQUES, Norman",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,6245,f,1
-19,1940-03-26,AB,17,WETASKIWIN,8770,"CAMPBELL, Walter Stephen",Liberal,75,Liberal,Lib,t,4392,f,2
-19,1940-03-26,AB,17,WETASKIWIN,8769,"HASKINS, Robert Henry",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2539,f,3
+19,1940-03-26,AB,17,WETASKIWIN,8769,"CAMPBELL, Walter Stephen",Liberal,75,Liberal,Lib,t,4392,f,2
+19,1940-03-26,AB,17,WETASKIWIN,8770,"HASKINS, Robert Henry",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2539,f,3
 19,1940-03-26,AB,17,WETASKIWIN,8771,"RUSSELL, Charles Homer",National Government,124,Progressive Conservative Party,PC,t,2456,f,4
 19,1940-03-26,BC,18,CARIBOO,8772,"TURGEON, James Gray",Liberal,75,Liberal,Lib,t,6063,f,1
-19,1940-03-26,BC,18,CARIBOO,8774,"IRVINE, William",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,5070,f,2
-19,1940-03-26,BC,18,CARIBOO,8773,"STEPHENS, Frederick Herbert",National Government,124,Progressive Conservative Party,PC,t,2354,f,3
+19,1940-03-26,BC,18,CARIBOO,8773,"IRVINE, William",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,5070,f,2
+19,1940-03-26,BC,18,CARIBOO,8774,"STEPHENS, Frederick Herbert",National Government,124,Progressive Conservative Party,PC,t,2354,f,3
 19,1940-03-26,BC,19,COMOX--ALBERNI,8775,"NEILL, Alan Webster",Independent,52,Independent,Ind,f,10156,f,1
 19,1940-03-26,BC,19,COMOX--ALBERNI,8776,"BROWN, George Harrison",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,3835,f,2
 19,1940-03-26,BC,20,FRASER VALLEY,8777,"CRUICKSHANK, George Alexander",Liberal,75,Liberal,Lib,t,6638,f,1
-19,1940-03-26,BC,20,FRASER VALLEY,8779,"BARBER, Harry James",National Government,124,Progressive Conservative Party,PC,t,6211,f,2
-19,1940-03-26,BC,20,FRASER VALLEY,8778,"PENBERTHY, James Warren",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2877,f,3
+19,1940-03-26,BC,20,FRASER VALLEY,8778,"BARBER, Harry James",National Government,124,Progressive Conservative Party,PC,t,6211,f,2
+19,1940-03-26,BC,20,FRASER VALLEY,8779,"PENBERTHY, James Warren",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2877,f,3
 19,1940-03-26,BC,21,KAMLOOPS,8780,"O'NEILL, Thomas James",Liberal,75,Liberal,Lib,t,5621,f,1
-19,1940-03-26,BC,21,KAMLOOPS,8782,"STEVENS, Hon. Henry Herbert",National Government,124,Progressive Conservative Party,PC,t,4290,f,2
-19,1940-03-26,BC,21,KAMLOOPS,8781,"MACNAB, Margaret",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,3538,f,3
+19,1940-03-26,BC,21,KAMLOOPS,8781,"STEVENS, Hon. Henry Herbert",National Government,124,Progressive Conservative Party,PC,t,4290,f,2
+19,1940-03-26,BC,21,KAMLOOPS,8782,"MACNAB, Margaret",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,3538,f,3
 19,1940-03-26,BC,22,KOOTENAY EAST,8783,"MACKINNON, George E.L.",National Government,124,Progressive Conservative Party,PC,t,4395,f,1
-19,1940-03-26,BC,22,KOOTENAY EAST,8785,"MATTHEWS, James Herbert",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,4202,f,2
-19,1940-03-26,BC,22,KOOTENAY EAST,8784,"STEWART, Edwin K.",Liberal,75,Liberal,Lib,t,3974,f,3
+19,1940-03-26,BC,22,KOOTENAY EAST,8784,"MATTHEWS, James Herbert",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,4202,f,2
+19,1940-03-26,BC,22,KOOTENAY EAST,8785,"STEWART, Edwin K.",Liberal,75,Liberal,Lib,t,3974,f,3
 19,1940-03-26,BC,23,KOOTENAY WEST,8786,"ESLING, William Kemble",National Government,124,Progressive Conservative Party,PC,t,6771,f,1
 19,1940-03-26,BC,23,KOOTENAY WEST,8787,"HERRIDGE, Herbert Wilfred",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,6389,f,2
 19,1940-03-26,BC,23,KOOTENAY WEST,8788,"MACDONALD, Donald",Liberal,75,Liberal,Lib,t,4137,f,3
 19,1940-03-26,BC,24,NANAIMO,8789,"CHAMBERS, Alan",Liberal,75,Liberal,Lib,t,10668,f,1
 19,1940-03-26,BC,24,NANAIMO,8790,"CUNCLIFFE, Frank Stigant",National Government,124,Progressive Conservative Party,PC,t,7518,f,2
-19,1940-03-26,BC,24,NANAIMO,8792,"GRANTHAM, Ronald",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,6252,f,3
-19,1940-03-26,BC,24,NANAIMO,8791,"JUKES, Andrew Henry",New Democracy,143,Social Credit Party,SoCred,t,506,f,4
+19,1940-03-26,BC,24,NANAIMO,8791,"GRANTHAM, Ronald",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,6252,f,3
+19,1940-03-26,BC,24,NANAIMO,8792,"JUKES, Andrew Henry",New Democracy,143,Social Credit Party,SoCred,t,506,f,4
 19,1940-03-26,BC,24,NANAIMO,8793,"POVAH, William Frederick",Independent,52,Independent,Ind,f,181,f,5
 19,1940-03-26,BC,25,NEW WESTMINSTER,8794,"REID, Thomas",Liberal,75,Liberal,Lib,t,15287,f,1
 19,1940-03-26,BC,25,NEW WESTMINSTER,8795,"ALSBURY, Albert Thomas",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,9837,f,2
@@ -91,26 +91,26 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 19,1940-03-26,BC,26,SKEENA,8799,"CAMERON, George F.",National Government,124,Progressive Conservative Party,PC,t,1472,f,3
 19,1940-03-26,BC,26,SKEENA,8800,"MORRIS, Frank",Independent Liberal,58,Independent Liberal,IndLib,f,145,f,4
 19,1940-03-26,BC,27,VANCOUVER CENTRE,8801,"MACKENZIE, Hon. Ian Alistair",Liberal,75,Liberal,Lib,t,12100,f,1
-19,1940-03-26,BC,27,VANCOUVER CENTRE,8804,"SHERWOOD, Ernest Garfield",National Government,124,Progressive Conservative Party,PC,t,9338,f,2
-19,1940-03-26,BC,27,VANCOUVER CENTRE,8802,"LEFEAUX, Wallis Walter",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,8427,f,3
-19,1940-03-26,BC,27,VANCOUVER CENTRE,8805,"KERR, Paul McDowell",Independent,52,Independent,Ind,f,630,f,4
-19,1940-03-26,BC,27,VANCOUVER CENTRE,8803,"GLOZIER, Norman Lee",Independent Nationalist,60,Independent Nationalist,IndNat,f,408,f,5
+19,1940-03-26,BC,27,VANCOUVER CENTRE,8802,"SHERWOOD, Ernest Garfield",National Government,124,Progressive Conservative Party,PC,t,9338,f,2
+19,1940-03-26,BC,27,VANCOUVER CENTRE,8803,"LEFEAUX, Wallis Walter",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,8427,f,3
+19,1940-03-26,BC,27,VANCOUVER CENTRE,8804,"KERR, Paul McDowell",Independent,52,Independent,Ind,f,630,f,4
+19,1940-03-26,BC,27,VANCOUVER CENTRE,8805,"GLOZIER, Norman Lee",Independent Nationalist,60,Independent Nationalist,IndNat,f,408,f,5
 19,1940-03-26,BC,28,VANCOUVER EAST,8806,"MACINNIS, Angus",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,12490,f,1
-19,1940-03-26,BC,28,VANCOUVER EAST,8808,"HENDERSON, John",Liberal,75,Liberal,Lib,t,9196,f,2
-19,1940-03-26,BC,28,VANCOUVER EAST,8809,"DERPAK, William Wilfred",New Democracy,143,Social Credit Party,SoCred,t,5975,f,3
-19,1940-03-26,BC,28,VANCOUVER EAST,8807,"MCKEAN, Fergus",Communist Party of Canada,31,Communist Party,Com,f,1398,f,4
+19,1940-03-26,BC,28,VANCOUVER EAST,8807,"HENDERSON, John",Liberal,75,Liberal,Lib,t,9196,f,2
+19,1940-03-26,BC,28,VANCOUVER EAST,8808,"DERPAK, William Wilfred",New Democracy,143,Social Credit Party,SoCred,t,5975,f,3
+19,1940-03-26,BC,28,VANCOUVER EAST,8809,"MCKEAN, Fergus",Communist Party of Canada,31,Communist Party,Com,f,1398,f,4
 19,1940-03-26,BC,29,VANCOUVER NORTH,8810,"SINCLAIR, James",Liberal,75,Liberal,Lib,t,10496,f,1
 19,1940-03-26,BC,29,VANCOUVER NORTH,8811,"MACNEIL, Charles Grant",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,9832,f,2
 19,1940-03-26,BC,29,VANCOUVER NORTH,8812,"TUPPER, Reginald Hibbert",National Government,124,Progressive Conservative Party,PC,t,7186,f,3
 19,1940-03-26,BC,30,VANCOUVER SOUTH,8813,"GREEN, Howard Charles",National Government,124,Progressive Conservative Party,PC,t,18470,f,1
-19,1940-03-26,BC,30,VANCOUVER SOUTH,8815,"SMITH, Sidney Alexander",Liberal,75,Liberal,Lib,t,13451,f,2
-19,1940-03-26,BC,30,VANCOUVER SOUTH,8814,"TURNER, Arthur James",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,6062,f,3
+19,1940-03-26,BC,30,VANCOUVER SOUTH,8814,"SMITH, Sidney Alexander",Liberal,75,Liberal,Lib,t,13451,f,2
+19,1940-03-26,BC,30,VANCOUVER SOUTH,8815,"TURNER, Arthur James",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,6062,f,3
 19,1940-03-26,BC,31,VANCOUVER--BURRARD,8816,"MCGEER, Gerald Grattan",Liberal,75,Liberal,Lib,t,12617,f,1
 19,1940-03-26,BC,31,VANCOUVER--BURRARD,8817,"WEBSTER, Arnold Alexander",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,10745,f,2
 19,1940-03-26,BC,31,VANCOUVER--BURRARD,8818,"MCDONELL, Allan J.",National Government,124,Progressive Conservative Party,PC,t,9475,f,3
 19,1940-03-26,BC,32,VICTORIA,8819,"MAYHEW, Robert Wellington",Liberal,75,Liberal,Lib,t,13887,f,1
-19,1940-03-26,BC,32,VICTORIA,8821,"BROWN, James Sutherland",National Government,124,Progressive Conservative Party,PC,t,9193,f,2
-19,1940-03-26,BC,32,VICTORIA,8820,"MCALLISTER, Kenneth",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,3352,f,3
+19,1940-03-26,BC,32,VICTORIA,8820,"BROWN, James Sutherland",National Government,124,Progressive Conservative Party,PC,t,9193,f,2
+19,1940-03-26,BC,32,VICTORIA,8821,"MCALLISTER, Kenneth",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,3352,f,3
 19,1940-03-26,BC,33,YALE,8822,"STIRLING, Hon. Grote",National Government,124,Progressive Conservative Party,PC,t,8599,f,1
 19,1940-03-26,BC,33,YALE,8823,"JONES, Owen Lewis",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,7428,f,2
 19,1940-03-26,BC,33,YALE,8824,"MORROW, Charles William",Liberal,75,Liberal,Lib,t,6805,f,3
@@ -120,53 +120,53 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 19,1940-03-26,MB,35,CHURCHILL,8828,"CRERAR, Hon. Thomas Alexander",Liberal,75,Liberal,Lib,t,8276,f,1
 19,1940-03-26,MB,35,CHURCHILL,8829,"SCARTH, Will Blakeman",National Government,124,Progressive Conservative Party,PC,t,4963,f,2
 19,1940-03-26,MB,36,DAUPHIN,8830,"WARD, William John",Liberal,75,Liberal,Lib,t,5953,f,1
-19,1940-03-26,MB,36,DAUPHIN,8832,"BOWMAN, James L.",National Government,124,Progressive Conservative Party,PC,t,5900,f,2
-19,1940-03-26,MB,36,DAUPHIN,8831,"MOORE, Ronald S.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,5142,f,3
+19,1940-03-26,MB,36,DAUPHIN,8831,"BOWMAN, James L.",National Government,124,Progressive Conservative Party,PC,t,5900,f,2
+19,1940-03-26,MB,36,DAUPHIN,8832,"MOORE, Ronald S.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,5142,f,3
 19,1940-03-26,MB,37,LISGAR,8833,"WINKLER, Howard Waldemar",Liberal,75,Liberal,Lib,t,5221,f,1
 19,1940-03-26,MB,37,LISGAR,8834,"FOLLETT, Reginald Arthur Sprake",National Government,124,Progressive Conservative Party,PC,t,2433,f,2
-19,1940-03-26,MB,37,LISGAR,8836,"MCBRIEN, David Leslie",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1160,f,3
-19,1940-03-26,MB,37,LISGAR,8835,"MCINTYRE, Thomas Eldon",New Democracy,143,Social Credit Party,SoCred,t,685,f,4
+19,1940-03-26,MB,37,LISGAR,8835,"MCBRIEN, David Leslie",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1160,f,3
+19,1940-03-26,MB,37,LISGAR,8836,"MCINTYRE, Thomas Eldon",New Democracy,143,Social Credit Party,SoCred,t,685,f,4
 19,1940-03-26,MB,38,MACDONALD,8837,"WEIR, William Gilbert",Liberal Progressive,79,Liberal Progressive,LibProgr,f,7728,f,1
-19,1940-03-26,MB,38,MACDONALD,8839,"CUDDY, James Anthony",National Government,124,Progressive Conservative Party,PC,t,4510,f,2
-19,1940-03-26,MB,38,MACDONALD,8838,"LANGTRY, Ivan Andrew",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2639,f,3
+19,1940-03-26,MB,38,MACDONALD,8838,"CUDDY, James Anthony",National Government,124,Progressive Conservative Party,PC,t,4510,f,2
+19,1940-03-26,MB,38,MACDONALD,8839,"LANGTRY, Ivan Andrew",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2639,f,3
 19,1940-03-26,MB,39,MARQUETTE,8840,"GLEN, James Allison",Liberal Progressive,79,Liberal Progressive,LibProgr,f,7027,f,1
 19,1940-03-26,MB,39,MARQUETTE,8841,"EWBANK, James Wilson",Independent,52,Independent,Ind,f,5259,f,2
 19,1940-03-26,MB,39,MARQUETTE,8842,"PEDEN, Robert",National Government,124,Progressive Conservative Party,PC,t,4545,f,3
 19,1940-03-26,MB,40,NEEPAWA,8843,"MACKENZIE, Frederick Donald",Liberal,75,Liberal,Lib,t,6724,f,1
-19,1940-03-26,MB,40,NEEPAWA,8845,"MURPHY, Hon. Thomas Gerow",National Government,124,Progressive Conservative Party,PC,t,4865,f,2
-19,1940-03-26,MB,40,NEEPAWA,8844,"DUFFY, John Hazelett",New Democracy,143,Social Credit Party,SoCred,t,2208,f,3
+19,1940-03-26,MB,40,NEEPAWA,8844,"MURPHY, Hon. Thomas Gerow",National Government,124,Progressive Conservative Party,PC,t,4865,f,2
+19,1940-03-26,MB,40,NEEPAWA,8845,"DUFFY, John Hazelett",New Democracy,143,Social Credit Party,SoCred,t,2208,f,3
 19,1940-03-26,MB,41,PORTAGE LA PRAIRIE,8846,"LEADER, Harry",Liberal,75,Liberal,Lib,t,7442,f,1
 19,1940-03-26,MB,41,PORTAGE LA PRAIRIE,8847,"JONES, George Herbert",National Government,124,Progressive Conservative Party,PC,t,4835,f,2
 19,1940-03-26,MB,42,PROVENCHER,8848,"JUTRAS, René",Liberal,75,Liberal,Lib,t,3768,f,1
 19,1940-03-26,MB,42,PROVENCHER,8849,"SLATER, Leo A.",Independent,52,Independent,Ind,f,3329,f,2
 19,1940-03-26,MB,42,PROVENCHER,8850,"PODOLSKY, Harry Matthew",Independent,52,Independent,Ind,f,1765,f,3
 19,1940-03-26,MB,42,PROVENCHER,8851,"JOHNSTON, William Richard",National Government,124,Progressive Conservative Party,PC,t,1441,f,4
-19,1940-03-26,MB,42,PROVENCHER,8853,"BANVILLE, Albert",New Democracy,143,Social Credit Party,SoCred,t,1099,f,5
-19,1940-03-26,MB,42,PROVENCHER,8852,"GAGNON, Évariste Rupert",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,841,f,6
+19,1940-03-26,MB,42,PROVENCHER,8852,"BANVILLE, Albert",New Democracy,143,Social Credit Party,SoCred,t,1099,f,5
+19,1940-03-26,MB,42,PROVENCHER,8853,"GAGNON, Évariste Rupert",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,841,f,6
 19,1940-03-26,MB,43,SELKIRK,8854,"THORSON, Joseph T.",Liberal,75,Liberal,Lib,t,11023,f,1
-19,1940-03-26,MB,43,SELKIRK,8856,"WISE, Richard Ambrose",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,6869,f,2
-19,1940-03-26,MB,43,SELKIRK,8855,"PARTRIDGE, Edmund",National Government,124,Progressive Conservative Party,PC,t,3890,f,3
+19,1940-03-26,MB,43,SELKIRK,8855,"WISE, Richard Ambrose",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,6869,f,2
+19,1940-03-26,MB,43,SELKIRK,8856,"PARTRIDGE, Edmund",National Government,124,Progressive Conservative Party,PC,t,3890,f,3
 19,1940-03-26,MB,44,SOURIS,8857,"ROSS, James Arthur",National Government,124,Progressive Conservative Party,PC,t,4991,f,1
-19,1940-03-26,MB,44,SOURIS,8859,"MCDONALD, George William",Liberal,75,Liberal,Lib,t,4861,f,2
-19,1940-03-26,MB,44,SOURIS,8858,"PARKES, Alex H.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1370,f,3
+19,1940-03-26,MB,44,SOURIS,8858,"MCDONALD, George William",Liberal,75,Liberal,Lib,t,4861,f,2
+19,1940-03-26,MB,44,SOURIS,8859,"PARKES, Alex H.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1370,f,3
 19,1940-03-26,MB,45,SPRINGFIELD,8860,"TURNER, John Mowat",Liberal,75,Liberal,Lib,t,7462,f,1
 19,1940-03-26,MB,45,SPRINGFIELD,8861,"KNOWLES, Stanley Howard",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,7018,f,2
 19,1940-03-26,MB,45,SPRINGFIELD,8862,"FINLAYSON, Roderick Kenneth",National Government,124,Progressive Conservative Party,PC,t,3311,f,3
 19,1940-03-26,MB,46,ST. BONIFACE,8863,"HOWDEN, John Power",Liberal,75,Liberal,Lib,t,7926,f,1
 19,1940-03-26,MB,46,ST. BONIFACE,8864,"MACLEAN, George Campbell",National Government,124,Progressive Conservative Party,PC,t,3578,f,2
-19,1940-03-26,MB,46,ST. BONIFACE,8866,"GUAY, Philippe",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1839,f,3
-19,1940-03-26,MB,46,ST. BONIFACE,8865,"BAREFOOT, George Henry",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1739,f,4
+19,1940-03-26,MB,46,ST. BONIFACE,8865,"GUAY, Philippe",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,1839,f,3
+19,1940-03-26,MB,46,ST. BONIFACE,8866,"BAREFOOT, George Henry",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1739,f,4
 19,1940-03-26,MB,46,ST. BONIFACE,8867,"JACOB, Morris",Independent,52,Independent,Ind,f,216,f,5
 19,1940-03-26,MB,47,WINNIPEG NORTH,8868,"BOOTH, Charles Stephen",Liberal,75,Liberal,Lib,t,13015,f,1
-19,1940-03-26,MB,47,WINNIPEG NORTH,8870,"HEAPS, Abraham Albert",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,11249,f,2
-19,1940-03-26,MB,47,WINNIPEG NORTH,8869,"MORRIS, Leslie Tom",Communist Party of Canada,31,Communist Party,Com,f,5315,f,3
+19,1940-03-26,MB,47,WINNIPEG NORTH,8869,"HEAPS, Abraham Albert",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,11249,f,2
+19,1940-03-26,MB,47,WINNIPEG NORTH,8870,"MORRIS, Leslie Tom",Communist Party of Canada,31,Communist Party,Com,f,5315,f,3
 19,1940-03-26,MB,47,WINNIPEG NORTH,8871,"ELLOR, Percy",National Government,124,Progressive Conservative Party,PC,t,2255,f,4
 19,1940-03-26,MB,48,WINNIPEG NORTH CENTRE,8872,"WOODSWORTH, James Shaver",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,11324,f,1
 19,1940-03-26,MB,48,WINNIPEG NORTH CENTRE,8873,"MCDONNELL, Ambrose Roy",Liberal,75,Liberal,Lib,t,11199,f,2
 19,1940-03-26,MB,48,WINNIPEG NORTH CENTRE,8874,"STEFANSSON, Bjorn",National Government,124,Progressive Conservative Party,PC,t,5412,f,3
 19,1940-03-26,MB,49,WINNIPEG SOUTH,8875,"MUTCH, Leslie Alexander",Liberal,75,Liberal,Lib,t,15461,f,1
-19,1940-03-26,MB,49,WINNIPEG SOUTH,8877,"BAKER, Phipps",National Government,124,Progressive Conservative Party,PC,t,8445,f,2
-19,1940-03-26,MB,49,WINNIPEG SOUTH,8876,"MULLIGAN, Dave",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,3912,f,3
+19,1940-03-26,MB,49,WINNIPEG SOUTH,8876,"BAKER, Phipps",National Government,124,Progressive Conservative Party,PC,t,8445,f,2
+19,1940-03-26,MB,49,WINNIPEG SOUTH,8877,"MULLIGAN, Dave",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,3912,f,3
 19,1940-03-26,MB,50,WINNIPEG SOUTH CENTRE,8878,"MAYBANK, Ralph",Liberal,75,Liberal,Lib,t,19486,f,1
 19,1940-03-26,MB,50,WINNIPEG SOUTH CENTRE,8879,"KENNEDY, William Walker",National Government,124,Progressive Conservative Party,PC,t,10698,f,2
 19,1940-03-26,MB,50,WINNIPEG SOUTH CENTRE,8880,"SWANSON, John Julius",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,5576,f,3
@@ -207,20 +207,20 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 19,1940-03-26,NS,65,CUMBERLAND,8915,"DEMINGS, Guy Alton",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1403,f,3
 19,1940-03-26,NS,66,DIGBY--ANNAPOLIS--KINGS,8916,"ILSLEY, Hon. James Lorimer",Liberal,75,Liberal,Lib,t,15094,f,1
 19,1940-03-26,NS,66,DIGBY--ANNAPOLIS--KINGS,8917,"THOMAS, Hiram",National Government,124,Progressive Conservative Party,PC,t,9518,f,2
-19,1940-03-26,NS,67,HALIFAX-1,8919,"MACDONALD, William Chisholm",Liberal,75,Liberal,Lib,t,22089,f,1
-19,1940-03-26,NS,67,HALIFAX-1,8921,"DONAHOE, Richard A.",National Government,124,Progressive Conservative Party,PC,t,18197,f,2
-19,1940-03-26,NS,67,HALIFAX-1,8923,"FINN, Robert Emmett",Independent Liberal,58,Independent Liberal,IndLib,f,9217,f,3
-19,1940-03-26,NS,68,HALIFAX-2,8918,"ISNOR, Gordon B.",Liberal,75,Liberal,Lib,t,19398,f,1
-19,1940-03-26,NS,68,HALIFAX-2,8922,"SMITH, Charles B.",National Government,124,Progressive Conservative Party,PC,t,18114,f,2
-19,1940-03-26,NS,68,HALIFAX-2,8920,"BORGFORD, Helgi I.S.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1561,f,3
+19,1940-03-26,NS,67,HALIFAX-1,8918,"MACDONALD, William Chisholm",Liberal,75,Liberal,Lib,t,22089,f,1
+19,1940-03-26,NS,67,HALIFAX-1,8919,"SMITH, Charles B.",National Government,124,Progressive Conservative Party,PC,t,18114,f,2
+19,1940-03-26,NS,67,HALIFAX-1,8920,"BORGFORD, Helgi I.S.",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1561,f,3
+19,1940-03-26,NS,68,HALIFAX-2,8921,"ISNOR, Gordon B.",Liberal,75,Liberal,Lib,t,19398,f,1
+19,1940-03-26,NS,68,HALIFAX-2,8922,"DONAHOE, Richard A.",National Government,124,Progressive Conservative Party,PC,t,18197,f,2
+19,1940-03-26,NS,68,HALIFAX-2,8923,"FINN, Robert Emmett",Independent Liberal,58,Independent Liberal,IndLib,f,9217,f,3
 19,1940-03-26,NS,69,INVERNESS--RICHMOND,8924,"MCGARRY, Moses Elijah",Liberal,75,Liberal,Lib,t,9123,f,1
 19,1940-03-26,NS,69,INVERNESS--RICHMOND,8925,"MACDOUGALL, Isaac Duncan",National Government,124,Progressive Conservative Party,PC,t,7069,f,2
 19,1940-03-26,NS,70,PICTOU,8926,"MCCULLOCH, Henry B.",Liberal,75,Liberal,Lib,t,9983,f,1
 19,1940-03-26,NS,70,PICTOU,8927,"CAMERON, James M.",National Government,124,Progressive Conservative Party,PC,t,8292,f,2
 19,1940-03-26,NS,70,PICTOU,8928,"MACMILLAN, Chad",Independent,52,Independent,Ind,f,615,f,3
 19,1940-03-26,NS,71,QUEENS--LUNENBURG,8929,"KINLEY, John James",Liberal,75,Liberal,Lib,t,10616,f,1
-19,1940-03-26,NS,71,QUEENS--LUNENBURG,8931,"LEVY, Robert Clifford",National Government,124,Progressive Conservative Party,PC,t,7845,f,2
-19,1940-03-26,NS,71,QUEENS--LUNENBURG,8930,"VAN BUSKIRK, Claude",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,457,f,3
+19,1940-03-26,NS,71,QUEENS--LUNENBURG,8930,"LEVY, Robert Clifford",National Government,124,Progressive Conservative Party,PC,t,7845,f,2
+19,1940-03-26,NS,71,QUEENS--LUNENBURG,8931,"VAN BUSKIRK, Claude",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,457,f,3
 19,1940-03-26,NS,72,SHELBURNE--YARMOUTH--CLARE,8932,"POTTIER, Vincent-Joseph",Liberal,75,Liberal,Lib,t,10851,f,1
 19,1940-03-26,NS,72,SHELBURNE--YARMOUTH--CLARE,8933,"WALKER, James Marven",National Government,124,Progressive Conservative Party,PC,t,6569,f,2
 19,1940-03-26,ON,73,ALGOMA EAST,8934,"FARQUHAR, Thomas",Liberal,75,Liberal,Lib,t,5565,f,1
@@ -232,8 +232,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 19,1940-03-26,ON,75,BRANT,8940,"WOOD, George Ernest",Liberal,75,Liberal,Lib,t,4657,f,1
 19,1940-03-26,ON,75,BRANT,8941,"APPS, Charles Joseph Sylva",National Government,124,Progressive Conservative Party,PC,t,4519,f,2
 19,1940-03-26,ON,76,BRANTFORD CITY,8942,"MACDONALD, Ross",Liberal,75,Liberal,Lib,t,8013,f,1
-19,1940-03-26,ON,76,BRANTFORD CITY,8944,"WILMOT, Charles Eardley",National Government,124,Progressive Conservative Party,PC,t,6312,f,2
-19,1940-03-26,ON,76,BRANTFORD CITY,8943,"MATTHEWS, John Henry",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1315,f,3
+19,1940-03-26,ON,76,BRANTFORD CITY,8943,"WILMOT, Charles Eardley",National Government,124,Progressive Conservative Party,PC,t,6312,f,2
+19,1940-03-26,ON,76,BRANTFORD CITY,8944,"MATTHEWS, John Henry",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1315,f,3
 19,1940-03-26,ON,77,BROADVIEW,8945,"CHURCH, Thomas Langton",National Government,124,Progressive Conservative Party,PC,t,14474,f,1
 19,1940-03-26,ON,77,BROADVIEW,8946,"GRESSEWELL, George",Liberal,75,Liberal,Lib,t,7866,f,2
 19,1940-03-26,ON,77,BROADVIEW,8947,"GRUBE, George",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2613,f,3
@@ -257,17 +257,17 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 19,1940-03-26,ON,86,ELGIN,8965,"MILLS, Wilson Henry",Liberal,75,Liberal,Lib,t,11867,f,1
 19,1940-03-26,ON,86,ELGIN,8966,"MARTIN, Norman Roy",National Government,124,Progressive Conservative Party,PC,t,8905,f,2
 19,1940-03-26,ON,87,ESSEX EAST,8967,"MARTIN, Paul",Liberal,75,Liberal,Lib,t,9811,f,1
-19,1940-03-26,ON,87,ESSEX EAST,8969,"MORAND, Hon. Raymond D.",National Government,124,Progressive Conservative Party,PC,t,8060,f,2
-19,1940-03-26,ON,87,ESSEX EAST,8970,"LEVERT, Joseph Ben",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2879,f,3
-19,1940-03-26,ON,87,ESSEX EAST,8968,"HICKS, Roy Robert",Canadian Labour,21,Canadian Labour,CdnLab,f,398,f,4
+19,1940-03-26,ON,87,ESSEX EAST,8968,"MORAND, Hon. Raymond D.",National Government,124,Progressive Conservative Party,PC,t,8060,f,2
+19,1940-03-26,ON,87,ESSEX EAST,8969,"LEVERT, Joseph Ben",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2879,f,3
+19,1940-03-26,ON,87,ESSEX EAST,8970,"HICKS, Roy Robert",Canadian Labour,21,Canadian Labour,CdnLab,f,398,f,4
 19,1940-03-26,ON,88,ESSEX SOUTH,8971,"CLARK, Stuart Murray",Liberal,75,Liberal,Lib,t,7624,f,1
 19,1940-03-26,ON,88,ESSEX SOUTH,8972,"BRUNER, Albert Leonard",National Government,124,Progressive Conservative Party,PC,t,5457,f,2
 19,1940-03-26,ON,89,ESSEX WEST,8973,"MCLARTY, Hon. Norman A.",Liberal,75,Liberal,Lib,t,14133,f,1
 19,1940-03-26,ON,89,ESSEX WEST,8974,"REAUME, Arthur John",National Government,124,Progressive Conservative Party,PC,t,12940,f,2
 19,1940-03-26,ON,89,ESSEX WEST,8975,"JOYCE, Frederick Joseph",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,2035,f,3
 19,1940-03-26,ON,90,FORT WILLIAM,8976,"MCIVOR, Daniel",Liberal,75,Liberal,Lib,t,8504,f,1
-19,1940-03-26,ON,90,FORT WILLIAM,8978,"MANION, Hon. Robert James",National Government,124,Progressive Conservative Party,PC,t,6768,f,2
-19,1940-03-26,ON,90,FORT WILLIAM,8977,"ANDERSON, Garfield",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1778,f,3
+19,1940-03-26,ON,90,FORT WILLIAM,8977,"MANION, Hon. Robert James",National Government,124,Progressive Conservative Party,PC,t,6768,f,2
+19,1940-03-26,ON,90,FORT WILLIAM,8978,"ANDERSON, Garfield",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1778,f,3
 19,1940-03-26,ON,91,FRONTENAC--ADDINGTON,8979,"AYLESWORTH, Wilbert Ross",National Government,124,Progressive Conservative Party,PC,t,6154,f,1
 19,1940-03-26,ON,91,FRONTENAC--ADDINGTON,8980,"MCCALLUM, Angus Neil",Liberal,75,Liberal,Lib,t,6028,f,2
 19,1940-03-26,ON,92,GLENGARRY,8981,"MACDIARMID, William B.",Liberal,75,Liberal,Lib,t,4578,f,1
@@ -278,8 +278,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 19,1940-03-26,ON,94,GRENVILLE--DUNDAS,8986,"CASSELMAN, Arza Clair",National Government,124,Progressive Conservative Party,PC,t,7225,f,1
 19,1940-03-26,ON,94,GRENVILLE--DUNDAS,8987,"TAUGHER, William John",Liberal,75,Liberal,Lib,t,5642,f,2
 19,1940-03-26,ON,95,GREY NORTH,8988,"TELFORD, William P.",Liberal,75,Liberal,Lib,t,7538,f,1
-19,1940-03-26,ON,95,GREY NORTH,8990,"PORTEOUS, Victor C.",National Government,124,Progressive Conservative Party,PC,t,5771,f,2
-19,1940-03-26,ON,95,GREY NORTH,8989,"CASE, W. Garfield",National Liberal Progressive,77,Liberal Labour Progressive,LibLabProg,f,2434,f,3
+19,1940-03-26,ON,95,GREY NORTH,8989,"PORTEOUS, Victor C.",National Government,124,Progressive Conservative Party,PC,t,5771,f,2
+19,1940-03-26,ON,95,GREY NORTH,8990,"CASE, W. Garfield",National Liberal Progressive,77,Liberal Labour Progressive,LibLabProg,f,2434,f,3
 19,1940-03-26,ON,96,GREY--BRUCE,8991,"HARRIS, Walter Edward",Liberal,75,Liberal,Lib,t,6389,f,1
 19,1940-03-26,ON,96,GREY--BRUCE,8992,"KNECHTEL, Karl Daniel",National Government,124,Progressive Conservative Party,PC,t,4944,f,2
 19,1940-03-26,ON,96,GREY--BRUCE,8993,"MACPHAIL, Agnes Campbell",United Farmers of Ontario-Labour,65,Labour,Labour,f,4761,f,3
@@ -382,8 +382,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 19,1940-03-26,ON,138,SIMCOE NORTH,9090,"MCCUAIG, Duncan Fletcher",Liberal,75,Liberal,Lib,t,7096,f,1
 19,1940-03-26,ON,138,SIMCOE NORTH,9091,"BROCK, Frederick Aylsworth",National Government,124,Progressive Conservative Party,PC,t,6030,f,2
 19,1940-03-26,ON,139,SPADINA,9092,"FACTOR, Samuel",Liberal,75,Liberal,Lib,t,20506,f,1
-19,1940-03-26,ON,139,SPADINA,9094,"BLACKSTOCK, George Gooderham",National Government,124,Progressive Conservative Party,PC,t,14148,f,2
-19,1940-03-26,ON,139,SPADINA,9093,"SMITH, Stewart",Communist Party of Canada,31,Communist Party,Com,f,2922,f,3
+19,1940-03-26,ON,139,SPADINA,9093,"BLACKSTOCK, George Gooderham",National Government,124,Progressive Conservative Party,PC,t,14148,f,2
+19,1940-03-26,ON,139,SPADINA,9094,"SMITH, Stewart",Communist Party of Canada,31,Communist Party,Com,f,2922,f,3
 19,1940-03-26,ON,140,ST. PAUL'S,9095,"ROSS, Douglas Gooderham",National Government,124,Progressive Conservative Party,PC,t,15591,f,1
 19,1940-03-26,ON,140,ST. PAUL'S,9096,"ROONEY, James Hendrick",Liberal,75,Liberal,Lib,t,14816,f,2
 19,1940-03-26,ON,141,STORMONT,9097,"CHEVRIER, Lionel",Liberal,75,Liberal,Lib,t,10197,f,1
@@ -410,8 +410,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 19,1940-03-26,ON,148,WELLINGTON NORTH,9118,"BLAIR, John Knox",Liberal,75,Liberal,Lib,t,5748,f,1
 19,1940-03-26,ON,148,WELLINGTON NORTH,9119,"MENARY, Lewis",National Government,124,Progressive Conservative Party,PC,t,4266,f,2
 19,1940-03-26,ON,149,WELLINGTON SOUTH,9120,"GLADSTONE, Robert W.",Liberal,75,Liberal,Lib,t,8115,f,1
-19,1940-03-26,ON,149,WELLINGTON SOUTH,9122,"AUSTEN, Charles Leroy",Independent,52,Independent,Ind,f,5073,f,2
-19,1940-03-26,ON,149,WELLINGTON SOUTH,9121,"GUTHRIE, Hugh Comyn",National Government,124,Progressive Conservative Party,PC,t,4121,f,3
+19,1940-03-26,ON,149,WELLINGTON SOUTH,9121,"AUSTEN, Charles Leroy",Independent,52,Independent,Ind,f,5073,f,2
+19,1940-03-26,ON,149,WELLINGTON SOUTH,9122,"GUTHRIE, Hugh Comyn",National Government,124,Progressive Conservative Party,PC,t,4121,f,3
 19,1940-03-26,ON,150,WENTWORTH,9123,"CORMAN, Ellis Hopkins",Liberal,75,Liberal,Lib,t,15714,f,1
 19,1940-03-26,ON,150,WENTWORTH,9124,"LENNARD, Frank Exton",National Government,124,Progressive Conservative Party,PC,t,14949,f,2
 19,1940-03-26,ON,151,YORK EAST,9125,"MCGREGOR, Robert Henry",National Government,124,Progressive Conservative Party,PC,t,16741,f,1
@@ -429,10 +429,10 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 19,1940-03-26,PE,155,KING'S,9137,"MCDONALD, Augustine Adolphus",National Government,124,Progressive Conservative Party,PC,t,4081,f,2
 19,1940-03-26,PE,156,PRINCE,9138,"RALSTON, Hon. James Layton",Liberal,75,Liberal,Lib,t,8745,f,1
 19,1940-03-26,PE,156,PRINCE,9139,"MACPHEE, John Adolphus",National Government,124,Progressive Conservative Party,PC,t,5767,f,2
-19,1940-03-26,PE,157,QUEEN'S-1,9141,"DOUGLAS, James Lester",Liberal,75,Liberal,Lib,t,10411,f,1
-19,1940-03-26,PE,157,QUEEN'S-1,9143,"MCLURE, Winfield Chester",National Government,124,Progressive Conservative Party,PC,t,8974,f,2
-19,1940-03-26,PE,158,QUEEN'S-2,9140,"MACMILLAN, Hon. Cyrus",Liberal,75,Liberal,Lib,t,10511,f,1
-19,1940-03-26,PE,158,QUEEN'S-2,9142,"HYNDMAN, John Orlebar",National Government,124,Progressive Conservative Party,PC,t,9206,f,2
+19,1940-03-26,PE,157,QUEEN'S-1,9140,"DOUGLAS, James Lester",Liberal,75,Liberal,Lib,t,10411,f,1
+19,1940-03-26,PE,157,QUEEN'S-1,9141,"MCLURE, Winfield Chester",National Government,124,Progressive Conservative Party,PC,t,8974,f,2
+19,1940-03-26,PE,158,QUEEN'S-2,9142,"MACMILLAN, Hon. Cyrus",Liberal,75,Liberal,Lib,t,10511,f,1
+19,1940-03-26,PE,158,QUEEN'S-2,9143,"HYNDMAN, John Orlebar",National Government,124,Progressive Conservative Party,PC,t,9206,f,2
 19,1940-03-26,QC,159,ARGENTEUIL,9144,"MCGIBBON, James W.",Liberal,75,Liberal,Lib,t,5629,f,1
 19,1940-03-26,QC,159,ARGENTEUIL,9145,"HEON, Georges-Henri",National Government,124,Progressive Conservative Party,PC,t,3763,f,2
 19,1940-03-26,QC,160,BEAUCE,9146,"LACROIX, Maurice-Ernest-Edouard",Liberal,75,Liberal,Lib,t,12482,f,1
@@ -546,19 +546,19 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 19,1940-03-26,QC,206,SHERBROOKE,9254,"WALSH, Terence Gerard",National Government,124,Progressive Conservative Party,PC,t,5465,f,2
 19,1940-03-26,QC,206,SHERBROOKE,9255,"COTÉ, Joseph-Ernest",Independent,52,Independent,Ind,f,1697,f,3
 19,1940-03-26,QC,207,ST-MAURICE--LAFLÈCHE,9256,"CRÈTE, Joseph-Alphida",Liberal,75,Liberal,Lib,t,9440,f,1
-19,1940-03-26,QC,207,ST-MAURICE--LAFLÈCHE,9258,"FRIGON, Joseph-A.",Independent Liberal,58,Independent Liberal,IndLib,f,7465,f,2
-19,1940-03-26,QC,207,ST-MAURICE--LAFLÈCHE,9257,"BÉLAND, Joseph-Albert",National Government,124,Progressive Conservative Party,PC,t,1957,f,3
+19,1940-03-26,QC,207,ST-MAURICE--LAFLÈCHE,9257,"FRIGON, Joseph-A.",Independent Liberal,58,Independent Liberal,IndLib,f,7465,f,2
+19,1940-03-26,QC,207,ST-MAURICE--LAFLÈCHE,9258,"BÉLAND, Joseph-Albert",National Government,124,Progressive Conservative Party,PC,t,1957,f,3
 19,1940-03-26,QC,207,ST-MAURICE--LAFLÈCHE,9259,"DALLAIRE, Elzéar",Independent Liberal,58,Independent Liberal,IndLib,f,457,f,4
 19,1940-03-26,QC,208,ST. ANN,9260,"HEALY, Thomas P.",Liberal,75,Liberal,Lib,t,12687,f,1
-19,1940-03-26,QC,208,ST. ANN,9262,"LYNCH, Patrick T.",National Government,124,Progressive Conservative Party,PC,t,2806,f,2
-19,1940-03-26,QC,208,ST. ANN,9261,"GAWRONSKI, Gabriel Edward",Independent Liberal,58,Independent Liberal,IndLib,f,450,f,3
+19,1940-03-26,QC,208,ST. ANN,9261,"LYNCH, Patrick T.",National Government,124,Progressive Conservative Party,PC,t,2806,f,2
+19,1940-03-26,QC,208,ST. ANN,9262,"GAWRONSKI, Gabriel Edward",Independent Liberal,58,Independent Liberal,IndLib,f,450,f,3
 19,1940-03-26,QC,208,ST. ANN,9263,"LAWRENCE, Frederick S.",Independent Liberal,58,Independent Liberal,IndLib,f,257,f,4
 19,1940-03-26,QC,209,ST. ANTOINE--WESTMOUNT,9264,"ABBOTT, Douglas Charles",Liberal,75,Liberal,Lib,t,14879,f,1
 19,1940-03-26,QC,209,ST. ANTOINE--WESTMOUNT,9265,"WHITE, Robert Smeaton",National Government,124,Progressive Conservative Party,PC,t,8972,f,2
 19,1940-03-26,QC,210,ST. DENIS,9266,"DENIS, Azellus",Liberal,75,Liberal,Lib,t,18948,f,1
 19,1940-03-26,QC,210,ST. DENIS,9267,"GRENON, Hector",National Government,124,Progressive Conservative Party,PC,t,4979,f,2
-19,1940-03-26,QC,210,ST. DENIS,9269,"LUSSIER, Antonio",Independent Liberal,58,Independent Liberal,IndLib,f,4274,f,3
-19,1940-03-26,QC,210,ST. DENIS,9268,"CHAMPAGNE, J.-Antoine",Independent Liberal,58,Independent Liberal,IndLib,f,967,f,4
+19,1940-03-26,QC,210,ST. DENIS,9268,"LUSSIER, Antonio",Independent Liberal,58,Independent Liberal,IndLib,f,4274,f,3
+19,1940-03-26,QC,210,ST. DENIS,9269,"CHAMPAGNE, J.-Antoine",Independent Liberal,58,Independent Liberal,IndLib,f,967,f,4
 19,1940-03-26,QC,211,ST. HENRY,9270,"BONNIER, J.-Arsène",Liberal,75,Liberal,Lib,t,17531,f,1
 19,1940-03-26,QC,211,ST. HENRY,9271,"LAURIAULT, Wilfrid-Eldège",Independent Liberal,58,Independent Liberal,IndLib,f,10371,f,2
 19,1940-03-26,QC,211,ST. HENRY,9272,"LAMONTAGNE, Édouard",National Government,124,Progressive Conservative Party,PC,t,2081,f,3
@@ -567,17 +567,17 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 19,1940-03-26,QC,212,ST. HYACINTHE--BAGOT,9275,"GAUDETTE, J.-Wilfrid",Independent,52,Independent,Ind,f,2599,f,2
 19,1940-03-26,QC,213,ST. JAMES,9276,"DUROCHER, Eugène",Liberal,75,Liberal,Lib,t,27219,f,1
 19,1940-03-26,QC,213,ST. JAMES,9277,"JEANNOTTE, Joseph-Édouard",National Government,124,Progressive Conservative Party,PC,t,5777,f,2
-19,1940-03-26,QC,213,ST. JAMES,9279,"ROCHON, Hector",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1091,f,3
-19,1940-03-26,QC,213,ST. JAMES,9278,"MATHIEU, Achille",Independent Liberal,58,Independent Liberal,IndLib,f,864,f,4
+19,1940-03-26,QC,213,ST. JAMES,9278,"ROCHON, Hector",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,1091,f,3
+19,1940-03-26,QC,213,ST. JAMES,9279,"MATHIEU, Achille",Independent Liberal,58,Independent Liberal,IndLib,f,864,f,4
 19,1940-03-26,QC,214,ST. JOHNS--IBERVILLE--NAPIERVILLE,9280,"RHÉAUME, Martial",Liberal,75,Liberal,Lib,t,7439,f,1
-19,1940-03-26,QC,214,ST. JOHNS--IBERVILLE--NAPIERVILLE,9282,"ST-GERMAIN, Charles-Georges",Independent Liberal,58,Independent Liberal,IndLib,f,6307,f,2
-19,1940-03-26,QC,214,ST. JOHNS--IBERVILLE--NAPIERVILLE,9281,"GRÉGOIRE, Alexandre-E.",National Government,124,Progressive Conservative Party,PC,t,2331,f,3
+19,1940-03-26,QC,214,ST. JOHNS--IBERVILLE--NAPIERVILLE,9281,"ST-GERMAIN, Charles-Georges",Independent Liberal,58,Independent Liberal,IndLib,f,6307,f,2
+19,1940-03-26,QC,214,ST. JOHNS--IBERVILLE--NAPIERVILLE,9282,"GRÉGOIRE, Alexandre-E.",National Government,124,Progressive Conservative Party,PC,t,2331,f,3
 19,1940-03-26,QC,215,ST. LAWRENCE--ST. GEORGE,9283,"CLAXTON, Brooke",Liberal,75,Liberal,Lib,t,11553,f,1
 19,1940-03-26,QC,215,ST. LAWRENCE--ST. GEORGE,9284,"CAHAN, Hon. Charles Hazlitt",Conservative,37,Conservative,Con,t,6568,f,2
 19,1940-03-26,QC,216,ST. MARY,9285,"DESLAURIERS, Hermas",Liberal,75,Liberal,Lib,t,23185,f,1
-19,1940-03-26,QC,216,ST. MARY,9288,"FAUTEUX, Gabriel",National Government,124,Progressive Conservative Party,PC,t,4785,f,2
+19,1940-03-26,QC,216,ST. MARY,9286,"FAUTEUX, Gabriel",National Government,124,Progressive Conservative Party,PC,t,4785,f,2
 19,1940-03-26,QC,216,ST. MARY,9287,"DUBÉ, Évariste",Communist Party of Canada,31,Communist Party,Com,f,728,f,3
-19,1940-03-26,QC,216,ST. MARY,9286,"PRÉZEAU, Théodore",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,719,f,4
+19,1940-03-26,QC,216,ST. MARY,9288,"PRÉZEAU, Théodore",Co-operative Commonwealth Federation,29,Co-operative Commonwealth Federation,CCF,t,719,f,4
 19,1940-03-26,QC,217,STANSTEAD,9289,"DAVIDSON, Robert Greig",Liberal,75,Liberal,Lib,t,5112,f,1
 19,1940-03-26,QC,217,STANSTEAD,9290,"GIRARD, Alphonse",Independent Liberal,58,Independent Liberal,IndLib,f,4804,f,2
 19,1940-03-26,QC,218,TERREBONNE,9291,"BERTRAND, Lionel",Independent Liberal,58,Independent Liberal,IndLib,f,7839,f,1

@@ -2,8 +2,8 @@ election_id,prov_code,ed_id,ed_name,Con,Lib,Other,PC,1st,2nd,3rd
 6,BC,1,"CARIBOO",,105,,145,PC,Lib,Other
 6,BC,2,"NEW WESTMINSTER",771,,,,Con,Other,Lib
 6,BC,3,"VANCOUVER",465,,,713,PC,Con,Other
-6,BC,4,"VICTORIA-1",632,245,327,,Con,Other,Lib
-6,BC,5,"VICTORIA-2",548,253,394,,Con,Other,Lib
+6,BC,4,"VICTORIA-1",632,245,394,,Con,Other,Lib
+6,BC,5,"VICTORIA-2",548,253,327,,Con,Other,Lib
 6,BC,6,"YALE",,,,,Other,Con,Lib
 6,MB,7,"LISGAR",,,,,Other,Con,Lib
 6,MB,8,"MARQUETTE",2090,2148,,,Lib,Con,Other
@@ -28,8 +28,8 @@ election_id,prov_code,ed_id,ed_name,Con,Lib,Other,PC,1st,2nd,3rd
 6,NB,27,"YORK",2172,1768,,,Con,Lib,Other
 6,NS,28,"ANNAPOLIS",1758,1730,,,Con,Lib,Other
 6,NS,29,"ANTIGONISH",,1207,,1247,PC,Lib,Other
-6,NS,30,"CAPE BRETON-1",,1703,538,1883,PC,Lib,Other
-6,NS,31,"CAPE BRETON-2",1873,1071,1502,,Con,Other,Lib
+6,NS,30,"CAPE BRETON-1",1873,2774,,,Lib,Con,Other
+6,NS,31,"CAPE BRETON-2",,,2040,1883,Other,PC,Con
 6,NS,32,"COLCHESTER",2446,1819,,,Con,Lib,Other
 6,NS,33,"CUMBERLAND",2788,2120,206,,Con,Lib,Other
 6,NS,34,"DIGBY",1459,1364,,,Con,Lib,Other

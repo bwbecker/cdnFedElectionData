@@ -44,6 +44,79 @@ SELECT json_agg(
 $$;
 
 
+DROP FUNCTION _elections.json_elections();
+CREATE OR REPLACE FUNCTION _elections.json_elections(
+) RETURNS TABLE(election_id INT, design JSON)
+    LANGUAGE SQL
+AS $$
+WITH pRidings AS
+         (SELECT DISTINCT ON (election_id, prov_code, ed_id) election_id,
+                                                             prov_code,
+                                                             ed_id,
+                                                             json_build_object(
+                                                                     'riding_name', ed_name,
+                                                                     'districtMag', 1,
+                                                                     'physicalRidings',
+                                                                     json_build_array(json_build_array(ed_id, 100, ed_name))) AS riding_json
+
+          FROM _elections.results
+         ),
+
+     regions AS (
+         SELECT election_id,
+                prov_code,
+                json_build_object(
+                        'regionName', 'R_' || prov_code,
+                        'topUpSeats', 0,
+                        'virtualRidings', json_agg(riding_json)) AS region_json
+         FROM pRidings
+         GROUP BY election_id, prov_code
+         ORDER BY election_id, prov_code
+     ),
+
+     provs AS (SELECT election_id,
+                      json_agg(prov_json) AS provinces_json
+               FROM (SELECT election_id,
+                            prov_code,
+                            json_build_object(
+                                    'prov', prov_code,
+                                    'regions', json_build_array(region_json)
+                                ) AS prov_json
+                     FROM regions
+                     ORDER BY election_id, prov_code
+                    ) AS foo
+               GROUP BY election_id
+     ),
+
+     -- Find all those elections that have the same riding structure.  Group them together as the same
+     -- design.  Json doesn't have a native comparison function, so cast to a string to do it.  Yuck.
+     sameStructure AS (
+         SELECT min(election_id)               AS election_id,
+                json_agg(json_build_object('electionId', election_id, 'electionDate', election_date)
+                         ORDER BY election_id) AS elections
+         FROM provs
+                  JOIN _elections.elections USING (election_id)
+         GROUP BY provinces_json::TEXT
+     )
+
+SELECT election_id,
+       json_build_object(
+               'country', 'Canada',
+               'elections', elections,
+               'numRidings', (SELECT count(DISTINCT ed_id)
+                              FROM _elections.results
+                              WHERE results.election_id = sameStructure.election_id),
+               'provinces', provinces_json) AS json
+FROM sameStructure
+         JOIN provs USING (election_id)
+         JOIN _elections.elections USING (election_id)
+ORDER BY election_id
+$$;
+
+
+
+
+
 -- **********************************************************************************************
 -- **********************************************************************************************
 CREATE OR REPLACE FUNCTION _elections.write_json(
@@ -61,22 +134,42 @@ DECLARE
 BEGIN
     FOR rec IN
         SELECT election_id, format(
-                  $a$/Users/bwbecker/byron/activism/pr_recent/cdnFedElectionData/json_work/candidates-%s.json$a$,
-                  date_part('year', election_date)) AS cand_fname,
+                  $a$/Users/bwbecker/byron/activism/pr_recent/cdnFedElectionData/json_work/ca-cand-%s.json$a$,
+                  to_char(election_id, 'fm000')) AS cand_fname,
                 format(
-                  $a$/Users/bwbecker/byron/activism/pr_recent/cdnFedElectionData/json_work/ridings-%s.json$a$,
-                  date_part('year', election_date)) AS riding_fname
+                  $a$/Users/bwbecker/byron/activism/pr_recent/cdnFedElectionData/json_work/ca-ridings-%s.json$a$,
+                  to_char(election_id, 'fm000')) AS riding_fname,
+                format(
+                  $a$/Users/bwbecker/byron/activism/pr_recent/cdnFedElectionData/json_work/ca-sglMbr-%s.json$a$,
+                  to_char(election_id, 'fm000')) AS election_fname
           FROM _elections.elections
           --WHERE election_id IN (1, 2)
 
-        LOOP
+    LOOP
 
-            EXECUTE 'COPY (SELECT * FROM _elections.json_candidates(' || rec.election_id || ')) TO ' ||
-                    quote_literal(rec.cand_fname) || '(FORMAT TEXT)';
-            EXECUTE 'COPY (SELECT * FROM _elections.json_ridings(' || rec.election_id || ')) TO ' ||
-                    quote_literal(rec.riding_fname) || '(FORMAT TEXT)';
+        EXECUTE 'COPY (SELECT * FROM _elections.json_candidates(' || rec.election_id || ')) TO ' ||
+                quote_literal(rec.cand_fname) || '(FORMAT TEXT)';
+        EXECUTE 'COPY (SELECT * FROM _elections.json_ridings(' || rec.election_id || ')) TO ' ||
+                quote_literal(rec.riding_fname) || '(FORMAT TEXT)';
 
-        END LOOP;
+    END LOOP;
+
+    FOR rec IN
+        SELECT  election_id,
+                format(
+                  $a$/Users/bwbecker/byron/activism/pr_recent/cdnFedElectionData/json_work/ca-sglMbr-%s.json$a$,
+                  to_char(election_id, 'fm000')) AS election_fname,
+                design
+        FROM _elections.json_elections()
+
+    LOOP
+        EXECUTE format('COPY (SELECT design FROM _elections.json_elections() 
+                             WHERE election_id = %s) TO %s (FORMAT TEXT)', 
+                             rec.election_id, 
+                             quote_literal(rec.election_fname));
+
+    END LOOP;
+
 END
 
 $$

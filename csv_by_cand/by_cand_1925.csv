@@ -1,13 +1,13 @@
 election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_party_name,party_id,party_name,party_short_name,mainstream,votes,acclaimed,place
 15,1925-10-29,AB,1,ACADIA,6163,"GARDINER, Robert",Progressive,121,Progressive,Progressive,t,5362,f,1
-15,1925-10-29,AB,1,ACADIA,6165,"EATON, Robert Berry",Liberal,75,Liberal,Lib,t,1552,f,2
-15,1925-10-29,AB,1,ACADIA,6164,"WADE, George Harrison",Conservative,37,Conservative,Con,t,1481,f,3
+15,1925-10-29,AB,1,ACADIA,6164,"EATON, Robert Berry",Liberal,75,Liberal,Lib,t,1552,f,2
+15,1925-10-29,AB,1,ACADIA,6165,"WADE, George Harrison",Conservative,37,Conservative,Con,t,1481,f,3
 15,1925-10-29,AB,2,ATHABASKA,6166,"CROSS, Charles Wilson",Liberal,75,Liberal,Lib,t,5078,f,1
-15,1925-10-29,AB,2,ATHABASKA,6168,"KELLNER, Donald Ferdinand",Progressive,121,Progressive,Progressive,t,3648,f,2
-15,1925-10-29,AB,2,ATHABASKA,6167,"GAUVREAU, Charles Jenry",Conservative,37,Conservative,Con,t,643,f,3
+15,1925-10-29,AB,2,ATHABASKA,6167,"KELLNER, Donald Ferdinand",Progressive,121,Progressive,Progressive,t,3648,f,2
+15,1925-10-29,AB,2,ATHABASKA,6168,"GAUVREAU, Charles Jenry",Conservative,37,Conservative,Con,t,643,f,3
 15,1925-10-29,AB,3,BATTLE RIVER,6169,"SPENCER, Henry Elvins",Progressive,121,Progressive,Progressive,t,5067,f,1
-15,1925-10-29,AB,3,BATTLE RIVER,6171,"LEE, Raymond McFarlane",Liberal,75,Liberal,Lib,t,1690,f,2
-15,1925-10-29,AB,3,BATTLE RIVER,6170,"MORRISON, John William Geddie",Conservative,37,Conservative,Con,t,1634,f,3
+15,1925-10-29,AB,3,BATTLE RIVER,6170,"LEE, Raymond McFarlane",Liberal,75,Liberal,Lib,t,1690,f,2
+15,1925-10-29,AB,3,BATTLE RIVER,6171,"MORRISON, John William Geddie",Conservative,37,Conservative,Con,t,1634,f,3
 15,1925-10-29,AB,4,BOW RIVER,6172,"GARLAND, Edward Joseph",Progressive,121,Progressive,Progressive,t,3773,f,1
 15,1925-10-29,AB,4,BOW RIVER,6173,"GOUGE, Jesse Elmer",Liberal,75,Liberal,Lib,t,2917,f,2
 15,1925-10-29,AB,4,BOW RIVER,6174,"DOUGLASS, William James",Conservative,37,Conservative,Con,t,2075,f,3
@@ -31,8 +31,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 15,1925-10-29,AB,11,MACLEOD,6192,"HERRON, John",Conservative,37,Conservative,Con,t,4239,f,2
 15,1925-10-29,AB,11,MACLEOD,6193,"MILNES, Thomas Charles",Liberal,75,Liberal,Lib,t,1941,f,3
 15,1925-10-29,AB,12,MEDICINE HAT,6194,"GERSHAW, Frederick William",Liberal,75,Liberal,Lib,t,4383,f,1
-15,1925-10-29,AB,12,MEDICINE HAT,6196,"BLACKSTOCK, George McNeill",Conservative,37,Conservative,Con,t,2397,f,2
-15,1925-10-29,AB,12,MEDICINE HAT,6195,"MCDANIEL, Hugh Campbell",Progressive,121,Progressive,Progressive,t,2039,f,3
+15,1925-10-29,AB,12,MEDICINE HAT,6195,"BLACKSTOCK, George McNeill",Conservative,37,Conservative,Con,t,2397,f,2
+15,1925-10-29,AB,12,MEDICINE HAT,6196,"MCDANIEL, Hugh Campbell",Progressive,121,Progressive,Progressive,t,2039,f,3
 15,1925-10-29,AB,13,PEACE RIVER,6197,"KENNEDY, Donald MacBeth",Progressive,121,Progressive,Progressive,t,3986,f,1
 15,1925-10-29,AB,13,PEACE RIVER,6198,"COLLINS, James Arthur",Conservative,37,Conservative,Con,t,3969,f,2
 15,1925-10-29,AB,13,PEACE RIVER,6199,"RAE, William Archibald",Liberal,75,Liberal,Lib,t,3944,f,3
@@ -100,8 +100,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 15,1925-10-29,MB,39,PROVENCHER,6261,"BEAUBIEN, Arthur-Lucien",Progressive,121,Progressive,Progressive,t,2736,f,1
 15,1925-10-29,MB,39,PROVENCHER,6262,"COMEAULT, Edmond",Liberal,75,Liberal,Lib,t,2656,f,2
 15,1925-10-29,MB,40,SELKIRK,6263,"HANNESSON, Hannes Marino",Conservative,37,Conservative,Con,t,3831,f,1
-15,1925-10-29,MB,40,SELKIRK,6265,"BANCROFT, Leland Payson",Liberal Progressive,79,Liberal Progressive,LibProgr,f,3319,f,2
-15,1925-10-29,MB,40,SELKIRK,6264,"GIBBS, Walter Henry Gabriel",Liberal,75,Liberal,Lib,t,2524,f,3
+15,1925-10-29,MB,40,SELKIRK,6264,"BANCROFT, Leland Payson",Liberal Progressive,79,Liberal Progressive,LibProgr,f,3319,f,2
+15,1925-10-29,MB,40,SELKIRK,6265,"GIBBS, Walter Henry Gabriel",Liberal,75,Liberal,Lib,t,2524,f,3
 15,1925-10-29,MB,41,SOURIS,6266,"STEEDSMAN, James",Progressive,121,Progressive,Progressive,t,3509,f,1
 15,1925-10-29,MB,41,SOURIS,6267,"WILLSON, William",Conservative,37,Conservative,Con,t,3258,f,2
 15,1925-10-29,MB,41,SOURIS,6268,"WILLIAMS, John",Liberal,75,Liberal,Lib,t,1563,f,3
@@ -135,10 +135,10 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 15,1925-10-29,NB,52,RESTIGOUCHE--MADAWASKA,6296,"MICHAUD, Pius",Liberal,75,Liberal,Lib,t,4904,f,2
 15,1925-10-29,NB,53,ROYAL,6297,"JONES, George B.",Conservative,37,Conservative,Con,t,7485,f,1
 15,1925-10-29,NB,53,ROYAL,6298,"MCALISTER, Duncan H.",Liberal,75,Liberal,Lib,t,5614,f,2
-15,1925-10-29,NB,54,ST. JOHN--ALBERT-1,6300,"BELL, Thomas",Conservative,37,Conservative,Con,t,14250,f,1
-15,1925-10-29,NB,54,ST. JOHN--ALBERT-1,6302,"HAYES, Robert Thomas",Liberal,75,Liberal,Lib,t,8435,f,2
-15,1925-10-29,NB,55,ST. JOHN--ALBERT-2,6299,"MACLAREN, Murray",Conservative,37,Conservative,Con,t,14623,f,1
-15,1925-10-29,NB,55,ST. JOHN--ALBERT-2,6301,"FOSTER, Hon. Walter Edward",Liberal,75,Liberal,Lib,t,9348,f,2
+15,1925-10-29,NB,54,ST. JOHN--ALBERT-1,6299,"BELL, Thomas",Conservative,37,Conservative,Con,t,14250,f,1
+15,1925-10-29,NB,54,ST. JOHN--ALBERT-1,6300,"HAYES, Robert Thomas",Liberal,75,Liberal,Lib,t,8435,f,2
+15,1925-10-29,NB,55,ST. JOHN--ALBERT-2,6301,"MACLAREN, Murray",Conservative,37,Conservative,Con,t,14623,f,1
+15,1925-10-29,NB,55,ST. JOHN--ALBERT-2,6302,"FOSTER, Hon. Walter Edward",Liberal,75,Liberal,Lib,t,9348,f,2
 15,1925-10-29,NB,56,VICTORIA--CARLETON,6303,"FLEMMING, James Kidd",Conservative,37,Conservative,Con,t,6859,f,1
 15,1925-10-29,NB,56,VICTORIA--CARLETON,6304,"CALDWELL, Thomas Wakem",Independent Liberal Progressive,59,Independent Liberal Progressive,IndLibP,f,4958,f,2
 15,1925-10-29,NB,56,VICTORIA--CARLETON,6305,"ADNEY, Minnie Bell",Independent,52,Independent,Ind,f,84,f,3
@@ -159,10 +159,10 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 15,1925-10-29,NS,63,CUMBERLAND,6320,"LOGAN, Hance James",Liberal,75,Liberal,Lib,t,6291,f,2
 15,1925-10-29,NS,64,DIGBY--ANNAPOLIS,6321,"SHORT, Harry B.",Conservative,37,Conservative,Con,t,7599,f,1
 15,1925-10-29,NS,64,DIGBY--ANNAPOLIS,6322,"LOVETT, Lewis J.",Liberal,75,Liberal,Lib,t,7219,f,2
-15,1925-10-29,NS,65,HALIFAX-1,6324,"QUINN, Felix Patrick",Conservative,37,Conservative,Con,t,17996,f,1
-15,1925-10-29,NS,65,HALIFAX-1,6326,"FINN, Robert Emmett",Liberal,75,Liberal,Lib,t,10609,f,2
-15,1925-10-29,NS,66,HALIFAX-2,6323,"BLACK, William Anderson",Conservative,37,Conservative,Con,t,18796,f,1
-15,1925-10-29,NS,66,HALIFAX-2,6325,"MARSHALL, Gordon Ross",Liberal,75,Liberal,Lib,t,10815,f,2
+15,1925-10-29,NS,65,HALIFAX-1,6323,"QUINN, Felix Patrick",Conservative,37,Conservative,Con,t,17996,f,1
+15,1925-10-29,NS,65,HALIFAX-1,6324,"FINN, Robert Emmett",Liberal,75,Liberal,Lib,t,10609,f,2
+15,1925-10-29,NS,66,HALIFAX-2,6325,"BLACK, William Anderson",Conservative,37,Conservative,Con,t,18796,f,1
+15,1925-10-29,NS,66,HALIFAX-2,6326,"MARSHALL, Gordon Ross",Liberal,75,Liberal,Lib,t,10815,f,2
 15,1925-10-29,NS,67,HANTS--KINGS,6327,"FOSTER, Arthur de Witt",Conservative,37,Conservative,Con,t,10168,f,1
 15,1925-10-29,NS,67,HANTS--KINGS,6328,"ROBINSON, Ernest William",Liberal,75,Liberal,Lib,t,9110,f,2
 15,1925-10-29,NS,68,INVERNESS,6329,"MACDOUGALL, Isaac Duncan",Conservative,37,Conservative,Con,t,5030,f,1
@@ -272,10 +272,10 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 15,1925-10-29,ON,114,NORTHUMBERLAND,6433,"SLADE, Frederick John",Progressive,121,Progressive,Progressive,t,6665,f,2
 15,1925-10-29,ON,115,ONTARIO,6434,"KAISER, Thomas Erlin",Conservative,37,Conservative,Con,t,7835,f,1
 15,1925-10-29,ON,115,ONTARIO,6435,"CLIFFORD, Lawson Omar",Unknown,166,Unknown,Unknown,f,6595,f,2
-15,1925-10-29,ON,116,OTTAWA (CITY OF)-1,6437,"CHABOT, John Léo",Conservative,37,Conservative,Con,t,21281,f,1
-15,1925-10-29,ON,116,OTTAWA (CITY OF)-1,6439,"WILSON, Norman Frank",Liberal,75,Liberal,Lib,t,19165,f,2
-15,1925-10-29,ON,117,OTTAWA (CITY OF)-2,6436,"MCCLENAGHAN, Stewart",Conservative,37,Conservative,Con,t,21604,f,1
-15,1925-10-29,ON,117,OTTAWA (CITY OF)-2,6438,"CHEVRIER, Edgar Rodolphe",Liberal,75,Liberal,Lib,t,19725,f,2
+15,1925-10-29,ON,116,OTTAWA (CITY OF)-1,6436,"CHABOT, John Léo",Conservative,37,Conservative,Con,t,21281,f,1
+15,1925-10-29,ON,116,OTTAWA (CITY OF)-1,6437,"WILSON, Norman Frank",Liberal,75,Liberal,Lib,t,19165,f,2
+15,1925-10-29,ON,117,OTTAWA (CITY OF)-2,6438,"MCCLENAGHAN, Stewart",Conservative,37,Conservative,Con,t,21604,f,1
+15,1925-10-29,ON,117,OTTAWA (CITY OF)-2,6439,"CHEVRIER, Edgar Rodolphe",Liberal,75,Liberal,Lib,t,19725,f,2
 15,1925-10-29,ON,118,OXFORD NORTH,6440,"SUTHERLAND, Donald Matheson",Conservative,37,Conservative,Con,t,6243,f,1
 15,1925-10-29,ON,118,OXFORD NORTH,6441,"SINCLAIR, Duncan James",Liberal,75,Liberal,Lib,t,5660,f,2
 15,1925-10-29,ON,119,OXFORD SOUTH,6442,"SUTHERLAND, Donald",Conservative,37,Conservative,Con,t,5400,f,1
@@ -367,10 +367,10 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 15,1925-10-29,PE,155,KING'S,6528,"JOHNSTON, James J.",Liberal,75,Liberal,Lib,t,3422,f,2
 15,1925-10-29,PE,156,PRINCE,6529,"MACLEAN, Alfred E.",Liberal,75,Liberal,Lib,t,6692,f,1
 15,1925-10-29,PE,156,PRINCE,6530,"SHARP, G. Shelton",Conservative,37,Conservative,Con,t,5167,f,2
-15,1925-10-29,PE,157,QUEEN'S-1,6532,"MESSERVY, John Albert",Conservative,37,Conservative,Con,t,7432,f,1
-15,1925-10-29,PE,157,QUEEN'S-1,6534,"MCKINNON, Donald",Unknown,166,Unknown,Unknown,f,7392,f,2
-15,1925-10-29,PE,158,QUEEN'S-2,6531,"JENKINS, Robert Harold",Liberal,75,Liberal,Lib,t,8167,f,1
-15,1925-10-29,PE,158,QUEEN'S-2,6533,"SINCLAIR, John Ewen",Liberal,75,Liberal,Lib,t,7400,f,2
+15,1925-10-29,PE,157,QUEEN'S-1,6531,"MESSERVY, John Albert",Conservative,37,Conservative,Con,t,7432,f,1
+15,1925-10-29,PE,157,QUEEN'S-1,6532,"MCKINNON, Donald",Unknown,166,Unknown,Unknown,f,7392,f,2
+15,1925-10-29,PE,158,QUEEN'S-2,6533,"JENKINS, Robert Harold",Liberal,75,Liberal,Lib,t,8167,f,1
+15,1925-10-29,PE,158,QUEEN'S-2,6534,"SINCLAIR, John Ewen",Liberal,75,Liberal,Lib,t,7400,f,2
 15,1925-10-29,QC,159,ARGENTEUIL,6535,"PERLEY, Sir George H.",Conservative,37,Conservative,Con,t,3921,f,1
 15,1925-10-29,QC,159,ARGENTEUIL,6536,"LEGAULT, Joseph-Louis-Lorenzo",Liberal,75,Liberal,Lib,t,3721,f,2
 15,1925-10-29,QC,160,BAGOT,6537,"MARCILE, Joseph-Edmond",Liberal,75,Liberal,Lib,t,3571,f,1
@@ -394,11 +394,11 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 15,1925-10-29,QC,169,CHAMPLAIN,6555,"DESAULNIERS, Arthur Lesieur",Liberal,75,Liberal,Lib,t,9423,f,1
 15,1925-10-29,QC,169,CHAMPLAIN,6556,"BERGERON, Albert Joseph Ovila",Conservative,37,Conservative,Con,t,5057,f,2
 15,1925-10-29,QC,170,CHARLEVOIX--SAGUENAY,6557,"CASGRAIN, Pierre-François",Liberal,75,Liberal,Lib,t,8312,f,1
-15,1925-10-29,QC,170,CHARLEVOIX--SAGUENAY,6559,"GOBEIL, Jules",Conservative,37,Conservative,Con,t,3046,f,2
-15,1925-10-29,QC,170,CHARLEVOIX--SAGUENAY,6558,"LEGER, Alcibiade",Independent Liberal,58,Independent Liberal,IndLib,f,143,f,3
+15,1925-10-29,QC,170,CHARLEVOIX--SAGUENAY,6558,"GOBEIL, Jules",Conservative,37,Conservative,Con,t,3046,f,2
+15,1925-10-29,QC,170,CHARLEVOIX--SAGUENAY,6559,"LEGER, Alcibiade",Independent Liberal,58,Independent Liberal,IndLib,f,143,f,3
 15,1925-10-29,QC,171,CHICOUTIMI,6560,"DUBUC, Julien Edouard Alfre",Independent Liberal,58,Independent Liberal,IndLib,f,7198,f,1
-15,1925-10-29,QC,171,CHICOUTIMI,6562,"LEVESQUE, Louis-Joseph",Liberal,75,Liberal,Lib,t,4981,f,2
-15,1925-10-29,QC,171,CHICOUTIMI,6561,"GAGNE, Jean-Charles",Conservative,37,Conservative,Con,t,1120,f,3
+15,1925-10-29,QC,171,CHICOUTIMI,6561,"LEVESQUE, Louis-Joseph",Liberal,75,Liberal,Lib,t,4981,f,2
+15,1925-10-29,QC,171,CHICOUTIMI,6562,"GAGNE, Jean-Charles",Conservative,37,Conservative,Con,t,1120,f,3
 15,1925-10-29,QC,172,CHÂTEAUGUAY--HUNTINGDON,6563,"ROBB, Hon. James Alexander",Liberal,75,Liberal,Lib,t,5270,f,1
 15,1925-10-29,QC,172,CHÂTEAUGUAY--HUNTINGDON,6564,"SULLIVAN, John Alexander",Conservative,37,Conservative,Con,t,4058,f,2
 15,1925-10-29,QC,173,COMPTON,6565,"LETELLIER, DE SAINT-JUST, Joseph Étienne",Liberal,75,Liberal,Lib,t,6497,f,1
@@ -406,8 +406,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 15,1925-10-29,QC,174,DORCHESTER,6567,"CANNON, Hon. Lucien",Liberal,75,Liberal,Lib,t,5167,f,1
 15,1925-10-29,QC,174,DORCHESTER,6568,"GAUTHIER, Louis Joseph",Conservative,37,Conservative,Con,t,3666,f,2
 15,1925-10-29,QC,175,DRUMMOND--ARTHABASKA,6569,"GIROUARD, Wilfrid",Liberal,75,Liberal,Lib,t,9301,f,1
-15,1925-10-29,QC,175,DRUMMOND--ARTHABASKA,6571,"MARIER, Joseph",Conservative,37,Conservative,Con,t,3926,f,2
-15,1925-10-29,QC,175,DRUMMOND--ARTHABASKA,6570,"POULIN DE COURVAL, Luc Louis Philippe",Farmer,157,United Farmers,UnitedFarm,f,1130,f,3
+15,1925-10-29,QC,175,DRUMMOND--ARTHABASKA,6570,"MARIER, Joseph",Conservative,37,Conservative,Con,t,3926,f,2
+15,1925-10-29,QC,175,DRUMMOND--ARTHABASKA,6571,"POULIN DE COURVAL, Luc Louis Philippe",Farmer,157,United Farmers,UnitedFarm,f,1130,f,3
 15,1925-10-29,QC,176,GASPÉ,6572,"LEMIEUX, Hon. Rodolphe",Liberal,75,Liberal,Lib,t,7615,f,1
 15,1925-10-29,QC,176,GASPÉ,6573,"O'LEARY, Grattan",Conservative,37,Conservative,Con,t,3528,f,2
 15,1925-10-29,QC,177,HOCHELAGA,6574,"ST-PÈRE, Édouard Charles",Liberal,75,Liberal,Lib,t,14741,f,1
@@ -429,16 +429,16 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 15,1925-10-29,QC,185,LAKE ST. JOHN,6590,"SYLVESTRE, Armand",Liberal,75,Liberal,Lib,t,7579,f,1
 15,1925-10-29,QC,185,LAKE ST. JOHN,6591,"TURCOTTE, Joseph-Sylvio-Narcisse",Conservative,37,Conservative,Con,t,5502,f,2
 15,1925-10-29,QC,186,LAPRAIRIE--NAPIERVILLE,6592,"LANCTOT, Roch",Liberal,75,Liberal,Lib,t,3956,f,1
-15,1925-10-29,QC,186,LAPRAIRIE--NAPIERVILLE,6594,"BROSSARD, Arthur",Conservative,37,Conservative,Con,t,2635,f,2
-15,1925-10-29,QC,186,LAPRAIRIE--NAPIERVILLE,6593,"LAMARRE, Joseph Hildège",Independent,52,Independent,Ind,f,356,f,3
+15,1925-10-29,QC,186,LAPRAIRIE--NAPIERVILLE,6593,"BROSSARD, Arthur",Conservative,37,Conservative,Con,t,2635,f,2
+15,1925-10-29,QC,186,LAPRAIRIE--NAPIERVILLE,6594,"LAMARRE, Joseph Hildège",Independent,52,Independent,Ind,f,356,f,3
 15,1925-10-29,QC,187,LAURIER--OUTREMONT,6595,"MERCIER, Joseph-Alexandre",Liberal,75,Liberal,Lib,t,12889,f,1
 15,1925-10-29,QC,187,LAURIER--OUTREMONT,6596,"MONTY, Hon. Rodolphe",Conservative,37,Conservative,Con,t,10105,f,2
 15,1925-10-29,QC,188,LAVAL--TWO MOUNTAINS,6597,"LACOMBE, Liguori",Liberal,75,Liberal,Lib,t,5717,f,1
 15,1925-10-29,QC,188,LAVAL--TWO MOUNTAINS,6598,"GERMAIN, Alban",Conservative,37,Conservative,Con,t,3634,f,2
 15,1925-10-29,QC,188,LAVAL--TWO MOUNTAINS,6599,"BIBEAU, Joseph Azarie",Liberal,75,Liberal,Lib,t,768,f,3
 15,1925-10-29,QC,189,LOTBINIÈRE,6600,"VERVILLE, Joseph-Achille",Liberal,75,Liberal,Lib,t,3819,f,1
-15,1925-10-29,QC,189,LOTBINIÈRE,6602,"POULIOT, Joseph Adalbert",Conservative,37,Conservative,Con,t,1402,f,2
-15,1925-10-29,QC,189,LOTBINIÈRE,6601,"LANGLOIS, Omer",Liberal,75,Liberal,Lib,t,1358,f,3
+15,1925-10-29,QC,189,LOTBINIÈRE,6601,"POULIOT, Joseph Adalbert",Conservative,37,Conservative,Con,t,1402,f,2
+15,1925-10-29,QC,189,LOTBINIÈRE,6602,"LANGLOIS, Omer",Liberal,75,Liberal,Lib,t,1358,f,3
 15,1925-10-29,QC,190,LÉVIS,6603,"DUSSAULT, J. Étienne",Liberal,75,Liberal,Lib,t,7192,f,1
 15,1925-10-29,QC,190,LÉVIS,6604,"GRAVEL, L. Gédéon",Conservative,37,Conservative,Con,t,4899,f,2
 15,1925-10-29,QC,191,MAISONNEUVE,6605,"ROBITAILLE, Clément",Liberal,75,Liberal,Lib,t,12624,f,1
@@ -505,8 +505,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 15,1925-10-29,QC,218,TERREBONNE,6666,"PRÉVOST, Jules-Édouard",Liberal,75,Liberal,Lib,t,6789,f,1
 15,1925-10-29,QC,218,TERREBONNE,6667,"NANTEL, Léopold",Conservative,37,Conservative,Con,t,2609,f,2
 15,1925-10-29,QC,219,THREE RIVERS--ST. MAURICE,6668,"BETTEZ, Arthur",Liberal,75,Liberal,Lib,t,10285,f,1
-15,1925-10-29,QC,219,THREE RIVERS--ST. MAURICE,6670,"NORMAND, Louis",Conservative,37,Conservative,Con,t,6007,f,2
-15,1925-10-29,QC,219,THREE RIVERS--ST. MAURICE,6669,"RYAN, Robert",Unknown,166,Unknown,Unknown,f,1999,f,3
+15,1925-10-29,QC,219,THREE RIVERS--ST. MAURICE,6669,"NORMAND, Louis",Conservative,37,Conservative,Con,t,6007,f,2
+15,1925-10-29,QC,219,THREE RIVERS--ST. MAURICE,6670,"RYAN, Robert",Unknown,166,Unknown,Unknown,f,1999,f,3
 15,1925-10-29,QC,220,TÉMISCOUATA,6671,"POULIOT, Jean-François",Liberal,75,Liberal,Lib,t,7341,f,1
 15,1925-10-29,QC,220,TÉMISCOUATA,6672,"DUBÉ, Charles-Eugène",Conservative,37,Conservative,Con,t,5291,f,2
 15,1925-10-29,QC,221,VAUDREUIL--SOULANGES,6673,"WILSON, Lawrence A.",Liberal,75,Liberal,Lib,t,5554,f,1
@@ -563,8 +563,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 15,1925-10-29,SK,239,SASKATOON,6724,"MACMILLAN, Frank Roland",Conservative,37,Conservative,Con,t,5114,f,2
 15,1925-10-29,SK,239,SASKATOON,6725,"KIRKPATRICK, Walter Lee",Progressive,121,Progressive,Progressive,t,1417,f,3
 15,1925-10-29,SK,240,SOUTH BATTLEFORD,6726,"VALLANCE, John",Liberal,75,Liberal,Lib,t,4364,f,1
-15,1925-10-29,SK,240,SOUTH BATTLEFORD,6728,"BINGHAM, Sydney",Progressive,121,Progressive,Progressive,t,3252,f,2
-15,1925-10-29,SK,240,SOUTH BATTLEFORD,6727,"HAGERMAN, James Arnold",Conservative,37,Conservative,Con,t,2646,f,3
+15,1925-10-29,SK,240,SOUTH BATTLEFORD,6727,"BINGHAM, Sydney",Progressive,121,Progressive,Progressive,t,3252,f,2
+15,1925-10-29,SK,240,SOUTH BATTLEFORD,6728,"HAGERMAN, James Arnold",Conservative,37,Conservative,Con,t,2646,f,3
 15,1925-10-29,SK,241,SWIFT CURRENT,6729,"BOTHWELL, Charles Edward",Liberal,75,Liberal,Lib,t,4555,f,1
 15,1925-10-29,SK,241,SWIFT CURRENT,6730,"LEWIS, Arthur John",Progressive,121,Progressive,Progressive,t,3668,f,2
 15,1925-10-29,SK,242,WEYBURN,6731,"YOUNG, Edward James",Liberal,75,Liberal,Lib,t,4807,f,1

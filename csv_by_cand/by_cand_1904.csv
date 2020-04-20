@@ -1,23 +1,23 @@
 election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_party_name,party_id,party_name,party_short_name,mainstream,votes,acclaimed,place
 10,1904-11-03,BC,1,COMOX--ATLIN,3684,"SLOAN, W.",Liberal,75,Liberal,Lib,t,,t,1
 10,1904-11-03,BC,2,KOOTENAY,3685,"GALLIHER, William A.",Liberal,75,Liberal,Lib,t,2551,f,1
-10,1904-11-03,BC,2,KOOTENAY,3687,"MACKINTOSH, Chas.H.",Conservative,37,Conservative,Con,t,1784,f,2
-10,1904-11-03,BC,2,KOOTENAY,3686,"BAKER, James A.",Unknown,166,Unknown,Unknown,f,622,f,3
+10,1904-11-03,BC,2,KOOTENAY,3686,"MACKINTOSH, Chas.H.",Conservative,37,Conservative,Con,t,1784,f,2
+10,1904-11-03,BC,2,KOOTENAY,3687,"BAKER, James A.",Unknown,166,Unknown,Unknown,f,622,f,3
 10,1904-11-03,BC,3,NANAIMO,3688,"SMITH, Ralph",Liberal,75,Liberal,Lib,t,1392,f,1
 10,1904-11-03,BC,3,NANAIMO,3689,"WOLLEY,",Conservative,37,Conservative,Con,t,1105,f,2
 10,1904-11-03,BC,3,NANAIMO,3690,"FENTON,",Socialist,148,Socialist,Social,f,717,f,3
 10,1904-11-03,BC,4,NEW WESTMINSTER,3691,"KENNEDY, James Buckham",Liberal,75,Liberal,Lib,t,1866,f,1
 10,1904-11-03,BC,4,NEW WESTMINSTER,3692,"TAYLOR, James Davis",Conservative,37,Conservative,Con,t,1762,f,2
 10,1904-11-03,BC,5,VANCOUVER CITY,3693,"MACPHERSON, R.G.",Liberal,75,Liberal,Lib,t,2938,f,1
-10,1904-11-03,BC,5,VANCOUVER CITY,3695,"ELLIS, R.B.",Conservative,37,Conservative,Con,t,2080,f,2
-10,1904-11-03,BC,5,VANCOUVER CITY,3696,"MORTIMER, J.T.",Socialist,148,Socialist,Social,f,741,f,3
-10,1904-11-03,BC,5,VANCOUVER CITY,3694,"MCGEER, J.",Unknown,166,Unknown,Unknown,f,50,f,4
+10,1904-11-03,BC,5,VANCOUVER CITY,3694,"ELLIS, R.B.",Conservative,37,Conservative,Con,t,2080,f,2
+10,1904-11-03,BC,5,VANCOUVER CITY,3695,"MORTIMER, J.T.",Socialist,148,Socialist,Social,f,741,f,3
+10,1904-11-03,BC,5,VANCOUVER CITY,3696,"MCGEER, J.",Unknown,166,Unknown,Unknown,f,50,f,4
 10,1904-11-03,BC,6,VICTORIA CITY,3697,"RILEY, Geo.",Liberal,75,Liberal,Lib,t,1692,f,1
-10,1904-11-03,BC,6,VICTORIA CITY,3699,"PRIOR, Edward G.",Conservative,37,Conservative,Con,t,1192,f,2
-10,1904-11-03,BC,6,VICTORIA CITY,3698,"WATTERS, James C.",Socialist,148,Socialist,Social,f,336,f,3
+10,1904-11-03,BC,6,VICTORIA CITY,3698,"PRIOR, Edward G.",Conservative,37,Conservative,Con,t,1192,f,2
+10,1904-11-03,BC,6,VICTORIA CITY,3699,"WATTERS, James C.",Socialist,148,Socialist,Social,f,336,f,3
 10,1904-11-03,BC,7,YALE--CARIBOO,3700,"ROSS, Duncan",Liberal,75,Liberal,Lib,t,2019,f,1
-10,1904-11-03,BC,7,YALE--CARIBOO,3702,"BURRELL, Martin",Conservative,37,Conservative,Con,t,1858,f,2
-10,1904-11-03,BC,7,YALE--CARIBOO,3701,"MILLS, Ernest",Unknown,166,Unknown,Unknown,f,479,f,3
+10,1904-11-03,BC,7,YALE--CARIBOO,3701,"BURRELL, Martin",Conservative,37,Conservative,Con,t,1858,f,2
+10,1904-11-03,BC,7,YALE--CARIBOO,3702,"MILLS, Ernest",Unknown,166,Unknown,Unknown,f,479,f,3
 10,1904-11-03,MB,8,BRANDON,3703,"SIFTON, Clifford",Liberal,75,Liberal,Lib,t,3625,f,1
 10,1904-11-03,MB,8,BRANDON,3704,"RICHARDSON, R.L.",Independent,52,Independent,Ind,f,2804,f,2
 10,1904-11-03,MB,9,DAUPHIN,3705,"BURROWS, Theodore Arthur",Liberal,75,Liberal,Lib,t,,t,1
@@ -36,8 +36,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 10,1904-11-03,MB,16,SOURIS,3718,"SCHAFFNER, F.L.",Conservative,37,Conservative,Con,t,3123,f,1
 10,1904-11-03,MB,16,SOURIS,3719,"PATERSON, George",Liberal,75,Liberal,Lib,t,2603,f,2
 10,1904-11-03,MB,17,WINNIPEG,3720,"BOLE, D.W.",Liberal,75,Liberal,Lib,t,4308,f,1
-10,1904-11-03,MB,17,WINNIPEG,3722,"EVANS, W.S.",Conservative,37,Conservative,Con,t,4032,f,2
-10,1904-11-03,MB,17,WINNIPEG,3721,"PUTTEE, Arthur W.",Labour,65,Labour,Labour,f,1290,f,3
+10,1904-11-03,MB,17,WINNIPEG,3721,"EVANS, W.S.",Conservative,37,Conservative,Con,t,4032,f,2
+10,1904-11-03,MB,17,WINNIPEG,3722,"PUTTEE, Arthur W.",Labour,65,Labour,Labour,f,1290,f,3
 10,1904-11-03,NB,18,CARLETON,3723,"CARVELL, Frank Broadstreet",Liberal,75,Liberal,Lib,t,2662,f,1
 10,1904-11-03,NB,18,CARLETON,3724,"HALE, Frederick Harding",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2388,f,2
 10,1904-11-03,NB,19,CHARLOTTE,3725,"GANONG, Gilbert White",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2574,f,1
@@ -70,26 +70,26 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 10,1904-11-03,NS,32,ANTIGONISH,3752,"MCISAAC, Colin F.",Liberal,75,Liberal,Lib,t,1619,f,1
 10,1904-11-03,NS,32,ANTIGONISH,3753,"CAMERON, Hugh",Conservative,37,Conservative,Con,t,810,f,2
 10,1904-11-03,NS,33,CAPE BRETON SOUTH,3754,"JOHNSTON, Alex.",Liberal,75,Liberal,Lib,t,3459,f,1
-10,1904-11-03,NS,33,CAPE BRETON SOUTH,3756,"MCKAY, William",Conservative,37,Conservative,Con,t,3154,f,2
-10,1904-11-03,NS,33,CAPE BRETON SOUTH,3755,"MCNEIL, S.B.",Labour,65,Labour,Labour,f,869,f,3
+10,1904-11-03,NS,33,CAPE BRETON SOUTH,3755,"MCKAY, William",Conservative,37,Conservative,Con,t,3154,f,2
+10,1904-11-03,NS,33,CAPE BRETON SOUTH,3756,"MCNEIL, S.B.",Labour,65,Labour,Labour,f,869,f,3
 10,1904-11-03,NS,34,COLCHESTER,3757,"LAURENCE, F.A.",Liberal,75,Liberal,Lib,t,2610,f,1
 10,1904-11-03,NS,34,COLCHESTER,3758,"GOURLEY, S.E.",Conservative,37,Conservative,Con,t,2419,f,2
 10,1904-11-03,NS,35,CUMBERLAND,3759,"LOGAN, Hance J.",Liberal,75,Liberal,Lib,t,4535,f,1
 10,1904-11-03,NS,35,CUMBERLAND,3760,"ROGERS, T. Sherman",Conservative,37,Conservative,Con,t,3829,f,2
 10,1904-11-03,NS,36,DIGBY,3761,"COPP, Albert J.S.",Liberal,75,Liberal,Lib,t,1840,f,1
-10,1904-11-03,NS,36,DIGBY,3763,"GRINSON, John Arthur",Conservative,37,Conservative,Con,t,1096,f,2
-10,1904-11-03,NS,36,DIGBY,3762,"COMEAU, C.",Independent Liberal,58,Independent Liberal,IndLib,f,105,f,3
+10,1904-11-03,NS,36,DIGBY,3762,"GRINSON, John Arthur",Conservative,37,Conservative,Con,t,1096,f,2
+10,1904-11-03,NS,36,DIGBY,3763,"COMEAU, C.",Independent Liberal,58,Independent Liberal,IndLib,f,105,f,3
 10,1904-11-03,NS,37,GUYSBOROUGH,3764,"SINCLAIR, John H.",Liberal,75,Liberal,Lib,t,2040,f,1
 10,1904-11-03,NS,37,GUYSBOROUGH,3765,"WELLS, John S.",Conservative,37,Conservative,Con,t,1492,f,2
-10,1904-11-03,NS,38,HALIFAX-1,3767,"ROCHE, William",Liberal,75,Liberal,Lib,t,7430,f,1
-10,1904-11-03,NS,38,HALIFAX-1,3769,"BORDEN, R.L.",Conservative,37,Conservative,Con,t,6830,f,2
-10,1904-11-03,NS,39,HALIFAX-2,3766,"CARNEY, Michael",Liberal,75,Liberal,Lib,t,7277,f,1
-10,1904-11-03,NS,39,HALIFAX-2,3768,"O'MULLIN, John C.",Conservative,37,Conservative,Con,t,6472,f,2
+10,1904-11-03,NS,38,HALIFAX-1,3766,"ROCHE, William",Liberal,75,Liberal,Lib,t,7430,f,1
+10,1904-11-03,NS,38,HALIFAX-1,3767,"BORDEN, R.L.",Conservative,37,Conservative,Con,t,6830,f,2
+10,1904-11-03,NS,39,HALIFAX-2,3768,"CARNEY, Michael",Liberal,75,Liberal,Lib,t,7277,f,1
+10,1904-11-03,NS,39,HALIFAX-2,3769,"O'MULLIN, John C.",Conservative,37,Conservative,Con,t,6472,f,2
 10,1904-11-03,NS,40,HANTS,3770,"BLACK, J.B.",Liberal,75,Liberal,Lib,t,2033,f,1
 10,1904-11-03,NS,40,HANTS,3771,"HANRIGHT, Fred. W.",Conservative,37,Conservative,Con,t,1957,f,2
 10,1904-11-03,NS,41,INVERNESS,3772,"MCLENNAN, Angus",Liberal,75,Liberal,Lib,t,1963,f,1
-10,1904-11-03,NS,41,INVERNESS,3774,"CHISHOLM, Alex. W.",Independent,52,Independent,Ind,f,1653,f,2
-10,1904-11-03,NS,41,INVERNESS,3773,"JAMIESON, John H.",Conservative,37,Conservative,Con,t,1485,f,3
+10,1904-11-03,NS,41,INVERNESS,3773,"CHISHOLM, Alex. W.",Independent,52,Independent,Ind,f,1653,f,2
+10,1904-11-03,NS,41,INVERNESS,3774,"JAMIESON, John H.",Conservative,37,Conservative,Con,t,1485,f,3
 10,1904-11-03,NS,42,KINGS,3775,"BORDEN, Sir F.W.",Liberal,75,Liberal,Lib,t,2594,f,1
 10,1904-11-03,NS,42,KINGS,3776,"RYAN, J.W.",Conservative,37,Conservative,Con,t,1427,f,2
 10,1904-11-03,NS,43,LUNENBURG,3777,"MACLEAN, Alex K.",Liberal,75,Liberal,Lib,t,3274,f,1
@@ -99,8 +99,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 10,1904-11-03,NS,45,PICTOU,3781,"MACDONALD, Edward M.",Liberal,75,Liberal,Lib,t,4148,f,1
 10,1904-11-03,NS,45,PICTOU,3782,"BELL, Adam Carr",Conservative,37,Conservative,Con,t,3716,f,2
 10,1904-11-03,NS,46,RICHMOND,3783,"FINLAYSON, Duncan",Liberal,75,Liberal,Lib,t,1270,f,1
-10,1904-11-03,NS,46,RICHMOND,3785,"GILLIES, Joseph A.",Conservative,37,Conservative,Con,t,868,f,2
-10,1904-11-03,NS,46,RICHMOND,3784,"PAINT, Henry",Conservative,37,Conservative,Con,t,20,f,3
+10,1904-11-03,NS,46,RICHMOND,3784,"GILLIES, Joseph A.",Conservative,37,Conservative,Con,t,868,f,2
+10,1904-11-03,NS,46,RICHMOND,3785,"PAINT, Henry",Conservative,37,Conservative,Con,t,20,f,3
 10,1904-11-03,NS,47,SHELBURNE AND QUEEN'S,3786,"FIELDING, Hon. W.S.",Liberal,75,Liberal,Lib,t,2302,f,1
 10,1904-11-03,NS,47,SHELBURNE AND QUEEN'S,3787,"RITCHIE, James J.",Conservative,37,Conservative,Con,t,1917,f,2
 10,1904-11-03,NS,48,YARMOUTH,3788,"LAW, Bowman Brown",Liberal,75,Liberal,Lib,t,1883,f,1
@@ -230,10 +230,10 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 10,1904-11-03,ON,108,ONTARIO NORTH,3912,"PROCTOR, George A.",Conservative,37,Conservative,Con,t,2023,f,2
 10,1904-11-03,ON,109,ONTARIO SOUTH,3913,"CHRISTIE, Peter",Conservative,37,Conservative,Con,t,2544,f,1
 10,1904-11-03,ON,109,ONTARIO SOUTH,3914,"ROSS, William",Liberal,75,Liberal,Lib,t,2439,f,2
-10,1904-11-03,ON,110,OTTAWA (CITY OF)-1,3916,"STEWART, Robert",Liberal,75,Liberal,Lib,t,5871,f,1
-10,1904-11-03,ON,110,OTTAWA (CITY OF)-1,3918,"CHAMPAGNE, N.",Conservative,37,Conservative,Con,t,4547,f,2
-10,1904-11-03,ON,111,OTTAWA (CITY OF)-2,3915,"BELCOURT, N.A.",Liberal,75,Liberal,Lib,t,6275,f,1
-10,1904-11-03,ON,111,OTTAWA (CITY OF)-2,3917,"BIRKETT, Thomas",Conservative,37,Conservative,Con,t,4818,f,2
+10,1904-11-03,ON,110,OTTAWA (CITY OF)-1,3915,"STEWART, Robert",Liberal,75,Liberal,Lib,t,5871,f,1
+10,1904-11-03,ON,110,OTTAWA (CITY OF)-1,3916,"CHAMPAGNE, N.",Conservative,37,Conservative,Con,t,4547,f,2
+10,1904-11-03,ON,111,OTTAWA (CITY OF)-2,3917,"BELCOURT, N.A.",Liberal,75,Liberal,Lib,t,6275,f,1
+10,1904-11-03,ON,111,OTTAWA (CITY OF)-2,3918,"BIRKETT, Thomas",Conservative,37,Conservative,Con,t,4818,f,2
 10,1904-11-03,ON,112,OXFORD NORTH,3919,"SUTHERLAND, Hon. James",Liberal,75,Liberal,Lib,t,2768,f,1
 10,1904-11-03,ON,112,OXFORD NORTH,3920,"WALLACE, James G.",Conservative,37,Conservative,Con,t,1266,f,2
 10,1904-11-03,ON,113,OXFORD SOUTH,3921,"SCHELL, Malcolm S.",Liberal,75,Liberal,Lib,t,2565,f,1
@@ -306,10 +306,10 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 10,1904-11-03,PE,145,KING'S,3988,"MCLEAN, John",Conservative,37,Conservative,Con,t,2596,f,2
 10,1904-11-03,PE,146,PRINCE,3989,"LEFURGEY, A.A.",Conservative,37,Conservative,Con,t,3501,f,1
 10,1904-11-03,PE,146,PRINCE,3990,"RICHARDS, J.W.",Liberal,75,Liberal,Lib,t,3408,f,2
-10,1904-11-03,PE,147,QUEEN'S-1,3992,"MARTIN, Alex.",Conservative,37,Conservative,Con,t,4367,f,1
-10,1904-11-03,PE,147,QUEEN'S-1,3994,"WARBURTON, A.B.",Liberal,75,Liberal,Lib,t,4094,f,2
-10,1904-11-03,PE,148,QUEEN'S-2,3991,"MCLEAN, Angus A.",Conservative,37,Conservative,Con,t,4522,f,1
-10,1904-11-03,PE,148,QUEEN'S-2,3993,"PROWSE, L.E.",Liberal,75,Liberal,Lib,t,4286,f,2
+10,1904-11-03,PE,147,QUEEN'S-1,3991,"MARTIN, Alex.",Conservative,37,Conservative,Con,t,4367,f,1
+10,1904-11-03,PE,147,QUEEN'S-1,3992,"WARBURTON, A.B.",Liberal,75,Liberal,Lib,t,4094,f,2
+10,1904-11-03,PE,148,QUEEN'S-2,3993,"MCLEAN, Angus A.",Conservative,37,Conservative,Con,t,4522,f,1
+10,1904-11-03,PE,148,QUEEN'S-2,3994,"PROWSE, L.E.",Liberal,75,Liberal,Lib,t,4286,f,2
 10,1904-11-03,QC,149,ARGENTEUIL,3995,"PERLEY, George H.",Conservative,37,Conservative,Con,t,1516,f,1
 10,1904-11-03,QC,149,ARGENTEUIL,3996,"CHRISTIE, Thomas",Liberal,75,Liberal,Lib,t,1340,f,2
 10,1904-11-03,QC,150,BAGOT,3997,"MARCIL, Joseph-Edmond",Liberal,75,Liberal,Lib,t,1832,f,1
@@ -357,8 +357,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 10,1904-11-03,QC,172,L'ISLET,4039,"PAQUET, Eugène",Conservative,37,Conservative,Con,t,1195,f,1
 10,1904-11-03,QC,172,L'ISLET,4040,"CARBONNEAU, Onésiphore",Liberal,75,Liberal,Lib,t,1038,f,2
 10,1904-11-03,QC,173,LABELLE,4041,"BOURASSA, Henri",Liberal,75,Liberal,Lib,t,2640,f,1
-10,1904-11-03,QC,173,LABELLE,4043,"DUGAL, G. Alphonse",Conservative,37,Conservative,Con,t,1147,f,2
-10,1904-11-03,QC,173,LABELLE,4042,"CAMERON, Angus D.",Independent,52,Independent,Ind,f,399,f,3
+10,1904-11-03,QC,173,LABELLE,4042,"DUGAL, G. Alphonse",Conservative,37,Conservative,Con,t,1147,f,2
+10,1904-11-03,QC,173,LABELLE,4043,"CAMERON, Angus D.",Independent,52,Independent,Ind,f,399,f,3
 10,1904-11-03,QC,174,LAPRAIRIE--NAPIERVILLE,4044,"LANCTOT, Roch",Liberal,75,Liberal,Lib,t,1797,f,1
 10,1904-11-03,QC,174,LAPRAIRIE--NAPIERVILLE,4045,"COUPAL, Maximilien",Conservative,37,Conservative,Con,t,1561,f,2
 10,1904-11-03,QC,175,LAVAL,4046,"LÉONARD, Émile",Conservative,37,Conservative,Con,t,1842,f,1

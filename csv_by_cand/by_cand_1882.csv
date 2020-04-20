@@ -3,12 +3,12 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 5,1882-06-20,BC,2,NEW WESTMINSTER,1491,"HOMER, Joshua A.R.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,,t,1
 5,1882-06-20,BC,3,VANCOUVER,1492,"GORDON, David William",Liberal-Conservative,124,Progressive Conservative Party,PC,t,455,f,1
 5,1882-06-20,BC,3,VANCOUVER,1493,"BUNSTER, Arthur",Unknown,166,Unknown,Unknown,f,300,f,2
-5,1882-06-20,BC,4,VICTORIA-1,1495,"SHAKESPEARE, Noah",Conservative,37,Conservative,Con,t,400,f,1
-5,1882-06-20,BC,4,VICTORIA-1,1497,"DE COSMOS, A.",Liberal,75,Liberal,Lib,t,307,f,2
-5,1882-06-20,BC,4,VICTORIA-1,1499,"BOYD, Jno.",Unknown,166,Unknown,Unknown,f,149,f,3
-5,1882-06-20,BC,5,VICTORIA-2,1494,"BAKER, E.C.",Conservative,37,Conservative,Con,t,441,f,1
-5,1882-06-20,BC,5,VICTORIA-2,1498,"BOOTH, C.",Unknown,166,Unknown,Unknown,f,241,f,2
-5,1882-06-20,BC,5,VICTORIA-2,1496,"FELL, Jas.",Unknown,166,Unknown,Unknown,f,139,f,3
+5,1882-06-20,BC,4,VICTORIA-1,1494,"SHAKESPEARE, Noah",Conservative,37,Conservative,Con,t,400,f,1
+5,1882-06-20,BC,4,VICTORIA-1,1495,"BOOTH, C.",Unknown,166,Unknown,Unknown,f,241,f,2
+5,1882-06-20,BC,4,VICTORIA-1,1496,"FELL, Jas.",Unknown,166,Unknown,Unknown,f,139,f,3
+5,1882-06-20,BC,5,VICTORIA-2,1497,"BAKER, E.C.",Conservative,37,Conservative,Con,t,441,f,1
+5,1882-06-20,BC,5,VICTORIA-2,1498,"DE COSMOS, A.",Liberal,75,Liberal,Lib,t,307,f,2
+5,1882-06-20,BC,5,VICTORIA-2,1499,"BOYD, Jno.",Unknown,166,Unknown,Unknown,f,149,f,3
 5,1882-06-20,BC,6,YALE,1500,"BARNARD, F.J.",Conservative,37,Conservative,Con,t,266,f,1
 5,1882-06-20,BC,6,YALE,1501,"ROBINSON, Jas.",Unknown,166,Unknown,Unknown,f,109,f,2
 5,1882-06-20,BC,6,YALE,1502,"VERNON, F.G.",Unknown,166,Unknown,Unknown,f,78,f,3
@@ -20,18 +20,18 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 5,1882-06-20,MB,10,SELKIRK,1508,"SUTHERLAND, Hugh",Liberal,75,Liberal,Lib,t,1487,f,1
 5,1882-06-20,MB,10,SELKIRK,1509,"MULVEY, Stewart",Unknown,166,Unknown,Unknown,f,1064,f,2
 5,1882-06-20,MB,11,WINNIPEG,1510,"SCOTT, Thomas",Conservative,37,Conservative,Con,t,491,f,1
-5,1882-06-20,MB,11,WINNIPEG,1512,"CONKLIN, E.G.",Unknown,166,Unknown,Unknown,f,385,f,2
-5,1882-06-20,MB,11,WINNIPEG,1511,"SMITH, W.O.",Unknown,166,Unknown,Unknown,f,73,f,3
+5,1882-06-20,MB,11,WINNIPEG,1511,"CONKLIN, E.G.",Unknown,166,Unknown,Unknown,f,385,f,2
+5,1882-06-20,MB,11,WINNIPEG,1512,"SMITH, W.O.",Unknown,166,Unknown,Unknown,f,73,f,3
 5,1882-06-20,NB,12,ALBERT,1513,"WALLACE, John",Liberal,75,Liberal,Lib,t,784,f,1
 5,1882-06-20,NB,12,ALBERT,1514,"ROGERS, Alex.",Liberal,75,Liberal,Lib,t,723,f,2
 5,1882-06-20,NB,13,CARLETON,1515,"IRVINE, David",Liberal,75,Liberal,Lib,t,1812,f,1
 5,1882-06-20,NB,13,CARLETON,1516,"LINDSAY, Wm.",Unknown,166,Unknown,Unknown,f,1653,f,2
 5,1882-06-20,NB,14,CHARLOTTE,1517,"GILLMOR, Arthur H.",Liberal,75,Liberal,Lib,t,1558,f,1
 5,1882-06-20,NB,14,CHARLOTTE,1518,"STEVENSON, B.R.",Unknown,166,Unknown,Unknown,f,1244,f,2
-5,1882-06-20,NB,15,CITY AND COUNTY OF ST. JOHN-1,1520,"WELDON, Charles W.",Liberal,75,Liberal,Lib,t,2225,f,1
-5,1882-06-20,NB,15,CITY AND COUNTY OF ST. JOHN-1,1522,"TUCK, W.H.",Unknown,166,Unknown,Unknown,f,1864,f,2
-5,1882-06-20,NB,16,CITY AND COUNTY OF ST. JOHN-2,1519,"BURPEE, Hon. Isaac",Liberal,75,Liberal,Lib,t,2459,f,1
-5,1882-06-20,NB,16,CITY AND COUNTY OF ST. JOHN-2,1521,"EVERETT, C.A.",Conservative,37,Conservative,Con,t,1925,f,2
+5,1882-06-20,NB,15,CITY AND COUNTY OF ST. JOHN-1,1519,"WELDON, Charles W.",Liberal,75,Liberal,Lib,t,2225,f,1
+5,1882-06-20,NB,15,CITY AND COUNTY OF ST. JOHN-1,1520,"TUCK, W.H.",Unknown,166,Unknown,Unknown,f,1864,f,2
+5,1882-06-20,NB,16,CITY AND COUNTY OF ST. JOHN-2,1521,"BURPEE, Hon. Isaac",Liberal,75,Liberal,Lib,t,2459,f,1
+5,1882-06-20,NB,16,CITY AND COUNTY OF ST. JOHN-2,1522,"EVERETT, C.A.",Conservative,37,Conservative,Con,t,1925,f,2
 5,1882-06-20,NB,17,CITY OF ST. JOHN,1523,"TILLEY, Sir Samuel L.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1288,f,1
 5,1882-06-20,NB,17,CITY OF ST. JOHN,1524,"MCLEOD, George",Unknown,166,Unknown,Unknown,f,1151,f,2
 5,1882-06-20,NB,18,GLOUCESTER,1525,"BURNS, Kennedy F.",Conservative,37,Conservative,Con,t,1205,f,1
@@ -59,10 +59,10 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 5,1882-06-20,NS,28,ANNAPOLIS,1547,"FITZRANDOLPH, R.E.",Unknown,166,Unknown,Unknown,f,1368,f,2
 5,1882-06-20,NS,29,ANTIGONISH,1548,"MCISAAC, Angus",Liberal,75,Liberal,Lib,t,1068,f,1
 5,1882-06-20,NS,29,ANTIGONISH,1549,"WHIDDEN, C.B.",Unknown,166,Unknown,Unknown,f,735,f,2
-5,1882-06-20,NS,30,CAPE BRETON-1,1551,"DODD, Murray",Conservative,37,Conservative,Con,t,1237,f,1
-5,1882-06-20,NS,30,CAPE BRETON-1,1553,"MACKAY, N.L.",Liberal,75,Liberal,Lib,t,1013,f,2
-5,1882-06-20,NS,31,CAPE BRETON-2,1550,"MCDONALD, William",Conservative,37,Conservative,Con,t,1297,f,1
-5,1882-06-20,NS,31,CAPE BRETON-2,1552,"MCLEOD, W. McK.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1124,f,2
+5,1882-06-20,NS,30,CAPE BRETON-1,1550,"DODD, Murray",Conservative,37,Conservative,Con,t,1237,f,1
+5,1882-06-20,NS,30,CAPE BRETON-1,1551,"MACKAY, N.L.",Liberal,75,Liberal,Lib,t,1013,f,2
+5,1882-06-20,NS,31,CAPE BRETON-2,1552,"MCDONALD, William",Conservative,37,Conservative,Con,t,1297,f,1
+5,1882-06-20,NS,31,CAPE BRETON-2,1553,"MCLEOD, W. McK.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1124,f,2
 5,1882-06-20,NS,31,CAPE BRETON-2,1554,"MCDOUGALL, H.F.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,934,f,3
 5,1882-06-20,NS,32,COLCHESTER,1555,"MCLELAN, Hon. A.W.",Conservative,37,Conservative,Con,t,1887,f,1
 5,1882-06-20,NS,32,COLCHESTER,1556,"LAURENCE, F.A.",Unknown,166,Unknown,Unknown,f,1452,f,2
@@ -71,10 +71,10 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 5,1882-06-20,NS,34,DIGBY,1559,"WADE, John C.",Conservative,37,Conservative,Con,t,871,f,2
 5,1882-06-20,NS,35,GUYSBOROUGH,1560,"KIRK, John A.",Liberal,75,Liberal,Lib,t,818,f,1
 5,1882-06-20,NS,35,GUYSBOROUGH,1561,"OGDEN, Alfred",Conservative,37,Conservative,Con,t,628,f,2
-5,1882-06-20,NS,36,HALIFAX-1,1563,"RICHEY, M.H.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2785,f,1
-5,1882-06-20,NS,36,HALIFAX-1,1565,"FULLER, H.H.",Liberal,75,Liberal,Lib,t,2563,f,2
-5,1882-06-20,NS,37,HALIFAX-2,1562,"DALY, M.B.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2811,f,1
-5,1882-06-20,NS,37,HALIFAX-2,1564,"JONES, A.G.",Independent,52,Independent,Ind,f,2720,f,2
+5,1882-06-20,NS,36,HALIFAX-1,1562,"RICHEY, M.H.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2785,f,1
+5,1882-06-20,NS,36,HALIFAX-1,1563,"FULLER, H.H.",Liberal,75,Liberal,Lib,t,2563,f,2
+5,1882-06-20,NS,37,HALIFAX-2,1564,"DALY, M.B.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2811,f,1
+5,1882-06-20,NS,37,HALIFAX-2,1565,"JONES, A.G.",Independent,52,Independent,Ind,f,2720,f,2
 5,1882-06-20,NS,38,HANTS,1566,"ALLISON, Wm. Henry",Conservative,37,Conservative,Con,t,1386,f,1
 5,1882-06-20,NS,38,HANTS,1567,"CURRY, Wm.",Liberal,75,Liberal,Lib,t,1341,f,2
 5,1882-06-20,NS,39,INVERNESS,1568,"CAMERON, Hugh",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1912,f,1
@@ -83,10 +83,10 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 5,1882-06-20,NS,40,KINGS,1571,"BORDEN, F.W.",Liberal,75,Liberal,Lib,t,1357,f,2
 5,1882-06-20,NS,41,LUNENBURG,1572,"KEEFLER, Thomas T.",Liberal,75,Liberal,Lib,t,1169,f,1
 5,1882-06-20,NS,41,LUNENBURG,1573,"KAULBACK, C.E.",Conservative,37,Conservative,Con,t,1032,f,2
-5,1882-06-20,NS,42,PICTOU-1,1575,"TUPPER, Charles H.",Conservative,37,Conservative,Con,t,2681,f,1
-5,1882-06-20,NS,42,PICTOU-1,1577,"Dawson, J.A.",Liberal,75,Liberal,Lib,t,2320,f,2
-5,1882-06-20,NS,43,PICTOU-2,1574,"MCDOUGALD, John",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2709,f,1
-5,1882-06-20,NS,43,PICTOU-2,1576,"CARMICHAEL, J.W.",Liberal,75,Liberal,Lib,t,2397,f,2
+5,1882-06-20,NS,42,PICTOU-1,1574,"TUPPER, Charles H.",Conservative,37,Conservative,Con,t,2681,f,1
+5,1882-06-20,NS,42,PICTOU-1,1575,"Dawson, J.A.",Liberal,75,Liberal,Lib,t,2320,f,2
+5,1882-06-20,NS,43,PICTOU-2,1576,"MCDOUGALD, John",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2709,f,1
+5,1882-06-20,NS,43,PICTOU-2,1577,"CARMICHAEL, J.W.",Liberal,75,Liberal,Lib,t,2397,f,2
 5,1882-06-20,NS,44,QUEENS,1578,"FORBES, James F.",Liberal,75,Liberal,Lib,t,692,f,1
 5,1882-06-20,NS,44,QUEENS,1579,"FREEMAN, J.N.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,560,f,2
 5,1882-06-20,NS,45,RICHMOND,1580,"PAINT, Henry N.",Conservative,37,Conservative,Con,t,525,f,1
@@ -151,10 +151,10 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 5,1882-06-20,ON,74,HALDIMAND,1639,"MERRITT, Wm. H.",Unknown,166,Unknown,Unknown,f,1364,f,2
 5,1882-06-20,ON,75,HALTON,1640,"MCCRANEY, William",Liberal,75,Liberal,Lib,t,1822,f,1
 5,1882-06-20,ON,75,HALTON,1641,"MCKINDSEY, Geo. C.",Unknown,166,Unknown,Unknown,f,1739,f,2
-5,1882-06-20,ON,76,HAMILTON-1,1643,"ROBERTSON, Thomas",Liberal,75,Liberal,Lib,t,2612,f,1
-5,1882-06-20,ON,76,HAMILTON-1,1645,"IRVING, E.",Liberal,75,Liberal,Lib,t,2146,f,2
-5,1882-06-20,ON,77,HAMILTON-2,1642,"KILVERT, Francis E.",Conservative,37,Conservative,Con,t,2666,f,1
-5,1882-06-20,ON,77,HAMILTON-2,1644,"MOORE, Dennis",Liberal,75,Liberal,Lib,t,2194,f,2
+5,1882-06-20,ON,76,HAMILTON-1,1642,"ROBERTSON, Thomas",Liberal,75,Liberal,Lib,t,2612,f,1
+5,1882-06-20,ON,76,HAMILTON-1,1643,"IRVING, E.",Liberal,75,Liberal,Lib,t,2146,f,2
+5,1882-06-20,ON,77,HAMILTON-2,1644,"KILVERT, Francis E.",Conservative,37,Conservative,Con,t,2666,f,1
+5,1882-06-20,ON,77,HAMILTON-2,1645,"MOORE, Dennis",Liberal,75,Liberal,Lib,t,2194,f,2
 5,1882-06-20,ON,78,HASTINGS EAST,1646,"WHITE, John",Conservative,37,Conservative,Con,t,1386,f,1
 5,1882-06-20,ON,78,HASTINGS EAST,1647,"ASHLEY, H.",Unknown,166,Unknown,Unknown,f,1333,f,2
 5,1882-06-20,ON,79,HASTINGS NORTH,1648,"BOWELL, Hon. Mackenzie",Conservative,37,Conservative,Con,t,1408,f,1
@@ -214,10 +214,10 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 5,1882-06-20,ON,106,ONTARIO SOUTH,1702,"SMITH, Wm.",Conservative,37,Conservative,Con,t,1618,f,2
 5,1882-06-20,ON,107,ONTARIO WEST,1703,"WHELER, George",Liberal,75,Liberal,Lib,t,1793,f,1
 5,1882-06-20,ON,107,ONTARIO WEST,1704,"MAJOR, Ed.",Unknown,166,Unknown,Unknown,f,1035,f,2
-5,1882-06-20,ON,108,OTTAWA (CITY OF)-1,1706,"TASSÉ, Joseph",Conservative,37,Conservative,Con,t,1557,f,1
-5,1882-06-20,ON,108,OTTAWA (CITY OF)-1,1708,"ST. JEAN, P",Liberal,75,Liberal,Lib,t,1213,f,2
-5,1882-06-20,ON,109,OTTAWA (CITY OF)-2,1705,"MACKINTOSH, Charles H.",Conservative,37,Conservative,Con,t,1692,f,1
-5,1882-06-20,ON,109,OTTAWA (CITY OF)-2,1707,"MCINTYRE, A.F.",Liberal,75,Liberal,Lib,t,1229,f,2
+5,1882-06-20,ON,108,OTTAWA (CITY OF)-1,1705,"TASSÉ, Joseph",Conservative,37,Conservative,Con,t,1557,f,1
+5,1882-06-20,ON,108,OTTAWA (CITY OF)-1,1706,"ST. JEAN, P",Liberal,75,Liberal,Lib,t,1213,f,2
+5,1882-06-20,ON,109,OTTAWA (CITY OF)-2,1707,"MACKINTOSH, Charles H.",Conservative,37,Conservative,Con,t,1692,f,1
+5,1882-06-20,ON,109,OTTAWA (CITY OF)-2,1708,"MCINTYRE, A.F.",Liberal,75,Liberal,Lib,t,1229,f,2
 5,1882-06-20,ON,110,OXFORD NORTH,1709,"SUTHERLAND, James",Liberal,75,Liberal,Lib,t,1469,f,1
 5,1882-06-20,ON,110,OXFORD NORTH,1710,"TOWLE, Saml.",Unknown,166,Unknown,Unknown,f,1044,f,2
 5,1882-06-20,ON,110,OXFORD NORTH,1711,"PATULLO, G.R.",Unknown,166,Unknown,Unknown,f,999,f,3
@@ -281,18 +281,18 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 5,1882-06-20,ON,139,YORK NORTH,1769,"ANDERSON, Jas.",Unknown,166,Unknown,Unknown,f,1721,f,2
 5,1882-06-20,ON,140,YORK WEST,1770,"WALLACE, Nathaniel C.",Conservative,37,Conservative,Con,t,1561,f,1
 5,1882-06-20,ON,140,YORK WEST,1771,"HODGINS, Thos.",Independent,52,Independent,Ind,f,1324,f,2
-5,1882-06-20,PE,141,KING'S COUNTY-1,1773,"ROBERTSON, James Edwin",Liberal,75,Liberal,Lib,t,2002,f,1
-5,1882-06-20,PE,141,KING'S COUNTY-1,1775,"MUTTART, E.B.",Conservative,37,Conservative,Con,t,1854,f,2
-5,1882-06-20,PE,142,KING'S COUNTY-2,1772,"MCINTYRE, Peter Adolphus",Liberal,75,Liberal,Lib,t,2124,f,1
-5,1882-06-20,PE,142,KING'S COUNTY-2,1774,"MACDONALD, Augustine Colin",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1941,f,2
-5,1882-06-20,PE,143,PRINCE COUNTY-1,1777,"HACKETT, Edward",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2325,f,1
-5,1882-06-20,PE,143,PRINCE COUNTY-1,1779,"ROGERS, D.",Unknown,166,Unknown,Unknown,f,2134,f,2
-5,1882-06-20,PE,144,PRINCE COUNTY-2,1776,"YEO, James",Liberal,75,Liberal,Lib,t,2388,f,1
-5,1882-06-20,PE,144,PRINCE COUNTY-2,1778,"PERRY, Stanislaus Francis",Liberal,75,Liberal,Lib,t,2178,f,2
-5,1882-06-20,PE,145,QUEEN'S COUNTY-1,1781,"DAVIES, Louis Henry",Liberal,75,Liberal,Lib,t,3164,f,1
-5,1882-06-20,PE,145,QUEEN'S COUNTY-1,1783,"LAIRD, D.",Unknown,166,Unknown,Unknown,f,2759,f,2
-5,1882-06-20,PE,146,QUEEN'S COUNTY-2,1780,"JENKINS, John Theophilus",Liberal-Conservative,124,Progressive Conservative Party,PC,t,3122,f,1
-5,1882-06-20,PE,146,QUEEN'S COUNTY-2,1782,"BRECKEN, Frederick de Sainte-Croix",Conservative,37,Conservative,Con,t,3120,f,2
+5,1882-06-20,PE,141,KING'S COUNTY-1,1772,"ROBERTSON, James Edwin",Liberal,75,Liberal,Lib,t,2002,f,1
+5,1882-06-20,PE,141,KING'S COUNTY-1,1773,"MUTTART, E.B.",Conservative,37,Conservative,Con,t,1854,f,2
+5,1882-06-20,PE,142,KING'S COUNTY-2,1774,"MCINTYRE, Peter Adolphus",Liberal,75,Liberal,Lib,t,2124,f,1
+5,1882-06-20,PE,142,KING'S COUNTY-2,1775,"MACDONALD, Augustine Colin",Liberal-Conservative,124,Progressive Conservative Party,PC,t,1941,f,2
+5,1882-06-20,PE,143,PRINCE COUNTY-1,1776,"HACKETT, Edward",Liberal-Conservative,124,Progressive Conservative Party,PC,t,2325,f,1
+5,1882-06-20,PE,143,PRINCE COUNTY-1,1777,"ROGERS, D.",Unknown,166,Unknown,Unknown,f,2134,f,2
+5,1882-06-20,PE,144,PRINCE COUNTY-2,1778,"YEO, James",Liberal,75,Liberal,Lib,t,2388,f,1
+5,1882-06-20,PE,144,PRINCE COUNTY-2,1779,"PERRY, Stanislaus Francis",Liberal,75,Liberal,Lib,t,2178,f,2
+5,1882-06-20,PE,145,QUEEN'S COUNTY-1,1780,"JENKINS, John Theophilus",Liberal-Conservative,124,Progressive Conservative Party,PC,t,3122,f,1
+5,1882-06-20,PE,145,QUEEN'S COUNTY-1,1781,"LAIRD, D.",Unknown,166,Unknown,Unknown,f,2759,f,2
+5,1882-06-20,PE,146,QUEEN'S COUNTY-2,1782,"DAVIES, Louis Henry",Liberal,75,Liberal,Lib,t,3164,f,1
+5,1882-06-20,PE,146,QUEEN'S COUNTY-2,1783,"BRECKEN, Frederick de Sainte-Croix",Conservative,37,Conservative,Con,t,3120,f,2
 5,1882-06-20,QC,147,ARGENTEUIL,1784,"ABBOTT, Hon. John J.C.",Liberal-Conservative,124,Progressive Conservative Party,PC,t,,t,1
 5,1882-06-20,QC,148,BAGOT,1785,"MOUSSEAU, Hon. J.A.",Conservative,37,Conservative,Con,t,,t,1
 5,1882-06-20,QC,149,BEAUCE,1786,"BOLDUC, Joseph",Conservative,37,Conservative,Con,t,2153,f,1
@@ -403,9 +403,9 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 5,1882-06-20,QC,207,TWO MOUNTAINS,1891,"DAOUST, J. Bte.",Conservative,37,Conservative,Con,t,,t,1
 5,1882-06-20,QC,208,TÉMISCOUATA,1892,"GRANDBOIS, P.E.",Conservative,37,Conservative,Con,t,,t,1
 5,1882-06-20,QC,209,VAUDREUIL,1893,"MCMILLAN, Hugh",Conservative,37,Conservative,Con,t,522,f,1
-5,1882-06-20,QC,209,VAUDREUIL,1895,"LAPOINTE, Alfred",Unknown,166,Unknown,Unknown,f,490,f,2
-5,1882-06-20,QC,209,VAUDREUIL,1896,"ARCHAMBAULT, F.X.",Unknown,166,Unknown,Unknown,f,418,f,3
-5,1882-06-20,QC,209,VAUDREUIL,1894,"DESROSIERS, H.A.",Unknown,166,Unknown,Unknown,f,10,f,4
+5,1882-06-20,QC,209,VAUDREUIL,1894,"LAPOINTE, Alfred",Unknown,166,Unknown,Unknown,f,490,f,2
+5,1882-06-20,QC,209,VAUDREUIL,1895,"ARCHAMBAULT, F.X.",Unknown,166,Unknown,Unknown,f,418,f,3
+5,1882-06-20,QC,209,VAUDREUIL,1896,"DESROSIERS, H.A.",Unknown,166,Unknown,Unknown,f,10,f,4
 5,1882-06-20,QC,210,VERCHÈRES,1897,"GEOFFRION, Hon. Félix",Liberal,75,Liberal,Lib,t,885,f,1
 5,1882-06-20,QC,210,VERCHÈRES,1898,"DUCHARME, M.E.",Unknown,166,Unknown,Unknown,f,866,f,2
 5,1882-06-20,QC,211,YAMASKA,1899,"VANASSE dit VERTEFEUILLE, Fabien",Conservative,37,Conservative,Con,t,1049,f,1

@@ -97,10 +97,10 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 12,1911-09-21,NS,43,DIGBY,4685,"WALL, Allan Ellsworth",Liberal,75,Liberal,Lib,t,1866,f,2
 12,1911-09-21,NS,44,GUYSBOROUGH,4686,"SINCLAIR, John Howard",Liberal,75,Liberal,Lib,t,2043,f,1
 12,1911-09-21,NS,44,GUYSBOROUGH,4687,"ROWLINGS, George Anderson Rowe",Conservative,37,Conservative,Con,t,1700,f,2
-12,1911-09-21,NS,45,HALIFAX-1,4689,"MACLEAN, Alexander Kenneth",Liberal,75,Liberal,Lib,t,6946,f,1
-12,1911-09-21,NS,45,HALIFAX-1,4691,"CROSBY, Adam Brown",Conservative,37,Conservative,Con,t,6787,f,2
-12,1911-09-21,NS,46,HALIFAX-2,4688,"BORDEN, Robert Laird",Conservative,37,Conservative,Con,t,7040,f,1
-12,1911-09-21,NS,46,HALIFAX-2,4690,"BLACKADDER, Edward",Liberal,75,Liberal,Lib,t,6879,f,2
+12,1911-09-21,NS,45,HALIFAX-1,4688,"MACLEAN, Alexander Kenneth",Liberal,75,Liberal,Lib,t,6946,f,1
+12,1911-09-21,NS,45,HALIFAX-1,4689,"CROSBY, Adam Brown",Conservative,37,Conservative,Con,t,6787,f,2
+12,1911-09-21,NS,46,HALIFAX-2,4690,"BORDEN, Robert Laird",Conservative,37,Conservative,Con,t,7040,f,1
+12,1911-09-21,NS,46,HALIFAX-2,4691,"BLACKADDER, Edward",Liberal,75,Liberal,Lib,t,6879,f,2
 12,1911-09-21,NS,47,HANTS,4692,"TREMAIN, Hadley Brown",Conservative,37,Conservative,Con,t,2191,f,1
 12,1911-09-21,NS,47,HANTS,4693,"BLACK, Judson Burpee",Liberal,75,Liberal,Lib,t,2105,f,2
 12,1911-09-21,NS,48,INVERNESS,4694,"CHISHOLM, Alexander William",Liberal,75,Liberal,Lib,t,2928,f,1
@@ -223,10 +223,10 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 12,1911-09-21,ON,105,ONTARIO NORTH,4811,"MOWAT, Herbert Macdonald",Liberal,75,Liberal,Lib,t,1572,f,2
 12,1911-09-21,ON,106,ONTARIO SOUTH,4812,"SMITH, William",Conservative,37,Conservative,Con,t,2917,f,1
 12,1911-09-21,ON,106,ONTARIO SOUTH,4813,"FOWKE, Frederick Luther",Liberal,75,Liberal,Lib,t,2547,f,2
-12,1911-09-21,ON,107,OTTAWA (CITY OF)-1,4815,"CHABOT, John Leo",Conservative,37,Conservative,Con,t,6892,f,1
-12,1911-09-21,ON,107,OTTAWA (CITY OF)-1,4817,"PINARD, Joseph Albert",Liberal,75,Liberal,Lib,t,6366,f,2
-12,1911-09-21,ON,108,OTTAWA (CITY OF)-2,4814,"FRIPP, Alfred Ernest",Conservative,37,Conservative,Con,t,7062,f,1
-12,1911-09-21,ON,108,OTTAWA (CITY OF)-2,4816,"MCGIVERIN, Harold Buchanan",Liberal,75,Liberal,Lib,t,6540,f,2
+12,1911-09-21,ON,107,OTTAWA (CITY OF)-1,4814,"CHABOT, John Leo",Conservative,37,Conservative,Con,t,6892,f,1
+12,1911-09-21,ON,107,OTTAWA (CITY OF)-1,4815,"PINARD, Joseph Albert",Liberal,75,Liberal,Lib,t,6366,f,2
+12,1911-09-21,ON,108,OTTAWA (CITY OF)-2,4816,"FRIPP, Alfred Ernest",Conservative,37,Conservative,Con,t,7062,f,1
+12,1911-09-21,ON,108,OTTAWA (CITY OF)-2,4817,"MCGIVERIN, Harold Buchanan",Liberal,75,Liberal,Lib,t,6540,f,2
 12,1911-09-21,ON,108,OTTAWA (CITY OF)-2,4818,"MCCALLUM, Allan Gordon",Socialist,148,Socialist,Social,f,298,f,3
 12,1911-09-21,ON,109,OXFORD NORTH,4819,"NESBITT, Edward Walter",Liberal,75,Liberal,Lib,t,2898,f,1
 12,1911-09-21,ON,109,OXFORD NORTH,4820,"WALLACE, James Gamble",Conservative,37,Conservative,Con,t,2603,f,2
@@ -266,8 +266,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 12,1911-09-21,ON,127,TORONTO CENTRE,4854,"BRISTOL, Edmund",Conservative,37,Conservative,Con,t,5156,f,1
 12,1911-09-21,ON,127,TORONTO CENTRE,4855,"MACGUIRE, Charles Alfred",Liberal,75,Liberal,Lib,t,2994,f,2
 12,1911-09-21,ON,128,TORONTO EAST,4856,"KEMP, Albert Edward",Conservative,37,Conservative,Con,t,7082,f,1
-12,1911-09-21,ON,128,TORONTO EAST,4858,"RUSSELL, Joseph",Independent,52,Independent,Ind,f,2281,f,2
-12,1911-09-21,ON,128,TORONTO EAST,4857,"PEARSON, James",Liberal,75,Liberal,Lib,t,1878,f,3
+12,1911-09-21,ON,128,TORONTO EAST,4857,"RUSSELL, Joseph",Independent,52,Independent,Ind,f,2281,f,2
+12,1911-09-21,ON,128,TORONTO EAST,4858,"PEARSON, James",Liberal,75,Liberal,Lib,t,1878,f,3
 12,1911-09-21,ON,128,TORONTO EAST,4859,"RICHARDS, James",Labour,65,Labour,Labour,f,463,f,4
 12,1911-09-21,ON,129,TORONTO NORTH,4860,"FOSTER, Hon. George Eulas",Conservative,37,Conservative,Con,t,6474,f,1
 12,1911-09-21,ON,129,TORONTO NORTH,4861,"SHAW, William Henry",Liberal,75,Liberal,Lib,t,3157,f,2
@@ -298,10 +298,10 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 12,1911-09-21,PE,142,KING'S,4886,"FRASER, Austin Levi",Conservative,37,Conservative,Con,t,2524,f,2
 12,1911-09-21,PE,143,PRINCE,4887,"RICHARDS, James William",Liberal,75,Liberal,Lib,t,3529,f,1
 12,1911-09-21,PE,143,PRINCE,4888,"MURPHY, Patrick Charles",Conservative,37,Conservative,Con,t,3414,f,2
-12,1911-09-21,PE,144,QUEEN'S-1,4890,"NICHOLSON, Donald",Conservative,37,Conservative,Con,t,4308,f,1
-12,1911-09-21,PE,144,QUEEN'S-1,4892,"PROWSE, Lemuel Ezra",Liberal,75,Liberal,Lib,t,3915,f,2
-12,1911-09-21,PE,145,QUEEN'S-2,4889,"MCLEAN, Angus Alexander",Conservative,37,Conservative,Con,t,4392,f,1
-12,1911-09-21,PE,145,QUEEN'S-2,4891,"WARBURTON, Alexander Bannerman",Liberal,75,Liberal,Lib,t,4016,f,2
+12,1911-09-21,PE,144,QUEEN'S-1,4889,"NICHOLSON, Donald",Conservative,37,Conservative,Con,t,4308,f,1
+12,1911-09-21,PE,144,QUEEN'S-1,4890,"PROWSE, Lemuel Ezra",Liberal,75,Liberal,Lib,t,3915,f,2
+12,1911-09-21,PE,145,QUEEN'S-2,4891,"MCLEAN, Angus Alexander",Conservative,37,Conservative,Con,t,4392,f,1
+12,1911-09-21,PE,145,QUEEN'S-2,4892,"WARBURTON, Alexander Bannerman",Liberal,75,Liberal,Lib,t,4016,f,2
 12,1911-09-21,QC,146,ARGENTEUIL,4893,"PERLEY, George Halsey",Conservative,37,Conservative,Con,t,1824,f,1
 12,1911-09-21,QC,146,ARGENTEUIL,4894,"TANNER, Agenor Henry",Liberal,75,Liberal,Lib,t,1227,f,2
 12,1911-09-21,QC,147,BAGOT,4895,"MARCILE, Joseph-Edmond",Liberal,75,Liberal,Lib,t,1845,f,1
@@ -313,8 +313,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 12,1911-09-21,QC,150,BELLECHASSE,4901,"LAVALLEE, Joseph-Octave",Conservative,37,Conservative,Con,t,1742,f,1
 12,1911-09-21,QC,150,BELLECHASSE,4902,"TALBOT, Onésiphore-Ernest",Liberal,75,Liberal,Lib,t,1696,f,2
 12,1911-09-21,QC,151,BERTHIER,4903,"BARRETTE, Joseph Arthur",Conservative,37,Conservative,Con,t,1638,f,1
-12,1911-09-21,QC,151,BERTHIER,4905,"ECREMENT, Joseph Wilfrid Arthur",Liberal,75,Liberal,Lib,t,1612,f,2
-12,1911-09-21,QC,151,BERTHIER,4904,"DENIS, Jean Joseph",Independent,52,Independent,Ind,f,383,f,3
+12,1911-09-21,QC,151,BERTHIER,4904,"ECREMENT, Joseph Wilfrid Arthur",Liberal,75,Liberal,Lib,t,1612,f,2
+12,1911-09-21,QC,151,BERTHIER,4905,"DENIS, Jean Joseph",Independent,52,Independent,Ind,f,383,f,3
 12,1911-09-21,QC,152,BONAVENTURE,4906,"MARCIL, Hon. Charles",Liberal,75,Liberal,Lib,t,2444,f,1
 12,1911-09-21,QC,152,BONAVENTURE,4907,"MOUSSEAU, Joseph-Alfred",Conservative,37,Conservative,Con,t,1395,f,2
 12,1911-09-21,QC,153,BROME,4908,"BAKER, George Harold",Conservative,37,Conservative,Con,t,1520,f,1

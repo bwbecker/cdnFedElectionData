@@ -45,8 +45,8 @@ election_id,prov_code,ed_id,ed_name,Gov,OppConscript,Other,1st,2nd,3rd
 13,NB,44,"NORTHUMBERLAND",4648,3601,,Gov,OppConscript,Other
 13,NB,45,"RESTIGOUCHE--MADAWASKA",2271,5077,,OppConscript,Gov,Other
 13,NB,46,"ROYAL",5959,2834,,Gov,OppConscript,Other
-13,NB,47,"ST. JOHN--ALBERT-1",13611,5530,,Gov,OppConscript,Other
-13,NB,48,"ST. JOHN--ALBERT-2",13594,5694,,Gov,OppConscript,Other
+13,NB,47,"ST. JOHN--ALBERT-1",13594,5530,,Gov,OppConscript,Other
+13,NB,48,"ST. JOHN--ALBERT-2",13611,5694,,Gov,OppConscript,Other
 13,NB,49,"VICTORIA--CARLETON",,,,Other,Gov,OppConscript
 13,NB,50,"WESTMORLAND",4982,6645,,OppConscript,Gov,Other
 13,NB,51,"YORK--SUNBURY",6957,3093,,Gov,OppConscript,Other

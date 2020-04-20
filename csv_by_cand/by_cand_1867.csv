@@ -10,8 +10,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 1,1867-08-07,NB,6,GLOUCESTER,9,"ANGLIN, Hon. Timothy Warren",Liberal,75,Liberal,Lib,t,1061,f,1
 1,1867-08-07,NB,6,GLOUCESTER,10,"MEHAN, John",Unknown,166,Unknown,Unknown,f,671,f,2
 1,1867-08-07,NB,7,KENT,11,"RENAUD, Auguste",Liberal,75,Liberal,Lib,t,876,f,1
-1,1867-08-07,NB,7,KENT,13,"DES BRISAY,",Unknown,166,Unknown,Unknown,f,757,f,2
-1,1867-08-07,NB,7,KENT,12,"MCINERNAY,",Unknown,166,Unknown,Unknown,f,485,f,3
+1,1867-08-07,NB,7,KENT,12,"DES BRISAY,",Unknown,166,Unknown,Unknown,f,757,f,2
+1,1867-08-07,NB,7,KENT,13,"MCINERNAY,",Unknown,166,Unknown,Unknown,f,485,f,3
 1,1867-08-07,NB,7,KENT,14,"CUTLER,",Unknown,166,Unknown,Unknown,f,4,f,4
 1,1867-08-07,NB,8,KING'S,15,"RYAN, George",Liberal,75,Liberal,Lib,t,1303,f,1
 1,1867-08-07,NB,8,KING'S,16,"OTTY,",Unknown,166,Unknown,Unknown,f,1083,f,2
@@ -42,10 +42,10 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 1,1867-08-07,NS,21,DIGBY,41,"WADE,",Unknown,166,Unknown,Unknown,f,497,f,2
 1,1867-08-07,NS,21,DIGBY,42,"MEHAN,",Unknown,166,Unknown,Unknown,f,362,f,3
 1,1867-08-07,NS,22,GUYSBOROUGH,43,"CAMPBELL, Stewart",Anti-Confederate,9,Anti-Confederate,AntiConfed,t,,t,1
-1,1867-08-07,NS,23,HALIFAX-1,45,"JONES, Alfred",Anti-Confederate,9,Anti-Confederate,AntiConfed,t,2381,f,1
-1,1867-08-07,NS,23,HALIFAX-1,47,"SHANNON, S.L.",Unknown,166,Unknown,Unknown,f,2154,f,2
-1,1867-08-07,NS,24,HALIFAX-2,44,"POWERS, Patrick",Anti-Confederate,9,Anti-Confederate,AntiConfed,t,2367,f,1
-1,1867-08-07,NS,24,HALIFAX-2,46,"TOBIN, John",Unknown,166,Unknown,Unknown,f,2158,f,2
+1,1867-08-07,NS,23,HALIFAX-1,44,"POWERS, Patrick",Anti-Confederate,9,Anti-Confederate,AntiConfed,t,2367,f,1
+1,1867-08-07,NS,23,HALIFAX-1,45,"SHANNON, S.L.",Unknown,166,Unknown,Unknown,f,2154,f,2
+1,1867-08-07,NS,24,HALIFAX-2,46,"JONES, Alfred",Anti-Confederate,9,Anti-Confederate,AntiConfed,t,2381,f,1
+1,1867-08-07,NS,24,HALIFAX-2,47,"TOBIN, John",Unknown,166,Unknown,Unknown,f,2158,f,2
 1,1867-08-07,NS,25,HANTS,48,"HOWE, Hon. Joseph",Anti-Confederate,9,Anti-Confederate,AntiConfed,t,1530,f,1
 1,1867-08-07,NS,25,HANTS,49,"KING, Jas.",Unknown,166,Unknown,Unknown,f,956,f,2
 1,1867-08-07,NS,26,INVERNESS,50,"CAMERON, Hugh",Anti-Confederate,9,Anti-Confederate,AntiConfed,t,1186,f,1
@@ -68,8 +68,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 1,1867-08-07,ON,35,ADDINGTON,67,"SHIBLEY,",Liberal-Conservative,124,Progressive Conservative Party,PC,t,991,f,2
 1,1867-08-07,ON,35,ADDINGTON,68,"SMITH, Sir Henry",Unknown,166,Unknown,Unknown,f,2,f,3
 1,1867-08-07,ON,35,ADDINGTON,69,"PRICE,",Unknown,166,Unknown,Unknown,f,1,f,4
-1,1867-08-07,ON,35,ADDINGTON,72,"CAMERON, D.",Unknown,166,Unknown,Unknown,f,0,f,5
 1,1867-08-07,ON,35,ADDINGTON,71,"HAM,",Unknown,166,Unknown,Unknown,f,0,f,5
+1,1867-08-07,ON,35,ADDINGTON,72,"CAMERON, D.",Unknown,166,Unknown,Unknown,f,0,f,5
 1,1867-08-07,ON,35,ADDINGTON,70,"LOTT,",Unknown,166,Unknown,Unknown,f,0,f,5
 1,1867-08-07,ON,36,ALGOMA,73,"SIMPSON, Wemyss Mackenzie",Conservative,37,Conservative,Con,t,250,f,1
 1,1867-08-07,ON,36,ALGOMA,74,"BEATTY,",Unknown,166,Unknown,Unknown,f,241,f,2
@@ -229,8 +229,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 1,1867-08-07,ON,114,YORK EAST,228,"MILNE,",Unknown,166,Unknown,Unknown,f,937,f,2
 1,1867-08-07,ON,115,YORK NORTH,229,"WELLS, James Pearson",Liberal,75,Liberal,Lib,t,,t,1
 1,1867-08-07,ON,116,YORK WEST,230,"HOWLAND, Hon. William Pierce,",Liberal-Conservative,124,Progressive Conservative Party,PC,t,810,f,1
-1,1867-08-07,ON,116,YORK WEST,232,"HUBERTUS,",Unknown,166,Unknown,Unknown,f,297,f,2
-1,1867-08-07,ON,116,YORK WEST,231,"BLAIN,",Unknown,166,Unknown,Unknown,f,0,f,3
+1,1867-08-07,ON,116,YORK WEST,231,"HUBERTUS,",Unknown,166,Unknown,Unknown,f,297,f,2
+1,1867-08-07,ON,116,YORK WEST,232,"BLAIN,",Unknown,166,Unknown,Unknown,f,0,f,3
 1,1867-08-07,QC,117,ARGENTEUIL,233,"ABBOTT, Hon. John Joseph Cal",Liberal-Conservative,124,Progressive Conservative Party,PC,t,693,f,1
 1,1867-08-07,QC,117,ARGENTEUIL,234,"HUTCHINS, B.",Unknown,166,Unknown,Unknown,f,595,f,2
 1,1867-08-07,QC,118,BAGOT,235,"GENDRON, Pierre-Samuel",Conservative,37,Conservative,Con,t,1156,f,1

@@ -18,10 +18,7 @@ csvs = $(foreach e,${election_nums},csv/by_riding_${e}.csv) \
 		csv/parties.csv \
 		csv/provinces.csv
 
-jsons = $(foreach e,${election_nums},json/candidates-${e}.json) \
-		$(foreach e,${election_nums},json/ridings-${e}.json) \
-
-all:	csv_by_cand/election-2019.csv csv_by_riding/election-2019.csv json/candidates-2019.json \
+all:	csv_by_cand/election-2019.csv csv_by_riding/election-2019.csv json/ca-cand-043.json \
 		csv_other/party_summary.csv csv_other/all_elections.csv
 
 #
@@ -115,8 +112,10 @@ csv_other/party_summary.csv: sql/export_csv.sql .buildElections .rawDataLoaded
 	${PSQL} -c "\copy (SELECT * FROM _elections.party_summary()) to csv_other/party_summary.csv (FORMAT CSV, HEADER)"
 	${PSQL} -c "\copy (SELECT * FROM _elections.csv_by_election()) to csv_other/all_elections.csv (FORMAT TEXT)"
 
-json/candidates-2019.json: sql/export_json.sql .buildElections .rawDataLoaded
+# Use one typical file to trigger all of them
+json/ca-cand-043.json: sql/export_json.sql .buildElections .rawDataLoaded
 	- mkdir json json_work
+	rm json_work/*
 	${PSQL} -f sql/export_json.sql
 	echo "Exporting by JSON files"
 	${PSQL} -c "SELECT _elections.write_json()"

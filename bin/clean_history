@@ -6,7 +6,7 @@
 #
 # Usage:  clean_history.sh <IN_FILE> > OUTFILE
 
-tail +2 $1 | sed -e 's/\xe0/à/g' \
+tail +2 $1 | gsed -e 's/\xe0/à/g' \
 		-e 's/\xe1/á/g' \
 		-e 's/\xe2/â/g' \
 		-e 's/\xe7/ç/g' \

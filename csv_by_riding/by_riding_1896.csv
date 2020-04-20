@@ -28,20 +28,20 @@ election_id,prov_code,ed_id,ed_name,Con,Lib,Other,PC,1st,2nd,3rd
 8,NB,27,"YORK",3306,1764,,,Con,Lib,Other
 8,NS,28,"ANNAPOLIS",2012,1815,,,Con,Lib,Other
 8,NS,29,"ANTIGONISH",1224,1341,,,Lib,Con,Other
-8,NS,30,"CAPE BRETON-1",3630,2813,,,Con,Lib,Other
-8,NS,31,"CAPE BRETON-2",,2328,,3430,PC,Lib,Other
+8,NS,30,"CAPE BRETON-1",,2328,,3430,PC,Lib,Other
+8,NS,31,"CAPE BRETON-2",3630,2813,,,Con,Lib,Other
 8,NS,32,"COLCHESTER",2483,2306,,,Con,Lib,Other
 8,NS,33,"CUMBERLAND",3307,3462,,,Lib,Con,Other
 8,NS,34,"DIGBY",1591,1636,,,Lib,Con,Other
 8,NS,35,"GUYSBOROUGH",1455,1533,,,Lib,Con,Other
-8,NS,36,"HALIFAX-1",11786,,,,Con,Other,Lib
-8,NS,37,"HALIFAX-2",,11469,,,Lib,Other,Con
+8,NS,36,"HALIFAX-1",,11469,,,Lib,Other,Con
+8,NS,37,"HALIFAX-2",11786,,,,Con,Other,Lib
 8,NS,38,"HANTS",1803,1838,,,Lib,Con,Other
 8,NS,39,"INVERNESS",1532,1676,737,,Lib,Con,Other
 8,NS,40,"KINGS",1781,2252,,,Lib,Con,Other
 8,NS,41,"LUNENBURG",2403,2318,,,Con,Lib,Other
-8,NS,42,"PICTOU-1",3503,3337,,,Con,Lib,Other
-8,NS,43,"PICTOU-2",3577,3349,,,Con,Lib,Other
+8,NS,42,"PICTOU-1",3503,3349,,,Con,Lib,Other
+8,NS,43,"PICTOU-2",3577,3337,,,Con,Lib,Other
 8,NS,44,"RICHMOND",1078,1056,,,Con,Lib,Other
 8,NS,45,"SHELBURNE AND QUEEN'S",1932,2130,,,Lib,Con,Other
 8,NS,46,"VICTORIA",1049,877,,,Con,Lib,Other

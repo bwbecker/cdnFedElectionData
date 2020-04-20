@@ -65,8 +65,8 @@ election_id,prov_code,ed_id,ed_name,CCF,Con,Lib,Other,Reconstruct,SoCred,1st,2nd
 18,NS,64,"COLCHESTER--HANTS",,9402,9608,,1923,,Lib,Con,Reconstruct
 18,NS,65,"CUMBERLAND",,7158,7473,,2469,,Lib,Con,Reconstruct
 18,NS,66,"DIGBY--ANNAPOLIS--KINGS",,7266,13894,,1773,,Lib,Con,Reconstruct
-18,NS,67,"HALIFAX-1",,13250,24158,,6307,,Lib,Con,Reconstruct
-18,NS,68,"HALIFAX-2",,13624,23312,,5091,,Lib,Con,Reconstruct
+18,NS,67,"HALIFAX-1",,13624,24158,,6307,,Lib,Con,Reconstruct
+18,NS,68,"HALIFAX-2",,13250,23312,,5091,,Lib,Con,Reconstruct
 18,NS,69,"INVERNESS--RICHMOND",,4672,9488,,2648,,Lib,Con,Reconstruct
 18,NS,70,"PICTOU",,6513,8416,,4202,,Lib,Con,Reconstruct
 18,NS,71,"QUEENS--LUNENBURG",,9500,10238,,,,Lib,Con,Other
@@ -155,8 +155,8 @@ election_id,prov_code,ed_id,ed_name,CCF,Con,Lib,Other,Reconstruct,SoCred,1st,2nd
 18,ON,154,"YORK WEST",5049,8138,8198,,4319,,Lib,Con,CCF
 18,PE,155,"KING'S",,3510,5895,,249,,Lib,Con,Reconstruct
 18,PE,156,"PRINCE",,5063,9233,,,,Lib,Con,Other
-18,PE,157,"QUEEN'S-1",,15029,10326,,,,Con,Lib,Other
-18,PE,158,"QUEEN'S-2",,,10303,,1840,,Lib,Reconstruct,Other
+18,PE,157,"QUEEN'S-1",,,10326,,1840,,Lib,Reconstruct,Other
+18,PE,158,"QUEEN'S-2",,15029,10303,,,,Con,Lib,Other
 18,QC,159,"ARGENTEUIL",,4467,4290,,207,,Con,Lib,Reconstruct
 18,QC,160,"BEAUCE",,,15263,,1896,,Lib,Reconstruct,Other
 18,QC,161,"BEAUHARNOIS--LAPRAIRIE",,3954,10052,,,,Lib,Con,Other

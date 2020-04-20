@@ -33,8 +33,8 @@ election_id,prov_code,ed_id,ed_name,Con,Lib,Other,PC,1st,2nd,3rd
 2,NS,32,"CUMBERLAND",1911,,650,,Con,Other,Lib
 2,NS,33,"DIGBY",,,,,Other,Con,Lib
 2,NS,34,"GUYSBOROUGH",,,,,Other,Con,Lib
-2,NS,35,"HALIFAX-1",,,2430,2528,PC,Other,Con
-2,NS,36,"HALIFAX-2",,2486,2452,,Lib,Other,Con
+2,NS,35,"HALIFAX-1",,2486,2430,,Lib,Other,Con
+2,NS,36,"HALIFAX-2",,,2452,2528,PC,Other,Con
 2,NS,37,"HANTS",,,,,Other,Con,Lib
 2,NS,38,"INVERNESS",1293,,,1232,Con,PC,Other
 2,NS,39,"KINGS",,1317,713,,Lib,Other,Con

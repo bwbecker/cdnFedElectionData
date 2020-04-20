@@ -21,8 +21,8 @@ election_id,prov_code,ed_id,ed_name,AntiConfed,Con,Lib,Other,PC,1st,2nd,3rd
 1,NS,20,"CUMBERLAND",1271,1368,,,,Con,AntiConfed,Other
 1,NS,21,"DIGBY",792,,,859,,Other,AntiConfed,Con
 1,NS,22,"GUYSBOROUGH",,,,,,Other,AntiConfed,Con
-1,NS,23,"HALIFAX-1",2381,,,2154,,AntiConfed,Other,Con
-1,NS,24,"HALIFAX-2",2367,,,2158,,AntiConfed,Other,Con
+1,NS,23,"HALIFAX-1",2367,,,2154,,AntiConfed,Other,Con
+1,NS,24,"HALIFAX-2",2381,,,2158,,AntiConfed,Other,Con
 1,NS,25,"HANTS",1530,,,956,,AntiConfed,Other,Con
 1,NS,26,"INVERNESS",1186,601,,,,AntiConfed,Con,Other
 1,NS,27,"KINGS",1472,,,659,,AntiConfed,Other,Con

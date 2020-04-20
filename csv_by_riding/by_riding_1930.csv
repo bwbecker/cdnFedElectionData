@@ -52,8 +52,8 @@ election_id,prov_code,ed_id,ed_name,CCF,Con,Lib,Other,Progressive,1st,2nd,3rd
 17,NB,51,"NORTHUMBERLAND",,8095,5637,,,Con,Lib,Other
 17,NB,52,"RESTIGOUCHE--MADAWASKA",,10037,9489,,,Con,Lib,Other
 17,NB,53,"ROYAL",,8698,5774,,,Con,Lib,Other
-17,NB,54,"ST. JOHN--ALBERT-1",,16454,8371,,,Con,Lib,Other
-17,NB,55,"ST. JOHN--ALBERT-2",,16395,8595,,,Con,Lib,Other
+17,NB,54,"ST. JOHN--ALBERT-1",,16395,8595,,,Con,Lib,Other
+17,NB,55,"ST. JOHN--ALBERT-2",,16454,8371,,,Con,Lib,Other
 17,NB,56,"VICTORIA--CARLETON",,8628,5776,,,Con,Lib,Other
 17,NB,57,"WESTMORLAND",,13304,10836,,,Con,Lib,Other
 17,NB,58,"YORK--SUNBURY",,10166,4552,,,Con,Lib,Other
@@ -114,8 +114,8 @@ election_id,prov_code,ed_id,ed_name,CCF,Con,Lib,Other,Progressive,1st,2nd,3rd
 17,ON,113,"NORFOLK--ELGIN",,9419,9424,,,Lib,Con,Other
 17,ON,114,"NORTHUMBERLAND",,7495,8436,180,,Lib,Con,Other
 17,ON,115,"ONTARIO",,9646,10116,,,Lib,Con,Other
-17,ON,116,"OTTAWA (CITY OF)-1",,22579,25721,,,Lib,Con,Other
-17,ON,117,"OTTAWA (CITY OF)-2",,23166,25632,,,Lib,Con,Other
+17,ON,116,"OTTAWA (CITY OF)-1",,23166,25721,,,Lib,Con,Other
+17,ON,117,"OTTAWA (CITY OF)-2",,22579,25632,,,Lib,Con,Other
 17,ON,118,"OXFORD NORTH",,7217,6180,,,Con,Lib,Other
 17,ON,119,"OXFORD SOUTH",,5656,5711,,,Lib,Con,Other
 17,ON,120,"PARKDALE",,11713,5823,,,Con,Lib,Other
@@ -155,8 +155,8 @@ election_id,prov_code,ed_id,ed_name,CCF,Con,Lib,Other,Progressive,1st,2nd,3rd
 17,ON,154,"YORK WEST",,20843,11368,,,Con,Lib,Other
 17,PE,155,"KING'S",,4719,4391,,,Con,Lib,Other
 17,PE,156,"PRINCE",,6485,8058,,,Lib,Con,Other
-17,PE,157,"QUEEN'S-1",,9178,8767,,,Con,Lib,Other
-17,PE,158,"QUEEN'S-2",,9310,8482,,,Con,Lib,Other
+17,PE,157,"QUEEN'S-1",,9310,8482,,,Con,Lib,Other
+17,PE,158,"QUEEN'S-2",,9178,8767,,,Con,Lib,Other
 17,QC,159,"ARGENTEUIL",,4709,3940,,,Con,Lib,Other
 17,QC,160,"BAGOT",,3479,3654,,,Lib,Con,Other
 17,QC,161,"BEAUCE",,6567,12093,,,Lib,Con,Other
