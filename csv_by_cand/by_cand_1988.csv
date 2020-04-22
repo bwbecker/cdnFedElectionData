@@ -34,8 +34,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 34,1988-11-21,AB,6,CALGARY SOUTHEAST,24516,"MUTI, Dale",Liberal,75,Liberal,Lib,t,5305,f,4
 34,1988-11-21,AB,6,CALGARY SOUTHEAST,24517,"WYLIE, Dave",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,299,f,5
 34,1988-11-21,AB,6,CALGARY SOUTHEAST,24518,"NORTHRUP, Julie",No affiliation to a recognised party,52,Independent,Ind,f,77,f,6
-34,1988-11-21,AB,6,CALGARY SOUTHEAST,24520,"OTHEN, Jim",No affiliation to a recognised party,52,Independent,Ind,f,62,f,7
 34,1988-11-21,AB,6,CALGARY SOUTHEAST,24519,"CASSIDY, Douglas M.",Confederation of Regions Western Party,36,Confederation of Regions Western Party,RegionsW,f,62,f,7
+34,1988-11-21,AB,6,CALGARY SOUTHEAST,24520,"OTHEN, Jim",No affiliation to a recognised party,52,Independent,Ind,f,62,f,7
 34,1988-11-21,AB,6,CALGARY SOUTHEAST,24521,"WARMAN, Eldon",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,58,f,9
 34,1988-11-21,AB,7,CALGARY SOUTHWEST,24522,"Sparrow, Bobbie",Progressive Conservative,124,Progressive Conservative Party,PC,t,40397,f,1
 34,1988-11-21,AB,7,CALGARY SOUTHWEST,24523,"JESSOP, Janet",Reform Party of Canada,134,Reform Party,Reform,t,8316,f,2
@@ -1423,8 +1423,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 34,1988-11-21,QC,264,ROSEMONT,25905,"AUCLAIR, Sylvain",Green Party of Canada,50,Green Party,Grn,t,1383,f,6
 34,1988-11-21,QC,264,ROSEMONT,25906,"TRUDEL, Gaétan",Communist Party of Canada,31,Communist Party,Com,f,151,f,7
 34,1988-11-21,QC,264,ROSEMONT,25907,"DESJARDINS, Dollard",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,148,f,8
-34,1988-11-21,QC,264,ROSEMONT,25909,"AUGUST, Arnold",No affiliation to a recognised party,52,Independent,Ind,f,122,f,9
 34,1988-11-21,QC,264,ROSEMONT,25908,"LAROCQUE, Léo",No affiliation to a recognised party,52,Independent,Ind,f,122,f,9
+34,1988-11-21,QC,264,ROSEMONT,25909,"AUGUST, Arnold",No affiliation to a recognised party,52,Independent,Ind,f,122,f,9
 34,1988-11-21,QC,264,ROSEMONT,25910,"Deland-Gervais, Christiane",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,120,f,11
 34,1988-11-21,QC,265,SAINT-DENIS,25911,"PRUD'HOMME, Marcel",Liberal,75,Liberal,Lib,t,19928,f,1
 34,1988-11-21,QC,265,SAINT-DENIS,25912,"PROVOST, Madeleine",Progressive Conservative,124,Progressive Conservative Party,PC,t,12843,f,2

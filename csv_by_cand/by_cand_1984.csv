@@ -280,8 +280,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 33,1984-09-04,BC,47,VANCOUVER QUADRA,23313,"JONES, Diane",Independent,52,Independent,Ind,f,111,f,6
 33,1984-09-04,BC,47,VANCOUVER QUADRA,23314,"DEN OUDEN, Marco",Libertarian Party of Canada,81,Libertarian Party,Liber,f,87,f,7
 33,1984-09-04,BC,47,VANCOUVER QUADRA,23315,"BURGESS, Bill",No affiliation to a recognised party,52,Independent,Ind,f,28,f,8
-33,1984-09-04,BC,47,VANCOUVER QUADRA,23317,"WALL, T. Gaetan Feuille D'érable",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,20,f,9
 33,1984-09-04,BC,47,VANCOUVER QUADRA,23316,"SHEBIB, David Michael",Independent,52,Independent,Ind,f,20,f,9
+33,1984-09-04,BC,47,VANCOUVER QUADRA,23317,"WALL, T. Gaetan Feuille D'érable",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,20,f,9
 33,1984-09-04,BC,47,VANCOUVER QUADRA,23318,"JACKMAN, J.G. Joseph",Independent,52,Independent,Ind,f,12,f,11
 33,1984-09-04,BC,48,VANCOUVER SOUTH,23319,"FRASER, John A.",Progressive Conservative,124,Progressive Conservative Party,PC,t,25469,f,1
 33,1984-09-04,BC,48,VANCOUVER SOUTH,23320,"EMERY, Brian Ernest",New Democratic Party,100,New Democratic Party,NDP,t,10909,f,2
@@ -531,8 +531,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 33,1984-09-04,ON,107,EGLINTON--LAWRENCE,23564,"LA CAPRARA, Dan",Progressive Conservative,124,Progressive Conservative Party,PC,t,17476,f,2
 33,1984-09-04,ON,107,EGLINTON--LAWRENCE,23565,"MILLER, Marlene",New Democratic Party,100,New Democratic Party,NDP,t,6458,f,3
 33,1984-09-04,ON,107,EGLINTON--LAWRENCE,23566,"CAIN, Linda",Libertarian Party of Canada,81,Libertarian Party,Liber,f,362,f,4
-33,1984-09-04,ON,107,EGLINTON--LAWRENCE,23568,"MCDONALD, Nan",Communist Party of Canada,31,Communist Party,Com,f,219,f,5
 33,1984-09-04,ON,107,EGLINTON--LAWRENCE,23567,"KIRK, Ken",Independent,52,Independent,Ind,f,219,f,5
+33,1984-09-04,ON,107,EGLINTON--LAWRENCE,23568,"MCDONALD, Nan",Communist Party of Canada,31,Communist Party,Com,f,219,f,5
 33,1984-09-04,ON,108,ELGIN,23569,"WISE, John",Progressive Conservative,124,Progressive Conservative Party,PC,t,23302,f,1
 33,1984-09-04,ON,108,ELGIN,23570,"JOHNSON, Gary",Liberal,75,Liberal,Lib,t,6797,f,2
 33,1984-09-04,ON,108,ELGIN,23571,"HABKIRK, Bob",New Democratic Party,100,New Democratic Party,NDP,t,4646,f,3
@@ -1228,8 +1228,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 33,1984-09-04,QC,243,PAPINEAU,24261,"COMTOIS, Paul",New Democratic Party,100,New Democratic Party,NDP,t,4295,f,3
 33,1984-09-04,QC,243,PAPINEAU,24262,"JOLICOEUR, Christian",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,1925,f,4
 33,1984-09-04,QC,243,PAPINEAU,24263,"MAILLÉ, Gilles",Parti Nationaliste du Québec,108,Parti Nationaliste du Québec,NationalQc,f,1169,f,5
-33,1984-09-04,QC,243,PAPINEAU,24265,"MIREAULT, Roland",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,147,f,6
 33,1984-09-04,QC,243,PAPINEAU,24264,"DAGENAIS, Suzanne",Communist Party of Canada,31,Communist Party,Com,f,147,f,6
+33,1984-09-04,QC,243,PAPINEAU,24265,"MIREAULT, Roland",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,147,f,6
 33,1984-09-04,QC,243,PAPINEAU,24266,"GERVAIS, Gilles",Party for the Commonwealth of Canada,113,Party for the Commonwealth of Canada,CWealth,f,113,f,8
 33,1984-09-04,QC,243,PAPINEAU,24267,"LACROIX, Doris",No affiliation to a recognised party,52,Independent,Ind,f,104,f,9
 33,1984-09-04,QC,244,PONTIAC--GATINEAU--LABELLE,24268,"MOORE, Barry",Progressive Conservative,124,Progressive Conservative Party,PC,t,21754,f,1

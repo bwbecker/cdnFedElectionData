@@ -68,9 +68,9 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 1,1867-08-07,ON,35,ADDINGTON,67,"SHIBLEY,",Liberal-Conservative,124,Progressive Conservative Party,PC,t,991,f,2
 1,1867-08-07,ON,35,ADDINGTON,68,"SMITH, Sir Henry",Unknown,166,Unknown,Unknown,f,2,f,3
 1,1867-08-07,ON,35,ADDINGTON,69,"PRICE,",Unknown,166,Unknown,Unknown,f,1,f,4
+1,1867-08-07,ON,35,ADDINGTON,70,"LOTT,",Unknown,166,Unknown,Unknown,f,0,f,5
 1,1867-08-07,ON,35,ADDINGTON,71,"HAM,",Unknown,166,Unknown,Unknown,f,0,f,5
 1,1867-08-07,ON,35,ADDINGTON,72,"CAMERON, D.",Unknown,166,Unknown,Unknown,f,0,f,5
-1,1867-08-07,ON,35,ADDINGTON,70,"LOTT,",Unknown,166,Unknown,Unknown,f,0,f,5
 1,1867-08-07,ON,36,ALGOMA,73,"SIMPSON, Wemyss Mackenzie",Conservative,37,Conservative,Con,t,250,f,1
 1,1867-08-07,ON,36,ALGOMA,74,"BEATTY,",Unknown,166,Unknown,Unknown,f,241,f,2
 1,1867-08-07,ON,36,ALGOMA,75,"MACDONELL,",Unknown,166,Unknown,Unknown,f,38,f,3

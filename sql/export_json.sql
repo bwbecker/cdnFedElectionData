@@ -9,17 +9,17 @@ CREATE OR REPLACE FUNCTION _elections.json_candidates(election_id_p INT
                                                      ) RETURNS JSON
     LANGUAGE SQL
 AS $$
-SELECT json_agg(
-               json_build_object('ridingId', ed_id,
-                                 'name', cand_name,
-                                 'party', party_short_name,
-                                 'rwElected', elected,
-                                 'rwVotes', votes)
-               ORDER BY election_id, ed_id, cand_name
-           ) AS json
-  FROM _elections.results
-       JOIN _elections.parties USING (party_id)
- WHERE election_id = election_id_p
+SELECT json_build_object('candidates', json_agg(
+        json_build_object('ridingId', ed_id,
+                          'name', cand_name,
+                          'party', party_short_name,
+                          'rwElected', elected,
+                          'rwVotes', votes)
+        ORDER BY election_id, ed_id, cand_name
+    )) AS json
+FROM _elections.results
+         JOIN _elections.parties USING (party_id)
+WHERE election_id = election_id_p
 $$;
 
 
@@ -44,7 +44,7 @@ SELECT json_agg(
 $$;
 
 
-DROP FUNCTION _elections.json_elections();
+DROP FUNCTION IF EXISTS _elections.json_elections();
 CREATE OR REPLACE FUNCTION _elections.json_elections(
 ) RETURNS TABLE(election_id INT, design JSON)
     LANGUAGE SQL
@@ -54,7 +54,7 @@ WITH pRidings AS
                                                              prov_code,
                                                              ed_id,
                                                              json_build_object(
-                                                                     'riding_name', ed_name,
+                                                                     'ridingName', ed_name,
                                                                      'districtMag', 1,
                                                                      'physicalRidings',
                                                                      json_build_array(json_build_array(ed_id, 100, ed_name))) AS riding_json
@@ -92,7 +92,12 @@ WITH pRidings AS
      -- design.  Json doesn't have a native comparison function, so cast to a string to do it.  Yuck.
      sameStructure AS (
          SELECT min(election_id)               AS election_id,
-                json_agg(json_build_object('electionId', election_id, 'electionDate', election_date)
+                min(election_date)             AS first_election,
+                max(election_date)             AS last_election,
+                json_agg(json_build_object('electionId', election_id, 
+                                           'electionDate', election_date,
+                                           'candidates', 'conf/cand/ca-cand-' || to_char(election_id, 'fm000') || '.conf'
+                                           )
                          ORDER BY election_id) AS elections
          FROM provs
                   JOIN _elections.elections USING (election_id)
@@ -102,8 +107,10 @@ WITH pRidings AS
 SELECT election_id,
        json_build_object(
                'country', 'Canada',
+               'id', 'ca-sglMbr-' || to_char(election_id, 'fm000'),
+               'description', format('<div><p>Single member plurality for Canada''s elections between %s and %s.</p></div>', first_election, last_election),
                'elections', elections,
-               'numRidings', (SELECT count(DISTINCT ed_id)
+               'numPhysicalRidings', (SELECT count(DISTINCT ed_id)
                               FROM _elections.results
                               WHERE results.election_id = sameStructure.election_id),
                'provinces', provinces_json) AS json

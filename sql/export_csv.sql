@@ -47,7 +47,7 @@ SELECT election_id
        JOIN _elections.elections USING (election_id)
  WHERE election_id = election_id_p
     OR election_id_p = 0
- ORDER BY election_id, prov_code, ed_name, place
+ ORDER BY election_id, prov_code, ed_name, cand_id
 $$;
 
 

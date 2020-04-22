@@ -68,7 +68,7 @@ party_id,party_name,party_short_name,ideology_code,mainstream,first_election,las
 98,Natural Law Party of Canada,NatLaw,SglIss,f,35,37,436,"{""Natural Law Party of Canada""}"
 99,New Canada Party,NewCan,Oth,f,27,28,4,"{""New Canada Party""}"
 100,New Democratic Party,NDP,Labour,t,19,43,5422,"{N.D.P.,""NDP-New Democratic Party"",""New Democratic Party""}"
-103,Newfoundland and Labrador First Party,"","",f,40,40,3,"{""NL First Party""}"
+103,Newfoundland and Labrador First Party,NLFP,SglIss,f,40,40,3,"{""NL First Party""}"
 104,Non-Partisan League,NonPartL,Oth,f,13,13,3,"{""Non-Partisan League""}"
 105,Opposition,OppConscript,Lib,t,13,13,213,{Opposition}
 106,Opposition-Labour,OppConscriptL,Lib,f,13,13,8,{Opposition-Labour}
@@ -80,7 +80,7 @@ party_id,party_name,party_short_name,ideology_code,mainstream,first_election,las
 113,Party for the Commonwealth of Canada,CWealth,Oth,f,33,35,183,"{""Party for the Commonwealth of Canada""}"
 114,Patrons of Industry,PatronsInd,Oth,f,8,8,31,"{""Patrons of Industry""}"
 115,People's Party,PPC,Pop,f,43,43,315,"{""People's Party""}"
-116,People's Political Power Party of Canada,"","",f,40,40,2,{PPP}
+116,People's Political Power Party of Canada,PPPPC,SglIss,f,40,40,2,{PPP}
 117,Pirate Party,Pirate,Oth,f,41,42,15,"{Pirate,""Pirate Party""}"
 120,Pour l'Indépendance du Québec,IndQc,Quebec,f,43,43,13,"{""Pour l'Indépendance du Québec""}"
 121,Progressive,Progressive,Oth,t,7,17,250,{Progressive}

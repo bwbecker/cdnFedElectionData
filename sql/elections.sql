@@ -135,6 +135,7 @@ CREATE TABLE _elections.results AS (
                                        , cand_name
                                        , cand_raw_party_name
                 FROM _work.combined
+                ORDER BY election_id, prov_code, ed_id, votes, cand_name, cand_raw_party_name
                         )
     SELECT election_id::INT
          , prov_code

@@ -356,7 +356,7 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 40,2008-10-14,MB,46004,Dauphin--Swan River--Marquette,35367,"Menzies, Wendy",Liberal,75,Liberal,Lib,t,4128,f,3
 40,2008-10-14,MB,46004,Dauphin--Swan River--Marquette,35368,"Storey, Kate",Green Party,50,Green Party,Grn,t,1923,f,4
 40,2008-10-14,MB,46004,Dauphin--Swan River--Marquette,35369,"Andres, David",Christian Heritage Party,25,Christian Heritage Party,CHP,f,356,f,5
-40,2008-10-14,MB,46004,Dauphin--Swan River--Marquette,35370,"Prefontaine, Charles",PPP,116,People's Political Power Party of Canada,"",f,96,f,6
+40,2008-10-14,MB,46004,Dauphin--Swan River--Marquette,35370,"Prefontaine, Charles",PPP,116,People's Political Power Party of Canada,PPPPC,f,96,f,6
 40,2008-10-14,MB,46005,Elmwood--Transcona,35371,"Maloway, Jim",NDP-New Democratic Party,100,New Democratic Party,NDP,t,14355,f,1
 40,2008-10-14,MB,46005,Elmwood--Transcona,35372,"Steen, Thomas",Conservative,37,Conservative,Con,t,12776,f,2
 40,2008-10-14,MB,46005,Elmwood--Transcona,35373,"Penner, Wes",Liberal,75,Liberal,Lib,t,2079,f,3
@@ -401,7 +401,7 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 40,2008-10-14,MB,46012,Winnipeg North,35412,"Marion, Marcelle",Liberal,75,Liberal,Lib,t,2075,f,3
 40,2008-10-14,MB,46012,Winnipeg North,35413,"Johannson, Catharine",Green Party,50,Green Party,Grn,t,1070,f,4
 40,2008-10-14,MB,46012,Winnipeg North,35414,"Komarniski, Frank",Communist,31,Communist Party,Com,f,151,f,5
-40,2008-10-14,MB,46012,Winnipeg North,35415,"Poisson, Roger F.",PPP,116,People's Political Power Party of Canada,"",f,90,f,6
+40,2008-10-14,MB,46012,Winnipeg North,35415,"Poisson, Roger F.",PPP,116,People's Political Power Party of Canada,PPPPC,f,90,f,6
 40,2008-10-14,MB,46013,Winnipeg South,35416,"Bruinooge, Rod",Conservative,37,Conservative,Con,t,19954,f,1
 40,2008-10-14,MB,46013,Winnipeg South,35417,"Loewen, John",Liberal,75,Liberal,Lib,t,14221,f,2
 40,2008-10-14,MB,46013,Winnipeg South,35418,"Robert, Sean",NDP-New Democratic Party,100,New Democratic Party,NDP,t,4673,f,3
@@ -464,7 +464,7 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 40,2008-10-14,NL,10003,Humber--St. Barbe--Baie Verte,35475,"Byrne, Gerry",Liberal,75,Liberal,Lib,t,17956,f,1
 40,2008-10-14,NL,10003,Humber--St. Barbe--Baie Verte,35476,"Kennedy, Mark",NDP-New Democratic Party,100,New Democratic Party,NDP,t,4603,f,2
 40,2008-10-14,NL,10003,Humber--St. Barbe--Baie Verte,35477,"Robinson, Lorne",Conservative,37,Conservative,Con,t,2799,f,3
-40,2008-10-14,NL,10003,Humber--St. Barbe--Baie Verte,35478,"Bennett, Wayne Ronald",NL First Party,103,Newfoundland and Labrador First Party,"",f,964,f,4
+40,2008-10-14,NL,10003,Humber--St. Barbe--Baie Verte,35478,"Bennett, Wayne Ronald",NL First Party,103,Newfoundland and Labrador First Party,NLFP,f,964,f,4
 40,2008-10-14,NL,10004,Labrador,35479,"Russell, Todd",Liberal,75,Liberal,Lib,t,5426,f,1
 40,2008-10-14,NL,10004,Labrador,35480,"Artiss, Phyllis",NDP-New Democratic Party,100,New Democratic Party,NDP,t,1378,f,2
 40,2008-10-14,NL,10004,Labrador,35481,"Lewis, Lacey",Conservative,37,Conservative,Con,t,615,f,3
@@ -478,12 +478,12 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 40,2008-10-14,NL,10006,St. John's East,35489,"Westcott, Craig",Conservative,37,Conservative,Con,t,3836,f,3
 40,2008-10-14,NL,10006,St. John's East,35490,"Tobin, Shannon John",PC Party,122,Progressive Canadian Party,ProgCdnParty,f,578,f,4
 40,2008-10-14,NL,10006,St. John's East,35491,"Story, Howard",Green Party,50,Green Party,Grn,t,570,f,5
-40,2008-10-14,NL,10006,St. John's East,35492,"Coultas, Les",NL First Party,103,Newfoundland and Labrador First Party,"",f,347,f,6
+40,2008-10-14,NL,10006,St. John's East,35492,"Coultas, Les",NL First Party,103,Newfoundland and Labrador First Party,NLFP,f,347,f,6
 40,2008-10-14,NL,10007,St. John's South--Mount Pearl,35493,"Coady, Siobhan",Liberal,75,Liberal,Lib,t,14920,f,1
 40,2008-10-14,NL,10007,St. John's South--Mount Pearl,35494,"Cleary, Ryan",NDP-New Democratic Party,100,New Democratic Party,NDP,t,13971,f,2
 40,2008-10-14,NL,10007,St. John's South--Mount Pearl,35495,"Wiseman, Merv",Conservative,37,Conservative,Con,t,4324,f,3
 40,2008-10-14,NL,10007,St. John's South--Mount Pearl,35496,"Warren, Ted",Green Party,50,Green Party,Grn,t,643,f,4
-40,2008-10-14,NL,10007,St. John's South--Mount Pearl,35497,"Byrne, Greg",NL First Party,103,Newfoundland and Labrador First Party,"",f,402,f,5
+40,2008-10-14,NL,10007,St. John's South--Mount Pearl,35497,"Byrne, Greg",NL First Party,103,Newfoundland and Labrador First Party,NLFP,f,402,f,5
 40,2008-10-14,NL,10007,St. John's South--Mount Pearl,35498,"Butler, Terry Christopher",Independent,52,Independent,Ind,f,179,f,6
 40,2008-10-14,NS,12001,Cape Breton--Canso,35499,"Cuzner, Rodger",Liberal,75,Liberal,Lib,t,17447,f,1
 40,2008-10-14,NS,12001,Cape Breton--Canso,35500,"Murphy, Allan Richard",Conservative,37,Conservative,Con,t,8524,f,2
@@ -746,8 +746,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 40,2008-10-14,ON,35039,Kitchener--Waterloo,35757,"MacLellan, Cathy",Green Party,50,Green Party,Grn,t,7326,f,4
 40,2008-10-14,ON,35039,Kitchener--Waterloo,35758,"Cousineau, Jason",Libertarian,81,Libertarian Party,Liber,f,333,f,5
 40,2008-10-14,ON,35039,Kitchener--Waterloo,35759,"Corbiere, Mark",Independent,52,Independent,Ind,f,107,f,6
-40,2008-10-14,ON,35039,Kitchener--Waterloo,35761,"Portillo, Ramon",Communist,31,Communist Party,Com,f,105,f,7
 40,2008-10-14,ON,35039,Kitchener--Waterloo,35760,"Huntingdon, Kyle James",CAP,16,Canadian Action Party,CAP,f,105,f,7
+40,2008-10-14,ON,35039,Kitchener--Waterloo,35761,"Portillo, Ramon",Communist,31,Communist Party,Com,f,105,f,7
 40,2008-10-14,ON,35046,Lambton--Kent--Middlesex,35792,"Shipley, Bev",Conservative,37,Conservative,Con,t,24516,f,1
 40,2008-10-14,ON,35046,Lambton--Kent--Middlesex,35793,"Wesley, Jeff",Liberal,75,Liberal,Lib,t,11812,f,2
 40,2008-10-14,ON,35046,Lambton--Kent--Middlesex,35794,"Hill, Joe",NDP-New Democratic Party,100,New Democratic Party,NDP,t,7427,f,3

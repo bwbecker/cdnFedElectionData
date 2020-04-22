@@ -454,8 +454,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 32,1980-02-18,ON,98,BROADVIEW--GREENWOOD,21990,"BELEJ, Walter",Libertarian Party of Canada,81,Libertarian Party,Liber,f,352,f,4
 32,1980-02-18,ON,98,BROADVIEW--GREENWOOD,21991,"BUTTERFIELD, Vicki",Parti Rhinocéros,138,Rhinoceros Party,Rhino,f,196,f,5
 32,1980-02-18,ON,98,BROADVIEW--GREENWOOD,21992,"MCDONALD, Ed",Communist Party of Canada,31,Communist Party,Com,f,164,f,6
-32,1980-02-18,ON,98,BROADVIEW--GREENWOOD,21994,"O'DONNELL, Dorothy J.",Marxist-Leninist Party,86,Marxist-Leninist Party,Marx-Len,f,53,f,7
 32,1980-02-18,ON,98,BROADVIEW--GREENWOOD,21993,"HAYWARD, Don",No affiliation to a recognised party,52,Independent,Ind,f,53,f,7
+32,1980-02-18,ON,98,BROADVIEW--GREENWOOD,21994,"O'DONNELL, Dorothy J.",Marxist-Leninist Party,86,Marxist-Leninist Party,Marx-Len,f,53,f,7
 32,1980-02-18,ON,98,BROADVIEW--GREENWOOD,21995,"NOVICH, Milorad",Independent,52,Independent,Ind,f,40,f,9
 32,1980-02-18,ON,99,BRUCE--GREY,21996,"GURBIN, Gary M.",Progressive Conservative,124,Progressive Conservative Party,PC,t,18326,f,1
 32,1980-02-18,ON,99,BRUCE--GREY,21997,"SCHWASS, Rodger D.",Liberal,75,Liberal,Lib,t,15735,f,2
@@ -1066,8 +1066,8 @@ election_id,election_date,prov_code,ed_id,ed_name,cand_id,cand_name,cand_raw_par
 32,1980-02-18,QC,215,HOCHELAGA--MAISONNEUVE,22602,"HÉBERT, Roger",Social Credit Party of Canada,143,Social Credit Party,SoCred,t,873,f,5
 32,1980-02-18,QC,215,HOCHELAGA--MAISONNEUVE,22603,"COTÉ, Robert",No affiliation to a recognised party,52,Independent,Ind,f,286,f,6
 32,1980-02-18,QC,215,HOCHELAGA--MAISONNEUVE,22604,"BEAUDOIN, Jacques",Independent,52,Independent,Ind,f,200,f,7
-32,1980-02-18,QC,215,HOCHELAGA--MAISONNEUVE,22606,"CHENIER, Pierre",Marxist-Leninist Party,86,Marxist-Leninist Party,Marx-Len,f,98,f,8
 32,1980-02-18,QC,215,HOCHELAGA--MAISONNEUVE,22605,"MORISSETTE, Sylvain",Union Populaire,155,Union Populaire,UnionPop,f,98,f,8
+32,1980-02-18,QC,215,HOCHELAGA--MAISONNEUVE,22606,"CHENIER, Pierre",Marxist-Leninist Party,86,Marxist-Leninist Party,Marx-Len,f,98,f,8
 32,1980-02-18,QC,216,HULL,22607,"ISABELLE, Gaston",Liberal,75,Liberal,Lib,t,27938,f,1
 32,1980-02-18,QC,216,HULL,22608,"LÉGÈRE, Michel",New Democratic Party,100,New Democratic Party,NDP,t,10059,f,2
 32,1980-02-18,QC,216,HULL,22609,"LEFEBVRE, Ronald",Progressive Conservative,124,Progressive Conservative Party,PC,t,2167,f,3
