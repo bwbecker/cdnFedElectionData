@@ -4,12 +4,13 @@ raw39 = $(wildcard rawData/election_39/pollresults*)
 raw40 = $(wildcard rawData/election_40/pollresults*)
 raw41 = $(wildcard rawData/election_41/pollresults*)
 raw42 = $(wildcard rawData/election_42/pollresults*)
+raw43 = $(wildcard rawData/election_43/pollresults*)
 
-recentElections := 39 40 41 42
+recentElections := 39 40 41 42 43
 recentCSVs = $(foreach e,$(recentElections),work/election_$(e).csv)
-rawDataCSVs = ${recentCSVs} work/history.csv work/preliminary.csv 
+rawDataCSVs = ${recentCSVs} work/history.csv #work/preliminary.csv
 
-preliminary = rawData/preliminary_43.csv
+#preliminary = rawData/preliminary_43.csv
 
 election_nums := 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 \
 	21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43
@@ -45,8 +46,8 @@ work/election_%.csv: $${raw%}  bin/clean_combine_polls
 work/history.csv: rawData/History_Federal_Electoral_Ridings.csv bin/clean_history
 	bin/clean_history $< > $@
 
-work/preliminary.csv: ${preliminary}
-	grep -E -e "[0-9]{5}\t.*" $< > $@
+# work/preliminary.csv: ${preliminary}
+# 	grep -E -e "[0-9]{5}\t.*" $< > $@
 
 
 .rawDataLoaded:	${rawDataCSVs} sql/createRawDbTables.sql
@@ -67,15 +68,16 @@ work/preliminary.csv: ${preliminary}
 	${PSQL} -c "\copy _work.recent from 'work/election_40.csv' (FORMAT csv)"
 	${PSQL} -c "\copy _work.recent from 'work/election_41.csv' (FORMAT csv)"
 	${PSQL} -c "\copy _work.recent from 'work/election_42.csv' (FORMAT csv)"
+	${PSQL} -c "\copy _work.recent from 'work/election_43.csv' (FORMAT csv)"
 
 	echo "Updating _work.recent.merge_with"
 	${PSQL} -c "UPDATE _work.recent SET merge_with = NULL WHERE merge_with = ''"
 
 
-	# Load Preliminary data
-	echo "Loading raw data from work/preliminary.csv"
-	${PSQL} -c "TRUNCATE _work.preliminary" \
-			-c "\copy _work.preliminary from work/preliminary.csv"
+# 	# Load Preliminary data
+# 	echo "Loading raw data from work/preliminary.csv"
+# 	${PSQL} -c "TRUNCATE _work.preliminary" \
+# 			-c "\copy _work.preliminary from work/preliminary.csv"
 
 	touch .rawDataLoaded
 

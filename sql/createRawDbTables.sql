@@ -1,72 +1,75 @@
-
-\set ON_ERROR_STOP 'on'
+\SET ON_ERROR_STOP 'on'
 
 -- Create the DB tables to hold the raw data.
 
 
 DROP TABLE IF EXISTS _work.recent CASCADE;
-CREATE TABLE _work.recent (
-	election_id INT NOT NULL,
-	ed_id	INT NOT NULL,
-	ed_name TEXT NOT NULL,
-	ed_name_fr TEXT NOT NULL,
-	poll_id TEXT NOT NULL,
-	poll_name TEXT NOT NULL,
-	poll_void BOOLEAN NOT NULL,
-	poll_not_held BOOLEAN NOT NULL,
-	merge_with TEXT,
-	ballots_rejected INT NOT NULL,
-	num_electors INT NOT NULL,
-	cand_last TEXT NOT NULL,
-	cand_middle TEXT NOT NULL,
-	cand_first TEXT NOT NULL,
-	cand_raw_party_name TEXT NOT NULL,
-	cand_party_fr TEXT NOT NULL,
-	cand_incumbent BOOLEAN NOT NULL,
-	elected BOOLEAN NOT NULL,
-	votes INT NOT NULL
+CREATE TABLE _work.recent
+(
+    election_id         INT     NOT NULL,
+    ed_id               INT     NOT NULL,
+    ed_name             TEXT    NOT NULL,
+    ed_name_fr          TEXT    NOT NULL,
+    poll_id             TEXT    NOT NULL,
+    poll_name           TEXT    NOT NULL,
+    poll_void           BOOLEAN NOT NULL,
+    poll_not_held       BOOLEAN NOT NULL,
+    merge_with          TEXT,
+    ballots_rejected    INT     NOT NULL,
+    num_electors        INT     NOT NULL,
+    cand_last           TEXT    NOT NULL,
+    cand_middle         TEXT    NOT NULL,
+    cand_first          TEXT    NOT NULL,
+    cand_raw_party_name TEXT    NOT NULL,
+    cand_party_fr       TEXT    NOT NULL,
+    cand_incumbent      BOOLEAN NOT NULL,
+    elected             BOOLEAN NOT NULL,
+    votes               INT     NOT NULL
 );
 
 
 DROP TABLE IF EXISTS _work.history CASCADE;
-CREATE TABLE _work.history (
-	election_date TEXT NOT NULL,
-	election_type TEXT NOT NULL,
-	election_id INT NOT NULL,
-	province TEXT NOT NULL,
-	ed_name TEXT NOT NULL,
-	cand_last TEXT NOT NULL,
-	cand_first TEXT,
-	cand_gender TEXT,
-	cand_occupation TEXT,
-	cand_raw_party_name TEXT NOT NULL,
-	votes_raw TEXT,
-	votes_pct REAL,
-	elected BOOLEAN NOT NULL
+CREATE TABLE _work.history
+(
+    election_date       TEXT    NOT NULL,
+    election_type       TEXT    NOT NULL,
+    election_id         INT     NOT NULL,
+    province            TEXT    NOT NULL,
+    ed_name             TEXT    NOT NULL,
+    cand_last           TEXT    NOT NULL,
+    cand_first          TEXT,
+    cand_gender         TEXT,
+    cand_occupation     TEXT,
+    cand_raw_party_name TEXT    NOT NULL,
+    votes_raw           TEXT,
+    votes_pct           REAL,
+    elected             BOOLEAN NOT NULL
 );
 
 DROP TABLE IF EXISTS _work.preliminary CASCADE;
-CREATE TABLE _work.preliminary (
-	ed_id INT NOT NULL,
-	ed_name TEXT NOT NULL,
-	ed_name_fr TEXT NOT NULL,
-	result_type TEXT NOT NULL,
-	result_type_fr TEXT NOT NULL,
-	cand_last TEXT NOT NULL,
-	cand_middle TEXT,
-	cand_first TEXT NOT NULL,
-	cand_raw_party_name TEXT NOT NULL,
-	cand_party_name_fr TEXT NOT NULL,
-	votes INT NOT NULL,
-	votes_pct REAL NOT NULL,
-	ballots_rejected INT NOT NULL,
-	total_ballots_cast INT NOT NULL
+CREATE TABLE _work.preliminary
+(
+    ed_id               INT  NOT NULL,
+    ed_name             TEXT NOT NULL,
+    ed_name_fr          TEXT NOT NULL,
+    result_type         TEXT NOT NULL,
+    result_type_fr      TEXT NOT NULL,
+    cand_last           TEXT NOT NULL,
+    cand_middle         TEXT,
+    cand_first          TEXT NOT NULL,
+    cand_raw_party_name TEXT NOT NULL,
+    cand_party_name_fr  TEXT NOT NULL,
+    votes               INT  NOT NULL,
+    votes_pct           REAL NOT NULL,
+    ballots_rejected    INT  NOT NULL,
+    total_ballots_cast  INT  NOT NULL
 );
 
 
 
 DROP TABLE IF EXISTS _work.party_name_normalization;
-CREATE TABLE _work.party_name_normalization (
+CREATE TABLE _work.party_name_normalization
+(
     cand_raw_party_name TEXT NOT NULL,
     party_name          TEXT NOT NULL,
     PRIMARY KEY (cand_raw_party_name)
@@ -302,7 +305,8 @@ VALUES ('AACEV Party of Canada', 'AACEV Party of Canada'),
 
 
 DROP TABLE IF EXISTS _work.parties;
-CREATE TABLE _work.parties (
+CREATE TABLE _work.parties
+(
     party_id         INT  NOT NULL,
     party_name       TEXT NOT NULL,
     party_short_name TEXT NOT NULL,
@@ -311,7 +315,7 @@ CREATE TABLE _work.parties (
     PRIMARY KEY (party_id)
 );
 
-CREATE UNIQUE INDEX parties_pk ON _work.parties(party_name);
+CREATE UNIQUE INDEX parties_pk ON _work.parties (party_name);
 COMMENT ON TABLE _work.parties IS 'Party names and other info.';
 
 INSERT INTO _work.parties (party_id, party_name, party_short_name, ideology_code)
@@ -440,9 +444,10 @@ VALUES (1, 'AACEV Party of Canada', 'AACEV', 'Oth'),
 ;
 
 DROP TABLE IF EXISTS _work.prov_lookup CASCADE;
-CREATE TABLE _work.prov_lookup (
-    raw_prov_code  TEXT NOT NULL,
-    prov_code TEXT NOT NULL,
+CREATE TABLE _work.prov_lookup
+(
+    raw_prov_code TEXT NOT NULL,
+    prov_code     TEXT NOT NULL,
 
     PRIMARY KEY (raw_prov_code)
 );
@@ -478,5 +483,66 @@ VALUES ('48', 'AB'),
        ('Prince Edward Island', 'PE'),
        ('Ontario', 'ON'),
        ('Nova Scotia', 'NS')
-       ;
+;
 
+
+-- There are some electoral districts with slightly differing names (after upper-casing them).
+-- Map to a standard spelling.
+DROP TABLE IF EXISTS _work.ed_lookup CASCADE;
+CREATE TABLE _work.ed_lookup
+(
+    prov_code   TEXT NOT NULL,
+    raw_ed_name TEXT NOT NULL,
+    ed_name     TEXT NOT NULL,
+
+    PRIMARY KEY (prov_code, raw_ed_name)
+);
+
+
+INSERT INTO _work.ed_lookup (prov_code, raw_ed_name, ed_name)
+VALUES ('AB', 'ATHABASKA', 'ATHABASCA'),
+       ('NB', 'BEAUSéJOUR', 'BEAUSÉJOUR'),
+       -- 'Royal' for elections 13-27, 'Fundy--Royal' for elections 28-37, 'Fundy' for election 38,
+       -- and then 'Fundy Royal' for elections 39-43.  Merging the last 3.
+       ('NB', 'FUNDY', 'FUNDY ROYAL'),
+       ('NB', 'FUNDY--ROYAL', 'FUNDY ROYAL'),
+       ('ON', 'LEEDS--GRENVILLE--THOUSAND ISLANDS AND RIDEAU LAKES', 'LEEDS-GRENVILLE-THOUSAND ISLANDS AND RIDEAU LAKES'),
+       ('ON', 'OTTAWA--ORLéANS', 'OTTAWA--ORLÉANS'),
+       ('QC', 'ABITIBI--TéMISCAMINGUE', 'ABITIBI--TÉMISCAMINGUE'),
+       ('QC', 'BAS-RICHELIEU--NICOLET--BéCANCOUR', 'BAS-RICHELIEU--NICOLET--BÉCANCOUR'),
+       ('QC', 'CHâTEAUGUAY--SAINT-CONSTANT', 'CHÂTEAUGUAY--SAINT-CONSTANT'),
+       ('QC', 'GASPéSIE--ÎLES-DE-LA-MADELEINE', 'GASPÉSIE--ÎLES-DE-LA-MADELEINE'),
+       ('QC', 'GASPéSIE--LES ÎLES-DE-LA-MADELEINE', 'GASPÉSIE--ÎLES-DE-LA-MADELEINE'),
+       ('QC', 'HONORé-MERCIER', 'HONORÉ-MERCIER'),
+       ('QC', 'JONQUIèRE', 'JONQUIÈRE'),
+       ('QC', 'JONQUIèRE--ALMA', 'JONQUIÈRE--ALMA'),
+       ('QC', 'LOTBINIèRE--CHUTES-DE-LA-CHAUDIèRE', 'LOTBINIÈRE--CHUTES-DE-LA-CHAUDIÈRE'),
+       ('QC', 'LOUIS-HéBERT', 'LOUIS-HÉBERT'),
+       ('QC', 'LéVIS--BELLECHASSE', 'LÉVIS--BELLECHASSE'),
+       ('QC', 'MARC-AURèLE-FORTIN', 'MARC-AURÈLE-FORTIN'),
+       ('QC', 'MéGANTIC--L''ÉRABLE', 'MÉGANTIC--L''ÉRABLE'),
+       ('QC', 'QUéBEC', 'QUÉBEC'),
+       ('QC', 'QUÉBEC EAST', 'QUÉBEC-EST'),
+       ('QC', 'RIVIèRE-DU-NORD', 'RIVIÈRE-DU-NORD'),
+       ('QC', 'ROSEMONT--LA PETITE-PATRIE', 'ROSEMONT--PETITE-PATRIE'),
+       ('QC', 'SAINT-LéONARD--SAINT-MICHEL', 'SAINT-LÉONARD--SAINT-MICHEL'),
+       ('QC', 'SHERBROOKE (TOWN OF)', 'SHERBROOKE'),
+       ('QC', 'ST. ANNE', 'ST. ANN'),
+       ('QC', 'ST. HENRI', 'SAINT-HENRI'),
+       ('QC', 'ST. HENRY', 'SAINT-HENRI'),
+       ('QC', 'ST-HENRI', 'SAINT-HENRI'),
+       ('QC', 'ST-DENIS', 'ST. DENIS'),
+       ('QC', 'ST. ANTOINE--WESTMOUNT', 'SAINT-ANTOINE--WESTMOUNT'),
+       ('QC', 'ST. DENIS', 'SAINT-DENIS'),
+       ('QC', 'SAINT-HYACINTHE', 'ST. HYACINTHE'),
+       ('QC', 'SAINT-HYACINTHE--BAGOT', 'ST. HYACINTHE--BAGOT'),
+       ('QC', 'SAINT MAURICE', 'SAINT-MAURICE'),
+       ('QC', 'THREE RIVERS AND ST. MAURICE', 'THREE RIVERS--ST. MAURICE'),
+       ('QC', 'TROIS-RIVIèRES', 'TROIS-RIVIÈRES'),
+       ('QC', 'THREE RIVERS', 'TROIS-RIVIÈRES'),
+       ('QC', 'VAUDREUIL-SOULANGES', 'VAUDREUIL--SOULANGES'),
+       ('QC', 'VERCHèRES--LES PATRIOTES', 'VERCHÈRES--LES PATRIOTES'),
+       ('SK', 'REGINA CITY', 'REGINA'),
+       ('SK', 'SASKATOON CITY', 'SASKATOON'),
+       ('YK', 'YUKON--MACKENZIE RIVER', 'YUKON')
+;
