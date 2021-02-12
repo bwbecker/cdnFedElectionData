@@ -86,6 +86,8 @@ work/history.csv: rawData/History_Federal_Electoral_Ridings.csv bin/clean_histor
 .buildElections: .rawDataLoaded sql/rawDataViews.sql sql/elections.sql sql/checks.sql
 	echo "Creating raw data views"
 	${PSQL} -f sql/rawDataViews.sql
+	echo "Creating view for electoral district names"
+	${PSQL} -f sql/ed_normalize.sql
 	echo "Creating consolidated elections table"
 	${PSQL} -f sql/elections.sql
 	echo "Diffs should be zero"

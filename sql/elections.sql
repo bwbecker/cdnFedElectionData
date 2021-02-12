@@ -1,9 +1,9 @@
-
-\set ON_ERROR_STOP 'on'
+\SET ON_ERROR_STOP 'on'
 
 
 DROP TABLE IF EXISTS _elections.elections CASCADE;
-CREATE TABLE _elections.elections (
+CREATE TABLE _elections.elections
+(
     election_id   INT NOT NULL,
     election_date DATE,
 
@@ -58,59 +58,56 @@ VALUES (1, '1867-08-07'),
 
 
 
-
-
 DROP TABLE IF EXISTS _elections.provinces;
 CREATE TABLE _elections.provinces AS (
     SELECT prov_code, raw_prov_code AS prov_name
-      FROM _work.prov_lookup
-     WHERE raw_prov_code !~ '[0-9]+'
-     ORDER BY prov_code
-                                     );
+    FROM _work.prov_lookup
+    WHERE raw_prov_code !~ '[0-9]+'
+    ORDER BY prov_code
+);
 
 
-CREATE UNIQUE INDEX provinces_pk ON _elections.provinces(
-                                                         prov_code
+CREATE UNIQUE INDEX provinces_pk ON _elections.provinces (
+                                                          prov_code
     );
 
 DROP TABLE IF EXISTS _elections.parties;
 CREATE TABLE _elections.parties AS (
-      WITH ms_parties AS (
-          -- This seems like way more work than should be necessary just to calculate whether
-          -- a party attained 5% of the vote in some election.
-          SELECT DISTINCT ON (party_id) party_id
-                                      , pct > 5 AND (party_short_name NOT IN ('Ind', 'Unknown')) AS mainstream
-            FROM (
-                SELECT *, round(party_votes / election_votes * 100) AS pct
-                  FROM (
-                           SELECT election_id
-                                , party_id
-                                , party_short_name
-                                , party_votes
-                                , sum(party_votes) OVER (PARTITION BY election_id) AS election_votes
-                             FROM (
-                                      SELECT election_id
-                                           , party_id
-                                           , party_short_name
-                                           , sum(votes) AS party_votes
-                                        FROM _work.  combined
-                                            WHERE NOT acclaimed
-                                            GROUP BY election_id
-                                           ,         party_id
-                                           ,         party_short_name
-                                  ) AS foo
-                       ) AS foo
-                 ) AS    foo
-                ORDER BY party_id
-               ,         pct DESC
-                         )
+    WITH ms_parties AS (
+        -- This seems like way more work than should be necessary just to calculate whether
+        -- a party attained 5% of the vote in some election.
+        SELECT DISTINCT ON (party_id) party_id
+                                    , pct > 5 AND (party_short_name NOT IN ('Ind', 'Unknown')) AS mainstream
+        FROM (
+                 SELECT *, ROUND(party_votes / election_votes * 100) AS pct
+                 FROM (
+                          SELECT election_id
+                               , party_id
+                               , party_short_name
+                               , party_votes
+                               , SUM(party_votes) OVER (PARTITION BY election_id) AS election_votes
+                          FROM (
+                                   SELECT election_id
+                                        , party_id
+                                        , party_short_name
+                                        , SUM(votes) AS party_votes
+                                   FROM _work.combined
+                                   WHERE NOT acclaimed
+                                   GROUP BY election_id
+                                          , party_id
+                                          , party_short_name
+                               ) AS foo
+                      ) AS foo
+             ) AS foo
+        ORDER BY party_id
+               , pct DESC
+    )
 
     SELECT *
-      FROM _work.parties
-           JOIN ms_parties USING (party_id)
-                                   );
-CREATE UNIQUE INDEX parties_pk ON _elections.parties(party_id);
-
+    FROM _work.parties
+             JOIN ms_parties USING (party_id)
+);
+CREATE UNIQUE INDEX parties_pk ON _elections.parties (party_id);
 
 
 /*
@@ -119,28 +116,29 @@ CREATE UNIQUE INDEX parties_pk ON _elections.parties(party_id);
  */
 DROP TABLE IF EXISTS _elections.results CASCADE;
 CREATE TABLE _elections.results AS (
-      WITH
+    WITH
 
-          -- Assign each candidate an ID number.
-          candidates AS (
-              SELECT DISTINCT ON (election_id, prov_code
-                  , ed_id, votes, cand_name
-                  , cand_raw_party_name) election_id
-                                       , prov_code
-                                       , ed_id
-                                       , row_number()
-                                         OVER () AS cand_id
-                                       ,
-                          rank() OVER (PARTITION BY election_id, prov_code, ed_id ORDER BY votes DESC) AS place
-                                       , cand_name
-                                       , cand_raw_party_name
-                FROM _work.combined
-                ORDER BY election_id, prov_code, ed_id, votes, cand_name, cand_raw_party_name
-                        )
+        -- Assign each candidate an ID number.
+        candidates AS (
+            SELECT DISTINCT ON (election_id, prov_code
+                , ed_id, votes, cand_name
+                , cand_raw_party_name) election_id
+                                     , prov_code
+                                     , ed_id
+                                     , ROW_NUMBER()
+                                       OVER ()                                                                      AS cand_id
+                                     , RANK()
+                                       OVER (PARTITION BY election_id, prov_code, ed_id ORDER BY votes DESC)        AS place
+                                     , cand_name
+                                     , cand_raw_party_name
+            FROM _work.combined
+            ORDER BY election_id, prov_code, ed_id, votes, cand_name, cand_raw_party_name
+        )
     SELECT election_id::INT
-         , prov_code
-         , ed_id::INT
-         , ed_name
+         , combined.prov_code
+         , ed_ids.ed_id
+         , ed_name           AS ed_name_original
+         , ed_name_canonical AS ed_name
          , cand_id::INT
          , cand_name
          , cand_raw_party_name
@@ -149,14 +147,16 @@ CREATE TABLE _elections.results AS (
          , acclaimed
          , votes::INT
          , place::INT
-      FROM _work.combined
-           LEFT JOIN candidates USING (election_id, prov_code, ed_id, cand_name, cand_raw_party_name)
-                                     )
+    FROM _work.combined
+             LEFT JOIN candidates USING (election_id, prov_code, ed_id, cand_name, cand_raw_party_name)
+             LEFT JOIN _work.ed_ids ON (ed_ids.prov_code = combined.prov_code AND
+                                        ed_ids.ed_lookup = UPPER(normalize(combined.ed_name)))
+)
 ;
 
 
-CREATE UNIQUE INDEX results_pk ON _elections.results(
-                                                         election_id, prov_code, ed_id, cand_id
+CREATE UNIQUE INDEX results_pk ON _elections.results (
+                                                      election_id, prov_code, ed_id, cand_id
     );
 
 

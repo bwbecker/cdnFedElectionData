@@ -11,6 +11,9 @@ a CSV with province codes and another with party codes.
 Please see the documentation and data files at my 
 [Election Modelling](http://election-modelling.ca/rawdata/) web site.
 
+Raw data is in `/rawData`.  Elections 1 - 40 are in in one huge CSV file, `History_Federal_Election_Ridings.csv`
+downloaded from the Open Data Portal.  Elections 39 - 43 are in a finer level of detail and
+are found in `/rawData/election_XX` where `XX` is the election number.
 
 ## Process
 
@@ -21,8 +24,8 @@ If you'd like to clone the project and hack on it yourself...
 2. A Postgresql database
 
 ### Workflow
-The overall process is controlled by the makefile.  It proceeds in
-several steps:
+The overall process is controlled by the makefile.  The `makefile` is not my finest work,
+unfortunately.  It proceeds in several steps:
 
 ####
 Create a database in postgres.
