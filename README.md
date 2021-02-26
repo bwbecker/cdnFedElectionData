@@ -46,3 +46,32 @@ general, this includes:
     1. Normalizing party information and province codes.
 1. Create the final tables in the `_elections` schema.
 1. Extracting the CSV files.
+
+
+## To Do
+I think this should be viewed as a prototype in light of what I've learned with 
+the safe seats project, in particular.
+
+Observations to address:
+* My `makefile` sucks.  I'd much prefer working in Scala for tasks that need
+  more than SQL.  I wonder if it's time to learn and leverage 
+  [Mill](https://github.com/com-lihaoyi/mill).
+  
+* There should be at least one more schema:
+  
+  * `_work`: For initial construction work.  Not to be used for production.
+    
+  * `_raw`: Data that is as close to Elections Canada as I can reasonable get.  No 
+    introduced identifiers, no merging of entities like candidates or ridings or ....
+    
+  * `_clean`: The final, fully normalized, schema.  Combine ridings, parties,
+    candidates, etc. where possible.  Assign meaningful IDs.
+    
+* When assigning IDs, the process should be designed so that new data can be added
+  without reassigning previous IDs.  I think the best way to do that is to sort
+  the potential things to assign by the first election in which they appeared
+  and then assign IDs in increasing order.  Thus new entities will appear at the
+  end of that list.
+  
+* It would be good to get another set of eyes on some of the work with parties.
+  In particular, assignment of ideology codes and maybe which ones to combine.
